@@ -3,7 +3,7 @@
 
 1. Nuchal plate with posterodorsally placed paired pits (f.lv of Goujet, 1984): absent (0), present (1).
 
-> Carr (2010), Character 1; Rücklin et al.(2015), Character 1; Zhu Y et al.(2015), Character 1; Jobbins et al. (2022), Character 1.
+> Carr (2010), Character 1; Rücklin et al. (2015), Character 1; Zhu Y et al. (2015), Character 1; Jobbins et al. (2022), Character 1.
 
 2. Posterolateral extension of the lateral consolidated arch: extends as a distinct ridge or thickening onto postmarginal plate, or to the skull roof edge if the postmarginal plate is absent (0); present (1).
 
@@ -15,317 +15,317 @@
 
 4. Neurocranial process or thickening (character 16, in part, of Dennis & Miles, 1979b): absent (0); thickening (1); distinct process (2).
 
-Dennis and Miles(1979b), Character 16, in part; Carr (2010), Character 4; Rücklin et al.(2015), Character 4; Zhu Y et al.(2015), Character 4; Jobbins et al. (2022), Character 4.
+> Dennis and Miles(1979b), Character 16, in part; Carr (2010), Character 4; Rücklin et al.(2015), Character 4; Zhu Y et al.(2015), Character 4; Jobbins et al. (2022), Character 4.
 
 5. Rostral plate posterior development: not developed (0); subtriangular (1); T-shaped (2).
 
-Carr (2010), Character 5; Rücklin et al.(2015), Character 5; Zhu Y et al.(2015), Character 5; Jobbins et al. (2022), Character 5.
+> Carr (2010), Character 5; Rücklin et al.(2015), Character 5; Zhu Y et al.(2015), Character 5; Jobbins et al. (2022), Character 5.
 
 6. Anterior elongation of the rostrum: absent (0); present (1).
 
-Dennis and Miles (1979b), Character 3; Long (1988): characters 4, 12, and 16; Carr (2010), Character 6; Rücklin et al.(2015), Character 6; Zhu Y et al.(2015), Character 6; Jobbins et al. (2022), Character 6.
+> Dennis and Miles (1979b), Character 3; Long (1988): characters 4, 12, and 16; Carr (2010), Character 6; Rücklin et al.(2015), Character 6; Zhu Y et al.(2015), Character 6; Jobbins et al. (2022), Character 6.
 
 7. Ventrally enclosed tubular rostrum: absent (0); present (1).
 
-Carr (2010), Character 7; Rücklin et al.(2015), Character 7; Zhu Y et al.(2015), Character 7; Jobbins et al. (2022), Character 7.
+> Carr (2010), Character 7; Rücklin et al.(2015), Character 7; Zhu Y et al.(2015), Character 7; Jobbins et al. (2022), Character 7.
 
 8. Position of anterior edge of pineal plate: over orbit (0); anterior to orbit (1).
 
-Carr (2010), Character 8; Rücklin et al.(2015), Character 8; Zhu Y et al.(2015), Character 8; Jobbins et al. (2022), Character 8.
+> Carr (2010), Character 8; Rücklin et al.(2015), Character 8; Zhu Y et al.(2015), Character 8; Jobbins et al. (2022), Character 8.
 
 9. Position of posterior edge of pineal plate: over orbit (0); posterior to orbit (1).
 
-Carr (2010), Character 9; Rücklin et al.(2015), Character 9; Zhu Y et al.(2015), Character 9; Jobbins et al. (2022), Character 9.
+> Carr (2010), Character 9; Rücklin et al.(2015), Character 9; Zhu Y et al.(2015), Character 9; Jobbins et al. (2022), Character 9.
 
 10. Shape of the external anterior nuchal border: straight (0); convex (1); concave (2).
 
-Carr (2010), Character 10; Rücklin et al.(2015), Character 10; Zhu Y et al.(2015), Character 10; Jobbins et al. (2022), Character 10.
+> Carr (2010), Character 10; Rücklin et al.(2015), Character 10; Zhu Y et al.(2015), Character 10; Jobbins et al. (2022), Character 10.
 
 11. Shape of the posterior nuchal border: straight (0); convex (1); concave (2).
 
-Carr (2010), Character 11; Rücklin et al.(2015), Character 11; Zhu Y et al.(2015), Character 11; Jobbins et al. (2022), Character 11.
+> Carr (2010), Character 11; Rücklin et al.(2015), Character 11; Zhu Y et al.(2015), Character 11; Jobbins et al. (2022), Character 11.
 
 12. Nuchal thickening (Lelièvre, 1988): discontinuous with the lateral thickening associated with the cranio-thoracic dermal articulation (0); continuous thickening across the posterior skull roof (1).
 
-Carr (2010), Character 12; Rücklin et al.(2015), Character 12; Zhu Y et al.(2015), Character 12; Jobbins et al. (2022), Character 12.
+> Carr (2010), Character 12; Rücklin et al.(2015), Character 12; Zhu Y et al.(2015), Character 12; Jobbins et al. (2022), Character 12.
 
 13. Preorbital plate embayment of the central plate: absent (0); shallow (1); developed (2).
 
-Carr (2010), Character 13; Rücklin et al.(2015), Character 13; Zhu Y et al.(2015), Character 13; Jobbins et al. (2022), Character 13.
+> Carr (2010), Character 13; Rücklin et al.(2015), Character 13; Zhu Y et al.(2015), Character 13; Jobbins et al. (2022), Character 13.
 
 14. Paranuchal plate embayment of the central plate: absent (0); shallow, determined by formation of the lateral lobe, and not the posterior lobe (1); developed (2).
 
-Carr (2010), Character 14; Rücklin et al.(2015), Character 14; Zhu Y et al.(2015), Character 14; Modified from Jobbins et al. (2022), Character 14 and 19.
+> Carr (2010), Character 14; Rücklin et al.(2015), Character 14; Zhu Y et al.(2015), Character 14; Modified from Jobbins et al. (2022), Character 14 and 19.
 
 15. Length ratio for the external longitudinal of the preorbital and central plates (r = PrO/C): subequal, i.e. 0.75 < r < 1.25 (0); preorbital plate longer, i.e. r > 1.25 (1); central plate longer, i.e. r < 0.75 (2).
 
-Modified from Carr (2010), Character 15; Rücklin et al.(2015), Character 15; Zhu Y et al.(2015), Character 15; Jobbins et al. (2022), Character 15.
+> Modified from Carr (2010), Character 15; Rücklin et al.(2015), Character 15; Zhu Y et al.(2015), Character 15; Jobbins et al. (2022), Character 15.
 
 16. Postnasal plate infrafenestral process: absent (0); present (1).
 
-Gardiner & Miles (1990), Character 22.18; Carr (2010), Character 16; Rücklin et al.(2015), Character 16; Zhu Y et al.(2015), Character 16; Jobbins et al. (2022), Character 16.
+> Gardiner & Miles (1990), Character 22.18; Carr (2010), Character 16; Rücklin et al.(2015), Character 16; Zhu Y et al.(2015), Character 16; Jobbins et al. (2022), Character 16.
 
 17. Preorbital plate with a dermal preorbital lamina or process: absent (0); present (1).
 
-Dennis & Miles (1979b), Character 19; Young (1981), Character 19; Carr (2010), Character 17; Rücklin et al.(2015), Character 17; Zhu Y et al.(2015), Character 17; Jobbins et al. (2022), Character 17.
+> Dennis & Miles (1979b), Character 19; Young (1981), Character 19; Carr (2010), Character 17; Rücklin et al.(2015), Character 17; Zhu Y et al.(2015), Character 17; Jobbins et al. (2022), Character 17.
 
 18. Preorbital plates with a median contact (Young, 1981: modified after character 19a): contact posterior to pineal (0); contact anterior to pineal (1); pineal separates preorbital plates (2).
 
-Modifid from the Young (1981), Character 19a; Carr (2010), Character 18; Rücklin et al.(2015), Character 18; Zhu Y et al.(2015), Character 18; Jobbins et al. (2022), Character 18.
+> Modifid from the Young (1981), Character 19a; Carr (2010), Character 18; Rücklin et al.(2015), Character 18; Zhu Y et al.(2015), Character 18; Jobbins et al. (2022), Character 18.
 
 19. Extent of median preorbital plate contact: short (0); long, measured as the ratio of (contact length)/ (PrO parasagittal length) (1).
 
-Carr (2010), Character 19; Rücklin et al.(2015), Character 19; Zhu Y et al.(2015), Character 19; Jobbins et al. (2022), Character 19.
+> Carr (2010), Character 19; Rücklin et al.(2015), Character 19; Zhu Y et al.(2015), Character 19; Jobbins et al. (2022), Character 19.
 
 20. Postorbital plate embayment of the central plate: absent (0); shallow (1); developed (2).
 
-Carr (2010), Character 20; Rücklin et al.(2015), Character 20; Zhu Y et al.(2015), Character 20; Jobbins et al. (2022), Character 20.
+> Carr (2010), Character 20; Rücklin et al.(2015), Character 20; Zhu Y et al.(2015), Character 20; Jobbins et al. (2022), Character 20.
 
 21. Length of central plate contact with the nuchal plate: short (0); long, measured as greater than one half the length from the nuchal anteromedian point to the posterolateral corner of the nuchal plate (1).
 
-Carr (2010), Character 21; Rücklin et al.(2015), Character 21; Zhu Y et al.(2015), Character 21; Jobbins et al. (2022), Character 21.
+> Carr (2010), Character 21; Rücklin et al.(2015), Character 21; Zhu Y et al.(2015), Character 21; Jobbins et al. (2022), Character 21.
 
 22. Width of the central plate at its contact with the pineal plate: central plate tapers anteriorly to contact (0); central plate expanded laterally to produce a transverse anterior border (1).
 
-Carr (2010), Character 22; Rücklin et al.(2015), Character 22; Zhu Y et al.(2015), Character 22; Jobbins et al. (2022), Character 22.
+> Carr (2010), Character 22; Rücklin et al.(2015), Character 22; Zhu Y et al.(2015), Character 22; Jobbins et al. (2022), Character 22.
 
 23. Marginal plate in contact with the central plate: absent (0); present (1).
 
-Lelièvre (1988), Character 5; Johnson et al.(2000), Character 5; Carr (2010), Character 23; Rücklin et al.(2015), Character 23; Zhu Y et al.(2015), Character 23;Dupret et al., Character 22; Jobbins et al. (2022), Character 23.
+> Lelièvre (1988), Character 5; Johnson et al.(2000), Character 5; Carr (2010), Character 23; Rücklin et al.(2015), Character 23; Zhu Y et al.(2015), Character 23;Dupret et al., Character 22; Jobbins et al. (2022), Character 23.
 
 24. Extent of marginal plate along the lateral border of the skull roof: less than half the length from the postorbital process to the posterolateral corner of the skull roof (0); greater than half the length (1).
 
-Carr (2010), Character 24; Rücklin et al.(2015), Character 24; Zhu Y et al.(2015), Character 24; Jobbins et al. (2022), Character 24.
+> Carr (2010), Character 24; Rücklin et al.(2015), Character 24; Zhu Y et al.(2015), Character 24; Jobbins et al. (2022), Character 24.
 
 25. Marginal plate forms part of orbit border: absent (0); present (1).
 
-Dennis and Miles (1979b), Character 26; Carr (2010), Character 25; Rücklin et al.(2015), Character 25; Zhu Y et al.(2015), Character 25; Jobbins et al. (2022), Character 25.
+> Dennis and Miles (1979b), Character 26; Carr (2010), Character 25; Rücklin et al.(2015), Character 25; Zhu Y et al.(2015), Character 25; Jobbins et al. (2022), Character 25.
 
 26. Postnasal plate forms part of the orbit border (Dennis & Miles, 1979b: fig. 18, character 1): absent (0); present (1).
 
-Dennis and Miles (1979b), fig. 18, Character 1; Carr (2010), Character 26; Rücklin et al.(2015), Character 26; Zhu Y et al.(2015), Character 26; Jobbins et al. (2022), Character 26.
+> Dennis and Miles (1979b), fig. 18, Character 1; Carr (2010), Character 26; Rücklin et al.(2015), Character 26; Zhu Y et al.(2015), Character 26; Jobbins et al. (2022), Character 26.
 
 27. Extent of postnasal involvement in the orbit border: minimal (0); developed (1).
 
-Carr (2010), Character 27; Rücklin et al.(2015), Character 27; Zhu Y et al.(2015), Character 27; Jobbins et al. (2022), Character 27.
+> Carr (2010), Character 27; Rücklin et al.(2015), Character 27; Zhu Y et al.(2015), Character 27; Jobbins et al. (2022), Character 27.
 
 28. Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes)/ (distance between pineal and paired condyles): small (0); intermediate (1); large (2).
 
-Carr (2010), Character 28; Rücklin et al.(2015), Character 28; Zhu Y et al.(2015), Character 28; Jobbins et al. (2022), Character 28.
+> Carr (2010), Character 28; Rücklin et al.(2015), Character 28; Zhu Y et al.(2015), Character 28; Jobbins et al. (2022), Character 28.
 
 29. Nuchal and paranuchal plates elongate (Lelièvre, 1984b): absent (0); present, associated with an elongation of the endolymphatic canal (1).
 
-Carr (2010), Character 29; Rücklin et al.(2015), Character 29; Zhu Y et al.(2015), Character 29; Jobbins et al. (2022), Character 29.
+> Carr (2010), Character 29; Rücklin et al.(2015), Character 29; Zhu Y et al.(2015), Character 29; Jobbins et al. (2022), Character 29.
 
 30. Postnuchal process of paranuchal plate on dermal surface: absent (0); present (1), indicated by the presence of a postnuchal process on the dermal surface of the skull roof.
 
-Modifed from Dennis and Miles (1979b), Character 8 Carr (2010), Character 30; Rücklin et al.(2015), Character 30; Zhu Y et al.(2015), Character 30; Jobbins et al. (2022), Character 30.
+> Modifed from Dennis and Miles (1979b), Character 8 Carr (2010), Character 30; Rücklin et al.(2015), Character 30; Zhu Y et al.(2015), Character 30; Jobbins et al. (2022), Character 30.
 
 31. Position of the central/paranuchal/marginal or postorbital triple point (plate junction) relative to the paranuchal/central/nuchal triple point: C/PNu/M or PtO triple point anterior to PNu/ C/Nu (0); posterior to PNu/C/Nu (1).
 
-Carr (2010), Character 31; Rücklin et al.(2015), Character 31; Zhu Y et al.(2015), Character 31; Jobbins et al. (2022), Character 31.
+> Carr (2010), Character 31; Rücklin et al.(2015), Character 31; Zhu Y et al.(2015), Character 31; Jobbins et al. (2022), Character 31.
 
 32. Position of preorbital/postorbital/central triple point relative to posterior triple point (PtO/M/C or PtO/PNu/C): parallels the midline or with the anterior point lateral (0); posterior point lateral to anterior point (1).
 
-Carr (2010), Character 32; Rücklin et al.(2015), Character 32; Zhu Y et al.(2015), Character 32; Jobbins et al. (2022), Character 32.
+> Carr (2010), Character 32; Rücklin et al.(2015), Character 32; Zhu Y et al.(2015), Character 32; Jobbins et al. (2022), Character 32.
 
 33. Position of the PrO/PtO/C triple point relative to the orbit: posterior to orbit (0); over the orbit (1).
 
-Carr (2010), Character 33; Rücklin et al.(2015), Character 33; Zhu Y et al.(2015), Character 33; Jobbins et al. (2022), Character 33.
+> Carr (2010), Character 33; Rücklin et al.(2015), Character 33; Zhu Y et al.(2015), Character 33; Jobbins et al. (2022), Character 33.
 
 34. Postorbital dermal process; negligible or absent (0); present (1).
 
-Carr (2010), Character 34; Rücklin et al.(2015), Character 34; Zhu Y et al.(2015), Character 34; Jobbins et al. (2022), Character 34.
+> Carr (2010), Character 34; Rücklin et al.(2015), Character 34; Zhu Y et al.(2015), Character 34; Jobbins et al. (2022), Character 34.
 
 35. Skull roof and thoracic armour articulation (Goujet, 1984): articulation medial (0); articulaion laterally displaced (1).
 
-Carr (2010), Character 90; Rücklin et al.(2015), Character 90; Zhu Y et al.(2015), Character 90; Jobbins et al. (2022), Character 90.
+> Carr (2010), Character 90; Rücklin et al.(2015), Character 90; Zhu Y et al.(2015), Character 90; Jobbins et al. (2022), Character 90.
 
 36. Length ratio (r1 = c/b; representing the position of the posterolateral corner of the skull roof, measured as the ratio of posterior sensory line junction–fossa distance (c) divided by the anterior sensory line junction–fossa distance (b): r2 < 0.45 (0); 0.45 =< r2 =< 0.58 (1); r2 > 0.58 (2).
 
-Zhu Y et al. (2015), Character, 92.
+> Zhu Y et al. (2015), Character, 92.
 
 37. Length ratio (r2 = d/b; representing the extension of the anterior portion of the skull roof, measured as the ratio of the pineal foramen–anterior sensory line junction (d) divided by the anterior sensory line junction–fossa distance (b): r2 < 0.3 (0); 0.3 =< r2 =< 0.5 (1); r2 > 0.5 (2).
 
-Zhu Y et al. (2015), Character, 93.
+> Zhu Y et al. (2015), Character, 93.
 
 38. In forms with a marginal central plate contact, position of the junction of the postorital, marginal, and central plates, relative to the anterior margin of the nuchal plate (modifified from Long, 1987, character 7): anterior (0); posterior (1).
 
-Carr (2010), Character 94; Rücklin et al.(2015), Character 94; Zhu Y et al.(2015), Character 94; Jobbins et al. (2022), Character 94.
+> Carr (2010), Character 94; Rücklin et al.(2015), Character 94; Zhu Y et al.(2015), Character 94; Jobbins et al. (2022), Character 94.
 
 39. In forms with a marginal–central plate contact, position of the juction of the marginal, paranuchal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 
-Modifed from Long 1987, Character 7; Carr (2010), Character 95; Rücklin et al.(2015), Character 95; Zhu Y et al.(2015), Character 95; Jobbins et al. (2022), Character 95.
+> Modifed from Long 1987, Character 7; Carr (2010), Character 95; Rücklin et al.(2015), Character 95; Zhu Y et al.(2015), Character 95; Jobbins et al. (2022), Character 95.
 
 40. In forms without a marginal–central plate contact, position of the junction between the postorbital, paranuchal, and central plates, relative to the anterior margin of the nuchal plate (modified from Long, 1987, character 7): anterior (0); posterior (1).
 
-Modifed from Long 1987, Character 7; Carr (2010), Character 96; Rücklin et al.(2015), Character 96; Zhu Y et al.(2015), Character 96; Jobbins et al. (2022), Character 96.
+> Modifed from Long 1987, Character 7; Carr (2010), Character 96; Rücklin et al.(2015), Character 96; Zhu Y et al.(2015), Character 96; Jobbins et al. (2022), Character 96.
 
 41. Paired pits on the internal side of the nuchal plate (pt.u; Fig. 6A) separated by a median septum (m.sept; Fig. 6A) that is continuous with the median posterior process (p.pr; Fig. 6A, C): absent (0); present (1).
 
-Carr (2010), Character 97; Rücklin et al.(2015), Character 97; Zhu Y et al.(2015), Character 97; Jobbins et al. (2022), Character 97.
+> Carr (2010), Character 97; Rücklin et al.(2015), Character 97; Zhu Y et al.(2015), Character 97; Jobbins et al. (2022), Character 97.
 
 42. Presence of a supraorbital vault intimately associated with the lateral consolidated arch (Carr, 1991): absent (0); present (1).
 
-Carr (2010), Character 98; Rücklin et al.(2015), Character 98; Zhu Y et al.(2015), Character 98; Jobbins et al. (2022), Character 98.
+> Carr (2010), Character 98; Rücklin et al.(2015), Character 98; Zhu Y et al.(2015), Character 98; Jobbins et al. (2022), Character 98.
 
 43. Development of the crista supraethmoidalis at the visceral surface of the skull roof: underdevelped, absent, or present but not convergent in the midline (0); developed, horizontally across the visceral surface of the skull roof (1).
 
-Zhu Y et al. (2015), Character, 99.
+> Zhu Y et al. (2015), Character, 99.
 
 44. Rostral and pineal plates fused into one plate: absent (0); present (1).
 
-Zhu Y et al. (2015), Character, 100.
+> Zhu Y et al. (2015), Character, 100.
 
 45. Shape of the pineal plate on the external surface of the skull roof: short and broad (0); long and narrow (1).
 
-Zhu Y et al. (2015), Character, 101.
+> Zhu Y et al. (2015), Character, 101.
 
 46. Lateral development of the supraorbital vault compared with the breadth of the skull roof at the level immediately behind the supraorbital vault. This definition of the skull roof breadth is to make this character independent to character113: under developed, indicated by the ratio of the breadth of both sides of the lateral expansion of the supraorbital vaults/the breadth of the skull roof at the level immediately behind the supraorbital vault less than 0.3 (0); developed, indicated by the ratio of the breadth of the lateral expansion of the supraorbital vaults/the breadth of the skull oof larger than 0.3 (1).
 
-Zhu Y et al. (2015), Character, 102.
+> Zhu Y et al. (2015), Character, 102.
 
 47. Development of the postorbital process of the postorbital plate: moderately developed (0); highly developed, defined as the postorbital process composing one-quarter of the orbit (1).
 
-Zhu Y et al. (2015), Character, 103.
+> Zhu Y et al. (2015), Character, 103.
 
 48. Position of the anterior end of the endolymphatic duct on the visceral surface of the skull roof, indicating the neurocranial aperture of the endolymphatic duct: anteriorly positioned, defined as positioned anterior to the nuchal thickening (0); posteriorly positioned, on the nuchal thickening.
 
-Zhu Y et al. (2015), Character, 104.
+> Zhu Y et al. (2015), Character, 104.
 
 49. Posterior lateral shape of the nuchal plate: nuchal straight, not expanded laterally (0); nuchal trapezoid, expanded laterally (1).
 
-Modified from Gardiner and Miles (1990), Character 22.36; Zhu Y et al. (2015), Character, 105.
+> Modified from Gardiner and Miles (1990), Character 22.36; Zhu Y et al. (2015), Character, 105.
 
 50. Median ridge on the visceral surface of the nuchal plate, corresponding to the median depression on the occipital region of the neurocranium: absent (0); present (1).
 
-Zhu Y et al. (2015), Character, 106.
+> Zhu Y et al. (2015), Character, 106.
 
 51. Position of the paired nuchal pits: anteriorly positioned, defined by position anterior to or on the transverse nuchal thickening (0); posteriorly positioned, defined by position posterior to the transverse nuchal thickening (1).
 
-Zhu Y et al. (2015), Character, 107.
+> Zhu Y et al. (2015), Character, 107.
 
 52. Position of the skull roof and thoracic armour articulation: not close to posterolateral corner of the skull roof (0); close to posterolateral corner of the skull roof (1).
 
-Zhu Y et al. (2015), Character, 108.
+> Zhu Y et al. (2015), Character, 108.
 
 53. Skull roof fenestra: absent (0); present (1).
 
-Zhu Y et al. (2015), Character, 109.
+> Zhu Y et al. (2015), Character, 109.
 
 54. Rostral, pineal, or rostropineal plates: absent (0); present (1).
 
-Dupret et al.(2017), Character 5; Zhu et al. (2010), Character 5.
+> Dupret et al.(2017), Character 5; Zhu et al. (2010), Character 5.
 
 55. Position of pineal plate: further anteriorly from orbits (0); same level as orbits (1).
 
-Dupret et al.(2017), Character 6; Zhu et al. (2010), Character 6.
+> Dupret et al.(2017), Character 6; Zhu et al. (2010), Character 6.
 
 56. Preorbital plates show an embayment for insertion of pineal or rostropineal plate: no, or very shallow (0); yes, very deep (1).
 
-Johnson et al.(2000), Character 1; Dupret et al.(2017), Character 9; Zhu et al. (2010), Character 9.
+> Johnson et al.(2000), Character 1; Dupret et al.(2017), Character 9; Zhu et al. (2010), Character 9.
 
 57. Pineal or rostropineal plate fused to skull roof: no fusion (0); fusion (1).
 
-Johnson et al.(2000), Character 2; Dupret et al.(2017), Character 10; Zhu et al. (2010), Character 10.
+> Johnson et al.(2000), Character 2; Dupret et al.(2017), Character 10; Zhu et al. (2010), Character 10.
 
 58. Postnasal plates fused or not to preorbital plates: fusion (0); no fusion (1).
 
-Johnson et al.(2000), Character 4; Dupret et al.(2017), Character 11; Zhu et al. (2010), Character 11.
+> Johnson et al.(2000), Character 4; Dupret et al.(2017), Character 11; Zhu et al. (2010), Character 11.
 
 59. Position of orbits on skull roof: dorsal (0); lateral (1).
 
-Dupret et al.(2017), Character 12; Zhu et al. (2010), Character 12.
+> Dupret et al.(2017), Character 12; Zhu et al. (2010), Character 12.
 
 60. Preorbital plates: separate (0); fused (1).
 
-Johnson et al.(2000), Character 3; Dupret et al.(2017), Character 13; Zhu et al. (2010), Character 13.
+> Johnson et al.(2000), Character 3; Dupret et al.(2017), Character 13; Zhu et al. (2010), Character 13.
 
 61. Central plates: fused into ‘centronuchal’ plate (0); individulized paired elements (1).
 
-Dupret et al.(2017), Character 17; Zhu et al. (2010), Character 17.
+> Dupret et al.(2017), Character 17; Zhu et al. (2010), Character 17.
 
 62. Midline contact between paired central plates: straight (0); sinuous (1).
 
-Dupret et al.(2017), Character 18; Zhu et al. (2010), Character 18.
+> Dupret et al.(2017), Character 18; Zhu et al. (2010), Character 18.
 
 63. Contact between pineal (or rostropineal) and central plates: absent (0); present (1).
 
-Dupret et al.(2017), Character 19; Zhu et al. (2010), Character 19.
+> Dupret et al.(2017), Character 19; Zhu et al. (2010), Character 19.
 
 64. Contact between central and preorbital plates: present (0); absent (1).
 
-Johnson et al.(2000), Character 20; Dupret et al.(2017), Character 21; Zhu et al. (2010), Character 21.
+> Johnson et al.(2000), Character 20; Dupret et al.(2017), Character 21; Zhu et al. (2010), Character 21.
 
 65. Nuchal plate: absent (0); present (1).
 
-Dupret et al.(2017), Character 24; Zhu et al. (2010), Character 24.
+> Dupret et al.(2017), Character 24; Zhu et al. (2010), Character 24.
 
 66. Nuchal plate separating central plates: no (0); yes (1).
 
-Johnson et al.(2000), Character 6; Dupret et al.(2017), Character 25; Zhu et al. (2010), Character 25.
+> Johnson et al.(2000), Character 6; Dupret et al.(2017), Character 25; Zhu et al. (2010), Character 25.
 
 67. Contact between orbits and central plates: absent (0); present (1).
 
-Dupret et al.(2017), Character 26; Zhu et al. (2010), Character 26.
+> Dupret et al.(2017), Character 26; Zhu et al. (2010), Character 26.
 
 68. Number of paranuchal plate pairs: one pair (0); two pairs (1).
 
-Dupret et al.(2017), Character 29; Zhu et al. (2010), Character 29.
+> Dupret et al.(2017), Character 29; Zhu et al. (2010), Character 29.
 
 69. Posterolateral edge of paranuchal plates: convex (0); concave (1).
 
-Dupret et al.(2017), Character 37; Zhu et al. (2010), Character 37.
+> Dupret et al.(2017), Character 37; Zhu et al. (2010), Character 37.
 
 70. Position of external foramen for endolymphatic duct: very forwardly positioned from posterior edge of paranuchal plate, or on anterior paranuchal plate for Petalichthyida (0); near the posterior edge of paranuchal plate (1).
 
-Dupret et al.(2017), Character 39; Zhu et al. (2010), Character 39.
+> Dupret et al.(2017), Character 39; Zhu et al. (2010), Character 39.
 
 71. Type of exoskeletal dermal craniothoracic articulation: actinolepid ‘sliding neck joint’ (0); ginglymoid phlyctaenioid type (1); ‘spoon-like’ petalichthyid type (2).
 
-Dupret et al.(2017), Character 40; Zhu et al. (2010), Character 40.
+> Dupret et al.(2017), Character 40; Zhu et al. (2010), Character 40.
 
 72. Width/length (W/L) ratio of preorbital plates: W/L > 0.5 (0); W/L <= 0.5 (1).
 
-Johnson et al.(2000), Character 17; Dupret et al.(2017), Character 57; Zhu et al. (2010), Character 57.
+> Johnson et al.(2000), Character 17; Dupret et al.(2017), Character 57; Zhu et al. (2010), Character 57.
 
 73. Central plate length/skull roof length ratio (LC/LSR; from anterior edge of preorbital plates to posterior-most edge of skull roof): LC/LSR < 45% (0); LC/LSR => 45% (1).
 
-Johnson et al.(2000), Character 7; Dupret et al.(2017), Character 58; Zhu et al. (2010), Character 58.
+> Johnson et al.(2000), Character 7; Dupret et al.(2017), Character 58; Zhu et al. (2010), Character 58.
 
 74. Length/width ratio (L/W) of nuchal plate: L/W< 1.5 (0); L/W>1.5(1).
 
-Dupret et al.(2017), Character 59; Zhu et al. (2010), Character 59.
+> Dupret et al.(2017), Character 59; Zhu et al. (2010), Character 59.
 
 75. Preorbital plates forming part of orbital margin: yes (0); no (1).
 
-Dupret et al.(2017), Character 27; Zhu et al. (2010), Character 27.
+> Dupret et al.(2017), Character 27; Zhu et al. (2010), Character 27.
 
 76. Postmarginal plate: absent (0); present (1).
 
-Dupret et al.(2017), Character 32; Zhu et al. (2010), Character 32.
+> Dupret et al.(2017), Character 32; Zhu et al. (2010), Character 32.
 
 77. Contact between pineal and nuchal plates: absent (0); present (1).
 
-Dupret et al.(2017), Character 34; Zhu et al. (2010), Character 34.
+> Dupret et al.(2017), Character 34; Zhu et al. (2010), Character 34.
 
 **Thoracic armour**
 
 78. Median dorsal plate with a ventral ridge: a ventral thickening or ridge (0); posterior ridge with a posterior process, not spatulate (1); posterior process posterodorsally spatulate (2).
 
-Modified from Dennis and Miles (1979a), Character 4 and 18; Carr (2010), Character 35; Rücklin et al.(2015), Character 35; Zhu Y et al.(2015), Character 35; Jobbins et al. (2022), Character 35.
+> Modified from Dennis and Miles (1979a), Character 4 and 18; Carr (2010), Character 35; Rücklin et al.(2015), Character 35; Zhu Y et al.(2015), Character 35; Jobbins et al. (2022), Character 35.
 
 79. Median dorsal plate shape (width/length): short and broad to equidimensional (0); body of plate long and narrow, not including a posteriorly produced spine (1).
 
-Carr (2010), Character 36; Rücklin et al.(2015), Character 36; Zhu Y et al.(2015), Character 36; Jobbins et al. (2022), Character 36.
+> Carr (2010), Character 36; Rücklin et al.(2015), Character 36; Zhu Y et al.(2015), Character 36; Jobbins et al. (2022), Character 36.
 
 80. Median dorsal plate posterior border: rounded (0); spinous (1).
 
-Dennis and Miles (1979a), Character 18; Carr (2010), Character 37; Rücklin et al.(2015), Character 37; Zhu Y et al.(2015), Character 37; Jobbins et al. (2022), Character 37.
+> Dennis and Miles (1979a), Character 18; Carr (2010), Character 37; Rücklin et al.(2015), Character 37; Zhu Y et al.(2015), Character 37; Jobbins et al. (2022), Character 37.
 
 81. Anterior lateral plate/anterior ventrolateral plate contact: absent (0); present (1).
 
-Carr (2010), Character 38; Rücklin et al.(2015), Character 38; Zhu Y et al.(2015), Character 38; Jobbins et al. (2022), Character 38.
+> Carr (2010), Character 38; Rücklin et al.(2015), Character 38; Zhu Y et al.(2015), Character 38; Jobbins et al. (2022), Character 38.
 
 82. Anterior lateral plate/interolateral plate external contact: absent (0); present (1).
 
