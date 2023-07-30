@@ -17,7 +17,7 @@
 
 > Dennis and Miles (1979b), Character 16, in part; Carr and Hlavin (2010), Character 4; Rücklin et al. (2015), Character 4; Zhu Y et al. (2015), Character 4; Jobbins et al. (2022), Character 4.
 
- 5. Rostral plate posterior development: not developed (0); subtriangular (1); T-shaped (2).
+ 5. Rostral plate posterior development: not developed (0); subtriangular (1); T-shaped (2). (modify: The posteromedian divison of rostral plate： absent(0); present(1); T-shaped(2).)
 
 > Carr and Hlavin (2010), Character 5; Rücklin et al.(2015), Character 5; Zhu Y et al.(2015), Character 5; Jobbins et al. (2022), Character 5.
 
