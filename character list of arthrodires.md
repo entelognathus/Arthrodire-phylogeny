@@ -415,7 +415,7 @@
 
 > Johnson *et al*. (2000), Character 25; Dupret *et al*. (2017), Character 43; Zhu *et al*. (2010), Character 43.
 
- 104. **This unornamented zone**: simple (0); double (1).
+ 104. Condition of unornamented (overlapped) area on anterior edge of median dorsal plate: simple (0); double (1).
 
 > Dupret *et al*. (2017), Character 44; Zhu *et al*. (2010), Character 44.
 
