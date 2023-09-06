@@ -6,6 +6,7 @@
 > Goujet (1984); Carr and Hlavin (2010), Character 1; Rücklin *et al*. (2015), Character 1; Zhu Y *et al*. (2015), Character 1; Jobbins *et al*. (2022), Character 1.
 
  2. Posterolateral extension of the lateral consolidated arch extends as a distinct ridge or thickening onto the postmarginal plate, or to the skull roof edge if the postmarginal plate is absent: absent (0); present (1).
+ 
  recomment: In the non-eubrachythoracid brachythoracids, there have two distinct ridge at the posterior part of the lateral consolidated arch. In some clades, the lateral consolidated arch is not extend to accommandate the posterior inframarginal crista, such as in the Exutaspis, the latral consolidated arch is contiunously disappeared near the posterior inframarginal crista.
 
 >  Carr and Hlavin (2010), Character 2; Rücklin *et al*. (2015), Character 2; Zhu Y *et al*. (2015), Character 2; Jobbins *et al*. (2022), Character 2.
