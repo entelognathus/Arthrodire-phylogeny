@@ -685,7 +685,9 @@
 
 > Zhu Y *et al*. (2015), Character 114;
 
- 169. Link between the two neurocranium components (ethmoid and postethmoid parts): no link (‘loose nose’ fishes) (0); fusion (by osseous trabecles or total fusion) (1).
+ 169. Link between the two neurocranium components (ethmoid and postethmoid parts): no link (‘loose nose’ fishes) (0); fusion (by osseous trabecles or total fusion) (1).\
+
+ recomment: optic fissure: present (0): absent (1).
 
 > Dupret *et al*. (2017), Character 1; Zhu *et al*. (2010), Character 1.
 
