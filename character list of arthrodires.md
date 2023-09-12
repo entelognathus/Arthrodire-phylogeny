@@ -711,6 +711,7 @@ Dupret *et al*. (2017), Character 3; Zhu *et al*. (2010), Character 3.
 
 
 **addition**
-> 174. Inframarginal crista: absent(0); absent(1).
 
-> 175. Number of inframarginal crista: two(0); one(1).
+174. Inframarginal crista: absent(0); absent(1).
+
+175. Number of inframarginal crista: two(0); one(1).
