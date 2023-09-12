@@ -708,7 +708,9 @@ Dupret *et al*. (2017), Character 3; Zhu *et al*. (2010), Character 3.
  173. Dermal ornamentation: absent (0); present (1).
 
 > Carr and Hlavin (2010), Character 91; Rücklin *et al*. (2015), Character 91; Zhu Y *et al*. (2015), Character 91; Jobbins *et al*. (2022), Character 91.
->
-> **addition**
+
+
+**addition**
 > 174. Inframarginal crista: absent(0); absent(1).
+
 > 175. Number of inframarginal crista: two(0); one(1).
