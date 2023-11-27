@@ -6,10 +6,10 @@
 > Goujet (1984); Carr and Hlavin (2010), Character 1; Rücklin *et al*. (2015), Character 1; Zhu Y *et al*. (2016), Character 1; Jobbins *et al*. (2022), Character 1.
 
  2. Posterolateral extension of the lateral consolidated arch extends as a distinct ridge or thickening onto the postmarginal plate, or to the skull roof edge if the postmarginal plate is absent: absent (0); present (1).
- 
- comment: In the non-eubrachythoracid brachythoracids, there have two distinct ridge at the posterior part of the lateral consolidated arch. In some clades, the lateral consolidated arch is not extend to accommandate the posterior inframarginal crista, such as in the Exutaspis, the latral consolidated arch is gradually disappeared near the posterior inframarginal crista. In the Holonema, the lateral consolidated arch is absent, but the inframarginal crista is presented.
 
 >  Carr and Hlavin (2010), Character 2; Rücklin *et al*. (2015), Character 2; Zhu Y *et al*. (2016), Character 2; Jobbins *et al*. (2022), Character 2.
+ 
+> In the non-eubrachythoracid brachythoracids, there are two distinct ridges at the posterior part of the lateral consolidated arch. In some clades, the lateral consolidated arch does not extend to accommandate the posterior inframarginal crista, such as in *Exutaspis* whose lateral consolidated arch gradually disappeared near the posterior inframarginal crista. In *Holonema*, the lateral consolidated arch is absent, but the inframarginal crista is present.
 
  3. Triangular depression posterior to supraorbital vault: absent (0); present (1).
 
