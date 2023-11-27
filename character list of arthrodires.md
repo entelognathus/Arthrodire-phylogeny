@@ -399,9 +399,11 @@
 
 > Zhu Y *et al*. (2016), Character 118.
 
- 99. In those taxa that possess an anterolaterally extended anterior lateral plate, the extent of the extension: extended normally (0); extended into a rod-like structure (1). In those taxa that do not possess an anterolaterally extended anterior lateral plate, this character is scored as ‘not applicable.
+ 99. In those taxa that possess an anterolaterally extended anterior lateral plate, the extent of the extension: extended normally (0); extended into a rod-like structure (1).
 
 > Zhu Y *et al*. (2016), Character 119.
+
+>  In those taxa that do not possess an anterolaterally extended anterior lateral plate, this character is scored as 'not applicable'.
 
  100. External surface of the anterior lateral plate quadrated by four ridges radiating from the ossification center of the plate: absent (0); present (1).
 
@@ -689,9 +691,9 @@
 
  169. Link between the two neurocranium components (ethmoid and postethmoid parts): no link (‘loose nose’ fishes) (0); fusion (by osseous trabecles or total fusion) (1).\
 
- comment: optic fissure: present (0): absent (1).
-
 > Dupret *et al*. (2017), Character 1; Zhu *et al*. (2010), Character 1.
+
+> Same as "Optic fissure: present (0): absent (1)".
 
  170. Position of foramen for hyomandibular branch of facial nerve in relation to anterior postorbital process: foramen in distal part of the anterior postorbital process (0); foramen in proximoposterior position (1).
 
