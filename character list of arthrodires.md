@@ -660,7 +660,7 @@
 
 > Dupret *et al*. (2017), Character 29; Zhu *et al*. (2010), Character 29.
 
-> Pair posterior pit lines is only present in the Petalithchyida and *Yinminaspis*. Dupret(2008) suggested that two pairs posterior pitline of *Yinminaspis* are homologous with Petalichthyida.? In some clades of Brachythoraci, the posterior pit line is absent, sunch as in the *Homosteus sulcatus*, *Heterosteus ingens* and *Enseosteus jaekeli*.
+> Pair posterior pit lines is only present in the Petalithchyida and *Yinminaspis*. Dupret(2008) suggested that two pairs posterior pitline of *Yinminaspis* are homologous with Petalichthyida.? In some clades of Brachythoraci, the posterior pit line is absent, sunch as in the *Homosteus sulcatus*, *Heterosteus ingens* ,*Tafilalichthys lavocati* and *Enseosteus jaekeli*.
 
  162. Posterior pit line distribution on both central and paranuchal plates: anterior and posterior ends clearly connected (0); anterior and posterior ends not connected (implying a superficial run) (1)
 
