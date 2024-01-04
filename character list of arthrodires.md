@@ -666,7 +666,7 @@
 
 > Johnson *et al*. (2000), Character 10; Dupret *et al*. (2017), Character 30; Zhu *et al*. (2010), Character 30.
 
-> The connection of anterior and posterior part of the posterior pit line is present in the various clades of arthrodires. In some clade, the posterior and anterior is not directly connected by the deep groove, but through the shallow sulcus, such as in the *Coccosteus cuspidatus* and *Millerosteus minor*. However, in the *Coccosteus cuspidatus*, the state of the character is influence by the ontogeny, with some specimens display the anterior is not connected with the posterior. Additionally, in some clade, the posterior part or the anterior part of the posterior pit line is absent, such as in the  *Baringaspis dineleyi*, *Aethaspis utahensis* and *Dunkleosteus terrelli*.
+> The connection of anterior and posterior part of the posterior pit line is present in the various clades of arthrodires. In some clade, the posterior and anterior is not directly connected by the deep groove, but through the shallow sulcus, such as in the *Coccosteus cuspidatus* and *Millerosteus minor*. This condition possibly indicates that the shallow sulcus between the anterior and posterior part of posterior pit line is connecting by the sensory canal, as in Petalichthys. However, in the *Coccosteus cuspidatus*, the state of the character is influence by the ontogeny, with some specimens display the anterior is not connected with the posterior. Additionally, in some clade, the posterior part or the anterior part of the posterior pit line is absent, such as in the  *Baringaspis dineleyi*, *Aethaspis utahensis* and *Dunkleosteus terrelli
 
  163. Central sensory line: absent (0); present (1).
 
