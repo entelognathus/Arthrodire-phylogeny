@@ -722,4 +722,7 @@ Dupret *et al*. (2017), Character 3; Zhu *et al*. (2010), Character 3.
 174. Number of inframarginal crista: two(0); one(1).
 
 175. The groove of the path of the ramus mandibularis internus VII:absent(0); present(1).
-> In taxa of Coccosteomorhpi, on the mesial surface of the blade , a groove running subparallel to its lower edge (gr.cth) is possibly corresponding to the path of the ramus mandibularis internus VII, such as in the *Coccosteus cuspidatus*, *Xiantingosteus gracilis*, and *Camuropiscis concinnus*. 
+> In taxa of Coccosteomorhpi, on the mesial surface of the blade , a groove running subparallel to its lower edge (gr.cth) is possibly corresponding to the path of the ramus mandibularis internus VII, such as in the *Coccosteus cuspidatus*, *Xiantingosteus gracilis*, and *Camuropiscis concinnus*.
+
+176.Middle pit-line: absent(0); present(1).
+>In the Dunkleosteidae, the middle pit-line is absent, such as in the *Gorgonichthys*, *Dunkleosteus*, and *Heterosteus ingens*. The middle pit-line is present in the majority of arthrodires, such as in the *Kujdanowiaspis* and *Coccosteus*.
