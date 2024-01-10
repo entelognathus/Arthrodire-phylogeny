@@ -1,8 +1,8 @@
 Name: *Actinolepis magna* Mark-Kurik, 1973
 
-Locality and horizon: Estonia; Latvia. Middle Devonian, Givetian.
+> Locality and horizon: Estonia; Latvia. Middle Devonian, Givetian.
 
-Source reference: Mark-Kurik 1973.
+> Source reference: Mark-Kurik 1973.
 
 Name: *Actinolepis tuberculate* Agassiz, 1844
 
