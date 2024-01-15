@@ -146,7 +146,7 @@
 
 >  Goujet (1984); Carr and Hlavin (2010), Character 90; Rücklin *et al*. (2015), Character 90; Zhu Y *et al*. (2016), Character 90; Jobbins *et al*. (2022), Character 90.
 
- 36. Length ratio (r1 = c/b; representing the position of the posterolateral corner of the skull roof, measured as the ratio of posterior sensory line junction–fossa distance (c) divided by the anterior sensory line junction–fossa distance (b): r2 < 0.45 (0); 0.45 =< r2 =< 0.58 (1); r2 > 0.58 (2).
+ 36. Length ratio (r1 = c/b; representing the position of the posterolateral corner of the skull roof, measured as the ratio of posterior sensory line junction–fossa distance (c) divided by the anterior sensory line junction–fossa distance (b): r1 < 0.45 (0); 0.45 =< r1 =< 0.58 (1); r1 > 0.58 (2).
 
 > Zhu Y *et al*. (2016), Character 92.
 
@@ -180,7 +180,7 @@
 
  44. Rostral and pineal plates fused into one plate: absent (0); present (1).
 
-> Zhu Y *et al*. (2016), Character 100.
+> Zhu Y *et al*. (2016), Character 100; Dupret *et al*. (2009), Character 8; Dupret *et al*. (2017), Character 8.
 
  45. Shape of the pineal plate on the external surface of the skull roof: short and broad (0); long and narrow (1).
 
