@@ -142,7 +142,7 @@
 
 > Carr and Hlavin (2010), Character 34; Rücklin *et al*. (2015), Character 34; Zhu Y *et al*. (2016), Character 34; Jobbins *et al*. (2022), Character 34.
 
- 35. Skull roof and thoracic armour articulation: articulation medial (0); articulaion laterally displaced (1).
+ 35. Skull roof and thoracic armour articulation: articulation medial (0); articulation laterally displaced (1).
 
 >  Goujet (1984); Carr and Hlavin (2010), Character 90; Rücklin *et al*. (2015), Character 90; Zhu Y *et al*. (2016), Character 90; Jobbins *et al*. (2022), Character 90.
 
