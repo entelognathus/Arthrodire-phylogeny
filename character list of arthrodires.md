@@ -220,15 +220,15 @@
 
  54. Rostral, pineal, or rostropineal plates: absent (0); present (1).
 
-> Dupret *et al*. (2017), Character 5; Zhu *et al*. (2010), Character 5.
+> Dupret *et al*. (2009), Character 5; Dupret *et al*. (2017), Character 5; Zhu *et al*. (2010), Character 5.
 
  55. Position of pineal plate: further anteriorly from orbits (0); same level as orbits (1).
 
-> Dupret *et al*. (2017), Character 6; Zhu *et al*. (2010), Character 6.
+> Dupret *et al*. (2009), Character 6; Dupret *et al*. (2017), Character 6; Zhu *et al*. (2010), Character 6.
 
  56. Preorbital plates show an embayment for insertion of pineal or rostropineal plate: no, or very shallow (0); yes, very deep (1).
 
-> Johnson *et al*. (2000), Character 1; Dupret *et al*. (2017), Character 9; Zhu *et al*. (2010), Character 9.
+> Johnson *et al*. (2000), Character 1; Dupret *et al*. (2009), Character 9; Dupret *et al*. (2017), Character 9; Zhu *et al*. (2010), Character 9.
 
  57. Pineal or rostropineal plate fused to skull roof: no fusion (0); fusion (1).
 
@@ -236,79 +236,79 @@
 
  58. Postnasal plates fused or not to preorbital plates: fusion (0); no fusion (1).
 
-> Johnson *et al*. (2000), Character 4; Dupret *et al*. (2017), Character 11; Zhu *et al*. (2010), Character 11.
+> Johnson *et al*. (2000), Character 4; Dupret *et al*. (2009), Character 11; Dupret *et al*. (2017), Character 11; Zhu *et al*. (2010), Character 11.
 
  59. Position of orbits on skull roof: dorsal (0); lateral (1).
 
-> Dupret *et al*. (2017), Character 12; Zhu *et al*. (2010), Character 12.
+> Dupret *et al*. (2009), Character 12; Dupret *et al*. (2017), Character 12; Zhu *et al*. (2010), Character 12.
 
  60. Preorbital plates: separate (0); fused (1).
 
-> Johnson *et al*. (2000), Character 3; Dupret *et al*. (2017), Character 13; Zhu *et al*. (2010), Character 13.
+> Johnson *et al*. (2000), Character 3; Dupret *et al*. (2009), Character 13; Dupret *et al*. (2017), Character 13; Zhu *et al*. (2010), Character 13.
 
  61. Central plates: fused into ‘centronuchal’ plate (0); individulized paired elements (1).
 
-> Dupret *et al*. (2017), Character 17; Zhu *et al*. (2010), Character 17.
+> Dupret *et al*. (2009), Character 17; Dupret *et al*. (2017), Character 17; Zhu *et al*. (2010), Character 17.
 
  62. Midline contact between paired central plates: straight (0); sinuous (1).
 
-> Dupret *et al*. (2017), Character 18; Zhu *et al*. (2010), Character 18.
+> Dupret *et al*. (2009), Character 18; Dupret *et al*. (2017), Character 18; Zhu *et al*. (2010), Character 18.
 
  63. Contact between pineal (or rostropineal) and central plates: absent (0); present (1).
 
-> Dupret *et al*. (2017), Character 19; Zhu *et al*. (2010), Character 19.
+> Dupret *et al*. (2009), Character 19; Dupret *et al*. (2017), Character 19; Zhu *et al*. (2010), Character 19.
 
  64. Contact between central and preorbital plates: present (0); absent (1).
 
-> Johnson *et al*. (2000), Character 20; Dupret *et al*. (2017), Character 21; Zhu *et al*. (2010), Character 21.
+> Johnson *et al*. (2000), Character 20; Dupret *et al*. (2009), Character 21; Dupret *et al*. (2017), Character 21; Zhu *et al*. (2010), Character 21.
 
  65. Nuchal plate: absent (0); present (1).
 
-> Dupret *et al*. (2017), Character 24; Zhu *et al*. (2010), Character 24.
+> Dupret *et al*. (2009), Character 24; Dupret *et al*. (2017), Character 24; Zhu *et al*. (2010), Character 24.
 
  66. Nuchal plate separating central plates: no (0); yes (1).
 
-> Johnson *et al*. (2000), Character 6; Dupret *et al*. (2017), Character 25; Zhu *et al*. (2010), Character 25.
+> Johnson *et al*. (2000), Character 6; Dupret *et al*. (2009), Character 25; Dupret *et al*. (2017), Character 25; Zhu *et al*. (2010), Character 25.
 
  67. Contact between orbits and central plates: absent (0); present (1).
 
-> Dupret *et al*. (2017), Character 26; Zhu *et al*. (2010), Character 26.
+> Dupret *et al*. (2009), Character 26; Dupret *et al*. (2017), Character 26; Zhu *et al*. (2010), Character 26.
 
- 68. Number of paranuchal plate pairs: one pair (0); two pairs (1).
+ 68. Number of paranuchal plates: one pair (0); two pairs (1).
 
-> Dupret *et al*. (2017), Character 29; Zhu *et al*. (2010), Character 29.
+> Dupret *et al*. (2009), Character 35; Dupret *et al*. (2017), Character 35; Zhu *et al*. (2010), Character 35.
 
  69. Posterolateral edge of paranuchal plates: convex (0); concave (1).
 
-> Dupret *et al*. (2017), Character 37; Zhu *et al*. (2010), Character 37.
+> Dupret *et al*. (2009), Character 37; Dupret *et al*. (2017), Character 37; Zhu *et al*. (2010), Character 37.
 
  70. Position of external foramen for endolymphatic duct: very forwardly positioned from posterior edge of paranuchal plate, or on anterior paranuchal plate for Petalichthyida (0); near the posterior edge of paranuchal plate (1).
 
-> Dupret *et al*. (2017), Character 39; Zhu *et al*. (2010), Character 39.
+> Dupret *et al*. (2009), Character 39; Dupret *et al*. (2017), Character 39; Zhu *et al*. (2010), Character 39.
 
  71. Type of exoskeletal dermal craniothoracic articulation: actinolepid ‘sliding neck joint’ (0); ginglymoid phlyctaenioid type (1); ‘spoon-like’ petalichthyid type (2).
 
-> Dupret *et al*. (2017), Character 40; Zhu *et al*. (2010), Character 40.
+> Dupret *et al*. (2009), Character 40; Dupret *et al*. (2017), Character 40; Zhu *et al*. (2010), Character 40.
 
  72. Central plate length/skull roof length ratio (LC/LSR; from anterior edge of preorbital plates to posterior-most edge of skull roof): LC/LSR < 45% (0); LC/LSR => 45% (1).
 
-> Johnson *et al*. (2000), Character 7; Dupret *et al*. (2017), Character 58; Zhu *et al*. (2010), Character 58.
+> Johnson *et al*. (2000), Character 7; Dupret *et al*. (2009), Character 58; Dupret *et al*. (2017), Character 58; Zhu *et al*. (2010), Character 58.
 
- 73. Length/width ratio (L/W) of nuchal plate: L/W< 1.5 (0); L/W>1.5(1).
+ 73. Length/width ratio (L/W) of nuchal plate: L/W＝< 1.5 (0); L/W>1.5(1).
 
-> Dupret *et al*. (2017), Character 59; Zhu *et al*. (2010), Character 59.
+> Dupret *et al*. (2009), Character 59; Dupret *et al*. (2017), Character 59; Zhu *et al*. (2010), Character 59.
 
  74. Preorbital plates forming part of orbital margin: yes (0); no (1).
 
-> Dupret *et al*. (2017), Character 27; Zhu *et al*. (2010), Character 27.
+> Dupret *et al*. (2009), Character 27; Dupret *et al*. (2017), Character 27; Zhu *et al*. (2010), Character 27.
 
  75. Postmarginal plate: absent (0); present (1).
 
-> Dupret *et al*. (2017), Character 32; Zhu *et al*. (2010), Character 32.
+> Dupret *et al*. (2009), Character 32; Dupret *et al*. (2017), Character 32; Zhu *et al*. (2010), Character 32.
 
  76. Contact between pineal and nuchal plates: absent (0); present (1).
 
-> Dupret *et al*. (2017), Character 34; Zhu *et al*. (2010), Character 34.
+> Dupret *et al*. (2009), Character 34; Dupret *et al*. (2017), Character 34; Zhu *et al*. (2010), Character 34.
 
 **Thoracic armour**
 
@@ -472,7 +472,7 @@
 
 **Cheek and palatoquadrate**
 
- 116. Suborbital dermal lamin: absent (0); present (1).
+ 116. Suborbital dermal lamina: absent (0); present (1).
 
 > Dennis and Miles (1979a), Character 17; Carr and Hlavin (2010), Character 52; Rücklin *et al*. (2015), Character 52; Zhu Y *et al*. (2016), Character 52; Jobbins *et al*. (2022), Character 52.
 
@@ -664,21 +664,21 @@
 
  162. Posterior pit line distribution on both central and paranuchal plates: anterior and posterior ends clearly connected (0); anterior and posterior ends not connected (implying a superficial run) (1)
 
-> Johnson *et al*. (2000), Character 10; Dupret *et al*. (2017), Character 30; Zhu *et al*. (2010), Character 30.
+> Johnson *et al*. (2000), Character 10; Dupret *et al*. (2009), Character 30; Dupret *et al*. (2017), Character 30; Zhu *et al*. (2010), Character 30.
 
 > The connection of anterior and posterior part of the posterior pit line is present in the various clades of arthrodires. In some clades, the posterior and anterior parts are not directly connected by the deep groove, but through the shallow sulcus, such as in the *Coccosteus cuspidatus* and *Millerosteus minor*. This condition possibly indicates that the shallow sulcus between the anterior and posterior part of posterior pit line is connecting by the sensory canal, as in Petalichthys. However, in the *Coccosteus cuspidatus*, the state of the character is influence by the ontogeny, with some specimens display the anterior is not connected with the posterior. Additionally, in some clade, the posterior part or the anterior part of the posterior pit line is absent, such as in the  *Baringaspis dineleyi*, *Aethaspis utahensis* and *Dunkleosteus terrelli
 
  163. Central sensory line: absent (0); present (1).
 
-> Dupret *et al*. (2017), Character 31; Zhu *et al*. (2010), Character 31.
+> Dupret *et al*. (2009), Character 31; Dupret *et al*. (2017), Character 31; Zhu *et al*. (2010), Character 31.
 
  164. Occipital cross commissure: on both nuchal and paranuchal plates (0); only on paranuchal plates (1).
 
-> Johnson *et al*. (2000), Characters 8 and 9, modified; Dupret *et al*. (2017), Character 36; Zhu *et al*. (2010), Character 36.
+> Johnson *et al*. (2000), Characters 8 and 9, modified; Dupret *et al*. (2009), Character 36; Dupret *et al*. (2017), Character 36; Zhu *et al*. (2010), Character 36.
 
  165. Dorsolateral groove (for accessory line) on anterior dorsolateral plate: absent (0); present (1).
 
-> Dupret *et al*. (2017), Character 46; Zhu *et al*. (2010), Character 46.
+> Dupret *et al*. (2009), Character 46; Dupret *et al*. (2017), Character 46; Zhu *et al*. (2010), Character 46.
 
 **Neurocranium**
 
@@ -692,21 +692,21 @@
 
  168. Link between the two neurocranium components (ethmoid and postethmoid parts): no link (‘loose nose’ fishes) (0); fusion (by osseous trabecles or total fusion) (1).\
 
-> Dupret *et al*. (2017), Character 1; Zhu *et al*. (2010), Character 1.
+> Dupret *et al*. (2009), Character 1; Dupret *et al*. (2017), Character 1; Zhu *et al*. (2010), Character 1.
 
 > Same as "Optic fissure: present (0): absent (1)".
 
  169. Position of foramen for hyomandibular branch of facial nerve in relation to anterior postorbital process: foramen in distal part of the anterior postorbital process (0); foramen in proximoposterior position (1).
 
-> Dupret *et al*. (2017), Character 2; Zhu *et al*. (2010), Character 2.
+> Dupret *et al*. (2009), Character 2; Dupret *et al*. (2017), Character 2; Zhu *et al*. (2010), Character 2.
 
  170. Neurocranial supraorbital process: absent (0); present (1).
 
-Dupret *et al*. (2017), Character 3; Zhu *et al*. (2010), Character 3.
-> 
+> Dupret *et al*. (2009), Character 3; Dupret *et al*. (2017), Character 3; Zhu *et al*. (2010), Character 3.
+
  171. Neurocranial basal process: absent (0); present (1).
 
-> Dupret *et al*. (2017), Character 4; Zhu *et al*. (2010), Character 4.
+> Dupret *et al*. (2009), Character 4; Dupret *et al*. (2017), Character 4; Zhu *et al*. (2010), Character 4.
 
 **Ornamentation**
 
