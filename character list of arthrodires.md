@@ -726,3 +726,9 @@ Dupret *et al*. (2017), Character 3; Zhu *et al*. (2010), Character 3.
 
 176.Middle pit-line: absent(0); present(1).
 >In the Dunkleosteidae, the middle pit-line is absent, such as in the *Gorgonichthys*, *Dunkleosteus*, and *Heterosteus ingens*. The middle pit-line is present in the majority of arthrodires, such as in the *Kujdanowiaspis* and *Coccosteus*.
+
+177.Postocular crest: absent(0); present(1).
+>The postocular crest is present in many plesiomorphic arthrodires, such as *Kujdanowiaspis* (Stensiö 1963: fig. 42), Buchanosteus (Young 1979: fig. 2), but is absent in eubrachythoracids. In contrast, many eubrachythoracids posssess dermal postorbital processes, but lacking the postocular crest.
+
+178. Round depression lateral to supraorbital vault: absent (0); present (1).
+> The round depression is present in many plesiomorphic arthrodires, such as *Buchansopteus*,*Dhanguura* and *Exutaspis*.
