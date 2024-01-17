@@ -142,7 +142,7 @@
 
 > Carr and Hlavin (2010), Character 34; Rücklin *et al*. (2015), Character 34; Zhu Y *et al*. (2016), Character 34; Jobbins *et al*. (2022), Character 34.
 
- 35. Skull roof and thoracic armour articulation: articulation medial (0); articulaion laterally displaced (1).
+ 35. Skull roof and thoracic armour articulation: articulation medial (0); articulation laterally displaced (1).
 
 >  Goujet (1984); Carr and Hlavin (2010), Character 90; Rücklin *et al*. (2015), Character 90; Zhu Y *et al*. (2016), Character 90; Jobbins *et al*. (2022), Character 90.
 
@@ -213,6 +213,8 @@
  52. Position of the skull roof and thoracic armour articulation: not close to posterolateral corner of the skull roof (0); close to posterolateral corner of the skull roof (1).
 
 > Zhu Y *et al*. (2016), Character 108.
+>
+> - **check its relationship with Character 35**
 
  53. Skull roof fenestra: absent (0); present (1).
 
@@ -290,6 +292,8 @@
 
 > Dupret *et al*. (2009), Character 40; Dupret *et al*. (2017), Character 40; Zhu *et al*. (2010), Character 40.
 
+> - **This character could be splited. see 'early gnathostome phylogeny' github.**
+
  72. Central plate length/skull roof length ratio (LC/LSR; from anterior edge of preorbital plates to posterior-most edge of skull roof): LC/LSR < 45% (0); LC/LSR => 45% (1).
 
 > Johnson *et al*. (2000), Character 7; Dupret *et al*. (2009), Character 58; Dupret *et al*. (2017), Character 58; Zhu *et al*. (2010), Character 58.
@@ -360,9 +364,15 @@
 
 > Gardiner and Miles (1990), Character 22.32; Carr and Hlavin (2010), Character 46; Rücklin *et al*. (2015), Character 46; Zhu Y *et al*. (2016), Character 46; Jobbins *et al*. (2022), Character 46.
 
+> - Gardiner and Miles (1990): "Three subgroups of ‘coccosteids’ may be defined on spinal structure: (1) Watsonosteus, Dickosteus, Coccosteus, Millerosteus, Plourdosteus, Harytoombsia and 
+Torosteus in which the spinal plate cavity is filled by the lateral prepectoral process. This is presumed to be the primitive condition. (2) Camuropiscis and Holonema both with long spinal plates without an internal 
+cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) Eastmanosteus, Dunkleosteus, Bullerichthys, Kendrickichthys and Homosteus in which the spinal plate is very short and without any trace of an internal cavity. This type is termed ‘short pseudospinal’."
+
  89. Branchial lamina of the interolateral plate : absent (0); present (1).
 
 > Carr and Hlavin (2010), Character 47; Rücklin *et al*. (2015), Character 47; Zhu Y *et al*. (2016), Character 47; Jobbins *et al*. (2022), Character 47.
+
+>- Also named as the postbranchial lamina. 
 
  90. Ventral lamina of the interolateral plate: small or absent (0); developed with either an enlarged contact with the anterior median ventral plate, or an enlarged overlap with the anterior ventrolateral plate (1).
 
@@ -371,6 +381,8 @@
  91. Ormantation of branchial lamina of interolateral plate: absent (0); present (1).
 
 > Carr and Hlavin (2010), Character 49; Rücklin *et al*. (2015), Character 49; Zhu Y *et al*. (2016), Character 49; Jobbins *et al*. (2022), Character 49.
+
+>- Also named as the postbranchial lamina.
 
  92. Posterior ventrolateral plate dorsolateral contact with the lateral thoracic armour: posterior lateral plate only (0); posterior lateral and anterior lateral plates (1).
 
@@ -480,7 +492,7 @@
 
 > Gariner and Miles (1990), Character 22.9; Carr and Hlavin (2010), Character 53; Rücklin *et al*. (2015), Character 53; Zhu Y *et al*. (2016), Character 53; Jobbins *et al*. (2022), Character 53.
 
- 118. Suborbital contact with Preorbital: absent (0); lateral contact (1).
+ 118. Suborbital contact with preorbital: absent (0); lateral contact (1).
 
 > Carr and Hlavin (2010), Character 54; Rücklin *et al*. (2015), Character 54; Zhu Y *et al*. (2016), Character 54; Jobbins *et al*. (2022), Character 54.
 
@@ -504,7 +516,7 @@
 
 > Carr and Hlavin (2010), Character 59; Rücklin *et al*. (2015), Character 59; Zhu Y *et al*. (2016), Character 59; Jobbins *et al*. (2022), Character 59.
 
- 124. Form of the submarginal plate: broad (0); elongate (1).
+ 124. Shape of submarginal plate: broad (0); elongate (1).
 
 > Carr and Hlavin (2010), Character 60; Rücklin *et al*. (2015), Character 60; Zhu Y *et al*. (2016), Character 60; Jobbins *et al*. (2022), Character 60.
 
@@ -521,6 +533,8 @@
  127. Inferognathal with a developed blade portion: absent (0); present (1).
 
 > Dennis and Miles (1979a), Character 13; Carr and Hlavin (2010), Character 63; Rücklin *et al*. (2015), Character 63; Zhu Y *et al*. (2016), Character 63; Jobbins *et al*. (2022), Character 63.
+
+>- **use infragnathal, supragnathal.**  
 
  128. Inferognathal anterior dental field developed anteriorly of the cusp region: absent (0); present (1), indicated by a projection of the inferognathal anterior to the dorsal functional region.
 
@@ -594,7 +608,7 @@
 
 > Zhu Y *et al*. (2016), Character 112.
 
-**Sensory canal grooves**
+**Sensory canal system**
 
  146. Angle between the postorbital and otic branches of the infraorbital sensory line groove: open posteriorly (i.e. the formed angle is greater than 90°) (0); partially closed (i.e. the formed angle is between 45° and 90°) (1); closed (i.e. the formed angle is less than 45°) (2).
 
@@ -660,13 +674,13 @@
 
 > Dupret *et al*. (2017), Character 29; Zhu *et al*. (2010), Character 29.
 
-> Pair posterior pit lines is only present in the Petalithchyida and *Yinminaspis*. Dupret(2008) suggested that two pairs posterior pitline of *Yinminaspis* are homologous with Petalichthyida.? In some clades of Brachythoraci, the posterior pit line is absent, sunch as in the *Homosteus sulcatus*, *Heterosteus ingens* ,*Tafilalichthys lavocati* and *Enseosteus jaekeli*.
+>- Pair posterior pit lines is only present in the Petalithchyida and *Yinminaspis*. Dupret(2008) suggested that two pairs posterior pitline of *Yinminaspis* are homologous with Petalichthyida.? In some clades of Brachythoraci, the posterior pit line is absent, sunch as in the *Homosteus sulcatus*, *Heterosteus ingens* ,*Tafilalichthys lavocati* and *Enseosteus jaekeli*.
 
  162. Posterior pit line distribution on both central and paranuchal plates: anterior and posterior ends clearly connected (0); anterior and posterior ends not connected (implying a superficial run) (1)
 
 > Johnson *et al*. (2000), Character 10; Dupret *et al*. (2009), Character 30; Dupret *et al*. (2017), Character 30; Zhu *et al*. (2010), Character 30.
 
-> The connection of anterior and posterior part of the posterior pit line is present in the various clades of arthrodires. In some clades, the posterior and anterior parts are not directly connected by the deep groove, but through the shallow sulcus, such as in the *Coccosteus cuspidatus* and *Millerosteus minor*. This condition possibly indicates that the shallow sulcus between the anterior and posterior part of posterior pit line is connecting by the sensory canal, as in Petalichthys. However, in the *Coccosteus cuspidatus*, the state of the character is influence by the ontogeny, with some specimens display the anterior is not connected with the posterior. Additionally, in some clade, the posterior part or the anterior part of the posterior pit line is absent, such as in the  *Baringaspis dineleyi*, *Aethaspis utahensis* and *Dunkleosteus terrelli
+>- The connection of anterior and posterior part of the posterior pit line is present in the various clades of arthrodires. In some clades, the posterior and anterior parts are not directly connected by the deep groove, but through the shallow sulcus, such as in the *Coccosteus cuspidatus* and *Millerosteus minor*. This condition possibly indicates that the shallow sulcus between the anterior and posterior part of posterior pit line is connecting by the sensory canal, as in Petalichthys. However, in the *Coccosteus cuspidatus*, the state of the character is influence by the ontogeny, with some specimens display the anterior is not connected with the posterior. Additionally, in some clade, the posterior part or the anterior part of the posterior pit line is absent, such as in the  *Baringaspis dineleyi*, *Aethaspis utahensis* and *Dunkleosteus terrelli
 
  163. Central sensory line: absent (0); present (1).
 
@@ -680,7 +694,7 @@
 
 > Dupret *et al*. (2009), Character 46; Dupret *et al*. (2017), Character 46; Zhu *et al*. (2010), Character 46.
 
-**Neurocranium**
+**Neurocranium** (so few characters from neurocranium)
 
  166. Breadth of the orbitotemporal neurocranium, indicated by the breadth between the two inner margins of the supraorbital vaults: wide, defined by the ratio of the breadth of the obitotemporal neurocranium/the breadth of the skull roof at the level immediately behind the supraorbital vault larger than 0.4 (0); narrow, defined by the ratio of the breadth of the orbitotemporal neurocranium/ the breadth of the skull roof less than 0.4 (1).
 
@@ -694,7 +708,7 @@
 
 > Dupret *et al*. (2009), Character 1; Dupret *et al*. (2017), Character 1; Zhu *et al*. (2010), Character 1.
 
-> Same as "Optic fissure: present (0): absent (1)".
+>- Same as "Optic fissure: present (0): absent (1)".
 
  169. Position of foramen for hyomandibular branch of facial nerve in relation to anterior postorbital process: foramen in distal part of the anterior postorbital process (0); foramen in proximoposterior position (1).
 
@@ -702,7 +716,11 @@
 
  170. Neurocranial supraorbital process: absent (0); present (1).
 
+
 > Dupret *et al*. (2009), Character 3; Dupret *et al*. (2017), Character 3; Zhu *et al*. (2010), Character 3.
+
+> Dupret *et al*. (2017), Character 3; Zhu *et al*. (2010), Character 3.
+
 
  171. Neurocranial basal process: absent (0); present (1).
 
@@ -717,9 +735,10 @@
 
 **addition**
 
-173. Inframarginal crista: absent(0); present(1).
+173. Inframarginal crista: absen t(0); present (1).
 
-174. Number of inframarginal crista: two(0); one(1).
+174. Number of inframarginal crista: two (0); one (1).
 
-175. The groove of the path of the ramus mandibularis internus VII:absent(0); present(1).
-> In taxa of Coccosteomorhpi, on the mesial surface of the blade , a groove running subparallel to its lower edge (gr.cth) is possibly corresponding to the path of the ramus mandibularis internus VII, such as in the *Coccosteus cuspidatus*, *Xiantingosteus gracilis*, and *Camuropiscis concinnus*. 
+175. The groove for the path of the ramus mandibularis internus VII: absent (0); present (1).
+
+>- In taxa of Coccosteomorhpi, on the mesial surface of the blade, a groove running subparallel to its lower edge (gr.cth) is possibly corresponding to the path of the ramus mandibularis internus VII, such as in the *Coccosteus cuspidatus*, *Xiantingosteus gracilis*, and *Camuropiscis concinnus*. 
