@@ -2,7 +2,7 @@
 **Skull roof**
 
  1. Nuchal plate with posterodorsally placed paired pits: absent (0), present (1).
- comment
+ comment test
 
 > Goujet (1984); Carr and Hlavin (2010), Character 1; Rücklin *et al*. (2015), Character 1; Zhu Y *et al*. (2016), Character 1; Jobbins *et al*. (2022), Character 1.
 
@@ -680,7 +680,9 @@ cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) 
 
 > Johnson *et al*. (2000), Character 10; Dupret *et al*. (2009), Character 30; Dupret *et al*. (2017), Character 30; Zhu *et al*. (2010), Character 30.
 
+
 >- The connection of anterior and posterior part of the posterior pit line is present in the various clades of arthrodires. In some clades, the posterior and anterior parts are not directly connected by the deep groove, but through the shallow sulcus, such as in the *Coccosteus cuspidatus* and *Millerosteus minor*. This condition possibly indicates that the shallow sulcus between the anterior and posterior part of posterior pit line is connecting by the sensory canal, as in Petalichthys. However, in the *Coccosteus cuspidatus*, the state of the character is influence by the ontogeny, with some specimens display the anterior is not connected with the posterior. Additionally, in some clade, the posterior part or the anterior part of the posterior pit line is absent, such as in the  *Baringaspis dineleyi*, *Aethaspis utahensis* and *Dunkleosteus terrelli
+
 
  163. Central sensory line: absent (0); present (1).
 
@@ -739,6 +741,16 @@ cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) 
 
 174. Number of inframarginal crista: two (0); one (1).
 
-175. The groove for the path of the ramus mandibularis internus VII: absent (0); present (1).
+175. The groove of the path of the ramus mandibularis internus VII:absent(0); present(1).
+> In Coccosteomorhpi, on the mesial surface of the blade , a groove running subparallel to its lower edge (gr.cth) is possibly corresponding to the path of the ramus mandibularis internus VII, such as in the *Coccosteus cuspidatus*, *Xiantingosteus gracilis*, and *Camuropiscis concinnus*.
 
->- In taxa of Coccosteomorhpi, on the mesial surface of the blade, a groove running subparallel to its lower edge (gr.cth) is possibly corresponding to the path of the ramus mandibularis internus VII, such as in the *Coccosteus cuspidatus*, *Xiantingosteus gracilis*, and *Camuropiscis concinnus*. 
+176.Middle pit-line: absent(0); present(1).
+>In the Dunkleosteidae, the middle pit-line is absent, such as in the *Gorgonichthys*, *Dunkleosteus*, and *Heterosteus ingens*. The middle pit-line is present in the majority of arthrodires, such as in the *Kujdanowiaspis* and *Coccosteus*.
+
+177.Postocular crest: absent(0); present(1).
+>The postocular crest is present in many plesiomorphic arthrodires, such as *Kujdanowiaspis* (Stensiö 1963: fig. 42), Buchanosteus (Young 1979: fig. 2), but is absent in eubrachythoracids. In contrast, many eubrachythoracids posssess dermal postorbital processes, but lacking the postocular crest.
+
+178. Round depression lateral to supraorbital vault: absent (0); present (1).
+> The round depression is present in many plesiomorphic arthrodires, such as *Buchansopteus*,*Dhanguura* and *Exutaspis*.
+
+
