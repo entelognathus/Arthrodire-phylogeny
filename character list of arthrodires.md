@@ -660,13 +660,13 @@
 
 > Dupret *et al*. (2017), Character 29; Zhu *et al*. (2010), Character 29.
 
-> Pair posterior pit lines is only present in the Petalithchyida and *Yinminaspis*. Dupret(2008) suggested that two pairs posterior pitline of *Yinminaspis* are homologous with Petalichthyida.? In some clades of Brachythoraci, the posterior pit line is absent, sunch as in the *Homosteus sulcatus*, *Heterosteus ingens* ,*Tafilalichthys lavocati* and *Enseosteus jaekeli*.
+> Paired posterior pit lines are present in the Petalithchyida and *Yinminaspis*. Dupret(2008) suggested that two pairs posterior pitline of *Yinminaspis* are homologous with Petalichthyida.?
 
  162. Posterior pit line distribution on both central and paranuchal plates: anterior and posterior ends clearly connected (0); anterior and posterior ends not connected (implying a superficial run) (1)
 
 > Johnson *et al*. (2000), Character 10; Dupret *et al*. (2017), Character 30; Zhu *et al*. (2010), Character 30.
 
-> The connection of anterior and posterior part of the posterior pit line is present in the various clades of arthrodires. In some clade, the posterior and anterior is not directly connected by the deep groove, but through the shallow sulcus, such as in the *Coccosteus cuspidatus* and *Millerosteus minor*. This condition possibly indicates that the shallow sulcus between the anterior and posterior part of posterior pit line is connecting by the sensory canal, as in Petalichthys. However, in the *Coccosteus cuspidatus*, the state of the character is influence by the ontogeny, with some specimens display the anterior is not connected with the posterior. Additionally, in some clade, the posterior part or the anterior part of the posterior pit line is absent, such as in the  *Baringaspis dineleyi*, *Aethaspis utahensis* and *Dunkleosteus terrelli*
+> The connection of anterior and posterior part of the posterior pit line is present in various clades of arthrodires. In some clade, the posterior and anterior part is not directly connected by the deep groove, but through the shallow sulcus, such as in the *Coccosteus cuspidatus* and *Millerosteus minor*. This condition possibly indicates that the shallow sulcus between the anterior and posterior part of posterior pit line is connecting by the sensory canal, as in Petalichthys. However, in *Coccosteus cuspidatus*, the state of this character is influence by the ontogeny, with some specimens display the anterior part is not connected with the posterior part. Additionally, in some clade, the posterior part or the anterior part of the posterior pit line is absent, such as in the  *Baringaspis dineleyi*, *Aethaspis utahensis* and *Dunkleosteus terrelli*
 
  163. Central sensory line: absent (0); present (1).
 
@@ -722,7 +722,7 @@ Dupret *et al*. (2017), Character 3; Zhu *et al*. (2010), Character 3.
 174. Number of inframarginal crista: two(0); one(1).
 
 175. The groove of the path of the ramus mandibularis internus VII:absent(0); present(1).
-> In taxa of Coccosteomorhpi, on the mesial surface of the blade , a groove running subparallel to its lower edge (gr.cth) is possibly corresponding to the path of the ramus mandibularis internus VII, such as in the *Coccosteus cuspidatus*, *Xiantingosteus gracilis*, and *Camuropiscis concinnus*.
+> In Coccosteomorhpi, on the mesial surface of the blade , a groove running subparallel to its lower edge (gr.cth) is possibly corresponding to the path of the ramus mandibularis internus VII, such as in the *Coccosteus cuspidatus*, *Xiantingosteus gracilis*, and *Camuropiscis concinnus*.
 
 176.Middle pit-line: absent(0); present(1).
 >In the Dunkleosteidae, the middle pit-line is absent, such as in the *Gorgonichthys*, *Dunkleosteus*, and *Heterosteus ingens*. The middle pit-line is present in the majority of arthrodires, such as in the *Kujdanowiaspis* and *Coccosteus*.
