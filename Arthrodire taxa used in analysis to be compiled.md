@@ -2,26 +2,23 @@
 
 New taxa and references added along with the research.
 
-**最好到有效种名，种名才是可靠的OTU。**
+*Kendrickichthys cavernosus*
+> (Dennis & Miles, 1980)
 
-Follow this model.
+> Early Frasnian, Late Devonian
 
-*Acanthodes bronni*, Asselian to Sakmarian, Cisuralian, Permian (Brazeau and Valerie, 2015; Coates, 1994; Davis *et al*., 2012; Gross, 1935; Miles, 1973a; b; Watson, 1937)
+> - [Formation, Locality]
 
-Arthrodires:
+> - **any comments on this species added here**
 
-*Vanchienolepis*: Early Pragian, Early Devonian; Tông-Dzuy & Janvier (1990); Janvier & Phuong (1999）**(按照统一的规则排列，按作者，按年代）**
+*Kiangyousteus yohii*
+> (Liu, 1955; Zhu & Zhu, 2013)
 
+> Givetian, Middle Devonian
 
-**References**
+> - [Formation, Locality]
 
-Andrews, S. M. (1978). A possible occurrence of *Remigolepis* in the topmost Old Red Sandstone of Berwickshire. *Scottish Journal of Geology*, **14**(4), 311-315. 
-
-
-
-*Kendrickichthys cavernosus*, Early Frasnian, Late Devonian (Dennis & Miles, 1980)
-
-*Kiangyousteus yohii*, Givetian, Middle Devonian (Liu, 1955; Zhu & Zhu, 2013)
+> - **any comments on this species added here**
 
 *Kujdanowiaspis podolica*, Lochkovian, Early Devonian (Dupret, 2010; Stensiö, 1944, 1963)
 
@@ -88,4 +85,9 @@ Andrews, S. M. (1978). A possible occurrence of *Remigolepis* in the topmost Old
 *Yinosteus marjor*, Emsian, Early Devonian (Zhu 2016; Wang & Wang, 1984)
 
 *Yujiangolepis liujingensis*, Pragian, Early Devonian (Dupret 2009; Wang 1998)
+
+**References**
+
+Andrews, S. M. (1978). A possible occurrence of *Remigolepis* in the topmost Old Red Sandstone of Berwickshire. *Scottish Journal of Geology*, **14**(4), 311-315. 
+
 
