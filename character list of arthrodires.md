@@ -3,7 +3,7 @@
 
  1. Nuchal plate with posterodorsally placed paired pits: absent (0), present (1).
  comment test
-
+0
 > Goujet (1984); Carr and Hlavin (2010), Character 1; Rücklin *et al*. (2015), Character 1; Zhu Y *et al*. (2016), Character 1; Jobbins *et al*. (2022), Character 1.
 
  2. Posterolateral extension of the lateral consolidated arch extends as a distinct ridge or thickening onto the postmarginal plate, or to the skull roof edge if the postmarginal plate is absent: absent (0); present (1).
@@ -324,7 +324,7 @@
 
 > Carr and Hlavin (2010), Character 36; Rücklin *et al*. (2015), Character 36; Zhu Y *et al*. (2016), Character 36; Jobbins *et al*. (2022), Character 36.
 
- 79. Posterior borde of the median dorsal plate: rounded (0); spinous (1).
+ 79. Posterior border of the median dorsal plate: rounded (0); spinous (1).
 
 > Dennis and Miles (1979a), Character 18; Carr and Hlavin (2010), Character 37; Rücklin *et al*. (2015), Character 37; Zhu Y *et al*. (2016), Character 37; Jobbins *et al*. (2022), Character 37.
 
@@ -352,7 +352,7 @@
 
 > Carr and Hlavin (2010), Character 43; Rücklin *et al*. (2015), Character 43; Zhu Y *et al*. (2016), Character 43; Jobbins *et al*. (2022), Character 43.
 
- 86. Ventral lamina of the posterior lateral plate ventral lamina: absent (0); present (1).
+ 86. Ventral lamina of the posterior lateral plate: absent (0); present (1).
 
 > Gardiner & Miles (1990), Character 22.13; Carr and Hlavin (2010), Character 44; Rücklin *et al*. (2015), Character 44; Zhu Y *et al*. (2016), Character 44; Jobbins *et al*. (2022), Character 44.
 
@@ -424,63 +424,63 @@ cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) 
 
  101. Ventral keel on internal side of median dorsal plate: absent (0); present (1).
 
-> Dupret *et al*. (2017), Character 42; Zhu *et al*. (2010), Character 42.
+> Dupret *et al*. (2009), Character 42; Dupret *et al*. (2017), Character 42; Zhu *et al*. (2010), Character 42.
 
  102. Unornamented (overlapped) area on anterior edge of median dorsal plate: absent (0); present (1).
 
-> Johnson *et al*. (2000), Character 25; Dupret *et al*. (2017), Character 43; Zhu *et al*. (2010), Character 43.
+> Johnson *et al*. (2000), Character 25; Dupret *et al*. (2009), Character 43; Dupret *et al*. (2017), Character 43; Zhu *et al*. (2010), Character 43.
 
  103. Condition of unornamented (overlapped) area on anterior edge of median dorsal plate: simple (0); double (1).
 
-> Dupret *et al*. (2017), Character 44; Zhu *et al*. (2010), Character 44.
+> Dupret *et al*. (2009), Character 44; Dupret *et al*. (2017), Character 44; Zhu *et al*. (2010), Character 44.
 
  104. Extrascapular plate: absent (0); present (1).
 
-> Dupret *et al*. (2017), Character 45; Zhu *et al*. (2010), Character 45.
+> Dupret *et al*. (2009), Character 45; Dupret *et al*. (2017), Character 45; Zhu *et al*. (2010), Character 45.
 
  105. Posterior lateral plate: absent (0); present (1).
 
-> Johnson *et al*. (2000), Character 38; Dupret *et al*. (2017), Character 47; Zhu *et al*. (2010), Character 47.
+> Johnson *et al*. (2000), Character 38; Dupret *et al*. (2009), Character 47; Dupret *et al*. (2017), Character 47; Zhu *et al*. (2010), Character 47.
 
  106. Pectoral notch of anterior ventrolateral plate: shallow (0); deep (1).
 
-> Johnson *et al*. (2000), Character 31; Dupret *et al*. (2017), Character 48; Zhu *et al*. (2010), Character 48.
+> Johnson *et al*. (2000), Character 31; Dupret *et al*. (2009), Character 48; Dupret *et al*. (2017), Character 48; Zhu *et al*. (2010), Character 48.
 
  107. Prepectoral process of anterior ventrolateral plate: short (0); long (1).
 
-> Dupret *et al*. (2017), Character 49; Zhu *et al*. (2010), Character 49.
+> Dupret *et al*. (2009), Character 49; Dupret *et al*. (2017), Character 49; Zhu *et al*. (2010), Character 49.
 
  108. Anteroventral plates: absent (0); present (1).
 
-> Dupret *et al*. (2017), Character 50; Zhu *et al*. (2010), Character 50.
+> Dupret *et al*. (2009), Character 50; Dupret *et al*. (2017), Character 50; Zhu *et al*. (2010), Character 50.
 
  109. Anterior medioventral plate: absent (0); present (1).
 
-> Johnson *et al*. (2000), Character 39, modified; Dupret *et al*. (2017), Character 52; Zhu *et al*. (2010), Character 52.
+> Johnson *et al*. (2000), Character 39, modified; Dupret *et al*. (2009), Character 52; Dupret *et al*. (2017), Character 52; Zhu *et al*. (2010), Character 52.
 
  110. Posterior medioventral plate: absent (0); present (1).
 
-> Johnson *et al*. (2000), Character 39, modified; Dupret *et al*. (2017), Character 53; Zhu *et al*. (2010), Character 53.
+> Johnson *et al*. (2000), Character 39, modified; Dupret *et al*. (2009), Character 53; Dupret *et al*. (2017), Character 53; Zhu *et al*. (2010), Character 53.
 
  111. Posterior ventrolateral plates mutually overlapping: simple overlapping (0); sinusoidal/double overlapping (1).
 
-> Dupret *et al*. (2017), Character 54; Zhu *et al*. (2010), Character 54.
+> Dupret *et al*. (2009), Character 54; Dupret *et al*. (2017), Character 54; Zhu *et al*. (2010), Character 54.
 
  112. Spinelets on mesial side of spinal plate: absent (0); present (1).
 
-> Johnson *et al*. (2000), Character 29; Dupret *et al*. (2017), Character 55; Zhu *et al*. (2010), Character 55.
+> Johnson *et al*. (2000), Character 29; Dupret *et al*. (2009), Character 55; Dupret *et al*. (2017), Character 55; Zhu *et al*. (2010), Character 55.
 
  113. Length/width ratio (L/W) of posterior dorsolateral plate: L/H < 2 (0); L/H> 2 (1).
 
-> Johnson *et al*. (2000), Character 36; Dupret *et al*. (2017), Character 62; Zhu *et al*. (2010), Character 62.
+> Johnson *et al*. (2000), Character 36; Dupret *et al*. (2009), Character 62; Dupret *et al*. (2017), Character 62; Zhu *et al*. (2010), Character 62.
 
  114. RSp (=LSp borne by AVL/LSp): RSp < 60% (0); RSp =>60% (1). [ratio of [length proportion of the spinal plate borne by the anterior ventrolateral plate] over total length of the spinal plate]
 
-> Johnson *et al*. (2000), Character 28; Dupret *et al*. (2017), Character 64; Zhu *et al*. (2010), Character 64.
+> Johnson *et al*. (2000), Character 28; Dupret *et al*. (2009), Character 64; Dupret *et al*. (2017), Character 64; Zhu *et al*. (2010), Character 64.
 
  115. Length/width ratio (L/W) of posterior ventrolateral plates: L/W < 1.5 (0); L/W =>1.5 (1).
 
-> Dupret *et al*. (2017), Character 65; Zhu *et al*. (2010), Character 65.
+> Dupret *et al*. (2009), Character 65; Dupret *et al*. (2017), Character 65; Zhu *et al*. (2010), Character 65.
 
 **Cheek and palatoquadrate**
 
@@ -656,23 +656,23 @@ cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) 
 
  157. External morphology of sensory line system: canals with external pores (0); grooves (1).
 
-> Dupret *et al*. (2017), Character 14; Zhu *et al*. (2010), Character 14.
+> Dupret *et al*. (2009), Character 14; Dupret *et al*. (2017), Character 14; Zhu *et al*. (2010), Character 14.
 
  158. Supraorbital sensory lines: separate (0); meet posteriorly (1).
 
-> Dupret *et al*. (2017), Character 15; Zhu *et al*. (2010), Character 15.
+> Dupret *et al*. (2009), Character 15; Dupret *et al*. (2017), Character 15; Zhu *et al*. (2010), Character 15.
 
  159. Infraorbital and cephalic main lateral sensory lines run along mesial margin of the marginal plate: no (0); yes (1).
 
-> Dupret *et al*. (2017), Character 16; Zhu *et al*. (2010), Character 16.
+> Dupret *et al*. (2009), Character 16; Dupret *et al*. (2017), Character 16; Zhu *et al*. (2010), Character 16.
 
  160. Central sensory line leaves postorbital plate until radiation center of central plates: no (0); yes (1).
 
-> Johnson *et al*. (2000), Character 11; Dupret *et al*. (2017), Character 28; Zhu *et al*. (2010), Character 28.
+> Johnson *et al*. (2000), Character 11; Dupret *et al*. (2009), Character 28; Dupret *et al*. (2017), Character 28; Zhu *et al*. (2010), Character 28.
 
  161. Number of posterior pit lines: two pairs (0); one pair (1).
 
-> Dupret *et al*. (2017), Character 29; Zhu *et al*. (2010), Character 29.
+> Dupret *et al*. (2009), Character 29; Dupret *et al*. (2017), Character 29; Zhu *et al*. (2010), Character 29.
 
 >- Pair posterior pit lines is only present in the Petalithchyida and *Yinminaspis*. Dupret(2008) suggested that two pairs posterior pitline of *Yinminaspis* are homologous with Petalichthyida.? In some clades of Brachythoraci, the posterior pit line is absent, sunch as in the *Homosteus sulcatus*, *Heterosteus ingens* ,*Tafilalichthys lavocati* and *Enseosteus jaekeli*.
 
@@ -706,7 +706,7 @@ cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) 
 
 > Zhu Y *et al*. (2016), Character 114;
 
- 168. Link between the two neurocranium components (ethmoid and postethmoid parts): no link (‘loose nose’ fishes) (0); fusion (by osseous trabecles or total fusion) (1).\
+ 168. Link between the two neurocranium components (ethmoid and postethmoid parts): no link (‘loose nose’ fishes) (0); fusion (by osseous trabecles or total fusion) (1).
 
 > Dupret *et al*. (2009), Character 1; Dupret *et al*. (2017), Character 1; Zhu *et al*. (2010), Character 1.
 
