@@ -1,43 +1,47 @@
 
 **Skull roof**
 
- 1. Nuchal plate with posterodorsally placed paired pits: absent (0), present (1).
- comment test
-
+1. Nuchal plate with posterodorsally placed paired pits: absent (0), present (1).
 > Goujet (1984); Carr and Hlavin (2010), Character 1; Rücklin *et al*. (2015), Character 1; Zhu Y *et al*. (2016), Character 1; Jobbins *et al*. (2022), Character 1.
-absent,
- 2. Posterolateral extension of the lateral consolidated arch extends as a distinct ridge or thickening onto the postmarginal plate, or to the skull roof edge if the postmarginal plate is absent: absent (0); present (1).
-？
+
+> - absent, [Wenyuan, you should write "the coding of *aaaa* is 0. Otherwise, we don't know what you mean.]
+
+2. Posterolateral extension of the lateral consolidated arch extends as a distinct ridge or thickening onto the postmarginal plate, or to the skull roof edge if the postmarginal plate is absent: absent (0); present (1).
 >  Carr and Hlavin (2010), Character 2; Rücklin *et al*. (2015), Character 2; Zhu Y *et al*. (2016), Character 2; Jobbins *et al*. (2022), Character 2.
  
-> In the non-eubrachythoracid brachythoracids, there are two distinct ridges at the posterior part of the lateral consolidated arch. In some clades, the lateral consolidated arch does not extend to accommandate the posterior inframarginal crista, such as in *Exutaspis* whose lateral consolidated arch gradually disappeared near the posterior inframarginal crista. In *Holonema*, the lateral consolidated arch is absent, but the inframarginal crista is present.
+> - In the non-eubrachythoracid brachythoracids, there are two distinct ridges at the posterior part of the lateral consolidated arch. In some clades, the lateral consolidated arch does not extend to accommandate the posterior inframarginal crista, such as in *Exutaspis* whose lateral consolidated arch gradually disappeared near the posterior inframarginal crista. In *Holonema*, the lateral consolidated arch is absent, but the inframarginal crista is present.
 
- 3. Triangular depression posterior to supraorbital vault: absent (0); present (1).
+> - ？
 
+3. Triangular depression posterior to supraorbital vault: absent (0); present (1).
 > Dennis and Miles (1979b), Character 14, in part; Carr and Hlavin (2010), Character 3; Rücklin *et al*. (2016), Character 3; Zhu Y *et al*. (2015), Character 3; Jobbins *et al*. (2022), Character 3.
-？
- 4. Neurocranial process or thickening: absent (0); thickening (1); distinct process (2).
 
+> - ？
+
+4. Neurocranial process or thickening: absent (0); thickening (1); distinct process (2).
 > Dennis and Miles (1979b), Character 16, in part; Carr and Hlavin (2010), Character 4; Rücklin *et al*. (2016), Character 4; Zhu Y *et al*. (2015), Character 4; Jobbins *et al*. (2022), Character 4.
-？
- 5. Posterior development of Rostral plate: not developed (0); subtriangular (1); T-shaped (2).
 
+> - ？
+
+5. Posterior development of Rostral plate: not developed (0); subtriangular (1); T-shaped (2).
 > Carr and Hlavin (2010), Character 5; Rücklin *et al*. (2015), Character 5; Zhu Y *et al*. (2016), Character 5; Jobbins *et al*. (2022), Character 5.
-not developed,
- 6. Anterior elongation of the rostrum: absent (0); present (1).
 
+> - not developed,
+
+6. Anterior elongation of the rostrum: absent (0); present (1).
 > Dennis and Miles (1979b), Character 3; Long (1988), Characters 4, 12, and 16; Carr and Hlavin (2010), Character 6; Rücklin *et al*.  (2015), Character 6; Zhu Y *et al*. (2016), Character 6; Jobbins *et al*. (2022), Character 6.
-absent,
- 7. Ventrally enclosed tubular rostrum: absent (0); present (1).
 
+> - absent,
+
+7. Ventrally enclosed tubular rostrum: absent (0); present (1).
 > Carr and Hlavin (2010), Character 7; Rücklin *et al*. (2015), Character 7; Zhu Y *et al*. (2016), Character 7; Jobbins *et al*. (2022), Character 7.
--
- 8. Position of anterior edge of pineal plate: over orbit (0); anterior to orbit (1).
 
+> -
+
+8. Position of anterior edge of pineal plate: over orbit (0); anterior to orbit (1).
 > Carr and Hlavin (2010), Character 8; Rücklin *et al*. (2015), Character 8; Zhu Y *et al*. (2016), Character 8; Jobbins *et al*. (2022), Character 8.
 
  9. Position of posterior edge of pineal plate: over orbit (0); posterior to orbit (1).
-
 > Carr and Hlavin (2010), Character 9; Rücklin *et al*. (2015), Character 9; Zhu Y *et al*. (2016), Character 9; Jobbins *et al*. (2022), Character 9.
 
  10. Shape of the external anterior nuchal border: straight (0); convex (1); concave (2).
