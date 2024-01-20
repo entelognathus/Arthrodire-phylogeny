@@ -41,41 +41,34 @@
 8. Position of anterior edge of pineal plate: over orbit (0); anterior to orbit (1).
 > Carr and Hlavin (2010), Character 8; Rücklin *et al*. (2015), Character 8; Zhu Y *et al*. (2016), Character 8; Jobbins *et al*. (2022), Character 8.
 
- 9. Position of posterior edge of pineal plate: over orbit (0); posterior to orbit (1).
+9. Position of posterior edge of pineal plate: over orbit (0); posterior to orbit (1).
 > Carr and Hlavin (2010), Character 9; Rücklin *et al*. (2015), Character 9; Zhu Y *et al*. (2016), Character 9; Jobbins *et al*. (2022), Character 9.
 
  10. Shape of the external anterior nuchal border: straight (0); convex (1); concave (2).
-
+[This space is useless.]
 > Carr and Hlavin (2010), Character 10; Rücklin *et al*. (2015), Character 10; Zhu Y *et al*. (2016), Character 10; Jobbins *et al*. (2022), Character 10.
-
- 11. Shape of the posterior nuchal border: straight (0); convex (1); concave (2).
-
+[This space is needed.]
+11. Shape of the posterior nuchal border: straight (0); convex (1); concave (2).
 > Carr and Hlavin (2010), Character 11; Rücklin *et al*. (2015), Character 11; Zhu Y *et al*. (2016), Character 11; Jobbins *et al*. (2022), Character 11.
 
  12. Nuchal thickening: discontinuous with the lateral thickening associated with the cranio-thoracic dermal articulation (0); continuous thickening across the posterior skull roof (1).
-
 > Lelièvre (1988); Carr and Hlavin (2010), Character 12; Rücklin *et al*. (2015), Character 12; Zhu Y *et al*. (2016), Character 12; Jobbins *et al*. (2022), Character 12.
 
- 13. Preorbital plate embayment of central plate: absent (0); shallow (1); developed (2).
-
+13. Preorbital plate embayment of central plate: absent (0); shallow (1); developed (2).
 > Carr and Hlavin (2010), Character 13; Rücklin *et al*. (2015), Character 13; Zhu Y *et al*. (2016), Character 13; Jobbins *et al*. (2022), Character 13.
 
- 14. Paranuchal plate embayment of central plate: absent (0); shallow (1); developed (2).
-
+14. Paranuchal plate embayment of central plate: absent (0); shallow (1); developed (2).
 > Carr and Hlavin (2010), Character 14; Rücklin *et al*. (2015), Character 14; Zhu Y *et al*. (2016), Character 14; Jobbins *et al*. (2022), Characters 14 and 19.
 
 > The paranuchal plate embayment is determined by formation of the lateral lobe of the central plate, and not the posterior lobe.
 
- 15. Length ratio for the external longitudinal of the preorbital and central plates (r = PrO/C): subequal, i.e. 0.75 < r < 1.25 (0); preorbital plate longer, i.e. r > 1.25 (1); central plate longer, i.e. r < 0.75 (2).
-
+15. Length ratio for the external longitudinal of the preorbital and central plates (r = PrO/C): subequal, i.e. 0.75 < r < 1.25 (0); preorbital plate longer, i.e. r > 1.25 (1); central plate longer, i.e. r < 0.75 (2).
 > Carr and Hlavin (2010), Character 15; Rücklin *et al*. (2015), Character 15; Zhu Y *et al*. (2016), Character 15; Jobbins *et al*. (2022), Character 15.
 
- 16. Infrafenestral process of postnasal plate : absent (0); present (1).
-
+16. Infrafenestral process of postnasal plate : absent (0); present (1).
 > Gardiner and Miles (1990), Character 22.18; Carr and Hlavin (2010), Character 16; Rücklin *et al*. (2016), Character 16; Zhu Y *et al*. (2016), Character 16; Jobbins *et al*. (2022), Character 16.
 
  17. Preorbital plate with a dermal preorbital lamina or process: absent (0); present (1).
-
 > Dennis and Miles (1979b), Character 19; Young (1981), Character 19; Carr and Hlavin (2010), Character 17; Rücklin *et al*. (2015), Character 17; Zhu Y *et al*. (2016), Character 17; Jobbins *et al*. (2022), Character 17.
 
  18. Preorbital plates with a median contact: contact posterior to pineal plate (0); contact anterior to pineal plate (1); pineal plate separating preorbital plates (2).
@@ -83,7 +76,6 @@
 > Young (1981), Character 19a, modified; Carr and Hlavin (2010), Character 18; Rücklin *et al*. (2015), Character 18; Zhu Y *et al*. (2016), Character 18; Jobbins *et al*. (2022), Character 18.
 
  19. Extent of median preorbital plate contact: short (0); long, **measured as the ratio of (contact length)/ (PrO parasagittal length)** (1).
-
 > Carr and Hlavin (2010), Character 19; Rücklin *et al*. (2015), Character 19; Zhu Y *et al*. (2016), Character 19; Jobbins *et al*. (2022), Character 19.
 
  20. Postorbital plate embayment of central plate: absent (0); shallow (1); developed (2).
