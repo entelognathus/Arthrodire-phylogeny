@@ -9,7 +9,7 @@
 2. Posterolateral extension of the lateral consolidated arch extends as a distinct ridge or thickening onto the postmarginal plate, or to the skull roof edge if the postmarginal plate is absent: absent (0); present (1).
 >  Carr and Hlavin (2010), Character 2; Rücklin *et al*. (2015), Character 2; Zhu Y *et al*. (2016), Character 2; Jobbins *et al*. (2022), Character 2.
  
-> - In the non-eubrachythoracid brachythoracids, there are two distinct ridges at the posterior part of the lateral consolidated arch. In some clades, the lateral consolidated arch does not extend to accommandate the posterior inframarginal crista, such as in *Exutaspis* whose lateral consolidated arch gradually disappeared near the posterior inframarginal crista. In *Holonema*, the lateral consolidated arch is absent, but the inframarginal crista is present.
+> - The definition does not summarize the condition in plesiomorphic brachythoracids well, in which the lateral consolidated arch is separated with the inframarginal crista, exemplified in *Exutaspis*. or the lateral consolidated arch is absent but the inframarginal crista is present, as in *Holonema* . 
 
 > - ？
 
@@ -744,9 +744,19 @@ cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) 
 >In the Dunkleosteidae, the middle pit-line is absent, such as in the *Gorgonichthys*, *Dunkleosteus*, and *Heterosteus ingens*. The middle pit-line is present in the majority of arthrodires, such as in the *Kujdanowiaspis* and *Coccosteus*.
 
 177.Postocular crest: absent(0); present(1).
->The postocular crest is present in many plesiomorphic arthrodires, such as *Kujdanowiaspis* (Stensiö 1963: fig. 42), Buchanosteus (Young 1979: fig. 2), but is absent in eubrachythoracids. In contrast, many eubrachythoracids posssess dermal postorbital processes, but lacking the postocular crest.
+>The postocular crest is present in many plesiomorphic arthrodires, such as *Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2), but is absent in eubrachythoracids. In contrast, many eubrachythoracids posssess dermal postorbital processes, but lacking the postocular crest.
 
 178. Round depression lateral to supraorbital vault: absent (0); present (1).
 > The round depression is present in many plesiomorphic arthrodires, such as *Buchansopteus*,*Dhanguura* and *Exutaspis*.
+
+179. Posterolateral extension of the lateral consolidated arch: (0) absent; present(1); forming a prominent crest (2).
+> The lateral consolidateda arch is absent in plesiomorphic arthrodires and present in brachythoracids. In dunkleosteids, the lateal consolidated arch form a prominent crest and is connected with the inframarginal crista.
+
+180. Lateral nuchal depression on the dorsal suface of neurocranium: absent (0); present (1).
+>The lateral nuchal depression on the dorsal suface of neurocranium is present in the brachythoracids and absent in the plesiomorphic arthrodires. The lateral nuchal depression corresponds to the endolymphatic thickening.
+
+181. Median nuchal depression:long (0);short (1)
+>The lateral nuchal depression on the dorsal suface of neurocranium is short in the brachythoracids and long in the plesiomorphic arthrodires.
+
 
 
