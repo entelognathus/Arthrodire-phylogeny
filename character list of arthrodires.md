@@ -1,211 +1,257 @@
 
 **Skull roof**
 
-1. Nuchal plate with posterodorsally placed paired pits: absent (0), present (1).
+ 1. Nuchal plate with posterodorsally placed paired pits: absent (0), present (1).
 > Goujet (1984); Carr and Hlavin (2010), Character 1; Rücklin *et al*. (2015), Character 1; Zhu Y *et al*. (2016), Character 1; Jobbins *et al*. (2022), Character 1.
 
-> - absent, [Wenyuan, you should write "the coding of *aaaa* is 0. Otherwise, we don't know what you mean.]
+> - The coding of *Xitun's Actinolepid* is 0.
 
-2. Posterolateral extension of the lateral consolidated arch extends as a distinct ridge or thickening onto the postmarginal plate, or to the skull roof edge if the postmarginal plate is absent: absent (0); present (1).
+ 2. Posterolateral extension of the lateral consolidated arch extends as a distinct ridge or thickening onto the postmarginal plate, or to the skull roof edge if the postmarginal plate is absent: absent (0); present (1).
 >  Carr and Hlavin (2010), Character 2; Rücklin *et al*. (2015), Character 2; Zhu Y *et al*. (2016), Character 2; Jobbins *et al*. (2022), Character 2.
  
 > - In the non-eubrachythoracid brachythoracids, there are two distinct ridges at the posterior part of the lateral consolidated arch. In some clades, the lateral consolidated arch does not extend to accommandate the posterior inframarginal crista, such as in *Exutaspis* whose lateral consolidated arch gradually disappeared near the posterior inframarginal crista. In *Holonema*, the lateral consolidated arch is absent, but the inframarginal crista is present.
 
-> - ？
+> - The coding of *Xitun's Actinolepid* is ?.
 
-3. Triangular depression posterior to supraorbital vault: absent (0); present (1).
+ 3. Triangular depression posterior to supraorbital vault: absent (0); present (1).
 > Dennis and Miles (1979b), Character 14, in part; Carr and Hlavin (2010), Character 3; Rücklin *et al*. (2016), Character 3; Zhu Y *et al*. (2015), Character 3; Jobbins *et al*. (2022), Character 3.
 
-> - ？
+> - The coding of *Xitun's Actinolepid* is ?.
 
-4. Neurocranial process or thickening: absent (0); thickening (1); distinct process (2).
+ 4. Neurocranial process or thickening: absent (0); thickening (1); distinct process (2).
 > Dennis and Miles (1979b), Character 16, in part; Carr and Hlavin (2010), Character 4; Rücklin *et al*. (2016), Character 4; Zhu Y *et al*. (2015), Character 4; Jobbins *et al*. (2022), Character 4.
 
-> - ？
+> - The coding of *Xitun's Actinolepid* is ?.
 
-5. Posterior development of Rostral plate: not developed (0); subtriangular (1); T-shaped (2).
+ 5. Posterior development of Rostral plate: not developed (0); subtriangular (1); T-shaped (2).
 > Carr and Hlavin (2010), Character 5; Rücklin *et al*. (2015), Character 5; Zhu Y *et al*. (2016), Character 5; Jobbins *et al*. (2022), Character 5.
 
-> - not developed,
+> - The coding of *Xitun's Actinolepid* is 0.
 
-6. Anterior elongation of the rostrum: absent (0); present (1).
+ 6. Anterior elongation of the rostrum: absent (0); present (1).
 > Dennis and Miles (1979b), Character 3; Long (1988), Characters 4, 12, and 16; Carr and Hlavin (2010), Character 6; Rücklin *et al*.  (2015), Character 6; Zhu Y *et al*. (2016), Character 6; Jobbins *et al*. (2022), Character 6.
 
-> - absent,
+> - The coding of *Xitun's Actinolepid* is 0.
 
-7. Ventrally enclosed tubular rostrum: absent (0); present (1).
+ 7. Ventrally enclosed tubular rostrum: absent (0); present (1).
 > Carr and Hlavin (2010), Character 7; Rücklin *et al*. (2015), Character 7; Zhu Y *et al*. (2016), Character 7; Jobbins *et al*. (2022), Character 7.
 
-> -
+> - The coding of *Xitun's Actinolepid* is -.
 
-8. Position of anterior edge of pineal plate: over orbit (0); anterior to orbit (1).
+ 8. Position of anterior edge of pineal plate: over orbit (0); anterior to orbit (1).
 > Carr and Hlavin (2010), Character 8; Rücklin *et al*. (2015), Character 8; Zhu Y *et al*. (2016), Character 8; Jobbins *et al*. (2022), Character 8.
 
-9. Position of posterior edge of pineal plate: over orbit (0); posterior to orbit (1).
+> -The coding of *Xitun's Actinolepid* is 1.
+ 
+ 9. Position of posterior edge of pineal plate: over orbit (0); posterior to orbit (1).
 > Carr and Hlavin (2010), Character 9; Rücklin *et al*. (2015), Character 9; Zhu Y *et al*. (2016), Character 9; Jobbins *et al*. (2022), Character 9.
 
+> -The coding of *Xitun's Actinolepid* is 1.
+ 
  10. Shape of the external anterior nuchal border: straight (0); convex (1); concave (2).
-[This space is useless.]
 > Carr and Hlavin (2010), Character 10; Rücklin *et al*. (2015), Character 10; Zhu Y *et al*. (2016), Character 10; Jobbins *et al*. (2022), Character 10.
-[This space is needed.]
-11. Shape of the posterior nuchal border: straight (0); convex (1); concave (2).
+
+> -The coding of *Xitun's Actinolepid* is 1.
+ 
+ 11. Shape of the posterior nuchal border: straight (0); convex (1); concave (2).
 > Carr and Hlavin (2010), Character 11; Rücklin *et al*. (2015), Character 11; Zhu Y *et al*. (2016), Character 11; Jobbins *et al*. (2022), Character 11.
 
+> -The coding of *Xitun's Actinolepid* is 0.
+ 
  12. Nuchal thickening: discontinuous with the lateral thickening associated with the cranio-thoracic dermal articulation (0); continuous thickening across the posterior skull roof (1).
 > Lelièvre (1988); Carr and Hlavin (2010), Character 12; Rücklin *et al*. (2015), Character 12; Zhu Y *et al*. (2016), Character 12; Jobbins *et al*. (2022), Character 12.
 
-13. Preorbital plate embayment of central plate: absent (0); shallow (1); developed (2).
+> -The coding of *Xitun's Actinolepid* is ?.
+ 13. Preorbital plate embayment of central plate: absent (0); shallow (1); developed (2).
 > Carr and Hlavin (2010), Character 13; Rücklin *et al*. (2015), Character 13; Zhu Y *et al*. (2016), Character 13; Jobbins *et al*. (2022), Character 13.
 
-14. Paranuchal plate embayment of central plate: absent (0); shallow (1); developed (2).
+> -The coding of *Xitun's Actinolepid* is 0.
+ 14. Paranuchal plate embayment of central plate: absent (0); shallow (1); developed (2).
 > Carr and Hlavin (2010), Character 14; Rücklin *et al*. (2015), Character 14; Zhu Y *et al*. (2016), Character 14; Jobbins *et al*. (2022), Characters 14 and 19.
 
 > The paranuchal plate embayment is determined by formation of the lateral lobe of the central plate, and not the posterior lobe.
 
-15. Length ratio for the external longitudinal of the preorbital and central plates (r = PrO/C): subequal, i.e. 0.75 < r < 1.25 (0); preorbital plate longer, i.e. r > 1.25 (1); central plate longer, i.e. r < 0.75 (2).
+> -The coding of *Xitun's Actinolepid* is 0.
+ 15. Length ratio for the external longitudinal of the preorbital and central plates (r = PrO/C): subequal, i.e. 0.75 < r < 1.25 (0); preorbital plate longer, i.e. r > 1.25 (1); central plate longer, i.e. r < 0.75 (2).
 > Carr and Hlavin (2010), Character 15; Rücklin *et al*. (2015), Character 15; Zhu Y *et al*. (2016), Character 15; Jobbins *et al*. (2022), Character 15.
 
-16. Infrafenestral process of postnasal plate : absent (0); present (1).
+> -The coding of *Xitun's Actinolepid* is 0.
+ 16. Infrafenestral process of postnasal plate : absent (0); present (1).
 > Gardiner and Miles (1990), Character 22.18; Carr and Hlavin (2010), Character 16; Rücklin *et al*. (2016), Character 16; Zhu Y *et al*. (2016), Character 16; Jobbins *et al*. (2022), Character 16.
 
+> -The coding of *Xitun's Actinolepid* is ?.
  17. Preorbital plate with a dermal preorbital lamina or process: absent (0); present (1).
-> Dennis and Miles (1979b), Character 19; Young (1981), Character 19; Carr and Hlavin (2010), Character 17; Rücklin *et al*. (2015), Character 17; Zhu Y *et al*. (2016), Character 17; Jobbins *et al*. (2022), Character 17.
+> Dennis and Miles (1979b), Character 19; Young (1981), Character 19; Carr and Hlavin (2010), Character 17; Rücklin *et al*. (2015), Character 17; Zhu Y *et al*. (2016), Character 17; Jobbins *et al*. (2022), Character 
 
+> -The coding of *Xitun's Actinolepid* is ?.
  18. Preorbital plates with a median contact: contact posterior to pineal plate (0); contact anterior to pineal plate (1); pineal plate separating preorbital plates (2).
-
 > Young (1981), Character 19a, modified; Carr and Hlavin (2010), Character 18; Rücklin *et al*. (2015), Character 18; Zhu Y *et al*. (2016), Character 18; Jobbins *et al*. (2022), Character 18.
 
+> -The coding of *Xitun's Actinolepid* is 0.
  19. Extent of median preorbital plate contact: short (0); long, **measured as the ratio of (contact length)/ (PrO parasagittal length)** (1).
 > Carr and Hlavin (2010), Character 19; Rücklin *et al*. (2015), Character 19; Zhu Y *et al*. (2016), Character 19; Jobbins *et al*. (2022), Character 19.
 
+> -The coding of *Xitun's Actinolepid* is 1.
  20. Postorbital plate embayment of central plate: absent (0); shallow (1); developed (2).
 
 > Carr and Hlavin (2010), Character 20; Rücklin *et al*. (2015), Character 20; Zhu Y *et al*. (2016), Character 20; Jobbins *et al*. (2022), Character 20.
 
+> -The coding of *Xitun's Actinolepid* is 0.
  21. Length of the central plate contact with the nuchal plate: short (0); long, measured as greater than one half the length from the nuchal anteromedian point to the posterolateral corner of the nuchal plate (1).
 
 > Carr and Hlavin (2010), Character 21; Rücklin *et al*. (2015), Character 21; Zhu Y *et al*. (2016), Character 21; Jobbins *et al*. (2022), Character 21.
 
+> -The coding of *Xitun's Actinolepid* is 0.
  22. Width of the central plate at its contact with the pineal plate: central plate tapers anteriorly to contact (0); central plate expanded laterally to produce a transverse anterior border (1).
 
 > Carr and Hlavin (2010), Character 22; Rücklin *et al*. (2015), Character 22; Zhu Y *et al*. (2016), Character 22; Jobbins *et al*. (2022), Character 22.
 
+> -The coding of *Xitun's Actinolepid* is 0.
  23. Marginal plate in contact with the central plate: absent (0); present (1).
 
 > Lelièvre (1988), Character 5; Johnson *et al*. (2000), Character 5; Carr and Hlavin (2010), Character 23; Rücklin *et al*. (2015), Character 23; Zhu Y *et al*. (2016), Character 23; Dupret *et al*., Character 22; Jobbins *et al*. (2022), Character 23.
 
+> -The coding of *Xitun's Actinolepid* is 1.
  24. Extent of marginal plate along the lateral border of the skull roof: less than half the length from the postorbital process to the posterolateral corner of the skull roof (0); greater than half the length (1).
 
 > Carr and Hlavin (2010), Character 24; Rücklin *et al*. (2015), Character 24; Zhu Y *et al*. (2016), Character 24; Jobbins *et al*. (2022), Character 24.
 
+> -The coding of *Xitun's Actinolepid* is 0.
  25. Marginal plate forms part of orbit border: absent (0); present (1).
 
 > Dennis and Miles (1979b), Character 26; Carr and Hlavin (2010), Character 25; Rücklin *et al*. (2015), Character 25; Zhu Y *et al*. (2016), Character 25; Jobbins *et al*. (2022), Character 25.
 
+> -The coding of *Xitun's Actinolepid* is 0.
  26. Postnasal plate forms part of the orbit border: absent (0); present (1).
 
 > Dennis and Miles (1979b), Character 1; Carr and Hlavin (2010), Character 26; Rücklin *et al*. (2015), Character 26; Zhu Y *et al*. (2016), Character 26; Jobbins *et al*. (2022), Character 26.
 
+> -The coding of *Xitun's Actinolepid* is 1.
  27. Extent of postnasal involvement in the orbit border: minimal (0); developed (1).
 
 > Carr and Hlavin (2010), Character 27; Rücklin *et al*. (2015), Character 27; Zhu Y *et al*. (2016), Character 27; Jobbins *et al*. (2022), Character 27.
 
+> -The coding of *Xitun's Actinolepid* is 1.
  28. Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes)/ (distance between pineal and paired condyles): small (0); intermediate (1); large (2).
 
 > Carr and Hlavin (2010), Character 28; Rücklin *et al*. (2015), Character 28; Zhu Y *et al*. (2016), Character 28; Jobbins *et al*. (2022), Character 28.
 
+> -The coding of *Xitun's Actinolepid* is ?.
  29. Nuchal and paranuchal plates elongate: absent (0); present, associated with an elongation of the endolymphatic canal (1).
 
 > Lelièvre (1984b); Carr and Hlavin (2010), Character 29; Rücklin *et al*. (2015), Character 29; Zhu Y *et al*. (2016), Character 29; Jobbins *et al*. (2022), Character 29.
 
+> -The coding of *Xitun's Actinolepid* is 0.
  30. Postnuchal process of paranuchal plate on dermal surface: absent (0); present (1), indicated by the presence of a postnuchal process on the dermal surface of the skull roof.
 
 > Dennis and Miles (1979b), Character 8, modified; Carr and Hlavin (2010), Character 30; Rücklin *et al*. (2015), Character 30; Zhu Y *et al*. (2016), Character 30; Jobbins *et al*. (2022), Character 30.
 
+> -The coding of *Xitun's Actinolepid* is 1.
  31. Position of the central/paranuchal/marginal or postorbital triple point (plate junction) relative to the paranuchal/central/nuchal triple point: C/PNu/M or PtO triple point anterior to PNu/ C/Nu (0); posterior to PNu/C/Nu (1).
 
 > Carr and Hlavin (2010), Character 31; Rücklin *et al*. (2015), Character 31; Zhu Y *et al*. (2016), Character 31; Jobbins *et al*. (2022), Character 31.
 
+> -The coding of *Xitun's Actinolepid* is 0.
  32. Position of preorbital/postorbital/central triple point relative to posterior triple point (PtO/M/C or PtO/PNu/C): parallels the midline or with the anterior point lateral (0); posterior point lateral to anterior point (1).
 
 > Carr and Hlavin (2010), Character 32; Rücklin *et al*. (2015), Character 32; Zhu Y *et al*. (2016), Character 32; Jobbins *et al*. (2022), Character 32.
 
+> -The coding of *Xitun's Actinolepid* is 1.
  33. Position of the PrO/PtO/C triple point relative to the orbit: posterior to orbit (0); over the orbit (1).
 
 > Carr and Hlavin (2010), Character 33; Rücklin *et al*. (2015), Character 33; Zhu Y *et al*. (2016), Character 33; Jobbins *et al*. (2022), Character 33.
 
+> -The coding of *Xitun's Actinolepid* is 0.
  34. Postorbital dermal process; negligible or absent (0); present (1).
 
 > Carr and Hlavin (2010), Character 34; Rücklin *et al*. (2015), Character 34; Zhu Y *et al*. (2016), Character 34; Jobbins *et al*. (2022), Character 34.
 
+> -The coding of *Xitun's Actinolepid* is 1.
  35. Skull roof and thoracic armour articulation: articulation medial (0); articulation laterally displaced (1).
 
 >  Goujet (1984); Carr and Hlavin (2010), Character 90; Rücklin *et al*. (2015), Character 90; Zhu Y *et al*. (2016), Character 90; Jobbins *et al*. (2022), Character 90.
 
+> -The coding of *Xitun's Actinolepid* is ?.
  36. Length ratio (r1 = c/b; representing the position of the posterolateral corner of the skull roof, measured as the ratio of posterior sensory line junction–fossa distance (c) divided by the anterior sensory line junction–fossa distance (b): r1 < 0.45 (0); 0.45 =< r1 =< 0.58 (1); r1 > 0.58 (2).
 
 > Zhu Y *et al*. (2016), Character 92.
 
+> -The coding of *Xitun's Actinolepid* is 2.
  37. Length ratio (r2 = d/b; representing the extension of the anterior portion of the skull roof, measured as the ratio of the pineal foramen–anterior sensory line junction (d) divided by the anterior sensory line junction–fossa distance (b): r2 < 0.3 (0); 0.3 =< r2 =< 0.5 (1); r2 > 0.5 (2).
 
 > Zhu Y *et al*. (2016), Character 93.
 
+> -The coding of *Xitun's Actinolepid* is 0.
  38. In forms with a marginal - central plate contact, position of the junction of the postorital, marginal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 
 > Long (1987), Character 7, modified; Carr and Hlavin (2010), Character 94; Rücklin *et al*. (2015), Character 94; Zhu Y *et al*. (2016), Character 94; Jobbins *et al*. (2022), Character 94.
 
+> -The coding of *Xitun's Actinolepid* is 0.
  39. In forms with a marginal – central plate contact, position of the juction of the marginal, paranuchal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 
 > Long 1987, Character 7, modified; Carr and Hlavin (2010), Character 95; Rücklin *et al*. (2015), Character 95; Zhu Y *et al*. (2016), Character 95; Jobbins *et al*. (2022), Character 95.
 
+> -The coding of *Xitun's Actinolepid* is 0.
  40. In forms without a marginal – central plate contact, position of the junction between the postorbital, paranuchal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 
 > Long 1987, Character 7, modified; Carr and Hlavin (2010), Character 96; Rücklin *et al*. (2015), Character 96; Zhu Y *et al*. (2016), Character 96; Jobbins *et al*. (2022), Character 96.
 
+> -The coding of *Xitun's Actinolepid* is -.
  41. Paired pits on the internal side of the nuchal plate separated by a median septum that is continuous with the median posterior process: absent (0); present (1).
 
 > Carr and Hlavin (2010), Character 97; Rücklin *et al*. (2015), Character 97; Zhu Y *et al*. (2016), Character 97; Jobbins *et al*. (2022), Character 97.
 
+> -The coding of *Xitun's Actinolepid* is ?.
  42. Presence of a supraorbital vault intimately associated with the lateral consolidated arch: absent (0); present (1).
 
 > Carr and Hlavin (1991); Carr (2010), Character 98; Rücklin *et al*. (2015), Character 98; Zhu Y *et al*. (2016), Character 98; Jobbins *et al*. (2022), Character 98.
 
+> -The coding of *Xitun's Actinolepid* is ?.
  43. Development of the crista supraethmoidalis at the visceral surface of the skull roof: underdevelped, absent, or present but not convergent in the midline (0); developed, horizontally across the visceral surface of the skull roof (1).
 
 > Zhu Y *et al*. (2016), Character 99.
 
+> -The coding of *Xitun's Actinolepid* is ?.
  44. Rostral and pineal plates fused into one plate: absent (0); present (1).
 
 > Zhu Y *et al*. (2016), Character 100; Dupret *et al*. (2009), Character 8; Dupret *et al*. (2017), Character 8.
 
+> -The coding of *Xitun's Actinolepid* is 1.
  45. Shape of the pineal plate on the external surface of the skull roof: short and broad (0); long and narrow (1).
 
 > Zhu Y *et al*. (2016), Character 101.
 
+> -The coding of *Xitun's Actinolepid* is 0.
  46. Lateral development of the supraorbital vault compared with the breadth of the skull roof at the level immediately behind the supraorbital vault. This definition of the skull roof breadth is to make this character independent to character113: under developed, indicated by the ratio of the breadth of both sides of the lateral expansion of the supraorbital vaults/the breadth of the skull roof at the level immediately behind the supraorbital vault less than 0.3 (0); developed, indicated by the ratio of the breadth of the lateral expansion of the supraorbital vaults/the breadth of the skull oof larger than 0.3 (1).
 
 > Zhu Y *et al*. (2016), Character 102.
 
+> -The coding of *Xitun's Actinolepid* is ?.
  47. Development of the postorbital process of the postorbital plate: moderately developed (0); highly developed, defined as the postorbital process composing one-quarter of the orbit (1).
 
 > Zhu Y *et al*. (2016), Character 103.
 
+> -The coding of *Xitun's Actinolepid* is 0.
  48. Position of the anterior end of the endolymphatic duct on the visceral surface of the skull roof, indicating the neurocranial aperture of the endolymphatic duct: anteriorly positioned, defined as positioned anterior to the nuchal thickening (0); posteriorly positioned, on the nuchal thickening.
 
 > Zhu Y *et al*. (2016), Character 104.
 
+> -The coding of *Xitun's Actinolepid* is 0.
  49. Posterior lateral shape of the nuchal plate: nuchal straight, not expanded laterally (0); nuchal trapezoid, expanded laterally (1).
 
 > Gardiner and Miles (1990), Character 22.36, modified; Zhu Y *et al*. (2016), Character, 105.
 
+> -The coding of *Xitun's Actinolepid* is 0.
  50. Median ridge on the visceral surface of the nuchal plate, corresponding to the median depression on the occipital region of the neurocranium: absent (0); present (1).
 
 > Zhu Y *et al*. (2016), Character 106.
 
+> -The coding of *Xitun's Actinolepid* is 1.
  51. Position of the paired nuchal pits: anteriorly positioned, defined by position anterior to or on the transverse nuchal thickening (0); posteriorly positioned, defined by position posterior to the transverse nuchal thickening (1).
 
 > Zhu Y *et al*. (2016), Character 107.
 
+> -The coding of *Xitun's Actinolepid* is 1.
  52. Position of the skull roof and thoracic armour articulation: not close to posterolateral corner of the skull roof (0); close to posterolateral corner of the skull roof (1).
 
 > Zhu Y *et al*. (2016), Character 108.
