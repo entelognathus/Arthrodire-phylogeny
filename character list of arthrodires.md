@@ -915,7 +915,7 @@ cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) 
 178. Number of inframarginal crista: two (0); one (1).
 > - The coding of Xitun actinolepid is ?.
 
-179. The groove of the path of the ramus mandibularis internus VII:absent(0); present(1).
+179. The groove of the path of the ramus mandibularis internus VII: absent(0); present(1).
 > In Coccosteomorhpi, on the mesial surface of the blade , a groove running subparallel to its lower edge (gr.cth) is possibly corresponding to the path of the ramus mandibularis internus VII, such as in the *Coccosteus cuspidatus*, *Xiantingosteus gracilis*, and *Camuropiscis concinnus*.
 
 180.Middle pit-line: absent(0); present(1).
@@ -933,7 +933,7 @@ cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) 
 184. Lateral nuchal depression on the dorsal suface of neurocranium: absent (0); present (1).
 >The lateral nuchal depression on the dorsal suface of neurocranium is present in the brachythoracids and absent in the plesiomorphic arthrodires. The lateral nuchal depression corresponds to the endolymphatic thickening.
 
-185. Median nuchal depression:long (0);short (1)
+185. Median nuchal depression: long (0); short (1)
 >The lateral nuchal depression on the dorsal suface of neurocranium is short in the brachythoracids and long in the plesiomorphic arthrodires.
 
 186. The central sensory line leaves the postorbital plate: no (0); yes (1).
