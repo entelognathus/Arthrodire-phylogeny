@@ -938,5 +938,8 @@ cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) 
 
 186. The central sensory line leaves the postorbital plate: no (0); yes (1).
 > - The coding of Xitun actinolepid is 0.
-> - The central sensory lines of *Xitun Actinolepid*, *Dicksonosteus arcticus*, *Szelepis yunnanensis* don't extend out of the postorbital plate. 
+> - The central sensory lines of *Xitun Actinolepid*, *Dicksonosteus arcticus*, *Szelepis yunnanensis* don't extend out of the postorbital plate.
+
+187. The profundus sensory canal: absent(0); present(1).
+> The profundus sensory canal extend from preorbital to the postorbital plates. This character is present in *Bryantolepis*.
 
