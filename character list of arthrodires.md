@@ -941,5 +941,5 @@ cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) 
 > - The central sensory lines of *Xitun Actinolepid*, *Dicksonosteus arcticus*, *Szelepis yunnanensis* don't extend out of the postorbital plate.
 
 187. The profundus sensory canal: absent(0); present(1).
-> The profundus sensory canal extend from preorbital to the postorbital plates. This character is present in *Bryantolepis*.
+> The profundus sensory canal extends from preorbital to the postorbital plates. This character is present in *Bryantolepis*.
 
