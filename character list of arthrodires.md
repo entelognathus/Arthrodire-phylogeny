@@ -242,6 +242,8 @@
  47. Development of the postorbital process of the postorbital plate: moderately developed (0); highly developed, defined as the postorbital process composing one-quarter of the orbit (1).
 > Zhu Y *et al*. (2016), Character 103.
 
+> In those taxa that the postorbital plate is asbent, this character is scored as 'not applicable'.
+
 > - The coding of Xitun actinolepid is 0.
 
  48. Position of the anterior end of the endolymphatic duct on the visceral surface of the skull roof, indicating the neurocranial aperture of the endolymphatic duct: anteriorly positioned, defined as positioned anterior to the nuchal thickening (0); posteriorly positioned, on the nuchal thickening.
