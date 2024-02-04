@@ -25,6 +25,7 @@
 
  5. Posterior development of Rostral plate: not developed (0); subtriangular (1); T-shaped (2).
 > Carr and Hlavin (2010), Character 5; Rücklin *et al*. (2015), Character 5; Zhu Y *et al*. (2016), Character 5; Jobbins *et al*. (2022), Character 5.
+
 > In those taxa that the rostral plate fused with the pineal plate, this character is scored as 'not applicable'.
 
 > - The coding of Xitun actinolepid is 0.
@@ -228,6 +229,7 @@
 
  45. Shape of the pineal plate on the external surface of the skull roof: short and broad (0); long and narrow (1).
 > Zhu Y *et al*. (2016), Character 101.
+
 > In those taxa that the rostral plate fused with the pineal plate, this character is scored as 'not applicable'.
 
 > - The coding of Xitun actinolepid is 0.
