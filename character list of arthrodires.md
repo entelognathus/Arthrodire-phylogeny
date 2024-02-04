@@ -180,7 +180,7 @@
  35. Skull roof and thoracic armour articulation: articulation medial (0); articulation laterally displaced (1).
 >  Goujet (1984); Carr and Hlavin (2010), Character 90; Rücklin *et al*. (2015), Character 90; Zhu Y *et al*. (2016), Character 90; Jobbins *et al*. (2022), Character 90.
 
-> > add condition:  close to posterolateral corner of the skull roof (2).
+>  add condition:  close to posterolateral corner of the skull roof (2).
 
 > - The coding of Xitun actinolepid is ?.
 
