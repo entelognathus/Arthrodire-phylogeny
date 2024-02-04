@@ -269,7 +269,7 @@
  52. Position of the skull roof and thoracic armour articulation: not close to posterolateral corner of the skull roof (0); close to posterolateral corner of the skull roof (1).
 > Zhu Y *et al*. (2016), Character 108.
 >
-> - **check its relationship with Character 35**
+> - **check its relationship with Character 35**   This character can be incorporated into character 35**.
 > - The coding of Xitun actinolepid is ?.
 
  53. Skull roof fenestra: absent (0); present (1).
