@@ -921,7 +921,7 @@ cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) 
 177. Inframarginal crista: absen t(0); present (1).
 > - The coding of Xitun actinolepid is ?.
 
-178. Number of inframarginal crista: two (0); one (1).
+178. Anterior inframarginal crista: present (0); absent (1).
 > - The coding of Xitun actinolepid is ?.
 
 179. The groove of the path of the ramus mandibularis internus VII: absent(0); present(1).
