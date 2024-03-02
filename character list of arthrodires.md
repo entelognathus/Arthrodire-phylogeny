@@ -949,6 +949,30 @@ cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) 
 > - The coding of Xitun actinolepid is 0.
 > - The central sensory lines of *Xitun Actinolepid*, *Dicksonosteus arcticus*, *Szelepis yunnanensis* don't extend out of the postorbital plate.
 
-187. The profundus sensory canal: absent(0); present(1).
-> The profundus sensory canal extends from preorbital to the postorbital plates. This character is present in *Bryantolepis*.
+187. Profundus sensory line on preorbital: absent (0); present (1).
+> Johnson *et al*. (2000), Character 12.
 
+> A short segment of the profundus sensory line on the anterior part of the Preorbital has been recorded in *Heightingtonaspis anglica* and *Kujdanowiaspis sp.* (White, 1969; Denison, 1958, 1978). The profundus sensory canal extends from preorbital to the postorbital plates. This character is present in *Bryantolepis*.
+
+> - The coding of Xitun actinolepid is 0.
+
+188. Profundus sensory line on postorbital and preorbital: absent (0); present (1).
+> Johnson *et al*. (2000), Character 22.
+
+> In *Bryantolepis brachycephala* the profundus sensory line is present as a continuous line from the central sensory line on the Postorbital to the centre of the Preorbital terminating near the supraorbital sensory line (Denison, 1958).
+
+> - The coding of Xitun actinolepid is 1.
+
+189. Projkndus sensozy line @3) on Preorbital and Postorbital, but segments do not connect: absent (0); present (1).
+> Johnson *et al*. (2000), Character 23.
+
+> This character is known only in *Simblaspis cachensis* (Denison, 1958).
+
+> - The coding of Xitun actinolepid is 0.
+
+190. Profunduds sensory line present on postorbital at intersection with infraorbital sensory line: absent (0); present (1).
+> Johnson *et al*. (2000), Character 24.
+
+> A small segment of the profundus sensory line branches off the intersection of the central sensory line and the infraorbital sensory line in *Aleosteus eganensis*, an arrangement not recorded in any other actinolepid. 
+
+> - The coding of Xitun actinolepid is 0.
