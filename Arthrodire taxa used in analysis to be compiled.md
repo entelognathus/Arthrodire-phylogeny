@@ -2,8 +2,7 @@
 
 New taxa and references added along with the research.
 
-*Kendrickichthys cavernosus*
-> (Dennis & Miles, 1980)
+*Kendrickichthys cavernosus* Dennis & Miles, 1980
 
 > Early Frasnian, Late Devonian
 
@@ -20,8 +19,6 @@ New taxa and references added along with the research.
 
 > - **any comments on this species added here**
 
-*Kujdanowiaspis podolica*, Lochkovian, Early Devonian (Dupret, 2010; Stensiö, 1944, 1963)
-
 *Latocamurus coulthardi*, Early Frasnian, Late Devonian (Long, 1988a; Trinajstic & Dennis-Bryan, 2009)
 
 *Lehmanosteus hyperboreus*, Pragian, Early Devonian (Goujet 1984)
@@ -33,8 +30,6 @@ New taxa and references added along with the research.
 *Melanosteus occitanus*, Late Frasnian, Late Devonian (Lelièvre et al., 1987)
 
 *Millerosteus minor*, Early Givetian, Middle Devonian (Desmond, 1974; Stensiö, 1959, 1963)
-
-*Mulgaspis evansorum*, arly Eifelian, Middle Devonian (Ritchie 2004)
 
 *Pachyosteus bulla*, Late Frasnian, Late Devonian (Carr & Hlavin, 2010; Stensiö, 1963)
 
@@ -164,12 +159,11 @@ Name: *Bryantolepis brachycephala* Bryant,1932
 
 > Source reference: Bryant 1932; Denison 1962
 
-Name: *Buchanosteus confertituberculatus* Young, 1979
+[*Buchanosteus confertituberculatus*](https://deepbone.org/public/#/explor?s_id=2426&functionId=Deepbone_header_searchResultOpen) (Chapman, 1916)
+> Emsian, 407.6, 393.3
 
-> Locality and horizon: Buchan, Australia. Emsian, Early Devonian.
-
-> Source reference: Long, Mark-Kurik & Young, 2014; White & Toombs, 1972; Young, 1979.
-
+> - Buchan, Victoria and New South Wales
+> - [Burrow and Turner, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011097); [Long et al., 2014](https://www.publish.csiro.au/zo/zo13081)
 Name: *Bullerichthys fascidens* Dennis & Miles, 1980
 
 > Locality and horizon: Kimberley, Australia. Early Frasnian, Late Devonian.
@@ -182,13 +176,11 @@ Name: *Camuropiscis laidlawi* Dennis & Miles, 1979
 
 > Source reference: Dennis & Miles, 1979; Trinajstic & Dennis-Bryan, 2009.
 
-Name: *Coccosteus cuspidatus* Miller, 1841
+[*Coccosteus cuspidatus*](https://deepbone.org/public/#/explor?s_id=2148&functionId=Deepbone_header_searchResultOpen) Miller, 1841
+> Eifelian to Givetain, 393.3, 382.7
 
-> Locality and horizon: Lower Caithness Flagstone Group, Scotland. Eifelian, Middle Devonian.
-
-> Source reference: Miles & Westoll, 1968.
-
-Name: *Compagopiscis croucheri* Gardiner & Miles, 1994
+> - Caithness Flagstone Group, Scotland
+> - [Miles and Westoll, 1968](https://doi.org/10.1017/S0080456800024078).
 
 > Locality and horizon: Kimberley, Australia. Early Frasnian, Late Devonian.
 
@@ -212,11 +204,11 @@ Name: *Dhanguura johnstoni* Young, 2004
 
 > Source reference: Young, 2004.
 
-Name: *Diandongpetalichthys liaojiaoshanensis* P'an and Wang 1978
+[*Diandongpetalichthys liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=3251&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
+> lower Lochkovian, 419.2, 415.0
 
-> Locality and horizon: Xishancun Formation, Cuifengshan Group, Qujing, Yunan. Early Devonian.
-
-> Source reference: Zhu,1991; P'an and Wang 1978.
+> - Xishancun Formation, Qujing, Yunnan, China
+> - [Zhu, 1991]
 
 Name: *Dickosteus threiplandi* Miles & Westoll, 1963
 
@@ -224,11 +216,11 @@ Name: *Dickosteus threiplandi* Miles & Westoll, 1963
 
 > Source reference: Miles & Westoll, 1963.
 
-Name: *Dicksonosteus arcticus* Goujet, 1975
+[*Dicksonosteus arcticus*](https://deepbone.org/public/#/explor?s_id=2423&functionId=Deepbone_header_searchResultOpen) Goujet, 1975
+> Lochkovian, 419.2, 410.8
 
-> Locality and horizon: Dickson land, Spitsbergen. Pragian to Emsian, Early Devonian.
-
-> Source reference: Carr & Hlavin, 2010; Goujet, 1975, 1984.
+> - Wood Bay Formation; Gronhorgdalen, Spitsbergen.
+> - Goujet, 1975; Goujet, 1984
 
 Name: *Dinichthys herzeri* Newberry, 1868
 
@@ -248,11 +240,13 @@ Name: *Eastmanosteus calliaspis* Dennis-Bryan, 1987
 
 > Source reference: Carr & Hlavin, 2010; Dennis-Bryan, 1987.
 
-Name: *Eastmanosteus pustulosus* Eastman, 1897
+[*Eastmanosteus calliaspis*](https://deepbone.org/public/#/explor?s_id=2447&functionId=Deepbone_header_searchResultOpen) Dennis-Bryan, 1987
+> lower Frasnian, 382.7, 379.2
 
-> Locality and horizon: Wisconsin, New York, and Iowa, USA, and Holy Cross Moutain, Poland. Givetian, Middle Devonian to Early Famennian, Late Devonian.
+> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
+> - The type species of *Eastmanosteus* Obruchev 1964 is *E. pustulosus* (Eastman) 1897. 
+> - [Dennis-Bryan, 1987](https://academic.oup.com/zoolinnean/article-abstract/90/1/1/2658205)
 
-> Source reference: Carr, 1991; Carr & Hlavin, 2010; Denison, 1978.
 
 Name: *Elvaspis tuberculata* Young 2009
 
@@ -272,12 +266,11 @@ Name: *Eskimaspis heintzi* Dineley and Liu 1984
 
 > Source reference: Dineley and Liu 1984.
 
-Name: *Eurycaraspis incilis* Liu 1991.
+[*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257&functionId=Deepbone_header_searchResultOpen) Liu, 1991
+> Givetian, 387.7, 382.7
 
-> Locality and horizon: Longhua Hill, Haikou Formation, Qujing, China. Givetian, Middle Devonian.
-
-> Source reference: Liu,1991.
-
+> - Xichong Formation; Qujing, Yunnan, China.
+> - Liu, 1991
 Name: *Exutaspis megista* Liu and Wang, 1981
 
 > Locality and horizon: Yunnan, China. Emsian, Early Devonian.
@@ -290,11 +283,11 @@ Name: *Fallocosteus turneri* Long, 1990
 
 > Source reference: Long, 1990; Trinajstic & Dennis-Bryan, 2009.
 
-Name: *Gavinaspis* *convergens* Dupret and Zhu,2008
+[*Gavinaspis convergens*](https://deepbone.org/public/#/explor?s_id=2473&functionId=Deepbone_header_searchResultOpen) Dupret et al., 2009
+> upper Lochkovian, 415.0, 410.8
 
-> Locality and horizon: Xitun Formation, Qujing, China. Late Lochkovian, Early Devonian.
-
-> Source: Dupret and Zhu,2008.
+> - Xitun Formation; Qujing, Yunnan, China.
+> - [Dupret et al., 2009](https://pubs.geoscienceworld.org/geolmag/article-abstract/145/2/257/65693/The-earliest-phyllolepid-Placodermi-Arthrodira?redirectedFrom=fulltext)
 
 Name: *Gemuendenaspis angusta* Traquair, 1903
 
@@ -320,11 +313,11 @@ Name: *Gorgonichthys clarki* Claypole, 1892
 
 > Source reference: Carr & Hlavin, 2010; Dunkle & Bungart, 1940; Denison, 1978; Stensiö, 1963.
 
-Name: *Groenlandaspis antarcticus* Ritchie 1975
+[*Groenlandaspis antarcticus*](https://deepbone.org/public/#/explor?s_id=154139&functionId=Deepbone_header_searchResultOpen) Ritchie, 1975
+> Givetian, 387.7, 382.7
 
-> Locality and horizon: Aztec siltstone, Victorian Land, Antarctica. Givetian according to Young (1989), originally identifified by Ritchie (1975) as Late Devonian.
-
-> Source reference: Ritchie, 1975; Young, 1989.
+> - Taylor Group; Mount Ritchie, Australia and Mount Mestchel, Antarctica
+> - [Ritchie, 1975](https://www.nature.com/articles/254569a0); [Young, 1989](https://www.lyellcollection.org/doi/abs/10.1144/GSL.SP.1989.047.01.05)
 
 Name: *Gymnotrachelus hydei* Dunkle & Bungart, 1939
 
@@ -368,11 +361,12 @@ Name: *Heterostius ingens* Asmuss, 1856
 
 > Source reference: Heintz, 1928, 1930.
 
-Name: *Holonema westoii* Miles, 1971
+[*Holonema westolli*](https://deepbone.org/public/#/explor?s_id=2425&functionId=Deepbone_header_searchResultOpen) Miles, 1971
+> lower Frasnian, 382.7, 379.2
 
-> Locality and horizon: Kimberley, Australia. Early Frasnian, Late Devonian.
-
-> Source reference: Carr & Hlavin, 2010; Miles, 1971.
+> - Gogo Formation, Gogo, Canning Basin; Gneudna Formation, Carnarvon Basin，Western Australia. -17.75, 125.17
+> - [Miles, 1971](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1971.0111)； [Trinajstic, 1999](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1999n1a4.pdf).
+> - Trinajstic (1999) reported the isolated scales from the late Givetian to early Frasnian Gneudna Formation.
 
 Name: *Homostius sulcatus* Kutorga, 1837
 
@@ -380,11 +374,11 @@ Name: *Homostius sulcatus* Kutorga, 1837
 
 > Source reference: Carr & Hlavin, 2010; Heintz, 1934, 1968.
 
-Name: *Incisoscutum ritchiei* Dennis & Miles, 1981
+[*Incisoscutum ritchiei*](https://deepbone.org/public/#/explor?s_id=2232&functionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1981
+> lower Frasnian, 382.7, 379.2
 
-> Locality and horizon: Kimberley, Australia. Early Frasnian, Late Devonian.
-
-> Source reference: Dennis & Miles, 1981; Trinajstic & Dennis-Bryan, 2009.
+> - Gogo Formation; Western Australia, Australia。 -17.75, 125.17
+> - [Dennis and Miles, 1981](https://academic.oup.com/zoolinnean/article-abstract/73/3/213/2658833); [Giles et al., 2013](https://onlinelibrary.wiley.com/doi/full/10.1002/jmor.20119)
 
 Name: *Incisoscutum sarahae* Long, 1994
 
@@ -410,11 +404,11 @@ Name: *Kiangyousteus yohii* Liu, 1955
 
 > Source reference: Liu, 1955; Zhu & Zhu, 2013.
 
-Name: *Kujdanowiaspis podolica* Brotzen, 1934
+[*Kujdanowiaspis podolica*](https://deepbone.org/public/#/explor?s_id=2124&functionId=Deepbone_header_searchResultOpen) Dupret, 2010
+> upper Lochkovian to lower Pragian, 415.0, 409.2
 
-> Locality and horizon: Podolica, Ukraine. Lochkovian, Early Devonian.
-
-> Source reference: Dupret, 2010; Stensiö, 1944, 1963.
+> - Dnister Series; Podolia, Ukraine
+> - [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short)
 
 Name: *Latocamurus coulthardi* Long, 1988a
 
@@ -452,11 +446,11 @@ Name: *Millerosteus minor* Stensiö, 1959
 
 > Source reference: Desmond, 1974; Stensiö, 1959, 1963.
 
-Name: *Mulgaspis evansorum* Ritchie 2004
+[*Mulgaspis evansorum*](https://deepbone.org/public/#/explor?s_id=2727&functionId=Deepbone_header_searchResultOpen) Ritchie, 2004
+> lower Eifelian, 393.3, 391.4
 
-> Locality and horizon: Merrimerriwa Formation, Mulga Downs Group. Early Eifelian, Middle Devonian.
-
-> Source reference: Ritchie 2004.
+> - Merrimerriwa Formation.; Cobar, Wilcannia, Australia
+> - [Ritchie, 2004](https://www.idunn.no/doi/abs/10.18261/9781405169868-2004-05).
 
 Name: *Pachyosteus bulla* Jaekel, 1903
 
@@ -470,11 +464,10 @@ Name: *Panxiosteus oculus* Wang, 1979
 
 > Source reference: Carr & Hlavin, 2010; Wang, 1979.
 
-Name: *Parabuchanosteus murrumbidgeenis* White, 1952
-
-> Locality and horizon: Murrumbidgee, Australia. Emsian, Early Devonian.
-
-> Source reference: Long, Mark-Kurik & Young, 2014; White, 1978.
+[*Parabuchanosteus murrumbidgeensis*](https://deepbone.org/public/#/explor?s_id=2430&functionId=Deepbone_header_searchResultOpen)  (White, 1952)
+> Pragian to Emsian, 410.8, 393.3
+> - Murrumbidgee Group; Burrinjuck Dam
+> - White and Toombs, 1972; Young, 1979
 
 Name: *Phlyctaenius acadicus* Whiteaves 1881
 
