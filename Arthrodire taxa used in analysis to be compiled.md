@@ -259,13 +259,10 @@ Early Frasnian, Late Devonian,
 > - Carr, 1994; Carr and Hlavin, 2010; Dunkle and Bungart, 1939.
 
 *Hadrosteus rapax* Gross, 1932
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Late Frasnian, Late Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Bad Wildungen, Germany. Late Frasnian, Late Devonian.
-
-> Source reference: Carr and Hlavin, 2010; Stensiö, 1963.
+> - Bad Wildungen, Germany
+> - Carr and Hlavin, 2010; Stensiö, 1963.
 
 *Harrytoombsia elegans* Miles and Dennis, 1979
 > lower Frasnian, 382.7, 379.2
