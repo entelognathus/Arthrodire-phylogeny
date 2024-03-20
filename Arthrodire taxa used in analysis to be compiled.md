@@ -35,6 +35,65 @@ New taxa and references added along with the research.
 > - Sandy Member, Nevada,USA. 
 > - [Johnson 2000](https://academic.oup.com/zoolinnean/article/129/2/241/2682485).
 
+[*Antarctaspis mcmurdoensis*](https://deepbone.cn/public/#/explor?s_id=2169&functionId=Deepbone_header_searchResultOpen) (White, 1968)
+> Givetian,
+
+> - Victoria land antarctica. 
+> - White,1968.
+
+[*Antineosteus lehmani*](https://deepbone.cn/public/#/explor?s_id=2405&functionId=Deepbone_header_searchResultOpen) (Lelièvre, 1984)
+> Late Emsian
+
+> - Morocco. 
+> - Lelièvre, 1984; [Lelièvre, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173046).
+
+[*Arctolepis decipiens*](https://deepbone.cn/public/#/explor?s_id=2543&functionId=Deepbone_header_searchResultOpen) （Woodward,1891）
+ Emsian,
+
+> - Wood Bay series, Spitsbergen.
+> - [Goujet, 1984](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9046910).
+
+[*Arenipiscis westolli*](https://deepbone.cn/public/#/explor?s_id=164607&functionId=Deepbone_header_searchResultOpen) （Young, 1981）
+> Emsian, 
+
+> - Murrumbidgee Group, Goodradigbee, Australia. 
+> - [Young,1981](https://www.tandfonline.com/doi/abs/10.1080/03115518108566994).
+> - This OTU is not in the matrix and will attempt to be add.
+
+[*Austrophyllolepis sp.*](https://deepbone.cn/public/#/explor?s_id=2160&functionId=Deepbone_header_searchResultOpen) (long, 1984)
+> late Givetian, 
+
+> - Avon River Group, Victoria. 
+> - [Long,1984](https://www.researchgate.net/publication/257938652_New_phyllolepids_from_Victoria_and_the_relationships_of_the_Group); [Young et al, 2005](https://www.cambridge.org/core/journals/antarctic-science/article/abs/phyllolepid-placoderm-fish-remains-from-the-devonian-aztec-siltstone-southern-victoria-land-antarctica/353199CDD4AE271D88CEA11578ADAB71);[Young, 2005](https://search.informit.org/doi/abs/10.3316/INFORMIT.866097176771156); [Long et al,2009](https://www.nature.com/articles/nature07732).
+
+[*Baringaspis dineleyi*](https://deepbone.cn/public/#/explor?s_id=2479&functionId=Deepbone_header_searchResultOpen) (Miles, 1973)
+> lower lochkovian, 
+
+> - Peel Sound Formation, Wales Island. 
+> - [Miles, 1973](https://www.researchgate.net/publication/285456051_An_actinolepid_arthrodire_from_the_Lower_Devonian_Peel_Sound_Formation_Prince_of_Wales_Island)
+> - The Source reference in deepbone is questionable.
+
+[*Brachyosteus dietrichi*](https://deepbone.cn/public/#/explor?s_id=2247&functionId=Deepbone_header_searchResultOpen) (Gross, 1932)
+> Late Frasnian, 
+
+> - Bad Wildungen, Germany, 
+> - [Denison, 1978]().
+
+ [*Bruntonichthys multidens*](https://deepbone.cn/public/#/explor?s_id=2221&functionId=Deepbone_header_searchResultOpen) Dennis & Miles, 1980
+
+> Locality and horizon: Kimberley, Australia. Early Frasnian, Late Devonian.
+
+> Source reference: Dennis & Miles, 1980.
+
+Name: *Bryantolepis brachycephala* Bryant,1932
+
+> Locality and horizon: Wyoming. Pragian, Early Devonian.
+
+> Source reference: Bryant 1932; Denison 1962
+
+[*Buchanosteus confertituberculatus*](https://deepbone.org/public/#/explor?s_id=2426&functionId=Deepbone_header_searchResultOpen) (Chapman, 1916)
+
+
 *Antarctapis mcmurdoensis* White, 1968
 > Givetian, Middle Devonian., XXX (maximum age), YYY (minimum age)
 
@@ -90,13 +149,16 @@ New taxa and references added along with the research.
 > - Bryant, 1932; Denison, 1962
 
 [*Buchanosteus confertituberculatus*](https://deepbone.org/public/#/explor?s_id=2426andfunctionId=Deepbone_header_searchResultOpen) (Chapman, 1916)
+
 > Emsian, 407.6, 393.3
 
 > - Buchan, Victoria and New South Wales
 > - [Burrow and Turner, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011097); [Long et al., 2014](https://www.publish.csiro.au/zo/zo13081)
 
+
 [*Bullerichthys fascidens*](https://deepbone.org/public/#/explor?s_id=2223andfunctionId=Deepbone_header_searchResultOpen) (Dennis and Miles, 1980)
 Early Frasnian, Late Devonian, 
+
 
 > - Gogo Formation, Kimberley, Australia. 
 > - [Dennis and Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
