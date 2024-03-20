@@ -32,7 +32,7 @@ The arthrodires comprise
 *Titanichthys	T. agassizi; T. attenuatus; T. clarkii; T. hussakofi; T. rectus; May all be synonyms of T. agassizi*，	
 *Trachosteus	clarki*，
 
-*Bad Wildungen fauna*: Kellwasserkalk Formation, upper Frasnian.
+*Bad Wildungen fauna*: Kellwasserkalk Formation, upper Frasnian. Schmidt Quarry near Bad Wildungen, Hessen, Germany.
 Placodermi(46)
 Rhenanidae
 Jagorina pandora
