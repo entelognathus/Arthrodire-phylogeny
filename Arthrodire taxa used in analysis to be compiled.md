@@ -28,7 +28,7 @@ The arthrodires comprise
 *Mylostoma	M. eurhinus; M. newberryi; M. variabilis; May all be synonyms of M. variabilis*，	
 *Paramylostoma	arcualis*，		
 *Selenosteus	brevis*，		
-*Steneosteus	angustopectus*， Steneosteus	 glaber*，
+*Steneosteus	angustopectus*， *Steneosteus  glaber*，
 *Titanichthys	T. agassizi; T. attenuatus; T. clarkii; T. hussakofi; T. rectus; May all be synonyms of T. agassizi*，	
 *Trachosteus	clarki*，
 
@@ -166,7 +166,7 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 > - [Dennis & Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
 
 [*Bryantolepis brachycephala*](https://deepbone.cn/public/#/explor?s_id=2500&functionId=Deepbone_header_searchResultOpen) Bryant,1932
-> Pragian, XXX  (maximum age), YYY (minimum age)
+> Pragian, XXX (maximum age), YYY (minimum age)
 
 > - Wyoming,USA
 > - [Bryant, 1932](https://www.jstor.org/stable/984700); Denison, 1962
@@ -480,7 +480,7 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 > - Yunnan, China
 > - Carr and Hlavin, 2010; Wang, 1979.
 
-[*Parabuchanosteus murrumbidgeensis*](https://deepbone.org/public/#/explor?s_id=2430andfunctionId=Deepbone_header_searchResultOpen)  (White, 1952)
+[*Parabuchanosteus murrumbidgeensis*](https://deepbone.org/public/#/explor?s_id=2430andfunctionId=Deepbone_header_searchResultOpen) (White, 1952)
 > Pragian to Emsian, 410.8, 393.3
 > - Murrumbidgee Group; Burrinjuck Dam
 > - White and Toombs, 1972; Young, 1979
