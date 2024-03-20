@@ -12,69 +12,69 @@ New taxa and references added along with the research.
 > - **any comments on this species added here**
 
 [*Actinolepis magna*](https://deepbone.org/public/#/explor?s_id=2464andfunctionId=Deepbone_header_searchResultOpen) (Mark-Kurik, 1973)
-> Givetian,
+> Givetian, XXX (maximum age), YYY (minimum age)
 
 > - Burtnieki Bed, Estonia, Latvia. 
 > - Mark-Kurik, 1973.
 
 [*Actinolepis tuberculate*](https://deepbone.org/public/#/explor?s_id=2463andfunctionId=Deepbone_header_searchResultOpen) (Agassiz, 1844)
-> Eifelian,
+> Eifelian, XXX (maximum age), YYY (minimum age)
 
 > - Parnu Bed, Tori, Estonia; Nariva Bed, Slavjanka and Lemovzha, Estonia; Arukula Bed, Pskov district, Russia.
 > - Mark-Kurik 1973.
 
 [*Aethaspis utahensis*](https://deepbone.org/public/#/explor?s_id=2491andfunctionId=Deepbone_header_searchResultOpen) (Denison, 1958)
-> Early Devonian,
+> Early Devonian, XXX (maximum age), YYY (minimum age)
 
 > - Water Canyon Formation, Cache County, Utah, USA.
 > - Denison, 1958.
 
 [*Aleosteus eganensis*](https://deepbone.org/public/#/explor?s_id=2487andfunctionId=Deepbone_header_searchResultOpen) (Johnson et al, 2000)
-> Late Emsian
+> Late Emsian, XXX (maximum age), YYY (minimum age)
  
 > - Sandy Member, Nevada,USA. 
 > - [Johnson 2000](https://academic.oup.com/zoolinnean/article/129/2/241/2682485).
 
 [*Antarctaspis mcmurdoensis*](https://deepbone.cn/public/#/explor?s_id=2169&functionId=Deepbone_header_searchResultOpen) (White, 1968)
-> Givetian,
+> Givetian, XXX (maximum age), YYY (minimum age)
 
 > - Victoria land antarctica. 
 > - White,1968.
 
 [*Antineosteus lehmani*](https://deepbone.cn/public/#/explor?s_id=2405&functionId=Deepbone_header_searchResultOpen) (Lelièvre, 1984)
-> Late Emsian
+> Late Emsian, XXX (maximum age), YYY (minimum age)
 
 > - Morocco. 
 > - Lelièvre, 1984; [Lelièvre, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173046).
 
 [*Arctolepis decipiens*](https://deepbone.cn/public/#/explor?s_id=2543&functionId=Deepbone_header_searchResultOpen) （Woodward,1891）
- Emsian,
+ Emsian, XXX (maximum age), YYY (minimum age)
 
 > - Wood Bay series, Spitsbergen.
 > - [Goujet, 1984](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9046910).
 
 [*Arenipiscis westolli*](https://deepbone.cn/public/#/explor?s_id=164607&functionId=Deepbone_header_searchResultOpen) （Young, 1981）
-> Emsian, 
+> Emsian, XXX (maximum age), YYY (minimum age) 
 
 > - Murrumbidgee Group, Goodradigbee, Australia. 
 > - [Young,1981](https://www.tandfonline.com/doi/abs/10.1080/03115518108566994).
 > - This OTU is not in the matrix and will attempt to be add.
 
 [*Austrophyllolepis sp.*](https://deepbone.cn/public/#/explor?s_id=2160&functionId=Deepbone_header_searchResultOpen) (long, 1984)
-> late Givetian, 
+> late Givetian, XXX (maximum age), YYY (minimum age) 
 
 > - Avon River Group, Victoria. 
 > - [Long,1984](https://www.researchgate.net/publication/257938652_New_phyllolepids_from_Victoria_and_the_relationships_of_the_Group); [Young et al, 2005](https://www.cambridge.org/core/journals/antarctic-science/article/abs/phyllolepid-placoderm-fish-remains-from-the-devonian-aztec-siltstone-southern-victoria-land-antarctica/353199CDD4AE271D88CEA11578ADAB71);[Young, 2005](https://search.informit.org/doi/abs/10.3316/INFORMIT.866097176771156); [Long et al,2009](https://www.nature.com/articles/nature07732).
 
 [*Baringaspis dineleyi*](https://deepbone.cn/public/#/explor?s_id=2479&functionId=Deepbone_header_searchResultOpen) (Miles, 1973)
-> lower lochkovian, 
+> lower lochkovian, XXX (maximum age), YYY (minimum age) 
 
 > - Peel Sound Formation, Wales Island. 
 > - [Miles, 1973](https://www.researchgate.net/publication/285456051_An_actinolepid_arthrodire_from_the_Lower_Devonian_Peel_Sound_Formation_Prince_of_Wales_Island)
 > - The Source reference in deepbone is questionable.
 
 [*Brachyosteus dietrichi*](https://deepbone.cn/public/#/explor?s_id=2247&functionId=Deepbone_header_searchResultOpen) (Gross, 1932)
-> Late Frasnian, 
+> Late Frasnian, XXX (maximum age), YYY (minimum age) 
 
 > - Bad Wildungen, Germany, 
 > - [Denison, 1978]().
@@ -85,68 +85,12 @@ New taxa and references added along with the research.
 
 > Source reference: Dennis & Miles, 1980.
 
-Name: *Bryantolepis brachycephala* Bryant,1932
+*Bryantolepis brachycephala* Bryant,1932
 
 > Locality and horizon: Wyoming. Pragian, Early Devonian.
 
 > Source reference: Bryant 1932; Denison 1962
 
-[*Buchanosteus confertituberculatus*](https://deepbone.org/public/#/explor?s_id=2426&functionId=Deepbone_header_searchResultOpen) (Chapman, 1916)
-
-
-*Antarctapis mcmurdoensis* White, 1968
-> Givetian, Middle Devonian., XXX (maximum age), YYY (minimum age)
-
-> - Victoria land antarctica.
-> -  White, 1968.
-
-*Antineosteus lehmani* Lelièvre, 1984
-> Late Emsian, Early Devonian, XXX (maximum age), YYY (minimum age)
-
-> - Morocco.
-> - Lelièvre, 1984, 1988.
-
-*Arctolepis decipiens* Woodward,1891
-> Emsian, Early Devonian, XXX (maximum age), YYY (minimum age)
-
-> - Wood Bay series, Spitsbergen
-> - Goujet 1984.
-
-*Arenipiscis westolli* Young, 1981
-> Emsian, Early Devonian, XXX (maximum age), YYY (minimum age)
-
-> - Murrumbidgee Group, Goodradigbee
-> - Young, 1981.
-
-*Austrophyllolepis sp.* Long, 1984
-> late Givetian, Middle Devonian, XXX (maximum age), YYY (minimum age)
-
-> - Avon River Group, Victoria
-> - Long, 1984.
-
-*Baringaspis dineleyi* Miles, 1973
-> lower lochkovian, Early Devonian, XXX (maximum age), YYY (minimum age)
-
-> - Peel Sound Formation, Wales Island
-> - Miles, 1973
-
-*Brachyosteus dietrichi* Gross, 1932
-> Late Frasnian, Late Devonian, XXX (maximum age), YYY (minimum age)
-
-> - Bad Wildungen, Germany
-> - Stensiö, 1963.
-
-*Bruntonichthys multidens* Dennis and Miles, 1980
-> Early Frasnian, Late Devonian, XXX (maximum age), YYY (minimum age)
-
-> - Kimberley, Australia
-> - Dennis and Miles, 1980.
-
-*Bryantolepis brachycephala* Bryant,1932
-> Pragian, Early Devonian, XXX (maximum age), YYY (minimum age)
-
-> - Wyoming, USA.
-> - Bryant, 1932; Denison, 1962
 
 [*Buchanosteus confertituberculatus*](https://deepbone.org/public/#/explor?s_id=2426andfunctionId=Deepbone_header_searchResultOpen) (Chapman, 1916)
 
@@ -155,10 +99,8 @@ Name: *Bryantolepis brachycephala* Bryant,1932
 > - Buchan, Victoria and New South Wales
 > - [Burrow and Turner, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011097); [Long et al., 2014](https://www.publish.csiro.au/zo/zo13081)
 
-
 [*Bullerichthys fascidens*](https://deepbone.org/public/#/explor?s_id=2223andfunctionId=Deepbone_header_searchResultOpen) (Dennis and Miles, 1980)
 Early Frasnian, Late Devonian, 
-
 
 > - Gogo Formation, Kimberley, Australia. 
 > - [Dennis and Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
