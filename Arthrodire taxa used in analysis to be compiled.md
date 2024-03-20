@@ -183,9 +183,9 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 > - The Source reference in deepbone is questionable.
 
 [*Brachyosteus dietrichi*](https://deepbone.cn/public/#/explor?s_id=2247&functionId=Deepbone_header_searchResultOpen) (Gross, 1932)
-> Late Frasnian, XXX (maximum age), YYY (minimum age) 
+> upper Frasnian, 375.7, 372.2
 
-> - Bad Wildungen, Germany, 
+> - Kellwasserkalk of *Manticoceras* beds, Bad Wildungen, Germany.
 > - [Denison, 1978]().
 
  [*Bruntonichthys multidens*](https://deepbone.cn/public/#/explor?s_id=2221&functionId=Deepbone_header_searchResultOpen) Dennis & Miles, 1980
@@ -372,9 +372,9 @@ Early Frasnian, Late Devonian,
 > - Carr, 1994; Carr and Hlavin, 2010; Dunkle and Bungart, 1939.
 
 *Hadrosteus rapax* Gross, 1932
-> Late Frasnian, Late Devonian, XXX (maximum age), YYY (minimum age)
+> upper Frasnian, 375.7, 372.2
 
-> - Bad Wildungen, Germany
+> - Kellwasserkalk of *Manticoceras* beds, Bad Wildungen, Germany.
 > - Carr and Hlavin, 2010; Stensiö, 1963.
 
 *Harrytoombsia elegans* Miles and Dennis, 1979
@@ -499,9 +499,9 @@ Early Frasnian, Late Devonian,
 > - [Ritchie, 2004](https://www.idunn.no/doi/abs/10.18261/9781405169868-2004-05).
 
 *Pachyosteus bulla* Jaekel, 1903
-> Late Frasnian, Late Devonian, XXX (maximum age), YYY (minimum age)
+> upper Frasnian, 375.7, 372.2
 
-> - [horizon and locality]Bad Wildungen, Germany
+> - Kellwasserkalk of *Manticoceras* beds, Bad Wildungen, Germany.
 > - Carr and Hlavin, 2010; Stensiö, 1963.
 
 *Panxiosteus oculus* Wang, 1979
@@ -546,9 +546,9 @@ Early Frasnian, Late Devonian,
 > - Gross, 1938; Miles, 1966a.
 
 *Rhinosteus parvulus* Jaekel, 1911
-> Late Frasnian, Late Devonian, XXX (maximum age), YYY (minimum age)
+> upper Frasnian, 375.7, 372.2
 
-> - Bad Wildungen, Germany
+> -  Kellwasserkalk of *Manticoceras* beds, Bad Wildungen, Germany.
 > - Carr and Hlavin, 2010; Stensiö, 1963.
 
 *Rolfosteus canningensis* Dennis and Miles, 1979b
@@ -570,9 +570,9 @@ Early Frasnian, Late Devonian,
 > - Liu,1981, Dupret,2017.
 
 *Tapinosteus heintzi* Stensiö, 1963
-> Late Frasnian, Late Devonian., XXX (maximum age), YYY (minimum age)
+> upper Frasnian, 375.7, 372.2
 
-> - Bad Wildungen, Germany.
+> -  Kellwasserkalk of *Manticoceras* beds, Bad Wildungen, Germany.
 > - Stensiö, 1963.
 
 *Torosteus tuberculatus* Gardiner and Miles, 1990
@@ -588,9 +588,9 @@ Early Frasnian, Late Devonian,
 > - Gardiner and Miles, 1990.
 
 *Trematosteus fontanellus* Gross, 1932
-> Late Frasnian, Late Devonian, XXX (maximum age), YYY (minimum age)
+> upper Frasnian, 375.7, 372.2
 
-> - Bad Wildungen, Germany
+> - Kellwasserkalk of *Manticoceras* beds, Bad Wildungen, Germany.
 > - Gross, 1932; Stensiö, 1963.
 
 *Tubonasus lennardensis* Dennis and Miles, 1979b
