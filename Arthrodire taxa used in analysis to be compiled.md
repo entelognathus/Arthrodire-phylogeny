@@ -1,5 +1,7 @@
 **List of arthrodire and petalichthyid taxa, geological range, and references**
 
+**命名人加括号或不加括号，含义是不一样的**
+
 New taxa and references added along with the research.
 
 [Taxon name with Deepbone link] Author(s), Date
