@@ -4,10 +4,112 @@
 
 New taxa and references added along with the research.
 
-**The most diversified fauna yielding the arthrodire taxa**
+**The specious fauna yielding the arthrodire taxa**
+
 *Gogo Formation Lagerstatte*: Long and Trinajstic (2010): "The Gogo Formation has been dated as Late Givetian (*hermanni* Zone) to early Frasnian (*falsiovalis* to *punctata* conodont Zones), based on revision of the conodont fauna and radiolarians
 from the upper part of the formation (Nazarov et al. 1982, Nazarov & Ormiston 1983, Klapper 2009). The fish-bearing nodules primarily contain conodonts of the *transitans* conodont Zone." Here we adopte the **early Frasnian** age.
-The arthrodire placoderms exhibit the highest diversity and abundance (Long and Trinajstic 2010) among around **50** species. Arthrodires include *Holonema westolli* Miles 1971; *Latocamurus coulthardi* Long, 1988; *Mcnamaraspis kaprios* Long, 1995; *Incisoscutum ritchiei* Dennis and Miles, 1981; etc. **Count how many**
+The arthrodire placoderms exhibit the highest diversity and abundance (Long and Trinajstic 2010) among around **50** species. Arthrodires include *Holonema westolli* Miles 1971; *Latocamurus coulthardi* Long, 1988; *Mcnamaraspis kaprios* Long, 1995; *Incisoscutum ritchiei* Dennis and Miles, 1981; etc. **Count how many?**
+
+*Cleveland Shale fauna*: The age is **late Famennian**. The fish fossils are from the lower part of the [Cleveland Member of Ohio Shale Formation](https://en.wikipedia.org/wiki/Cleveland_Shale).
+The arthrodires comprise 
+*Brontichthys	clarki*，		
+*Bungartius	perissus*，		
+*Callognathus	regularis*，		
+*Coccosteus	cuyahogae*，		
+*Diplognathus	mirabilis*，		
+*Dunkleosteus	terrelli*，		
+*Glyptaspis	verrucosus*，		
+*Gorgonichthys	clarki*，		
+*Gymnotrachelus	hydei*，		
+*Heintzichthys	gouldii*，		
+*Holdenius	holdeni*，		
+*Hussakofia	minor*，		
+*Hlavinichthys	jacksoni*，		
+*Mylostoma	M. eurhinus; M. newberryi; M. variabilis; May all be synonyms of M. variabilis*，	
+*Paramylostoma	arcualis*，		
+*Selenosteus	brevis*，		
+*Steneosteus	angustopectus*， Steneosteus	 glaber*，
+*Titanichthys	T. agassizi; T. attenuatus; T. clarkii; T. hussakofi; T. rectus; May all be synonyms of T. agassizi*，	
+*Trachosteus	clarki*，
+
+*Bad Wildungen fauna*: Kellwasserkalk Formation, upper Frasnian.
+Placodermi(46)
+Rhenanidae
+Jagorina pandora
+Ptyctodontidae
+Rhynchodus tetrodon
+R.eximius
+R.wildungensis
+Macropetalichthyidae
+Epipetalichthys wildungensis
+Brachydeiridae
+Brachydeirus carinatus
+B.bicarinatus
+B.gracilis
+B.grandis
+B.magnus
+B.minor
+Oxyosteus rostratus
+0.magnusSynauchenia coalescens
+Leptosteidae
+Leptosteus bickensis
+Pholidosteidae
+Pholidosteus friedeli
+P.laevior
+P.pygmaeus
+Tapinosteus heintzi
+Dinichthyidae
+Hadrosteus rapax
+Leiosteidae
+Erromenosteus lucifer
+E.brachyrostris
+E.concavus
+E.diensti
+E.inflatus
+E.koeneni
+E.platycephalus
+Trematosteidae
+Belosteus elegans
+Brachyosteus dietrichi
+Crytosteus inflatus
+P.acuticeps
+P.tuberculatus
+Trematosteus fontanella
+Selenosteidae
+Braunosteus schmidtiEnseosteus jaekeli
+E.hermanni
+E.pachyosteidesMicrosteus angusticeps
+M.dubius
+M.gracilis
+Rhinosteus traquairiR.parvulusR.tuberculatusPachyosteidae
+Pachyosteus bulla
+Arthrodira incertae sedis
+Aspidichthys ingens
+Pterichthyodidae
+Lepadolepis stensioei
+Chondrichthyes (3)
+ProtacrodontoideaProtacrodus vetustusChrondichthyes incertae sedis《Cladodus》wildungensis
+C.》hassiacus
+Acanthodii(1)
+Acanthodii incertae sedis
+Homacanthus jaekeli
+Actinopterygii(2)Stegotrachelidae
+Moythomasia laevigata
+M.striata
+Sarcopterygii (6)
+Onychodontidae
+Onychodus jaekeli
+Diplocercidae
+Diplocercides jaekeli
+D.kayseri
+Chirodipteridae
+Chirodipterus wildungensis
+Dipnoi incertae sedis
+Devonosteus proteus
+Osteolepididae
+?Glyptopomus traquairi
+
+La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Tafilalt and Mader) fauna are also of late Frasnian age (Kellwasser facies).
 
 
 
