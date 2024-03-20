@@ -44,49 +44,51 @@ New taxa and references added along with the research.
 > - Sandy Member, Nevada,USA. 
 > - [Johnson 2000](https://academic.oup.com/zoolinnean/article/129/2/241/2682485).
 
-*Antarctapis mcmurdoensis* White, 1968
+[*Antarctaspis mcmurdoensis*](https://deepbone.cn/public/#/explor?s_id=2169&functionId=Deepbone_header_searchResultOpen) (White, 1968)
+> Givetian,
 
-> Victoria land antarctica. Givetian, Middle Devonian.
+> - Victoria land antarctica. 
+> - White,1968.
 
-> White,1968.
+[*Antineosteus lehmani*](https://deepbone.cn/public/#/explor?s_id=2405&functionId=Deepbone_header_searchResultOpen) (Lelièvre, 1984)
+> Late Emsian
 
-Name: *Antineosteus lehmani* Lelièvre, 1984
+> - Morocco. 
+> - Lelièvre, 1984; [Lelièvre, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173046).
 
-> Locality and horizon: Morocco. Late Emsian, Early Devonian.
+[*Arctolepis decipiens*](https://deepbone.cn/public/#/explor?s_id=2543&functionId=Deepbone_header_searchResultOpen) （Woodward,1891）
+ Emsian,
 
-> Source reference: Lelièvre, 1984, 1988.
+> - Wood Bay series, Spitsbergen.
+> - [Goujet, 1984](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9046910).
 
-Name: *Arctolepis decipiens* Woodward,1891
+[*Arenipiscis westolli*](https://deepbone.cn/public/#/explor?s_id=164607&functionId=Deepbone_header_searchResultOpen) （Young, 1981）
+> Emsian, 
 
-> Locality and horizon: Wood Bay series, Spitsbergen. Emsian, Early Devonian.
+> - Murrumbidgee Group, Goodradigbee, Australia. 
+> - [Young,1981](https://www.tandfonline.com/doi/abs/10.1080/03115518108566994).
+> - This OTU is not in the matrix and will attempt to be add.
 
-> Source reference: Goujet 1984.
+[*Austrophyllolepis sp.*](https://deepbone.cn/public/#/explor?s_id=2160&functionId=Deepbone_header_searchResultOpen) (long, 1984)
+> late Givetian, 
 
-Name: *Arenipiscis westolli* Young, 1981
+> - Avon River Group, Victoria. 
+> - [Long,1984](https://www.researchgate.net/publication/257938652_New_phyllolepids_from_Victoria_and_the_relationships_of_the_Group); [Young et al, 2005](https://www.cambridge.org/core/journals/antarctic-science/article/abs/phyllolepid-placoderm-fish-remains-from-the-devonian-aztec-siltstone-southern-victoria-land-antarctica/353199CDD4AE271D88CEA11578ADAB71);[Young, 2005](https://search.informit.org/doi/abs/10.3316/INFORMIT.866097176771156); [Long et al,2009](https://www.nature.com/articles/nature07732).
 
-> Locality and horizon: Murrumbidgee Group, Goodradigbee. Emsian, Early Devonian.
+[*Baringaspis dineleyi*](https://deepbone.cn/public/#/explor?s_id=2479&functionId=Deepbone_header_searchResultOpen) (Miles, 1973)
+> lower lochkovian, 
 
-> Source reference: Young,1981.
+> - Peel Sound Formation, Wales Island. 
+> - [Miles, 1973](https://www.researchgate.net/publication/285456051_An_actinolepid_arthrodire_from_the_Lower_Devonian_Peel_Sound_Formation_Prince_of_Wales_Island)
+> - The Source reference in deepbone is questionable.
 
-Name: *Austrophyllolepis sp.* long, 1984
+[*Brachyosteus dietrichi*](https://deepbone.cn/public/#/explor?s_id=2247&functionId=Deepbone_header_searchResultOpen) (Gross, 1932)
+> Late Frasnian, 
 
-> Locality and horizon: Avon River Group, Victoria. late Givetian, Middle Devonian.
+> - Bad Wildungen, Germany, 
+> - [Denison, 1978]().
 
-> Source reference: Long,1984.
-
-Name: *Baringaspis dineleyi* Miles, 1973
-
-> Locality and horizon: Peel Sound Formation, Wales Island. lower lochkovian, Early Devonian.
-
-> Source reference: Miles 1973
-
-Name: *Brachyosteus dietrichi* Gross, 1932
-
-> Locality and horizon: Bad Wildungen, Germany, Late Frasnian, Late Devonian.
-
-> Source reference: Stensiö, 1963.
-
-Name: *Bruntonichthys multidens* Dennis & Miles, 1980
+ [*Bruntonichthys multidens*](https://deepbone.cn/public/#/explor?s_id=2221&functionId=Deepbone_header_searchResultOpen) Dennis & Miles, 1980
 
 > Locality and horizon: Kimberley, Australia. Early Frasnian, Late Devonian.
 
@@ -105,7 +107,7 @@ Name: *Bryantolepis brachycephala* Bryant,1932
 > - [Burrow and Turner, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011097); [Long et al., 2014](https://www.publish.csiro.au/zo/zo13081)
 
 [*Bullerichthys fascidens*](https://deepbone.org/public/#/explor?s_id=2223&functionId=Deepbone_header_searchResultOpen) (Dennis & Miles, 1980)
-Early Frasnian,
+> Early Frasnian,
 
 > - Gogo Formation, Kimberley, Australia. Early Frasnian, Late Devonian
 > - [Dennis & Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
