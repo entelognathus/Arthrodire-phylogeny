@@ -34,21 +34,9 @@ The arthrodires comprise
 
 *Bad Wildungen fauna*: Kellwasserkalk Formation, upper Frasnian. 
 
-Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51° 5′ 12.1″ N, 9° 7′ 53.9″ E (precise location to be used in deepbone)
+Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51° 5′ 12.1″ N, 9° 7′ 53.9″ E (precise location to be used in deepbone)51.0867, 9.1317
 
-Placodermi(46)
-Rhenanidae
-Jagorina pandora
-Ptyctodontidae
-Rhynchodus tetrodon
-R.eximius
-R.wildungensis
-Macropetalichthyidae
-Epipetalichthys wildungensis
-Brachydeiridae
-Brachydeirus carinatus
-B.bicarinatus
-B.gracilis
+Placoderms of Bad Wildungen comprise *Jagorina pandora*, *Rhynchodus tetrodon*, *R. eximius*, *R. wildungensis*, *Epipetalichthys wildungensis*, *Brachydeirus carinatus*, *B. bicarinatus*, *B. gracilis*, 
 B.grandis
 B.magnus
 B.minor
@@ -188,7 +176,7 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 [*Brachyosteus dietrichi*](https://deepbone.cn/public/#/explor?s_id=2247&functionId=Deepbone_header_searchResultOpen) (Gross, 1932)
 > upper Frasnian, 375.7, 372.2
 
-> - Kellwasserkalk of *Manticoceras* beds, Bad Wildungen, Germany.
+> - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - [Denison, 1978]().
 
 
@@ -377,7 +365,7 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 *Hadrosteus rapax* Gross, 1932
 > upper Frasnian, 375.7, 372.2
 
-> - Kellwasserkalk of *Manticoceras* beds, Bad Wildungen, Germany.
+> - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - Carr and Hlavin, 2010; Stensiö, 1963.
 
 *Harrytoombsia elegans* Miles and Dennis, 1979
@@ -504,7 +492,7 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 *Pachyosteus bulla* Jaekel, 1903
 > upper Frasnian, 375.7, 372.2
 
-> - Kellwasserkalk of *Manticoceras* beds, Bad Wildungen, Germany.
+> - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - Carr and Hlavin, 2010; Stensiö, 1963.
 
 *Panxiosteus oculus* Wang, 1979
@@ -551,7 +539,7 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 *Rhinosteus parvulus* Jaekel, 1911
 > upper Frasnian, 375.7, 372.2
 
-> -  Kellwasserkalk of *Manticoceras* beds, Bad Wildungen, Germany.
+> - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - Carr and Hlavin, 2010; Stensiö, 1963.
 
 *Rolfosteus canningensis* Dennis and Miles, 1979b
@@ -575,7 +563,7 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 *Tapinosteus heintzi* Stensiö, 1963
 > upper Frasnian, 375.7, 372.2
 
-> -  Kellwasserkalk of *Manticoceras* beds, Bad Wildungen, Germany.
+> - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - Stensiö, 1963.
 
 *Torosteus tuberculatus* Gardiner and Miles, 1990
@@ -593,7 +581,7 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 *Trematosteus fontanellus* Gross, 1932
 > upper Frasnian, 375.7, 372.2
 
-> - Kellwasserkalk of *Manticoceras* beds, Bad Wildungen, Germany.
+> - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - Gross, 1932; Stensiö, 1963.
 
 *Tubonasus lennardensis* Dennis and Miles, 1979b
