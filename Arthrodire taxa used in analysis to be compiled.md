@@ -245,9 +245,9 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 > - Carr and Hlavin, 2010.
 
 *Dunkleosteus terrelli* Newberry, 1873
-> Late Frasnian to Famennian, Late Devonian, XXX (maximum age), YYY (minimum age)
+> upper Famennian, 363.3, 358.9
 
-> - Ohio, Tennessee, Pennsylvania and California, USA.
+> - Cleveland Shale Member, Ohio Shale Formation, Ohio, Tennessee, Pennsylvania and California, USA.
 > - Carr and Hlavin, 2010; Heintz, 1932.
 
 *Eastmanosteus calliaspis* Dennis-Bryan, 1987
@@ -324,9 +324,9 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 > - White, 1978.
 
 *Gorgonichthys clarki* Claypole, 1892
-> Famennian, Late Devonian, XXX (maximum age), YYY (minimum age)
+> upper Famennian, 363.3, 358.9
 
-> - Ohio, USA
+> - Cleveland Shale Member, Ohio Shale Formation, Ohio, USA.
 > - Carr and Hlavin, 2010; Dunkle and Bungart, 1940; Denison, 1978; Stensiö, 1963.
 
 [*Groenlandaspis antarcticus*](https://deepbone.org/public/#/explor?s_id=154139andfunctionId=Deepbone_header_searchResultOpen) Ritchie, 1975
@@ -336,9 +336,9 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 > - [Ritchie, 1975](https://www.nature.com/articles/254569a0); [Young, 1989](https://www.lyellcollection.org/doi/abs/10.1144/GSL.SP.1989.047.01.05)
 
 *Gymnotrachelus hydei* Dunkle and Bungart, 1939
-> Famennian, Late Devonian, XXX (maximum age), YYY (minimum age)
+> upper Famennian, 363.3, 358.9
 
-> - Ohio, USA.
+> - Cleveland Shale Member, Ohio Shale Formation, Ohio, USA.
 > - Carr, 1994; Carr and Hlavin, 2010; Dunkle and Bungart, 1939.
 
 *Hadrosteus rapax* Gross, 1932
@@ -360,9 +360,9 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 > - Dupret 2010.
 
 *Heintzichthys gouldii* Newberry, 1885
-> Famennian, Late Devonian, XXX (maximum age), YYY (minimum age)
+> upper Famennian, 363.3, 358.9
 
-> - Ohio, USA.
+> - Cleveland Shale Member, Ohio Shale Formation, Ohio, USA.
 > - Carr, 1991; Carr and Hlavin, 2010.
 
 *Heintzosteus brevis* [Goujet, 1984]
@@ -528,9 +528,9 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 > - Dennis and Miles, 1979b; Trinajstic and Dennis-Bryan, 2009.
 
 *Stenosteus angustopectus* Carr, 1996
-> Famennian, Late Devonian, XXX (maximum age), YYY (minimum age)
+> upper Famennian, 363.3, 358.9
 
-> - Ohio, USA
+> - Cleveland Shale Member, Ohio Shale Formation, Ohio, USA.
 > - Carr, 1996; Carr and Hlavin, 2010.
 
 *Szelepis yunnanensis* Liu,1981
