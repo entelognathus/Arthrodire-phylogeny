@@ -4,6 +4,115 @@
 
 New taxa and references added along with the research.
 
+**The specious fauna yielding the arthrodire taxa**
+
+*Gogo Formation Lagerstatte*: Long and Trinajstic (2010): "The Gogo Formation has been dated as Late Givetian (*hermanni* Zone) to early Frasnian (*falsiovalis* to *punctata* conodont Zones), based on revision of the conodont fauna and radiolarians
+from the upper part of the formation (Nazarov et al. 1982, Nazarov & Ormiston 1983, Klapper 2009). The fish-bearing nodules primarily contain conodonts of the *transitans* conodont Zone." Here we adopte the **early Frasnian** age.
+The arthrodire placoderms exhibit the highest diversity and abundance (Long and Trinajstic 2010) among around **50** species. Arthrodires include *Holonema westolli* Miles 1971; *Latocamurus coulthardi* Long, 1988; *Mcnamaraspis kaprios* Long, 1995; *Incisoscutum ritchiei* Dennis and Miles, 1981; etc. **Count how many?**
+
+*Cleveland Shale fauna*: The age is **late Famennian**. The fish fossils are from the lower part of the [Cleveland Member of Ohio Shale Formation](https://en.wikipedia.org/wiki/Cleveland_Shale).
+The arthrodires comprise 
+*Brontichthys	clarki*，		
+*Bungartius	perissus*，		
+*Callognathus	regularis*，		
+*Coccosteus	cuyahogae*，		
+*Diplognathus	mirabilis*，		
+*Dunkleosteus	terrelli*，		
+*Glyptaspis	verrucosus*，		
+*Gorgonichthys	clarki*，		
+*Gymnotrachelus	hydei*，		
+*Heintzichthys	gouldii*，		
+*Holdenius	holdeni*，		
+*Hussakofia	minor*，		
+*Hlavinichthys	jacksoni*，		
+*Mylostoma	M. eurhinus; M. newberryi; M. variabilis; May all be synonyms of M. variabilis*，	
+*Paramylostoma	arcualis*，		
+*Selenosteus	brevis*，		
+*Steneosteus	angustopectus*， Steneosteus	 glaber*，
+*Titanichthys	T. agassizi; T. attenuatus; T. clarkii; T. hussakofi; T. rectus; May all be synonyms of T. agassizi*，	
+*Trachosteus	clarki*，
+
+*Bad Wildungen fauna*: Kellwasserkalk Formation, upper Frasnian.
+Placodermi(46)
+Rhenanidae
+Jagorina pandora
+Ptyctodontidae
+Rhynchodus tetrodon
+R.eximius
+R.wildungensis
+Macropetalichthyidae
+Epipetalichthys wildungensis
+Brachydeiridae
+Brachydeirus carinatus
+B.bicarinatus
+B.gracilis
+B.grandis
+B.magnus
+B.minor
+Oxyosteus rostratus
+0.magnusSynauchenia coalescens
+Leptosteidae
+Leptosteus bickensis
+Pholidosteidae
+Pholidosteus friedeli
+P.laevior
+P.pygmaeus
+Tapinosteus heintzi
+Dinichthyidae
+Hadrosteus rapax
+Leiosteidae
+Erromenosteus lucifer
+E.brachyrostris
+E.concavus
+E.diensti
+E.inflatus
+E.koeneni
+E.platycephalus
+Trematosteidae
+Belosteus elegans
+Brachyosteus dietrichi
+Crytosteus inflatus
+P.acuticeps
+P.tuberculatus
+Trematosteus fontanella
+Selenosteidae
+Braunosteus schmidtiEnseosteus jaekeli
+E.hermanni
+E.pachyosteidesMicrosteus angusticeps
+M.dubius
+M.gracilis
+Rhinosteus traquairiR.parvulusR.tuberculatusPachyosteidae
+Pachyosteus bulla
+Arthrodira incertae sedis
+Aspidichthys ingens
+Pterichthyodidae
+Lepadolepis stensioei
+Chondrichthyes (3)
+ProtacrodontoideaProtacrodus vetustusChrondichthyes incertae sedis《Cladodus》wildungensis
+C.》hassiacus
+Acanthodii(1)
+Acanthodii incertae sedis
+Homacanthus jaekeli
+Actinopterygii(2)Stegotrachelidae
+Moythomasia laevigata
+M.striata
+Sarcopterygii (6)
+Onychodontidae
+Onychodus jaekeli
+Diplocercidae
+Diplocercides jaekeli
+D.kayseri
+Chirodipteridae
+Chirodipterus wildungensis
+Dipnoi incertae sedis
+Devonosteus proteus
+Osteolepididae
+?Glyptopomus traquairi
+
+La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Tafilalt and Mader) fauna are also of late Frasnian age (Kellwasser facies).
+
+
+
 [Taxon name with Deepbone link] Author(s), Date
 > [geological range], XXX (maximum age), YYY (minimum age)
 
@@ -74,10 +183,11 @@ New taxa and references added along with the research.
 > - The Source reference in deepbone is questionable.
 
 [*Brachyosteus dietrichi*](https://deepbone.cn/public/#/explor?s_id=2247&functionId=Deepbone_header_searchResultOpen) (Gross, 1932)
-> Upper Frasnian, XXX (maximum age), YYY (minimum age) 
+> upper Frasnian, 375.7, 372.2
 
-> - Bad Wildungen, Germany
-> - Denison, 1978.
+> - Kellwasserkalk of *Manticoceras* beds, Bad Wildungen, Germany.
+> - [Denison, 1978]().
+
 
  [*Bruntonichthys multidens*](https://deepbone.cn/public/#/explor?s_id=2221&functionId=Deepbone_header_searchResultOpen) Dennis & Miles, 1980
 > Early Frasnian, XXX (maximum age), YYY (minimum age)
@@ -262,9 +372,9 @@ New taxa and references added along with the research.
 > - Carr, 1994; Carr and Hlavin, 2010; Dunkle and Bungart, 1939.
 
 *Hadrosteus rapax* Gross, 1932
-> Late Frasnian, Late Devonian, XXX (maximum age), YYY (minimum age)
+> upper Frasnian, 375.7, 372.2
 
-> - Bad Wildungen, Germany
+> - Kellwasserkalk of *Manticoceras* beds, Bad Wildungen, Germany.
 > - Carr and Hlavin, 2010; Stensiö, 1963.
 
 *Harrytoombsia elegans* Miles and Dennis, 1979
@@ -389,9 +499,9 @@ New taxa and references added along with the research.
 > - [Ritchie, 2004](https://www.idunn.no/doi/abs/10.18261/9781405169868-2004-05).
 
 *Pachyosteus bulla* Jaekel, 1903
-> Late Frasnian, Late Devonian, XXX (maximum age), YYY (minimum age)
+> upper Frasnian, 375.7, 372.2
 
-> - [horizon and locality]Bad Wildungen, Germany
+> - Kellwasserkalk of *Manticoceras* beds, Bad Wildungen, Germany.
 > - Carr and Hlavin, 2010; Stensiö, 1963.
 
 *Panxiosteus oculus* Wang, 1979
@@ -436,9 +546,9 @@ New taxa and references added along with the research.
 > - Gross, 1938; Miles, 1966a.
 
 *Rhinosteus parvulus* Jaekel, 1911
-> Late Frasnian, Late Devonian, XXX (maximum age), YYY (minimum age)
+> upper Frasnian, 375.7, 372.2
 
-> - Bad Wildungen, Germany
+> -  Kellwasserkalk of *Manticoceras* beds, Bad Wildungen, Germany.
 > - Carr and Hlavin, 2010; Stensiö, 1963.
 
 *Rolfosteus canningensis* Dennis and Miles, 1979b
@@ -460,9 +570,9 @@ New taxa and references added along with the research.
 > - Liu,1981, Dupret,2017.
 
 *Tapinosteus heintzi* Stensiö, 1963
-> Late Frasnian, Late Devonian., XXX (maximum age), YYY (minimum age)
+> upper Frasnian, 375.7, 372.2
 
-> - Bad Wildungen, Germany.
+> -  Kellwasserkalk of *Manticoceras* beds, Bad Wildungen, Germany.
 > - Stensiö, 1963.
 
 *Torosteus tuberculatus* Gardiner and Miles, 1990
@@ -478,9 +588,9 @@ New taxa and references added along with the research.
 > - Gardiner and Miles, 1990.
 
 *Trematosteus fontanellus* Gross, 1932
-> Late Frasnian, Late Devonian, XXX (maximum age), YYY (minimum age)
+> upper Frasnian, 375.7, 372.2
 
-> - Bad Wildungen, Germany
+> - Kellwasserkalk of *Manticoceras* beds, Bad Wildungen, Germany.
 > - Gross, 1932; Stensiö, 1963.
 
 *Tubonasus lennardensis* Dennis and Miles, 1979b
