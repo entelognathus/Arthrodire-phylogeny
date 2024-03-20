@@ -12,24 +12,24 @@ The arthrodire placoderms exhibit the highest diversity and abundance (Long and 
 
 *Cleveland Shale fauna*: The age is **late Famennian**. The fish fossils are from the lower part of the [Cleveland Member of Ohio Shale Formation](https://en.wikipedia.org/wiki/Cleveland_Shale).
 The arthrodires comprise 
-*Brontichthys	clarki*，		
-*Bungartius	perissus*，		
-*Callognathus	regularis*，		
-*Coccosteus	cuyahogae*，		
-*Diplognathus	mirabilis*，		
-*Dunkleosteus	terrelli*，		
-*Glyptaspis	verrucosus*，		
-*Gorgonichthys	clarki*，		
-*Gymnotrachelus	hydei*，		
-*Heintzichthys	gouldii*，		
-*Holdenius	holdeni*，		
-*Hussakofia	minor*，		
-*Hlavinichthys	jacksoni*，		
-*Mylostoma	M. eurhinus; M. newberryi; M. variabilis; May all be synonyms of M. variabilis*，	
-*Paramylostoma	arcualis*，		
-*Selenosteus	brevis*，		
-*Steneosteus	angustopectus*， *Steneosteus  glaber*，
-*Titanichthys	T. agassizi; T. attenuatus; T. clarkii; T. hussakofi; T. rectus; May all be synonyms of T. agassizi*，	
+*Brontichthys	clarki*, 
+*Bungartius	perissus*, 
+*Callognathus	regularis*, 
+*Coccosteus	cuyahogae*, 
+*Diplognathus	mirabilis*, 
+*Dunkleosteus	terrelli*, 
+*Glyptaspis	verrucosus*, 
+*Gorgonichthys	clarki*, 
+*Gymnotrachelus	hydei*, 
+*Heintzichthys	gouldii*, 
+*Holdenius	holdeni*, 
+*Hussakofia	minor*, 
+*Hlavinichthys	jacksoni*, 
+*Mylostoma	eurhinus; M. newberryi; M. variabilis; May all be synonyms of M. variabilis*，	
+*Paramylostoma	arcualis*, 
+*Selenosteus	brevis*, 
+*Steneosteus	angustopectus*, *Steneosteus  glaber*，
+*Titanichthys	agassizi; T. attenuatus; T. clarkii; T. hussakofi; T. rectus; May all be synonyms of T. agassizi*，	
 *Trachosteus	clarki*，
 
 *Bad Wildungen fauna*: Kellwasserkalk Formation, upper Frasnian. 
