@@ -42,13 +42,10 @@ New taxa and references added along with the research.
 > -  White, 1968.
 
 *Antineosteus lehmani* Lelièvre, 1984
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Late Emsian, Early Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Morocco. Late Emsian, Early Devonian.
-
-> Source reference: Lelièvre, 1984, 1988.
+> - Morocco.
+> - Lelièvre, 1984, 1988.
 
 *Arctolepis decipiens* Woodward,1891
 > Emsian, Early Devonian, XXX (maximum age), YYY (minimum age)
@@ -277,40 +274,28 @@ Early Frasnian, Late Devonian,
 > - Miles and Dennis, 1979; Trinajsticand Dennis-Bryan, 2009.
 
 *Heightingtonaspis anglica* Traquair 1890
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Lochkovian to Pragian, Early Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Eastern Avalonia. Lochkovian to Pragian, Early Devonian.
-
-> Source reference: Dupret 2010.
+> - Eastern Avalonia
+> - Dupret 2010.
 
 *Heintzichthys gouldii* Newberry, 1885
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Famennian, Late Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Ohio, USA. Famennian, Late Devonian.
-
-> Source reference: Carr, 1991; Carr and Hlavin, 2010.
+> - Ohio, USA.
+> - Carr, 1991; Carr and Hlavin, 2010.
 
 *Heintzosteus brevis* [Goujet, 1984]
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Pragian, early Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Formation de Wood Bay, Spitsbergen. Pragian, early Devonian.
-
-> Source reference: Goujet 1984.
+> - Formation de Wood Bay, Spitsbergen
+> - Goujet 1984.
 
 *Heterostius ingens* Asmuss, 1856
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Eifelian, Middle Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Aruküla beds, Estonia. Eifelian, Middle Devonian.
-
-> Source reference: Heintz, 1928, 1930.
+> - Aruküla beds, Estonia.
+> - Heintz, 1928, 1930.
 
 [*Holonema westolli*](https://deepbone.org/public/#/explor?s_id=2425andfunctionId=Deepbone_header_searchResultOpen) Miles, 1971
 > lower Frasnian, 382.7, 379.2
@@ -320,13 +305,10 @@ Early Frasnian, Late Devonian,
 > - Trinajstic (1999) reported the isolated scales from the late Givetian to early Frasnian Gneudna Formation.
 
 *Homostius sulcatus* Kutorga, 1837
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Eifelian, Middle Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Aruküla beds, Estonia. Eifelian, Middle Devonian.
-
-> Source reference: Carr and Hlavin, 2010; Heintz, 1934, 1968.
+> - Aruküla beds, Estonia.
+> - Carr and Hlavin, 2010; Heintz, 1934, 1968.
 
 [*Incisoscutum ritchiei*](https://deepbone.org/public/#/explor?s_id=2232andfunctionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1981
 > lower Frasnian, 382.7, 379.2
@@ -341,18 +323,15 @@ Early Frasnian, Late Devonian,
 > - Long, 1994; Trinajstic and Dennis-Bryan, 2009.
 
 *Janiosteus timanicus* Ivanov, 1989
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Late Givetian, Middle Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Timan, Russia. Late Givetian, Middle Devonian.
-
-> Source reference: Carrand Hlavin, 2010; Ivanov, 1989.
+> - Timan, Russia.
+> - Carr and Hlavin, 2010; Ivanov, 1989.
 
 *Kendrickichthys cavernosus* Dennis and Miles, 1980
-> Early Frasnian, Late Devonian
+> lower Frasnian, 382.7, 379.2
 
-> - Kimberley, Australia.
+> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
 > - Dennis and Miles, 1980.
 
 *Kiangyousteus yohii* Liu, 1955
@@ -374,22 +353,16 @@ Early Frasnian, Late Devonian,
 > - Long, 1988a; Trinajstic and Dennis-Bryan, 2009.
 
 *Lehmanosteus hyperboreus* Goujet 1984
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Pragian, Early Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: [Norvège], Spitsbergen. Pragian, Early Devonian.
-
-> Source reference: Goujet 1984.
+> - Spitsbergen
+> - Goujet 1984.
 
 *Maideria falipoui* Lelièvre 1995
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Givetian, Middle Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Maider, Morocco. Givetian, Middle Devonian.
-
-> Source reference: Lelièvre 1995.
+> - Maider, Morocco
+> - Lelièvre, 1995.
 
 *Mcnamaraspis kaprios* Long, 1995
 > lower Frasnian, 382.7, 379.2
@@ -398,22 +371,16 @@ Early Frasnian, Late Devonian,
 > - Long, 1995; Trinajstic and Dennis-Bryan, 2009.
 
 *Melanosteus occitanus* Lelièvre *et al*., 1987
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Late Frasnian, Late Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Montagne Noire, France. Late Frasnian, Late Devonian.
-
-> Source reference: Lelièvre *et al*., 1987.
+> - Montagne Noire, France.
+> - Lelièvre *et al*., 1987.
 
 *Millerosteus minor* Stensiö, 1959
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Early Givetian, Middle Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Orkneys and Caithness, Scotland. Early Givetian, Middle Devonian.
-
-> Source reference: Desmond, 1974; Stensiö, 1959, 1963.
+> - Orkneys and Caithness, Scotland.
+> - Desmond, 1974; Stensiö, 1959, 1963.
 
 [*Mulgaspis evansorum*](https://deepbone.org/public/#/explor?s_id=2727andfunctionId=Deepbone_header_searchResultOpen) Ritchie, 2004
 > lower Eifelian, 393.3, 391.4
@@ -422,22 +389,16 @@ Early Frasnian, Late Devonian,
 > - [Ritchie, 2004](https://www.idunn.no/doi/abs/10.18261/9781405169868-2004-05).
 
 *Pachyosteus bulla* Jaekel, 1903
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Late Frasnian, Late Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Bad Wildungen, Germany. Late Frasnian, Late Devonian.
-
-> Source reference: Carr and Hlavin, 2010; Stensiö, 1963.
+> - [horizon and locality]Bad Wildungen, Germany
+> - Carr and Hlavin, 2010; Stensiö, 1963.
 
 *Panxiosteus oculus* Wang, 1979
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Givetian, Middle Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Yunnan, China. Givetian, Middle Devonian.
-
-> Source reference: Carr and Hlavin, 2010; Wang, 1979.
+> - Yunnan, China
+> - Carr and Hlavin, 2010; Wang, 1979.
 
 [*Parabuchanosteus murrumbidgeensis*](https://deepbone.org/public/#/explor?s_id=2430andfunctionId=Deepbone_header_searchResultOpen)  (White, 1952)
 > Pragian to Emsian, 410.8, 393.3
@@ -445,58 +406,40 @@ Early Frasnian, Late Devonian,
 > - White and Toombs, 1972; Young, 1979
 
 *Phlyctaenius acadicus* Whiteaves 1881
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Emsian or Eifelian, Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Campbellton, Canada. Emsian or Eifelian, Devonian
-
-> Source reference: Young 1983, Denison 1958.
+> - Campbellton, Canada
+> - Young 1983, Denison 1958.
 
 *Placolepis budawangensis* Ritchie 1984
-> [geological range], XXX (maximum age), YYY (minimum age)
+> late Givetian, middle Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Yalwal, Australia. late Givetian, middle Devonian.
-
-> Source reference: Ritchie 1984.
+> - Yalwal, Australia.
+> - Ritchie 1984.
 
 *Plourdosteus canadensis* Woodward, 1892
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Early Frasnian, Late Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]v
-> Locality and horizon: Quebec, Canada. Early Frasnian, Late Devonian.
-
-> Source reference: Carr and Hlavin, 2010; Miles, 1966b; Schultze and Cloutier, 1996; Vézina, 1988; 1990.
+> - Quebec, Canada
+> - Carr and Hlavin, 2010; Miles, 1966b; Schultze and Cloutier, 1996; Vézina, 1988; 1990.
 
 *Protitanichthys rockpotensis*
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Early Givetian, Middle Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Michigan, USA. Early Givetian, Middle Devonian.
-
-> Source reference: Carr and Hlavin, 2010; Case, 1931; Miles, 1966b.
+> - Michigan, USA
+> - Carr and Hlavin, 2010; Case, 1931; Miles, 1966b.
 
 *Rhachiosteus pterygiatus* Gross, 1938
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Late Givetian, Middle Devonian to Early Frasnian, Late Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Bergisch-Gladbach, Germany. Late Givetian, Middle Devonian to Early Frasnian, Late Devonian.
-
-> Source reference: Gross, 1938; Miles, 1966a.
+> - Bergisch-Gladbach, Germany.
+> - Gross, 1938; Miles, 1966a.
 
 *Rhinosteus parvulus* Jaekel, 1911
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Late Frasnian, Late Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Bad Wildungen, Germany. Late Frasnian, Late Devonian.
-
-> Source reference: Carr and Hlavin, 2010; Stensiö, 1963.
+> - Bad Wildungen, Germany
+> - Carr and Hlavin, 2010; Stensiö, 1963.
 
 *Rolfosteus canningensis* Dennis and Miles, 1979b
 > lower Frasnian, 382.7, 379.2
@@ -505,31 +448,22 @@ Early Frasnian, Late Devonian,
 > - Dennis and Miles, 1979b; Trinajstic and Dennis-Bryan, 2009.
 
 *Stenosteus angustopectus* Carr, 1996
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Famennian, Late Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Ohio, USA. Famennian, Late Devonian.
-
-> Source reference: Carr, 1996; Carr and Hlavin, 2010.
+> - Ohio, USA
+> - Carr, 1996; Carr and Hlavin, 2010.
 
 *Szelepis yunnanensis* Liu,1981
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Lochkovian, early Devonian., XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Xitun Formation, Qujing, Yunnan. Lochkovian, early Devonian.
-
-> Source reference: Liu,1981, Dupret,2017.
+> - Xitun Formation, Qujing, Yunnan
+> - Liu,1981, Dupret,2017.
 
 *Tapinosteus heintzi* Stensiö, 1963
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Late Frasnian, Late Devonian., XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Bad Wildungen, Germany. Late Frasnian, Late Devonian.
-
-> Source reference: Stensiö, 1963.
+> - Bad Wildungen, Germany.
+> - Stensiö, 1963.
 
 *Torosteus tuberculatus* Gardiner and Miles, 1990
 > lower Frasnian, 382.7, 379.2
@@ -538,22 +472,16 @@ Early Frasnian, Late Devonian,
 > - Gardiner and Miles, 1990.
 
 *Torosteus pulchellus* Gardiner and Miles, 1990
-> [geological range], XXX (maximum age), YYY (minimum age)
+> lower Frasnian, 382.7, 379.2
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Kimberley, Australia. Early Frasnian, Late Devonian.
-
-> Source reference: Gardiner and Miles, 1990.
+> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
+> - Gardiner and Miles, 1990.
 
 *Trematosteus fontanellus* Gross, 1932
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Late Frasnian, Late Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Bad Wildungen, Germany. Late Frasnian, Late Devonian.
-
-> Source reference: Gross, 1932; Stensiö, 1963.
+> - Bad Wildungen, Germany
+> - Gross, 1932; Stensiö, 1963.
 
 *Tubonasus lennardensis* Dennis and Miles, 1979b
 > lower Frasnian, 382.7, 379.2
@@ -562,13 +490,10 @@ Early Frasnian, Late Devonian,
 > - Dennis and Miles, 1979b; Long, 1988b; Trinajstic and Dennis-Bryan, 2009.
 
 *Turrisaspis elektor* Daeschler, Frumes and Mullison, 2003
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Famennian, Late Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Pennsylvania, USA. Famennian, Late Devonian.
-
-> Source reference: Daeschler, Frumes and Mullison, 2003.
+> - Pennsylvania, USA
+> - Daeschler, Frumes and Mullison, 2003.
 
 *Watsonosteus flfletti* Watson, 1932
 > [geological range], XXX (maximum age), YYY (minimum age)
