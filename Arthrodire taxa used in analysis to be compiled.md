@@ -19,91 +19,30 @@ New taxa and references added along with the research.
 
 > - **any comments on this species added here**
 
-*Latocamurus coulthardi*, Early Frasnian, Late Devonian (Long, 1988a; Trinajstic & Dennis-Bryan, 2009)
 
-*Lehmanosteus hyperboreus*, Pragian, Early Devonian (Goujet 1984)
+[*Actinolepis magna*](https://deepbone.org/public/#/explor?s_id=2464&functionId=Deepbone_header_searchResultOpen) (Mark-Kurik, 1973)
+> Givetian,
 
-*Maideria falipoui*, Givetian, Middle Devonian (Lelièvre 1995)
+> - Burtnieki Bed, Estonia, Latvia. 
+> - Mark-Kurik, 1973.
 
-*Mcnamaraspis kaprios*, Early Frasnian, Late Devonian (Long, 1995; Trinajstic & Dennis-Bryan, 2009)
+[*Actinolepis tuberculate*](https://deepbone.org/public/#/explor?s_id=2463&functionId=Deepbone_header_searchResultOpen) (Agassiz, 1844)
+> Eifelian,
 
-*Melanosteus occitanus*, Late Frasnian, Late Devonian (Lelièvre et al., 1987)
+> - Parnu Bed, Tori, Estonia; Nariva Bed, Slavjanka and Lemovzha, Estonia; Arukula Bed, Pskov district, Russia.
+> - Mark-Kurik 1973.
 
-*Millerosteus minor*, Early Givetian, Middle Devonian (Desmond, 1974; Stensiö, 1959, 1963)
+[*Aethaspis utahensis*](https://deepbone.org/public/#/explor?s_id=2491&functionId=Deepbone_header_searchResultOpen) (Denison, 1958)
+> Early Devonian,
 
-*Pachyosteus bulla*, Late Frasnian, Late Devonian (Carr & Hlavin, 2010; Stensiö, 1963)
+> - Water Canyon Formation, Cache County, Utah, USA.
+> - Denison, 1958.
 
-*Panxiosteus oculus*, Givetian, Middle Devonian (Carr & Hlavin, 2010; Wang, 1979)
-
-*Parabuchanosteus murrumbidgeenis*, Emsian, Early Devonian (Long, Mark-Kurik & Young, 2014; White, 1978)
-
-*Phlyctaenius acadicus*, Emsian or Eifelian, Devonian (Young 1983, Denison 1958)
-
-*Placolepis budawangensis*, late Givetian, middle Devonian (Ritchie 1984)
-
-*Plourdosteus canadensis*, Early Frasnian, Late Devonian (Carr & Hlavin, 2010; Miles, 1966b; Schultze & Cloutier, 1996; Vézina, 1988; 1990)
-
-*Protitanichthys rockpotensis*, Early Givetian, Middle Devonian ( Carr & Hlavin, 2010; Case, 1931; Miles, 1966b)
-
-*Rhachiosteus pterygiatus*, Late Givetian, Middle Devonian to Early Frasnian, Late Devonian (Gross, 1938; Miles, 1966a)
-
-*Rhinosteus parvulus*, Late Frasnian, Late Devonian (Carr & Hlavin, 2010; Stensiö, 1963)
-
-*Rolfosteus canningensis*, Early Frasnian, Late Devonian (Dennis & Miles, 1979b; Trinajstic & Dennis-Bryan, 2009)
-
-*Stenosteus angustopectus*, Famennian, Late Devonian (Carr, 1996; Carr & Hlavin, 2010)
-
-*Szelepis yunnanensis*, Lochkovian, early Devonian (Liu,1981, Dupret,2017)
-
-*Tapinosteus heintzi*, Late Frasnian, Late Devonian (Stensiö, 1963)
-
-*Torosteus tuberculatus*, Early Frasnian, Late Devonian (Gardiner & Miles, 1990)
-
-*Torosteus pulchellus*, Early Frasnian, Late Devonian (Gardiner & Miles, 1990)
-
-*Trematosteus fontanellus*, Late Frasnian, Late Devonian (Gross, 1932; Stensiö, 1963)
-
-*Tubonasus lennardensis*, Early Frasnian, Late Devonian (Dennis & Miles, 1979b; Long, 1988b; Trinajstic & Dennis-Bryan, 2009)
-
-*Turrisaspis elektor*, Famennian, Late Devonian (Daeschler, Frumes & Mullison, 2003)
-
-*Watsonosteus flfletti*, Late Givetian, Middle Devonian (Miles & Westoll, 1963)
-
-*Westralichthys uwagedensis*, Middle Famennian, Late Devonian (Carr & Hlavin, 2010; Long, 1987)
-
-*Wuttagoonaspis fletcheri*,  Early Eifelian, Middle Devonian (Ritchie 1973; Young & Goujet 2003)
-
-*Yiminaspis shenme*, Early-Middle Devonian (Dupret 2008)
-
-*Xiangshuiosteus wui*, Emsian, Early Devonian (Wang, 1992)
-
-*Yinosteus marjor*, Emsian, Early Devonian (Zhu 2016; Wang & Wang, 1984)
-
-*Yujiangolepis liujingensis*, Pragian, Early Devonian (Dupret 2009; Wang 1998)
-
-*Actinolepis magna* Mark-Kurik, 1973
-
-> Estonia; Latvia. Middle Devonian, Givetian.
-
-> Mark-Kurik 1973.
-
-*Actinolepis tuberculate* Agassiz, 1844
-
-> Estonia; Russia. Middle Devonian, Eifelian.
-
-> Mark-Kurik 1973.
-
-*Aethaspis utahensis* Denison, 1958
-
-> Locality and horizon: Water Canyon Formation, Cache County, Utah. Early Devonian.
-
-> Source reference: Denison 1958.
-
-*Aleosteus eganensis* Johnson et al, 2000
-
-> Sandy Member, Nevada. Late Emsian, Early Devonian.
-
-> Johnson 2000.
+[*Aleosteus eganensis*](https://deepbone.org/public/#/explor?s_id=2487&functionId=Deepbone_header_searchResultOpen) (Johnson et al, 2000)
+> Late Emsian
+ 
+> - Sandy Member, Nevada,USA. 
+> - [Johnson 2000](https://academic.oup.com/zoolinnean/article/129/2/241/2682485).
 
 *Antarctapis mcmurdoensis* White, 1968
 
@@ -164,23 +103,26 @@ Name: *Bryantolepis brachycephala* Bryant,1932
 
 > - Buchan, Victoria and New South Wales
 > - [Burrow and Turner, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011097); [Long et al., 2014](https://www.publish.csiro.au/zo/zo13081)
-Name: *Bullerichthys fascidens* Dennis & Miles, 1980
 
-> Locality and horizon: Kimberley, Australia. Early Frasnian, Late Devonian.
+[*Bullerichthys fascidens*](https://deepbone.org/public/#/explor?s_id=2223&functionId=Deepbone_header_searchResultOpen) (Dennis & Miles, 1980)
+Early Frasnian,
 
-> Source reference: Dennis & Miles, 1980.
+> - Gogo Formation, Kimberley, Australia. Early Frasnian, Late Devonian
+> - [Dennis & Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
 
-Name: *Camuropiscis laidlawi* Dennis & Miles, 1979
+[*Camuropiscis laidlawi*](https://deepbone.org/public/#/explor?s_id=2210&functionId=Deepbone_header_searchResultOpen) (Dennis & Miles, 1979)
+> Early Frasnian,
 
-> Locality and horizon: Kimberley, Australia. Early Frasnian, Late Devonian.
-
-> Source reference: Dennis & Miles, 1979; Trinajstic & Dennis-Bryan, 2009.
+> Gogo Formation, Kimberley, Australia.
+> [Dennis & Miles, 1979](https://academic.oup.com/zoolinnean/article-abstract/67/1/1/2664252); [Trinajstic & Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Coccosteus cuspidatus*](https://deepbone.org/public/#/explor?s_id=2148&functionId=Deepbone_header_searchResultOpen) Miller, 1841
 > Eifelian to Givetain, 393.3, 382.7
 
 > - Caithness Flagstone Group, Scotland
 > - [Miles and Westoll, 1968](https://doi.org/10.1017/S0080456800024078).
+
+*Compagopiscis croucheri* Gardiner & Miles, 1994 
 
 > Locality and horizon: Kimberley, Australia. Early Frasnian, Late Devonian.
 
