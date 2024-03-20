@@ -37,68 +37,47 @@ The arthrodires comprise
 Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51° 5′ 12.1″ N, 9° 7′ 53.9″ E (precise location to be used in deepbone)51.0867, 9.1317
 
 Placoderms of Bad Wildungen comprise *Jagorina pandora*, *Rhynchodus tetrodon*, *R. eximius*, *R. wildungensis*, *Epipetalichthys wildungensis*, *Brachydeirus carinatus*, *B. bicarinatus*, *B. gracilis*, 
-B.grandis
-B.magnus
-B.minor
-Oxyosteus rostratus
-0.magnusSynauchenia coalescens
-Leptosteidae
-Leptosteus bickensis
-Pholidosteidae
-Pholidosteus friedeli
-P.laevior
-P.pygmaeus
-Tapinosteus heintzi
-Dinichthyidae
-Hadrosteus rapax
-Leiosteidae
-Erromenosteus lucifer
-E.brachyrostris
-E.concavus
-E.diensti
-E.inflatus
-E.koeneni
-E.platycephalus
-Trematosteidae
-Belosteus elegans
-Brachyosteus dietrichi
-Crytosteus inflatus
-P.acuticeps
-P.tuberculatus
-Trematosteus fontanella
-Selenosteidae
-Braunosteus schmidtiEnseosteus jaekeli
-E.hermanni
-E.pachyosteidesMicrosteus angusticeps
-M.dubius
-M.gracilis
-Rhinosteus traquairiR.parvulusR.tuberculatusPachyosteidae
-Pachyosteus bulla
-Arthrodira incertae sedis
-Aspidichthys ingens
-Pterichthyodidae
-Lepadolepis stensioei
-Chondrichthyes (3)
-ProtacrodontoideaProtacrodus vetustusChrondichthyes incertae sedis《Cladodus》wildungensis
-C.》hassiacus
-Acanthodii(1)
-Acanthodii incertae sedis
-Homacanthus jaekeli
-Actinopterygii(2)Stegotrachelidae
-Moythomasia laevigata
-M.striata
-Sarcopterygii (6)
-Onychodontidae
-Onychodus jaekeli
-Diplocercidae
-Diplocercides jaekeli
-D.kayseri
-Chirodipteridae
-Chirodipterus wildungensis
-Dipnoi incertae sedis
-Devonosteus proteus
-Osteolepididae
-?Glyptopomus traquairi
+*B. grandis*, 
+*B. magnus*, 
+*B. minor*, 
+*Oxyosteus rostratus*, 
+*O. magnus*, 
+*Synauchenia coalescens*, 
+*Leptosteus bickensis*, 
+*Pholidosteus friedeli*, 
+*P. laevior*, 
+*P. pygmaeus*, 
+*Tapinosteus heintzi*, 
+*Hadrosteus rapax*, 
+*Erromenosteus lucifer*, 
+*E. brachyrostris*, 
+*E. concavus*, 
+*E. diensti*, 
+*E. inflatus*, 
+*E. koeneni*, 
+*E. platycephalus*, 
+*Belosteus elegans*, 
+*Brachyosteus dietrichi*, 
+*Parabelosteus inflatus*, 
+*P. acuticeps*, 
+*P. tuberculatus*, 
+*Trematosteus fontanella*, 
+*Braunosteus schmidti*, 
+*Enseosteus jaekeli*, 
+*E. hermanni*, 
+*E. pachyosteides*, 
+*Microsteus angusticeps*, 
+*M. dubius*, 
+*M. gracilis*, 
+*Rhinosteus traquairi*, 
+*R. parvulus*, 
+*R. tuberculatus*, 
+*Pachyosteus bulla*, 
+*Aspidichthys ingens*, 
+*Lepadolepis stensioei*, 
+
+*Protacrodus vetustus*, *Cladodus wildungensis*, *C. hassiacus*, 
+*Homacanthus jaekeli*，*Moythomasia laevigata*, *M. striata*, ***Onychodus jaekeli***, *Diplocercides jaekeli*, ***D. kayseri***, *Chirodipterus wildungensis*, *Devonosteus proteus*, ?*Glyptopomus traquairi*
 
 La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Tafilalt and Mader) fauna are also of late Frasnian age (Kellwasser facies).
 
