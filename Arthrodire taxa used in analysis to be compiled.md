@@ -133,13 +133,13 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 > - Mark-Kurik 1973.
 
 [*Aethaspis utahensis*](https://deepbone.org/public/#/explor?s_id=2491andfunctionId=Deepbone_header_searchResultOpen) (Denison, 1958)
-> Early Devonian, XXX (maximum age), YYY (minimum age)
+> Lower Devonian, XXX (maximum age), YYY (minimum age)
 
 > - Water Canyon Formation, Cache County, Utah, USA.
 > - Denison, 1958.
 
 [*Aleosteus eganensis*](https://deepbone.org/public/#/explor?s_id=2487andfunctionId=Deepbone_header_searchResultOpen) (Johnson et al, 2000)
-> Late Emsian, XXX (maximum age), YYY (minimum age)
+> Upper Emsian, XXX (maximum age), YYY (minimum age)
  
 > - Sandy Member, Nevada,USA. 
 > - [Johnson 2000](https://academic.oup.com/zoolinnean/article/129/2/241/2682485).
@@ -151,13 +151,13 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 > - White,1968.
 
 [*Antineosteus lehmani*](https://deepbone.cn/public/#/explor?s_id=2405&functionId=Deepbone_header_searchResultOpen) (Lelièvre, 1984)
-> Late Emsian, XXX (maximum age), YYY (minimum age)
+> Upper Emsian, XXX (maximum age), YYY (minimum age)
 
 > - Morocco. 
 > - Lelièvre, 1984; [Lelièvre, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173046).
 
 [*Arctolepis decipiens*](https://deepbone.cn/public/#/explor?s_id=2543&functionId=Deepbone_header_searchResultOpen) （Woodward,1891）
- Emsian, XXX (maximum age), YYY (minimum age)
+> Emsian, XXX (maximum age), YYY (minimum age)
 
 > - Wood Bay series, Spitsbergen.
 > - [Goujet, 1984](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9046910).
@@ -167,7 +167,7 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 
 > - Murrumbidgee Group, Goodradigbee, Australia. 
 > - [Young,1981](https://www.tandfonline.com/doi/abs/10.1080/03115518108566994).
-> - This OTU is not in the matrix and will attempt to be add.
+> - This OTU is not in the matrix.
 
 [*Austrophyllolepis sp.*](https://deepbone.cn/public/#/explor?s_id=2160&functionId=Deepbone_header_searchResultOpen) (long, 1984)
 > late Givetian, XXX (maximum age), YYY (minimum age) 
@@ -188,28 +188,28 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 > - Kellwasserkalk of *Manticoceras* beds, Bad Wildungen, Germany.
 > - [Denison, 1978]().
 
+
  [*Bruntonichthys multidens*](https://deepbone.cn/public/#/explor?s_id=2221&functionId=Deepbone_header_searchResultOpen) Dennis & Miles, 1980
+> Early Frasnian, XXX (maximum age), YYY (minimum age)
 
-> Locality and horizon: Kimberley, Australia. Early Frasnian, Late Devonian.
+> - Gogo Formation, Kimberley, Australia.
+> - [Dennis & Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
 
-> Source reference: Dennis & Miles, 1980.
+[*Bryantolepis brachycephala*](https://deepbone.cn/public/#/explor?s_id=2500&functionId=Deepbone_header_searchResultOpen) Bryant,1932
+> Pragian, XXX  (maximum age), YYY (minimum age)
 
-*Bryantolepis brachycephala* Bryant,1932
-
-> Locality and horizon: Wyoming. Pragian, Early Devonian.
-
-> Source reference: Bryant 1932; Denison 1962
+> - Wyoming,USA
+> - [Bryant, 1932](https://www.jstor.org/stable/984700); Denison, 1962
 
 
 [*Buchanosteus confertituberculatus*](https://deepbone.org/public/#/explor?s_id=2426andfunctionId=Deepbone_header_searchResultOpen) (Chapman, 1916)
-
 > Emsian, 407.6, 393.3
 
 > - Buchan, Victoria and New South Wales
 > - [Burrow and Turner, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011097); [Long et al., 2014](https://www.publish.csiro.au/zo/zo13081)
 
 [*Bullerichthys fascidens*](https://deepbone.org/public/#/explor?s_id=2223andfunctionId=Deepbone_header_searchResultOpen) (Dennis and Miles, 1980)
-Early Frasnian, Late Devonian, 
+> Lower Frasnian, 
 
 > - Gogo Formation, Kimberley, Australia. 
 > - [Dennis and Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
@@ -226,29 +226,29 @@ Early Frasnian, Late Devonian,
 > - Caithness Flagstone Group, Scotland
 > - [Miles and Westoll, 1968](https://doi.org/10.1017/S0080456800024078).
 
-*Compagopiscis croucheri* Gardiner and Miles, 1994 
+[*Compagopiscis croucheri*](https://deepbone.cn/public/#/explor?s_id=2199&functionId=Deepbone_header_searchResultOpen) Gardiner and Miles, 1994 
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
-> - Gardiner and Miles, 1994; Trinajstic and Dennis-Bryan, 2009.
+> - [Gardiner and Miles, 1994](https://academic.oup.com/zoolinnean/article-abstract/112/4/443/2646294); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
-*Dunkleosteus amblyodoratus* Carr and Hlavin, 2010
+[*Dunkleosteus amblyodoratus*](https://deepbone.cn/public/#/explor?s_id=2454&functionId=Deepbone_header_searchResultOpen) Carr and Hlavin, 2010
 > Frasnian or Famennian, Late Devonian, XXX (maximum age), YYY (minimum age)
 
 > - Ontario, Canada
-> - Carr and Hlavin, 2010.
+> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
 
-*Dunkleosteus raveri* Carr and Hlavin, 2010
+[*Dunkleosteus raveri*](https://deepbone.cn/public/#/explor?s_id=2453&functionId=Deepbone_header_searchResultOpen) Carr and Hlavin, 2010
 > Early Famennian, Late Devonian, XXX (maximum age), YYY (minimum age)
 
 > - Erie County, Ohio, USA.
-> - Carr and Hlavin, 2010.
+> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
 
-*Dhanguura johnstoni* Young, 2004
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Dhanguura johnstoni*](https://deepbone.cn/public/#/explor?s_id=2141&functionId=Deepbone_header_searchResultOpen) Young, 2004
+> Emsian, XXX (maximum age), YYY (minimum age)
 
 > - New South Wales, Australia
-> - Young, 2004.
+> - [Young, 2004](https://www.tandfonline.com/doi/abs/10.1671/1942-1).
 
 [*Diandongpetalichthys liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=3251andfunctionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > lower Lochkovian, 419.2, 415.0
@@ -256,11 +256,11 @@ Early Frasnian, Late Devonian,
 > - Xishancun Formation, Qujing, Yunnan, China
 > - [Zhu, 1991]
 
-*Dickosteus threiplandi* Miles and Westoll, 1963
+[*Dickosteus threiplandi*](https://deepbone.cn/public/#/explor?s_id=2650&functionId=Deepbone_header_searchResultOpen) Miles and Westoll, 1963
 > Late Eifelian to Early Givetian, Middle DevonianXXX (maximum age), YYY (minimum age)
 
 > - Orkneys and Caithness, Scotland
-> - Miles and Westoll, 1963.
+> - [Miles and Westoll, 1963](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/ixtwo-new-genera-of-coccosteid-arthrodira-from-the-middle-old-red-sandstone-of-scotland-and-their-stratigraphical-distribution/74D793E505A096117B0A4826FF342A4C).
 
 [*Dicksonosteus arcticus*](https://deepbone.org/public/#/explor?s_id=2423andfunctionId=Deepbone_header_searchResultOpen) Goujet, 1975
 > Lochkovian, 419.2, 410.8
