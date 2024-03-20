@@ -58,7 +58,7 @@ New taxa and references added along with the research.
 > Emsian, Early Devonian, XXX (maximum age), YYY (minimum age)
 
 > - Murrumbidgee Group, Goodradigbee
-> - Young,1981.
+> - Young, 1981.
 
 *Austrophyllolepis sp.* Long, 1984
 > late Givetian, Middle Devonian, XXX (maximum age), YYY (minimum age)
@@ -145,13 +145,10 @@ Early Frasnian, Late Devonian,
 > - [Zhu, 1991]
 
 *Dickosteus threiplandi* Miles and Westoll, 1963
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Late Eifelian to Early Givetian, Middle DevonianXXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Orkneys and Caithness, Scotland. Late Eifelian to Early Givetian, Middle Devonian.
-
-> Source reference: Miles and Westoll, 1963.
+> - Orkneys and Caithness, Scotland
+> - Miles and Westoll, 1963.
 
 [*Dicksonosteus arcticus*](https://deepbone.org/public/#/explor?s_id=2423andfunctionId=Deepbone_header_searchResultOpen) Goujet, 1975
 > Lochkovian, 419.2, 410.8
@@ -160,22 +157,16 @@ Early Frasnian, Late Devonian,
 > - Goujet, 1975; Goujet, 1984
 
 *Dinichthys herzeri* Newberry, 1868
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Famennian, Late Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Delaware County, Ohio, USA. Famennian, Late Devonian.
-
-> Source reference: Carr and Hlavin, 2010.
+> - Delaware County, Ohio, USA.
+> - Carr and Hlavin, 2010.
 
 *Dunkleosteus terrelli* Newberry, 1873
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Late Frasnian to Famennian, Late Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Ohio, Tennessee, Pennsylvania and California, USA. Late Frasnian to Famennian, Late Devonian.
-
-> Source reference: Carr and Hlavin, 2010; Heintz, 1932.
+> - Ohio, Tennessee, Pennsylvania and California, USA.
+> - Carr and Hlavin, 2010; Heintz, 1932.
 
 *Eastmanosteus calliaspis* Dennis-Bryan, 1987
 > lower Frasnian, 382.7, 379.2
@@ -191,31 +182,22 @@ Early Frasnian, Late Devonian,
 > - [Dennis-Bryan, 1987](https://academic.oup.com/zoolinnean/article-abstract/90/1/1/2658205)
 
 *Elvaspis tuberculata* Young 2009
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Emsian, Early Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: New South Wales, Australia. Emsian, Early Devonian.
+> - New South Wales, Australia. 
+> - Young, 2009.
 
-> Source reference: Young, 2009.
+*Erikaspis zychi* Stensiö, 1945
+> Lochkovian, Lower Devonian, XXX (maximum age), YYY (minimum age)
 
-*Erikaspis zychi* Stensiö, 194*5*
-> [geological range], XXX (maximum age), YYY (minimum age)
-
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Podolia. Lower Devonian, Lochkovian.
-
-> Source reference: Dupret 2007.
+> - Podolia.
+> - Dupret, 2007.
 
 *Eskimaspis heintzi* Dineley and Liu 1984
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Early Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Peel Sound Formation; Prince of Wales Island, Arctic Canada. Early Devonian.
-
-> Source reference: Dineley and Liu 1984.
+> - Peel Sound Formation; Prince of Wales Island, Arctic Canada.
+> - Dineley and Liu 1984.
 
 [*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257andfunctionId=Deepbone_header_searchResultOpen) Liu, 1991
 > Givetian, 387.7, 382.7
@@ -224,13 +206,10 @@ Early Frasnian, Late Devonian,
 > - Liu, 1991
 
 *Exutaspis megista* Liu and Wang, 1981
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Emsian, Early Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Yunnan, China. Emsian, Early Devonian.
-
-> Source reference: Our observations; Liu and Wang, 1981.
+> - Yunnan, China
+> - Liu and Wang, 1981.
 
 *Fallocosteus turneri* Long, 1990
 > lower Frasnian, 382.7, 379.2
@@ -245,40 +224,28 @@ Early Frasnian, Late Devonian,
 > - [Dupret et al., 2009](https://pubs.geoscienceworld.org/geolmag/article-abstract/145/2/257/65693/The-earliest-phyllolepid-Placodermi-Arthrodira?redirectedFrom=fulltext)
 
 *Gemuendenaspis angusta* Traquair, 1903
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Early Emsian, Early Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Hunsrückschiefer, Germany. Early Emsian, Early Devonian.
-
-> Source reference: Miles, 1962.
+> - Hunsrückschiefer, Germany
+> - Miles, 1962.
 
 *Golshanichthys asiatica* Lelièvre, Janvier and Goujet, 1981
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Early Frasnian, Late Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Kerman, Iran. Early Frasnian, Late Devonian.
-
-> Source reference: Carr and Hlavin, 2010; Lelièvre, Janvier and Goujet, 1981.
+> - Kerman, Iran.
+> - Carr and Hlavin, 2010; Lelièvre, Janvier and Goujet, 1981.
 
 *Goodradigbeeon australianum* White, 1978
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Emsian, Early Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Murrumbidgee, Australia. Emsian, Early Devonian.
-
-> Source reference: White, 1978.
+> - Murrumbidgee, Australia.
+> - White, 1978.
 
 *Gorgonichthys clarki* Claypole, 1892
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Famennian, Late Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Ohio, USA. Famennian, Late Devonian.
-
-> Source reference: Carr and Hlavin, 2010; Dunkle and Bungart, 1940; Denison, 1978; Stensiö, 1963.
+> - Ohio, USA
+> - Carr and Hlavin, 2010; Dunkle and Bungart, 1940; Denison, 1978; Stensiö, 1963.
 
 [*Groenlandaspis antarcticus*](https://deepbone.org/public/#/explor?s_id=154139andfunctionId=Deepbone_header_searchResultOpen) Ritchie, 1975
 > Givetian, 387.7, 382.7
@@ -287,13 +254,10 @@ Early Frasnian, Late Devonian,
 > - [Ritchie, 1975](https://www.nature.com/articles/254569a0); [Young, 1989](https://www.lyellcollection.org/doi/abs/10.1144/GSL.SP.1989.047.01.05)
 
 *Gymnotrachelus hydei* Dunkle and Bungart, 1939
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Famennian, Late Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Ohio, USA. Famennian, Late Devonian.
-
-> Source reference: Carr, 1994; Carr and Hlavin, 2010; Dunkle and Bungart, 1939.
+> - Ohio, USA.
+> - Carr, 1994; Carr and Hlavin, 2010; Dunkle and Bungart, 1939.
 
 *Hadrosteus rapax* Gross, 1932
 > [geological range], XXX (maximum age), YYY (minimum age)
