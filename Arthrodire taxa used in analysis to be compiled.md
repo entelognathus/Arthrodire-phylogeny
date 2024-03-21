@@ -216,11 +216,11 @@ Osteolepididae
 Osteolepis sp.
 Panderichthys rhombolepis
 
-Mount Howitt, Australia – Avon River Group
+Mount Howitt, Victoria, Australia – Avon River Group
 > uppermost Givetian, 384.37, 382.7 (Long 1999)
-
 > - Avon River Group; Mount Howitt, Victoria, Australia.
-Used to be of Frasnian, Late Devonian age. 
+> - Used to be of early Frasnian, Late Devonian age (Young, 1983). For the updated age for the Mt. Howitt fish fauna, see Long (1999). The age data in the deepbone should be revised accordingly.
+
 Austrophyllolepis ritchiei
 A. youngi
 Groenlandaspis sp.
