@@ -226,7 +226,12 @@ Placoderms of Bad Wildungen comprise *Jagorina pandora*, *Rhynchodus tetrodon*, 
 La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Tafilalt and Mader) fauna are also of late Frasnian age (Kellwasser facies).
 
 *Svalbard Wood Bay Formation fauna*: Pragian to lower Emsian.
-
+> For the latest age constraint of the Wood Bay Formation, see Pernègre and Blieck (2016). It is dated as early Pragian to late Emsian (Blieck 1984; Blieck et al. 1987, 2000; Blomeier et al. 2003a).
+> Two areas：Woodfjorden area and Dicksonfjorden-Austfjorden area.
+> For palaeontologists, the Wood Bay Formation is commonly divided into four “faunal divisions”, that is, from base to top: the Sigurdfjellet, Kapp Kjeldsen, Keltiefjellet (“Lykta fauna”) and Stjørdalen faunal divisions.
+> The Norsk Polarinstitutt geological map describes three members for the Wood Bay Formation, viz., from base to top: the Austfjorden, Dicksonfjorden and Verdalen members (Dallmann et al. 2002; Blomeier et al. 2003a).
+> The Austfjorden Member roughly corresponds to the Sigurdfjellet and Kapp Kjeldsen faunal divisions, Pragian. The Dicksonfjorden Member corresponds to the Keltiefjellet (“Lykta fauna”) faunal division, early Emsian. The Verdalen member corresponds to the Stjørdalen faunal division, late Emsian.
+> Assemblages 1-3, 6 in Pernègre and Blieck (2016) are of Pragian; Assemblages 4, 5, 7, 8 are of Early Emsian. 
 
 
 
@@ -254,8 +259,105 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 |           |                                          | *Arctolepis longicornis*   | Lower Emsian(Pragian) |
 |           |                                          | *Arctolepis solnoerdali*   | Lower Emsian(Pragian) |
 
+Sigaspis lepidophora
+Svalbardaspis rotundus
+Elegantaspis reticornis
+Lehmanosteus hyperboreus
+Actinolepis sp.
+Arctaspis maxima
+A. kiaeri
+A. holtedahli
+Dicksonosteus arcticus
+Heintzosteus brevis
+Arctolepis decipiens
 
+Monaspididae
+Heterogaspis gigantea
+Euleptaspididae
+Euleptaspididae gen. et sp. indet.
+Heterosteidae
+Herasmius granulatus
+Homosteus arcticus
+Brachythoraci incertae sedis
+Arctonema crassum
 
+Agnathes Heterostraci (4)
+Doryaspis nathorsti
+Zascinaspis laticephala
+Gigantaspis bocki
+Ennosveaspis minor
+Agnathes Osteostraci (46)
+Atelaspis tessellata
+Aceraspis robustus
+B. rostata
+Cephalaspididae
+? Cephalaspis producta
+? C. curta
+? C. watneliei
+? C. acuticornis
+Hildenaspis digitalis
+Meteoraspis oblonga
+M. lanternaria
+M. moythomasi
+M. semicircularis
+M. menoides
+M.caroli
+M. gigas
+M. lata
+M. oberon
+P. gigas
+P. lanternaria
+P. sp. cf. P. lata
+Parameteoraspis hoegi
+Kiaeraspididae
+Axinaspis whitei
+Gustavaspis trinodis
+Nectaspis areolata
+Norselaspis glacialis
+Benneviaspididae
+Benneviaspis holtedahli
+B. lövgreeni
+Boreaspis ceratops
+B. robusta
+B. rostrata
+B. macrorhynchus
+B. ceratops
+B. ginsburgi
+B. batoides
+Belonaspis puella
+B. minuta
+Dicranaspis curtirostris
+D. circinus
+D. spinicornis
+Hoelaspis angulata
+Spatulaspis robusta
+S. costata
+Scolenaspididae
+Diademaspis poplinae
+D. jarviki
+Machairaspis isachseni
+M. battaili
+Thelodonti (3)
+Turinia pagei
+Sigurdia
+Amaltheolepis winsneri
+
+Chondrichthyes (1)
+Chondrichthyes gen. et sp. indet.
+Acanthodii (5)
+Nostolepis sp.
+Gomphonchus
+« Onchus » overathensis
+Xylacanthus grandis
+X. minutus
+Actinopterygii (1)
+Orvikuina sp.
+Sarcopterygii (4)
+Porolepididae
+Porolepis brevis
+P. spitsbergensis
+P. elongata
+Heimenia ensis
 Bergisch-Gladbach, Germany - Oberer Plattenkalk Formation - lower Frasnian, Upper Devonian
 Ctenurella gladbachensis
 Gyroplacosteus sp.
