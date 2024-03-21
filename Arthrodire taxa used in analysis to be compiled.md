@@ -42,29 +42,6 @@ The arthrodire placoderms exhibit the highest diversity and abundance (Long and 
 
 > - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
 
-*Holonema westolli*, 
-*Camuropiscis concinnus*, 
-*C. laidlawi*, 
-*Tubonasus lennardensis*, 
-*Rolfosteus canningensis*, 
-*Latocamurus coulthardi*, 
-*Fallacosteus turneri*, 
-*Simosteus tuberculatus*, 
-*Incisoscutum ritchei*, 
-*Gogosteus sarahae*, 
-*Harrytoombsia elegans*, 
-*Kimberleyviyichthys whybrowi*, 
-*K. bispicatus*, 
-*Torosteus tuberculatus*, 
-*T. pulchellus*, 
-*Mcnamaraspis kaprios*, 
-*Eastmanosteus calliaspis*, 
-*Bruntonichthys multidens*, 
-*Bullerichthys fascidens*, 
-*Kendrickichthys cavernosus*, 
-*Pinguosteus thulborni*, 
-
-
 Campbellodus decipiens
 Ctenurella gardineri
 Austroptyctodus gardinieri
@@ -247,6 +224,10 @@ Placoderms of Bad Wildungen comprise *Jagorina pandora*, *Rhynchodus tetrodon*, 
 
 
 La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Tafilalt and Mader) fauna are also of late Frasnian age (Kellwasser facies).
+
+*Svalbard Wood Bay Formation fauna*: Pragian to lower Emsian.
+
+
 
 
 | Spitsberg | Wood Bay Formation(Pragian-Lower Emsian) | *Sigaspis lepidophora*     | Pragian               |
