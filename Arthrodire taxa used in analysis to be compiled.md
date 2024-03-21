@@ -10,6 +10,47 @@ New taxa and references added along with the research.
 from the upper part of the formation (Nazarov et al. 1982, Nazarov & Ormiston 1983, Klapper 2009). The fish-bearing nodules primarily contain conodonts of the *transitans* conodont Zone." Here we adopte the **early Frasnian** age.
 The arthrodire placoderms exhibit the highest diversity and abundance (Long and Trinajstic 2010) among around **50** species. Arthrodires include *Holonema westolli* Miles 1971; *Latocamurus coulthardi* Long, 1988; *Mcnamaraspis kaprios* Long, 1995; *Incisoscutum ritchiei* Dennis and Miles, 1981; etc. **Count how many?**
 
+
+Holonema westolli
+Camuropiscis concinnus
+C. laidlawi
+Tubonasus lennardensis
+Rolfosteus canningensis
+Latocamurus coulthardi
+Fallacosteus turneri
+Simosteus tuberculatus
+Incisoscutum ritchei
+Gogosteus sarahae
+Harrytoombsia elegans
+Kimberleyviyichthys whybrowi
+K. bispicatus
+Torosteus tuberculatus
+T. pulchellus
+Mcnamaraspis kaprios
+Eastmanosteus calliaspis
+Bruntonichthys multidens
+Bullerichthys fascidens
+Kendrickichthys cavernosus
+Pinguosteus thulborni
+
+
+Campbellodus decipiens
+Ctenurella gardineri
+Austroptyctodus gardinieri
+Bothriolepis sp.
+Mimia toombsi
+Moythomasia durgaringa
+Onychodontidae
+Onychodus sp.
+Gogodipterus paddyensis
+Chirodipterus australis
+Holodipterus gogoensis
+Holodipterus longi
+Pillararhynchus longi
+Griphognathus whitei
+Gogonasus andrewsi
+
+
 *Cleveland Shale fauna*: The age is **late Famennian**. The fish fossils are from the lower part of the [Cleveland Member of Ohio Shale Formation](https://en.wikipedia.org/wiki/Cleveland_Shale).
 The arthrodires comprise 
 *Brontichthys	clarki*, 
@@ -31,6 +72,24 @@ The arthrodires comprise
 *Steneosteus	angustopectus*, *Steneosteus  glaber*，
 *Titanichthys	agassizi; T. attenuatus; T. clarkii; T. hussakofi; T. rectus; May all be synonyms of T. agassizi*，	
 *Trachosteus	clarki*，
+
+Cladoselache acanthopterygius
+C. brachypterygius
+C. clarki
+C. desmopterygius
+C. fyleri
+C.magnificus
+C. newberri
+Diademodus hydei
+Stetacanthus clevelandensis
+Ctenacanthus clarki
+C. compressus
+Phœbodus politus
+Tegeolepis clarki
+Kentuckia hlavini
+Chagrinia enodis
+Proceratodus wagneri
+
 
 *Bad Wildungen fauna*: Kellwasserkalk Formation, upper Frasnian. 
 
@@ -81,6 +140,109 @@ Placoderms of Bad Wildungen comprise *Jagorina pandora*, *Rhynchodus tetrodon*, 
 
 La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Tafilalt and Mader) fauna are also of late Frasnian age (Kellwasser facies).
 
+Bergisch-Gladbach, Germany - Oberer Plattenkalk Formation - lower Frasnian, Upper Devonian
+Ctenurella gladbachensis
+Gyroplacosteus sp.
+Torosteus submarginatus
+Rachiosteus pterygiatus
+Atopacanthus sp.
+Protogonacanthus juergeni
+Moythomasia nitida
+Strunius walteri
+Diplocercides heiligenstockiensis
+Dipterus oervigi
+D. sp. cf. D. valenciennesi
+Rhinodipterus ulrichi
+Rhynchodipteridae
+Griphognathus scultpta
+Latvius deckerti
+L. niger
+L. sp.
+Thursius ? sp.
+Holopterygius nudus
+
+Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
+upper Eifelian, 389.6, 387.7
+Achanarella
+Coccosteus cuspidatus
+Homosteus milleri
+Pterichthyodes milleri
+Rhamphodopsis threiplandi
+R. trispinatus
+Diplacanthus striatus
+Rhadinacanthus longispinus
+Cheiracanthus murchisoni
+C. latus
+Mesacanthus peachi
+Cheirolepis trailli
+Dipterus valenciennesi
+Pentlandia macroptera
+Glyptolepis paucidens
+G. leptopterus
+Osteolepis macrolepidotus
+Gyroptychius agassizi
+
+Gauja Formation, Lode Quarry, Latvia. 
+
+upper Givetian, 384.4, 382.7
+
+Used to be of Late Devonian age. 
+
+Psammosteus sp. (ganensis)
+Psammolepis abavica
+P. paradoxa
+P. alata
+P. heteraster
+P. venyukovi
+« Coccosteus » panderi
+Livosteus grandis
+Watsonosteus sp.
+Plourdosteus livonicus
+Bothriolepis sp.
+Asterolepis ornata
+A. cristata
+A. sp. (essica)
+Hybosteus mirabilis
+Lodeacanthus gaujicus
+Devononchus concinnus
+Haplacanthus ehrmanensis
+Nodacosta pauli
+Strunius sp.
+Grossipterus crassus
+Glyptolepis baltica
+G. sp.
+Laccognathus panderi
+Osteolepididae
+Osteolepis sp.
+Panderichthys rhombolepis
+
+Mount Howitt, Australia – Avon River Group
+> uppermost Givetian, 384.37, 382.7 (Long 1999)
+
+> - Avon River Group; Mount Howitt, Victoria, Australia.
+Used to be of Frasnian, Late Devonian age. 
+Austrophyllolepis ritchiei
+A. youngi
+Groenlandaspis sp.
+Bothriolepis gippslandiensis
+B. cullodenensis
+B. fergusoni
+B. bindareei
+Culmacanthus stewarti
+Howittacanthus kentoni
+Howqualepis rostridens
+Actinistia gen. et sp. indet.
+Howidipterus donnae
+Barwickia downunda
+Glyptolepis sp.
+Marsdenichthys longioccipitus
+Beelarongia patrichae
+Actinistia gen. et sp. indet.
+Howidipterus donnae
+Barwickia downunda
+Glyptolepis sp.
+Marsdenichthys longioccipitus
+Beelarongia patrichae
 
 
 [Taxon name with Deepbone link] Author(s), Date
