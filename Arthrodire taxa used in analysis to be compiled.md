@@ -1,4 +1,4 @@
-![image](https://github.com/entelognathus/Arthrodire-phylogeny/assets/134026316/61a5e06f-5c1f-4a47-b551-022dc4f3d96a)**List of arthrodire and petalichthyid taxa, geological range, and references**
+**List of arthrodire and petalichthyid taxa, geological range, and references**
 
 **命名人加括号或不加括号，含义是不一样的**
 
@@ -11,6 +11,7 @@ The data in the table is extracted from Deepbone. revised the incorrect age in d
 *Gogo Formation Lagerstatte*: Long and Trinajstic (2010): "The Gogo Formation has been dated as Late Givetian (*hermanni* Zone) to early Frasnian (*falsiovalis* to *punctata* conodont Zones), based on revision of the conodont fauna and radiolarians
 from the upper part of the formation (Nazarov et al. 1982, Nazarov & Ormiston 1983, Klapper 2009). The fish-bearing nodules primarily contain conodonts of the *transitans* conodont Zone." Here we adopte the **early Frasnian** age.
 The arthrodire placoderms exhibit the highest diversity and abundance (Long and Trinajstic 2010) among around **50** species. Arthrodires include *Holonema westolli* Miles 1971; *Latocamurus coulthardi* Long, 1988; *Mcnamaraspis kaprios* Long, 1995; *Incisoscutum ritchiei* Dennis and Miles, 1981; etc. **Count how many?**
+
 
 | Gogo Station | Gogo Formation (Lower Frasnian) | *Bruntonichthys multidens*    | early Frasnian |
 |--------------|---------------------------------|-------------------------------|----------------|
@@ -36,6 +37,50 @@ The arthrodire placoderms exhibit the highest diversity and abundance (Long and 
 |              |                                 | *Tubonasus lennardensis*      | early Frasnian |
 |              |                                 | *Kendrickichthys cavernosus*  | early Frasnian |
 |              |                                 | *Pinguosteus thulborni*       | early Frasnian |
+
+> lower Frasnian, 382.7, 379.2
+
+> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
+
+*Holonema westolli*, 
+*Camuropiscis concinnus*, 
+*C. laidlawi*, 
+*Tubonasus lennardensis*, 
+*Rolfosteus canningensis*, 
+*Latocamurus coulthardi*, 
+*Fallacosteus turneri*, 
+*Simosteus tuberculatus*, 
+*Incisoscutum ritchei*, 
+*Gogosteus sarahae*, 
+*Harrytoombsia elegans*, 
+*Kimberleyviyichthys whybrowi*, 
+*K. bispicatus*, 
+*Torosteus tuberculatus*, 
+*T. pulchellus*, 
+*Mcnamaraspis kaprios*, 
+*Eastmanosteus calliaspis*, 
+*Bruntonichthys multidens*, 
+*Bullerichthys fascidens*, 
+*Kendrickichthys cavernosus*, 
+*Pinguosteus thulborni*, 
+
+
+Campbellodus decipiens
+Ctenurella gardineri
+Austroptyctodus gardinieri
+Bothriolepis sp.
+Mimia toombsi
+Moythomasia durgaringa
+Onychodontidae
+Onychodus sp.
+Gogodipterus paddyensis
+Chirodipterus australis
+Holodipterus gogoensis
+Holodipterus longi
+Pillararhynchus longi
+Griphognathus whitei
+Gogonasus andrewsi
+
 
 
 *Cleveland Shale fauna*: The age is **late Famennian**. The fish fossils are from the lower part of the [Cleveland Member of Ohio Shale Formation](https://en.wikipedia.org/wiki/Cleveland_Shale).
@@ -89,6 +134,24 @@ The arthrodires comprise
 |                 |                                       | *Titanichthys kozlowskii*  | late Famennian     |
 |                 |                                       | *Titanichthys rectus*      | late/end Famennian |
 |                 |                                       | *Trachosteus clarki*       | late/end Famennian |
+
+Cladoselache acanthopterygius
+C. brachypterygius
+C. clarki
+C. desmopterygius
+C. fyleri
+C.magnificus
+C. newberri
+Diademodus hydei
+Stetacanthus clevelandensis
+Ctenacanthus clarki
+C. compressus
+Phœbodus politus
+Tegeolepis clarki
+Kentuckia hlavini
+Chagrinia enodis
+Proceratodus wagneri
+
 
 *Bad Wildungen fauna*: Kellwasserkalk Formation, upper Frasnian. 
 
@@ -185,6 +248,7 @@ Placoderms of Bad Wildungen comprise *Jagorina pandora*, *Rhynchodus tetrodon*, 
 
 La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Tafilalt and Mader) fauna are also of late Frasnian age (Kellwasser facies).
 
+
 | Spitsberg | Wood Bay Formation(Pragian-Lower Emsian) | *Sigaspis lepidophora*     | Pragian               |
 |-----------|------------------------------------------|----------------------------|-----------------------|
 |           |                                          | *Svalbardaspis rotundus*   | Lower Emsian(Pragian) |
@@ -209,6 +273,111 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 |           |                                          | *Arctolepis longicornis*   | Lower Emsian(Pragian) |
 |           |                                          | *Arctolepis solnoerdali*   | Lower Emsian(Pragian) |
 
+
+
+Bergisch-Gladbach, Germany - Oberer Plattenkalk Formation - lower Frasnian, Upper Devonian
+Ctenurella gladbachensis
+Gyroplacosteus sp.
+Torosteus submarginatus
+Rachiosteus pterygiatus
+Atopacanthus sp.
+Protogonacanthus juergeni
+Moythomasia nitida
+Strunius walteri
+Diplocercides heiligenstockiensis
+Dipterus oervigi
+D. sp. cf. D. valenciennesi
+Rhinodipterus ulrichi
+Rhynchodipteridae
+Griphognathus scultpta
+Latvius deckerti
+L. niger
+L. sp.
+Thursius ? sp.
+Holopterygius nudus
+
+Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
+upper Eifelian, 389.6, 387.7
+*Achanarella*, 
+*Coccosteus cuspidatus*, 
+*Homostius milleri*, 
+*Pterichthyodes milleri*, 
+*Rhamphodopsis threiplandi*, 
+*R. trispinatus*, 
+*Diplacanthus striatus*,
+*Rhadinacanthus longispinus*,
+*Cheiracanthus murchisoni*, 
+*C. latus*, 
+*Mesacanthus peachi*,
+*Cheirolepis trailli*, 
+*Dipterus valenciennesi*
+*Pentlandia macroptera*
+*Glyptolepis paucidens*
+*G. leptopterus*
+*Osteolepis macrolepidotus*
+*Gyroptychius agassizi*
+
+Gauja Formation, Lode Quarry, Latvia. 
+
+upper Givetian, 384.4, 382.7
+
+Used to be of Late Devonian age. 
+
+Psammosteus sp. (ganensis)
+Psammolepis abavica
+P. paradoxa
+P. alata
+P. heteraster
+P. venyukovi
+« Coccosteus » panderi
+Livosteus grandis
+Watsonosteus sp.
+Plourdosteus livonicus
+Bothriolepis sp.
+Asterolepis ornata
+A. cristata
+A. sp. (essica)
+Hybosteus mirabilis
+Lodeacanthus gaujicus
+Devononchus concinnus
+Haplacanthus ehrmanensis
+Nodacosta pauli
+Strunius sp.
+Grossipterus crassus
+Glyptolepis baltica
+G. sp.
+Laccognathus panderi
+Osteolepididae
+Osteolepis sp.
+Panderichthys rhombolepis
+
+Mount Howitt, Victoria, Australia – Avon River Group
+> uppermost Givetian, 384.37, 382.7 (Long 1999)
+> - Avon River Group; Mount Howitt, Victoria, Australia.
+> - Used to be of early Frasnian, Late Devonian age (Young, 1983). For the updated age for the Mt. Howitt fish fauna, see Long (1999). The age data in the deepbone should be revised accordingly.
+
+Austrophyllolepis ritchiei
+A. youngi
+Groenlandaspis sp.
+Bothriolepis gippslandiensis
+B. cullodenensis
+B. fergusoni
+B. bindareei
+Culmacanthus stewarti
+Howittacanthus kentoni
+Howqualepis rostridens
+Actinistia gen. et sp. indet.
+Howidipterus donnae
+Barwickia downunda
+Glyptolepis sp.
+Marsdenichthys longioccipitus
+Beelarongia patrichae
+Actinistia gen. et sp. indet.
+Howidipterus donnae
+Barwickia downunda
+Glyptolepis sp.
+Marsdenichthys longioccipitus
+Beelarongia patrichae
 
 
 
@@ -289,9 +458,9 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 
 
  [*Bruntonichthys multidens*](https://deepbone.cn/public/#/explor?s_id=2221&functionId=Deepbone_header_searchResultOpen) Dennis & Miles, 1980
-> Early Frasnian, XXX (maximum age), YYY (minimum age)
+> lower Frasnian, 382.7, 379.2
 
-> - Gogo Formation, Kimberley, Australia.
+> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
 > - [Dennis & Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
 
 [*Bryantolepis brachycephala*](https://deepbone.cn/public/#/explor?s_id=2500&functionId=Deepbone_header_searchResultOpen) Bryant,1932
@@ -308,21 +477,22 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 > - [Burrow and Turner, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011097); [Long et al., 2014](https://www.publish.csiro.au/zo/zo13081)
 
 [*Bullerichthys fascidens*](https://deepbone.org/public/#/explor?s_id=2223andfunctionId=Deepbone_header_searchResultOpen) (Dennis and Miles, 1980)
-> Lower Frasnian, 
+> lower Frasnian, 382.7, 379.2
 
-> - Gogo Formation, Kimberley, Australia. 
+> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
 > - [Dennis and Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
 
 [*Camuropiscis laidlawi*](https://deepbone.org/public/#/explor?s_id=2210andfunctionId=Deepbone_header_searchResultOpen) (Dennis and Miles, 1979)
-> Early Frasnian,
+> lower Frasnian, 382.7, 379.2
 
-> Gogo Formation, Kimberley, Australia.
+> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
 > [Dennis and Miles, 1979](https://academic.oup.com/zoolinnean/article-abstract/67/1/1/2664252); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Coccosteus cuspidatus*](https://deepbone.org/public/#/explor?s_id=2148andfunctionId=Deepbone_header_searchResultOpen) Miller, 1841
-> Eifelian to Givetain, 393.3, 382.7
+> upper Eifelian, 389.6, 387.7
 
-> - Caithness Flagstone Group, Scotland
+> - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
+
 > - [Miles and Westoll, 1968](https://doi.org/10.1017/S0080456800024078).
 
 [*Compagopiscis croucheri*](https://deepbone.cn/public/#/explor?s_id=2199&functionId=Deepbone_header_searchResultOpen) Gardiner and Miles, 1994 
@@ -518,6 +688,13 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 
 > - Aruküla beds, Estonia.
 > - Carr and Hlavin, 2010; Heintz, 1934, 1968.
+
+*Homostius milleri*
+> upper Eifelian, 389.6, 387.7
+
+> - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
+> - [references]
+
 
 [*Incisoscutum ritchiei*](https://deepbone.org/public/#/explor?s_id=2232andfunctionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1981
 > lower Frasnian, 382.7, 379.2
