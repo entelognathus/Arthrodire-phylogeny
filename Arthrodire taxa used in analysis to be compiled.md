@@ -236,8 +236,13 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 
 > The Austfjorden Member roughly corresponds to the Sigurdfjellet and Kapp Kjeldsen faunal divisions, Pragian. The Dicksonfjorden Member corresponds to the Keltiefjellet (“Lykta fauna”) faunal division, early Emsian. The Verdalen member corresponds to the Stjørdalen faunal division, late Emsian.
 
-> Assemblages 1-3, 6 in Pernègre and Blieck (2016) are of Pragian; Assemblages 4, 5, 7, 8 are of Early Emsian. 
+> Assemblages 1-3, 6 in Pernègre and Blieck (2016) are of Pragian; Assemblages 4, 5, 7, 8 are of Early Emsian.
+>
+> For the age, either Pragian or Early Emsian, check from which member of the formation the taxon comes.
 
+> Pragian: *Sigaspis lepidophora* Goujet, 1973; *Arctaspis* sp., *Heintzosteus* sp., *Dicksonosteus arcticus* Goujet, 1975, *Heintzosteus brevis* (Heintz, 1929), *Lehmanosteus hyperboreus* Goujet, 1984
+
+> Early Emsian: *Arctolepis decipiens* (Woodward, 1891), *Arctaspis maxima* Heintz, 1929, *Arctaspis* sp., *Dicksonosteus* sp.
 
 
 | Spitsberg | Wood Bay Formation(Pragian-Lower Emsian) | *Sigaspis lepidophora*     | Pragian               |
