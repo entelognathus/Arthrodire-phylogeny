@@ -163,8 +163,8 @@ Holopterygius nudus
 
 Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 upper Eifelian, 389.6, 387.7
-Achanarella
-Coccosteus cuspidatus
+*Achanarella*, 
+*Coccosteus cuspidatus*, 
 Homosteus milleri
 Pterichthyodes milleri
 Rhamphodopsis threiplandi
@@ -356,6 +356,9 @@ Beelarongia patrichae
 > Eifelian to Givetain, 393.3, 382.7
 
 > - Caithness Flagstone Group, Scotland
+>
+> - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
+upper Eifelian, 389.6, 387.7
 > - [Miles and Westoll, 1968](https://doi.org/10.1017/S0080456800024078).
 
 [*Compagopiscis croucheri*](https://deepbone.cn/public/#/explor?s_id=2199&functionId=Deepbone_header_searchResultOpen) Gardiner and Miles, 1994 
