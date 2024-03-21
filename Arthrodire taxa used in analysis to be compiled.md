@@ -227,10 +227,15 @@ La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Taf
 
 *Svalbard Wood Bay Formation fauna*: Pragian to lower Emsian.
 > For the latest age constraint of the Wood Bay Formation, see Pernègre and Blieck (2016). It is dated as early Pragian to late Emsian (Blieck 1984; Blieck et al. 1987, 2000; Blomeier et al. 2003a).
+
 > Two areas：Woodfjorden area and Dicksonfjorden-Austfjorden area.
+
 > For palaeontologists, the Wood Bay Formation is commonly divided into four “faunal divisions”, that is, from base to top: the Sigurdfjellet, Kapp Kjeldsen, Keltiefjellet (“Lykta fauna”) and Stjørdalen faunal divisions.
+
 > The Norsk Polarinstitutt geological map describes three members for the Wood Bay Formation, viz., from base to top: the Austfjorden, Dicksonfjorden and Verdalen members (Dallmann et al. 2002; Blomeier et al. 2003a).
+
 > The Austfjorden Member roughly corresponds to the Sigurdfjellet and Kapp Kjeldsen faunal divisions, Pragian. The Dicksonfjorden Member corresponds to the Keltiefjellet (“Lykta fauna”) faunal division, early Emsian. The Verdalen member corresponds to the Stjørdalen faunal division, late Emsian.
+
 > Assemblages 1-3, 6 in Pernègre and Blieck (2016) are of Pragian; Assemblages 4, 5, 7, 8 are of Early Emsian. 
 
 
