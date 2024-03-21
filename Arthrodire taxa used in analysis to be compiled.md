@@ -625,9 +625,9 @@ Beelarongia patrichae
 > - [Miles and Westoll, 1963](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/ixtwo-new-genera-of-coccosteid-arthrodira-from-the-middle-old-red-sandstone-of-scotland-and-their-stratigraphical-distribution/74D793E505A096117B0A4826FF342A4C).
 
 [*Dicksonosteus arcticus*](https://deepbone.org/public/#/explor?s_id=2423andfunctionId=Deepbone_header_searchResultOpen) Goujet, 1975
-> Lochkovian, 419.2, 410.8
+> Pragian, 410.8, 407.6
 
-> - Wood Bay Formation; Gronhorgdalen, Spitsbergen.
+> - Austfjorden Member, Wood Bay Formation; Spitsbergen.
 > - Goujet, 1975; Goujet, 1984
 
 *Dinichthys herzeri* Newberry, 1868
