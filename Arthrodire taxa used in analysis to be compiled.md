@@ -1,4 +1,4 @@
-**List of arthrodire and petalichthyid taxa, geological range, and references**
+![image](https://github.com/entelognathus/Arthrodire-phylogeny/assets/134026316/61a5e06f-5c1f-4a47-b551-022dc4f3d96a)**List of arthrodire and petalichthyid taxa, geological range, and references**
 
 **命名人加括号或不加括号，含义是不一样的**
 
@@ -6,9 +6,37 @@ New taxa and references added along with the research.
 
 **The specious fauna yielding the arthrodire taxa**
 
+The data in the table is extracted from Deepbone. revised the incorrect age in deepbone.
+
 *Gogo Formation Lagerstatte*: Long and Trinajstic (2010): "The Gogo Formation has been dated as Late Givetian (*hermanni* Zone) to early Frasnian (*falsiovalis* to *punctata* conodont Zones), based on revision of the conodont fauna and radiolarians
 from the upper part of the formation (Nazarov et al. 1982, Nazarov & Ormiston 1983, Klapper 2009). The fish-bearing nodules primarily contain conodonts of the *transitans* conodont Zone." Here we adopte the **early Frasnian** age.
 The arthrodire placoderms exhibit the highest diversity and abundance (Long and Trinajstic 2010) among around **50** species. Arthrodires include *Holonema westolli* Miles 1971; *Latocamurus coulthardi* Long, 1988; *Mcnamaraspis kaprios* Long, 1995; *Incisoscutum ritchiei* Dennis and Miles, 1981; etc. **Count how many?**
+
+| Gogo Station | Gogo Formation (Lower Frasnian) | *Bruntonichthys multidens*    | early Frasnian |
+|--------------|---------------------------------|-------------------------------|----------------|
+|              |                                 | *Bullerichthys fascidens*     | early Frasnian |
+|              |                                 | *Camuropiscis concinnus*      | early Frasnian |
+|              |                                 | *Camuropiscis laidlawi*       | early Frasnian |
+|              |                                 | *Compagopiscis croucheri*     | early Frasnian |
+|              |                                 | *Eastmanosteus calliaspis*    | early Frasnian |
+|              |                                 | *Fallacosteus turnerae*       | early Frasnian |
+|              |                                 | *Harrytoombsia elegans*       | early Frasnian |
+|              |                                 | *Holonema westolli*           | early Frasnian |
+|              |                                 | *Incisoscutum ritchiei*       | early Frasnian |
+|              |                                 | *Incisoscutum sarahae*        | early Frasnian |
+|              |                                 | *Kimberleyichthys bispicatus* | early Frasnian |
+|              |                                 | *Kimberleyichthys whybrowi*   | early Frasnian |
+|              |                                 | *Latocamurus coulthardi*      | early Frasnian |
+|              |                                 | *Mcnamaraspis kaprios*        | early Frasnian |
+|              |                                 | *Pinguosteus thulborni*       | early Frasnian |
+|              |                                 | *Rolfosteus canningensis*     | early Frasnian |
+|              |                                 | *Simosteus tuberculatus*      | early Frasnian |
+|              |                                 | *Torosteus pulchellus*        | early Frasnian |
+|              |                                 | *Torosteus tuberculatus*      | early Frasnian |
+|              |                                 | *Tubonasus lennardensis*      | early Frasnian |
+|              |                                 | *Kendrickichthys cavernosus*  | early Frasnian |
+|              |                                 | *Pinguosteus thulborni*       | early Frasnian |
+
 
 *Cleveland Shale fauna*: The age is **late Famennian**. The fish fossils are from the lower part of the [Cleveland Member of Ohio Shale Formation](https://en.wikipedia.org/wiki/Cleveland_Shale).
 The arthrodires comprise 
@@ -31,6 +59,36 @@ The arthrodires comprise
 *Steneosteus	angustopectus*, *Steneosteus  glaber*，
 *Titanichthys	agassizi; T. attenuatus; T. clarkii; T. hussakofi; T. rectus; May all be synonyms of T. agassizi*，	
 *Trachosteus	clarki*，
+| Cleveland Shale | Cleveland Formation (Upper Famennian) | *Bungartius_perissus*      | late/end Famennian |
+|-----------------|---------------------------------------|----------------------------|--------------------|
+|                 |                                       | *Callognathus regularis*   | late/end Famennian |
+|                 |                                       | *Coccosteus cuyahogae*     | late/end Famennian |
+|                 |                                       | *Dinichthys herzeri*       | upper Famennian    |
+|                 |                                       | *Mylostoma eurhinus*       | late/end Famennian |
+|                 |                                       | *Diplognathus mirabilis*   | late/end Famennian |
+|                 |                                       | *Dunkleosteus raveri*      | late/end Famennian |
+|                 |                                       | *Dunkleosteus terrelli*    | late/end Famennian |
+|                 |                                       | *Glyptaspis verrucosa*     | late/end Famennian |
+|                 |                                       | *Gorgonichthys clarki*     | late/end Famennian |
+|                 |                                       | *Gymnotrachelus hydei*     | late/end Famennian |
+|                 |                                       | *Heintzichthys gouldii*    | late/end Famennian |
+|                 |                                       | *Hlavinichthys jacksoni*   | Famennian          |
+|                 |                                       | *Holdenius holdeni*        | late/end Famennian |
+|                 |                                       | *Hussakofia minor*         | late/end Famennian |
+|                 |                                       | *Mylostoma newberryi*      | late/end Famennian |
+|                 |                                       | *Mylostoma variabile*      | late/end Famennian |
+|                 |                                       | *Paramylostoma arcualis*   | late/end Famennian |
+|                 |                                       | *Selenosteus brevis*       | late/end Famennian |
+|                 |                                       | *Stenognathus corrugatus*  | upper Famennian    |
+|                 |                                       | *Stenosteus angustopectus* | late/end Famennian |
+|                 |                                       | *Stenosteus glaber*        | late/end Famennian |
+|                 |                                       | *Titanichthys agassizi*    | late/end Famennian |
+|                 |                                       | *Titanichthys attenuatus*  | late/end Famennian |
+|                 |                                       | *Titanichthys clarkii*     | late/end Famennian |
+|                 |                                       | *Titanichthys hussakofi*   | late/end Famennian |
+|                 |                                       | *Titanichthys kozlowskii*  | late Famennian     |
+|                 |                                       | *Titanichthys rectus*      | late/end Famennian |
+|                 |                                       | *Trachosteus clarki*       | late/end Famennian |
 
 *Bad Wildungen fauna*: Kellwasserkalk Formation, upper Frasnian. 
 
@@ -79,7 +137,78 @@ Placoderms of Bad Wildungen comprise *Jagorina pandora*, *Rhynchodus tetrodon*, 
 *Protacrodus vetustus*, *Cladodus wildungensis*, *C. hassiacus*, 
 *Homacanthus jaekeli*，*Moythomasia laevigata*, *M. striata*, ***Onychodus jaekeli***, *Diplocercides jaekeli*, ***D. kayseri***, *Chirodipterus wildungensis*, *Devonosteus proteus*, ?*Glyptopomus traquairi*
 
+| Bad Wildungen site, Germany | Kellwasserkalk Formation (Upper Frasnian) | *Aspidichthys ingens*         | Frasnian                    |
+|-----------------------------|-------------------------------------------|-------------------------------|-----------------------------|
+|                             |                                           | *Belosteus elegans*           | late Frasnian               |
+|                             |                                           | *Belosteus major*             | late Frasnian               |
+|                             |                                           | *Brachydeirus bicarinatus*    | late Frasnian               |
+|                             |                                           | *Brachydeirus carinatus*      | late Frasnian               |
+|                             |                                           | *Brachydeirus gracilis*       | late Frasnian               |
+|                             |                                           | *Brachydeirus grandis*        | Frasnian                    |
+|                             |                                           | *Brachydeirus magnus*         | late Frasnian               |
+|                             |                                           | *Brachydeirus minor*          | late Frasnian               |
+|                             |                                           | *Brachyosteus dietrichi*      | late Frasnian               |
+|                             |                                           | *Braunosteus schmidti*        | late Frasnian               |
+|                             |                                           | *Cyrtosteus inflatus*         | late Frasnian               |
+|                             |                                           | *Enseosteus hermanni*         | late Frasnian               |
+|                             |                                           | *Enseosteus jaekeli*          | late Frasnian               |
+|                             |                                           | *Enseosteus marocanensis*     | late Frasnian               |
+|                             |                                           | *Enseosteus pachyostoides*    | late Frasnian               |
+|                             |                                           | *Erromenosteus brachyrostris* | late Frasnian               |
+|                             |                                           | *Erromenosteus concavus*      | late Frasnian               |
+|                             |                                           | *Erromenosteus diensti*       | late Frasnian               |
+|                             |                                           | *Erromenosteus inflatus*      | late Frasnian               |
+|                             |                                           | *Erromenosteus koeneni*       | late Frasnian               |
+|                             |                                           | *Erromenosteus lucifer*       | late Frasnian               |
+|                             |                                           | *Erromenosteus platycephalus* | late Frasnian               |
+|                             |                                           | *Hadrosteus rapax*            | late Frasnian               |
+|                             |                                           | *Leptosteus bickensis*        | late Frasnian               |
+|                             |                                           | *Microsteus angusticeps*      | late Frasnian               |
+|                             |                                           | *Microsteus dubius*           | late Frasnian               |
+|                             |                                           | *Microsteus gracilis*         | late Frasnian               |
+|                             |                                           | *Oxyosteus magnus*            | Frasnian                    |
+|                             |                                           | *Oxyosteus rostratus*         | Frasnian                    |
+|                             |                                           | *Pachyosteus bulla*           | Frasnian to early Famennian |
+|                             |                                           | *Parabelosteus acuticeps*     | late Frasnian               |
+|                             |                                           | *Parabelosteus pusillus*      | late Frasnian               |
+|                             |                                           | *Parabelosteus tuberculatus*  | late Frasnian               |
+|                             |                                           | *Pholidosteus friedeli*       | late Frasnian               |
+|                             |                                           | *Pholidosteus laevior*        | late Frasnian               |
+|                             |                                           | *Rhinosteus parvulus*         | late Frasnian               |
+|                             |                                           | *Rhinosteus traquairi*        | late Frasnian               |
+|                             |                                           | *Rhinosteus tuberculatus*     | late Frasnian               |
+|                             |                                           | *Synauchenia coalescens*      | late Frasnian               |
+|                             |                                           | *Tapinosteus heintzi*         | late Frasnian               |
+|                             |                                           | *Trematosteus fontanellus*    | late Frasnian               |
+|                             |                                           | *Walterosteus grossi*         | Frasnian                    |
+
+
 La Serre C section in the Montagne Noire, France and the eastern Anti-Atlas (Tafilalt and Mader) fauna are also of late Frasnian age (Kellwasser facies).
+
+| Spitsberg | Wood Bay Formation(Pragian-Lower Emsian) | *Sigaspis lepidophora*     | Pragian               |
+|-----------|------------------------------------------|----------------------------|-----------------------|
+|           |                                          | *Svalbardaspis rotundus*   | Lower Emsian(Pragian) |
+|           |                                          | *Svalbardaspis polaris*    | Lower Emsian(Pragian) |
+|           |                                          | *Svalbardaspis typicus*    | Lower Emsian(Pragian) |
+|           |                                          | *Svalbardaspis angulatus*  | Lower Emsian(Pragian) |
+|           |                                          | *Svalbardaspis stensioei*  | Lower Emsian(Pragian) |
+|           |                                          | *Elegantaspis reticornis*  | Lower Emsian(Pragian) |
+|           |                                          | *Lehmanosteus hyperboreus* | Pragian               |
+|           |                                          | *Actinolepis sp.*          | Lower Emsian(Pragian) |
+|           |                                          | *Arctaspis kiaeri*         | Lower Emsian(Pragian) |
+|           |                                          | *Arctaspis holtedahli*     | Lower Emsian(Pragian) |
+|           |                                          | *Arctaspis hoeli*          | Lower Emsian(Pragian) |
+|           |                                          | *Arctaspis minor*          | Lower Emsian(Pragian) |
+|           |                                          | *Arctaspis hoegi*          | Lower Emsian(Pragian) |
+|           |                                          | *Arctaspis maxima*         | Lower Emsian(Pragian) |
+|           |                                          | *Dicksonosteus arcticus*   | Lower Emsian(Pragian) |
+|           |                                          | *Heintzosteus brevis*      | Lower Emsian(Pragian) |
+|           |                                          | *Arctolepis decipiens*     | Lower Emsian(Pragian) |
+|           |                                          | *Arctolepis lata*          | Lower Emsian(Pragian) |
+|           |                                          | *Arctolepis lewini*        | Lower Emsian(Pragian) |
+|           |                                          | *Arctolepis longicornis*   | Lower Emsian(Pragian) |
+|           |                                          | *Arctolepis solnoerdali*   | Lower Emsian(Pragian) |
+
 
 
 
