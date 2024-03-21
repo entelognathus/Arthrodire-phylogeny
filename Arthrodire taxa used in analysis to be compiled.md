@@ -10,28 +10,31 @@ New taxa and references added along with the research.
 from the upper part of the formation (Nazarov et al. 1982, Nazarov & Ormiston 1983, Klapper 2009). The fish-bearing nodules primarily contain conodonts of the *transitans* conodont Zone." Here we adopte the **early Frasnian** age.
 The arthrodire placoderms exhibit the highest diversity and abundance (Long and Trinajstic 2010) among around **50** species. Arthrodires include *Holonema westolli* Miles 1971; *Latocamurus coulthardi* Long, 1988; *Mcnamaraspis kaprios* Long, 1995; *Incisoscutum ritchiei* Dennis and Miles, 1981; etc. **Count how many?**
 
+> lower Frasnian, 382.7, 379.2
 
-Holonema westolli
-Camuropiscis concinnus
-C. laidlawi
-Tubonasus lennardensis
-Rolfosteus canningensis
-Latocamurus coulthardi
-Fallacosteus turneri
-Simosteus tuberculatus
-Incisoscutum ritchei
-Gogosteus sarahae
-Harrytoombsia elegans
-Kimberleyviyichthys whybrowi
-K. bispicatus
-Torosteus tuberculatus
-T. pulchellus
-Mcnamaraspis kaprios
-Eastmanosteus calliaspis
-Bruntonichthys multidens
-Bullerichthys fascidens
-Kendrickichthys cavernosus
-Pinguosteus thulborni
+> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
+
+*Holonema westolli*, 
+*Camuropiscis concinnus*, 
+*C. laidlawi*, 
+*Tubonasus lennardensis*, 
+*Rolfosteus canningensis*, 
+*Latocamurus coulthardi*, 
+*Fallacosteus turneri*, 
+*Simosteus tuberculatus*, 
+*Incisoscutum ritchei*, 
+*Gogosteus sarahae*, 
+*Harrytoombsia elegans*, 
+*Kimberleyviyichthys whybrowi*, 
+*K. bispicatus*, 
+*Torosteus tuberculatus*, 
+*T. pulchellus*, 
+*Mcnamaraspis kaprios*, 
+*Eastmanosteus calliaspis*, 
+*Bruntonichthys multidens*, 
+*Bullerichthys fascidens*, 
+*Kendrickichthys cavernosus*, 
+*Pinguosteus thulborni*, 
 
 
 Campbellodus decipiens
@@ -165,22 +168,22 @@ Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Sco
 upper Eifelian, 389.6, 387.7
 *Achanarella*, 
 *Coccosteus cuspidatus*, 
-Homosteus milleri
-Pterichthyodes milleri
-Rhamphodopsis threiplandi
-R. trispinatus
-Diplacanthus striatus
-Rhadinacanthus longispinus
-Cheiracanthus murchisoni
-C. latus
-Mesacanthus peachi
-Cheirolepis trailli
-Dipterus valenciennesi
-Pentlandia macroptera
-Glyptolepis paucidens
-G. leptopterus
-Osteolepis macrolepidotus
-Gyroptychius agassizi
+*Homostius milleri*, 
+*Pterichthyodes milleri*, 
+*Rhamphodopsis threiplandi*, 
+*R. trispinatus*, 
+*Diplacanthus striatus*,
+*Rhadinacanthus longispinus*,
+*Cheiracanthus murchisoni*, 
+*C. latus*, 
+*Mesacanthus peachi*,
+*Cheirolepis trailli*, 
+*Dipterus valenciennesi*
+*Pentlandia macroptera*
+*Glyptolepis paucidens*
+*G. leptopterus*
+*Osteolepis macrolepidotus*
+*Gyroptychius agassizi*
 
 Gauja Formation, Lode Quarry, Latvia. 
 
@@ -322,9 +325,9 @@ Beelarongia patrichae
 
 
  [*Bruntonichthys multidens*](https://deepbone.cn/public/#/explor?s_id=2221&functionId=Deepbone_header_searchResultOpen) Dennis & Miles, 1980
-> Early Frasnian, XXX (maximum age), YYY (minimum age)
+> lower Frasnian, 382.7, 379.2
 
-> - Gogo Formation, Kimberley, Australia.
+> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
 > - [Dennis & Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
 
 [*Bryantolepis brachycephala*](https://deepbone.cn/public/#/explor?s_id=2500&functionId=Deepbone_header_searchResultOpen) Bryant,1932
@@ -341,24 +344,22 @@ Beelarongia patrichae
 > - [Burrow and Turner, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011097); [Long et al., 2014](https://www.publish.csiro.au/zo/zo13081)
 
 [*Bullerichthys fascidens*](https://deepbone.org/public/#/explor?s_id=2223andfunctionId=Deepbone_header_searchResultOpen) (Dennis and Miles, 1980)
-> Lower Frasnian, 
+> lower Frasnian, 382.7, 379.2
 
-> - Gogo Formation, Kimberley, Australia. 
+> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
 > - [Dennis and Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
 
 [*Camuropiscis laidlawi*](https://deepbone.org/public/#/explor?s_id=2210andfunctionId=Deepbone_header_searchResultOpen) (Dennis and Miles, 1979)
-> Early Frasnian,
+> lower Frasnian, 382.7, 379.2
 
-> Gogo Formation, Kimberley, Australia.
+> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
 > [Dennis and Miles, 1979](https://academic.oup.com/zoolinnean/article-abstract/67/1/1/2664252); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Coccosteus cuspidatus*](https://deepbone.org/public/#/explor?s_id=2148andfunctionId=Deepbone_header_searchResultOpen) Miller, 1841
-> Eifelian to Givetain, 393.3, 382.7
+> upper Eifelian, 389.6, 387.7
 
-> - Caithness Flagstone Group, Scotland
->
 > - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
-upper Eifelian, 389.6, 387.7
+
 > - [Miles and Westoll, 1968](https://doi.org/10.1017/S0080456800024078).
 
 [*Compagopiscis croucheri*](https://deepbone.cn/public/#/explor?s_id=2199&functionId=Deepbone_header_searchResultOpen) Gardiner and Miles, 1994 
@@ -554,6 +555,13 @@ upper Eifelian, 389.6, 387.7
 
 > - Aruküla beds, Estonia.
 > - Carr and Hlavin, 2010; Heintz, 1934, 1968.
+
+*Homostius milleri*
+> upper Eifelian, 389.6, 387.7
+
+> - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
+> - [references]
+
 
 [*Incisoscutum ritchiei*](https://deepbone.org/public/#/explor?s_id=2232andfunctionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1981
 > lower Frasnian, 382.7, 379.2
