@@ -17,23 +17,47 @@ New taxa and references added along with the research.
 > - Burtnieki Bed, Estonia, Latvia. 
 > - Mark-Kurik, 1973.
 
+[*Actinolepis spinosa*](Mark-Kurik,1985)
+> [Pragian-Emsian],
+
+> - [Kemeri Regional Stage, Pragian-Emsian; Latvia, Ventspils boring D3, depth 237 m]
+> - [Mark-Kurik, 1985](https://www.jstor.org/stable/4523057)
+
 [*Actinolepis tuberculate*](https://deepbone.org/public/#/explor?s_id=2463andfunctionId=Deepbone_header_searchResultOpen) (Agassiz, 1844)
 > Eifelian, XXX (maximum age), YYY (minimum age)
 
 > - Parnu Bed, Tori, Estonia; Nariva Bed, Slavjanka and Lemovzha, Estonia; Arukula Bed, Pskov district, Russia.
 > - Mark-Kurik 1973.
 
+[*Aethaspis major*](Denison,1958)
+> Early Devonian
+
+> - Water Canyon Formation, Cache County, Utah, USA.
+> - Denison, 1958.
+
 [*Aethaspis utahensis*](https://deepbone.org/public/#/explor?s_id=2491andfunctionId=Deepbone_header_searchResultOpen) (Denison, 1958)
-> Lower Devonian, XXX (maximum age), YYY (minimum age)
+> Early Devonian, XXX (maximum age), YYY (minimum age)
 
 > - Water Canyon Formation, Cache County, Utah, USA.
 > - Denison, 1958.
 
 [*Aleosteus eganensis*](https://deepbone.org/public/#/explor?s_id=2487andfunctionId=Deepbone_header_searchResultOpen) (Johnson et al, 2000)
-> Upper Emsian, XXX (maximum age), YYY (minimum age)
+> Late Emsian, XXX (maximum age), YYY (minimum age)
  
 > - Sandy Member, Nevada,USA. 
 > - [Johnson 2000](https://academic.oup.com/zoolinnean/article/129/2/241/2682485).
+
+[*Anarthraspis chamberlini*](Bryant,1934)
+>
+
+> -[the Beartooth Butte Formation at Beartooth Butte, Wyoming]
+> -[Bryant,1934](http://www.jstor.org/stable/984757)
+
+[*Anarthraspis montana*](Bryant,1934)
+>
+
+> -[the Beartooth Butte Formation at Beartooth Butte, Wyoming]
+> -[Bryant,1934](http://www.jstor.org/stable/984757)
 
 [*Antarctaspis mcmurdoensis*](https://deepbone.cn/public/#/explor?s_id=2169&functionId=Deepbone_header_searchResultOpen) (White, 1968)
 > Givetian, XXX (maximum age), YYY (minimum age)
@@ -41,17 +65,33 @@ New taxa and references added along with the research.
 > - Victoria land antarctica. 
 > - White,1968.
 
+[*Antarctolepis gunni*](White,1968)
+> [Givetian], XXX (maximum age), YYY (minimum age)
+
+> - [the Aztec Siltstone of southern Victoria Land, Antarctica]
+> - [White,1968]
+
 [*Antineosteus lehmani*](https://deepbone.cn/public/#/explor?s_id=2405&functionId=Deepbone_header_searchResultOpen) (Lelièvre, 1984)
-> Upper Emsian, XXX (maximum age), YYY (minimum age)
+> Late Emsian, XXX (maximum age), YYY (minimum age)
 
 > - Morocco. 
 > - Lelièvre, 1984; [Lelièvre, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173046).
+
+[*Arctaspis hoegi*]
+
+
 
 [*Arctolepis decipiens*](https://deepbone.cn/public/#/explor?s_id=2543&functionId=Deepbone_header_searchResultOpen) （Woodward,1891）
 > Emsian, XXX (maximum age), YYY (minimum age)
 
 > - Wood Bay series, Spitsbergen.
 > - [Goujet, 1984](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9046910).
+
+[*Arctolepis solnordali*]（Heintz, 1929）
+> -
+
+> [Wijde Bay, Spitsbergen]
+> [Denison,1958]
 
 [*Arenipiscis westolli*](https://deepbone.cn/public/#/explor?s_id=164607&functionId=Deepbone_header_searchResultOpen) （Young, 1981）
 > Emsian, XXX (maximum age), YYY (minimum age) 
@@ -61,27 +101,33 @@ New taxa and references added along with the research.
 > - This OTU is not in the matrix.
 
 [*Austrophyllolepis sp.*](https://deepbone.cn/public/#/explor?s_id=2160&functionId=Deepbone_header_searchResultOpen) (long, 1984)
-> late Givetian, XXX (maximum age), YYY (minimum age) 
+> late Givetian, Frasnian (maximum age), YYY (minimum age) 
 
 > - Avon River Group, Victoria. 
 > - [Long,1984](https://www.researchgate.net/publication/257938652_New_phyllolepids_from_Victoria_and_the_relationships_of_the_Group); [Young et al, 2005](https://www.cambridge.org/core/journals/antarctic-science/article/abs/phyllolepid-placoderm-fish-remains-from-the-devonian-aztec-siltstone-southern-victoria-land-antarctica/353199CDD4AE271D88CEA11578ADAB71);[Young, 2005](https://search.informit.org/doi/abs/10.3316/INFORMIT.866097176771156); [Long et al,2009](https://www.nature.com/articles/nature07732).
 
 [*Baringaspis dineleyi*](https://deepbone.cn/public/#/explor?s_id=2479&functionId=Deepbone_header_searchResultOpen) (Miles, 1973)
-> lower lochkovian, XXX (maximum age), YYY (minimum age) 
+> Early lochkovian, XXX (maximum age), YYY (minimum age) 
 
 > - Peel Sound Formation, Wales Island. 
 > - [Miles, 1973](https://www.researchgate.net/publication/285456051_An_actinolepid_arthrodire_from_the_Lower_Devonian_Peel_Sound_Formation_Prince_of_Wales_Island)
 > - The Source reference in deepbone is questionable.
 
+[*Bollandaspis woschmidti*] (Schmidt, 1976)
+> Early Emsian
+
+> - Belgium
+> - [Schmidt，1976](https://biblio.naturalsciences.be/rbins-publications/memoirs-of-the-geological-survey-of-belgium/bibliographic_references/schmidtrest1976)
+
 [*Brachyosteus dietrichi*](https://deepbone.cn/public/#/explor?s_id=2247&functionId=Deepbone_header_searchResultOpen) (Gross, 1932)
-> upper Frasnian, 375.7, 372.2
+> Late Frasnian, 375.7, 372.2
 
 > - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - [Denison, 1978]().
 
 
  [*Bruntonichthys multidens*](https://deepbone.cn/public/#/explor?s_id=2221&functionId=Deepbone_header_searchResultOpen) Dennis & Miles, 1980
-> lower Frasnian, 382.7, 379.2
+> Early Frasnian, 382.7, 379.2
 
 > - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
 > - [Dennis & Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
@@ -98,6 +144,18 @@ New taxa and references added along with the research.
 
 > - Buchan, Victoria and New South Wales
 > - [Burrow and Turner, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011097); [Long et al., 2014](https://www.publish.csiro.au/zo/zo13081)
+
+[*Buchanosteus guangxiensis*](Wang, 2005)
+> [Late Pragian],
+
+> - [Xiayiling Member, Nagaoling Formation, Upper Pragian; Heping District, Yongfu County, Guangxi, China]
+> - [Wang, 2005](https://www.cgsjournals.com/article/id/dztb_200509161)
+
+[*Buchanosteus sp.*](Wang et al., 1998)
+> [Middle Lochkovian],
+
+> - [Beijuntang Formation, Middle Lochkovian, Lower Devonian; Zhangmu Township, Yulin, Guangxi, China]
+> - [Wang et al., 1998](https://archive.org/details/21ac13050e96d2efff17d880e1207498e01e3d1b)
 
 [*Bullerichthys fascidens*](https://deepbone.org/public/#/explor?s_id=2223andfunctionId=Deepbone_header_searchResultOpen) (Dennis and Miles, 1980)
 > lower Frasnian, 382.7, 379.2
