@@ -17,7 +17,7 @@ New taxa and references added along with the research.
 > - Burtnieki Bed, Estonia, Latvia. 
 > - Mark-Kurik, 1973.
 
-[*Actinolepis spinosa*](Mark-Kurik,1985)
+[*Actinolepis spinosa*](Mark-Kurik, 1985)
 > [Pragian-Emsian],
 
 > - [Kemeri Regional Stage, Pragian-Emsian; Latvia, Ventspils boring D3, depth 237 m]
@@ -29,7 +29,7 @@ New taxa and references added along with the research.
 > - Parnu Bed, Tori, Estonia; Nariva Bed, Slavjanka and Lemovzha, Estonia; Arukula Bed, Pskov district, Russia.
 > - Mark-Kurik 1973.
 
-[*Aethaspis major*](Denison,1958)
+[*Aethaspis major*](Denison, 1958)
 > Early Devonian
 
 > - Water Canyon Formation, Cache County, Utah, USA.
@@ -47,13 +47,13 @@ New taxa and references added along with the research.
 > - Sandy Member, Nevada,USA. 
 > - [Johnson 2000](https://academic.oup.com/zoolinnean/article/129/2/241/2682485).
 
-[*Anarthraspis chamberlini*](Bryant,1934)
+[*Anarthraspis chamberlini*](Bryant, 1934)
 >
 
 > -[the Beartooth Butte Formation at Beartooth Butte, Wyoming]
 > -[Bryant,1934](http://www.jstor.org/stable/984757)
 
-[*Anarthraspis montana*](Bryant,1934)
+[*Anarthraspis montana*](Bryant, 1934)
 >
 
 > -[the Beartooth Butte Formation at Beartooth Butte, Wyoming]
@@ -65,7 +65,7 @@ New taxa and references added along with the research.
 > - Victoria land antarctica. 
 > - White,1968.
 
-[*Antarctolepis gunni*](White,1968)
+[*Antarctolepis gunni*](White, 1968)
 > [Givetian], XXX (maximum age), YYY (minimum age)
 
 > - [the Aztec Siltstone of southern Victoria Land, Antarctica]
