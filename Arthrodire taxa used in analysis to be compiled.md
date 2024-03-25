@@ -444,10 +444,10 @@ New taxa and references added along with the research.
 > - Montagne Noire, France.
 > - Lelièvre *et al*., 1987.
 
-*Millerosteus minor* Stensiö, 1959
-> Early Givetian, Middle Devonian, XXX (maximum age), YYY (minimum age)
+*Millerosteus minor* (Miller, 1858)
+> Early Givetian, Middle Devonian, 387.7, 386.0
 
-> - Orkneys and Caithness, Scotland.
+> - Middle Rousay, Rousay Formation; Orkney and Caithness, Scotland.
 > - Desmond, 1974; Stensiö, 1959, 1963.
 
 [*Mulgaspis evansorum*](https://deepbone.org/public/#/explor?s_id=2727andfunctionId=Deepbone_header_searchResultOpen) Ritchie, 2004
