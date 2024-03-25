@@ -207,9 +207,10 @@ New taxa and references added along with the research.
 > - [Zhu, 1991]
 
 [*Dickosteus threiplandi*](https://deepbone.cn/public/#/explor?s_id=2650&functionId=Deepbone_header_searchResultOpen) Miles and Westoll, 1963
-> Late Eifelian to Early Givetian, Middle Devonian, 389.6, 386.0
- 
-> - Orkneys and Caithness, Scotland
+
+> lower Givetian, 387.7, 386.0
+
+> - Upper Stromness Flagstone, Orkneys and Caithness, Scotland
 > - [Miles and Westoll, 1963](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/ixtwo-new-genera-of-coccosteid-arthrodira-from-the-middle-old-red-sandstone-of-scotland-and-their-stratigraphical-distribution/74D793E505A096117B0A4826FF342A4C).
 
 [*Dicksonosteus arcticus*](https://deepbone.org/public/#/explor?s_id=2423andfunctionId=Deepbone_header_searchResultOpen) Goujet, 1975
@@ -371,10 +372,11 @@ New taxa and references added along with the research.
 > - Aruküla beds, Estonia.
 > - Carr and Hlavin, 2010; Heintz, 1934, 1968.
 
-*Homostius milleri*
-> upper Eifelian, 389.6, 387.7
+*Homostius milleri* Traquair
+> upper Eifelian to lower Givetian, 389.6, 386.0
 
 > - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
+> - also in Rousay Formation, Scotland.
 > - [references]
 
 
