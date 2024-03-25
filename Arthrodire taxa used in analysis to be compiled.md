@@ -392,7 +392,7 @@ New taxa and references added along with the research.
 > - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
 > - [Long, 1994](https://www.tandfonline.com/doi/abs/10.1080/03115518.1994.9638763); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1463-6395.2008.00363.x).
 
-*Janiosteus timanicus* Ivanov, 1989
+[*Janiosteus timanicus*](https://deepbone.cn/public/#/explor?s_id=2441&functionId=Deepbone_header_searchResultOpen) Ivanov, 1989
 > Late Givetian, Middle Devonian, XXX (maximum age), YYY (minimum age)
 
 > - Timan, Russia.
