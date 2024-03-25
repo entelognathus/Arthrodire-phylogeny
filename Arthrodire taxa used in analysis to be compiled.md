@@ -12,19 +12,19 @@ New taxa and references added along with the research.
 > - **any comments on this species added here**
 
 [*Actinolepis magna*](https://deepbone.org/public/#/explor?s_id=2464andfunctionId=Deepbone_header_searchResultOpen) (Mark-Kurik, 1973)
-> Givetian, XXX (maximum age), YYY (minimum age)
+> Givetian, 387.7, 382.7
 
 > - Burtnieki Bed, Estonia, Latvia. 
 > - Mark-Kurik, 1973.
 
 [*Actinolepis spinosa*](Mark-Kurik, 1985)
-> [Pragian-Emsian],
+> Pragian-Emsian,410.8, 393.3
 
 > - [Kemeri Regional Stage, Pragian-Emsian; Latvia, Ventspils boring D3, depth 237 m]
 > - [Mark-Kurik, 1985](https://www.jstor.org/stable/4523057)
 
 [*Actinolepis tuberculate*](https://deepbone.org/public/#/explor?s_id=2463andfunctionId=Deepbone_header_searchResultOpen) (Agassiz, 1844)
-> Eifelian, XXX (maximum age), YYY (minimum age)
+> Eifelian, 393.3, 387.7
 
 > - Parnu Bed, Tori, Estonia; Nariva Bed, Slavjanka and Lemovzha, Estonia; Arukula Bed, Pskov district, Russia.
 > - Mark-Kurik 1973.
@@ -42,7 +42,7 @@ New taxa and references added along with the research.
 > - Denison, 1958.
 
 [*Aleosteus eganensis*](https://deepbone.org/public/#/explor?s_id=2487andfunctionId=Deepbone_header_searchResultOpen) (Johnson et al, 2000)
-> Late Emsian, XXX (maximum age), YYY (minimum age)
+> Late Emsian, 400.45, 393.3
  
 > - Sandy Member, Nevada,USA. 
 > - [Johnson 2000](https://academic.oup.com/zoolinnean/article/129/2/241/2682485).
@@ -72,7 +72,7 @@ New taxa and references added along with the research.
 > - [White,1968]
 
 [*Antineosteus lehmani*](https://deepbone.cn/public/#/explor?s_id=2405&functionId=Deepbone_header_searchResultOpen) (Lelièvre, 1984)
-> Late Emsian, XXX (maximum age), YYY (minimum age)
+> Late Emsian, 400.45, 393.3
 
 > - Morocco. 
 > - Lelièvre, 1984; [Lelièvre, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173046).
@@ -82,7 +82,7 @@ New taxa and references added along with the research.
 
 
 [*Arctolepis decipiens*](https://deepbone.cn/public/#/explor?s_id=2543&functionId=Deepbone_header_searchResultOpen) （Woodward,1891）
-> Emsian, XXX (maximum age), YYY (minimum age)
+> Emsian, 407.6, 393.3
 
 > - Wood Bay series, Spitsbergen.
 > - [Goujet, 1984](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9046910).
@@ -94,27 +94,27 @@ New taxa and references added along with the research.
 > [Denison,1958]
 
 [*Arenipiscis westolli*](https://deepbone.cn/public/#/explor?s_id=164607&functionId=Deepbone_header_searchResultOpen) （Young, 1981）
-> Emsian, XXX (maximum age), YYY (minimum age) 
+> Emsian, 407.6, 393.3 
 
 > - Murrumbidgee Group, Goodradigbee, Australia. 
 > - [Young,1981](https://www.tandfonline.com/doi/abs/10.1080/03115518108566994).
 > - This OTU is not in the matrix.
 
 [*Austrophyllolepis sp.*](https://deepbone.cn/public/#/explor?s_id=2160&functionId=Deepbone_header_searchResultOpen) (long, 1984)
-> late Givetian, Frasnian (maximum age), YYY (minimum age) 
+> late Givetian, Frasnian  384.4, 372.2 
 
 > - Avon River Group, Victoria. 
 > - [Long,1984](https://www.researchgate.net/publication/257938652_New_phyllolepids_from_Victoria_and_the_relationships_of_the_Group); [Young et al, 2005](https://www.cambridge.org/core/journals/antarctic-science/article/abs/phyllolepid-placoderm-fish-remains-from-the-devonian-aztec-siltstone-southern-victoria-land-antarctica/353199CDD4AE271D88CEA11578ADAB71);[Young, 2005](https://search.informit.org/doi/abs/10.3316/INFORMIT.866097176771156); [Long et al,2009](https://www.nature.com/articles/nature07732).
 
 [*Baringaspis dineleyi*](https://deepbone.cn/public/#/explor?s_id=2479&functionId=Deepbone_header_searchResultOpen) (Miles, 1973)
-> Early lochkovian, XXX (maximum age), YYY (minimum age) 
+> Early lochkovian, 419.2, 415.0
 
 > - Peel Sound Formation, Wales Island. 
 > - [Miles, 1973](https://www.researchgate.net/publication/285456051_An_actinolepid_arthrodire_from_the_Lower_Devonian_Peel_Sound_Formation_Prince_of_Wales_Island)
 > - The Source reference in deepbone is questionable.
 
 [*Bollandaspis woschmidti*] (Schmidt, 1976)
-> Early Emsian
+> Early Emsian, 407.6, 393.3
 
 > - Belgium
 > - [Schmidt，1976](https://biblio.naturalsciences.be/rbins-publications/memoirs-of-the-geological-survey-of-belgium/bibliographic_references/schmidtrest1976)
@@ -133,7 +133,7 @@ New taxa and references added along with the research.
 > - [Dennis & Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
 
 [*Bryantolepis brachycephala*](https://deepbone.cn/public/#/explor?s_id=2500&functionId=Deepbone_header_searchResultOpen) Bryant,1932
-> Pragian, XXX (maximum age), YYY (minimum age)
+> Pragian, 410.8, 407.6
 
 > - Wyoming,USA
 > - [Bryant, 1932](https://www.jstor.org/stable/984700); Denison, 1962
@@ -146,7 +146,7 @@ New taxa and references added along with the research.
 > - [Burrow and Turner, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011097); [Long et al., 2014](https://www.publish.csiro.au/zo/zo13081)
 
 [*Buchanosteus guangxiensis*](Wang, 2005)
-> [Late Pragian],
+> Late Pragian, 409.2, 407.6
 
 > - [Xiayiling Member, Nagaoling Formation, Upper Pragian; Heping District, Yongfu County, Guangxi, China]
 > - [Wang, 2005](https://www.cgsjournals.com/article/id/dztb_200509161)
@@ -183,19 +183,19 @@ New taxa and references added along with the research.
 > - [Gardiner and Miles, 1994](https://academic.oup.com/zoolinnean/article-abstract/112/4/443/2646294); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Dunkleosteus amblyodoratus*](https://deepbone.cn/public/#/explor?s_id=2454&functionId=Deepbone_header_searchResultOpen) Carr and Hlavin, 2010
-> Frasnian or Famennian, Late Devonian, XXX (maximum age), YYY (minimum age)
+> Frasnian or Famennian, Late Devonian,  382.7, 358.9
 
 > - Ontario, Canada
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
 
 [*Dunkleosteus raveri*](https://deepbone.cn/public/#/explor?s_id=2453&functionId=Deepbone_header_searchResultOpen) Carr and Hlavin, 2010
-> Early Famennian, Late Devonian, XXX (maximum age), YYY (minimum age)
+> Early Famennian, Late Devonian, 372.2, 367.7
 
 > - Erie County, Ohio, USA.
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
 
 [*Dhanguura johnstoni*](https://deepbone.cn/public/#/explor?s_id=2141&functionId=Deepbone_header_searchResultOpen) Young, 2004
-> Emsian, XXX (maximum age), YYY (minimum age)
+> Emsian, 407.6, 393.3
 
 > - New South Wales, Australia
 > - [Young, 2004](https://www.tandfonline.com/doi/abs/10.1671/1942-1).
@@ -207,6 +207,7 @@ New taxa and references added along with the research.
 > - [Zhu, 1991]
 
 [*Dickosteus threiplandi*](https://deepbone.cn/public/#/explor?s_id=2650&functionId=Deepbone_header_searchResultOpen) Miles and Westoll, 1963
+
 > lower Givetian, 387.7, 386.0
 
 > - Upper Stromness Flagstone, Orkneys and Caithness, Scotland
@@ -219,7 +220,7 @@ New taxa and references added along with the research.
 > - Goujet, 1975; Goujet, 1984
 
 *Dinichthys herzeri* Newberry, 1868
-> Famennian, Late Devonian, XXX (maximum age), YYY (minimum age)
+> Famennian, Late Devonian, 372.2, 358.9
 
 > - Delaware County, Ohio, USA.
 > - Carr and Hlavin, 2010.
@@ -243,23 +244,23 @@ New taxa and references added along with the research.
 > - The type species of *Eastmanosteus* Obruchev 1964 is *E. pustulosus* (Eastman) 1897. 
 > - [Dennis-Bryan, 1987](https://academic.oup.com/zoolinnean/article-abstract/90/1/1/2658205)
 
-*Elvaspis tuberculata* Young 2009
-> Emsian, Early Devonian, XXX (maximum age), YYY (minimum age)
+[*Elvaspis tuberculata*](https://deepbone.cn/public/#/explor?s_id=2421&functionId=Deepbone_header_searchResultOpen) Young 2009
+> Emsian, Early Devonian, 407.6, 393.3
 
 > - New South Wales, Australia. 
-> - Young, 2009.
+> - [Young, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00366.x).
 
-*Erikaspis zychi* Stensiö, 1945
-> Lochkovian, Lower Devonian, XXX (maximum age), YYY (minimum age)
+[*Erikaspis zychi*](https://deepbone.cn/public/#/explor?s_id=2127&functionId=Deepbone_header_searchResultOpen) Stensiö, 1945
+> Lochkovian, Lower Devonian, 419.2, 410.8
 
 > - Podolia.
-> - Dupret, 2007.
+> - [Dupret, 2007](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2007)27%5B266:ANGOPA%5D2.0.CO;2).
 
-*Eskimaspis heintzi* Dineley and Liu 1984
-> Early Devonian, XXX (maximum age), YYY (minimum age)
+[*Eskimaspis heintzi*](https://deepbone.cn/public/#/explor?s_id=154182&functionId=Deepbone_header_searchResultOpen) Dineley and Liu 1984
+> Early Devonian, 419.2, 393.3
 
 > - Peel Sound Formation; Prince of Wales Island, Arctic Canada.
-> - Dineley and Liu 1984.
+> - [Dineley and Liu 1984](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=8980227).
 
 [*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257andfunctionId=Deepbone_header_searchResultOpen) Liu, 1991
 > Givetian, 387.7, 382.7
@@ -267,17 +268,17 @@ New taxa and references added along with the research.
 > - Xichong Formation; Qujing, Yunnan, China.
 > - Liu, 1991
 
-*Exutaspis megista* Liu and Wang, 1981
-> Emsian, Early Devonian, XXX (maximum age), YYY (minimum age)
+[*Exutaspis megista*](https://deepbone.cn/public/#/explor?s_id=3286&functionId=Deepbone_header_searchResultOpen) Liu and Wang, 1981
+> Emsian, Early Devonian, 407.6, 393.3
 
 > - Yunnan, China
 > - Liu and Wang, 1981.
 
-*Fallocosteus turneri* Long, 1990
+[*Fallocosteus turneri*](https://deepbone.cn/public/#/explor?s_id=172089&functionId=Deepbone_header_searchResultOpen) Long, 1990
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
-> - Long, 1990; Trinajstic and Dennis-Bryan, 2009.
+> - [Long, 1990](https://researchnow.flinders.edu.au/en/publications/two-new-arthrodires-placoderm-fishes-from-the-upper-devonian-gogo); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Gavinaspis convergens*](https://deepbone.org/public/#/explor?s_id=2473andfunctionId=Deepbone_header_searchResultOpen) Dupret et al., 2009
 > upper Lochkovian, 415.0, 410.8
@@ -285,75 +286,75 @@ New taxa and references added along with the research.
 > - Xitun Formation; Qujing, Yunnan, China.
 > - [Dupret et al., 2009](https://pubs.geoscienceworld.org/geolmag/article-abstract/145/2/257/65693/The-earliest-phyllolepid-Placodermi-Arthrodira?redirectedFrom=fulltext)
 
-*Gemuendenaspis angusta* Traquair, 1903
-> Early Emsian, Early Devonian, XXX (maximum age), YYY (minimum age)
+[*Gemuendenaspis angusta*](https://deepbone.cn/public/#/explor?s_id=2431&functionId=Deepbone_header_searchResultOpen) Traquair, 1903
+> Early Emsian, Early Devonian, 407.6, 393.3
 
 > - Hunsrückschiefer, Germany
-> - Miles, 1962.
+> - [Miles, 1962](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/iiigemuendenaspis-ngen-an-arthrodiran-fish-from-the-lower-devonian-hunsruckschiefer-of-germany/F800022C1E162184463F969DDEE6B313).
 
-*Golshanichthys asiatica* Lelièvre, Janvier and Goujet, 1981
-> Early Frasnian, Late Devonian, XXX (maximum age), YYY (minimum age)
+[*Golshanichthys asiatica*](https://deepbone.cn/public/#/explor?s_id=2450&functionId=Deepbone_header_searchResultOpen) Lelièvre, Janvier and Goujet, 1981
+> Early Frasnian, Late Devonian, 382.7, 379.2
 
 > - Kerman, Iran.
-> - Carr and Hlavin, 2010; Lelièvre, Janvier and Goujet, 1981.
+> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); [Lelièvre, Janvier and Goujet, 1981](https://www.sciencedirect.com/science/article/abs/pii/S0016699581801489).
 
-*Goodradigbeeon australianum* White, 1978
-> Emsian, Early Devonian, XXX (maximum age), YYY (minimum age)
+[*Goodradigbeeon australianum*](https://deepbone.cn/public/#/explor?s_id=2428&functionId=Deepbone_header_searchResultOpen) White, 1978
+> Emsian, Early Devonian, 407.6, 393.3
 
 > - Murrumbidgee, Australia.
-> - White, 1978.
+> - [White, 1978](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/j.1096-3642.1978.tb00374.x).
 
-*Gorgonichthys clarki* Claypole, 1892
+[*Gorgonichthys clarki*](https://deepbone.cn/public/#/explor?s_id=2271&functionId=Deepbone_header_searchResultOpen) Claypole, 1892
 > upper Famennian, 363.3, 358.9
 
 > - Cleveland Shale Member, Ohio Shale Formation, Ohio, USA.
-> - Carr and Hlavin, 2010; Dunkle and Bungart, 1940; Denison, 1978; Stensiö, 1963.
+> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); [Dunkle and Bungart, 1940](); Denison, 1978; Stensiö, 1963.
 
 [*Groenlandaspis antarcticus*](https://deepbone.org/public/#/explor?s_id=154139andfunctionId=Deepbone_header_searchResultOpen) Ritchie, 1975
 > Givetian, Middle Devonian, 387.7, 382.7
+
 > - Aztec siltstone, southern Victoria Land, Antarctica.
 > - Taylor Group; Mount Ritchie, Australia and Mount Mestchel, Antarctica
-
 > - [Ritchie, 1975](https://www.nature.com/articles/254569a0); [Young, 1989](https://www.lyellcollection.org/doi/abs/10.1144/GSL.SP.1989.047.01.05)
 
-*Gymnotrachelus hydei* Dunkle and Bungart, 1939
+[*Gymnotrachelus hydei*](https://deepbone.cn/public/#/explor?s_id=2276&functionId=Deepbone_header_searchResultOpen) Dunkle and Bungart, 1939
 > upper Famennian, 363.3, 358.9
 
 > - Cleveland Shale Member, Ohio Shale Formation, Ohio, USA.
-> - Carr, 1994; Carr and Hlavin, 2010; Dunkle and Bungart, 1939.
+> - [Carr, 1994]; [Carr and Hlavin](https://academic.oup.com/zoolinnean/article/159/1/195/2608083), 2010; Dunkle and Bungart, 1939.
 
-*Hadrosteus rapax* Gross, 1932
+[*Hadrosteus rapax*](https://deepbone.cn/public/#/explor?s_id=2236&functionId=Deepbone_header_searchResultOpen) Gross, 1932
 > upper Frasnian, 375.7, 372.2
 
 > - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
-> - Carr and Hlavin, 2010; Stensiö, 1963.
+> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Stensiö, 1963.
 
-*Harrytoombsia elegans* Miles and Dennis, 1979
+[*Harrytoombsia elegans*](https://deepbone.cn/public/#/explor?s_id=2443&functionId=Deepbone_header_searchResultOpen) Miles and Dennis, 1979
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
-> - Miles and Dennis, 1979; Trinajsticand Dennis-Bryan, 2009.
+> - [Miles and Dennis, 1979](https://academic.oup.com/zoolinnean/article-abstract/66/1/31/2664264); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
-*Heightingtonaspis anglica* Traquair 1890
-> Lochkovian to Pragian, Early Devonian, XXX (maximum age), YYY (minimum age)
+[*Heightingtonaspis anglica*](https://deepbone.cn/public/#/explor?s_id=2474&functionId=Deepbone_header_searchResultOpen) Traquair 1890
+> Lochkovian to Pragian, Early Devonian, 419.2, 407.6
 
 > - Eastern Avalonia
-> - Dupret 2010.
+> - [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short).
 
-*Heintzichthys gouldii* Newberry, 1885
+[*Heintzichthys gouldii*](https://deepbone.cn/public/#/explor?s_id=2273&functionId=Deepbone_header_searchResultOpen) Newberry, 1885
 > upper Famennian, 363.3, 358.9
 
 > - Cleveland Shale Member, Ohio Shale Formation, Ohio, USA.
-> - Carr, 1991; Carr and Hlavin, 2010.
+> - [Carr, 1991](https://academic.oup.com/zoolinnean/article-abstract/103/4/349/2725455); [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
 
-*Heintzosteus brevis* [Goujet, 1984]
-> Pragian, early Devonian, XXX (maximum age), YYY (minimum age)
+[*Heintzosteus brevis*](https://deepbone.cn/public/#/explor?s_id=169310&functionId=Deepbone_header_searchResultOpen) [Goujet, 1984]
+> Pragian, early Devonian, 410.8, 407.6
 
 > - Formation de Wood Bay, Spitsbergen
 > - Goujet 1984.
 
-*Heterostius ingens* Asmuss, 1856
-> Eifelian, Middle Devonian, XXX (maximum age), YYY (minimum age)
+[*Heterostius ingens*](https://deepbone.cn/public/#/explor?s_id=2455&functionId=Deepbone_header_searchResultOpen) Asmuss, 1856
+> Eifelian, Middle Devonian, 393.3, 387.
 
 > - Aruküla beds, Estonia.
 > - Heintz, 1928, 1930.
