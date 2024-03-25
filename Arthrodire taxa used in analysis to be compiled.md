@@ -60,15 +60,15 @@ New taxa and references added along with the research.
 > -[Bryant,1934](http://www.jstor.org/stable/984757)
 
 [*Antarctaspis mcmurdoensis*](https://deepbone.cn/public/#/explor?s_id=2169&functionId=Deepbone_header_searchResultOpen) (White, 1968)
-> Givetian, XXX (maximum age), YYY (minimum age)
+> Givetian, Middle Devonian, 387.7, 382.7
+> - Aztec siltstone, southern Victoria Land, Antarctica.
 
-> - Victoria land antarctica. 
 > - White,1968.
 
 [*Antarctolepis gunni*](White, 1968)
-> [Givetian], XXX (maximum age), YYY (minimum age)
+> Givetian, Middle Devonian, 387.7, 382.7
+> - Aztec siltstone, southern Victoria Land, Antarctica.
 
-> - [the Aztec Siltstone of southern Victoria Land, Antarctica]
 > - [White,1968]
 
 [*Antineosteus lehmani*](https://deepbone.cn/public/#/explor?s_id=2405&functionId=Deepbone_header_searchResultOpen) (Lelièvre, 1984)
@@ -310,9 +310,10 @@ New taxa and references added along with the research.
 > - Carr and Hlavin, 2010; Dunkle and Bungart, 1940; Denison, 1978; Stensiö, 1963.
 
 [*Groenlandaspis antarcticus*](https://deepbone.org/public/#/explor?s_id=154139andfunctionId=Deepbone_header_searchResultOpen) Ritchie, 1975
-> Givetian, 387.7, 382.7
-
+> Givetian, Middle Devonian, 387.7, 382.7
+> - Aztec siltstone, southern Victoria Land, Antarctica.
 > - Taylor Group; Mount Ritchie, Australia and Mount Mestchel, Antarctica
+
 > - [Ritchie, 1975](https://www.nature.com/articles/254569a0); [Young, 1989](https://www.lyellcollection.org/doi/abs/10.1144/GSL.SP.1989.047.01.05)
 
 *Gymnotrachelus hydei* Dunkle and Bungart, 1939
