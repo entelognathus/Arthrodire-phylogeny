@@ -11,31 +11,31 @@ New taxa and references added along with the research.
 > - [references]
 > - **any comments on this species added here**
 
-[*Actinolepis magna*](https://deepbone.org/public/#/explor?s_id=2464andfunctionId=Deepbone_header_searchResultOpen) (Mark-Kurik, 1973)
-> Givetian, 387.7, 382.7
+[*Actinolepis magna*](https://deepbone.org/public/#/explor?s_id=2464andfunctionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1973
+> lower Givetian, 387.7, 386.0
 
 > - Burtnieki Bed, Estonia, Latvia. 
 > - Mark-Kurik, 1973.
 
-[*Actinolepis spinosa*](https://deepbone.cn/public/#/explor?s_id=2465&functionId=Deepbone_header_searchResultOpen)(Mark-Kurik, 1985)
+[*Actinolepis spinosa*](https://deepbone.cn/public/#/explor?s_id=2465&functionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1985
 > Pragian-Emsian,410.8, 393.3
 
 > - [Kemeri Regional Stage, Pragian-Emsian; Latvia, Ventspils boring D3, depth 237 m]
 > - [Mark-Kurik, 1985](https://www.jstor.org/stable/4523057)
 
-[*Actinolepis tuberculate*](https://deepbone.org/public/#/explor?s_id=2463andfunctionId=Deepbone_header_searchResultOpen) (Agassiz, 1844)
+[*Actinolepis tuberculate*](https://deepbone.org/public/#/explor?s_id=2463andfunctionId=Deepbone_header_searchResultOpen) Agassiz, 1844
 > Eifelian, 393.3, 387.7
 
 > - Parnu Bed, Tori, Estonia; Nariva Bed, Slavjanka and Lemovzha, Estonia; Arukula Bed, Pskov district, Russia.
 > - Mark-Kurik 1973.
 
-[*Aethaspis major*](https://deepbone.cn/public/#/explor?s_id=2492&functionId=Deepbone_header_searchResultOpen)(Denison, 1958)
+[*Aethaspis major*](https://deepbone.cn/public/#/explor?s_id=2492&functionId=Deepbone_header_searchResultOpen) Denison, 1958
 > Early Devonian
 
 > - Water Canyon Formation, Cache County, Utah, USA.
 > - Denison, 1958.
 
-[*Aethaspis utahensis*](https://deepbone.org/public/#/explor?s_id=2491andfunctionId=Deepbone_header_searchResultOpen) (Denison, 1958)
+[*Aethaspis utahensis*](https://deepbone.org/public/#/explor?s_id=2491andfunctionId=Deepbone_header_searchResultOpen) Denison, 1958
 > Early Devonian, XXX (maximum age), YYY (minimum age)
 
 > - Water Canyon Formation, Cache County, Utah, USA.
@@ -48,21 +48,21 @@ New taxa and references added along with the research.
 > - [Johnson 2000](https://academic.oup.com/zoolinnean/article/129/2/241/2682485).
 
 [*Anarthraspis chamberlini*](https://deepbone.cn/public/#/explor?s_id=2497&functionId=Deepbone_header_searchResultOpen)(Bryant, 1934)
-> Emsian, 407.6, 393.3
+> Pragian, 410.8, 407.6
 
 > -[the Beartooth Butte Formation at Beartooth Butte, Wyoming]
 > -[Bryant,1934](http://www.jstor.org/stable/984757)
 
 [*Anarthraspis montana*](https://deepbone.cn/public/#/explor?s_id=2498&functionId=Deepbone_header_searchResultOpen)(Bryant, 1934)
-> Emsian, 407.6, 393.3
+> Pragian, 410.8, 407.6
 
 > -[the Beartooth Butte Formation at Beartooth Butte, Wyoming]
 > -[Bryant,1934](http://www.jstor.org/stable/984757)
 
 [*Antarctaspis mcmurdoensis*](https://deepbone.cn/public/#/explor?s_id=2169&functionId=Deepbone_header_searchResultOpen) (White, 1968)
 > Givetian, Middle Devonian, 387.7, 382.7
-> - Aztec siltstone, southern Victoria Land, Antarctica.
 
+> - Aztec siltstone, southern Victoria Land, Antarctica.
 > - White,1968.
 
 [*Antarctolepis gunni*](https://deepbone.cn/public/#/explor?s_id=2163&functionId=Deepbone_header_searchResultOpen)(White, 1968)
@@ -82,9 +82,9 @@ New taxa and references added along with the research.
 
 
 [*Arctolepis decipiens*](https://deepbone.cn/public/#/explor?s_id=2543&functionId=Deepbone_header_searchResultOpen) （Woodward,1891）
-> Emsian, 407.6, 393.3
+> Early Emsian,  407.6, 393.3
 
-> - Wood Bay series, Spitsbergen.
+> - Svalbard Wood Bay Formation fauna, Spitsbergen.
 > - [Goujet, 1984](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9046910).
 
 [*Arctolepis solnoerdali*](https://deepbone.cn/public/#/explor?s_id=2548&functionId=Deepbone_header_searchResultOpen)（Heintz, 1929）
@@ -107,7 +107,7 @@ New taxa and references added along with the research.
 > - [Long,1984](https://www.researchgate.net/publication/257938652_New_phyllolepids_from_Victoria_and_the_relationships_of_the_Group); [Young et al, 2005](https://www.cambridge.org/core/journals/antarctic-science/article/abs/phyllolepid-placoderm-fish-remains-from-the-devonian-aztec-siltstone-southern-victoria-land-antarctica/353199CDD4AE271D88CEA11578ADAB71);[Young, 2005](https://search.informit.org/doi/abs/10.3316/INFORMIT.866097176771156); [Long et al,2009](https://www.nature.com/articles/nature07732).
 
 [*Baringaspis dineleyi*](https://deepbone.cn/public/#/explor?s_id=2479&functionId=Deepbone_header_searchResultOpen) (Miles, 1973)
-> Early lochkovian, 419.2, 415.0
+> upper Lochkovian, 415.0, 410.8
 
 > - Peel Sound Formation, Wales Island. 
 > - [Miles, 1973](https://www.researchgate.net/publication/285456051_An_actinolepid_arthrodire_from_the_Lower_Devonian_Peel_Sound_Formation_Prince_of_Wales_Island)
@@ -120,7 +120,7 @@ New taxa and references added along with the research.
 > - [Schmidt，1976](https://biblio.naturalsciences.be/rbins-publications/memoirs-of-the-geological-survey-of-belgium/bibliographic_references/schmidtrest1976)
 
 [*Brachyosteus dietrichi*](https://deepbone.cn/public/#/explor?s_id=2247&functionId=Deepbone_header_searchResultOpen) (Gross, 1932)
-> Late Frasnian, 375.7, 372.2
+> upper Frasnian, 375.7, 372.2
 
 > - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - [Denison, 1978]().
@@ -173,7 +173,6 @@ New taxa and references added along with the research.
 > upper Eifelian, 389.6, 387.7
 
 > - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
-
 > - [Miles and Westoll, 1968](https://doi.org/10.1017/S0080456800024078).
 
 [*Compagopiscis croucheri*](https://deepbone.cn/public/#/explor?s_id=2199&functionId=Deepbone_header_searchResultOpen) Gardiner and Miles, 1994 
@@ -220,9 +219,9 @@ New taxa and references added along with the research.
 > - Goujet, 1975; Goujet, 1984
 
 [*Dinichthys herzeri*](https://deepbone.cn/public/#/explor?s_id=154201&functionId=Deepbone_header_searchResultOpen) Newberry, 1868
-> Famennian, Late Devonian, 372.2, 358.9
+> upper Famennian, 363.3, 358.9
 
-> - Delaware County, Ohio, USA.
+> - Cleveland Shale Member, Ohio Shale Formation, Ohio, Tennessee, Pennsylvania and California, USA.
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
 
 [*Dunkleosteus terrelli*](https://deepbone.cn/public/#/explor?s_id=2269&functionId=Deepbone_header_searchResultOpen) Newberry, 1873
@@ -257,7 +256,7 @@ New taxa and references added along with the research.
 > - [Dupret, 2007](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2007)27%5B266:ANGOPA%5D2.0.CO;2).
 
 [*Eskimaspis heintzi*](https://deepbone.cn/public/#/explor?s_id=154182&functionId=Deepbone_header_searchResultOpen) Dineley and Liu 1984
-> Early Devonian, 419.2, 393.3
+> upper Lochkovian, 415.0, 410.8
 
 > - Peel Sound Formation; Prince of Wales Island, Arctic Canada.
 > - [Dineley and Liu 1984](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=8980227).
@@ -287,9 +286,9 @@ New taxa and references added along with the research.
 > - [Dupret et al., 2009](https://pubs.geoscienceworld.org/geolmag/article-abstract/145/2/257/65693/The-earliest-phyllolepid-Placodermi-Arthrodira?redirectedFrom=fulltext)
 
 [*Gemuendenaspis angusta*](https://deepbone.cn/public/#/explor?s_id=2431&functionId=Deepbone_header_searchResultOpen) Traquair, 1903
-> Early Emsian, Early Devonian, 407.6, 393.3
+> upper Pragian to lower Emsian, 409.2, 400.45
 
-> - Hunsrückschiefer, Germany
+> - Hunsrückschiefer; Rheinland, Germany.
 > - [Miles, 1962](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/iiigemuendenaspis-ngen-an-arthrodiran-fish-from-the-lower-devonian-hunsruckschiefer-of-germany/F800022C1E162184463F969DDEE6B313).
 
 [*Golshanichthys asiatica*](https://deepbone.cn/public/#/explor?s_id=2450&functionId=Deepbone_header_searchResultOpen) Lelièvre, Janvier and Goujet, 1981
@@ -348,13 +347,13 @@ New taxa and references added along with the research.
 > - [Carr, 1991](https://academic.oup.com/zoolinnean/article-abstract/103/4/349/2725455); [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
 
 [*Heintzosteus brevis*](https://deepbone.cn/public/#/explor?s_id=169310&functionId=Deepbone_header_searchResultOpen) [Goujet, 1984]
-> Pragian, early Devonian, 410.8, 407.6
+> Pragian, 410.8, 407.6
 
-> - Formation de Wood Bay, Spitsbergen
+> - Formation de Wood Bay, Dicksonfjorden-Austfjorden area, Spitsbergen
 > - Goujet 1984.
 
 [*Heterostius ingens*](https://deepbone.cn/public/#/explor?s_id=2455&functionId=Deepbone_header_searchResultOpen) Asmuss, 1856
-> Eifelian, Middle Devonian, 393.3, 387.
+> upper Eifelian, 389.6, 387.7
 
 > - Aruküla beds, Estonia.
 > - Heintz, 1928, 1930.
@@ -368,7 +367,7 @@ New taxa and references added along with the research.
 
 
 [*Homostius sulcatus* ](https://deepbone.cn/public/#/explor?s_id=2403&functionId=Deepbone_header_searchResultOpen)Kutorga, 1837
-> Eifelian, Middle Devonian, 393.3, 387.7 
+> upper Eifelian, 389.6, 387.7 
 
 > - Aruküla beds, Estonia.
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); [Heintz, 1934](https://www.digar.ee/arhiiv/en/raamatud/230250); Heintz,1968.
@@ -472,7 +471,8 @@ New taxa and references added along with the research.
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Wang, 1979.
 
 [*Parabuchanosteus murrumbidgeensis*](https://deepbone.org/public/#/explor?s_id=2430andfunctionId=Deepbone_header_searchResultOpen) (White, 1952)
-> Pragian to Emsian, 410.8, 393.3
+> Emsian, 407.6, 393.3
+
 > - Murrumbidgee Group; Burrinjuck Dam
 > - White and Toombs, 1972; [Young, 1979](https://academic.oup.com/zoolinnean/article-abstract/66/4/309/2664249)
 
@@ -579,7 +579,7 @@ New taxa and references added along with the research.
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/260808); [Long, 1987](https://www.researchgate.net/profile/John-Long-17/publication/257939064_A_new_dinichthyid_fish_Placodermi_Arthrodira_from_the_Upper_Devonian_of_Western_Australia_with_a_discussion_of_dinichthyid_interrelationships/links/0c960528c4492a9c0d000000/A-new-dinichthyid-fish-Placodermi-Arthrodira-from-the-Upper-Devonian-of-Western-Australia-with-a-discussion-of-dinichthyid-interrelationships.pdf).
 
 [*Wuttagoonaspis fletcheri*](https://deepbone.cn/public/#/explor?s_id=3621&functionId=Deepbone_header_searchResultOpen) Ritchie 1973
-> Early Eifelian, Middle Devonian, 393.3, 391.4
+> Emsian, 407.6, 393.3
 
 > - Mulga Downs Group, New South Wales
 > - [Ritchie 1973](https://www.schweizerbart.de/papers/pala/detail/A143/70796/iWuttagoonaspis_i_gen_nov_an_unusual_arthrodire_from_the_Devonian_of_Western_New_South_Wales_Australia?l=FR); [Young and Goujet 2003](https://museum.wa.gov.au/research/records-supplements/records/devonian-fish-remains-dulcie-sandstone-and-cravens-peak-beds-ge)
