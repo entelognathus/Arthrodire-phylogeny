@@ -584,50 +584,37 @@ New taxa and references added along with the research.
 
 > Source reference: Carr and Hlavin, 2010; Long, 1987.
 
-*Wuttagoonaspis fletcheri* Ritchie 1973
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Wuttagoonaspis fletcheri*](https://deepbone.cn/public/#/explor?s_id=3621&functionId=Deepbone_header_searchResultOpen) Ritchie 1973
+> Early Eifelian, Middle Devonian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Mulga Downs Group, New South Wales, Early Eifelian, Middle Devonian.
+> - Mulga Downs Group, New South Wales
+> - [Ritchie 1973](https://www.schweizerbart.de/papers/pala/detail/A143/70796/iWuttagoonaspis_i_gen_nov_an_unusual_arthrodire_from_the_Devonian_of_Western_New_South_Wales_Australia?l=FR); [Young and Goujet 2003](https://museum.wa.gov.au/research/records-supplements/records/devonian-fish-remains-dulcie-sandstone-and-cravens-peak-beds-ge)
 
-> Source reference: Ritchie 1973; Young and Goujet 2003.
+[*Yiminaspis shenme*](https://deepbone.cn/public/#/explor?s_id=2494&functionId=Deepbone_header_searchResultOpen) Dupret 2008
+> Pragian, Early Devonian, 410.8 , 407.6
 
-*Yiminaspis shenme* Dupret 2008
-> [geological range], XXX (maximum age), YYY (minimum age)
+> - Zhaotong, Yunnan, China
+> - [Dupret 2008](https://www.tandfonline.com/doi/abs/10.1671/0272-4634%282008%2928%5B12%3AANWPAF%5D2.0.CO%3B2)
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Zhaotong, Yunnan, China. Early-Middle Devonian.
+[*Xiangshuiosteus wui*](https://deepbone.cn/public/#/explor?s_id=2433&functionId=Deepbone_header_searchResultOpen) Wang, 1992
+> Emsian, Early Devonian, 407.6, 393.3
 
-> Source reference: Dupret 2008.
-
-*Xiangshuiosteus wui* Wang, 1992
-> [geological range], XXX (maximum age), YYY (minimum age)
-
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Yunnan, China. Emsian, Early Devonian.
-
-> Source reference: Wang, 1992.
+> - Yunnan, China
+> - [Wang, 1992](https://www.vertpala.ac.cn/EN/abstract/abstract544.shtml)
 
 *Yinosteus marjor* Wang and Wang, 1984
-> [geological range], XXX (maximum age), YYY (minimum age)
+> Emsian, Early Devonian, 407.6, 393.3
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Yunnan, China. Emsian, Early Devonian.
+> - Yunnan, China
+> - [Zhu 2016](https://academic.oup.com/zoolinnean/article/176/4/806/2449910); Wang and Wang, 1984.
 
-> Source reference: Zhu 2016; Wang and Wang, 1984.
 
-*Yujiangolepis liujingensis* Wang et al., 1998
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Yujiangolepis liujingensis*](https://deepbone.cn/public/#/explor?s_id=2722&functionId=Deepbone_header_searchResultOpen) Wang et al., 1998
+> Pragian, Early Devonian, 410.8 , 407.6
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Nakaoling (Nagaoling) Formation, Guangxi, China. Pragian, Early Devonian.
+> - Nakaoling (Nagaoling) Formation, Guangxi, China.
+> - [Dupret 2009](https://onlinelibrary.wiley.com/doi/10.1111/j.1096-3642.2009.00519.x), [Wang 1998](https://www.vertpala.ac.cn/EN/abstract/abstract724.shtml)
 
-> Source reference: Dupret 2009, Wang 1998.
 
 
 **References**
