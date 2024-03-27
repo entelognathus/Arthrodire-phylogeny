@@ -50,13 +50,13 @@ New taxa and references added along with the research.
 [*Anarthraspis chamberlini*](https://deepbone.cn/public/#/explor?s_id=2497&functionId=Deepbone_header_searchResultOpen)(Bryant, 1934)
 > Pragian, 410.8, 407.6
 
-> -[the Beartooth Butte Formation at Beartooth Butte, Wyoming]
+> -the Beartooth Butte Formation at Beartooth Butte, Wyoming
 > -[Bryant,1934](http://www.jstor.org/stable/984757)
 
 [*Anarthraspis montana*](https://deepbone.cn/public/#/explor?s_id=2498&functionId=Deepbone_header_searchResultOpen)(Bryant, 1934)
 > Pragian, 410.8, 407.6
 
-> -[the Beartooth Butte Formation at Beartooth Butte, Wyoming]
+> -the Beartooth Butte Formation at Beartooth Butte, Wyoming
 > -[Bryant,1934](http://www.jstor.org/stable/984757)
 
 [*Antarctaspis mcmurdoensis*](https://deepbone.cn/public/#/explor?s_id=2169&functionId=Deepbone_header_searchResultOpen) (White, 1968)
@@ -77,9 +77,11 @@ New taxa and references added along with the research.
 > - Morocco. 
 > - Lelièvre, 1984; [Lelièvre, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173046).
 
-[*Arctaspis hoegi*]
+[*Arctaspis hoegi*](https://deepbone.org/public/#/explor?s_id=2540&functionId=Deepbone_header_searchResultOpen) Heintz, 1934
+> Emsian, 407.6, 393.3
 
-
+> - Dickson Bay and Wijde Bay, Spitsbergen
+> - [Heintz, 1934](https://brage.npolar.no/npolar-xmlui/bitstream/handle/11250/173607/Skrifter022.pdf?sequence=1&isAllowed=y)
 
 [*Arctolepis decipiens*](https://deepbone.cn/public/#/explor?s_id=2543&functionId=Deepbone_header_searchResultOpen) （Woodward,1891）
 > Early Emsian,  407.6, 393.3
@@ -90,7 +92,7 @@ New taxa and references added along with the research.
 [*Arctolepis solnoerdali*](https://deepbone.cn/public/#/explor?s_id=2548&functionId=Deepbone_header_searchResultOpen)（Heintz, 1929）
 > Emsian, 407.6, 393.3
 
-> [Wijde Bay, Spitsbergen]
+> Wijde Bay, Spitsbergen
 > [Denison,1958]
 
 [*Arenipiscis westolli*](https://deepbone.cn/public/#/explor?s_id=164607&functionId=Deepbone_header_searchResultOpen) （Young, 1981）
