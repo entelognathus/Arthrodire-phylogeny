@@ -366,18 +366,19 @@ New taxa and references added along with the research.
 > - [Miles, 1971](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1971.0111)； [Trinajstic, 1999](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1999n1a4.pdf).
 > - Trinajstic (1999) reported the isolated scales from the late Givetian to early Frasnian Gneudna Formation.
 
-[*Homostius sulcatus*](https://deepbone.cn/public/#/explor?s_id=2403&functionId=Deepbone_header_searchResultOpen) Kutorga, 1837
-> Eifelian, Middle Devonian, 393.3, 387
+
+[*Homostius sulcatus* ](https://deepbone.cn/public/#/explor?s_id=2403&functionId=Deepbone_header_searchResultOpen)Kutorga, 1837
+> Eifelian, Middle Devonian, 393.3, 387.7 
 
 > - Aruküla beds, Estonia.
-> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Heintz, 1934, 1968.
+> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); [Heintz, 1934](https://www.digar.ee/arhiiv/en/raamatud/230250); Heintz,1968.
 
-[*Homostius milleri*](https://deepbone.cn/public/#/explor?s_id=2621&functionId=Deepbone_header_searchResultOpen) Traquair
+[*Homostius milleri*](https://deepbone.cn/public/#/explor?s_id=2621&functionId=Deepbone_header_searchResultOpen) Traquair, 1889
 > upper Eifelian to lower Givetian, 389.6, 386.0
 
 > - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 > - also in Rousay Formation, Scotland.
-> - [references]
+> - [Heintz, 1934](https://www.digar.ee/arhiiv/en/raamatud/230250); Mark-Kurik, 1993; Miller, 1849
 
 
 [*Incisoscutum ritchiei*](https://deepbone.org/public/#/explor?s_id=2232andfunctionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1981
