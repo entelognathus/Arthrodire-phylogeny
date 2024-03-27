@@ -96,7 +96,7 @@ New taxa and references added along with the research.
 [*Arenipiscis westolli*](https://deepbone.cn/public/#/explor?s_id=164607&functionId=Deepbone_header_searchResultOpen) （Young, 1981）
 > Emsian, 407.6, 393.3 
 
-> - Murrumbidgee Group, Goodradigbee, Australia. 
+> - Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales, Australia.
 > - [Young,1981](https://www.tandfonline.com/doi/abs/10.1080/03115518108566994).
 > - This OTU is not in the matrix.
 
@@ -142,7 +142,7 @@ New taxa and references added along with the research.
 [*Buchanosteus confertituberculatus*](https://deepbone.org/public/#/explor?s_id=2426andfunctionId=Deepbone_header_searchResultOpen) (Chapman, 1916)
 > Emsian, 407.6, 393.3
 
-> - Buchan, Victoria and New South Wales
+> - Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales; Buchan, Victoria, Australia. 
 > - [Burrow and Turner, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011097); [Long et al., 2014](https://www.publish.csiro.au/zo/zo13081)
 
 [*Buchanosteus guangxiensis*](https://deepbone.cn/public/#/explor?s_id=3231&functionId=Deepbone_header_searchResultOpen)(Wang, 2005)
@@ -196,7 +196,7 @@ New taxa and references added along with the research.
 [*Dhanguura johnstoni*](https://deepbone.cn/public/#/explor?s_id=2141&functionId=Deepbone_header_searchResultOpen) Young, 2004
 > Emsian, 407.6, 393.3
 
-> - New South Wales, Australia
+> - Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales, Australia.
 > - [Young, 2004](https://www.tandfonline.com/doi/abs/10.1671/1942-1).
 
 [*Diandongpetalichthys liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=3251andfunctionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
@@ -246,7 +246,7 @@ New taxa and references added along with the research.
 [*Elvaspis tuberculata*](https://deepbone.cn/public/#/explor?s_id=2421&functionId=Deepbone_header_searchResultOpen) Young 2009
 > Emsian, Early Devonian, 407.6, 393.3
 
-> - New South Wales, Australia. 
+> - Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales
 > - [Young, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00366.x).
 
 [*Erikaspis zychi*](https://deepbone.cn/public/#/explor?s_id=2127&functionId=Deepbone_header_searchResultOpen) Stensiö, 1945
@@ -300,7 +300,7 @@ New taxa and references added along with the research.
 [*Goodradigbeeon australianum*](https://deepbone.cn/public/#/explor?s_id=2428&functionId=Deepbone_header_searchResultOpen) White, 1978
 > Emsian, Early Devonian, 407.6, 393.3
 
-> - Murrumbidgee, Australia.
+> - Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales, Australia.
 > - [White, 1978](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/j.1096-3642.1978.tb00374.x).
 
 [*Gorgonichthys clarki*](https://deepbone.cn/public/#/explor?s_id=2271&functionId=Deepbone_header_searchResultOpen) Claypole, 1892
@@ -473,7 +473,7 @@ New taxa and references added along with the research.
 [*Parabuchanosteus murrumbidgeensis*](https://deepbone.org/public/#/explor?s_id=2430andfunctionId=Deepbone_header_searchResultOpen) (White, 1952)
 > Emsian, 407.6, 393.3
 
-> - Murrumbidgee Group; Burrinjuck Dam
+> - Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales, Australia.
 > - White and Toombs, 1972; [Young, 1979](https://academic.oup.com/zoolinnean/article-abstract/66/4/309/2664249)
 
 [*Phlyctaenius acadicus*](https://deepbone.cn/public/#/explor?s_id=2576&functionId=Deepbone_header_searchResultOpen) Whiteaves 1881
