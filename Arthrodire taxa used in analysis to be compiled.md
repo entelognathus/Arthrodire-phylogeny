@@ -474,118 +474,112 @@ New taxa and references added along with the research.
 [*Parabuchanosteus murrumbidgeensis*](https://deepbone.org/public/#/explor?s_id=2430andfunctionId=Deepbone_header_searchResultOpen) (White, 1952)
 > Pragian to Emsian, 410.8, 393.3
 > - Murrumbidgee Group; Burrinjuck Dam
-> - White and Toombs, 1972; Young, 1979
+> - White and Toombs, 1972; [Young, 1979](https://academic.oup.com/zoolinnean/article-abstract/66/4/309/2664249)
 
-*Phlyctaenius acadicus* Whiteaves 1881
-> Emsian or Eifelian, Devonian, XXX (maximum age), YYY (minimum age)
+[*Phlyctaenius acadicus*](https://deepbone.cn/public/#/explor?s_id=2576&functionId=Deepbone_header_searchResultOpen) Whiteaves 1881
+> Emsian or Eifelian, Devonian, 407.6, 387.7
 
 > - Campbellton, Canada
-> - Young 1983, Denison 1958.
+> - [Young, 1983](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9304082), Denison, 1958.
 
-*Placolepis budawangensis* Ritchie 1984
-> late Givetian, middle Devonian, XXX (maximum age), YYY (minimum age)
+[*Placolepis budawangensis*](https://deepbone.cn/public/#/explor?s_id=2471&functionId=Deepbone_header_searchResultOpen) Ritchie 1984
+> late Givetian, middle Devonian, 384.4, 382.7
 
 > - Yalwal, Australia.
-> - Ritchie 1984.
+> - Ritchie, 1984.
 
-*Plourdosteus canadensis* Woodward, 1892
-> Early Frasnian, Late Devonian, XXX (maximum age), YYY (minimum age)
+[*Plourdosteus canadensis*](https://deepbone.cn/public/#/explor?s_id=2659&functionId=Deepbone_header_searchResultOpen) Woodward, 1892
+> Early Frasnian, Late Devonian, 382.7, 379.2
 
 > - Quebec, Canada
-> - Carr and Hlavin, 2010; Miles, 1966b; Schultze and Cloutier, 1996; Vézina, 1988; 1990.
+> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Miles, 1966b; Schultze and Cloutier, 1996; [Vézina, 1990](https://cdnsciencepub.com/doi/abs/10.1139/e90-065).
 
-*Protitanichthys rockpotensis*
-> Early Givetian, Middle Devonian, XXX (maximum age), YYY (minimum age)
+[*Protitanichthys rockpotensis*](https://deepbone.cn/public/#/explor?s_id=2437&functionId=Deepbone_header_searchResultOpen) Case, 1931
+> Early Givetian, Middle Devonian, 387.7, 386.0
 
 > - Michigan, USA
-> - Carr and Hlavin, 2010; Case, 1931; Miles, 1966b.
+> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Case, 1931; Miles, 1966b.
 
-*Rhachiosteus pterygiatus* Gross, 1938
-> Late Givetian, Middle Devonian to Early Frasnian, Late Devonian, XXX (maximum age), YYY (minimum age)
+[*Rhachiosteus pterygiatus*](https://deepbone.cn/public/#/explor?s_id=169321&functionId=Deepbone_header_searchResultOpen) Gross, 1938
+> Late Givetian, Middle Devonian to Early Frasnian, Late Devonian, 384.4, 382.7
 
 > - Bergisch-Gladbach, Germany.
-> - Gross, 1938; Miles, 1966a.
+> - Gross, 1938; [Miles, 1966a](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/xvthe-placoderm-fish-rhachiosteus-pterygiatus-gross-and-its-relationships/018CEA078DEDCF04EF4BC8A8A9B6B59C).
 
-*Rhinosteus parvulus* Jaekel, 1911
+[*Rhinosteus parvulus*](https://deepbone.cn/public/#/explor?s_id=2258&functionId=Deepbone_header_searchResultOpen) Jaekel, 1911
 > upper Frasnian, 375.7, 372.2
 
 > - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
-> - Carr and Hlavin, 2010; Stensiö, 1963.
+> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/260808); Stensiö, 1963.
 
-*Rolfosteus canningensis* Dennis and Miles, 1979b
+[*Rolfosteus canningensis*](https://deepbone.cn/public/#/explor?s_id=2217&functionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1979b
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
-> - Dennis and Miles, 1979b; Trinajstic and Dennis-Bryan, 2009.
+> - [Dennis and Miles, 1979b](https://academic.oup.com/zoolinnean/article-abstract/67/4/297/2664293); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
-*Stenosteus angustopectus* Carr, 1996
+[*Stenosteus angustopectus*](https://deepbone.cn/public/#/explor?s_id=2457&functionId=Deepbone_header_searchResultOpen) Carr, 1996
 > upper Famennian, 363.3, 358.9
 
 > - Cleveland Shale Member, Ohio Shale Formation, Ohio, USA.
-> - Carr, 1996; Carr and Hlavin, 2010.
+> - Carr, 1996; [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/260808).
 
-*Szelepis yunnanensis* Liu,1981
-> Lochkovian, early Devonian., XXX (maximum age), YYY (minimum age)
+[*Szelepis yunnanensis*](https://deepbone.cn/public/#/explor?s_id=2121&functionId=Deepbone_header_searchResultOpen) Liu,1981
+> Lochkovian, early Devonian., 419.2, 410.8
 
 > - Xitun Formation, Qujing, Yunnan
-> - Liu,1981, Dupret,2017.
+> - Liu,1981, [Dupret, 2017](https://www.tandfonline.com/doi/abs/10.1080/02724634.2017.1312422).
 
-*Tapinosteus heintzi* Stensiö, 1963
+[*Tapinosteus heintzi*](https://deepbone.cn/public/#/explor?s_id=2186&functionId=Deepbone_header_searchResultOpen) Stensiö, 1963
 > upper Frasnian, 375.7, 372.2
 
 > - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - Stensiö, 1963.
 
-*Torosteus tuberculatus* Gardiner and Miles, 1990
+[*Torosteus tuberculatus*](https://deepbone.cn/public/#/explor?s_id=2192&functionId=Deepbone_header_searchResultOpen) Gardiner and Miles, 1990
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
-> - Gardiner and Miles, 1990.
+> - [Gardiner and Miles, 1990](https://academic.oup.com/zoolinnean/article-abstract/99/2/159/2645532).
 
-*Torosteus pulchellus* Gardiner and Miles, 1990
+[*Torosteus pulchellus*](https://deepbone.cn/public/#/explor?s_id=2193&functionId=Deepbone_header_searchResultOpen) Gardiner and Miles, 1990
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
-> - Gardiner and Miles, 1990.
+> - [Gardiner and Miles, 1990](https://academic.oup.com/zoolinnean/article-abstract/99/2/159/2645532).
 
-*Trematosteus fontanellus* Gross, 1932
+[*Trematosteus fontanellus*](https://deepbone.cn/public/#/explor?s_id=2241&functionId=Deepbone_header_searchResultOpen) Gross, 1932
 > upper Frasnian, 375.7, 372.2
 
 > - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - Gross, 1932; Stensiö, 1963.
 
-*Tubonasus lennardensis* Dennis and Miles, 1979b
+[*Tubonasus lennardensis*](https://deepbone.cn/public/#/explor?s_id=2219&functionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1979b
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
-> - Dennis and Miles, 1979b; Long, 1988b; Trinajstic and Dennis-Bryan, 2009.
+> - [Dennis and Miles, 1979b](https://academic.oup.com/zoolinnean/article-abstract/67/4/297/2664293); [Long, 1988b](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=6632199); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
-*Turrisaspis elektor* Daeschler, Frumes and Mullison, 2003
-> Famennian, Late Devonian, XXX (maximum age), YYY (minimum age)
+[*Turrisaspis elektor*](https://deepbone.cn/public/#/explor?s_id=2264&functionId=Deepbone_header_searchResultOpen) Daeschler, Frumes and Mullison, 2003
+> Famennian, Late Devonian,  372.2, 358.9
 
 > - Pennsylvania, USA
-> - Daeschler, Frumes and Mullison, 2003.
+> - [Daeschler, Frumes and Mullison, 2003](https://media.australian.museum/media/Uploads/Journals/17953/1374_complete.pdf).
 
-*Watsonosteus flfletti* Watson, 1932
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Watsonosteus fletti*](https://deepbone.cn/public/#/explor?s_id=2435&functionId=Deepbone_header_searchResultOpen) Watson, 1932
+> Late Givetian, Middle Devonian, 387.7, 382.7
 
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Orkney Isles, Scotland, UK. Late Givetian, Middle Devonian.
+> - Orkney Isles, Scotland, UK
+> - [Miles and Westoll, 1963](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/ixtwo-new-genera-of-coccosteid-arthrodira-from-the-middle-old-red-sandstone-of-scotland-and-their-stratigraphical-distribution/74D793E505A096117B0A4826FF342A4C).
 
-> Source reference: Miles and Westoll, 1963.
+[*Westralichthys uwagedensis*](https://deepbone.cn/public/#/explor?s_id=2452&functionId=Deepbone_header_searchResultOpen) Long, 1987
+> Middle Famennian, Late Devonian, 372.2, 363.3
 
-*Westralichthys uwagedensis* Long, 1987
-> [geological range], XXX (maximum age), YYY (minimum age)
-
-> - [horizon and locality]
-> - [references]
-> Locality and horizon: Western Australia, Australia. Middle Famennian, Late Devonian.
-
-> Source reference: Carr and Hlavin, 2010; Long, 1987.
+> - Virgin Hills Formation, Canning Basin, Australia.
+> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/260808); [Long, 1987](https://www.researchgate.net/profile/John-Long-17/publication/257939064_A_new_dinichthyid_fish_Placodermi_Arthrodira_from_the_Upper_Devonian_of_Western_Australia_with_a_discussion_of_dinichthyid_interrelationships/links/0c960528c4492a9c0d000000/A-new-dinichthyid-fish-Placodermi-Arthrodira-from-the-Upper-Devonian-of-Western-Australia-with-a-discussion-of-dinichthyid-interrelationships.pdf).
 
 [*Wuttagoonaspis fletcheri*](https://deepbone.cn/public/#/explor?s_id=3621&functionId=Deepbone_header_searchResultOpen) Ritchie 1973
-> Early Eifelian, Middle Devonian, XXX (maximum age), YYY (minimum age)
+> Early Eifelian, Middle Devonian, 393.3, 391.4
 
 > - Mulga Downs Group, New South Wales
 > - [Ritchie 1973](https://www.schweizerbart.de/papers/pala/detail/A143/70796/iWuttagoonaspis_i_gen_nov_an_unusual_arthrodire_from_the_Devonian_of_Western_New_South_Wales_Australia?l=FR); [Young and Goujet 2003](https://museum.wa.gov.au/research/records-supplements/records/devonian-fish-remains-dulcie-sandstone-and-cravens-peak-beds-ge)
@@ -602,7 +596,7 @@ New taxa and references added along with the research.
 > - Yunnan, China
 > - [Wang, 1992](https://www.vertpala.ac.cn/EN/abstract/abstract544.shtml)
 
-*Yinosteus marjor* Wang and Wang, 1984
+[*Yinosteus marjor*](https://deepbone.cn/public/#/explor?s_id=73591&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1984
 > Emsian, Early Devonian, 407.6, 393.3
 
 > - Yunnan, China
