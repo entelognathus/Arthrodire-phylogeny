@@ -50,13 +50,13 @@ New taxa and references added along with the research.
 [*Anarthraspis chamberlini*](https://deepbone.cn/public/#/explor?s_id=2497&functionId=Deepbone_header_searchResultOpen) （Bryant, 1934） 
 > Pragian, 410.8, 407.6
 
-> -[the Beartooth Butte Formation at Beartooth Butte, Wyoming]
+> -the Beartooth Butte Formation at Beartooth Butte, Wyoming
 > -[Bryant,1934](http://www.jstor.org/stable/984757)
 
 [*Anarthraspis montana*](https://deepbone.cn/public/#/explor?s_id=2498&functionId=Deepbone_header_searchResultOpen)(Bryant, 1934)
 > Pragian, 410.8, 407.6
 
-> -[the Beartooth Butte Formation at Beartooth Butte, Wyoming]
+> -the Beartooth Butte Formation at Beartooth Butte, Wyoming
 > -[Bryant,1934](http://www.jstor.org/stable/984757)
 
 [*Antarctaspis mcmurdoensis*](https://deepbone.cn/public/#/explor?s_id=2169&functionId=Deepbone_header_searchResultOpen) White, 1968
@@ -77,9 +77,11 @@ New taxa and references added along with the research.
 > - Morocco. 
 > - Lelièvre, 1984; [Lelièvre, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173046).
 
-[*Arctaspis hoegi*]
+[*Arctaspis hoegi*](https://deepbone.org/public/#/explor?s_id=2540&functionId=Deepbone_header_searchResultOpen) Heintz, 1934
+> Emsian, 407.6, 393.3
 
-
+> - Dickson Bay and Wijde Bay, Spitsbergen
+> - [Heintz, 1934](https://brage.npolar.no/npolar-xmlui/bitstream/handle/11250/173607/Skrifter022.pdf?sequence=1&isAllowed=y)
 
 [*Arctolepis decipiens*](https://deepbone.cn/public/#/explor?s_id=2543&functionId=Deepbone_header_searchResultOpen) （Woodward,1891）
 > Early Emsian,  407.6, 393.3
@@ -90,7 +92,7 @@ New taxa and references added along with the research.
 [*Arctolepis solnoerdali*](https://deepbone.cn/public/#/explor?s_id=2548&functionId=Deepbone_header_searchResultOpen)（Heintz, 1929）
 > Emsian, 407.6, 393.3
 
-> [Wijde Bay, Spitsbergen]
+> Wijde Bay, Spitsbergen
 > [Denison,1958]
 
 [*Arenipiscis westolli*](https://deepbone.cn/public/#/explor?s_id=164607&functionId=Deepbone_header_searchResultOpen) Young, 1981
@@ -113,18 +115,36 @@ New taxa and references added along with the research.
 > - [Miles, 1973](https://www.researchgate.net/publication/285456051_An_actinolepid_arthrodire_from_the_Lower_Devonian_Peel_Sound_Formation_Prince_of_Wales_Island)
 > - The Source reference in deepbone is questionable.
 
+[*Barrydalaspis*](Chaloner, 1980)
+
+> - [the Bokkeveld Group of South Africa]
+> - [Chaloner, 1980](https://www.biodiversitylibrary.org/part/75124)
+
+[*Barwickosteus antarcticus*](https://deepbone.org/public/#/explor?s_id=77199&functionId=Deepbone_header_searchResultOpen)
+> [Givetian],
+
+> - [the Aztec Siltstone of southern Victoria Land, Antarctica]
+> - [Young & Long, 2014](https://www.publish.csiro.au/zo/ZO13070)
+
 [*Bollandaspis woschmidti*](https://deepbone.cn/public/#/explor?s_id=2467&functionId=Deepbone_header_searchResultOpen) Schmidt, 1976
+
 > Early Emsian, 407.6, 393.3
 
 > - Belgium
 > - [Schmidt，1976](https://biblio.naturalsciences.be/rbins-publications/memoirs-of-the-geological-survey-of-belgium/bibliographic_references/schmidtrest1976)
 
+[*Boomeraspis goujeti*](https://deepbone.org/public/#/explor?s_id=2165&functionId=Deepbone_header_searchResultOpen)(Long, 1995)
+> Givetian,
+
+> - [the Aztec Siltstone of southern Victoria Land, Antarctica]
+> - [Long, 1995](https://museum.wa.gov.au/research/records-supplements/records/new-groenlandaspidid-arthrodire-pisces-placodermi-middle-devoni)
+
 [*Brachyosteus dietrichi*](https://deepbone.cn/public/#/explor?s_id=2247&functionId=Deepbone_header_searchResultOpen) Gross, 1932
+
 > upper Frasnian, 375.7, 372.2
 
 > - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - [Denison, 1978]().
-
 
  [*Bruntonichthys multidens*](https://deepbone.cn/public/#/explor?s_id=2221&functionId=Deepbone_header_searchResultOpen) Dennis & Miles, 1980
 > Early Frasnian, 382.7, 379.2
@@ -180,6 +200,12 @@ New taxa and references added along with the research.
 
 > - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
 > - [Gardiner and Miles, 1994](https://academic.oup.com/zoolinnean/article-abstract/112/4/443/2646294); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
+
+[*Cowralepis mclachlani*](https://deepbone.org/public/#/explor?s_id=2470&functionId=Deepbone_header_searchResultOpen) Ritchie, 2005
+> [Givetian],
+
+> - [the Merriganowry Shale Member, New South Wales, Australia]
+> - [Ritchie, 2005](https://www.biodiversitylibrary.org/part/183466)
 
 [*Dunkleosteus amblyodoratus*](https://deepbone.cn/public/#/explor?s_id=2454&functionId=Deepbone_header_searchResultOpen) Carr and Hlavin, 2010
 > Frasnian or Famennian, Late Devonian,  382.7, 358.9
@@ -237,6 +263,18 @@ New taxa and references added along with the research.
 > - The type species of *Eastmanosteus* Obruchev 1964 is *E. pustulosus* (Eastman) 1897. 
 > - [Dennis-Bryan, 1987](https://academic.oup.com/zoolinnean/article-abstract/90/1/1/2658205)
 
+[*Eastmanosteus pustulosus*](https://deepbone.org/public/#/explor?s_id=2448&functionId=Deepbone_header_searchResultOpen) Miller, 1980
+> [Givetian to Famennian],
+
+> - [horizon and locality]
+> - [Miller, 1980](https://www.nhbs.com/handbook-of-paleoichthyology-volume-2-placodermi-book)
+ 
+[*Edgellaspis gorteri*](https://deepbone.org/public/#/explor?s_id=165872&functionId=Deepbone_header_searchResultOpen) Hunt & Young, 2010
+> [late Emsiann to Eifelian],
+
+> - [the lower 40 m of the fine-grained upper formation of the Hatchery Creek Group, Wee Jasper, New South Wales]
+> - [Hunt & Young, 2010](https://www.tandfonline.com/doi/abs/10.1080/03115511003793645)
+
 [*Elvaspis tuberculata*](https://deepbone.cn/public/#/explor?s_id=2421&functionId=Deepbone_header_searchResultOpen) Young 2009
 > Emsian, Early Devonian, 407.6, 393.3
 
@@ -255,11 +293,17 @@ New taxa and references added along with the research.
 > - Peel Sound Formation; Prince of Wales Island, Arctic Canada.
 > - [Dineley and Liu 1984](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=8980227).
 
+[*Eukaia elongata*](https://deepbone.org/public/#/explor?s_id=3401&functionId=Deepbone_header_searchResultOpen) Mark-Kurik, 2013
+> [?Pragian],
+
+> - [the Kurejka Formation or the lower part of the Razvedochnyj Formation; the Turukhansk region, NW Siberian Platform]
+> - [Mark-Kurik, 2013](https://www.ingentaconnect.com/content/doaj/17364728/2013/00000062/00000003/art00002;jsessionid=2popedt2il7pe.x-ic-live-03)
+
 [*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257andfunctionId=Deepbone_header_searchResultOpen) Liu, 1991
 > Givetian, 387.7, 382.7
 
-> - Xichong Formation; Qujing, Yunnan, China.
-> - Liu, 1991
+> - Xichong Formation; Zhanyi & Qujing, Yunnan, China.
+> - [Liu, 1991](https://bionames.org/references/9f65a1579e030b0425866545640f7f27)
 
 [*Exutaspis megista*](https://deepbone.cn/public/#/explor?s_id=3286&functionId=Deepbone_header_searchResultOpen) Liu and Wang, 1981
 > Emsian, Early Devonian, 407.6, 393.3
@@ -303,6 +347,12 @@ New taxa and references added along with the research.
 > - Cleveland Shale Member, Ohio Shale Formation, Ohio, USA.
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); [Dunkle and Bungart, 1940](); Denison, 1978; Stensiö, 1963.
 
+[*Grifftaylor antarcticus*](https://deepbone.org/public/#/explor?s_id=77201&functionId=Deepbone_header_searchResultOpen) Young & Long, 2014
+> [Givetian],
+
+> - [the Aztec Siltstone of southern Victoria Land, Antarctica]
+> - [Young & Long, 2014](https://www.publish.csiro.au/zo/ZO13070)
+
 [*Groenlandaspis antarcticus*](https://deepbone.org/public/#/explor?s_id=154139andfunctionId=Deepbone_header_searchResultOpen) Ritchie, 1975
 > Givetian, Middle Devonian, 387.7, 382.7
 
@@ -331,7 +381,7 @@ New taxa and references added along with the research.
 [*Heightingtonaspis anglica*](https://deepbone.cn/public/#/explor?s_id=2474&functionId=Deepbone_header_searchResultOpen) (Traquair 1890)
 > Lochkovian to Pragian, Early Devonian, 419.2, 407.6
 
-> - Eastern Avalonia
+> - [L.O.R.S. (crouchi Beds); Eastern Avalonia]
 > - [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short).
 
 [*Heintzichthys gouldii*](https://deepbone.cn/public/#/explor?s_id=2273&functionId=Deepbone_header_searchResultOpen) (Newberry, 1885)
@@ -404,8 +454,20 @@ New taxa and references added along with the research.
 > - Sichuan, China.
 > - Liu, 1955; [Zhu and Zhu, 2013](https://academic.oup.com/zoolinnean/article/169/4/798/3797003)
 
+[*Kueichowlepis sinensis*](https://deepbone.org/public/#/explor?s_id=3233&functionId=Deepbone_header_searchResultOpen) Pan, 1975
+> [early-middle Emsian],
+
+> - [Upper Wudang Formation, Lochkovian; Daping Mountain, Mailang Village, Wudang District, Kueiyang, Kueichow, China]
+> - [Pan, 1975]
+
+[*Kujdanowiaspis buczacziensis*](https://deepbone.org/public/#/explor?s_id=2123&functionId=Deepbone_header_searchResultOpen) Brotzen, 1934
+> [early Pragian],
+
+> - [Borshchov Formation; Buchach (Podolia, Ukraine)]
+> - [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short)
+
 [*Kujdanowiaspis podolica*](https://deepbone.org/public/#/explor?s_id=2124andfunctionId=Deepbone_header_searchResultOpen) Dupret, 2010
-> upper Lochkovian to lower Pragian, 415.0, 409.2
+> [late Lochkovian to early Pragian], 415.0, 409.2
 
 > - Dnister Series; Podolia, Ukraine
 > - [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short)
@@ -421,6 +483,12 @@ New taxa and references added along with the research.
 
 > - Spitsbergen
 > - Goujet 1984.
+
+[*Lunaspis broilii*](https://deepbone.org/public/#/explor?s_id=2134&functionId=Deepbone_header_searchResultOpen) Gross, 1937
+> [Pragian to early Emsian],
+
+> - [horizon and locality]
+> - [Gross, 1961]
 
 [*Maideria falipoui*](https://deepbone.cn/public/#/explor?s_id=164704&functionId=Deepbone_header_searchResultOpen) Lelièvre 1995
 > Givetian, Middle Devonian, 387.7, 382.7
