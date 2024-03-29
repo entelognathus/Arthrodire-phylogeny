@@ -14,11 +14,11 @@ New taxa and references added along with the research.
 [*Actinolepis magna*](https://deepbone.org/public/#/explor?s_id=2464andfunctionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1973
 > lower Givetian, 387.7, 386.0
 
-> - Burtnieki Bed, Estonia, Latvia. 
+> - Burtnieki Bed; Estonia, Latvia. 
 > - Mark-Kurik, 1973.
 
 [*Actinolepis spinosa*](https://deepbone.cn/public/#/explor?s_id=2465&functionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1985
-> Pragian-Emsian,410.8, 393.3
+> Pragian-Emsian, 410.8, 393.3
 
 > - [Kemeri Regional Stage, Pragian-Emsian; Latvia, Ventspils boring D3, depth 237 m]
 > - [Mark-Kurik, 1985](https://www.jstor.org/stable/4523057)
@@ -27,43 +27,46 @@ New taxa and references added along with the research.
 > Eifelian, 393.3, 387.7
 
 > - Parnu Bed, Tori, Estonia; Nariva Bed, Slavjanka and Lemovzha, Estonia; Arukula Bed, Pskov district, Russia.
-> - Mark-Kurik 1973.
+> - Mark-Kurik, 1973.
 
 [*Aethaspis major*](https://deepbone.cn/public/#/explor?s_id=2492&functionId=Deepbone_header_searchResultOpen) Denison, 1958
 > Early Devonian
 
-> - Water Canyon Formation, Cache County, Utah, USA.
+> - Water Canyon Formation; Cache County, Utah, USA.
 > - Denison, 1958.
+> - **check which stage of the Devonian**
 
 [*Aethaspis utahensis*](https://deepbone.org/public/#/explor?s_id=2491andfunctionId=Deepbone_header_searchResultOpen) Denison, 1958
 > Early Devonian, XXX (maximum age), YYY (minimum age)
 
-> - Water Canyon Formation, Cache County, Utah, USA.
+> - Water Canyon Formation; Cache County, Utah, USA.
 > - Denison, 1958.
+> - **see comments above. papers of Elliott?**
 
 [*Aleosteus eganensis*](https://deepbone.org/public/#/explor?s_id=2487andfunctionId=Deepbone_header_searchResultOpen) Johnson et al, 2000
 > Late Emsian, 400.45, 393.3
  
 > - Sandy Member, Nevada,USA. 
 > - [Johnson 2000](https://academic.oup.com/zoolinnean/article/129/2/241/2682485).
+> - **what formation?**
 
 [*Anarthraspis chamberlini*](https://deepbone.cn/public/#/explor?s_id=2497&functionId=Deepbone_header_searchResultOpen) （Bryant, 1934） 
 > Pragian, 410.8, 407.6
 
-> -the Beartooth Butte Formation at Beartooth Butte, Wyoming
-> -[Bryant,1934](http://www.jstor.org/stable/984757)
+> - Beartooth Butte Formation; Beartooth Butte, Wyoming, USA.
+> - [Bryant,1934](http://www.jstor.org/stable/984757)
 
 [*Anarthraspis montana*](https://deepbone.cn/public/#/explor?s_id=2498&functionId=Deepbone_header_searchResultOpen)(Bryant, 1934)
 > Pragian, 410.8, 407.6
 
-> -the Beartooth Butte Formation at Beartooth Butte, Wyoming
-> -[Bryant,1934](http://www.jstor.org/stable/984757)
+> - Beartooth Butte Formation; Beartooth Butte, Wyoming, USA.
+> - [Bryant,1934](http://www.jstor.org/stable/984757)
 
 [*Antarctaspis mcmurdoensis*](https://deepbone.cn/public/#/explor?s_id=2169&functionId=Deepbone_header_searchResultOpen) White, 1968
 > Givetian, Middle Devonian, 387.7, 382.7
 
 > - Aztec siltstone, southern Victoria Land, Antarctica.
-> - White,1968.
+> - White, 1968.
 
 [*Antarctolepis gunni*](https://deepbone.cn/public/#/explor?s_id=2163&functionId=Deepbone_header_searchResultOpen) White, 1968
 > Givetian, Middle Devonian, 387.7, 382.7
@@ -82,18 +85,21 @@ New taxa and references added along with the research.
 
 > - Dickson Bay and Wijde Bay, Spitsbergen
 > - [Heintz, 1934](https://brage.npolar.no/npolar-xmlui/bitstream/handle/11250/173607/Skrifter022.pdf?sequence=1&isAllowed=y)
+> - **Check which member of Wood Bay Formation, see sites github, Sptisbergen = Svalbard**
 
 [*Arctolepis decipiens*](https://deepbone.cn/public/#/explor?s_id=2543&functionId=Deepbone_header_searchResultOpen) （Woodward,1891）
 > Early Emsian,  407.6, 393.3
 
 > - Svalbard Wood Bay Formation fauna, Spitsbergen.
 > - [Goujet, 1984](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9046910).
+> - **which member or faunal division of Svalbard Wood Bay Formation fauna**
 
 [*Arctolepis solnoerdali*](https://deepbone.cn/public/#/explor?s_id=2548&functionId=Deepbone_header_searchResultOpen)（Heintz, 1929）
 > Emsian, 407.6, 393.3
 
 > Wijde Bay, Spitsbergen
 > [Denison,1958]
+> **see commments above**
 
 [*Arenipiscis westolli*](https://deepbone.cn/public/#/explor?s_id=164607&functionId=Deepbone_header_searchResultOpen) Young, 1981
 > Emsian, 407.6, 393.3 
@@ -107,23 +113,24 @@ New taxa and references added along with the research.
 
 > - Avon River Group, Victoria. 
 > - [Long,1984](https://www.researchgate.net/publication/257938652_New_phyllolepids_from_Victoria_and_the_relationships_of_the_Group); [Young et al, 2005](https://www.cambridge.org/core/journals/antarctic-science/article/abs/phyllolepid-placoderm-fish-remains-from-the-devonian-aztec-siltstone-southern-victoria-land-antarctica/353199CDD4AE271D88CEA11578ADAB71);[Young, 2005](https://search.informit.org/doi/abs/10.3316/INFORMIT.866097176771156); [Long et al,2009](https://www.nature.com/articles/nature07732).
+> - **which MAV of Australia? see sites github.**
 
 [*Baringaspis dineleyi*](https://deepbone.cn/public/#/explor?s_id=2479&functionId=Deepbone_header_searchResultOpen) Miles, 1973
 > upper Lochkovian, 415.0, 410.8
 
 > - Peel Sound Formation, Wales Island. 
 > - [Miles, 1973](https://www.researchgate.net/publication/285456051_An_actinolepid_arthrodire_from_the_Lower_Devonian_Peel_Sound_Formation_Prince_of_Wales_Island)
-> - The Source reference in deepbone is questionable.
+> - **The Source reference in deepbone is questionable.**
 
 [*Barrydalaspis*](Chaloner, 1980)
 
-> - [the Bokkeveld Group of South Africa]
+> - Bokkeveld Group; South Africa.
 > - [Chaloner, 1980](https://www.biodiversitylibrary.org/part/75124)
 
 [*Barwickosteus antarcticus*](https://deepbone.org/public/#/explor?s_id=77199&functionId=Deepbone_header_searchResultOpen)
-> [Givetian],
+> Givetian, Middle Devonian, 387.7, 382.7
 
-> - [the Aztec Siltstone of southern Victoria Land, Antarctica]
+> - Aztec siltstone, southern Victoria Land, Antarctica.
 > - [Young & Long, 2014](https://www.publish.csiro.au/zo/ZO13070)
 
 [*Bollandaspis woschmidti*](https://deepbone.cn/public/#/explor?s_id=2467&functionId=Deepbone_header_searchResultOpen) Schmidt, 1976
@@ -134,9 +141,9 @@ New taxa and references added along with the research.
 > - [Schmidt，1976](https://biblio.naturalsciences.be/rbins-publications/memoirs-of-the-geological-survey-of-belgium/bibliographic_references/schmidtrest1976)
 
 [*Boomeraspis goujeti*](https://deepbone.org/public/#/explor?s_id=2165&functionId=Deepbone_header_searchResultOpen)(Long, 1995)
-> Givetian,
+> Givetian, Middle Devonian, 387.7, 382.7
 
-> - [the Aztec Siltstone of southern Victoria Land, Antarctica]
+> - Aztec siltstone, southern Victoria Land, Antarctica.
 > - [Long, 1995](https://museum.wa.gov.au/research/records-supplements/records/new-groenlandaspidid-arthrodire-pisces-placodermi-middle-devoni)
 
 [*Brachyosteus dietrichi*](https://deepbone.cn/public/#/explor?s_id=2247&functionId=Deepbone_header_searchResultOpen) Gross, 1932
@@ -206,6 +213,7 @@ New taxa and references added along with the research.
 
 > - [the Merriganowry Shale Member, New South Wales, Australia]
 > - [Ritchie, 2005](https://www.biodiversitylibrary.org/part/183466)
+> - **check which MAV of Australia**
 
 [*Dunkleosteus amblyodoratus*](https://deepbone.cn/public/#/explor?s_id=2454&functionId=Deepbone_header_searchResultOpen) Carr and Hlavin, 2010
 > Frasnian or Famennian, Late Devonian,  382.7, 358.9
@@ -348,9 +356,9 @@ New taxa and references added along with the research.
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); [Dunkle and Bungart, 1940](); Denison, 1978; Stensiö, 1963.
 
 [*Grifftaylor antarcticus*](https://deepbone.org/public/#/explor?s_id=77201&functionId=Deepbone_header_searchResultOpen) Young & Long, 2014
-> [Givetian],
+> Givetian, Middle Devonian, 387.7, 382.7
 
-> - [the Aztec Siltstone of southern Victoria Land, Antarctica]
+> - Aztec siltstone, southern Victoria Land, Antarctica.
 > - [Young & Long, 2014](https://www.publish.csiro.au/zo/ZO13070)
 
 [*Groenlandaspis antarcticus*](https://deepbone.org/public/#/explor?s_id=154139andfunctionId=Deepbone_header_searchResultOpen) Ritchie, 1975
@@ -395,6 +403,7 @@ New taxa and references added along with the research.
 
 > - Formation de Wood Bay, Dicksonfjorden-Austfjorden area, Spitsbergen
 > - Goujet 1984.
+> - **check sites github, which member?**
 
 [*Heterostius ingens*](https://deepbone.cn/public/#/explor?s_id=2455&functionId=Deepbone_header_searchResultOpen) Asmuss, 1856
 > upper Eifelian, 389.6, 387.7
@@ -422,7 +431,6 @@ New taxa and references added along with the research.
 > - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 > - also in Rousay Formation, Scotland.
 > - [Heintz, 1934](https://www.digar.ee/arhiiv/en/raamatud/230250); Mark-Kurik, 1993; Miller, 1849
-
 
 [*Incisoscutum ritchiei*](https://deepbone.org/public/#/explor?s_id=2232andfunctionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1981
 > lower Frasnian, 382.7, 379.2
@@ -483,12 +491,14 @@ New taxa and references added along with the research.
 
 > - Spitsbergen
 > - Goujet 1984.
+> - **check sites github**
 
 [*Lunaspis broilii*](https://deepbone.org/public/#/explor?s_id=2134&functionId=Deepbone_header_searchResultOpen) Gross, 1937
 > [Pragian to early Emsian],
 
 > - [horizon and locality]
 > - [Gross, 1961]
+> - **check sites github.**
 
 [*Maideria falipoui*](https://deepbone.cn/public/#/explor?s_id=164704&functionId=Deepbone_header_searchResultOpen) Lelièvre 1995
 > Givetian, Middle Devonian, 387.7, 382.7
