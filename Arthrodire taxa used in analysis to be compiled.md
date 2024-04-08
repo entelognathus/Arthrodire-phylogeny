@@ -162,7 +162,7 @@ New taxa and references added along with the research.
 [*Bryantolepis brachycephala*](https://deepbone.cn/public/#/explor?s_id=2500&functionId=Deepbone_header_searchResultOpen)（Bryant,1932）
 > Pragian, 410.8, 407.6
 
-> - Wyoming,USA
+> - Beartooth Butte Formation; Wyoming,USA
 > - [Bryant, 1932](https://www.jstor.org/stable/984700); Denison, 1962
 
 
@@ -218,13 +218,13 @@ New taxa and references added along with the research.
 [*Dunkleosteus amblyodoratus*](https://deepbone.cn/public/#/explor?s_id=2454&functionId=Deepbone_header_searchResultOpen) Carr and Hlavin, 2010
 > Frasnian or Famennian, Late Devonian,  382.7, 358.9
 
-> - Ontario, Canada
+> - Kettle Point Formation, Ontario, Canada
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
 
 [*Dunkleosteus raveri*](https://deepbone.cn/public/#/explor?s_id=2453&functionId=Deepbone_header_searchResultOpen) Carr and Hlavin, 2010
 > Early Famennian, Late Devonian, 372.2, 367.7
 
-> - Erie County, Ohio, USA.
+> - Shale Formation, Erie County, Ohio, USA.
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
 
 [*Dhanguura johnstoni*](https://deepbone.cn/public/#/explor?s_id=2141&functionId=Deepbone_header_searchResultOpen) Young, 2004
