@@ -95,9 +95,9 @@ New taxa and references added along with the research.
 [*Arctolepis solnoerdali*](https://deepbone.cn/public/#/explor?s_id=2548&functionId=Deepbone_header_searchResultOpen)（Heintz, 1929）
 > Emsian, 407.6, 393.3
 
-> Wijde Bay, Spitsbergen
-> [Denison,1958]
-> **see commments above**
+> - Wijde Bay, Spitsbergen
+> - [Denison,1958]
+> - **see commments above**
 
 [*Arenipiscis westolli*](https://deepbone.cn/public/#/explor?s_id=164607&functionId=Deepbone_header_searchResultOpen) Young, 1981
 > Emsian, 407.6, 393.3 
@@ -107,11 +107,10 @@ New taxa and references added along with the research.
 > - This OTU is not in the matrix.
 
 [*Austrophyllolepis sp.*](https://deepbone.cn/public/#/explor?s_id=2160&functionId=Deepbone_header_searchResultOpen) long, 1984
-> late Givetian, Frasnian  384.4, 372.2 
+> upper Givetian, 384.37, 382.7
 
-> - Avon River Group, Victoria. 
+> - Avon River Group, Victoria, Australia. MAV8
 > - [Long,1984](https://www.researchgate.net/publication/257938652_New_phyllolepids_from_Victoria_and_the_relationships_of_the_Group); [Young et al, 2005](https://www.cambridge.org/core/journals/antarctic-science/article/abs/phyllolepid-placoderm-fish-remains-from-the-devonian-aztec-siltstone-southern-victoria-land-antarctica/353199CDD4AE271D88CEA11578ADAB71);[Young, 2005](https://search.informit.org/doi/abs/10.3316/INFORMIT.866097176771156); [Long et al,2009](https://www.nature.com/articles/nature07732).
-> - **which MAV of Australia? see sites github.**
 
 [*Baringaspis dineleyi*](https://deepbone.cn/public/#/explor?s_id=2479&functionId=Deepbone_header_searchResultOpen) Miles, 1973
 > upper Lochkovian, 415.0, 410.8
@@ -120,13 +119,14 @@ New taxa and references added along with the research.
 > - [Miles, 1973](https://www.researchgate.net/publication/285456051_An_actinolepid_arthrodire_from_the_Lower_Devonian_Peel_Sound_Formation_Prince_of_Wales_Island)
 > - **The Source reference in deepbone is questionable.**
 
-[*Barrydalaspis*](Chaloner, 1980)
+[*Barrydalaspis*] (Chaloner et al. 1980)
+> Emnsian to Eifelian, 
 
-> - Bokkeveld Group; South Africa.
-> - [Chaloner, 1980](https://www.biodiversitylibrary.org/part/75124)
+> - Lower Bokkeveld Group or Ceres Subgroup; South Africa.
+> - [Chaloner et al., 1980](https://www.biodiversitylibrary.org/part/75124); Anderson, 1999
 
 [*Barwickosteus antarcticus*](https://deepbone.org/public/#/explor?s_id=77199&functionId=Deepbone_header_searchResultOpen)
-> Givetian, Middle Devonian, 387.7, 382.7
+> Givetian, 387.7, 382.7
 
 > - Aztec siltstone, southern Victoria Land, Antarctica.
 > - [Young & Long, 2014](https://www.publish.csiro.au/zo/ZO13070)
