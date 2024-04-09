@@ -30,25 +30,23 @@ New taxa and references added along with the research.
 > - Mark-Kurik, 1973.
 
 [*Aethaspis major*](https://deepbone.cn/public/#/explor?s_id=2492&functionId=Deepbone_header_searchResultOpen) Denison, 1958
-> Early Devonian
+> Emsian, 407.6, 393.3
 
 > - Water Canyon Formation; Cache County, Utah, USA.
 > - Denison, 1958.
-> - **check which stage of the Devonian**
 
 [*Aethaspis utahensis*](https://deepbone.org/public/#/explor?s_id=2491andfunctionId=Deepbone_header_searchResultOpen) Denison, 1958
-> Early Devonian, XXX (maximum age), YYY (minimum age)
+> Emsian, 407.6, 393.3
 
 > - Water Canyon Formation; Cache County, Utah, USA.
 > - Denison, 1958.
-> - **see comments above. papers of Elliott?**
 
 [*Aleosteus eganensis*](https://deepbone.org/public/#/explor?s_id=2487andfunctionId=Deepbone_header_searchResultOpen) Johnson et al, 2000
-> Late Emsian, 400.45, 393.3
+> upper Emsian, 400.45, 393.3
  
-> - Sandy Member, Nevada,USA. 
-> - [Johnson 2000](https://academic.oup.com/zoolinnean/article/129/2/241/2682485).
-> - **what formation?**
+> - Sandy Member of Sevy Dolomite, Nevada, USA. 
+> - [Johnson *et al*., 2000](https://academic.oup.com/zoolinnean/article/129/2/241/2682485).
+> - For the late Emsian age, see Johnson et al. (2000). 
 
 [*Anarthraspis chamberlini*](https://deepbone.cn/public/#/explor?s_id=2497&functionId=Deepbone_header_searchResultOpen) （Bryant, 1934） 
 > Pragian, 410.8, 407.6
