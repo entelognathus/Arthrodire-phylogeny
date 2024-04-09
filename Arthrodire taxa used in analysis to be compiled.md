@@ -539,7 +539,7 @@ New taxa and references added along with the research.
 [*Panxiosteus oculus*](https://deepbone.cn/public/#/explor?s_id=2439&functionId=Deepbone_header_searchResultOpen) Wang, 1979
 > Givetian, Middle Devonian, 387.7, 382.7
 
-> - Yunnan, China
+> - Yidade Formation，Yunnan, China
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Wang, 1979.
 
 [*Parabuchanosteus murrumbidgeensis*](https://deepbone.org/public/#/explor?s_id=2430andfunctionId=Deepbone_header_searchResultOpen) (White, 1952)
@@ -551,7 +551,7 @@ New taxa and references added along with the research.
 [*Phlyctaenius acadicus*](https://deepbone.cn/public/#/explor?s_id=2576&functionId=Deepbone_header_searchResultOpen) Whiteaves 1881
 > Emsian or Eifelian, Devonian, 407.6, 387.7
 
-> - Campbellton, Canada
+> - Gaspe Sandstone Series; Campbellton, Canada
 > - [Young, 1983](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9304082), Denison, 1958.
 
 [*Placolepis budawangensis*](https://deepbone.cn/public/#/explor?s_id=2471&functionId=Deepbone_header_searchResultOpen) Ritchie 1984
