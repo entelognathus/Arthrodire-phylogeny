@@ -18,9 +18,9 @@ New taxa and references added along with the research.
 > - Mark-Kurik, 1973.
 
 [*Actinolepis spinosa*](https://deepbone.cn/public/#/explor?s_id=2465&functionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1985
-> Pragian-Emsian, 410.8, 393.3
+> Pragian to lower Emsian, 410.8, 400.45
 
-> - [Kemeri Regional Stage, Pragian-Emsian; Latvia, Ventspils boring D3, depth 237 m]
+> - Kemeri Regional Stage; Ventspils, Latvia.
 > - [Mark-Kurik, 1985](https://www.jstor.org/stable/4523057)
 
 [*Actinolepis tuberculate*](https://deepbone.org/public/#/explor?s_id=2463andfunctionId=Deepbone_header_searchResultOpen) Agassiz, 1844
