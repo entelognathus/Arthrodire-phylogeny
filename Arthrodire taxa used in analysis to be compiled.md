@@ -61,13 +61,13 @@ New taxa and references added along with the research.
 > - [Bryant,1934](http://www.jstor.org/stable/984757)
 
 [*Antarctaspis mcmurdoensis*](https://deepbone.cn/public/#/explor?s_id=2169&functionId=Deepbone_header_searchResultOpen) White, 1968
-> Givetian, Middle Devonian, 387.7, 382.7
+> Givetian, 387.7, 382.7
 
 > - Aztec siltstone, southern Victoria Land, Antarctica.
 > - White, 1968.
 
 [*Antarctolepis gunni*](https://deepbone.cn/public/#/explor?s_id=2163&functionId=Deepbone_header_searchResultOpen) White, 1968
-> Givetian, Middle Devonian, 387.7, 382.7
+> Givetian, 387.7, 382.7
 
 > - Aztec siltstone, southern Victoria Land, Antarctica.
 > - [White,1968]
@@ -106,11 +106,12 @@ New taxa and references added along with the research.
 > - [Young,1981](https://www.tandfonline.com/doi/abs/10.1080/03115518108566994).
 > - This OTU is not in the matrix.
 
-[*Austrophyllolepis sp.*](https://deepbone.cn/public/#/explor?s_id=2160&functionId=Deepbone_header_searchResultOpen) long, 1984
+[*Austrophyllolepis* spp.](https://deepbone.cn/public/#/explor?s_id=2160&functionId=Deepbone_header_searchResultOpen)
 > upper Givetian, 384.37, 382.7
 
 > - Avon River Group, Victoria, Australia. MAV8
-> - [Long,1984](https://www.researchgate.net/publication/257938652_New_phyllolepids_from_Victoria_and_the_relationships_of_the_Group); [Young et al, 2005](https://www.cambridge.org/core/journals/antarctic-science/article/abs/phyllolepid-placoderm-fish-remains-from-the-devonian-aztec-siltstone-southern-victoria-land-antarctica/353199CDD4AE271D88CEA11578ADAB71);[Young, 2005](https://search.informit.org/doi/abs/10.3316/INFORMIT.866097176771156); [Long et al,2009](https://www.nature.com/articles/nature07732).
+> - [Long,1984](https://www.researchgate.net/publication/257938652_New_phyllolepids_from_Victoria_and_the_relationships_of_the_Group); [Young et al, 2005](https://www.cambridge.org/core/journals/antarctic-science/article/abs/phyllolepid-placoderm-fish-remains-from-the-devonian-aztec-siltstone-southern-victoria-land-antarctica/353199CDD4AE271D88CEA11578ADAB71); [Young, 2005](https://search.informit.org/doi/abs/10.3316/INFORMIT.866097176771156); [Long et al,2009](https://www.nature.com/articles/nature07732).
+> - **There are four species of the genus.**
 
 [*Baringaspis dineleyi*](https://deepbone.cn/public/#/explor?s_id=2479&functionId=Deepbone_header_searchResultOpen) Miles, 1973
 > upper Lochkovian, 415.0, 410.8
@@ -119,8 +120,8 @@ New taxa and references added along with the research.
 > - [Miles, 1973](https://www.researchgate.net/publication/285456051_An_actinolepid_arthrodire_from_the_Lower_Devonian_Peel_Sound_Formation_Prince_of_Wales_Island)
 > - **The Source reference in deepbone is questionable.**
 
-[*Barrydalaspis*] (Chaloner et al. 1980)
-> Emnsian to Eifelian, 
+[*Barrydalaspis theroni*] Chaloner *et al*. 1980
+> Emsian to Eifelian, 407.6, 387.7
 
 > - Lower Bokkeveld Group or Ceres Subgroup; South Africa.
 > - [Chaloner et al., 1980](https://www.biodiversitylibrary.org/part/75124); Anderson, 1999
@@ -128,31 +129,30 @@ New taxa and references added along with the research.
 [*Barwickosteus antarcticus*](https://deepbone.org/public/#/explor?s_id=77199&functionId=Deepbone_header_searchResultOpen)
 > Givetian, 387.7, 382.7
 
-> - Aztec siltstone, southern Victoria Land, Antarctica.
+> - Aztec Siltstone, southern Victoria Land, Antarctica.
 > - [Young & Long, 2014](https://www.publish.csiro.au/zo/ZO13070)
 
 [*Bollandaspis woschmidti*](https://deepbone.cn/public/#/explor?s_id=2467&functionId=Deepbone_header_searchResultOpen) Schmidt, 1976
 
-> Early Emsian, 407.6, 393.3
+> lower Emsian, 407.6, 393.3
 
-> - Belgium
+> - Bolland, Belgium.
 > - [Schmidt，1976](https://biblio.naturalsciences.be/rbins-publications/memoirs-of-the-geological-survey-of-belgium/bibliographic_references/schmidtrest1976)
 
 [*Boomeraspis goujeti*](https://deepbone.org/public/#/explor?s_id=2165&functionId=Deepbone_header_searchResultOpen)(Long, 1995)
-> Givetian, Middle Devonian, 387.7, 382.7
+> Givetian, 387.7, 382.7
 
 > - Aztec siltstone, southern Victoria Land, Antarctica.
 > - [Long, 1995](https://museum.wa.gov.au/research/records-supplements/records/new-groenlandaspidid-arthrodire-pisces-placodermi-middle-devoni)
 
 [*Brachyosteus dietrichi*](https://deepbone.cn/public/#/explor?s_id=2247&functionId=Deepbone_header_searchResultOpen) Gross, 1932
-
 > upper Frasnian, 375.7, 372.2
 
 > - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - [Denison, 1978]().
 
  [*Bruntonichthys multidens*](https://deepbone.cn/public/#/explor?s_id=2221&functionId=Deepbone_header_searchResultOpen) Dennis & Miles, 1980
-> Early Frasnian, 382.7, 379.2
+> lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
 > - [Dennis & Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
@@ -160,9 +160,8 @@ New taxa and references added along with the research.
 [*Bryantolepis brachycephala*](https://deepbone.cn/public/#/explor?s_id=2500&functionId=Deepbone_header_searchResultOpen)（Bryant,1932）
 > Pragian, 410.8, 407.6
 
-> - Beartooth Butte Formation; Wyoming,USA
+> - Beartooth Butte Formation; Wyoming, USA
 > - [Bryant, 1932](https://www.jstor.org/stable/984700); Denison, 1962
-
 
 [*Buchanosteus confertituberculatus*](https://deepbone.org/public/#/explor?s_id=2426andfunctionId=Deepbone_header_searchResultOpen) (Chapman, 1916)
 > Emsian, 407.6, 393.3
