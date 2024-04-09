@@ -272,9 +272,9 @@ New taxa and references added along with the research.
 > - [Dennis-Bryan, 1987](https://academic.oup.com/zoolinnean/article-abstract/90/1/1/2658205)
 
 [*Eastmanosteus pustulosus*](https://deepbone.org/public/#/explor?s_id=2448&functionId=Deepbone_header_searchResultOpen) Miller, 1980
-> [Givetian to Famennian],
+> Givetian to Famennian, 387.8, 358.9
 
-> - [horizon and locality]
+> - Milwaukee Formation, Wisconsin,USA;  Cebar Valley limestone, Iowa and Illinois, USA; Mineola Limestone, Misspuri, USa.
 > - [Miller, 1980](https://www.nhbs.com/handbook-of-paleoichthyology-volume-2-placodermi-book)
  
 [*Edgellaspis gorteri*](https://deepbone.org/public/#/explor?s_id=165872&functionId=Deepbone_header_searchResultOpen) Hunt & Young, 2010
@@ -289,10 +289,10 @@ New taxa and references added along with the research.
 > - Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales
 > - [Young, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00366.x).
 
-[*Erikaspis zychi*](https://deepbone.cn/public/#/explor?s_id=2127&functionId=Deepbone_header_searchResultOpen) Stensiö, 1945
+[*Erikaspis zychi*](https://deepbone.cn/public/#/explor?s_id=2127&functionId=Deepbone_header_searchResultOpen) (Stensiö, 1945)
 > Lochkovian, Lower Devonian, 419.2, 410.8
 
-> - Podolia.
+> -  Ivanye, Ustechko, and Khmeleva Formation, Podolia.
 > - [Dupret, 2007](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2007)27%5B266:ANGOPA%5D2.0.CO;2).
 
 [*Eskimaspis heintzi*](https://deepbone.cn/public/#/explor?s_id=154182&functionId=Deepbone_header_searchResultOpen) Dineley and Liu 1984
@@ -302,7 +302,7 @@ New taxa and references added along with the research.
 > - [Dineley and Liu 1984](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=8980227).
 
 [*Eukaia elongata*](https://deepbone.org/public/#/explor?s_id=3401&functionId=Deepbone_header_searchResultOpen) Mark-Kurik, 2013
-> [?Pragian],
+> [?Pragian],410.8, 407.6
 
 > - [the Kurejka Formation or the lower part of the Razvedochnyj Formation; the Turukhansk region, NW Siberian Platform]
 > - [Mark-Kurik, 2013](https://www.ingentaconnect.com/content/doaj/17364728/2013/00000062/00000003/art00002;jsessionid=2popedt2il7pe.x-ic-live-03)
@@ -316,7 +316,7 @@ New taxa and references added along with the research.
 [*Exutaspis megista*](https://deepbone.cn/public/#/explor?s_id=3286&functionId=Deepbone_header_searchResultOpen) Liu and Wang, 1981
 > Emsian, Early Devonian, 407.6, 393.3
 
-> - Yunnan, China
+> - Jiucheng FormationYunnan, China
 > - Liu and Wang, 1981.
 
 [*Fallocosteus turneri*](https://deepbone.cn/public/#/explor?s_id=172089&functionId=Deepbone_header_searchResultOpen) Long, 1990
@@ -334,14 +334,14 @@ New taxa and references added along with the research.
 [*Gemuendenaspis angusta*](https://deepbone.cn/public/#/explor?s_id=2431&functionId=Deepbone_header_searchResultOpen) Traquair, 1903
 > upper Pragian to lower Emsian, 409.2, 400.45
 
-> - Hunsrückschiefer; Rheinland, Germany.
+> - Hunsrückschiefer (Hunsrück Slate); Rheinland, Germany
 > - [Miles, 1962](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/iiigemuendenaspis-ngen-an-arthrodiran-fish-from-the-lower-devonian-hunsruckschiefer-of-germany/F800022C1E162184463F969DDEE6B313).
 
 [*Golshanichthys asiatica*](https://deepbone.cn/public/#/explor?s_id=2450&functionId=Deepbone_header_searchResultOpen) Lelièvre, Janvier and Goujet, 1981
 > Early Frasnian, Late Devonian, 382.7, 379.2
 
 > - Kerman, Iran.
-> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); [Lelièvre, Janvier and Goujet, 1981](https://www.sciencedirect.com/science/article/abs/pii/S0016699581801489).
+> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); [Lelièvre, Janvier and Goujet, 1981](https://www.sciencedirect.com/science/article/abs/pii/S0016699581801489)（）.
 
 [*Goodradigbeeon australianum*](https://deepbone.cn/public/#/explor?s_id=2428&functionId=Deepbone_header_searchResultOpen) White, 1978
 > Emsian, Early Devonian, 407.6, 393.3
@@ -356,7 +356,7 @@ New taxa and references added along with the research.
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); [Dunkle and Bungart, 1940](); Denison, 1978; Stensiö, 1963.
 
 [*Grifftaylor antarcticus*](https://deepbone.org/public/#/explor?s_id=77201&functionId=Deepbone_header_searchResultOpen) Young & Long, 2014
-> Givetian, Middle Devonian, 387.7, 382.7
+> Givetian,  387.7, 382.7
 
 > - Aztec siltstone, southern Victoria Land, Antarctica.
 > - [Young & Long, 2014](https://www.publish.csiro.au/zo/ZO13070)
