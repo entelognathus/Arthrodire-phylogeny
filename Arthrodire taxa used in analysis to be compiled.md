@@ -1,15 +1,27 @@
 **List of arthrodire and petalichthyid taxa, geological range, and references**
 
-**命名人加括号或不加括号，含义是不一样的**
-
-New taxa and references added along with the research.
-
 [Taxon name with Deepbone link] Author(s), Date
 > [geological range], XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
 > - [references]
 > - **any comments on this species added here**
+
+**Petalichthyid taxa**
+
+[*Diandongpetalichthys liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=3251andfunctionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
+> lower Lochkovian, 419.2, 415.0
+
+> - Xishancun Formation, Qujing, Yunnan, China
+> - [Zhu, 1991]
+
+[*Lunaspis broilii*](https://deepbone.org/public/#/explor?s_id=2134&functionId=Deepbone_header_searchResultOpen) Gross, 1937
+> upper Pragian to lower Emsian, 409.2, 400.45
+
+> - Hunsrückschiefer (Hunsrück Slate); Rheinland, Germany.
+> - [Gross, 1961]
+
+**Arthrodire taxa**
 
 [*Actinolepis magna*](https://deepbone.org/public/#/explor?s_id=2464andfunctionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1973
 > lower Givetian, 387.7, 386.0
@@ -216,12 +228,6 @@ New taxa and references added along with the research.
 > - Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales, Australia.
 > - [Young, 2004](https://www.tandfonline.com/doi/abs/10.1671/1942-1).
 
-[*Diandongpetalichthys liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=3251andfunctionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
-> lower Lochkovian, 419.2, 415.0
-
-> - Xishancun Formation, Qujing, Yunnan, China
-> - [Zhu, 1991]
-
 [*Dickosteus threiplandi*](https://deepbone.cn/public/#/explor?s_id=2650&functionId=Deepbone_header_searchResultOpen) Miles and Westoll, 1963
 > lower Givetian, 387.7, 386.0
 
@@ -412,7 +418,6 @@ New taxa and references added along with the research.
 > - [Miles, 1971](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1971.0111)； [Trinajstic, 1999](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1999n1a4.pdf).
 > - Trinajstic (1999) reported the isolated scales from the late Givetian to early Frasnian Gneudna Formation.
 
-
 [*Homostius sulcatus* ](https://deepbone.cn/public/#/explor?s_id=2403&functionId=Deepbone_header_searchResultOpen)Kutorga, 1837
 > upper Eifelian, 389.6, 387.7 
 
@@ -483,16 +488,8 @@ New taxa and references added along with the research.
 [*Lehmanosteus hyperboreus*](https://deepbone.cn/public/#/explor?s_id=2489&functionId=Deepbone_header_searchResultOpen) Goujet 1984
 > Pragian, 410.8, 407.6
 
-> - Austfjord Member, Dicksonfjorden-Austfjorden area, Spitsbergen
-> - Goujet 1984.
-> - **check sites github**
-
-[*Lunaspis broilii*](https://deepbone.org/public/#/explor?s_id=2134&functionId=Deepbone_header_searchResultOpen) Gross, 1937
-> [Pragian to early Emsian],
-
-> - [horizon and locality]
-> - [Gross, 1961]
-> - **check sites github.**
+> - Austfjord Member, Dicksonfjorden-Austfjorden area, Svalbard (Spitsbergen).
+> - [Goujet, 1984].
 
 [*Maideria falipoui*](https://deepbone.cn/public/#/explor?s_id=164704&functionId=Deepbone_header_searchResultOpen) Lelièvre 1995
 > Givetian, 387.7, 382.7
@@ -676,7 +673,6 @@ New taxa and references added along with the research.
 
 > - Nakaoling (Nagaoling) Formation, Guangxi, China.
 > - [Dupret 2009](https://onlinelibrary.wiley.com/doi/10.1111/j.1096-3642.2009.00519.x), [Wang 1998](https://www.vertpala.ac.cn/EN/abstract/abstract724.shtml)
-
 
 
 **References**
