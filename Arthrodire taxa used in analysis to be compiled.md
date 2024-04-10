@@ -206,11 +206,10 @@ New taxa and references added along with the research.
 > - [Gardiner and Miles, 1994](https://academic.oup.com/zoolinnean/article-abstract/112/4/443/2646294); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Cowralepis mclachlani*](https://deepbone.org/public/#/explor?s_id=2470&functionId=Deepbone_header_searchResultOpen) Ritchie, 2005
-> [Givetian],
+> upper Givetian, 384.37, 382.7
 
-> - [the Merriganowry Shale Member, New South Wales, Australia]
+> - Merriganowry Shale Member, New South Wales, Australia.
 > - [Ritchie, 2005](https://www.biodiversitylibrary.org/part/183466)
-> - **check which MAV of Australia**
 
 [*Dunkleosteus amblyodoratus*](https://deepbone.cn/public/#/explor?s_id=2454&functionId=Deepbone_header_searchResultOpen) Carr and Hlavin, 2010
 > Frasnian or Famennian, Late Devonian,  382.7, 358.9
