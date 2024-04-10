@@ -14,8 +14,8 @@ New taxa and references added along with the research.
 [*Actinolepis magna*](https://deepbone.org/public/#/explor?s_id=2464andfunctionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1973
 > lower Givetian, 387.7, 386.0
 
-> - Burtnieki Bed; Estonia, Latvia. 
-> - Mark-Kurik, 1973.
+> - Burtnieki Bed; Estonia and Latvia. 
+> - [Mark-Kurik, 1973].
 
 [*Actinolepis spinosa*](https://deepbone.cn/public/#/explor?s_id=2465&functionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1985
 > Pragian to lower Emsian, 410.8, 400.45
