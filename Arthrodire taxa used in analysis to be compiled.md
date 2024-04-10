@@ -218,9 +218,9 @@ New taxa and references added along with the research.
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
 
 [*Dunkleosteus raveri*](https://deepbone.cn/public/#/explor?s_id=2453&functionId=Deepbone_header_searchResultOpen) Carr and Hlavin, 2010
-> upper Famennian, 363.3, 358.9
+> lower Famennian, 372.2, 363.3
 
-> - Ohio Shale Formation, Erie County, Ohio, USA.
+> -  Huron Shale Member, Ohio Shale Formation, Erie County, Ohio, USA.
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
 
 [*Dhanguura johnstoni*](https://deepbone.cn/public/#/explor?s_id=2141&functionId=Deepbone_header_searchResultOpen) Young, 2004
