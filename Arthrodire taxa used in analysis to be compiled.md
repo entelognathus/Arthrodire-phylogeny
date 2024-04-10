@@ -85,31 +85,28 @@
 > - [White,1968]
 
 [*Antineosteus lehmani*](https://deepbone.cn/public/#/explor?s_id=2405&functionId=Deepbone_header_searchResultOpen) Lelièvre, 1984
-> Late Emsian, 400.45, 393.3
+> upper Emsian, 400.45, 393.3
 
 > - Morocco. 
 > - Lelièvre, 1984; [Lelièvre, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173046).
 
 [*Arctaspis hoegi*](https://deepbone.org/public/#/explor?s_id=2540&functionId=Deepbone_header_searchResultOpen) Heintz, 1934
-> Emsian, 407.6, 393.3
+> lower Emsian,  407.6, 393.3
 
-> - Dickson Bay and Wijde Bay, Spitsbergen
+> - Dicksonfjorden Member of the Wood Bay Formation, Dickson Bay and Wijde Bay, Svalbard (Spitsbergen).
 > - [Heintz, 1934](https://brage.npolar.no/npolar-xmlui/bitstream/handle/11250/173607/Skrifter022.pdf?sequence=1&isAllowed=y)
-> - **Check which member of Wood Bay Formation, see sites github, Sptisbergen = Svalbard**
 
 [*Arctolepis decipiens*](https://deepbone.cn/public/#/explor?s_id=2543&functionId=Deepbone_header_searchResultOpen) （Woodward,1891）
-> Early Emsian,  407.6, 393.3
+> lower Emsian,  407.6, 393.3
 
-> - Svalbard Wood Bay Formation fauna, Spitsbergen.
+> - Dicksonfjorden Member of the Wood Bay Formation, Dickson Bay and Wijde Bay, Svalbard (Spitsbergen).
 > - [Goujet, 1984](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9046910).
-> - **which member or faunal division of Svalbard Wood Bay Formation fauna**
 
 [*Arctolepis solnoerdali*](https://deepbone.cn/public/#/explor?s_id=2548&functionId=Deepbone_header_searchResultOpen)（Heintz, 1929）
-> Emsian, 407.6, 393.3
+> lower Emsian,  407.6, 393.3
 
-> - Wijde Bay, Spitsbergen
+> - Dicksonfjorden Member of the Wood Bay Formation, Dickson Bay and Wijde Bay, Svalbard (Spitsbergen).
 > - [Denison,1958]
-> - **see commments above**
 
 [*Arenipiscis westolli*](https://deepbone.cn/public/#/explor?s_id=164607&functionId=Deepbone_header_searchResultOpen) Young, 1981
 > Emsian, 407.6, 393.3 
