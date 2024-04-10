@@ -272,7 +272,7 @@ New taxa and references added along with the research.
 > - [Miller, 1980](https://www.nhbs.com/handbook-of-paleoichthyology-volume-2-placodermi-book)
  
 [*Edgellaspis gorteri*](https://deepbone.org/public/#/explor?s_id=165872&functionId=Deepbone_header_searchResultOpen) Hunt & Young, 2010
-> [late Emsiann to Eifelian],
+> Eifelian, 393.3, 387.7
 
 > - Corradigbee Formation, Hatchery Creek Group, near Wee Jasper, New South Wales, Australia.
 > - [Hunt and Young, 2011](https://www.tandfonline.com/doi/abs/10.1080/03115511003793645)
