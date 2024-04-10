@@ -48,13 +48,13 @@ New taxa and references added along with the research.
 > - [Johnson *et al*., 2000](https://academic.oup.com/zoolinnean/article/129/2/241/2682485).
 > - For the late Emsian age, see Johnson et al. (2000). 
 
-[*Anarthraspis chamberlini*](https://deepbone.cn/public/#/explor?s_id=2497&functionId=Deepbone_header_searchResultOpen) （Bryant, 1934） 
+[*Anarthraspis chamberlini*](https://deepbone.cn/public/#/explor?s_id=2497&functionId=Deepbone_header_searchResultOpen) (Bryant, 1934)
 > Pragian, 410.8, 407.6
 
 > - Beartooth Butte Formation; Beartooth Butte, Wyoming, USA.
 > - [Bryant,1934](http://www.jstor.org/stable/984757)
 
-[*Anarthraspis montana*](https://deepbone.cn/public/#/explor?s_id=2498&functionId=Deepbone_header_searchResultOpen)(Bryant, 1934)
+[*Anarthraspis montana*](https://deepbone.cn/public/#/explor?s_id=2498&functionId=Deepbone_header_searchResultOpen) (Bryant, 1934)
 > Pragian, 410.8, 407.6
 
 > - Beartooth Butte Formation; Beartooth Butte, Wyoming, USA.
@@ -63,13 +63,13 @@ New taxa and references added along with the research.
 [*Antarctaspis mcmurdoensis*](https://deepbone.cn/public/#/explor?s_id=2169&functionId=Deepbone_header_searchResultOpen) White, 1968
 > Givetian, 387.7, 382.7
 
-> - Aztec siltstone, southern Victoria Land, Antarctica.
-> - White, 1968.
+> - Aztec Siltstone, southern Victoria Land, Antarctica.
+> - [White, 1968].
 
 [*Antarctolepis gunni*](https://deepbone.cn/public/#/explor?s_id=2163&functionId=Deepbone_header_searchResultOpen) White, 1968
 > Givetian, 387.7, 382.7
 
-> - Aztec siltstone, southern Victoria Land, Antarctica.
+> - Aztec Siltstone, southern Victoria Land, Antarctica.
 > - [White,1968]
 
 [*Antineosteus lehmani*](https://deepbone.cn/public/#/explor?s_id=2405&functionId=Deepbone_header_searchResultOpen) Lelièvre, 1984
@@ -133,7 +133,6 @@ New taxa and references added along with the research.
 > - [Young & Long, 2014](https://www.publish.csiro.au/zo/ZO13070)
 
 [*Bollandaspis woschmidti*](https://deepbone.cn/public/#/explor?s_id=2467&functionId=Deepbone_header_searchResultOpen) Schmidt, 1976
-
 > lower Emsian, 407.6, 393.3
 
 > - Bolland, Belgium.
@@ -142,7 +141,7 @@ New taxa and references added along with the research.
 [*Boomeraspis goujeti*](https://deepbone.org/public/#/explor?s_id=2165&functionId=Deepbone_header_searchResultOpen)(Long, 1995)
 > Givetian, 387.7, 382.7
 
-> - Aztec siltstone, southern Victoria Land, Antarctica.
+> - Aztec Siltstone, southern Victoria Land, Antarctica.
 > - [Long, 1995](https://museum.wa.gov.au/research/records-supplements/records/new-groenlandaspidid-arthrodire-pisces-placodermi-middle-devoni)
 
 [*Brachyosteus dietrichi*](https://deepbone.cn/public/#/explor?s_id=2247&functionId=Deepbone_header_searchResultOpen) Gross, 1932
@@ -211,7 +210,6 @@ New taxa and references added along with the research.
 > - Merriganowry Shale Member, New South Wales, Australia.
 > - [Ritchie, 2005](https://www.biodiversitylibrary.org/part/183466)
 
-
 [*Dhanguura johnstoni*](https://deepbone.cn/public/#/explor?s_id=2141&functionId=Deepbone_header_searchResultOpen) Young, 2004
 > Emsian, 407.6, 393.3
 
@@ -225,7 +223,6 @@ New taxa and references added along with the research.
 > - [Zhu, 1991]
 
 [*Dickosteus threiplandi*](https://deepbone.cn/public/#/explor?s_id=2650&functionId=Deepbone_header_searchResultOpen) Miles and Westoll, 1963
-
 > lower Givetian, 387.7, 386.0
 
 > - Upper Stromness Flagstone, Orkneys and Caithness, Scotland
@@ -234,7 +231,7 @@ New taxa and references added along with the research.
 [*Dicksonosteus arcticus*](https://deepbone.org/public/#/explor?s_id=2423andfunctionId=Deepbone_header_searchResultOpen) Goujet, 1975
 > Pragian, 410.8, 407.6
 
-> - Austfjorden Member, Wood Bay Formation; Spitsbergen.
+> - Austfjorden Member, Wood Bay Formation; Svalbard (Spitsbergen).
 > - Goujet, 1975; Goujet, 1984
 
 [*Dinichthys herzeri*](https://deepbone.cn/public/#/explor?s_id=154201&functionId=Deepbone_header_searchResultOpen) Newberry, 1868
@@ -271,7 +268,7 @@ New taxa and references added along with the research.
 [*Eastmanosteus pustulosus*](https://deepbone.org/public/#/explor?s_id=2448&functionId=Deepbone_header_searchResultOpen) Miller, 1980
 > Givetian to Famennian, 387.8, 358.9
 
-> - Milwaukee Formation, Wisconsin,USA;  Cebar Valley limestone, Iowa and Illinois, USA; Mineola Limestone, Misspuri, USa.
+> - Milwaukee Formation, Wisconsin,USA; Cebar Valley limestone, Iowa and Illinois, USA; Mineola Limestone, Missouri, USa.
 > - [Miller, 1980](https://www.nhbs.com/handbook-of-paleoichthyology-volume-2-placodermi-book)
  
 [*Edgellaspis gorteri*](https://deepbone.org/public/#/explor?s_id=165872&functionId=Deepbone_header_searchResultOpen) Hunt & Young, 2010
