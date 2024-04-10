@@ -27,19 +27,19 @@ New taxa and references added along with the research.
 > Eifelian, 393.3, 387.7
 
 > - Parnu Bed, Tori, Estonia; Nariva Bed, Slavjanka and Lemovzha, Estonia; Arukula Bed, Pskov district, Russia.
-> - Mark-Kurik, 1973.
+> - [Mark-Kurik, 1973].
 
 [*Aethaspis major*](https://deepbone.cn/public/#/explor?s_id=2492&functionId=Deepbone_header_searchResultOpen) Denison, 1958
 > Emsian, 407.6, 393.3
 
 > - Water Canyon Formation; Cache County, Utah, USA.
-> - Denison, 1958.
+> - [Denison, 1958].
 
 [*Aethaspis utahensis*](https://deepbone.org/public/#/explor?s_id=2491andfunctionId=Deepbone_header_searchResultOpen) Denison, 1958
 > Emsian, 407.6, 393.3
 
 > - Water Canyon Formation; Cache County, Utah, USA.
-> - Denison, 1958.
+> - [Denison, 1958].
 
 [*Aleosteus eganensis*](https://deepbone.org/public/#/explor?s_id=2487andfunctionId=Deepbone_header_searchResultOpen) Johnson et al, 2000
 > upper Emsian, 400.45, 393.3
