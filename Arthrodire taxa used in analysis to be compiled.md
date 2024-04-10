@@ -23,7 +23,7 @@ New taxa and references added along with the research.
 > - Kemeri Regional Stage; Ventspils, Latvia.
 > - [Mark-Kurik, 1985](https://www.jstor.org/stable/4523057)
 
-[*Actinolepis tuberculate*](https://deepbone.org/public/#/explor?s_id=2463andfunctionId=Deepbone_header_searchResultOpen) Agassiz, 1844
+[*Actinolepis tuberculata*](https://deepbone.org/public/#/explor?s_id=2463andfunctionId=Deepbone_header_searchResultOpen) Agassiz, 1844
 > Eifelian, 393.3, 387.7
 
 > - Parnu Bed, Tori, Estonia; Nariva Bed, Slavjanka and Lemovzha, Estonia; Arukula Bed, Pskov district, Russia.
