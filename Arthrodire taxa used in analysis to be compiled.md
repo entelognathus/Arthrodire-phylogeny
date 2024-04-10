@@ -211,17 +211,6 @@ New taxa and references added along with the research.
 > - Merriganowry Shale Member, New South Wales, Australia.
 > - [Ritchie, 2005](https://www.biodiversitylibrary.org/part/183466)
 
-[*Dunkleosteus amblyodoratus*](https://deepbone.cn/public/#/explor?s_id=2454&functionId=Deepbone_header_searchResultOpen) Carr and Hlavin, 2010
-> Frasnian or Famennian, Late Devonian,  382.7, 358.9
-
-> - Kettle Point Formation, Ontario, Canada
-> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
-
-[*Dunkleosteus raveri*](https://deepbone.cn/public/#/explor?s_id=2453&functionId=Deepbone_header_searchResultOpen) Carr and Hlavin, 2010
-> lower Famennian, 372.2, 363.3
-
-> -  Huron Shale Member, Ohio Shale Formation, Erie County, Ohio, USA.
-> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
 
 [*Dhanguura johnstoni*](https://deepbone.cn/public/#/explor?s_id=2141&functionId=Deepbone_header_searchResultOpen) Young, 2004
 > Emsian, 407.6, 393.3
@@ -260,12 +249,24 @@ New taxa and references added along with the research.
 > - Cleveland Shale Member, Ohio Shale Formation, Ohio, Tennessee, Pennsylvania and California, USA.
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Heintz, 1932.
 
+[*Dunkleosteus amblyodoratus*](https://deepbone.cn/public/#/explor?s_id=2454&functionId=Deepbone_header_searchResultOpen) Carr and Hlavin, 2010
+> Frasnian or Famennian, 382.7, 358.9
+
+> - Kettle Point Formation, Ontario, Canada
+> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
+
+[*Dunkleosteus raveri*](https://deepbone.cn/public/#/explor?s_id=2453&functionId=Deepbone_header_searchResultOpen) Carr and Hlavin, 2010
+> lower Famennian, 372.2, 363.3
+
+> -  Huron Shale Member, Ohio Shale Formation, Erie County, Ohio, USA.
+> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
+
 [*Eastmanosteus calliaspis*](https://deepbone.org/public/#/explor?s_id=2447andfunctionId=Deepbone_header_searchResultOpen) Dennis-Bryan, 1987
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
-> - The type species of *Eastmanosteus* Obruchev 1964 is *E. pustulosus* (Eastman) 1897. 
 > - [Dennis-Bryan, 1987](https://academic.oup.com/zoolinnean/article-abstract/90/1/1/2658205)
+> - The type species of *Eastmanosteus* Obruchev 1964 is *E. pustulosus* (Eastman) 1897. 
 
 [*Eastmanosteus pustulosus*](https://deepbone.org/public/#/explor?s_id=2448&functionId=Deepbone_header_searchResultOpen) Miller, 1980
 > Givetian to Famennian, 387.8, 358.9
