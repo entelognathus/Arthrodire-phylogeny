@@ -437,12 +437,11 @@ New taxa and references added along with the research.
 > - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
 > - [Long, 1994](https://www.tandfonline.com/doi/abs/10.1080/03115518.1994.9638763); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1463-6395.2008.00363.x).
 
-[*Janiosteus timanicus*](https://deepbone.cn/public/#/explor?s_id=2441&functionId=Deepbone_header_searchResultOpen) Ivanov, 1989
+[*Janiosteus timanicus*](https://deepbone.cn/public/#/explor?s_id=2441&functionId=Deepbone_header_searchResultOpen) (Obrucheva, 1962)
 > upper Givetian, 384.37, 382.7
 
 > - Timan, Russia. 
 > - [Ivanov, 1989]; [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
-> - **[Lower Famennian section of Sosnovsky Geological Monument]**
 
 [*Kendrickichthys cavernosus*](https://deepbone.cn/public/#/explor?s_id=2225&functionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1980
 > lower Frasnian, 382.7, 379.2
