@@ -110,7 +110,7 @@ New taxa and references added along with the research.
 > upper Givetian, 384.37, 382.7
 
 > - Avon River Group, Victoria, Australia. MAV8
-> - [Long,1984](https://www.researchgate.net/publication/257938652_New_phyllolepids_from_Victoria_and_the_relationships_of_the_Group); [Young et al, 2005](https://www.cambridge.org/core/journals/antarctic-science/article/abs/phyllolepid-placoderm-fish-remains-from-the-devonian-aztec-siltstone-southern-victoria-land-antarctica/353199CDD4AE271D88CEA11578ADAB71); [Young, 2005](https://search.informit.org/doi/abs/10.3316/INFORMIT.866097176771156); [Long et al,2009](https://www.nature.com/articles/nature07732).
+> - [Long,1984](https://www.researchgate.net/publication/257938652_New_phyllolepids_from_Victoria_and_the_relationships_of_the_Group); [Young and long, 2005](https://www.cambridge.org/core/journals/antarctic-science/article/abs/phyllolepid-placoderm-fish-remains-from-the-devonian-aztec-siltstone-southern-victoria-land-antarctica/353199CDD4AE271D88CEA11578ADAB71); [Young, 2005](https://search.informit.org/doi/abs/10.3316/INFORMIT.866097176771156); [Long et al,2009](https://www.nature.com/articles/nature07732).
 > - **There are four species of the genus.**
 
 [*Baringaspis dineleyi*](https://deepbone.cn/public/#/explor?s_id=2479&functionId=Deepbone_header_searchResultOpen) Miles, 1973
@@ -289,7 +289,7 @@ New taxa and references added along with the research.
 [*Erikaspis zychi*](https://deepbone.cn/public/#/explor?s_id=2127&functionId=Deepbone_header_searchResultOpen) (Stensiö, 1945)
 > Lochkovian, Lower Devonian, 419.2, 410.8
 
-> -  Ivanye, Ustechko, and Khmeleva Formation, Podolia.
+> -  Ivanye, Ustechko, and Khmeleva Formation, Podolia, Ukraine.
 > - [Dupret, 2007](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2007)27%5B266:ANGOPA%5D2.0.CO;2).
 
 [*Eskimaspis heintzi*](https://deepbone.cn/public/#/explor?s_id=154182&functionId=Deepbone_header_searchResultOpen) Dineley and Liu 1984
@@ -386,7 +386,7 @@ New taxa and references added along with the research.
 [*Heightingtonaspis anglica*](https://deepbone.cn/public/#/explor?s_id=2474&functionId=Deepbone_header_searchResultOpen) (Traquair 1890)
 > Lochkovian to Pragian, Early Devonian, 419.2, 407.6
 
-> - [L.O.R.S. (crouchi Beds); Eastern Avalonia]
+> - [L.O.R.S. (crouchi Beds); Eastern Avalonia] Shropshire, UK
 > - [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short).
 
 [*Heintzichthys gouldii*](https://deepbone.cn/public/#/explor?s_id=2273&functionId=Deepbone_header_searchResultOpen) (Newberry, 1885)
@@ -487,7 +487,7 @@ New taxa and references added along with the research.
 [*Lehmanosteus hyperboreus*](https://deepbone.cn/public/#/explor?s_id=2489&functionId=Deepbone_header_searchResultOpen) Goujet 1984
 > Pragian, Early Devonian, 410.8, 407.6
 
-> - Spitsbergen
+> - Austfjord Member, Dicksonfjorden-Austfjorden area, Spitsbergen
 > - Goujet 1984.
 > - **check sites github**
 
