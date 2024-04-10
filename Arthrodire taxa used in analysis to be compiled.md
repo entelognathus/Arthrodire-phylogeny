@@ -147,7 +147,7 @@
 > - Bolland, Belgium.
 > - [Schmidt，1976](https://biblio.naturalsciences.be/rbins-publications/memoirs-of-the-geological-survey-of-belgium/bibliographic_references/schmidtrest1976)
 
-[*Boomeraspis goujeti*](https://deepbone.org/public/#/explor?s_id=2165&functionId=Deepbone_header_searchResultOpen)(Long, 1995)
+[*Boomeraspis goujeti*](https://deepbone.org/public/#/explor?s_id=2165&functionId=Deepbone_header_searchResultOpen) (Long, 1995)
 > Givetian, 387.7, 382.7
 
 > - Aztec Siltstone, southern Victoria Land, Antarctica.
