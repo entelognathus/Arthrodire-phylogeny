@@ -178,15 +178,15 @@
 > - [Burrow and Turner, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011097); [Long et al., 2014](https://www.publish.csiro.au/zo/zo13081)
 
 [*Buchanosteus guangxiensis*](https://deepbone.cn/public/#/explor?s_id=3231&functionId=Deepbone_header_searchResultOpen) Wang, 2005
-> Late Pragian, 409.2, 407.6
+> upper Pragian, 409.2, 407.6
 
-> - [Xiayiling Member, Nagaoling Formation, Upper Pragian; Heping District, Yongfu County, Guangxi, China]
+> - Xiayiling Member, Nagaoling Formation; Heping District, Yongfu County, Guangxi, China.
 > - [Wang, 2005](https://www.cgsjournals.com/article/id/dztb_200509161)
 
 [*Buchanosteus sp.*](https://deepbone.cn/public/#/explor?s_id=164990&functionId=Deepbone_header_searchResultOpen) Wang et al., 1998
-> [Middle Lochkovian],
+> upper Lochkovian, 415.0, 410.8
 
-> - [Beijuntang Formation, Middle Lochkovian, Lower Devonian; Zhangmu Township, Yulin, Guangxi, China]
+> - Beijuntang Formation; Zhangmu Township, Yulin, Guangxi, China.
 > - [Wang et al., 1998](https://archive.org/details/21ac13050e96d2efff17d880e1207498e01e3d1b)
 
 [*Bullerichthys fascidens*](https://deepbone.org/public/#/explor?s_id=2223andfunctionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1980
@@ -311,9 +311,9 @@
 > - [Liu, 1991](https://bionames.org/references/9f65a1579e030b0425866545640f7f27)
 
 [*Exutaspis megista*](https://deepbone.cn/public/#/explor?s_id=3286&functionId=Deepbone_header_searchResultOpen) Liu and Wang, 1981
-> Emsian, 407.6, 393.3
+> upper Emsian, 400.45, 393.3
 
-> - Jiucheng FormationYunnan, China
+> - Jiucheng Formation; Wuding, Yunnan, China
 > - Liu and Wang, 1981.
 
 [*Fallocosteus turneri*](https://deepbone.cn/public/#/explor?s_id=172089&functionId=Deepbone_header_searchResultOpen) Long, 1990
@@ -551,7 +551,7 @@
 [*Plourdosteus canadensis*](https://deepbone.cn/public/#/explor?s_id=2659&functionId=Deepbone_header_searchResultOpen) (Woodward, 1892)
 > middle Frasnian, 379.2, 375.7
 
-> - Escuminac formation(Miguasha fauna), Quebec, Canada
+> - Escuminac Formation, Quebec, Canada
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Miles, 1966b; Schultze and Cloutier, 1996; [Vézina, 1990](https://cdnsciencepub.com/doi/abs/10.1139/e90-065).
 
 [*Protitanichthys rockportensis*](https://deepbone.cn/public/#/explor?s_id=2437&functionId=Deepbone_header_searchResultOpen) Case, 1931
@@ -661,7 +661,7 @@
 [*Yinostius marjor*](https://deepbone.cn/public/#/explor?s_id=73591&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1984
 > upper Emsian, 400.45, 393.3
 
-> - Jiucheng Formation,Yunnan, China
+> - Jiucheng Formation, Wuding, Yunnan, China
 > - [Zhu 2016](https://academic.oup.com/zoolinnean/article/176/4/806/2449910); Wang and Wang, 1984.
 
 
