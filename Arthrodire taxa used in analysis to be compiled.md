@@ -398,7 +398,7 @@ New taxa and references added along with the research.
 [*Heintzosteus brevis*](https://deepbone.cn/public/#/explor?s_id=169310&functionId=Deepbone_header_searchResultOpen) (Heintz, 1929)
 > Pragian, 410.8, 407.6
 
-> - Formation de Wood Bay, Dicksonfjorden-Austfjorden area, Spitsbergen
+> - Austfjord Member；Formation de Wood Bay, Dicksonfjorden-Austfjorden area, Spitsbergen
 > - Goujet 1984.
 > - **check sites github, which member?**
 
@@ -444,8 +444,9 @@ New taxa and references added along with the research.
 [*Janiosteus timanicus*](https://deepbone.cn/public/#/explor?s_id=2441&functionId=Deepbone_header_searchResultOpen) Ivanov, 1989
 > Late Givetian, Middle Devonian, XXX (maximum age), YYY (minimum age)
 
-> - Timan, Russia.
+> - Timan, Russia. 
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Ivanov, 1989.
+> - **[Lower Famennian section of Sosnovsky Geological Monument]**
 
 [*Kendrickichthys cavernosus*](https://deepbone.cn/public/#/explor?s_id=2225&functionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1980
 > lower Frasnian, 382.7, 379.2
@@ -456,7 +457,7 @@ New taxa and references added along with the research.
 [*Kiangyousteus yohii*](https://deepbone.cn/public/#/explor?s_id=2167&functionId=Deepbone_header_searchResultOpen) Liu, 1955
 > Givetian, Middle Devonian, 387.7, 382.7
 
-> - Sichuan, China.
+> - Guanwushan Formation, Sichuan, China.
 > - Liu, 1955; [Zhu and Zhu, 2013](https://academic.oup.com/zoolinnean/article/169/4/798/3797003)
 
 [*Kueichowlepis sinensis*](https://deepbone.org/public/#/explor?s_id=3233&functionId=Deepbone_header_searchResultOpen) Pan, 1975
