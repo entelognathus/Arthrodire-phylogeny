@@ -459,7 +459,7 @@
 > - Liu, 1955; [Zhu and Zhu, 2013](https://academic.oup.com/zoolinnean/article/169/4/798/3797003)
 
 [*Kueichowlepis sinensis*](https://deepbone.org/public/#/explor?s_id=3233&functionId=Deepbone_header_searchResultOpen) Pan, 1975
-> upper Emsian, 400.45, 393.3
+> lower Emsian,  407.6, 400.45
 
 > - Upper Wudang Formation; Wudang District, Guiyang, Guizhou, China.
 > - [Pan, 1975]
