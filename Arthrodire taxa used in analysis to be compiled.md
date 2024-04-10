@@ -274,8 +274,8 @@ New taxa and references added along with the research.
 [*Edgellaspis gorteri*](https://deepbone.org/public/#/explor?s_id=165872&functionId=Deepbone_header_searchResultOpen) Hunt & Young, 2010
 > [late Emsiann to Eifelian],
 
-> - [the lower 40 m of the fine-grained upper formation of the Hatchery Creek Group, Wee Jasper, New South Wales]
-> - [Hunt & Young, 2010](https://www.tandfonline.com/doi/abs/10.1080/03115511003793645)
+> - Corradigbee Formation, Hatchery Creek Group, near Wee Jasper, New South Wales, Australia.
+> - [Hunt and Young, 2011](https://www.tandfonline.com/doi/abs/10.1080/03115511003793645)
 
 [*Elvaspis tuberculata*](https://deepbone.cn/public/#/explor?s_id=2421&functionId=Deepbone_header_searchResultOpen) Young 2009
 > Emsian, Early Devonian, 407.6, 393.3
