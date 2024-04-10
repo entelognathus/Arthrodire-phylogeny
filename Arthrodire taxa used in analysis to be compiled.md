@@ -521,7 +521,7 @@ New taxa and references added along with the research.
 [*Mulgaspis evansorum*](https://deepbone.org/public/#/explor?s_id=2727andfunctionId=Deepbone_header_searchResultOpen) Ritchie, 2004
 > lower Eifelian, 393.3, 391.4
 
-> - Merrimerriwa Formation.; Cobar, Wilcannia, Australia
+> - Merrimerriwa Formation; Cobar, Wilcannia, Australia
 > - [Ritchie, 2004](https://www.idunn.no/doi/abs/10.18261/9781405169868-2004-05).
 
 [*Pachyosteus bulla*](https://deepbone.cn/public/#/explor?s_id=2254&functionId=Deepbone_header_searchResultOpen) Jaekel, 1903
@@ -567,12 +567,12 @@ New taxa and references added along with the research.
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Case, 1931; Miles, 1966b; [Stack and Sallan,2018](https://peerj.com/articles/5636/#fig-1)
 
 [*Rhachiosteus pterygiatus*](https://deepbone.cn/public/#/explor?s_id=169321&functionId=Deepbone_header_searchResultOpen) Gross, 1938
-> upper Givetian to lower Frasnian, 384.4, 382.7
+> lower Frasnian, 382.7, 379.2
 
 > - Calcareous Flags, Bergisch-Gladbach, Germany.
 > - Gross, 1938; [Miles, 1966a](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/xvthe-placoderm-fish-rhachiosteus-pterygiatus-gross-and-its-relationships/018CEA078DEDCF04EF4BC8A8A9B6B59C).
-> - As Gross has stated,the exact place of origin of this specimen is not recorded and therefore its precise stratigraphical position is uncertain. However, it is undoubtedly from some part of the Upper or Lower
- Calcareous Flags (Plattenkalk), which are widely distributed in the Strunde valley near Cologne, and is of Upper Givetian or Lower Frasnian age
+> - As Gross has stated, the exact place of origin of this specimen is not recorded and therefore its precise stratigraphical position is uncertain. However, it is undoubtedly from some part of the Upper or Lower
+ Calcareous Flags (Plattenkalk), which are widely distributed in the Strunde valley near Cologne, and is of Upper Givetian or Lower Frasnian age.
 
 [*Rhinosteus parvulus*](https://deepbone.cn/public/#/explor?s_id=2258&functionId=Deepbone_header_searchResultOpen) Jaekel, 1911
 > upper Frasnian, 375.7, 372.2
