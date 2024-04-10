@@ -125,7 +125,7 @@
 [*Baringaspis dineleyi*](https://deepbone.cn/public/#/explor?s_id=2479&functionId=Deepbone_header_searchResultOpen) Miles, 1973
 > upper Lochkovian, 415.0, 410.8
 
-> - Peel Sound Formation, Wales Island. 
+> - Peel Sound Formation, Princess of Wales Island, Canada. 
 > - [Miles, 1973](https://www.researchgate.net/publication/285456051_An_actinolepid_arthrodire_from_the_Lower_Devonian_Peel_Sound_Formation_Prince_of_Wales_Island)
 > - **The Source reference in deepbone is questionable.**
 
