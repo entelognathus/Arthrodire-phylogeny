@@ -91,19 +91,19 @@
 > - Lelièvre, 1984; [Lelièvre, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173046).
 
 [*Arctaspis hoegi*](https://deepbone.org/public/#/explor?s_id=2540&functionId=Deepbone_header_searchResultOpen) Heintz, 1934
-> lower Emsian,  407.6, 393.3
+> lower Emsian,  407.6, 400.45
 
 > - Dicksonfjorden Member of the Wood Bay Formation, Dickson Bay and Wijde Bay, Svalbard (Spitsbergen).
 > - [Heintz, 1934](https://brage.npolar.no/npolar-xmlui/bitstream/handle/11250/173607/Skrifter022.pdf?sequence=1&isAllowed=y)
 
 [*Arctolepis decipiens*](https://deepbone.cn/public/#/explor?s_id=2543&functionId=Deepbone_header_searchResultOpen) （Woodward,1891）
-> lower Emsian,  407.6, 393.3
+> lower Emsian,  407.6, 400.45
 
 > - Dicksonfjorden Member of the Wood Bay Formation, Dickson Bay and Wijde Bay, Svalbard (Spitsbergen).
 > - [Goujet, 1984](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9046910).
 
 [*Arctolepis solnoerdali*](https://deepbone.cn/public/#/explor?s_id=2548&functionId=Deepbone_header_searchResultOpen)（Heintz, 1929）
-> lower Emsian,  407.6, 393.3
+> lower Emsian,  407.6, 400.45
 
 > - Dicksonfjorden Member of the Wood Bay Formation, Dickson Bay and Wijde Bay, Svalbard (Spitsbergen).
 > - [Denison,1958]
@@ -142,7 +142,7 @@
 > - [Young & Long, 2014](https://www.publish.csiro.au/zo/ZO13070)
 
 [*Bollandaspis woschmidti*](https://deepbone.cn/public/#/explor?s_id=2467&functionId=Deepbone_header_searchResultOpen) Schmidt, 1976
-> lower Emsian, 407.6, 393.3
+> lower Emsian, 407.6, 400.45
 
 > - Bolland, Belgium.
 > - [Schmidt，1976](https://biblio.naturalsciences.be/rbins-publications/memoirs-of-the-geological-survey-of-belgium/bibliographic_references/schmidtrest1976)
@@ -281,13 +281,13 @@
 > - [Hunt and Young, 2011](https://www.tandfonline.com/doi/abs/10.1080/03115511003793645)
 
 [*Elvaspis tuberculata*](https://deepbone.cn/public/#/explor?s_id=2421&functionId=Deepbone_header_searchResultOpen) Young 2009
-> Emsian, Early Devonian, 407.6, 393.3
+> Emsian, 407.6, 393.3
 
 > - Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales
 > - [Young, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00366.x).
 
 [*Erikaspis zychi*](https://deepbone.cn/public/#/explor?s_id=2127&functionId=Deepbone_header_searchResultOpen) (Stensiö, 1945)
-> Lochkovian, Lower Devonian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > -  Ivanye, Ustechko, and Khmeleva Formation, Podolia, Ukraine.
 > - [Dupret, 2007](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2007)27%5B266:ANGOPA%5D2.0.CO;2).
@@ -311,7 +311,7 @@
 > - [Liu, 1991](https://bionames.org/references/9f65a1579e030b0425866545640f7f27)
 
 [*Exutaspis megista*](https://deepbone.cn/public/#/explor?s_id=3286&functionId=Deepbone_header_searchResultOpen) Liu and Wang, 1981
-> Emsian, Early Devonian, 407.6, 393.3
+> Emsian, 407.6, 393.3
 
 > - Jiucheng FormationYunnan, China
 > - Liu and Wang, 1981.
@@ -353,13 +353,13 @@
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); [Dunkle and Bungart, 1940](); Denison, 1978; Stensiö, 1963.
 
 [*Grifftaylor antarcticus*](https://deepbone.org/public/#/explor?s_id=77201&functionId=Deepbone_header_searchResultOpen) Young & Long, 2014
-> Givetian,  387.7, 382.7
+> Givetian, 387.7, 382.7
 
 > - Aztec siltstone, southern Victoria Land, Antarctica.
 > - [Young & Long, 2014](https://www.publish.csiro.au/zo/ZO13070)
 
 [*Groenlandaspis antarcticus*](https://deepbone.org/public/#/explor?s_id=154139andfunctionId=Deepbone_header_searchResultOpen) Ritchie, 1975
-> Givetian, Middle Devonian, 387.7, 382.7
+> Givetian, 387.7, 382.7
 
 > - Aztec siltstone, southern Victoria Land, Antarctica.
 > - Taylor Group; Mount Ritchie, Australia and Mount Mestchel, Antarctica
@@ -459,19 +459,19 @@
 > - Liu, 1955; [Zhu and Zhu, 2013](https://academic.oup.com/zoolinnean/article/169/4/798/3797003)
 
 [*Kueichowlepis sinensis*](https://deepbone.org/public/#/explor?s_id=3233&functionId=Deepbone_header_searchResultOpen) Pan, 1975
-> [early-middle Emsian],
+> upper Emsian, 400.45, 393.3
 
-> - [Upper Wudang Formation, Lochkovian; Daping Mountain, Mailang Village, Wudang District, Kueiyang, Kueichow, China]
+> - Upper Wudang Formation; Wudang District, Guiyang, Guizhou, China.
 > - [Pan, 1975]
 
 [*Kujdanowiaspis buczacziensis*](https://deepbone.org/public/#/explor?s_id=2123&functionId=Deepbone_header_searchResultOpen) Brotzen, 1934
-> [early Pragian],
+> lower Pragian, 410.8, 409.2
 
-> - [Borshchov Formation; Buchach (Podolia, Ukraine)]
+> - Borshchov Formation; Buchach, Podolia, Ukraine.
 > - [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short)
 
 [*Kujdanowiaspis podolica*](https://deepbone.org/public/#/explor?s_id=2124andfunctionId=Deepbone_header_searchResultOpen) Dupret, 2010
-> [late Lochkovian to early Pragian], 415.0, 409.2
+> upper Lochkovian to lower Pragian, 415.0, 409.2
 
 > - Dnister Series; Podolia, Ukraine.
 > - [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short)
@@ -587,7 +587,7 @@
 > - Carr, 1996; [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/260808).
 
 [*Szelepis yunnanensis*](https://deepbone.cn/public/#/explor?s_id=2121&functionId=Deepbone_header_searchResultOpen) Liu,1981
-> Lochkovian, early Devonian., 419.2, 410.8
+> upper Lochkovian, 415.0, 410.8
 
 > - Xitun Formation, Qujing, Yunnan
 > - Liu,1981, [Dupret, 2017](https://www.tandfonline.com/doi/abs/10.1080/02724634.2017.1312422).
@@ -623,7 +623,7 @@
 > - [Dennis and Miles, 1979b](https://academic.oup.com/zoolinnean/article-abstract/67/4/297/2664293); [Long, 1988b](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=6632199); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Turrisaspis elektor*](https://deepbone.cn/public/#/explor?s_id=2264&functionId=Deepbone_header_searchResultOpen) Daeschler, Frumes and Mullison, 2003
-> Famennian, Late Devonian,  372.2, 358.9
+> Famennian, 372.2, 358.9
 
 > - Catskill Formation, Pennsylvania, USA
 > - [Daeschler, Frumes and Mullison, 2003](https://media.australian.museum/media/Uploads/Journals/17953/1374_complete.pdf).
@@ -647,19 +647,19 @@
 > - [Ritchie 1973](https://www.schweizerbart.de/papers/pala/detail/A143/70796/iWuttagoonaspis_i_gen_nov_an_unusual_arthrodire_from_the_Devonian_of_Western_New_South_Wales_Australia?l=FR); [Young and Goujet 2003](https://museum.wa.gov.au/research/records-supplements/records/devonian-fish-remains-dulcie-sandstone-and-cravens-peak-beds-ge)
 
 [*Yiminaspis shenme*](https://deepbone.cn/public/#/explor?s_id=2494&functionId=Deepbone_header_searchResultOpen) Dupret 2008
-> Pragian, 410.8 , 407.6
+> Pragian, 410.8, 407.6
 
 > - Qingmen Formation, Zhaotong, Yunnan, China
 > - [Dupret 2008](https://www.tandfonline.com/doi/abs/10.1671/0272-4634%282008%2928%5B12%3AANWPAF%5D2.0.CO%3B2)
 
 [*Xiangshuiosteus wui*](https://deepbone.cn/public/#/explor?s_id=2433&functionId=Deepbone_header_searchResultOpen) Wang, 1992
-> Emsian, 407.6, 393.3
+> upper Emsian, 400.45, 393.3
 
 > - Jiucheng Formation, Wuding, Yunnan, China
 > - [Wang, 1992](https://www.vertpala.ac.cn/EN/abstract/abstract544.shtml)
 
 [*Yinostius marjor*](https://deepbone.cn/public/#/explor?s_id=73591&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1984
-> Emsian, 407.6, 393.3
+> upper Emsian, 400.45, 393.3
 
 > - Jiucheng Formation,Yunnan, China
 > - [Zhu 2016](https://academic.oup.com/zoolinnean/article/176/4/806/2449910); Wang and Wang, 1984.
