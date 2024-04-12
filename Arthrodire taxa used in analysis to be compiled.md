@@ -568,6 +568,7 @@
 
 > - Maider, Morocco
 > - [Lelièvre, 1995](https://sciencepress.mnhn.fr/fr/periodiques/bulletin-du-museum-national-d-histoire-naturelle-4eme-serie-section-c-sciences-de-la-terre-paleontologie-geologie-mineralogie/17/1-4/maideria-falipoui-n-g-n-sp-un-brachyhtoraci-museau-long-vertebre-placoderme-arthrodire-du-givetien-du-maider).
+> ** The precise locality of type specimen in the Maider is unclear. The other specimens from either the Jbel Issoumour or the Jbel Merakib, respectively in the North and the South of Maider. All the specimens were preserved in a marine limestone which contains conodonts, indicating a lower or middle givetian age. ** 
 
 [*Mcnamaraspis kaprios*](https://deepbone.cn/public/#/explor?s_id=2445&functionId=Deepbone_header_searchResultOpen) Long, 1995
 > lower Frasnian, 382.7, 379.2
