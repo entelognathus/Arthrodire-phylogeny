@@ -45,6 +45,7 @@
 
 > - Hunsrückschiefer (Hunsrück Slate); Rheinland, Germany.
 > - [Gross, 1961]
+> - The type species is *Lunaspis heroldi* Broili 1929.
 
 [*Macropetalichthys rapheidolabis*](https://deepbone.org/public/#/explor?s_id=2387&functionId=Deepbone_header_searchResultOpen) Norwood and Owen, 1846
 > Eifelian, 393.3, 387.7
@@ -93,6 +94,7 @@
 
 > - Taemas Formation, Taemas-Wee Jasper region, New South Wales; Buchan Group, Buchan, Victoria, Australia.
 > - Young, 1978; Barker and Bone, 1995; Basden, 1999; Obruchev, 1964; Heintz, 1929; Long, 1984.
+> - The type species is *W. arctica* (Heintz) 1929 from the Eifelian Grey Hoek Formation.  
 
 ## **Arthrodire taxa**
 
