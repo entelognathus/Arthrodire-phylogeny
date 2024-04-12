@@ -1,4 +1,4 @@
-**List of arthrodire and petalichthyid taxa, geological range, and references**
+# **List of arthrodire and petalichthyid taxa, geological range, and references**
 
 [Taxon name with Deepbone link] Author(s), Date
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -8,7 +8,7 @@
 > - **any comments on this species added here**
 
 
-# **Petalichthyid taxa**
+## **Petalichthyid taxa**
 
 [*Diandongpetalichthys liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=3251andfunctionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > lower Lochkovian, 419.2, 415.0
@@ -88,7 +88,7 @@
 > - Taemas Formation, Taemas-Wee Jasper region, New South Wales; Buchan Group, Buchan, Victoria, Australia.
 > - Young, 1978; Barker and Bone, 1995; Basden, 1999; Obruchev, 1964; Heintz, 1929; Long, 1984.
 
-# **Arthrodire taxa**
+## **Arthrodire taxa**
 
 [*Actinolepis magna*](https://deepbone.org/public/#/explor?s_id=2464andfunctionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1973
 > lower Givetian, 387.7, 386.0
