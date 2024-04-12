@@ -7,7 +7,8 @@
 > - [references]
 > - **any comments on this species added here**
 
-**Petalichthyid taxa**
+
+# **Petalichthyid taxa**
 
 [*Diandongpetalichthys liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=3251andfunctionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > lower Lochkovian, 419.2, 415.0
@@ -15,13 +16,79 @@
 > - Xishancun Formation, Qujing, Yunnan, China
 > - [Zhu, 1991]
 
+[*Ellopetalichthys scheii*](https://deepbone.org/public/#/explor?s_id=2382&functionId=Deepbone_header_searchResultOpen) (Kiaer, 1915)
+> upper Givetian, 384.4, 382.7
+
+> - Bird Fiord Formation, southwestern Ellesmereland, Arctic Canada.
+> - [Ørvig, 1957](https://foreninger.uio.no/ngf/ngt/pdfs/NGT_37_3&4_285-354.pdf); [Castiello, 2021](https://pubs.geoscienceworld.org/cjes/article-abstract/58/1/93/594043/Endocranial-morphology-of-the-petalichthyid)
+
+[*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257&functionId=Deepbone_header_searchResultOpen) Liu, 1991
+> Givetian, 387.7, 382.7
+
+> - Xichong Formation; Qujing, Yunnan, China.
+> - Liu, 1991
+
+[*Guangxipetalichthys tiaomajianensis*](https://deepbone.org/public/#/explor?s_id=3262&functionId=Deepbone_header_searchResultOpen) Ji and Pan, 1997
+> lower to middle Givetian, 387.7, 384.4
+
+> - Tiaomajian Formation.; Bobai, Guangxi, China
+> - [Ji and Pan, 1997](https://www.vertpala.ac.cn/EN/Y1997/V35/I01/18)
+
 [*Lunaspis broilii*](https://deepbone.org/public/#/explor?s_id=2134&functionId=Deepbone_header_searchResultOpen) Gross, 1937
 > upper Pragian to lower Emsian, 409.2, 400.45
 
 > - Hunsrückschiefer (Hunsrück Slate); Rheinland, Germany.
 > - [Gross, 1961]
 
-**Arthrodire taxa**
+[*Macropetalichthys rapheidolabis*](https://deepbone.org/public/#/explor?s_id=2387&functionId=Deepbone_header_searchResultOpen) Norwood and Owen, 1846
+> Eifelian, 393.3, 387.7
+
+> - Onondaga limestone, Genesee County, New York, U. S. A; Columbus and Delaware limestone, Ohio, U. S. A; Jeffersonville formation, Indiana, U. S. A; Ontaria, Canada.
+> - Stensiö, 1925; 1963; 1969
+
+[*Notopetalichthys hillsi*](https://deepbone.org/public/#/explor?s_id=2391&functionId=Deepbone_header_searchResultOpen) Woodward, 1941
+> Emsian, 407.6, 393.3
+
+> - Murrumbidgee Group, near Wee Jasper on the shores of Lake Burrinjuck, New South Wales, Australia.
+> - Woodward, 1941; [Young, 2004](https://www.tandfonline.com/doi/abs/10.1671/1942-1).
+
+[*Pampetalichthys longhuaensis*](https://deepbone.org/public/#/explor?s_id=3268&functionId=Deepbone_header_searchResultOpen) (Zhu and Wang, 1996)
+> lower Emsian, 407.6, 400.45
+
+> - Xujiachong Formation; Qujing, Yunnan, China.
+> - Zhu, 2000; Zhu and Wang, 1996
+
+[*Pauropetalichthys magnoculus*](https://deepbone.org/public/#/explor?s_id=3259&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 2015
+> upper Emsian, 400.45, 393.3
+
+> - Chuandong Formation; Qujing, Yunnan, China.
+> - [Pan *et al*., 2015](https://www.sciencedirect.com/science/article/pii/S1631068314001924)
+
+[*Quasipetalichthys haikouensis*](https://deepbone.org/public/#/explor?s_id=2392&functionId=Deepbone_header_searchResultOpen) Liu, 1973
+> Givetian, 387.7, 382.7
+
+> - Haikou Formation.; Kunming, Yunnan, China.
+> - Liu, 1991
+
+[*Shearsbyaspis oepiki*](https://deepbone.org/public/#/explor?s_id=78336&functionId=Deepbone_header_searchResultOpen) Young, 1985
+> Emsian, 407.6, 393.3
+
+> - Taemas Formation, Taemas-Wee Jasper area, New South Wale, Australia.
+> - Young, 1985; [Castiello, 2018](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12345).
+
+[*Sinopetalichthys kueiyangensis*](https://deepbone.org/public/#/explor?s_id=3264&functionId=Deepbone_header_searchResultOpen) P'an et al., 1975
+> lower Emsian, 407.6, 400.45
+
+> - Guiyang, Guizhou, China.
+> - [Zhao and Zhu, 2010](https://www.sciencedirect.com/science/article/abs/pii/S1871174X09000663)
+
+[*Wijdeaspis warrooensis*](https://deepbone.org/public/#/explor?s_id=165882&functionId=Deepbone_header_searchResultOpen) Young, 1978
+> Emsian, 407.6, 393.3
+
+> - Taemas Formation, Taemas-Wee Jasper region, New South Wales; Buchan Group, Buchan, Victoria, Australia.
+> - Young, 1978; Barker and Bone, 1995; Basden, 1999; Obruchev, 1964; Heintz, 1929; Long, 1984.
+
+# **Arthrodire taxa**
 
 [*Actinolepis magna*](https://deepbone.org/public/#/explor?s_id=2464andfunctionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1973
 > lower Givetian, 387.7, 386.0
@@ -658,6 +725,11 @@
 > - Jiucheng Formation, Wuding, Yunnan, China
 > - [Wang, 1992](https://www.vertpala.ac.cn/EN/abstract/abstract544.shtml)
 
+*Xiantingosteus gracilis* gen. et sp. nov. 
+> upper Emsian, 400.45, 393.3
+
+> - Jiucheng Formation, Wuding, Yunnan, China.
+
 [*Yinostius marjor*](https://deepbone.cn/public/#/explor?s_id=73591&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1984
 > upper Emsian, 400.45, 393.3
 
@@ -670,6 +742,7 @@
 
 > - Nakaoling (Nagaoling) Formation, Guangxi, China.
 > - [Dupret 2009](https://onlinelibrary.wiley.com/doi/10.1111/j.1096-3642.2009.00519.x), [Wang 1998](https://www.vertpala.ac.cn/EN/abstract/abstract724.shtml)
+
 
 
 **References**
