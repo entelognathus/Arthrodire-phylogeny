@@ -1,5 +1,5 @@
-| taxa                              | age range in deepbone                   | modifed age range | 修改情况 |
-|-----------------------------------|-----------------------------------------|-------------------|------|
+| taxa                              | age range in deepbone                   | modifed age range | 修改情况               |
+|-----------------------------------|-----------------------------------------|-------------------|------------------------|
 | Euleptaspid_A                     | Emsian                                  |                   |      |
 | Euleptaspid_B                     | Emsian                                  | Late Emsian       |已核对   |
 | Actinolepis_magna                 |  Givetian                               | Late Eifelian     |已核对   |
@@ -35,7 +35,7 @@
 | Arctolepis_lewini                 | Emsian                                  | Early Emsian      | 已核对  |
 | Arctolepis_longicornis            | Emsian                                  | Early Emsian      | 已核对  |
 | Arctolepis_solnoerdali            | Emsian                                  | Early Emsian      | 已核对  |
-| Arctonema_crassum                 | Emsian                                  |                   |      |
+| Arctonema_crassum                 | Emsian                                  | Eifelian          | 已核对  |
 | Ardennosteus_ubaghsi              | late/end Famennian                      |                   |      |
 | Arenipiscis_westolli              | Emsian                                  |                   |      |
 | Aspidichthys_clavatus             | Frasnian                                |                   |      |
@@ -108,7 +108,7 @@
 | Deirosteus_abbreviatus            | late Frasnian                           |                   |      |
 | Deirosteus_angustatus             | Eifelian                                |                   |      |
 | Deirosteus_omaliusii              | late/end Famennian                      |                   |      |
-| Denisonosteus_weejasperensis      | Eifelian                                |                   |      |
+| Denisonosteus_weejasperensis      | Eifelian                                | Eifelian          | 已核对  |
 | Deveonema_obrucevi                | early/miidle Frasnian                   |                   |      |
 | Dhanguura_johnstoni               | Emsian                                  |                   |      |
 | Diadsomaspis_elongata             | late Emsian                             |                   |      |
@@ -329,7 +329,7 @@
 | Plataspis_rotundicornis           | Emsian                                  |                   |      |
 | Plourdosteus_canadensis           | early Frasnian                          |                   |      |
 | Plourdosteus_grossi               | early/miidle Frasnian                   |                   |      |
-| Plourdosteus_livonicus            | latest Givetian                         |                   |      |
+| Plourdosteus_livonicus            | latest Givetian                         |  Late Givetian    | 已核对(需要添加标本)|
 | Plourdosteus_Magnus               | early Frasnian                          |                   |      |
 | Plourdosteus_mironovi             | early Frasnian                          |                   |      |
 | Plourdosteus_panderi              | late Givetian                           |                   |      |
