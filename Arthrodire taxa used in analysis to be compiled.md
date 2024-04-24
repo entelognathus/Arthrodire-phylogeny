@@ -9,6 +9,12 @@
 
 
 ## **Petalichthyid taxa**
+[*Brevipetalichthys gracilis*](https://deepbone.org/public/#/explor?s_id=3255andfunctionId=Deepbone_header_searchResultOpen) Ji and Pan, 1999
+> Pragian, 410.8, 407.6
+
+> - Posongchong Formation; Zhaotong City, Yunnan Province, China
+> - [Ji and Pan, 1999]
+
 [*Diandongpetalichthys liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=3251andfunctionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > lower Lochkovian, 419.2, 415.0
 
@@ -58,6 +64,12 @@
 > - Onondaga limestone, Genesee County, New York, U. S. A; Columbus and Delaware limestone, Ohio, U. S. A; Jeffersonville formation, Indiana, U. S. A; Ontaria, Canada.
 > - Stensiö, 1925; 1963; 1969
 
+[*Neopetalichthys yenmenpaensis*](https://deepbone.org/public/#/explor?s_id=3253andfunctionId=Deepbone_header_searchResultOpen) Liu, 1973
+> Pragian, 410.8, 407.6
+
+> - Pingyipu Formation; Yanmenba, Jiangyou City, Sichuan Province, China
+> - [Liu, 1973]
+
 [*Notopetalichthys hillsi*](https://deepbone.org/public/#/explor?s_id=2391&functionId=Deepbone_header_searchResultOpen) Woodward, 1941
 > Emsian, 407.6, 393.3
 
@@ -69,7 +81,13 @@
 
 > - Xujiachong Formation; Qujing, Yunnan, China.
 > - Zhu, 2000; Zhu and Wang, 1996
-> - *Holopetalichthys longhuaensis* Zhang and Wang, 1996
+> - *Holopetalichthys longhuaensis* Zhu and Wang, 1996
+
+[*Parapetalichthys minor*](https://deepbone.org/public/#/explor?s_id=3270&functionId=Deepbone_header_searchResultOpen) Wang, 1988
+> Pragian, 410.8, 407.6
+
+> - Pingyipu Formation; Yanmenba, Jiangyou City, Sichuan Province, China
+> - [references]
 
 [*Pauropetalichthys magnoculus*](https://deepbone.org/public/#/explor?s_id=3259&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 2015
 > upper Emsian, 400.45, 393.3
@@ -95,12 +113,24 @@
 > - Wudang Formation; Guiyang, Guizhou, China.
 > - [Zhao and Zhu, 2010](https://www.sciencedirect.com/science/article/abs/pii/S1871174X09000663)
 
+[*Tongdzuylepis vietnamensis*](https://deepbone.org/public/#/explor?s_id=8352&functionId=Deepbone_header_searchResultOpen) Janvier and Phuong, 1999
+> upper Lochkovian, 415.0, 410.8
+
+> - [horizon and locality]
+> - [Janvier and Phuong, 1999]
+
 [*Wijdeaspis warrooensis*](https://deepbone.org/public/#/explor?s_id=165882&functionId=Deepbone_header_searchResultOpen) Young, 1978
 > Emsian, 407.6, 393.3
 
 > - Taemas Formation, Taemas-Wee Jasper region, New South Wales; Buchan Group, Buchan, Victoria, Australia.
 > - Young, 1978; Barker and Bone, 1995; Basden, 1999; Obruchev, 1964; Heintz, 1929; Long, 1984.
 > - The type species is *W. arctica* (Heintz) 1929 from the Eifelian Grey Hoek Formation.  
+
+[*Xinanpetalichthys shendaowanensis*](https://deepbone.org/public/#/explor?s_id=3266andfunctionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
+> Pragian, 410.8, 407.6
+
+> - Pingyipu Formation; Yanmenba, Jiangyou City, Sichuan Province, China
+> - [references]
 
 ## **Arthrodire taxa**
 
