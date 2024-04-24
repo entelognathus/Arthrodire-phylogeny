@@ -9,7 +9,6 @@
 
 
 ## **Petalichthyid taxa**
-
 [*Diandongpetalichthys liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=3251andfunctionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > lower Lochkovian, 419.2, 415.0
 
@@ -34,10 +33,16 @@
 > - Xichong Formation; Zhanyi & Qujing, Yunnan, China.
 > - [Liu, 1991](https://bionames.org/references/9f65a1579e030b0425866545640f7f27)
 
-[*Guangxipetalichthys tiaomajianensis*](https://deepbone.org/public/#/explor?s_id=3262&functionId=Deepbone_header_searchResultOpen) Ji and Pan, 1997
-> lower to middle Givetian, 387.7, 384.4
+[*Guangxipetalichthys bobeiensis*](https://deepbone.org/public/#/explor?s_id=3261&functionId=Deepbone_header_searchResultOpen) Ji and Pan, 1997
+> Eifelian, 393.3, 387.7
 
-> - Tiaomajian Formation.; Bobai, Guangxi, China
+> -  ‘Xindu Formation’; Bobai, Guangxi, China
+> - [Ji and Pan, 1997](https://www.vertpala.ac.cn/EN/Y1997/V35/I01/18)
+
+[*Guangxipetalichthys tiaomajianensis*](https://deepbone.org/public/#/explor?s_id=3262&functionId=Deepbone_header_searchResultOpen) Ji and Pan, 1997
+> Eifelian, 393.3, 387.7
+
+> - Tiaomajian Formation; Changsha, Hunan, China
 > - [Ji and Pan, 1997](https://www.vertpala.ac.cn/EN/Y1997/V35/I01/18)
 
 [*Lunaspis broilii*](https://deepbone.org/public/#/explor?s_id=2134&functionId=Deepbone_header_searchResultOpen) Gross, 1937
@@ -60,10 +65,11 @@
 > - Woodward, 1941; [Young, 2004](https://www.tandfonline.com/doi/abs/10.1671/1942-1).
 
 [*Pampetalichthys longhuaensis*](https://deepbone.org/public/#/explor?s_id=3268&functionId=Deepbone_header_searchResultOpen) (Zhu and Wang, 1996)
-> lower Emsian, 407.6, 400.45
+> Pragian, 410.8, 407.6
 
 > - Xujiachong Formation; Qujing, Yunnan, China.
 > - Zhu, 2000; Zhu and Wang, 1996
+> - *Holopetalichthys longhuaensis* Zhang and Wang, 1996
 
 [*Pauropetalichthys magnoculus*](https://deepbone.org/public/#/explor?s_id=3259&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 2015
 > upper Emsian, 400.45, 393.3
@@ -86,7 +92,7 @@
 [*Sinopetalichthys kueiyangensis*](https://deepbone.org/public/#/explor?s_id=3264&functionId=Deepbone_header_searchResultOpen) P'an et al., 1975
 > lower Emsian, 407.6, 400.45
 
-> - Guiyang, Guizhou, China.
+> - Wudang Formation; Guiyang, Guizhou, China.
 > - [Zhao and Zhu, 2010](https://www.sciencedirect.com/science/article/abs/pii/S1871174X09000663)
 
 [*Wijdeaspis warrooensis*](https://deepbone.org/public/#/explor?s_id=165882&functionId=Deepbone_header_searchResultOpen) Young, 1978
