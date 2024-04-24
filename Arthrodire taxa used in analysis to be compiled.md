@@ -28,11 +28,11 @@
 > -  Kellwasserkalk of *Manticoceras* beds, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - [Ørvig, 1957](https://foreninger.uio.no/ngf/ngt/pdfs/NGT_37_3&4_285-354.pdf); [Sallan and Coates, 2010](https://www.pnas.org/doi/abs/10.1073/pnas.0914000107)
 
-[*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257&functionId=Deepbone_header_searchResultOpen) Liu, 1991
+[*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257andfunctionId=Deepbone_header_searchResultOpen) Liu, 1991
 > Givetian, 387.7, 382.7
 
-> - Xichong Formation; Qujing, Yunnan, China.
-> - Liu, 1991
+> - Xichong Formation; Zhanyi & Qujing, Yunnan, China.
+> - [Liu, 1991](https://bionames.org/references/9f65a1579e030b0425866545640f7f27)
 
 [*Guangxipetalichthys tiaomajianensis*](https://deepbone.org/public/#/explor?s_id=3262&functionId=Deepbone_header_searchResultOpen) Ji and Pan, 1997
 > lower to middle Givetian, 387.7, 384.4
@@ -362,7 +362,7 @@
 > - [Young, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00366.x).
 
 [*Erikaspis zychi*](https://deepbone.cn/public/#/explor?s_id=2127&functionId=Deepbone_header_searchResultOpen) (Stensiö, 1945)
-> Lochkovian, 419.2, 410.8
+> Upper Lochkovian to Lower Pragian, 415.0, 410.8
 
 > -  Ivanye, Ustechko, and Khmeleva Formation, Podolia, Ukraine.
 > - [Dupret, 2007](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2007)27%5B266:ANGOPA%5D2.0.CO;2).
@@ -378,12 +378,6 @@
 
 > - Kurejka Formation or lower part of Razvedochnyj Formation; the Turukhansk region, NW Siberian Platform, Russia.
 > - [Mark-Kurik, 2013](https://www.ingentaconnect.com/content/doaj/17364728/2013/00000062/00000003/art00002;jsessionid=2popedt2il7pe.x-ic-live-03)
-
-[*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257andfunctionId=Deepbone_header_searchResultOpen) Liu, 1991
-> Givetian, 387.7, 382.7
-
-> - Xichong Formation; Zhanyi & Qujing, Yunnan, China.
-> - [Liu, 1991](https://bionames.org/references/9f65a1579e030b0425866545640f7f27)
 
 [*Exutaspis megista*](https://deepbone.cn/public/#/explor?s_id=3286&functionId=Deepbone_header_searchResultOpen) Liu and Wang, 1981
 > upper Emsian, 400.45, 393.3
@@ -434,7 +428,7 @@
 > - [Young & Long, 2014](https://www.publish.csiro.au/zo/ZO13070)
 
 [*Groenlandaspis antarcticus*](https://deepbone.org/public/#/explor?s_id=154139andfunctionId=Deepbone_header_searchResultOpen) Ritchie, 1975
-> Givetian, 387.7, 382.7
+> Upper Givetian to Lower Frasian, 384.37, 375.7
 
 > - Aztec siltstone, southern Victoria Land, Antarctica.
 > - Taylor Group; Mount Ritchie, Australia and Mount Mestchel, Antarctica
@@ -600,6 +594,12 @@
 > - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - [Carr and Hlavin](https://academic.oup.com/zoolinnean/article/159/1/195/2608083), 2010; Stensiö, 1963.
 
+[*Pageauaspis russelli*](https://deepbone.org/public/#/top-search-list?keyword=Pageauaspis%20russelli) Pageau, 1969
+> Emsian, 407.6, 393.3
+
+> - [horizon and locality]
+> - [Denison, 1978](https://www.abebooks.co.uk/9783437302657/Placodermi-Handbook-Paleoichthyology-Vol-2-3437302655/plp?cm_sp=plped-_-1-_-image)
+
 [*Panxiosteus oculus*](https://deepbone.cn/public/#/explor?s_id=2439&functionId=Deepbone_header_searchResultOpen) Wang, 1979
 > Givetian, 387.7, 382.7
 
@@ -630,6 +630,12 @@
 > - Escuminac Formation, Quebec, Canada
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Miles, 1966b; Schultze and Cloutier, 1996; [Vézina, 1990](https://cdnsciencepub.com/doi/abs/10.1139/e90-065).
 
+[*Proaethaspis ohioensis*](https://deepbone.org/public/#/explor?s_id=2477&functionId=Deepbone_header_searchResultOpen) Denison, 1960
+> Pragian, 410.8, 407.6
+
+> - Ohio, USA
+> - [Denison, 1978](https://www.semanticscholar.org/paper/Handbook-of-Paleoichthyology%2C-2.-Placodermi%3A-R.-128-Miller/7980f3e95c79279cc1feba3bc9086fcebf3d73f1)
+
 [*Protitanichthys rockportensis*](https://deepbone.cn/public/#/explor?s_id=2437&functionId=Deepbone_header_searchResultOpen) Case, 1931
 > Lower Givetian, 387.7, 386.0
 
@@ -656,6 +662,12 @@
 > - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
 > - [Dennis and Miles, 1979b](https://academic.oup.com/zoolinnean/article-abstract/67/4/297/2664293); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
+[*Sigaspis lepidophora*](https://deepbone.org/public/#/explor?s_id=2483&functionId=Deepbone_header_searchResultOpen) Goujet, 1973
+> Lower Pragian, 410.8, 409.2
+
+> - Wood Bay Formation, Svalbard
+> - [Goujet, 1973](https://www.researchgate.net/publication/290391621_Sigaspis_un_nouvel_arthrodire_du_Devonien_inferieur_du_Spitsberg)
+
 [*Stenosteus angustopectus*](https://deepbone.cn/public/#/explor?s_id=2457&functionId=Deepbone_header_searchResultOpen) Carr, 1996
 > upper Famennian, 363.3, 358.9
 
@@ -673,6 +685,13 @@
 
 > - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - Stensiö, 1963.
+
+
+[*Tiaraspis subtilis*](https://deepbone.org/public/#/explor?s_id=2593&functionId=Deepbone_header_searchResultOpen) Gross, 1933
+> [Upper Pragian to Lower Emsian], 409.2, 400.45
+
+> - [Wahnbach Formation, Rimmert Formation, Odenspiel Formation, eastern Rheinisches Schiefergebirge, West Germany]
+> - [Schultze, 1984](https://www.biodiversitylibrary.org/part/47129)
 
 [*Torosteus tuberculatus*](https://deepbone.cn/public/#/explor?s_id=2192&functionId=Deepbone_header_searchResultOpen) Gardiner and Miles, 1990
 > lower Frasnian, 382.7, 379.2
