@@ -427,7 +427,7 @@
 > - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
 > - [Long, 1990](https://researchnow.flinders.edu.au/en/publications/two-new-arthrodires-placoderm-fishes-from-the-upper-devonian-gogo); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
-[*Gavinaspis convergens*](https://deepbone.org/public/#/explor?s_id=2473andfunctionId=Deepbone_header_searchResultOpen) Dupret et al., 2009
+[*Gavinaspis convergens*](https://deepbone.org/public/#/explor?s_id=2473andfunctionId=Deepbone_header_searchResultOpen) Dupret *et al*., 2008
 > upper Lochkovian, 415.0, 410.8
 
 > - Xitun Formation; Qujing, Yunnan, China.
@@ -710,7 +710,7 @@
 > - Cleveland Shale Member, Ohio Shale Formation, Ohio, USA.
 > - Carr, 1996; [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/260808).
 
-[*Szelepis yunnanensis*](https://deepbone.cn/public/#/explor?s_id=2121&functionId=Deepbone_header_searchResultOpen) Liu,1981
+[*Szelepis yunnanensis*](https://deepbone.cn/public/#/explor?s_id=2121&functionId=Deepbone_header_searchResultOpen) Liu, 981
 > upper Lochkovian, 415.0, 410.8
 
 > - Xitun Formation, Qujing, Yunnan
@@ -721,7 +721,6 @@
 
 > - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - Stensiö, 1963.
-
 
 [*Tiaraspis subtilis*](https://deepbone.org/public/#/explor?s_id=2593&functionId=Deepbone_header_searchResultOpen) Gross, 1933
 > [Upper Pragian to Lower Emsian], 409.2, 400.45
@@ -777,10 +776,10 @@
 > - Mulga Downs Group, New South Wales, Australia
 > - [Ritchie 1973](https://www.schweizerbart.de/papers/pala/detail/A143/70796/iWuttagoonaspis_i_gen_nov_an_unusual_arthrodire_from_the_Devonian_of_Western_New_South_Wales_Australia?l=FR); [Young and Goujet 2003](https://museum.wa.gov.au/research/records-supplements/records/devonian-fish-remains-dulcie-sandstone-and-cravens-peak-beds-ge)
 
-[*Yiminaspis shenme*](https://deepbone.cn/public/#/explor?s_id=2494&functionId=Deepbone_header_searchResultOpen) Dupret 2008
+[*Yiminaspis shenme*](https://deepbone.cn/public/#/explor?s_id=2494&functionId=Deepbone_header_searchResultOpen) Dupret, 2008
 > Pragian, 410.8, 407.6
 
-> - Qingmen Formation, Zhaotong, Yunnan, China
+> - Posongchong Formation, Zhaotong, Yunnan, China
 > - [Dupret 2008](https://www.tandfonline.com/doi/abs/10.1671/0272-4634%282008%2928%5B12%3AANWPAF%5D2.0.CO%3B2)
 
 [*Xiangshuiosteus wui*](https://deepbone.cn/public/#/explor?s_id=2433&functionId=Deepbone_header_searchResultOpen) Wang, 1992
