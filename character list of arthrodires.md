@@ -979,3 +979,6 @@ cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) 
 > Brazeau et al. (2023): "Para-articular process of dermal neck joint: (0) absent; (1) present. The para-articular process and depression were used to define the articulation of petalichthyids by Young (1978). We disagree with Brazeau et al. (2023) in the coding of arthrodires." 
 
 > - The coding of Xitun actinolepid is 0.
+
+192. Spiracular notch :(0) absent; (1)present.
+> The spiracular notch between the postorbital plate and the dorsal margin of suborbital plate is present in some Incisoscutoidea, such as *Torosteus*, *Harrytoombsia*, and *Mcnamaraspis*. The spiracular notch of *Mcnamaraspis* is closed by short contact between the suborbital and postorbital plates.
