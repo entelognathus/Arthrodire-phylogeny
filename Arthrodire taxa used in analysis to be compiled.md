@@ -491,8 +491,7 @@
 [*Heightingtonaspis anglica*](https://deepbone.cn/public/#/explor?s_id=2474&functionId=Deepbone_header_searchResultOpen) (Traquair 1890)
 > Lochkovian to Pragian, 419.2, 407.6
 
-
-> - Dittonian; Herefordshire, Gloucestershire and Shropshire, England. 
+> - Dittonian; Worcestershire，Herefordshire, Gloucestershire and Shropshire, England. 
 > - [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short).
 
 [*Heintzichthys gouldii*](https://deepbone.cn/public/#/explor?s_id=2273&functionId=Deepbone_header_searchResultOpen) (Newberry, 1885)
@@ -654,6 +653,18 @@
 > - Gaspe Sandstone Series; Campbellton, Canada
 > - [Young, 1983](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9304082), Denison, 1958.
 
+[*Phyllolepis orvini*](https://deepbone.org/public/#/explor?s_id=2287&functionId=Deepbone_header_searchResultOpen) Heintz, 1930
+> Famennian, 372.7, 358.9
+
+> - East Groenland and Scotland
+> - [Stensio, 1934](https://search.worldcat.org/zh-cn/title/on-the-placodermi-of-the-upper-devonian-of-east-greenland-1-phyllolepida-and-arthrodira/oclc/491732290)
+
+[*Phyllolepis rossimontina*](https://deepbone.org/public/#/explor?s_id=2285&functionId=Deepbone_header_searchResultOpen) Lane & Cuffey, 2005
+> Upper Famennian, 363.3, 358.9
+
+> - Hyner, Red Hill, Duncannon Member, Catskill Formation, Hyner, Pennsylvania, USA
+> - [Lane, 2005](https://www.semanticscholar.org/paper/Phyllolepis-rossimontina-sp.-nov.-(Placodermi)-from-Lane/097df6e3f7d8c68ea0ce8d4910305a2126f06944)
+
 [*Placolepis budawangensis*](https://deepbone.cn/public/#/explor?s_id=2471&functionId=Deepbone_header_searchResultOpen) Ritchie 1984
 > Lower or Middle Frasnian, 382.7,  375.7
 
@@ -703,6 +714,12 @@
 
 > - Wood Bay Formation, Svalbard
 > - [Goujet, 1973](https://www.researchgate.net/publication/290391621_Sigaspis_un_nouvel_arthrodire_du_Devonien_inferieur_du_Spitsberg)
+
+[*Simblaspis cachensis*](https://deepbone.org/public/#/explor?s_id=2485&functionId=Deepbone_header_searchResultOpen) Denison, 1958
+> Emsian, 407.6, 393.3
+
+> - Water Canyon Formation, Utah, USA
+> - [Denison, 1958](https://www.biodiversitylibrary.org/bibliography/7193)
 
 [*Stenosteus angustopectus*](https://deepbone.cn/public/#/explor?s_id=2457&functionId=Deepbone_header_searchResultOpen) Carr, 1996
 > upper Famennian, 363.3, 358.9
