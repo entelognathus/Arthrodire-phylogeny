@@ -13,9 +13,9 @@
 | Africanaspis_doryssa              | late/end Famennian                      |                   |      |
 | Africanaspis_edmountaini          | late Famennian                          |                   |      |
 | Aggeraspis_heintzi                | Pragian                                 |                   |      |
-| Ailuracantha_dorsifelis           | Pragian to early Emsian                 |                   |      |
-| Aleosteus_eganensis               | late Emsian                             |                   |      |
-| Amazichthys_trinajsticae          | Middle Famennian                        |                   |      |
+| Ailuracantha_dorsifelis           | Pragian to early Emsian                 |Pragian            |已核对 |
+| Aleosteus_eganensis               | late Emsian                             |late Emsian        |已核对  |
+| Amazichthys_trinajsticae          | Middle Famennian                        |Middle Famennian   |已核对 |
 | Anarthraspis_chamberlini          | Pragian                                 | Pragian           |已核对 |
 | Anarthraspis_montana              | Pragian                                 | Pragian           |已核对 |
 | Angarichthys_hyperboreus          | Late Eifelian or Early Givetian         |                   |      |
