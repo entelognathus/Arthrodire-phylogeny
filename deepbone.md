@@ -1,17 +1,17 @@
 | taxa                              | age range in deepbone                   | modifed age range | 修改情况 |
 |-----------------------------------|-----------------------------------------|-------------------|------|
-| Euleptaspid_A                     | Emsian                                  |                   |      |
+| Euleptaspid_A                     | Emsian                                  | Eifelian          | 已核对 |
 | Euleptaspid_B                     | Emsian                                  | Late Emsian       |已核对   |
 | Actinolepis_magna                 |  Givetian                               | Late Eifelian     |已核对   |
-| Actinolepis_sp1                   | Eifelian                                |                   |      |
-| Actinolepis_sp2                   | Givetian                                |                   |      |
-| Actinolepis_spinosa               | Pragian                                 |Pragian            |已核对 |
-| Actinolepis_tuberculata           | Eifelian                                |                   |      |
-| Actinolepis_zaikai                | upper Emsian                            |                   |      |
-| Aethaspis_major                   | Pragian                                 |                   |      |
-| Aethaspis_utahensis               | Pragian                                 |                   |      |
-| Africanaspis_doryssa              | late/end Famennian                      |                   |      |
-| Africanaspis_edmountaini          | late Famennian                          |                   |      |
+| Actinolepis_sp1                   | Eifelian                                |  Eifelian         |已核对|
+| Actinolepis_sp2                   | Givetian                                |  Givetian         | 已核对|
+| Actinolepis_spinosa               | Pragian                                 |  Pragian          |已核对 |
+| Actinolepis_tuberculata           | Eifelian                                | Eifelian          |已核对 |
+| Actinolepis_zaikai                | upper Emsian                            | late Emsian       | 已核对  |
+| Aethaspis_major                   | Pragian                                 | Emsian            | 已核对|
+| Aethaspis_utahensis               | Pragian                                 | Emsian            | 已核对 |
+| Africanaspis_doryssa              | late/end Famennian                      | late Famennian    | 已核对|
+| Africanaspis_edmountaini          | late Famennian                          | late Famennian    | 已核对|
 | Aggeraspis_heintzi                | Pragian                                 |                   |      |
 | Ailuracantha_dorsifelis           | Pragian to early Emsian                 |                   |      |
 | Aleosteus_eganensis               | late Emsian                             |                   |      |
@@ -358,7 +358,7 @@
 | Stenosteus_angustopectus          | late/end Famennian                      |late Famennian     |已核对 |
 | Stenosteus_glaber                 | late/end Famennian                      |late Famennian     |已核对 |
 | Stenosteus_pertenuis              | Frasnian                                |                   |      |
-| Stipatosteus_svidunovitchi        | late Emsian                             |                   |      |
+| Stipatosteus_svidunovitchi        | late Emsian                             |late Emsian        | 已核对 |
 | Stuertzaspis_germanica            | early Emsian                            | early Emsian      | 已核对 |
 | Svalbardaspis_angulatus           | Emsian                                  | Pragian           | 已核对 |
 | Svalbardaspis_polaris             | Emsian                                  | Pragian           | 已核对|
