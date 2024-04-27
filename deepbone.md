@@ -29,15 +29,14 @@
 | Arctaspis_kiaeri                  | Pragian                                 | Pragian           | 已核对  |
 | Arctaspis_maxima                  | Pragian to early Emsian                 | Early Emisan      | 已核对  |
 | Arctaspis_minor                   | Pragian                                 | Pragian           | 已核对  |
-| Arctolepis_brevis                 | Emsian                                  |                   |      |
 | Arctolepis_decipiens              | Emsian                                  | Early Emsian      | 已核对  |
 | Arctolepis_lata                   | Emsian                                  | Early Emsian      | 已核对  |
 | Arctolepis_lewini                 | Emsian                                  | Early Emsian      | 已核对  |
 | Arctolepis_longicornis            | Emsian                                  | Early Emsian      | 已核对  |
 | Arctolepis_solnoerdali            | Emsian                                  | Early Emsian      | 已核对  |
-| Arctonema_crassum                 | Emsian                                  |                   |      |
-| Ardennosteus_ubaghsi              | late/end Famennian                      |                   |      |
-| Arenipiscis_westolli              | Emsian                                  |                   |      |
+| Arctonema_crassum                 | Emsian                                  | Eifelian          | 已核对 |
+| Ardennosteus_ubaghsi              | late/end Famennian                      | late Famennian    | 已核对 |
+| Arenipiscis_westolli              | Emsian                                  | Emsian            | 已核对 |
 | Aspidichthys_clavatus             | Frasnian                                |                   |      |
 | Aspidichthys_ingens               | Frasnian                                | Late Frasnian     |已核对   |
 | Aspidichthys_notabilis            | late Frasnian                           |                   |      |
