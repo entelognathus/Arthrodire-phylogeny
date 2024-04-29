@@ -67,17 +67,17 @@
 | Bruntonichthys_multidens          | early Frasnian                          |early Frasnian     | 已核对  |
 | Bryantolepis_brachycephala        | Pragian                                 | Pragian           | 已核对 |
 | Bryantolepis_cristata             | Pragian                                 | Pragian           | 已核对 |
-| Bryantolepis_major                | Pragian                                 |                   |      |
-| Bryantolepis_sp                   | Pragian                                 |                   |      |
-| Bryantolepis_williamsi            | Emsian                                  |Emsian             | 已核对 |
-| Buchanosteus_confertituberculatus | Emsian                                  |                   |      |
-| Buchanosteus_guangxiensis         | late Pragian                            |                   |      |
-| Buchanosteus_nuricus              | Emsian                                  |                   |      |
-| Bulbocanthus_rugosus              | Pragian                                 |                   |      |
+| Bryantolepis_major                | Pragian                                 | Pragian           | 已核对 |
+| Bryantolepis_sp                   | Pragian                                 | Pragian           | 已核对 |
+| Bryantolepis_williamsi            | Emsian                                  | Emsian            | 已核对 |
+| Buchanosteus_confertituberculatus | Emsian                                  | Emsian            | 已核对  |
+| Buchanosteus_guangxiensis         | late Pragian                            |late Pragian       | 已核对 |
+| Buchanosteus_nuricus              | Emsian                                  | late Emsian       | 已核对 |
+| Bulbocanthus_rugosus              | Pragian                                 | Pragian           | 已核对  |
 | Bullerichthys_fascidens           | early Frasnian                          |early Frasnian     |已核对 |
-| Bulongosteus_liui                 | Famennian                               |                   |      |
+| Bulongosteus_liui                 | Famennian                               |early Famennian    |已核对 |
 | Bungartius_perissus               | late/end Famennian                      |Late Famenian      |已核对   |
-| Burrinjucosteus_asymmetricus      | Emsian                                  |                   |      |
+| Burrinjucosteus_asymmetricus      | Emsian                                  | Emsian            |已核对  |
 | Callognathus_regularis            | late/end Famennian                      |Late Famenian      |已核对 |
 | Camuropiscis_concinnus            | early Frasnian                          |early Frasnian     | 已核对 |
 | Camuropiscis_laidlawi             | early Frasnian                          |early Frasnian     | 已核对 |
@@ -168,7 +168,7 @@
 | Gemuendenaspis_angusta            | early Emsian                            |                   |      |
 | Glyptaspis_verrucosa              | late/end Famennian                      |late Famennian     |已核对 |
 | Golshanichthys_asiatica           | early Frasnian                          |                   |      |
-| Goodradigbeeon_australianum       | Emsian                                  |                   |      |
+| Goodradigbeeon_australianum       | Emsian                                  |Emsian             |已核对 |
 | Gorgonichthys_clarki              | late/end Famennian                      |late Famennian     |已核对 |
 | Grazosteus_hoernesi               | Middle Devonian                         |                   |      |
 | Grifftaylor_antarcticus           | Givetian                                | Givetian          |已核对 |
@@ -297,7 +297,7 @@
 | Parabelosteus_acuticeps           | late Frasnian                           | late Frasnian     | 已核对 |
 | Parabelosteus_pusillus            | late Frasnian                           | late Frasnian     | 已核对 |
 | Parabelosteus_tuberculatus        | late Frasnian                           | late Frasnian     | 已核对 |
-| Parabuchanosteus_murrumbidgeensis | Emsian                                  |                   |       |
+| Parabuchanosteus_murrumbidgeensis | Emsian                                  |  Emsian           | 已核对 |
 | Paramylostoma_arcualis            | late/end Famennian                      |late Famennian     |已核对 |
 | Parawilliamsaspis_yujiangensis    | middle-late Lochkovian                  |                   |      |
 | Phlyctaenius_acadicus             | Emsian or Eifelian                      |                   |      |
@@ -365,8 +365,8 @@
 | Svalbardaspis_typicus             | Emsian                                  | Pragian           | 已核对 |
 | Synauchenia_coalescens            | late Frasnian                           | late Frasnian     | 已核对 |
 | Szelepis_yunnanensis              | Lochkovian                              |                   |      |
-| Taemasosteus_maclartiensis        | Emsian                                  |                   |      |
-| Taemasosteus_novaustrocambricus   | Emsian                                  |                   |      |
+| Taemasosteus_maclartiensis        | Emsian                                  |Emsian             | 已核对 |
+| Taemasosteus_novaustrocambricus   | Emsian                                  |Emsian             |已核对  |
 | Tafilalichthys_lavocati           | late/end Famennian                      |                   |      |
 | Tapinosteus_heintzi               | late Frasnian                           | late Frasnian     |已核对 |
 | Taunaspis_eurystethes             | Pragian                                 |                   |      |
