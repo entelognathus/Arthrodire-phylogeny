@@ -42,18 +42,17 @@
 | Aspidichthys_notabilis            | late Frasnian                           |                   |      |
 | Atlantidosteus_hollardi           | Emsian                                  |                   |      |
 | Atlantidosteus_pacifica           | Eifelian                                |                   |      |
-| Austrophyllolepis_dulciensis      | Givetian                                |                   |      |
-| Austrophyllolepis_quiltyi         | middle Givetian                         |                   |      |
+| Austrophyllolepis_dulciensis      | Givetian                                |  Givetian         | 已核对 |
+| Austrophyllolepis_quiltyi         | middle Givetian                         | Givetian          | 已核对 |
 | Austrophyllolepis_ritchiei        | late Givetian                           | Late Givetian     | 已核对 |
-| Austrophyllolepis_sp              | middle Givetian                         |                   |      |
 | Austrophyllolepis_youngi          | late Givetian                           | Late Givetian     | 已核对| 
 | Baringaspis_dineleyi              | Lochkovian                              | Late Lochkovian   | 已核对 |
 | Barwickosteus_antarcticus         | Givetian                                | Givetian          | 已核对 |
 | Belemnacanthus_giganteus          | Eifelian                                |                   |      |
-| Belgiosteus_mortelmansi           | Givetian                                |                   |      |
+| Belgiosteus_mortelmansi           | Givetian                                |Givetian           | 已核对 |
 | Belosteus_elegans                 | late Frasnian                           |late Frasnian      |已核对 |
-| Bimbianga_burrinjuckensis         | Emsian                                  |                   |      |
-| Bollandaspis_woschmidti           | Emsian                                  |                   |      |
+| Bimbianga_burrinjuckensis         | Emsian                                  |Emsian             |已核对 |
+| Bollandaspis_woschmidti           | Emsian                                  |Emsian             | 已核对 |
 | Boomeraspis_goujeti               | middle Givetian                         | Givetian          | 已核对 |
 | Brachydeirus_bicarinatus          | late Frasnian                           | late Frasnian     | 已核对 |
 | Brachydeirus_carinatus            | late Frasnian                           | late Frasnian     | 已核对|
