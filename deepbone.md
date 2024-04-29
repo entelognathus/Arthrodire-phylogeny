@@ -19,10 +19,10 @@
 | Anarthraspis_chamberlini          | Pragian                                 | Pragian           |已核对 |
 | Anarthraspis_montana              | Pragian                                 | Pragian           |已核对 |
 | Angarichthys_hyperboreus          | Late Eifelian or Early Givetian         |                   |      |
-| Antarctaspis_mcmurdoensis         | middle Givetian                         |  Givetian         |已核对  |
-| Antarctolepis_gunni               | middle Givetian                         |  Givetian         |已核对  |
-| Antineosteus_lehmani              | Emsian                                  |                   |      |
-| Antineosteus_rufus                | late Emsian                             |                   |      |
+| Antarctaspis_mcmurdoensis         | middle Givetian                         | Givetian          |已核对  |
+| Antarctolepis_gunni               | middle Givetian                         | Givetian          |已核对  |
+| Antineosteus_lehmani              | Emsian                                  | Emsian            | 已核对|
+| Antineosteus_rufus                | late Emsian                             | late Emsian       | 已核对 |
 | Arctaspis_hoegi                   | Pragian                                 | Pragian           | 已核对  |
 | Arctaspis_hoeli                   | Pragian                                 | Pragian           | 已核对  |
 | Arctaspis_holtedahli              | Pragian                                 | Pragian           | 已核对  |
@@ -40,8 +40,8 @@
 | Aspidichthys_clavatus             | Frasnian                                |                   |      |
 | Aspidichthys_ingens               | Frasnian                                | Late Frasnian     |已核对   |
 | Aspidichthys_notabilis            | late Frasnian                           |                   |      |
-| Atlantidosteus_hollardi           | Emsian                                  |                   |      |
-| Atlantidosteus_pacifica           | Eifelian                                |                   |      |
+| Atlantidosteus_hollardi           | Emsian                                  |                   |       | 
+| Atlantidosteus_pacifica           | Eifelian                                |  Eifelian         | 已核对 |
 | Austrophyllolepis_dulciensis      | Givetian                                |  Givetian         | 已核对 |
 | Austrophyllolepis_quiltyi         | middle Givetian                         | Givetian          | 已核对 |
 | Austrophyllolepis_ritchiei        | late Givetian                           | Late Givetian     | 已核对 |
@@ -83,8 +83,8 @@
 | Camuropiscis_laidlawi             | early Frasnian                          |early Frasnian     | 已核对 |
 | Carolowilhelmina_geognostica      | late Eifelian                           |                   |      |
 | Cartieraspis_nigra                | Emsian                                  |                   |      |
-| Cathlesichthys_weejasperensis     | Emsian                                  |                   |      |
-| Cavanosteus_australis             | Emsian                                  |                   |      |
+| Cathlesichthys_weejasperensis     | Emsian                                  | Emsian            |已核对 |
+| Cavanosteus_australis             | Emsian                                  |  Emsian           |已核对 |
 | Clarkeosteus_cf _halmodeus        | Frasnian                                |                   |      |
 | Clarkeosteus_yidadeinsis          | late Givetian                           |                   |      |
 | Cobandrahlepis_petyrwardi         | Givetian to Frasnian                    |                   |      |
@@ -108,7 +108,7 @@
 | Deirosteus_omaliusii              | late/end Famennian                      |                   |      |
 | Denisonosteus_weejasperensis      | Eifelian                                | Eifelian          |已核对  |
 | Deveonema_obrucevi                | early/miidle Frasnian                   |                   |      |
-| Dhanguura_johnstoni               | Emsian                                  |                   |      |
+| Dhanguura_johnstoni               | Emsian                                  | Emsian            |已核对  |
 | Diadsomaspis_elongata             | late Emsian                             |                   |      |
 | Diadsomaspis_remscheidensis       | late Emsian                             |                   |      |
 | Dickosteus_threiplandi            | early Givetian                          | early Givetian    | 已核对  |
@@ -141,13 +141,13 @@
 | Edgellaspis_gorteri               | Early Eifelian                          |                   |      |
 | Eldenosteus_arizonensis           | Frasnian                                |                   |      |
 | Elegantaspis_reticornis           | Pragian                                 | Pragian           |已核对 |
-| Elvaspis_tuberculata              | Emsian                                  |                   |      |
+| Elvaspis_tuberculata              | Emsian                                  |  Emsian           |已核对  |
 | Enseosteus_hermanni               | late Frasnian                           | late Frasnian     |已核对 |
 | Enseosteus_jaekeli                | late Frasnian                           | late Frasnian     |已核对 |
 | Enseosteus_marocanensis           | late Frasnian                           | late Frasnian     |已核对 |
 | Enseosteus_pachyostoides          | late Frasnian                           | late Frasnian     |已核对 |
 | Erikaspis_zychi                   | Lochkovian–Pragian                      |                   |      |
-| Errolosteus_goodradigbeensis      | Emsian                                  |                   |      |
+| Errolosteus_goodradigbeensis      | Emsian                                  | Emsian            |已核对 |
 | Erromenosteus_brachyrostris       | late Frasnian                           |late Frasnian      |已核对 |
 | Erromenosteus_concavus            | late Frasnian                           |late Frasnian      |已核对 |
 | Erromenosteus_diensti             | late Frasnian                           |late Frasnian      |已核对 |
@@ -384,7 +384,7 @@
 | Tnoralaspis_petercooki            | late Pragian to Emsian                  |                   |      |
 | Tokolepis_ulpe                    | Pragian                                 |                   |      |
 | Toombalepis_tuberculata           | late Pragian to Emsian                  |                   |      |
-| Toombsosteus_denisoni             | Emsian                                  |                   |      |
+| Toombsosteus_denisoni             | Emsian                                  | Emsian            | 已核对  |
 | Torosteus_pulchellus              | early Frasnian                          | early Frasnian    | 已核对 |
 | Torosteus_tuberculatus            | early Frasnian                          | early Frasnian    | 已核对 |
 | Trachosteus_clarki                | late/end Famennian                      | late Famennian    | 已核对 |
@@ -400,7 +400,7 @@
 | Walterosteus_lelievrei            | Frasnian                                | Late Frasnian     |已核对 |
 | Watsonosteus_fletti               | Givetian                                | middle Givetian   |已核对 |
 | Westralichthys_uwagedensis        | early Frasnian                          |                   |      |
-| Williamsaspis_bedfordi            | Emsian                                  |                   |      |
+| Williamsaspis_bedfordi            | Emsian                                  |  Emsian           | 已核对|
 | Woodwardosteus_spatulatus         | Eifelian                                |                   |      |
 | Wuttagoonaspis_fletcheri          | late Pragian to early Emsian            |                   |      |
 | Wuttagoonaspis_milligani          | late Pragian to Eifelian                |                   |      |
@@ -409,7 +409,7 @@
 | Yinostius major                   | Emsian                                  |                   |      |
 | Yujiangolepis_liujingensis        | Pragian                                 |                   |      |
 | Yurammia_browni                   | Famennian                               |                   |      |
-| Elvaspis_whitei                   | Emsian                                  |                   |      |
+| Elvaspis_whitei                   | Emsian                                  |Emsian             |已核对 |
 | Arctolepis_sp                     | Eifelian                                |                   |      |
 | Arctonema_sp                      | Eifelian                                |                   |      |
 | Aspidichthys_sp                   | Famennian                               |                   |      |
