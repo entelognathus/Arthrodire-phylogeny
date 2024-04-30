@@ -81,13 +81,13 @@
 | Callognathus_regularis            | late/end Famennian                      |Late Famenian      |已核对 |
 | Camuropiscis_concinnus            | early Frasnian                          |early Frasnian     | 已核对 |
 | Camuropiscis_laidlawi             | early Frasnian                          |early Frasnian     | 已核对 |
-| Carolowilhelmina_geognostica      | late Eifelian                           |                   |      |
-| Cartieraspis_nigra                | Emsian                                  |                   |      |
-| Cathlesichthys_weejasperensis     | Emsian                                  |                   |      |
-| Cavanosteus_australis             | Emsian                                  |                   |      |
+| Carolowilhelmina_geognostica      | late Eifelian                           | late Eifelian     |已核对 |
+| Cartieraspis_nigra                | Emsian                                  |  Emsian           | 已核对|
+| Cathlesichthys_weejasperensis     | Emsian                                  | Emsian            |已核对 |
+| Cavanosteus_australis             | Emsian                                  | Emsian            | 已核对 |
 | Clarkeosteus_cf _halmodeus        | Frasnian                                |                   |      |
-| Clarkeosteus_yidadeinsis          | late Givetian                           |                   |      |
-| Cobandrahlepis_petyrwardi         | Givetian to Frasnian                    |                   |      |
+| Clarkeosteus_yidadeinsis          | late Givetian                           | late Givetian     |已核对|
+| Cobandrahlepis_petyrwardi         | Givetian to Frasnian                    | early Frasnian    |已核对 |
 | Coccosteus_cuspidatus             | Eifelian                                | upper Eifelian    | 已核对 |
 | Coccosteus_cuyahogae              | late/end Famennian                      | Late Famennian    | 已核对 |
 | Coccosteus_grossi                 | Eifelian                                |                   |      |
@@ -408,7 +408,7 @@
 | Yiminaspis_shenme                 | Pragian                                 |                   |      |
 | Yinostius major                   | Emsian                                  |                   |      |
 | Yujiangolepis_liujingensis        | Pragian                                 |                   |      |
-| Yurammia_browni                   | Famennian                               |                   |      |
+| Yurammia_browni                   | Famennian                               | early Frasnian    |已核对 |
 | Elvaspis_whitei                   | Emsian                                  |                   |      |
 | Arctolepis_sp                     | Eifelian                                |                   |      |
 | Arctonema_sp                      | Eifelian                                |                   |      |
