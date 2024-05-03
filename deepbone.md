@@ -120,33 +120,33 @@
 | Diplognathus_lafargei             | Frasnian or Famennian                   |                   |      |
 | Diplognathus_mirabilis            | late/end Famennian                      |late Famennian     | 已核对 |
 | Draconichthys_elegans             | late Frasnian                           |late Frasnian      | 已核对 |
-| Driscollaspis_pankowskiorum       | Frasnian                                |                   |      |
-| Dunkleosteus_amblyodoratus        | late/end Famennian                      |                   |      |
-| Dunkleosteus_belgicus             | late/end Famennian                      |                   |      |
-| Dunkleosteus_denisoni             | Famennian                               |                   |      |
-| Dunkleosteus_magnificus           | Frasnian                                |                   |      |
-| Dunkleosteus_marsaisi             | late/end Famennian                      |                   |      |
-| Dunkleosteus_missouriensis        | Frasnian                                |                   |      |
-| Dunkleosteus_newberryi            | Frasnian                                |                   |      |
+| Driscollaspis_pankowskiorum       | Frasnian                                | Frasnian          | 已核对 |
+| Dunkleosteus_amblyodoratus        | late/end Famennian                      |late Devonian      | 已核对 |
+| Dunkleosteus_belgicus             | late/end Famennian                      | Famennian         | 已核对  |
+| Dunkleosteus_denisoni             | Famennian                               | lower Famennian   | 已核对 |
+| Dunkleosteus_magnificus           | Frasnian                                | Frasnian          | 已核对 |
+| Dunkleosteus_marsaisi             | late/end Famennian                      | early Famennian   | 已核对 |
+| Dunkleosteus_missouriensis        | Frasnian                                | late Devonian     | 已核对 |
+| Dunkleosteus_newberryi            | Frasnian                                |  Frasnian         | 已核对 |
 | Dunkleosteus_raveri               | late/end Famennian                      |late Famennian     |已核对 |
-| Dunkleosteus_terrelli             | late Frasnian to Famennian              |                   |      |
-| Eastmanosteus_aduncus             | early Frasnian                          |                   |      |
+| Dunkleosteus_terrelli             | late Frasnian to Famennian              |late Famennian     | 已核对   |
+| Eastmanosteus_aduncus             | early Frasnian                          | early Frasnian    |已核对  |
 | Eastmanosteus_calliaspis          | early Frasnian                          | early Frasnian    |已核对  |
 | Eastmanosteus_egloni              | Frasnian                                | early frasnian    |已核对  |
-| Eastmanosteus_licharevi           | late Frasnian                           |                   |      |
-| Eastmanosteus_Precursor           | late Eifelian                           |                   |      |
-| Eastmanosteus_pustulosus          | Givetian to early Fammennian            |                   |      |
-| Eastmanosteus_tuberculatus        | early Famennian                         |                   |      |
-| Eastmanosteus_yunnanensis         | Givetian                                |                   |      |
-| Edgellaspis_gorteri               | Early Eifelian                          |                   |      |
-| Eldenosteus_arizonensis           | Frasnian                                |                   |      |
+| Eastmanosteus_licharevi           | late Frasnian                           | late Frasnian     | 已核对|
+| Eastmanosteus_Precursor           | late Eifelian                           |  late Eifelian    |已核对 |
+| Eastmanosteus_pustulosus          | Givetian to early Fammennian            |                   | 已核对 |
+| Eastmanosteus_tuberculatus        | early Famennian                         | early Famennia    |已核对   |
+| Eastmanosteus_yunnanensis         | Givetian                                |Givetian           |已核对 |
+| Edgellaspis_gorteri               | Early Eifelian                          | Eifelian          | 已核对 |
+| Eldenosteus_arizonensis           | Frasnian                                |  Frasnian         | 已核对 |
 | Elegantaspis_reticornis           | Pragian                                 | Pragian           |已核对 |
 | Elvaspis_tuberculata              | Emsian                                  |  Emsian           |已核对  |
 | Enseosteus_hermanni               | late Frasnian                           | late Frasnian     |已核对 |
 | Enseosteus_jaekeli                | late Frasnian                           | late Frasnian     |已核对 |
 | Enseosteus_marocanensis           | late Frasnian                           | late Frasnian     |已核对 |
 | Enseosteus_pachyostoides          | late Frasnian                           | late Frasnian     |已核对 |
-| Erikaspis_zychi                   | Lochkovian–Pragian                      |                   |      |
+| Erikaspis_zychi                   | Lochkovian–Pragian                      |Lochkovian–Pragian |已核对  |
 | Errolosteus_goodradigbeensis      | Emsian                                  | Emsian            |已核对 |
 | Erromenosteus_brachyrostris       | late Frasnian                           |late Frasnian      |已核对 |
 | Erromenosteus_concavus            | late Frasnian                           |late Frasnian      |已核对 |
@@ -156,12 +156,12 @@
 | Erromenosteus_lucifer             | late Frasnian                           |late Frasnian      |已核对 |
 | Erromenosteus_platycephalus       | late Frasnian                           |late Frasnian      |已核对 |
 | Eskimaspis_heintzi                | Lochkovian                              |late Lochkovian    |已核对 |
-| Ethabukaspis_leios                | late Pragian to Emsian                  |                   |      |
-| Eukaia_elongata                   | Pragian                                 |                   |      |
-| Euleptaspis_depressa              | Pragian                                 |                   |      |
-| Exutaspis_megista                 | late Emsian                             |                   |      |
+| Ethabukaspis_leios                | late Pragian to Emsian                  |Emsian             |已核对 |
+| Eukaia_elongata                   | Pragian                                 |Pragian            |已核对 |
+| Euleptaspis_depressa              | Pragian                                 | Pragian           |已核对 |
+| Exutaspis_megista                 | late Emsian                             |late Emsian        |已核对 |
 | Fallacosteus_turnerae             | early Frasnian                          | early Frasnian    |  已核对 |
-| Gannanichthys_chongyiensis        | Famennian                               |                   |      |
+| Gannanichthys_chongyiensis        | Famennian                               | Famennian         |已核对 |
 | Gaspeaspis_atholi                 | Emsian or Eifelian                      |                   |      |
 | Gaspeaspis_cassivii               | Emsian or Eifelian                      |                   |      |
 | Gavinaspis_convergens             | Late Lochkovian                         |                   |      |
