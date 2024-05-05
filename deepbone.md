@@ -90,18 +90,18 @@
 | Cobandrahlepis_petyrwardi         | Givetian to Frasnian                    | early Frasnian    |已核对 |
 | Coccosteus_cuspidatus             | Eifelian                                | upper Eifelian    | 已核对 |
 | Coccosteus_cuyahogae              | late/end Famennian                      | Late Famennian    | 已核对 |
-| Coccosteus_grossi                 | Eifelian                                |                   |      |
+| Coccosteus_grossi                 | Eifelian                                | Eifelian          |已核对  |
 | Coccosteus_macromus               | late Frasnian                           |                   |      |
-| Coccosteus_markae                 | early Givetian                          |                   |      |
-| Coccosteus_occidentalis           | Eifelian                                |                   |      |
+| Coccosteus_markae                 | early Givetian                          |early Givetian     |已核对 |
+| Coccosteus_occidentalis           | Eifelian                                |  Eifelian         | 已核对  |
 | Coccosteus_terranovae             | Famennian                               |                   |      |
-| Colombiaspis_rinconensis          | Frasnian                                |                   |      |
+| Colombiaspis_rinconensis          | Frasnian                                |  Frasnian         | 已核对|
 | Compagopiscis_croucheri           | early Frasnian                          | early Frasnian    | 已核对 |
-| Confractamnis_johnjelli           | Eifelian                                |                   |      |
-| Copanognathus_crassus             | early Frasnian                          |                   |      |
-| Cosmacanthus_malcolmsoni          | late Frasnian                           |                   |      |
+| Confractamnis_johnjelli           | Eifelian                                |Eifelian           | 已核对 |
+| Copanognathus_crassus             | early Frasnian                          | early Frasnian    | 已核对  |
+| Cosmacanthus_malcolmsoni          | late Frasnian                           | late Frasnian     | 已核对 |
 | Cowralepis_mclachlani             | Givetian                                | upper Givetian    | 已核对  |
-| Cravenaspis_trematosus            | Pragian                                 |                   |      |
+| Cravenaspis_trematosus            | Pragian                                 | Late Emsian       | 已核对 |
 | Cyrtosteus_inflatus               | late Frasnian                           |late Frasnian      | 已核对 |
 | Deirosteus_abbreviatus            | late Frasnian                           |                   |      |
 | Deirosteus_angustatus             | Eifelian                                |                   |      |
