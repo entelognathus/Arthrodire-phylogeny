@@ -12,13 +12,13 @@
 | Aethaspis_utahensis               | Pragian                                 | Emsian            | 已核对 |
 | Africanaspis_doryssa              | late/end Famennian                      | late Famennian    | 已核对|
 | Africanaspis_edmountaini          | late Famennian                          | late Famennian    | 已核对|
-| Aggeraspis_heintzi                | Pragian                                 |                   |      |
+| Aggeraspis_heintzi                | Pragian                                 | upper Pragian(h)  |已核对|
 | Ailuracantha_dorsifelis           | Pragian to early Emsian                 |Pragian            |已核对 |
 | Aleosteus_eganensis               | late Emsian                             |late Emsian        |已核对  |
 | Amazichthys_trinajsticae          | Middle Famennian                        |Middle Famennian   |已核对 |
 | Anarthraspis_chamberlini          | Pragian                                 | Pragian           |已核对 |
 | Anarthraspis_montana              | Pragian                                 | Pragian           |已核对 |
-| Angarichthys_hyperboreus          | Late Eifelian or Early Givetian         |                   |      |
+| Angarichthys_hyperboreus          | Late Eifelian or Early Givetian         |                   |已核对 |
 | Antarctaspis_mcmurdoensis         | middle Givetian                         | Givetian          |已核对  |
 | Antarctolepis_gunni               | middle Givetian                         | Givetian          |已核对  |
 | Antineosteus_lehmani              | Emsian                                  | Emsian            | 已核对|
@@ -37,7 +37,7 @@
 | Arctonema_crassum                 | Emsian                                  | Eifelian          | 已核对 |
 | Ardennosteus_ubaghsi              | late/end Famennian                      | late Famennian    | 已核对 |
 | Arenipiscis_westolli              | Emsian                                  | Emsian            | 已核对 |
-| Aspidichthys_clavatus             | Frasnian                                |                   |      |
+| Aspidichthys_clavatus             | Frasnian                                | Frasnian          | 已核对 |
 | Aspidichthys_ingens               | Frasnian                                | Late Frasnian     |已核对   |
 | Aspidichthys_notabilis            | late Frasnian                           |                   |      |
 | Atlantidosteus_hollardi           | Emsian                                  |                   |       | 
@@ -48,7 +48,7 @@
 | Austrophyllolepis_youngi          | late Givetian                           | Late Givetian     | 已核对| 
 | Baringaspis_dineleyi              | Lochkovian                              | Late Lochkovian   | 已核对 |
 | Barwickosteus_antarcticus         | Givetian                                | Givetian          | 已核对 |
-| Belemnacanthus_giganteus          | Eifelian                                |                   |      |
+| Belemnacanthus_giganteus          | Eifelian                                |Eifelian(h)        |已核对|
 | Belgiosteus_mortelmansi           | Givetian                                |Givetian           | 已核对 |
 | Belosteus_elegans                 | late Frasnian                           |late Frasnian      |已核对 |
 | Bimbianga_burrinjuckensis         | Emsian                                  |Emsian             |已核对 |
@@ -62,7 +62,7 @@
 | Brachydeirus_minor                | late Frasnian                           | late Frasnian     | 已核对|
 | Brachydeirus_scaber               | early/miidle Frasnian                   |                   |      |
 | Brachyosteus_dietrichi            | late Frasnian                           | late Frasnian     | 已核对 |
-| Brachyosteus_ooensis              | late Frasnian                           |                   |      |
+| Brachyosteus_ooensis              | late Frasnian                           | late Frasnian(h)  |已核对 |
 | Braunosteus_schmidti              | late Frasnian                           |late Frasnian      | 已核对 |
 | Bruntonichthys_multidens          | early Frasnian                          |early Frasnian     | 已核对  |
 | Bryantolepis_brachycephala        | Pragian                                 | Pragian           | 已核对 |
@@ -94,7 +94,7 @@
 | Coccosteus_macromus               | late Frasnian                           |                   |      |
 | Coccosteus_markae                 | early Givetian                          |early Givetian     |已核对 |
 | Coccosteus_occidentalis           | Eifelian                                |  Eifelian         | 已核对  |
-| Coccosteus_terranovae             | Famennian                               |                   |      |
+| Coccosteus_terranovae             | Famennian                               | Famennian (h)     |已核对 |
 | Colombiaspis_rinconensis          | Frasnian                                |  Frasnian         | 已核对|
 | Compagopiscis_croucheri           | early Frasnian                          | early Frasnian    | 已核对 |
 | Confractamnis_johnjelli           | Eifelian                                |Eifelian           | 已核对 |
@@ -105,7 +105,7 @@
 | Cyrtosteus_inflatus               | late Frasnian                           |late Frasnian      | 已核对 |
 | Deirosteus_abbreviatus            | late Frasnian                           | Frasnian(handbook)| 已核对 |
 | Deirosteus_angustatus             | Eifelian                                | Eifelian(handbook)| 已核对 |
-| Deirosteus_omaliusii              | late/end Famennian                      |                   |      |
+| Deirosteus_omaliusii              | late/end Famennian                      |Famennian(handbook)|已核对 |
 | Denisonosteus_weejasperensis      | Eifelian                                | Eifelian          |已核对  |
 | Deveonema_obrucevi                | early/miidle Frasnian                   |Frasnian(handbook) |已核对  |
 | Dhanguura_johnstoni               | Emsian                                  | Emsian            |已核对  |
@@ -165,27 +165,27 @@
 | Gaspeaspis_atholi                 | Emsian or Eifelian                      | Emsian            |已核对 |
 | Gaspeaspis_cassivii               | Emsian or Eifelian                      |Emsian             |已核对 |
 | Gavinaspis_convergens             | Late Lochkovian                         | Late Lochkovian   |已核对 |
-| Gemuendenaspis_angusta            | early Emsian                            |                   |      |
+| Gemuendenaspis_angusta            | early Emsian                            |Pragian to e Emsian|已核对 |
 | Glyptaspis_verrucosa              | late/end Famennian                      |late Famennian     |已核对 |
-| Golshanichthys_asiatica           | early Frasnian                          |                   |      |
+| Golshanichthys_asiatica           | early Frasnian                          |early Frasnian     |已核对 |
 | Goodradigbeeon_australianum       | Emsian                                  |Emsian             |已核对 |
 | Gorgonichthys_clarki              | late/end Famennian                      |late Famennian     |已核对 |
-| Grazosteus_hoernesi               | Middle Devonian                         |                   |      |
+| Grazosteus_hoernesi               | Middle Devonian                         |Middle Devonian(h) | 已核对 |
 | Grifftaylor_antarcticus           | Givetian                                | Givetian          |已核对 |
 | Groenlandaspis_antarcticus        | late Givetian                           | Givetian          |已核对 |
-| Groenlandaspis_disjectus          | middle Famennian                        |                   |      |
+| Groenlandaspis_disjectus          | middle Famennian                        |Famennian          |已核对 |
 | Groenlandaspis_mirabilis          | late Famennian                          |Famennian          |已核对 |
-| Groenlandaspis_pennsylvanica      | late Famennian                          |                   |      |
-| Groenlandaspis_potyi              | late Famennian                          |                   |      |
-| Groenlandaspis_riniensis          | late/end Famennian                      |                   |      |
-| Groenlandaspis_seni               | Frasnian                                |                   |      |
-| Groenlandaspis_silva              | Givetian                                |                   |      |
-| Groenlandaspis_theroni            | Givetian                                |                   |      |
-| Groenlandaspis_thorezi            | late/end Famennian                      |                   |      |
+| Groenlandaspis_pennsylvanica      | late Famennian                          |late Famennian     |已核对 |
+| Groenlandaspis_potyi              | late Famennian                          |late Famennian     |已核对 |
+| Groenlandaspis_riniensis          | late/end Famennian                      |Famennian          |已核对  |
+| Groenlandaspis_seni               | Frasnian                                |Famennian          |已核对 |
+| Groenlandaspis_silva              | Givetian                                |Givetian           |已核对 |
+| Groenlandaspis_theroni            | Givetian                                | Givetian          |已核对 |
+| Groenlandaspis_thorezi            | late/end Famennian                      |late Famennian     |已核对 |
 | Gymnotrachelus_hydei              | late/end Famennian                      | late Famennian    |已核对|
-| Gyroplacosteus_butovi             | Frasnian                                |                   |      |
-| Gyroplacosteus_panderi            | Frasnian                                | early Frasnian    |已核对  |
-| Gyroplacosteus_vialowi            | early/miidle Frasnian                   |                   |      |
+| Gyroplacosteus_butovi             | Frasnian                                |Frasnian(h)        |已核对 |
+| Gyroplacosteus_panderi            | Frasnian                                | Frasnian          |已核对  |
+| Gyroplacosteus_vialowi            | early/miidle Frasnian                   | Frasnian (h)      |已核对  |
 | Hadrosteus_rapax                  | late Frasnian                           | late Frasnian     |已核对  |
 | Harrytoombsia_elegans             | early Frasnian                          | early Frasnian    |已核对 |
 | Heightingtonaspis_anglica         | Lochkovian to Pragian                   |                   |      |
