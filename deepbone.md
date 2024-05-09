@@ -1,4 +1,4 @@
-| taxa                              | age range in deepbone                   | modifed age range | 修改情况 |
+![image](https://github.com/entelognathus/Arthrodire-phylogeny/assets/134026316/a4e8f850-5d43-4c8e-91ce-25cf7c397ade)![image](https://github.com/entelognathus/Arthrodire-phylogeny/assets/134026316/a0d72529-8400-4ded-8cbc-15fe87a4e8f9)![image](https://github.com/entelognathus/Arthrodire-phylogeny/assets/134026316/da395b2a-fe2c-4551-ba6e-282ebc24a15b)| taxa                              | age range in deepbone                   | modifed age range | 修改情况 |
 |-----------------------------------|-----------------------------------------|-------------------|------|
 | Euleptaspid_A                     | Emsian                                  | Eifelian          | 已核对 |
 | Euleptaspid_B                     | Emsian                                  | Late Emsian       |已核对   |
@@ -189,10 +189,10 @@
 | Hadrosteus_rapax                  | late Frasnian                           | late Frasnian     |已核对  |
 | Harrytoombsia_elegans             | early Frasnian                          | early Frasnian    |已核对 |
 | Heightingtonaspis_anglica         | Lochkovian to Pragian                   |                   |      |
-| Heintzichthys_denticulatus        | early Frasnian                          |                   |      |
-| Heintzichthys_dolichocephalus     | late Frasnian                           |                   |      |
-| Heintzichthys_gouldii             | late/end Famennian                      |late Famennian     |已核对 |
-| Heintzichthys_insignis            | early Frasnian                          |                   |      |
+| Heintzichthys_denticulatus        | early Frasnian                          |early Frasnian(h)  |已核对  |
+| Heintzichthys_dolichocephalus     | late Frasnian                           |middle Frasnian(h) |已核对 |
+| Heintzichthys_gouldii             | late/end Famennian                      |late Famennian(h)  |已核对 |
+| Heintzichthys_insignis            | early Frasnian                          |early Frasnian(h)  |已核对 |
 | Heintzichthys_mixeri              | late Frasnian                           |                   |      |
 | Heintzichthys_ringuebergi         | late Frasnian                           |                   |      |
 | Heintzosteus_brevis               | pragian                                 | pragian           | 已核对  |
@@ -435,16 +435,16 @@
 | Gorgonichthys_sp                  | Famennian                               |                   |      |
 | Gyroplacosteus_sp                 | early Frasnian                          |                   |      |
 | Heightingtonaspis?_willsi         | Pragian                                 |                   |      |
-| Heightingtonaspis?_clarkei        | late Lochkovian                         |                   |      |
-| Heintzichthys_sp                  | Frasnian                                |                   |      |
-| Holonema_sp                       | Frasnian                                |                   |      |
-| Homostius_sp                      | Eifelian to Givetian                    |                   |      |
-| Kujdanowiaspis_extensa            | Pragian                                 |                   |      |
+| Heightingtonaspis?_clarkei        | late Lochkovian                         |late Lochkovian(h) |已核对  |
+| Heintzichthys_sp                  | Frasnian                                |Frasnian(h)        |已核对  |
+| Holonema_sp                       | Frasnian                                | Frasnian          |已核对  |
+| Homostius_sp                      | Eifelian to Givetian                    | handbook          |已核对 |
+| Kujdanowiaspis_extensa            | Pragian                                 |lochkovian         |已核对  |
 | Mylostoma_sp                      | middle Givetain                         |                   |      |
-| Oxyosteus_sp                      | early or middle Frasnian                |                   |      |
-| Plourdosteus_sp                   | Givetian to early Frasnian              |                   |      |
+| Oxyosteus_sp                      | early or middle Frasnian                |Middle Frasnian(h) |已核对 |
+| Plourdosteus_sp                   | Givetian to early Frasnian              |handbook           |已核对 |
 | Rhinosteus_cf_parvulus            | Frasnian                                | Late Frasnian     |已核对 |
-| Stenosteus_sp                     | Frasnian or early Famennian             |                   |      |
-| Tiaraspis_sp                      | Emsian                                  |                   |      |
-| Tityosteus_cf_rieversae           | early Emsian                            |                   |      |
-| Clarkeosteus_halmodeus            | Eifelian or lower Givetian              |                   |      |
+| Stenosteus_sp                     | Frasnian or early Famennian             | handbook          |已核对 |
+| Tiaraspis_sp                      | Emsian                                  | Emsian(h)         |已核对  |
+| Tityosteus_cf_rieversae           | early Emsian                            |early Emsian       |已核对 |
+| Clarkeosteus_halmodeus            | Eifelian or lower Givetian              | handbook          |已核对  |
