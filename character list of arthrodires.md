@@ -982,3 +982,8 @@ cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) 
 
 192. Spiracular notch :(0) absent; (1)present.
 > The spiracular notch between the postorbital plate and the dorsal margin of suborbital plate is present in some Incisoscutoidea, such as *Torosteus*, *Harrytoombsia*, and *Mcnamaraspis*. The spiracular notch of *Mcnamaraspis* is closed by short contact between the suborbital and postorbital plates.
+
+193. Cutaneous sensory organ pit on the postsuborbital plate :(0)absent; (1)present.
+     
+194. Cutaneous sensory organ pit on the suborbital plate :(0)absent; (1)present.
+> Within arthrodires, cutaneous sensory organ pits aremost commonly found on the suborbital and postsubor-bital plates of eubrachythoracid arthrodires: the suborbitaland postsuborbital plates ofCoccosteus(Stensi€o 1963;Fig. 5B),Watsonosteus(Miles & Westoll 1962),Goodradig-beeon(White 1978),Torosteus(Gardiner & Miles 1990) andPlourdosteus(Ørvig 1960) and the postsuborbital plate ofHarrytoombsia(Miles  &  Dennis  1979),Mcnamaraspis(Long 1995),Simosteus(Dennis & Miles 1982),Com-pagopiscis(Gardiner & Miles 1994),Dickosteus(Miles &Westoll 1962) andKimberleyichthyes(Dennis-Bryan &Miles 1983). 
