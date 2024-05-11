@@ -1,4 +1,4 @@
-![image](https://github.com/entelognathus/Arthrodire-phylogeny/assets/134026316/a4e8f850-5d43-4c8e-91ce-25cf7c397ade)![image](https://github.com/entelognathus/Arthrodire-phylogeny/assets/134026316/a0d72529-8400-4ded-8cbc-15fe87a4e8f9)![image](https://github.com/entelognathus/Arthrodire-phylogeny/assets/134026316/da395b2a-fe2c-4551-ba6e-282ebc24a15b)| taxa                              | age range in deepbone                   | modifed age range | 修改情况 |
+| taxa                              | age range in deepbone                   | modifed age range | 修改情况 |
 |-----------------------------------|-----------------------------------------|-------------------|------|
 | Euleptaspid_A                     | Emsian                                  | Eifelian          | 已核对 |
 | Euleptaspid_B                     | Emsian                                  | Late Emsian       |已核对   |
