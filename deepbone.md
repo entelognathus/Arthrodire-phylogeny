@@ -427,14 +427,14 @@
 | Dinichthys_tenuidens              | Frasnian                                |                   |      |
 | Dinomylostoma_sp                  | Frasnian                                |                   |      |
 | Dunkleosteus_sp                   | Famennian                               |                   |      |
-| Dunkleosteus_tuderensis           | Famennian                               |                   |      |
-| Eastmanosteus_lundarensis         | late Eifeilian                          |                   |      |
+| Dunkleosteus_tuderensis           | Famennian                               |e to m Famennian   |已核对 |
+| Eastmanosteus_lundarensis         | late Eifeilian                          |late Eifeilian     |已核对 |
 | Erromenosteus_sp                  | early to middle Frasnian                |                   |      |
-| Gavinaspis_sp                     | Late Lochkovian to Pragian              |                   |      |
-| Glyptaspis_sp                     | Frasnian                                |                   |      |
-| Gorgonichthys_sp                  | Famennian                               |                   |      |
-| Gyroplacosteus_sp                 | early Frasnian                          |                   |      |
-| Heightingtonaspis?_willsi         | Pragian                                 |                   |      |
+| Gavinaspis_sp                     | Late Lochkovian to Pragian              |Pragian            |已核对 |
+| Glyptaspis_sp                     | Frasnian                                | Frasnian(h)       |已核对 |
+| Gorgonichthys_sp                  | Famennian                               | Famennian         |已核对 |
+| Gyroplacosteus_sp                 | early Frasnian                          |early Frasnian(h)  |已核对 |
+| Heightingtonaspis?_willsi         | Pragian                                 |  Lochkovian       | 已核对 |
 | Heightingtonaspis?_clarkei        | late Lochkovian                         |late Lochkovian(h) |已核对  |
 | Heintzichthys_sp                  | Frasnian                                |Frasnian(h)        |已核对  |
 | Holonema_sp                       | Frasnian                                | Frasnian          |已核对  |
