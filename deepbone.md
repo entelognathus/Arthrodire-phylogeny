@@ -111,7 +111,7 @@
 | Dhanguura_johnstoni               | Emsian                                  | Emsian            |已核对  |
 | Diadsomaspis_elongata             | late Emsian                             |L Emsian (handbook)|已核对 |
 | Diadsomaspis_remscheidensis       | late Emsian                             |L Emsian (handbook)|已核对 |
-| Dickosteus_threiplandi            | early Givetian                          | early Givetian    | 已核对  |
+| Dickosteus_threiplandi            | early Givetian                          | Eifelian          | 已核对  |
 | Dicksonosteus_arcticus            | Pragian                                 | Pragian           | 已核对  |
 | Dinichthys_herzeri                | upper Famennian                         | Late Famennian    | 已核对 |
 | Dinomylostoma_beecheri            | Middle Frasnian                         |M Frasnian(h)      |已核对 |
@@ -409,26 +409,28 @@
 | Yinostius major                   | Emsian                                  |                   |      |
 | Yujiangolepis_liujingensis        | Pragian                                 |                   |      |
 | Yurammia_browni                   | Famennian                               | early Frasnian    |已核对 |
-| Elvaspis_whitei                   | Emsian                                  |                   |      |
+| Elvaspis_whitei                   | Emsian                                  | Emsian            |已核对  |
 | Arctolepis_sp                     | Eifelian                                |                   |      |
-| Arctonema_sp                      | Eifelian                                |                   |      |
-| Aspidichthys_sp                   | Famennian                               |                   |      |
-| Buchanosteus_sp                   | Emsian                                  |                   |      |
-| Deirosteus_sp1                    | Frasnian                                |                   |      |
-| Deirosteus_sp2                    | Eifelian                                |                   |      |
-| Dickosteus_sp                     | Eifelian                                |                   |      |
-| Dinichthys_machlaevi              | Famennian                               |                   |      |
-| Dinichthys_jeffersonensis         | Frasnian                                |                   |      |
-| Dinichthys_lincolni               | late Eifeilian or early Givetian        |                   |      |
-| Dinichthys_ceterus                | early Famennian                         |                   |      |
-| Dinichthys_oviformis              | Givetian                                |                   |      |
-| Dinichthys_pelmensis              | Middle Devonian                         |                   |      |
-| Dinichthys_subgracilis            | Frasnian                                |                   |      |
-| Dinichthys_tenuidens              | Frasnian                                |                   |      |
-| Dinomylostoma_sp                  | Frasnian                                |                   |      |
-| Dunkleosteus_sp                   | Famennian                               |                   |      |
-| Dunkleosteus_tuderensis           | Famennian                               |e to m Famennian   |已核对 |
-| Eastmanosteus_lundarensis         | late Eifeilian                          |late Eifeilian     |已核对 |
+
+| Arctonema_sp                      | Eifelian                                | Eifelian          |已核对 |
+| Aspidichthys_sp                   | Famennian                               | Famennian(h)      |已核对 |
+| Buchanosteus_sp                   | Lochkovian                              | Lochkovian        |已核对  |
+| Deirosteus_sp1                    | Frasnian                                | Frasnian(h)       |已核对 |
+| Deirosteus_sp2                    | Eifelian                                | Eifelian(h)       |已核对 |
+| Dickosteus_sp                     | Eifelian                                | Eifelian          |已核对 |
+| Dinichthys_machlaevi              | Famennian                               | Famennian(h)      |已核对 |
+| Dinichthys_jeffersonensis         | Frasnian                                | Frasnian(h)       |已核对 |
+| Dinichthys_lincolni               | late Eifeilian or early Givetian        | handbook          |已核对 |
+| Dinichthys_ceterus                | early Famennian                         |early Famennian(h) |已核对 |
+| Dinichthys_oviformis              | Givetian                                | Givetian(h)       |已核对 |
+| Dinichthys_pelmensis              | Middle Devonian                         | Middle Devonian(h)|已核对 |
+| Dinichthys_subgracilis            | Frasnian                                | Frasnian(h)       |已核对 |
+| Dinichthys_tenuidens              | Frasnian                                | Frasnian(h)       |已核对  |
+| Dinomylostoma_sp                  | Frasnian                                | Frasnian(h)       |已核对  |
+| Dunkleosteus_sp                   | Famennian                               | Late Famennian    |已核对 |
+| Dunkleosteus_tuderensis           | Famennian                               |                   |      |
+| Eastmanosteus_lundarensis         | late Eifeilian                          |                   |      |
+
 | Erromenosteus_sp                  | early to middle Frasnian                |                   |      |
 | Gavinaspis_sp                     | Late Lochkovian to Pragian              |Pragian            |已核对 |
 | Glyptaspis_sp                     | Frasnian                                | Frasnian(h)       |已核对 |
@@ -448,3 +450,4 @@
 | Tiaraspis_sp                      | Emsian                                  | Emsian(h)         |已核对  |
 | Tityosteus_cf_rieversae           | early Emsian                            |early Emsian       |已核对 |
 | Clarkeosteus_halmodeus            | Eifelian or lower Givetian              | handbook          |已核对  |
+| Buchanosteus_sp1                  | Emsian                                  | Emsian            |已核对  |
