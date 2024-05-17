@@ -411,7 +411,6 @@
 | Yurammia_browni                   | Famennian                               | early Frasnian    |已核对 |
 | Elvaspis_whitei                   | Emsian                                  | Emsian            |已核对  |
 | Arctolepis_sp                     | Eifelian                                |                   |      |
-
 | Arctonema_sp                      | Eifelian                                | Eifelian          |已核对 |
 | Aspidichthys_sp                   | Famennian                               | Famennian(h)      |已核对 |
 | Buchanosteus_sp                   | Lochkovian                              | Lochkovian        |已核对  |
@@ -430,7 +429,6 @@
 | Dunkleosteus_sp                   | Famennian                               | Late Famennian    |已核对 |
 | Dunkleosteus_tuderensis           | Famennian                               |                   |      |
 | Eastmanosteus_lundarensis         | late Eifeilian                          |                   |      |
-
 | Erromenosteus_sp                  | early to middle Frasnian                |                   |      |
 | Gavinaspis_sp                     | Late Lochkovian to Pragian              |Pragian            |已核对 |
 | Glyptaspis_sp                     | Frasnian                                | Frasnian(h)       |已核对 |
