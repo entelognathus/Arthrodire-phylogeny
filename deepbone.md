@@ -401,13 +401,13 @@
 | Watsonosteus_fletti               | Givetian                                | middle Givetian   |已核对 |
 | Westralichthys_uwagedensis        | early Frasnian                          | middle Famennian  |已核对 |
 | Williamsaspis_bedfordi            | Emsian                                  |  Emsian           | 已核对|
-| Woodwardosteus_spatulatus         | Eifelian                                | Eifelian(h)       | 已核对|
-| Wuttagoonaspis_fletcheri          | late Pragian to early Emsian            |  Emsian           |已核对 |
-| Wuttagoonaspis_milligani          | late Pragian to Eifelian                |late E to early E  |已核对 |
-| Xiangshuiosteus_wui               | Emsian                                  |                   |      |
-| Yiminaspis_shenme                 | Pragian                                 |                   |      |
-| Yinostius major                   | Emsian                                  |                   |      |
-| Yujiangolepis_liujingensis        | Pragian                                 |                   |      |
+| Woodwardosteus_spatulatus         | Eifelian                                |                   |      |
+| Wuttagoonaspis_fletcheri          | late Pragian to early Emsian            |                   |      |
+| Wuttagoonaspis_milligani          | late Pragian to Eifelian                |                   |      |
+| Xiangshuiosteus_wui               | Emsian                                  | Emsian            |已核对 |
+| Yiminaspis_shenme                 | Pragian                                 | Pragian           |已核对 |
+| Yinostius major                   | Emsian                                  | late Emsian       |已核对 |
+| Yujiangolepis_liujingensis        | Pragian                                 | Pragian           |已核对  |
 | Yurammia_browni                   | Famennian                               | early Frasnian    |已核对 |
 | Elvaspis_whitei                   | Emsian                                  | Emsian            |已核对  |
 | Arctolepis_sp                     | Eifelian                                |                   |      |
