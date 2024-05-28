@@ -794,6 +794,12 @@
 > - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/260808); Stensiö, 1963.
 
+[*Richardosteus barwickorum*](https://deepbone.cn/public/#/explor?s_id=3223&functionId=Deepbone_header_searchResultOpen) Long et al., 2014
+> Emsian, 407.6, 393.3
+
+> -Murrumbidgee Group, Burrinjuck, south-eastern Australia
+> - [Long et al., 2014](https://www.publish.csiro.au/zo/zo13081).
+
 [*Rolfosteus canningensis*](https://deepbone.cn/public/#/explor?s_id=2217&functionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1979b
 > lower Frasnian, 382.7, 379.2
 
@@ -865,6 +871,12 @@
 
 > - Catskill Formation, Pennsylvania, USA
 > - [Daeschler, Frumes and Mullison, 2003](https://media.australian.museum/media/Uploads/Journals/17953/1374_complete.pdf).
+
+[*Urvaspis lithuanica*](https://deepbone.cn/public/#/explor?s_id=3225&functionId=Deepbone_header_searchResultOpen) Long et al., 2014
+> Emsian, 407.6, 393.3
+
+> - Severnaya Zemlya, Russia
+> - [Long et al., 2014](https://www.publish.csiro.au/zo/zo13081).
 
 [*Watsonosteus fletti*](https://deepbone.cn/public/#/explor?s_id=2435&functionId=Deepbone_header_searchResultOpen) Watson, 1932
 > middle Givetian, 386.0, 384.4
