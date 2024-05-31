@@ -986,4 +986,7 @@ cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) 
 193. Cutaneous sensory organ pit on the postsuborbital plate :(0)absent; (1)present.
      
 194. Cutaneous sensory organ pit on the suborbital plate :(0)absent; (1)present.
-> Within arthrodires, cutaneous sensory organ pits aremost commonly found on the suborbital and postsubor-bital plates of eubrachythoracid arthrodires: the suborbitaland postsuborbital plates ofCoccosteus(Stensi€o 1963;Fig. 5B),Watsonosteus(Miles & Westoll 1962),Goodradig-beeon(White 1978),Torosteus(Gardiner & Miles 1990) andPlourdosteus(Ørvig 1960) and the postsuborbital plate ofHarrytoombsia(Miles  &  Dennis  1979),Mcnamaraspis(Long 1995),Simosteus(Dennis & Miles 1982),Com-pagopiscis(Gardiner & Miles 1994),Dickosteus(Miles &Westoll 1962) andKimberleyichthyes(Dennis-Bryan &Miles 1983). 
+> Within arthrodires, cutaneous sensory organ pits aremost commonly found on the suborbital and postsubor-bital plates of eubrachythoracid arthrodires: the suborbitaland postsuborbital plates ofCoccosteus(Stensi€o 1963;Fig. 5B),Watsonosteus(Miles & Westoll 1962),Goodradig-beeon(White 1978),Torosteus(Gardiner & Miles 1990) andPlourdosteus(Ørvig 1960) and the postsuborbital plate ofHarrytoombsia(Miles  &  Dennis  1979),Mcnamaraspis(Long 1995),Simosteus(Dennis & Miles 1982),Com-pagopiscis(Gardiner & Miles 1994),Dickosteus(Miles &Westoll 1962) andKimberleyichthyes(Dennis-Bryan &Miles 1983).
+
+195.Supraorbital crista: (0)absent; (1)present.
+> The supraorbital crista is present in *Arenipiscus*,*Dhanguura*, and "Exutaspis".
