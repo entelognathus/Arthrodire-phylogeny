@@ -154,7 +154,7 @@
 [*Actinolepis zaikai*](https://deepbone.org/public/#/explor?s_id=73838&functionId=Deepbone_header_searchResultOpen) Plax & Newman, 2020
 > Upper Emsian, 400.45, 393.3
 
-> - Lepel Beds, Belarus
+> - Lepel Beds, Vitebsk Regional Stage, Belarus
 > - [Plax & Newman, 2020](https://www.researchgate.net/publication/340312755_New_Early_Devonian_late_Emsian_placoderms_from_Belarus)
 
 [*Aethaspis major*](https://deepbone.cn/public/#/explor?s_id=2492&functionId=Deepbone_header_searchResultOpen) Denison, 1958
@@ -922,6 +922,12 @@
 
 
 ## Arthrodire taxa not used in the analysis
+[*Stipatosteus svidunovitchi*] Plax & Newman, 2020
+> Upper Emsian, 400.45, 393.3
+
+> - Lepel Beds, Vitebsk Regional Stage, Belarus
+> - [Plax & Newman, 2020](https://www.researchgate.net/publication/340312755_New_Early_Devonian_late_Emsian_placoderms_from_Belarus)
+
 
 [*Yunnanacanthus cuifengshanensis*](https://deepbone.org/public/#/explor?s_id=3278&functionId=Deepbone_header_searchResultOpen) Liu, 1973
 > Lochkovian, 419.2, 410.8
