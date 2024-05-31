@@ -8,7 +8,7 @@
 > - **any comments on this species added here**
 
 
-## **Petalichthyid taxa**
+## Petalichthyid taxa
 [*Brevipetalichthys gracilis*](https://deepbone.org/public/#/explor?s_id=3255andfunctionId=Deepbone_header_searchResultOpen) Ji and Pan, 1999
 > Pragian, 410.8, 407.6
 
@@ -132,8 +132,7 @@
 > - Pingyipu Formation; Yanmenba, Jiangyou City, Sichuan Province, China
 > - [references]
 
-## **Arthrodire taxa**
-
+## Arthrodire taxa used in the analysis
 [*Actinolepis magna*](https://deepbone.org/public/#/explor?s_id=2464andfunctionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1973
 > lower Givetian, 387.7, 386.0
 
@@ -920,14 +919,17 @@
 > - Nakaoling (Nagaoling) Formation, Guangxi, China.
 > - [Dupret 2009](https://onlinelibrary.wiley.com/doi/10.1111/j.1096-3642.2009.00519.x), [Wang 1998](https://www.vertpala.ac.cn/EN/abstract/abstract724.shtml)
 
+
+
+## Arthrodire taxa not used in the analysis
+
 [*Yunnanacanthus cuifengshanensis*](https://deepbone.org/public/#/explor?s_id=3278&functionId=Deepbone_header_searchResultOpen) Liu, 1973
 > Lochkovian, 419.2, 410.8
 
 > - South China
 > - [Liu, 1973](http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200905/t20090512_2386681.html)
 
-
-**References**
+## References
 
 Andrews, S. M. (1978). A possible occurrence of *Remigolepis* in the topmost Old Red Sandstone of Berwickshire. *Scottish Journal of Geology*, **14**(4), 311-315. 
 
