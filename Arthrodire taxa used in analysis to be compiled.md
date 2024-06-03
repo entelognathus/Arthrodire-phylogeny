@@ -699,6 +699,12 @@
 > - Aztec Siltstone, southern Victoria Land, Antarctica.
 > - [White,1968]
 
+[*Arenipiscis westolli*](https://deepbone.cn/public/#/explor?s_id=164607&functionId=Deepbone_header_searchResultOpen) Young, 1981
+> Emsian, 407.6, 393.3
+
+> - Murrumbidgee Group, Wee Jasper region, Australia.
+> - [Young, 1981](https://www.tandfonline.com/doi/abs/10.1080/03115518108566994)
+
 [*Asiacanthus kaoi*](https://deepbone.org/public/#/explor?s_id=3275&functionId=Deepbone_header_searchResultOpen) Pan, 1964
 > Lochkovain, 419.2, 410.8
 
@@ -776,6 +782,12 @@
 
 > - Water Canyon Formation of Northern Utah and Southern Idaho
 > - [Elliott & Carr, 2010](https://www.biodiversitylibrary.org/part/202419)
+
+[*Buchanosteus nuricus*](https://deepbone.cn/public/#/explor?s_id=164913&functionId=Deepbone_header_searchResultOpen) Mark-Kurik, 2004
+> Emsian, 407.6, 393.3
+
+> - Biotar Formation, Akkultuk, Kazakhstan
+> - [Mark-Kurik, 2004](https://pfeil-verlag.de/wp-content/uploads/2015/05/3_52d19.pdf)
 
 [*Buchanosteus guangxiensis*](https://deepbone.cn/public/#/explor?s_id=3231&functionId=Deepbone_header_searchResultOpen) Wang, 2005
 > upper Pragian, 409.2, 407.6
@@ -893,6 +905,12 @@
 > - Ohio, USA
 > - [Denison, 1978](https://www.semanticscholar.org/paper/Handbook-of-Paleoichthyology%2C-2.-Placodermi%3A-R.-128-Miller/7980f3e95c79279cc1feba3bc9086fcebf3d73f1)
 
+[*Richardosteus barwickorum*](https://deepbone.cn/public/#/explor?s_id=3223&functionId=Deepbone_header_searchResultOpen) Long et al. 2014
+> Emsian, 407.6, 393.3
+
+> - Murrumbidgee Group,Burrinjuck, Australia
+> - [Long et al.,2014](https://www.publish.csiro.au/zo/zo13081)
+
 [*Sigaspis lepidophora*](https://deepbone.org/public/#/explor?s_id=2483&functionId=Deepbone_header_searchResultOpen) Goujet, 1973
 > Lower Pragian, 410.8, 409.2
 
@@ -905,11 +923,30 @@
 > - Water Canyon Formation, Utah, USA
 > - [Denison, 1958](https://www.biodiversitylibrary.org/bibliography/7193)
 
+[*Taemasosteus novaustrocambricus*](https://deepbone.cn/public/#/explor?s_id=3616&functionId=Deepbone_header_searchResultOpen) White 1952
+> Emsian, 407.6, 393.3
+
+> - Murrumbidgee Group,Burrinjuck, Australia
+> - [White, 1978](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/j.1096-3642.1978.tb00374.x)
+
 [*Tiaraspis subtilis*](https://deepbone.org/public/#/explor?s_id=2593&functionId=Deepbone_header_searchResultOpen) Gross, 1933
 > [Upper Pragian to Lower Emsian], 409.2, 400.45
 
 > - [Wahnbach Formation, Rimmert Formation, Odenspiel Formation, eastern Rheinisches Schiefergebirge, West Germany]
 > - [Schultze, 1984](https://www.biodiversitylibrary.org/part/47129)
+
+[*Uralosteus bashkiricus*](https://deepbone.cn/public/#/explor?s_id=3228&functionId=Deepbone_header_searchResultOpen) Mark-Kurik & Young, 2003
+> Emsian, 407.6, 393.3
+
+> - Takata Formation, Belaya River Basin, Russia
+> - [Mark-Kurik & Young, 2003](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2003)23%5B13%3AANBAPF%5D2.0.CO%3B2)
+
+[*Urvaspis lithuanica*](https://deepbone.cn/public/#/explor?s_id=3225&functionId=Deepbone_header_searchResultOpen) Long et al. 2014
+> Emsian, 407.6, 393.3
+ 
+> - Severnaya Zemlya, Russia.
+> - [Long et al.,2014](https://www.publish.csiro.au/zo/zo13081)
+
 
 [*Wheathillaspis wickhamkingi*](https://deepbone.org/public/#/explor?s_id=3620&functionId=Deepbone_header_searchResultOpen) White, 1961
 > Pragian, 410.8, 393.3
