@@ -992,4 +992,4 @@ cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) 
 > The supraorbital crista is present in *Arenipiscus*,*Dhanguura*, and *Exutaspis*.
 
 196. ADL overlapped by the PL:(0)absent;(1)present.
-> Long et al. (2014).
+> Long et al. (2014). This character is possibly the synapomorphy of Parabuchanosteidae.
