@@ -316,22 +316,22 @@
 | Phyllolepis_sp                    | Givetian to Famennian                   |                   |      |
 | Phyllolepis_thomsoni              | late Famennian                          |                   |      |
 | Phyllolepis_tolli                 | early Famennian                         |                   |      |
-| Phyllolepis_undulata              | late Famennian                          |                   |      |
-| Phyllolepis_woodwardi             | late Famennian                          |                   |      |
-| Phymosteus_liui                   | Famennian                               |                   |      |
+| Phyllolepis_undulata              | late Famennian                          | late Famennian    |已核对 |
+| Phyllolepis_woodwardi             | late Famennian                          | late Famennian    |已核对 |
+| Phymosteus_liui                   | Famennian                               | early Famennian   |已核对 |
 | Pinguosteus_thulborni             | early Frasnian                          | early Frasnian    | 已核对 |
 | Placolepis_budawangensis          | upper  Givetian                         | early Frasnian    | 已核对 |
-| Placolepis_harajica               | Givetian to Frasnian                    |                   |      |
-| Placolepis_tingeyi                | middle Givetian                         |  Givetian         |      |
-| Plataspis_brevicornis             | Emsian                                  |                   |      |
-| Plataspis_rotundicornis           | Emsian                                  |                   |      |
+| Placolepis_harajica               | Givetian to Frasnian                    | Givetian          | 已核对 |
+| Placolepis_tingeyi                | middle Givetian                         |  Givetian         |已核对 |
+| Plataspis_brevicornis             | Emsian                                  | early  Emsian     |已核对|
+| Plataspis_rotundicornis           | Emsian                                  | early  Emsian     |已核对 |
 | Plourdosteus_canadensis           | early Frasnian                          |  middle Frasnian  |已核对 |
-| Plourdosteus_grossi               | early/miidle Frasnian                   |                   |      |
+| Plourdosteus_grossi               | early/miidle Frasnian                   | miidle Frasnian(h)|已核对  |
 | Plourdosteus_livonicus            | latest Givetian                         | early Frasnian    |已核对    |
-| Plourdosteus_Magnus               | early Frasnian                          |                   |      |
+| Plourdosteus_Magnus               | early Frasnian                          |early Frasnian(h)  |已核对 |
 | Plourdosteus_mironovi             | early Frasnian                          | early Frasnian    |已核对    |
-| Plourdosteus_panderi              | late Givetian                           |                   |      |
-| Plourdosteus_timanicus            | Frasnian                                |                   |      |
+| Plourdosteus_panderi              | late Givetian                           | late Givetian(h)  |已核对 |
+| Plourdosteus_timanicus            | Frasnian                                | Frasnian(h)       |已核对 |
 | Plourdosteus_trautscholdi         | Frasnian                                | Frasnian(h)       |已核对  |
 | Potangaspis_parvoculatus          | early Emsian                            | early Emsian      |已核对 |
 | Prescottaspis_dineleyi            | Pragian                                 | early Pragian(h)  |已核对 |
