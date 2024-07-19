@@ -136,13 +136,13 @@
 [*Actinolepis magna*](https://deepbone.org/public/#/explor?s_id=2464andfunctionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1973
 > lower Givetian, 387.7, 386.0
 
-> - Burtnieki Bed; Estonia and Latvia. 
+> - Burtnieki Beds of Karksi and Joosu, Estonia; Gauja River, Latvia.
 > - [Mark-Kurik, 1973].
 
 [*Actinolepis tuberculata*](https://deepbone.org/public/#/explor?s_id=2463andfunctionId=Deepbone_header_searchResultOpen) Agassiz, 1844
 > Eifelian, 393.3, 387.7
 
-> - Parnu Bed, Tori, Estonia; Nariva Bed, Slavjanka and Lemovzha, Estonia; Arukula Bed, Pskov district, Russia.
+> - Pärnu Beds of Tori, Narova Beds of Leningrad district and Aruküla Bed of Tähtvere, Estonia; Pskov district, Russia.
 > - [Mark-Kurik, 1973].
 
 [*Aethaspis utahensis*](https://deepbone.org/public/#/explor?s_id=2491andfunctionId=Deepbone_header_searchResultOpen) Denison, 1958
@@ -201,36 +201,36 @@
 > upper Frasnian, 375.7, 372.2
 
 > - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
-> - [Denison, 1978]().
+> - [Denison, 1978](); Stensiö, 1963.
 
  [*Bruntonichthys multidens*](https://deepbone.cn/public/#/explor?s_id=2221&functionId=Deepbone_header_searchResultOpen) Dennis & Miles, 1980
 > lower Frasnian, 382.7, 379.2
 
-> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
+> - Gogo Formation, Canning Basin, Australia. -17.75, 125.17
 > - [Dennis & Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
 
 [*Bryantolepis brachycephala*](https://deepbone.cn/public/#/explor?s_id=2500&functionId=Deepbone_header_searchResultOpen)（Bryant,1932）
 > Pragian, 410.8, 407.6
 
-> - Beartooth Butte Formation; Wyoming, USA
+> - Beartooth Butte Formation, Wyoming, USA
 > - [Bryant, 1932](https://www.jstor.org/stable/984700); Denison, 1962
 
 [*Buchanosteus confertituberculatus*](https://deepbone.org/public/#/explor?s_id=2426andfunctionId=Deepbone_header_searchResultOpen) (Chapman, 1916)
 > Emsian, 407.6, 393.3
 
-> - Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales; Buchan, Victoria, Australia. 
+> - Murrumbidgee Group,Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales; Buchan, Victoria, Australia. 
 > - [Burrow and Turner, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011097); [Long et al., 2014](https://www.publish.csiro.au/zo/zo13081)
 
 [*Bullerichthys fascidens*](https://deepbone.org/public/#/explor?s_id=2223andfunctionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1980
 > lower Frasnian, 382.7, 379.2
 
-> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
+> - Gogo Formation, Canning Basin, Australia. -17.75, 125.17
 > - [Dennis and Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
 
 [*Camuropiscis laidlawi*](https://deepbone.org/public/#/explor?s_id=2210andfunctionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1979
 > lower Frasnian, 382.7, 379.2
 
-> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
+> - Gogo Formation, Canning Basin, Australia. -17.75, 125.17
 > [Dennis and Miles, 1979](https://academic.oup.com/zoolinnean/article-abstract/67/1/1/2664252); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Coccosteus cuspidatus*](https://deepbone.org/public/#/explor?s_id=2148andfunctionId=Deepbone_header_searchResultOpen) Miller, 1841
@@ -242,13 +242,13 @@
 [*Compagopiscis croucheri*](https://deepbone.cn/public/#/explor?s_id=2199&functionId=Deepbone_header_searchResultOpen) Gardiner and Miles, 1994 
 > lower Frasnian, 382.7, 379.2
 
-> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
+> - Gogo Formation, Canning Basin, Australia. -17.75, 125.17
 > - [Gardiner and Miles, 1994](https://academic.oup.com/zoolinnean/article-abstract/112/4/443/2646294); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Dhanguura johnstoni*](https://deepbone.cn/public/#/explor?s_id=2141&functionId=Deepbone_header_searchResultOpen) Young, 2004
 > Emsian, 407.6, 393.3
 
-> - Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales, Australia.
+> - Murrumbidgee Group, Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales, Australia.
 > - [Young, 2004](https://www.tandfonline.com/doi/abs/10.1671/1942-1).
 
 [*Dickosteus threiplandi*](https://deepbone.cn/public/#/explor?s_id=2650&functionId=Deepbone_header_searchResultOpen) Miles and Westoll, 1963
@@ -294,16 +294,16 @@
 > - [Dennis-Bryan, 1987](https://academic.oup.com/zoolinnean/article-abstract/90/1/1/2658205)
 > - The type species of *Eastmanosteus* Obruchev 1964 is *E. pustulosus* (Eastman) 1897. 
 
-[*Eastmanosteus pustulosus*](https://deepbone.org/public/#/explor?s_id=2448&functionId=Deepbone_header_searchResultOpen) Miller, 1980
+[*Eastmanosteus pustulosus*](https://deepbone.org/public/#/explor?s_id=2448&functionId=Deepbone_header_searchResultOpen) Eastman, 1897
 > Givetian to Famennian, 387.8, 358.9
 
-> - Milwaukee Formation, Wisconsin,USA; Cebar Valley limestone, Iowa and Illinois, USA; Mineola Limestone, Missouri, USa.
+> - Milwaukee Formation, Wisconsin; Cebar Valley limestone, Iowa and Illinois; Mineola Limestone, Missouri, USA.
 > - [Miller, 1980](https://www.nhbs.com/handbook-of-paleoichthyology-volume-2-placodermi-book)
  
 [*Elvaspis tuberculata*](https://deepbone.cn/public/#/explor?s_id=2421&functionId=Deepbone_header_searchResultOpen) Young 2009
 > Emsian, 407.6, 393.3
 
-> - Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales
+> - Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales, Australia.
 > - [Young, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00366.x).
 
 [*Erikaspis zychi*](https://deepbone.cn/public/#/explor?s_id=2127&functionId=Deepbone_header_searchResultOpen) (Stensiö, 1945)
