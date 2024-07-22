@@ -330,11 +330,11 @@
 > - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
 > - [Long, 1990](https://researchnow.flinders.edu.au/en/publications/two-new-arthrodires-placoderm-fishes-from-the-upper-devonian-gogo); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
-[*Gavinaspis convergens*](https://deepbone.org/public/#/explor?s_id=2473andfunctionId=Deepbone_header_searchResultOpen) Dupret *et al*., 2008
+[*Gavinaspis convergens*](https://deepbone.org/public/#/explor?s_id=2473andfunctionId=Deepbone_header_searchResultOpen) Dupret and Zhu, 2008
 > upper Lochkovian, 415.0, 410.8
 
 > - Xitun Formation; Qujing, Yunnan, China.
-> - [Dupret et al., 2009](https://pubs.geoscienceworld.org/geolmag/article-abstract/145/2/257/65693/The-earliest-phyllolepid-Placodermi-Arthrodira?redirectedFrom=fulltext)
+> - [Dupret and Zhu, 2008](https://pubs.geoscienceworld.org/geolmag/article-abstract/145/2/257/65693/The-earliest-phyllolepid-Placodermi-Arthrodira?redirectedFrom=fulltext)
 
 [*Gemuendenaspis angusta*](https://deepbone.cn/public/#/explor?s_id=2431&functionId=Deepbone_header_searchResultOpen) Traquair, 1903
 > upper Pragian to lower Emsian, 409.2, 400.45
@@ -382,13 +382,13 @@
 [*Harrytoombsia elegans*](https://deepbone.cn/public/#/explor?s_id=2443&functionId=Deepbone_header_searchResultOpen) Miles and Dennis, 1979
 > lower Frasnian, 382.7, 379.2
 
-> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
+> - Gogo Formation, Canning Basin, Australia. -17.75, 125.17
 > - [Miles and Dennis, 1979](https://academic.oup.com/zoolinnean/article-abstract/66/1/31/2664264); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Heightingtonaspis anglica*](https://deepbone.cn/public/#/explor?s_id=2474&functionId=Deepbone_header_searchResultOpen) (Traquair 1890)
 > Lochkovian to Pragian, 416.0, 407.6
 
-> - Dittonian; Worcestershire，Herefordshire, Gloucestershire and Shropshire, England. 
+> - Dittonian, Worcestershire, Herefordshire, Gloucestershire and Shropshire, England. 
 > - [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short).
 
 [*Heintzichthys gouldii*](https://deepbone.cn/public/#/explor?s_id=2273&functionId=Deepbone_header_searchResultOpen) (Newberry, 1885)
@@ -400,7 +400,7 @@
 [*Heintzosteus brevis*](https://deepbone.cn/public/#/explor?s_id=169310&functionId=Deepbone_header_searchResultOpen) (Heintz, 1929)
 > Pragian, 410.8, 407.6
 
-> - Austfjord Member；Wood Bay Formation, Dicksonfjorden-Austfjorden area, Svalbard (Spitsbergen).
+> - Austfjord Member, Wood Bay Formation, Dicksonfjorden-Austfjorden area, Svalbard (Spitsbergen).
 > - [Goujet 1984].
 
 [*Heterostius ingens*](https://deepbone.cn/public/#/explor?s_id=2455&functionId=Deepbone_header_searchResultOpen) Asmuss, 1856
@@ -412,7 +412,7 @@
 [*Holonema westolli*](https://deepbone.org/public/#/explor?s_id=2425andfunctionId=Deepbone_header_searchResultOpen) Miles, 1971
 > lower Frasnian, 382.7, 379.2
 
-> - Gogo Formation, Gogo, Canning Basin; Gneudna Formation, Carnarvon Basin，Western Australia. -17.75, 125.17
+> - Gogo Formation, Gogo, Canning Basin; Gneudna Formation, Carnarvon Basin, Western Australia. -17.75, 125.17
 > - [Miles, 1971](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1971.0111)； [Trinajstic, 1999](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1999n1a4.pdf).
 > - Trinajstic (1999) reported the isolated scales from the late Givetian to early Frasnian Gneudna Formation.
 
@@ -425,13 +425,13 @@
 [*Incisoscutum ritchiei*](https://deepbone.org/public/#/explor?s_id=2232andfunctionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1981
 > lower Frasnian, 382.7, 379.2
 
-> - Gogo Formation; Western Australia, Australia。 -17.75, 125.17
+> - Gogo Formation, Western Australia, Australia。 -17.75, 125.17
 > - [Dennis and Miles, 1981](https://academic.oup.com/zoolinnean/article-abstract/73/3/213/2658833); [Giles et al., 2013](https://onlinelibrary.wiley.com/doi/full/10.1002/jmor.20119)
 
 [*Incisoscutum sarahae*](https://deepbone.cn/public/#/explor?s_id=2446&functionId=Deepbone_header_searchResultOpen) Long, 1994
 > > lower Frasnian, 382.7, 379.2
 
-> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
+> - Gogo Formation, Canning Basin, Australia. -17.75, 125.17
 > - [Long, 1994](https://www.tandfonline.com/doi/abs/10.1080/03115518.1994.9638763); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1463-6395.2008.00363.x).
 
 [*Janiosteus timanicus*](https://deepbone.cn/public/#/explor?s_id=2441&functionId=Deepbone_header_searchResultOpen) (Obrucheva, 1962)
@@ -443,7 +443,7 @@
 [*Kendrickichthys cavernosus*](https://deepbone.cn/public/#/explor?s_id=2225&functionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1980
 > lower Frasnian, 382.7, 379.2
 
-> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
+> - Gogo Formation, Canning Basin, Australia. -17.75, 125.17
 > - [Dennis and Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
 
 [*Kiangyousteus yohii*](https://deepbone.cn/public/#/explor?s_id=2167&functionId=Deepbone_header_searchResultOpen) Liu, 1955
@@ -461,7 +461,7 @@
 [*Latocamurus coulthardi*](https://deepbone.cn/public/#/explor?s_id=2205&functionId=Deepbone_header_searchResultOpen) Long, 1988a
 > lower Frasnian, 382.7, 379.2
 
-> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
+> - Gogo Formation, Canning Basin, Australia. -17.75, 125.17
 > - [Long, 1988a](https://academic.oup.com/zoolinnean/article-abstract/94/3/233/2658286); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Lehmanosteus hyperboreus*](https://deepbone.cn/public/#/explor?s_id=2489&functionId=Deepbone_header_searchResultOpen) Goujet 1984
@@ -492,13 +492,13 @@
 [*Millerosteus minor*](https://deepbone.cn/public/#/explor?s_id=2656&functionId=Deepbone_header_searchResultOpen) (Miller, 1858)
 > lower Givetian, 387.7, 386.0
 
-> - Middle Rousay, Rousay Formation; Orkney and Caithness, Scotland.
+> - Middle Rousay Formation, Orkney and Caithness, Scotland.
 > - [Desmond, 1974](https://academic.oup.com/zoolinnean/article-abstract/54/4/277/2670929); Stensiö, 1959, 1963.
 
 [*Mulgaspis evansorum*](https://deepbone.org/public/#/explor?s_id=2727andfunctionId=Deepbone_header_searchResultOpen) Ritchie, 2004
 > lower Eifelian, 393.3, 391.4
 
-> - Merrimerriwa Formation; Cobar, Wilcannia, Australia
+> - Merrimerriwa Formation, Cobar, Wilcannia, Australia
 > - [Ritchie, 2004](https://www.idunn.no/doi/abs/10.18261/9781405169868-2004-05).
 
 [*Pachyosteus bulla*](https://deepbone.cn/public/#/explor?s_id=2254&functionId=Deepbone_header_searchResultOpen) Jaekel, 1903
@@ -510,19 +510,19 @@
 [*Panxiosteus oculus*](https://deepbone.cn/public/#/explor?s_id=2439&functionId=Deepbone_header_searchResultOpen) Wang, 1979
 > Givetian, 387.7, 382.7
 
-> - Yidade Formation，Yunnan, China
+> - Yidade Formation, Yunnan, China
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Wang, 1979.
 
 [*Parabuchanosteus murrumbidgeensis*](https://deepbone.org/public/#/explor?s_id=2430andfunctionId=Deepbone_header_searchResultOpen) (White, 1952)
 > Emsian, 407.6, 393.3
 
-> - Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales, Australia.
+> - Murrumbidgee Group, Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales, Australia.
 > - White and Toombs, 1972; [Young, 1979](https://academic.oup.com/zoolinnean/article-abstract/66/4/309/2664249)
 
 [*Phlyctaenius acadicus*](https://deepbone.cn/public/#/explor?s_id=2576&functionId=Deepbone_header_searchResultOpen) Whiteaves 1881
 > Emsian or Eifelian, 407.6, 387.7
 
-> - Gaspe Sandstone Series; Campbellton, Canada
+> - Gaspe Sandstone Series, Campbellton, Canada
 > - [Young, 1983](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9304082), Denison, 1958.
 
 [*Placolepis budawangensis*](https://deepbone.cn/public/#/explor?s_id=2471&functionId=Deepbone_header_searchResultOpen) Ritchie 1984
@@ -541,7 +541,7 @@
 > Lower Givetian, 387.7, 386.0
 
 > - Rockport Quarry Limestone Formation, Michigan, USA
-> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Case, 1931; Miles, 1966b; [Stack and Sallan,2018](https://peerj.com/articles/5636/#fig-1)
+> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Case, 1931; Miles, 1966b; [Stack and Sallan, 2018](https://peerj.com/articles/5636/#fig-1)
 
 [*Rhachiosteus pterygiatus*](https://deepbone.cn/public/#/explor?s_id=169321&functionId=Deepbone_header_searchResultOpen) Gross, 1938
 > lower Frasnian, 382.7, 379.2
@@ -645,7 +645,7 @@
 > upper Emsian, 400.45, 393.3
 
 > - Jiucheng Formation, Wuding, Yunnan, China
-> - [Zhu 2016](https://academic.oup.com/zoolinnean/article/176/4/806/2449910); Wang and Wang, 1984.
+> - [Zhu et al., 2016](https://academic.oup.com/zoolinnean/article/176/4/806/2449910); Wang and Wang, 1984.
 
 
 [*Yujiangolepis liujingensis*](https://deepbone.cn/public/#/explor?s_id=2722&functionId=Deepbone_header_searchResultOpen) Wang et al., 1998
