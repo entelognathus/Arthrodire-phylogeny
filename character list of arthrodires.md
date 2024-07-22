@@ -901,7 +901,7 @@ cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) 
 
 > - The coding of Xitun actinolepid is ?.
 
-174. Number of inframarginal cristae: one (0); two (1).
+174. Anterior inframarginal cristae: present (0); absent (1). 
 > Xue *et al*. (in prep.), Character 174.
 
 > - The coding of Xitun actinolepid is ?.
