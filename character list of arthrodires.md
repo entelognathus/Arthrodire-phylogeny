@@ -32,7 +32,7 @@
 > - The coding of Xitun actinolepid is 0.
 
  6. Anterior elongation of the rostrum: absent (0); present (1).
-> Dennis and Miles (1979b), Character 3; Long (1988), Characters 4, 12, and 16; Carr and Hlavin (2010), Character 6; Rücklin *et al*.  (2015), Character 6; Zhu Y *et al*. (2016), Character 6; Jobbins *et al*. (2022), Character 6.
+> Long (1988), Characters 4, 12, and 16; Carr and Hlavin (2010), Character 6; Rücklin *et al*.  (2015), Character 6; Zhu Y *et al*. (2016), Character 6; Jobbins *et al*. (2022), Character 6.
 
 > - The coding of Xitun actinolepid is 0.
 
@@ -901,7 +901,7 @@ cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) 
 
 > - The coding of Xitun actinolepid is ?.
 
-174. Anterior inframarginal cristae: present (0); absent (1). 
+174. Number of inframarginal cristae: one (1) or two (1).
 > Xue *et al*. (in prep.), Character 174.
 
 > - The coding of Xitun actinolepid is ?.
