@@ -314,8 +314,8 @@
 | Phyllolepis_orvini                | Famennian                               | Famennian         |已核对  |
 | Phyllolepis_rossimontina          | late Famennian                          |                   |      |
 | Phyllolepis_sp                    | Givetian to Famennian                   |                   |      |
-| Phyllolepis_thomsoni              | late Famennian                          |                   |      |
-| Phyllolepis_tolli                 | early Famennian                         |                   |      |
+| Phyllolepis_thomsoni              | late Famennian                          | late Famennian    |已核对 |
+| Phyllolepis_tolli                 | early Famennian                         | late Famennian    |已核对(h)|
 | Phyllolepis_undulata              | late Famennian                          | late Famennian    |已核对 |
 | Phyllolepis_woodwardi             | late Famennian                          | late Famennian    |已核对 |
 | Phymosteus_liui                   | Famennian                               | early Famennian   |已核对 |
