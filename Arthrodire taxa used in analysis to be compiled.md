@@ -681,6 +681,19 @@
 > - Herefordshire, England
 > - [White, 1969](https://academic.oup.com/biolinnean/article-abstract/1/3/293/2682521)
 
+
+[*Alienacanthus malkowskii*](https://deepbone.cn/public/#/explor?s_id=172100&functionId=Deepbone_header_searchResultOpen) Jobbins et al., 2024
+> Middle Famennian, 372.2, 363.3
+
+> - Maider Basin, Morocco
+> - [Jobbins et al., 2024](https://royalsocietypublishing.org/doi/full/10.1098/rsos.231747).
+
+[*Amazichthys_trinajsticae*](https://deepbone.cn/public/#/explor?s_id=169304&functionId=Deepbone_header_searchResultOpen) Jobbins et al., 2022
+> Middle Famennian, 372.2, 363.3
+
+> - Jebel Ouaoufilal, Morocco
+> - [Jobbins et al., 2022](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2022.969158/full)
+
 [*Anarthraspis chamberlini*](https://deepbone.cn/public/#/explor?s_id=2497&functionId=Deepbone_header_searchResultOpen) (Bryant, 1934)
 > Pragian, 410.8, 407.6
 
@@ -959,7 +972,7 @@
 
 > - Jiucheng Formation, Wuding, Yunnan, China.
 
-[*Stipatosteus svidunovitchi*] Plax & Newman, 2020
+[*Stipatosteus svidunovitchi*](https://deepbone.cn/public/#/explor?s_id=73837&functionId=Deepbone_header_searchResultOpen) Plax & Newman, 2020
 > Upper Emsian, 400.45, 393.3
 
 > - Lepel Beds, Vitebsk Regional Stage, Belarus
@@ -971,6 +984,7 @@
 
 > - South China
 > - [Liu, 1973](http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200905/t20090512_2386681.html)
+
 
 ## References
 
