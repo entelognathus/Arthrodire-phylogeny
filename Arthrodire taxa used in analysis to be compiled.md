@@ -197,6 +197,12 @@
 > - [Miles, 1973](https://www.researchgate.net/publication/285456051_An_actinolepid_arthrodire_from_the_Lower_Devonian_Peel_Sound_Formation_Prince_of_Wales_Island)
 > - **The Source reference in deepbone is questionable.**
 
+[*Bollandaspis woschmidti*](https://deepbone.cn/public/#/explor?s_id=2467&functionId=Deepbone_header_searchResultOpen) Schmidt, 1976
+> lower Emsian, 407.6, 400.45
+
+> - Bolland, Belgium.
+> - [Schmidt，1976](https://biblio.naturalsciences.be/rbins-publications/memoirs-of-the-geological-survey-of-belgium/bibliographic_references/schmidtrest1976)
+
 [*Brachyosteus dietrichi*](https://deepbone.cn/public/#/explor?s_id=2247&functionId=Deepbone_header_searchResultOpen) Gross, 1932
 > upper Frasnian, 375.7, 372.2
 
@@ -759,12 +765,6 @@
 
 > - Aztec Siltstone, southern Victoria Land, Antarctica.
 > - [Young & Long, 2014](https://www.publish.csiro.au/zo/ZO13070)
-
-[*Bollandaspis woschmidti*](https://deepbone.cn/public/#/explor?s_id=2467&functionId=Deepbone_header_searchResultOpen) Schmidt, 1976
-> lower Emsian, 407.6, 400.45
-
-> - Bolland, Belgium.
-> - [Schmidt，1976](https://biblio.naturalsciences.be/rbins-publications/memoirs-of-the-geological-survey-of-belgium/bibliographic_references/schmidtrest1976)
 
 [*Boomeraspis goujeti*](https://deepbone.org/public/#/explor?s_id=2165&functionId=Deepbone_header_searchResultOpen) (Long, 1995)
 > Givetian, 387.7, 382.7
