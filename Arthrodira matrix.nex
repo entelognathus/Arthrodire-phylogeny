@@ -47,7 +47,7 @@ BEGIN CHARACTERS;
 		29 Nuchal_and_paranuchal_plates_elongate /  absent present,
 		30 Postnuchal_process_of_paranuchal_plate_on_dermal_surface /  absent present,
 		31 'Position_of_the_central/paranuchal/marginal_or_postorbital_triple_point_(plate_junction)_relative_to_the_paranuchal/central/nuchal_triple_point' /  anterior posterior,
-		32 'Position_of_preorbital/postorbital/central_triple_point_relative_to_posterior_triple_point_(PtO/M/C or PtO/PNu/C)' /  ant_pt_lat_or_parallel post_pt_lat,
+		32 'Position of preorbital/postorbital/central triple point relative to posterior triple point (PtO/M/C or PtO/PNu/C)' /  ant_pt_lat_or_parallel post_pt_lat,
 		33 'Position_of_the_PrO/PtO/C_triple_point_relative_to_the_orbit' /  post._to_orbit over_orbit,
 		34 Postorbital_dermal_process /  small_or_absent present,
 		35 Skull_roof_and_thoracic_armour_articulation /  narrow laterally_displaced,
