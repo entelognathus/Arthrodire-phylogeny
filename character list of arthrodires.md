@@ -19,156 +19,162 @@
 > - The coding of the new Xitun actinolepid is ?.
 
  3. Triangular depression posterior to supraorbital vault: absent (0); present (1).
-> Dennis and Miles (1979b), Character 14, in part; Carr (1991), Character ; Carr and Hlavin (2010), Character 3; Rücklin *et al*. (2016), Character 3; Zhu Y *et al*. (2015), Character 3; Jobbins *et al*. (2022, 2024), Character 3.
+> Dennis and Miles (1979b), Character 14, in part; Carr (1991), Character 3; Carr and Hlavin (2010), Character 3; Rücklin *et al*. (2016), Character 3; Zhu Y *et al*. (2015), Character 3; Jobbins *et al*. (2022, 2024), Character 3.
 
 > - The coding of the new Xitun actinolepid is ?.
 
  4. Neurocranial process or thickening: absent (0); thickening (1); distinct process (2).
-> Dennis and Miles (1979b), Character 16, in part; Carr (1991), Character ; Carr and Hlavin (2010), Character 4; Rücklin *et al*. (2016), Character 4; Zhu Y *et al*. (2015), Character 4; Jobbins *et al*. (2022, 2024), Character 4.
+> Dennis and Miles (1979b), Character 16, in part; Carr (1991), Character 4; Carr and Hlavin (2010), Character 4; Rücklin *et al*. (2016), Character 4; Zhu Y *et al*. (2015), Character 4; Jobbins *et al*. (2022, 2024), Character 4.
 
 > - The coding of the new Xitun actinolepid is ?.
 
- 5. Posterior development of Rostral plate: not developed (0); subtriangular (1); T-shaped (2).
-> Carr (1991), Character ; Carr and Hlavin (2010), Character 5; Rücklin *et al*. (2015), Character 5; Zhu Y *et al*. (2016), Character 5; Jobbins *et al*. (2022, 2024), Character 5.
+ 5. Posterior development of rostral plate: not developed (0); subtriangular (1); T-shaped (2).
+> Carr (1991), Character 5; Carr and Hlavin (2010), Character 5; Rücklin *et al*. (2015), Character 5; Zhu Y *et al*. (2016), Character 5; Jobbins *et al*. (2022, 2024), Character 5.
 
 > In those taxa that the rostral plate fused with the pineal plate, this character is scored as 'not applicable'.
 
 > - The coding of the new Xitun actinolepid is 0.
 
  6. Anterior elongation of the rostrum: absent (0); present (1).
-> Long (1988), Characters 4, 12, and 16; Carr (1991), Character ; Carr and Hlavin (2010), Character 6; Rücklin *et al*.  (2015), Character 6; Zhu Y *et al*. (2016), Character 6; Jobbins *et al*. (2022, 2024), Character 6.
+> Long (1988), Characters 4, 12, and 16; Carr (1991), Character 6; Carr and Hlavin (2010), Character 6; Rücklin *et al*.  (2015), Character 6; Zhu Y *et al*. (2016), Character 6; Jobbins *et al*. (2022, 2024), Character 6.
 
 > - The coding of the new Xitun actinolepid is 0.
 
  7. Ventrally enclosed tubular rostrum: absent (0); present (1).
-> Carr (1991), Character ; Carr and Hlavin (2010), Character 7; Rücklin *et al*. (2015), Character 7; Zhu Y *et al*. (2016), Character 7; Jobbins *et al*. (2022, 2024), Character 7.
+> Carr (1991), Character 7; Carr and Hlavin (2010), Character 7; Rücklin *et al*. (2015), Character 7; Zhu Y *et al*. (2016), Character 7; Jobbins *et al*. (2022, 2024), Character 7.
 
 > - The coding of the new Xitun actinolepid is -.
 
  8. Position of anterior edge of pineal plate: over orbit (0); anterior to orbit (1).
-> Carr (1991), Character ; Carr and Hlavin (2010), Character 8; Rücklin *et al*. (2015), Character 8; Zhu Y *et al*. (2016), Character 8; Jobbins *et al*. (2022, 2024), Character 8.
+> Carr (1991), Character 8; Carr and Hlavin (2010), Character 8; Rücklin *et al*. (2015), Character 8; Zhu Y *et al*. (2016), Character 8; Jobbins *et al*. (2022, 2024), Character 8.
 
 > - The coding of the new Xitun actinolepid is 1.
  
  9. Position of posterior edge of pineal plate: over orbit (0); posterior to orbit (1).
-> Carr (1991), Character ; Carr and Hlavin (2010), Character 9; Rücklin *et al*. (2015), Character 9; Zhu Y *et al*. (2016), Character 9; Jobbins *et al*. (2022, 2024), Character 9.
+> Carr (1991), Character 9; Carr and Hlavin (2010), Character 9; Rücklin *et al*. (2015), Character 9; Zhu Y *et al*. (2016), Character 9; Jobbins *et al*. (2022, 2024), Character 9.
 
 > - The coding of the new Xitun actinolepid is 1.
  
  10. Shape of the external anterior nuchal border: straight (0); convex (1); concave (2).
-> Carr (1991), Character ; Carr and Hlavin (2010), Character 10; Rücklin *et al*. (2015), Character 10; Zhu Y *et al*. (2016), Character 10; Jobbins *et al*. (2022, 2024), Character 10.
+> Carr (1991), Character 10; Carr and Hlavin (2010), Character 10; Rücklin *et al*. (2015), Character 10; Zhu Y *et al*. (2016), Character 10; Jobbins *et al*. (2022, 2024), Character 10.
 
 > - The coding of the new Xitun actinolepid is 1.
  
  11. Shape of the posterior nuchal border: straight (0); convex (1); concave (2).
-> Carr (1991), Character ; Carr and Hlavin (2010), Character 11; Rücklin *et al*. (2015), Character 11; Zhu Y *et al*. (2016), Character 11; Jobbins *et al*. (2022, 2024), Character 11.
+> Carr (1991), Character 11; Carr and Hlavin (2010), Character 11; Rücklin *et al*. (2015), Character 11; Zhu Y *et al*. (2016), Character 11; Jobbins *et al*. (2022, 2024), Character 11.
 
 > - The coding of the new Xitun actinolepid is 0.
  
  12. Nuchal thickening: discontinuous with the lateral thickening associated with the cranio-thoracic dermal articulation (0); continuous thickening across the posterior skull roof (1).
-> Lelièvre (1988); Carr (1991), Character ; Carr and Hlavin (2010), Character 12; Rücklin *et al*. (2015), Character 12; Zhu Y *et al*. (2016), Character 12; Jobbins *et al*. (2022, 2024), Character 12.
+> Lelièvre (1988); Carr (1991), Character 12; Carr and Hlavin (2010), Character 12; Rücklin *et al*. (2015), Character 12; Zhu Y *et al*. (2016), Character 12; Jobbins *et al*. (2022, 2024), Character 12.
 
 > - The coding of the new Xitun actinolepid is ?.
 
  13. Preorbital plate embayment of central plate: absent (0); shallow (1); developed (2).
-> Carr (1991), Character ; Carr and Hlavin (2010), Character 13; Rücklin *et al*. (2015), Character 13; Zhu Y *et al*. (2016), Character 13; Jobbins *et al*. (2022, 2024), Character 13.
+> Carr (1991), Character 13; Carr and Hlavin (2010), Character 13; Rücklin *et al*. (2015), Character 13; Zhu Y *et al*. (2016), Character 13; Jobbins *et al*. (2022, 2024), Character 13.
 
 > - The coding of the new Xitun actinolepid is 0.
 
  14. Paranuchal plate embayment of central plate: absent (0); shallow (1); developed (2).
-> Carr (1991), Character ; Carr and Hlavin (2010), Character 14; Rücklin *et al*. (2015), Character 14; Zhu Y *et al*. (2016), Character 14; Jobbins *et al*. (2022, 2024), Characters 14 and 19.
+> Carr (1991), Character 14; Carr and Hlavin (2010), Character 14; Rücklin *et al*. (2015), Character 14; Zhu Y *et al*. (2016), Character 14; Jobbins *et al*. (2022, 2024), Characters 14 and 19.
 
 > The paranuchal plate embayment is determined by formation of the lateral lobe of the central plate, and not the posterior lobe.
 
 > - The coding of the new Xitun actinolepid is 0.
 
  15. Length ratio for the external longitudinal of the preorbital and central plates (r = PrO/C): subequal, i.e. 0.75 < r < 1.25 (0); preorbital plate longer, i.e. r > 1.25 (1); central plate longer, i.e. r < 0.75 (2).
-> Carr (1991), Character ; Carr and Hlavin (2010), Character 15; Rücklin *et al*. (2015), Character 15; Zhu Y *et al*. (2016), Character 15; Jobbins *et al*. (2022, 2024), Character 15.
+> Carr (1991), Character 15; Carr and Hlavin (2010), Character 15; Rücklin *et al*. (2015), Character 15; Zhu Y *et al*. (2016), Character 15; Jobbins *et al*. (2022, 2024), Character 15.
 
 > - The coding of the new Xitun actinolepid is 0.
 
  16. Infrafenestral process of postnasal plate : absent (0); present (1).
-> Gardiner and Miles (1990), Character 22.18; Carr (1991), Character ; Carr and Hlavin (2010), Character 16; Rücklin *et al*. (2016), Character 16; Zhu Y *et al*. (2016), Character 16; Jobbins *et al*. (2022, 2024), Character 16.
+> Gardiner and Miles (1990), Character 22.18; Carr (1991), Character 16; Carr and Hlavin (2010), Character 16; Rücklin *et al*. (2016), Character 16; Zhu Y *et al*. (2016), Character 16; Jobbins *et al*. (2022, 2024), Character 16.
 
 > - The coding of the new Xitun actinolepid is ?.
 
  17. Preorbital plate with a dermal preorbital lamina or process: absent (0); present (1).
-> Dennis and Miles (1979b), Character 19; Young (1981), Character 19; Carr (1991), Character ; Carr and Hlavin (2010), Character 17; Rücklin *et al*. (2015), Character 17; Zhu Y *et al*. (2016, 2024), Character 17; Jobbins *et al*. (2022), Character 
+> Dennis and Miles (1979b), Character 19; Young (1981), Character 19; Carr (1991), Character 17; Carr and Hlavin (2010), Character 17; Rücklin *et al*. (2015), Character 17; Zhu Y *et al*. (2016, 2024), Character 17; Jobbins *et al*. (2022), Character 
 
 > - The coding of the new Xitun actinolepid is ?.
 
  18. Preorbital plates with a median contact: contact posterior to pineal plate (0); contact anterior to pineal plate (1); pineal plate separating preorbital plates (2).
-> Young (1981), Character 19a, modified; Carr (1991), Character ; Carr and Hlavin (2010), Character 18; Rücklin *et al*. (2015), Character 18; Zhu Y *et al*. (2016), Character 18; Jobbins *et al*. (2022, 2024), Character 18.
+> Young (1981), Character 19a, modified; Carr (1991), Character 18; Carr and Hlavin (2010), Character 18; Rücklin *et al*. (2015), Character 18; Zhu Y *et al*. (2016), Character 18; Jobbins *et al*. (2022, 2024), Character 18.
 
 > - The coding of the new Xitun actinolepid is 0.
 
- 19. Extent of median preorbital plate contact: short (0); long, **measured as the ratio of (contact length)/ (PrO parasagittal length)** (1).
-> Carr (1991), Character ; Carr and Hlavin (2010), Character 19; Rücklin *et al*. (2015), Character 19; Zhu Y *et al*. (2016), Character 19; Jobbins *et al*. (2022, 2024), Character 19.
+ 19. Extent of median preorbital plate contact: short (0); long, measured as the ratio of (contact length)/ (PrO parasagittal length) (1).
+> Carr (1991), Character 19; Carr and Hlavin (2010), Character 19; Rücklin *et al*. (2015), Character 19; Zhu Y *et al*. (2016), Character 19; Jobbins *et al*. (2022, 2024), Character 19.
 
 > - The coding of the new Xitun actinolepid is 1.
 
  20. Postorbital plate embayment of central plate: absent (0); shallow (1); developed (2).
-> Carr (1991), Character ; Carr and Hlavin (2010), Character 20; Rücklin *et al*. (2015), Character 20; Zhu Y *et al*. (2016), Character 20; Jobbins *et al*. (2022, 2024), Character 20.
+> Carr (1991), Character 20; Carr and Hlavin (2010), Character 20; Rücklin *et al*. (2015), Character 20; Zhu Y *et al*. (2016), Character 20; Jobbins *et al*. (2022, 2024), Character 20.
 
 > - The coding of the new Xitun actinolepid is 0.
 
  21. Length of the central plate contact with the nuchal plate: short (0); long, measured as greater than one half the length from the nuchal anteromedian point to the posterolateral corner of the nuchal plate (1).
-> Carr (1991), Character ; Carr and Hlavin (2010), Character 21; Rücklin *et al*. (2015), Character 21; Zhu Y *et al*. (2016), Character 21; Jobbins *et al*. (2022, 2024), Character 21.
+> Carr (1991), Character 21; Carr and Hlavin (2010), Character 21; Rücklin *et al*. (2015), Character 21; Zhu Y *et al*. (2016), Character 21; Jobbins *et al*. (2022, 2024), Character 21.
 
 > - The coding of the new Xitun actinolepid is 0.
 
  22. Width of the central plate at its contact with the pineal plate: central plate tapers anteriorly to contact (0); central plate expanded laterally to produce a transverse anterior border (1).
-> Carr (1991), Character ; Carr and Hlavin (2010), Character 22; Rücklin *et al*. (2015), Character 22; Zhu Y *et al*. (2016), Character 22; Jobbins *et al*. (2022, 2024), Character 22.
+> Carr (1991), Character 22; Carr and Hlavin (2010), Character 22; Rücklin *et al*. (2015), Character 22; Zhu Y *et al*. (2016), Character 22; Jobbins *et al*. (2022, 2024), Character 22.
 
 > - The coding of the new Xitun actinolepid is 0.
 
  23. Marginal plate in contact with the central plate: absent (0); present (1).
-> Lelièvre (1988), Character 5; Johnson *et al*. (2000), Character 5; Carr (1991), Character ; Carr and Hlavin (2010), Character 23; Rücklin *et al*. (2015), Character 23; Zhu Y *et al*. (2016, 2024), Character 23; Dupret *et al*., Character 22; Jobbins *et al*. (2022), Character 23.
+> Lelièvre (1988), Character 5; Johnson *et al*. (2000), Character 5; Carr (1991), Character 23, modified; Carr and Hlavin (2010), Character 23; Rücklin *et al*. (2015), Character 23; Zhu Y *et al*. (2016, 2024), Character 23; Dupret *et al*., Character 22; Jobbins *et al*. (2022), Character 23.
 
 > - The coding of the new Xitun actinolepid is 1.
 
  24. Extent of marginal plate along the lateral border of the skull roof: less than half the length from the postorbital process to the posterolateral corner of the skull roof (0); greater than half the length (1).
-> Carr (1991), Character ; Carr and Hlavin (2010), Character 24; Rücklin *et al*. (2015), Character 24; Zhu Y *et al*. (2016), Character 24; Jobbins *et al*. (2022, 2024), Character 24.
+> Carr (1991), Character 24; Carr and Hlavin (2010), Character 24; Rücklin *et al*. (2015), Character 24; Zhu Y *et al*. (2016), Character 24; Jobbins *et al*. (2022, 2024), Character 24.
 
 > - The coding of the new Xitun actinolepid is 0.
 
  25. Marginal plate forms part of orbit border: absent (0); present (1).
-> Dennis and Miles (1979b), Character 26; Carr (1991), Character ; Carr and Hlavin (2010), Character 25; Rücklin *et al*. (2015), Character 25; Zhu Y *et al*. (2016), Character 25; Jobbins *et al*. (2022, 2024), Character 25.
+> Dennis and Miles (1979b), Character 26; Carr (1991), Character 25; Carr and Hlavin (2010), Character 25; Rücklin *et al*. (2015), Character 25; Zhu Y *et al*. (2016), Character 25; Jobbins *et al*. (2022, 2024), Character 25.
 
 > - The coding of the new Xitun actinolepid is 0.
 
  26. Postnasal plate forms part of the orbit border: absent (0); present (1).
-> Dennis and Miles (1979b), Character 1; Carr and Hlavin (2010), Character 26; Rücklin *et al*. (2015), Character 26; Zhu Y *et al*. (2016), Character 26; Jobbins *et al*. (2022, 2024), Character 26.
+> Dennis and Miles (1979b), Character 1; Carr (1991), Character 26; Carr and Hlavin (2010), Character 26; Rücklin *et al*. (2015), Character 26; Zhu Y *et al*. (2016), Character 26; Jobbins *et al*. (2022, 2024), Character 26.
 
 > - The coding of the new Xitun actinolepid is 1.
 
  27. Extent of postnasal involvement in the orbit border: minimal (0); developed (1).
-> Carr (1991), Character ; Carr and Hlavin (2010), Character 27; Rücklin *et al*. (2015), Character 27; Zhu Y *et al*. (2016), Character 27; Jobbins *et al*. (2022, 2024), Character 27.
+> Carr (1991), Character 27; Carr and Hlavin (2010), Character 27; Rücklin *et al*. (2015), Character 27; Zhu Y *et al*. (2016), Character 27; Jobbins *et al*. (2022, 2024), Character 27.
 
 > - The coding of the new Xitun actinolepid is 1.
 
  28. Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes)/ (distance between pineal and paired condyles): small (0); intermediate (1); large (2).
-> Carr (1991), Character ; Carr and Hlavin (2010), Character 28; Rücklin *et al*. (2015), Character 28; Zhu Y *et al*. (2016), Character 28; Jobbins *et al*. (2022, 2024), Character 28.
+> Carr (1991), Character 28; Carr and Hlavin (2010), Character 28; Rücklin *et al*. (2015), Character 28; Zhu Y *et al*. (2016), Character 28; Jobbins *et al*. (2022, 2024), Character 28.
 
 > - The coding of the new Xitun actinolepid is ?.
 
  29. Nuchal and paranuchal plates elongate: absent (0); present, associated with an elongation of the endolymphatic canal (1).
-> Lelièvre (1984b); Carr (1991), Character ; Carr and Hlavin (2010), Character 29; Rücklin *et al*. (2015), Character 29; Zhu Y *et al*. (2016), Character 29; Jobbins *et al*. (2022, 2024), Character 29.
+> Lelièvre (1984b); Carr (1991), Character 29, modified; Carr and Hlavin (2010), Character 29; Rücklin *et al*. (2015), Character 29; Zhu Y *et al*. (2016), Character 29; Jobbins *et al*. (2022, 2024), Character 29.
+
+> - Carr and Hlavin (2010): "Gardiner & Miles (1994) pointed out correctly that, in their analysis, only *Homostius* possesses this
+feature. *Buchanosteus confertituberculatus*, previously considered to have this feature by Carr (1991), is noted here to lack this character state (see also Lelièvre, 1984b). Although representing an autapomorphy of *Homostius* in the present study, this feature is potentially useful in considering other homostiids, e.g. *Tityosteus* Gross,1960 (Lelièvre, 1988, fig. 4A; refer to Denison 1978, fig. 51).“
 
 > - The coding of the new Xitun actinolepid is 0.
 
  30. Postnuchal process of paranuchal plate on dermal surface: absent (0); present (1), indicated by the presence of a postnuchal process on the dermal surface of the skull roof.
-> Dennis and Miles (1979b), Character 8, modified; Carr (1991), Character ; Carr and Hlavin (2010), Character 30; Rücklin *et al*. (2015), Character 30; Zhu Y *et al*. (2016), Character 30; Jobbins *et al*. (2022, 2024), Character 30.
+> Dennis and Miles (1979b), Character 8, modified; Carr (1991), Character 30; Carr and Hlavin (2010), Character 30; Rücklin *et al*. (2015), Character 30; Zhu Y *et al*. (2016), Character 30; Jobbins *et al*. (2022, 2024), Character 30.
 
 > - The coding of the new Xitun actinolepid is 1.
 
  31. Position of the central/paranuchal/marginal or postorbital triple point (plate junction) relative to the paranuchal/central/nuchal triple point: C/PNu/M or PtO triple point anterior to PNu/ C/Nu (0); posterior to PNu/C/Nu (1).
-> Carr (1991), Character ; Carr and Hlavin (2010), Character 31; Rücklin *et al*. (2015), Character 31; Zhu Y *et al*. (2016), Character 31; Jobbins *et al*. (2022, 2024), Character 31.
+> Carr (1991), Character 31, modified; Carr and Hlavin (2010), Character 31; Rücklin *et al*. (2015), Character 31; Zhu Y *et al*. (2016), Character 31; Jobbins *et al*. (2022, 2024), Character 31.
+
+> - Carr and Hlavin (2010): "Gardiner & Miles (1994) noted the error in the transposition of this character in Carr (1991). Only *Homostius*
+and *Buchanosteus* share character state 1, consisting of a posterior position of the triple point, and were scored as unique relative to the other analysed taxa in Carr (1991), as well as in the present study."
 
 > - The coding of the new Xitun actinolepid is 0.
 
  32. Position of preorbital/postorbital/central triple point relative to posterior triple point (PtO/M/C or PtO/PNu/C): parallels the midline or with the anterior point lateral (0); posterior point lateral to anterior point (1).
-> Carr (1991), Character ; Carr and Hlavin (2010), Character 32; Rücklin *et al*. (2015), Character 32; Zhu Y *et al*. (2016), Character 32; Jobbins *et al*. (2022, 2024), Character 32.
+> Carr (1991), Character 32; Carr and Hlavin (2010), Character 32; Rücklin *et al*. (2015), Character 32; Zhu Y *et al*. (2016), Character 32; Jobbins *et al*. (2022, 2024), Character 32.
 
 > - The coding of the new Xitun actinolepid is 1.
 
