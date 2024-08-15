@@ -1,6 +1,7 @@
+# Character list of arthrodires and petalichthyids
+> Characters 1-85 of Carr and Hlavin (2010) are from Carr (1991).
 
-**Skull roof**
-
+## Skull roof
  1. Nuchal plate with posterodorsally placed paired pits: absent (0), present (1).
 > Carr (1991), Character 1; Carr and Hlavin (2010), Character 1; Rücklin *et al*. (2015), Character 1; Zhu Y *et al*. (2016), Character 1; Jobbins *et al*. (2022, 2024), Character 1.
 
