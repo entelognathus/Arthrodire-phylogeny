@@ -27,7 +27,7 @@ BEGIN CHARACTERS;
 		9 Position_of_posterior_edge_of_pineal_plate /  over_orbit posterior_to_orbit,
 		10 Shape_of_the_external_anterior_nuchal_border /  straight convex concave,
 		11 Shape_of_the_posterior_nuchal_border /  straight convex concave,
-		12 Nuchal_thickening_with_the_lateral_thickening_associated_with_the_cranio-thoracic_dermal_articulation /  discontinuous continuous,
+		12 'Nuchal_thickening_with_the_lateral_thickening_associated_with_the_cranio-thoracic_dermal_articulation' /  discontinuous continuous,
 		13 Preorbital_plate_embayment_of_central_plate /  absent shallow developed,
 		14 Paranuchal_plate_embayment_of_central_plate /  absent shallow developed,
 		15 'Length_ratio_for_the_external_longitudinal_of_the_preorbital_and_central_lates_(r_=_PrO/C)' /  'subequal PRO > C' 'C > PRO',
