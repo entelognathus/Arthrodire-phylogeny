@@ -903,39 +903,38 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of the new Xitun actinolepid is 1.
 
-**addition**
-
+## addition
 173. Inframarginal crista: absent(0); present (1).
 > Xue *et al*. (in prep.), Character 173.
 
 > - The coding of the new Xitun actinolepid is ?.
 
-174. Number of inframarginal cristae: one (1) or two (1).
+174. Number of inframarginal cristae: one (1); two (1).
 > Xue *et al*. (in prep.), Character 174.
 
 > - Character 174 is contingent on Character 173.
 > - The coding of the new Xitun actinolepid is ?.
 
-175. The groove of the path of the ramus mandibularis internus VII: absent(0); present(1).
-> In Coccosteomorhpi, on the mesial surface of the blade , a groove running subparallel to its lower edge (gr.cth) is possibly corresponding to the path of the ramus mandibularis internus VII, such as in the *Coccosteus cuspidatus*, *Xiantingosteus gracilis*, and *Camuropiscis concinnus*.
+175. The groove of the path of the ramus mandibularis internus VII: absent (0); present (1).
+> - In Coccosteomorhpi, on the mesial surface of the blade , a groove running subparallel to its lower edge (gr.cth) is possibly corresponding to the path of the ramus mandibularis internus VII, such as in the *Coccosteus cuspidatus*, *Xiantingosteus gracilis*, and *Camuropiscis concinnus*.
 
-176.Middle pit-line: absent(0); present(1).
->In the Dunkleosteidae, the middle pit-line is absent, such as in the *Gorgonichthys*, *Dunkleosteus*, and *Heterosteus ingens*. The middle pit-line is present in the majority of arthrodires, such as in the *Kujdanowiaspis* and *Coccosteus*.
+176. Middle pit-line: absent (0); present (1).
+> - In the Dunkleosteidae, the middle pit-line is absent, such as in the *Gorgonichthys*, *Dunkleosteus*, and *Heterosteus ingens*. The middle pit-line is present in the majority of arthrodires, such as in the *Kujdanowiaspis* and *Coccosteus*.
 
-177.Postocular crest: absent(0); present(1).
->The postocular crest is present in many plesiomorphic arthrodires, such as *Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2), but is absent in eubrachythoracids. In contrast, many eubrachythoracids posssess dermal postorbital processes, but lacking the postocular crest.
+177.Postocular crest: absent (0); present (1).
+> - The postocular crest is present in many plesiomorphic arthrodires, such as *Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2), but is absent in eubrachythoracids. In contrast, many eubrachythoracids posssess dermal postorbital processes, but lacking the postocular crest.
 
 178. Round depression lateral to supraorbital vault: absent (0); present (1).
-> The round depression is present in many plesiomorphic arthrodires, such as *Buchansopteus*,*Dhanguura* and *Exutaspis*.
+> - The round depression is present in many plesiomorphic arthrodires, such as *Buchansopteus*,*Dhanguura* and *Exutaspis*.
 
-179. Posterolateral extension of the lateral consolidated arch: (0) absent; present(1); forming a prominent crest (2).
-> The lateral consolidateda arch is absent in plesiomorphic arthrodires and present in brachythoracids. In dunkleosteids, the lateal consolidated arch form a prominent crest and is connected with the inframarginal crista.
+179. Posterolateral extension of the lateral consolidated arch: absent(0); present (1); forming a prominent crest (2).
+> - The lateral consolidateda arch is absent in plesiomorphic arthrodires and present in brachythoracids. In dunkleosteids, the lateal consolidated arch form a prominent crest and is connected with the inframarginal crista.
 
 180. Lateral nuchal depression on the dorsal suface of neurocranium: absent (0); present (1).
->The lateral nuchal depression on the dorsal suface of neurocranium is present in the brachythoracids and absent in the plesiomorphic arthrodires. The lateral nuchal depression corresponds to the endolymphatic thickening.
+> - The lateral nuchal depression on the dorsal suface of neurocranium is present in the brachythoracids and absent in the plesiomorphic arthrodires. The lateral nuchal depression corresponds to the endolymphatic thickening.
 
-181. Median nuchal depression: long (0); short (1)
->The lateral nuchal depression on the dorsal suface of neurocranium is short in the brachythoracids and long in the plesiomorphic arthrodires.
+181. Median nuchal depression: long (0); short (1).
+> - The lateral nuchal depression on the dorsal suface of neurocranium is short in the brachythoracids and long in the plesiomorphic arthrodires.
 
 182. The central sensory line leaves the postorbital plate: no (0); yes (1).
 > - The coding of the new Xitun actinolepid is 0.
@@ -944,28 +943,28 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 183. Profundus sensory line on preorbital: absent (0); present (1).
 > Johnson *et al*. (2000), Character 12.
 
-> A short segment of the profundus sensory line on the anterior part of the Preorbital has been recorded in *Heightingtonaspis anglica* and *Kujdanowiaspis sp.* (White, 1969; Denison, 1958, 1978). The profundus sensory canal extends from preorbital to the postorbital plates. This character is present in *Bryantolepis*.
+> - A short segment of the profundus sensory line on the anterior part of the Preorbital has been recorded in *Heightingtonaspis anglica* and *Kujdanowiaspis sp.* (White, 1969; Denison, 1958, 1978). The profundus sensory canal extends from preorbital to the postorbital plates. This character is present in *Bryantolepis*.
 
 > - The coding of the new Xitun actinolepid is 0.
 
 184. Profundus sensory line on postorbital and preorbital: absent (0); present (1).
 > Johnson *et al*. (2000), Character 22.
 
-> In *Bryantolepis brachycephala* the profundus sensory line is present as a continuous line from the central sensory line on the Postorbital to the centre of the Preorbital terminating near the supraorbital sensory line (Denison, 1958).
+> - In *Bryantolepis brachycephala* the profundus sensory line is present as a continuous line from the central sensory line on the Postorbital to the centre of the Preorbital terminating near the supraorbital sensory line (Denison, 1958).
 
 > - The coding of the new Xitun actinolepid is 1.
 
 185. Projkndus sensozy line @3) on Preorbital and Postorbital, but segments do not connect: absent (0); present (1).
 > Johnson *et al*. (2000), Character 23.
 
-> This character is known only in *Simblaspis cachensis* (Denison, 1958).
+> - This character is known only in *Simblaspis cachensis* (Denison, 1958).
 
 > - The coding of the new Xitun actinolepid is 0.
 
 186. Profunduds sensory line present on postorbital at intersection with infraorbital sensory line: absent (0); present (1).
 > Johnson *et al*. (2000), Character 24.
 
-> A small segment of the profundus sensory line branches off the intersection of the central sensory line and the infraorbital sensory line in *Aleosteus eganensis*, an arrangement not recorded in any other actinolepid. 
+> - A small segment of the profundus sensory line branches off the intersection of the central sensory line and the infraorbital sensory line in *Aleosteus eganensis*, an arrangement not recorded in any other actinolepid. 
 
 > - The coding of the new Xitun actinolepid is 0.
 
@@ -991,7 +990,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 191. Lateral ridges on skull roof laterally defining the articulation: (0) absent; (1) present.
 > Young (1978); Zhu Y. et al. (2019), Character 8; Zhu Y. et al. (2021), Character 360; Zhu Y. et al. (2022), Character 565; Brazeau et al. (2023), Character 179.
-> Brazeau et al. (2023): "Para-articular process of dermal neck joint: (0) absent; (1) present. The para-articular process and depression were used to define the articulation of petalichthyids by Young (1978). We disagree with Brazeau et al. (2023) in the coding of arthrodires." 
+
+> - Brazeau et al. (2023): "Para-articular process of dermal neck joint: (0) absent; (1) present. The para-articular process and depression were used to define the articulation of petalichthyids by Young (1978). We disagree with Brazeau et al. (2023) in the coding of arthrodires." 
 
 > - The coding of the new Xitun actinolepid is 0.
 
@@ -1001,7 +1001,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 193. Cutaneous sensory organ pit on the postsuborbital plate: absent(0); present(1).
      
 194. Cutaneous sensory organ pit on the suborbital plate: absent(0); present(1).
-> - Within arthrodires, cutaneous sensory organ pits aremost commonly found on the suborbital and postsubor-bital plates of eubrachythoracid arthrodires: the suborbitaland postsuborbital plates ofCoccosteus(Stensi€o 1963;Fig. 5B),Watsonosteus(Miles & Westoll 1962),Goodradig-beeon(White 1978),Torosteus(Gardiner & Miles 1990) andPlourdosteus(Ørvig 1960) and the postsuborbital plate ofHarrytoombsia(Miles  &  Dennis  1979),Mcnamaraspis(Long 1995),Simosteus(Dennis & Miles 1982),Com-pagopiscis(Gardiner & Miles 1994),Dickosteus(Miles &Westoll 1962) andKimberleyichthyes(Dennis-Bryan &Miles 1983).
+> - Within arthrodires, cutaneous sensory organ pits aremost commonly found on the suborbital and postsubor-bital plates of eubrachythoracid arthrodires: the suborbitaland postsuborbital plates of Coccosteus (Stensi€o 1963;Fig. 5B), Watsonosteus (Miles & Westoll 1962),Goodradigbeeon (White 1978),Torosteus (Gardiner & Miles 1990) and Plourdosteus(Ørvig 1960) and the postsuborbital plate of Harrytoombsia (Miles  &  Dennis  1979), Mcnamaraspis(Long 1995), Simosteus (Dennis & Miles 1982), Compagopiscis (Gardiner & Miles 1994), Dickosteus (Miles & Westoll 1962) and Kimberleyichthyes (Dennis-Bryan & Miles 1983).
 
 195.Supraorbital crista: absent(0); present(1).
 > - The supraorbital crista is present in *Arenipiscus*,*Dhanguura*, and *Exutaspis*.
