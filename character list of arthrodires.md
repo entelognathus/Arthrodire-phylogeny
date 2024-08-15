@@ -760,7 +760,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  146. Angle between the postorbital and otic branches of the infraorbital sensory line groove: open posteriorly (i.e. the formed angle is greater than 90°) (0); partially closed (i.e. the formed angle is between 45° and 90°) (1); closed (i.e. the formed angle is less than 45°) (2).
 > Lelièvre *et al*. (1987), Character 5, modified; Carr (1991), Character 75, modified; Carr and Hlavin (2010), Character 75; Rücklin *et al*. (2015), Character 75; Zhu Y *et al*. (2016), Character 75; Jobbins *et al*. (2022, 2024), Character 75.
 
-> - Carr and Hlavin (2010): "Carr (1991) noted some uncertainty over whether the closure of the sensory angle (correlated with enlarged orbits) is plesiomorphic or independently derived among several groups within the Aspinothoracidi. Gardiner & Miles (1994) argued that selenosteids clearly share a condition of an angle less than 45° (a synapomorphy of the Selenosteidae, as noted by Lelièvre et al. 1987). However, Lelièvre et al. (1987), Carr (1991), and Gardiner & Miles (1994) concurred that Gy. hydei is the sister group of the Selenosteidae. In a redescription of Gy. hydei, Carr (1994) showed that the angle was smaller than 40°, and, based on other characters, placed this genus as a higher nested member within the Selenosteidae. Carr (1996) corroborated that placement of Gy. hydei within the Selenosteidae in an analysis of Selenosteus Dean, 1901a and Stenosteus Dean, 1901a."
+> - Carr and Hlavin (2010): "Carr (1991) noted some uncertainty over whether the closure of the sensory angle (correlated with enlarged orbits) is plesiomorphic or independently derived among several groups within the Aspinothoracidi. Gardiner & Miles (1994) argued that selenosteids clearly share a condition of an angle less than 45° (a synapomorphy of the Selenosteidae, as noted by Lelièvre et al. 1987). However, Lelièvre et al. (1987), Carr (1991), and Gardiner & Miles (1994) concurred that Gy. hydei is the sister group of the Selenosteidae. In a redescription of Gy. hydei, Carr (1994) showed that the angle was smaller than 40°, and, based on other characters, placed this genus as a higher nested member within the Selenosteidae. Carr (1996) corroborated that placement of Gy. hydei within the Selenosteidae in an analysis of Selenosteus Dean, 1901a and Stenosteus Dean, 1901a."
 
 > - The coding of the new Xitun actinolepid is 0.
 
@@ -797,7 +797,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  153. Angle between the suborbital and postorbital branches of the infraorbital sensory line groove (Lelièvre, 1984a): opened (0); closed, measured as less than 90° (1).
 > Carr (1991), Character 82, modified; Carr and Hlavin (2010), Character 82; Rücklin *et al*. (2015), Character 82; Zhu Y *et al*. (2016), Character 82; Jobbins *et al*. (2022, 2024), Character 82.
 
-> - Carr and Hlavin (2010): "Gardiner & Miles (1994) argued that the angle between these grooves in *Homostius* and *Buchanosteus* is opened, in contrast to the interpretations of Lelièvre (in part, 1984a) and Carr (1991). We assume that this discrepancy was based on differing interpretations of the terms open and closed. As originally used by Lelièvre (1984a), and followed by Carr (1991), the angle in consideration was the anterior or anterodorsal-facing angle formed by the postorbital and suborbital branches of the infraorbital sensory line groove (Lelièvre, 1984a, angle formed by sio and sio.sb, fig. 2A). This feature is considered here to be closed in Homostius (Heintz, 1934, fig. 22), polymorphic in *Buchanosteus* (sensu Young, 1979); opened in *B. confertituberculatus* (Young, 1979: fig. 13, pl. 3), and closed in *B. ‘murrumbidgeensis’* (White, 1952) (White &Toombs, 1972: fig. 24; pl. 8, fig. 3), and opened in the other taxa."
+> - Carr and Hlavin (2010): "Gardiner & Miles (1994) argued that the angle between these grooves in *Homostius* and *Buchanosteus* is opened, in contrast to the interpretations of Lelièvre (in part, 1984a) and Carr (1991). We assume that this discrepancy was based on differing interpretations of the terms open and closed. As originally used by Lelièvre (1984a), and followed by Carr (1991), the angle in consideration was the anterior or anterodorsal-facing angle formed by the postorbital and suborbital branches of the infraorbital sensory line groove (Lelièvre, 1984a, angle formed by sio and sio.sb, fig. 2A). This feature is considered here to be closed in Homostius (Heintz, 1934, fig. 22), polymorphic in *Buchanosteus* (sensu Young, 1979); opened in *B. confertituberculatus* (Young, 1979: fig. 13, pl. 3), and closed in *B. ‘murrumbidgeensis’* (White, 1952) (White &Toombs, 1972: fig. 24; pl. 8, fig. 3), and opened in the other taxa."
 
 > - The coding of the new Xitun actinolepid is ?.
 
@@ -1016,7 +1016,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - Central sensory canals meet posterioly on central plates in *Watsonosteus* and *Dickosteus*.
 
 ## References
-Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic
+Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic
 Biology 43: 27–40.
 
 Asmuss H. 1856. Das vollkommenste Hautskelet der bisher
@@ -1039,7 +1039,7 @@ of northern Ohio, U.S.A. with a review of brachythoracid
 systematics. Zoological Journal of the Linnean Society 103:
 349–390.
 
-Carr RK. 1994. A redescription of Gymnotrachelus (Placodermi: Arthrodira) from the Cleveland Shale (Famennian) of
+Carr RK. 1994. A redescription of Gymnotrachelus (Placodermi: Arthrodira) from the Cleveland Shale (Famennian) of
 northern Ohio, U.S.A. Kirtlandia 48: 3–21.
 
 Carr RK. 1996. Stenosteus angustopectus sp. nov. from the
@@ -1055,12 +1055,12 @@ of vertebrates. München: Verlag Dr. Friedrich Pfeil, 127–
 138.
 
 Carr RK, Johanson Z, Ritchie R. 2009. The phyllolepid
-placoderm Cowralepis mclachlani: Insights into the evolution of feeding mechanisms in jawed vertebrates. Journal of
+placoderm Cowralepis mclachlani: Insights into the evolution of feeding mechanisms in jawed vertebrates. Journal of
 Morphology DOI: 10.1002/jmor.10719: 1–30.
 
 Chapman F. 1916. On the generic position of ‘Asterolepis
 ornate, var. australis’, McCoy: with description of a new
-variety. Proceedings of the Royal Society of Victoria, Melbourne 28: 211–215.
+variety. Proceedings of the Royal Society of Victoria, Melbourne 28: 211–215.
 
 Claypole EW. 1892. A new gigantic placoderm from Ohio.
 American Geologist 10: 1–4.
@@ -1068,9 +1068,9 @@ American Geologist 10: 1–4.
 Claypole EW. 1896. Dinichthys prentis-clarki. American
 Geologist 18: 199–201.
 
-Cossman M. 1910. Rectification de nomenclature. Revue Critique de Paléozoologie 14: 74.
+Cossman M. 1910. Rectification de nomenclature. Revue Critique de Paléozoologie 14: 74.
 
-Dean B. 1901a. Palaeontological notes. I. On two new arthrodires from the Cleveland Shale of Ohio. Memoirs of the
+Dean B. 1901a. Palaeontological notes. I. On two new arthrodires from the Cleveland Shale of Ohio. Memoirs of the
 New York Academy of Sciences 2: 87–100.
 
 Dean B. 1901b. Palaeontological notes. III. Further notes on
@@ -1080,9 +1080,9 @@ New York Academy of Sciences 2: 110–123.
 Denison RH. 1975. Evolution and classification of placoderm
 fishes. Breviora 432: 1–24.
 
-Denison RH. 1978. Handbook of paleoichthyology. 2. Placodermi. Stuttgart: Gustav Fischer Verlag.
+Denison RH. 1978. Handbook of paleoichthyology. 2. Placodermi. Stuttgart: Gustav Fischer Verlag.
 Denison RH. 1984. Further consideration of the phylogeny
-and classification of the Order Arthrodira (Pisces: Placodermi). Journal of Vertebrate Paleontology 4: 396–412.
+and classification of the Order Arthrodira (Pisces: Placodermi). Journal of Vertebrate Paleontology 4: 396–412.
 
 Dennis KD, Miles RS. 1979a. A second eubrachythoracid
 arthrodire from Gogo, Western Australia. Zoological
@@ -1113,12 +1113,12 @@ Paris: Bulletin du Muséum national d’Histoire naturelle,
 127–142.
 
 Dennis-Bryan KD. 1987. A new species of eastmanosteid
-arthrodire (Pisces: Placodermi) from Gogo, Western Australia. Zoological Journal of the Linnean Society 90: 1–64.
+arthrodire (Pisces: Placodermi) from Gogo, Western Australia. Zoological Journal of the Linnean Society 90: 1–64.
 
-Dennis-Bryan KD, Miles RS. 1983a. Further eubrachythoracid arthrodires from Gogo, Western Australia. Zoological
+Dennis-Bryan KD, Miles RS. 1983a. Further eubrachythoracid arthrodires from Gogo, Western Australia. Zoological
 Journal of the Linnean Society 77: 145–173.
 
-Dennis-Bryan KD, Miles RS. 1983b. Renaming of Kimberia. Zoological Journal of the Linnean Society 78: 398.
+Dennis-Bryan KD, Miles RS. 1983b. Renaming of Kimberia. Zoological Journal of the Linnean Society 78: 398.
 
 Dunkle DH, Bungart PA. 1939. A new arthrodire from the
 Cleveland Shale Formation. Scientific Publications of the
@@ -1131,39 +1131,39 @@ of the Cleveland Museum of Natural History 8: 65–71.
 Dunkle DH, Bungart PA. 1946. The antero-supragnathal of
 Gorgonichthys. American Museum Novitates 1316: 1–10.
 
-Dupret V. 2004. The phylogenetic relationships between actinolepids (Placodermi: Arthrodira) and other arthrodires
+Dupret V. 2004. The phylogenetic relationships between actinolepids (Placodermi: Arthrodira) and other arthrodires
 (phlyctaeniids and brachythoracids). Fossils and Strata 50:
 44–51.
 
 Dupret V, Goujet D, Mark-Kurik E. 2007. A new genus of
-placoderm (Arthrodira:‘Actinolepida’) from the Lower Devonian of Podolia (Ukraine). Journal of Vertebrate Paleontology 27: 266–284.
+placoderm (Arthrodira:‘Actinolepida’) from the Lower Devonian of Podolia (Ukraine). Journal of Vertebrate Paleontology 27: 266–284.
 
 Eastman CR. 1897. On the relations of certain plates in the
 dinichthyids, with descriptions of new species. Bulletin of
 the Museum of Comparative Zoology at Harvard University
 31: 19–44.
 
-Eastman CR. 1907. Devonic fishes of the New York formations. Memoir New York State Museum 10: 1–235.
+Eastman CR. 1907. Devonic fishes of the New York formations. Memoir New York State Museum 10: 1–235.
 
 Elliott DK, Johnson HG, Cloutier R, Carr RK, Daeschler
 EB. 2000. Middle and Late Devonian vertebrates of the
-western Old Red Sandstone Continent. Courier Forschungsinstittut Senckenberg 223: 291–308.
+western Old Red Sandstone Continent. Courier Forschungsinstittut Senckenberg 223: 291–308.
 
-Gardiner BG, Miles RS. 1990. A new genus of eubrachythoracid arthrodire form Gogo, Western Australia. Zoological
+Gardiner BG, Miles RS. 1990. A new genus of eubrachythoracid arthrodire form Gogo, Western Australia. Zoological
 Journal of the Linnean Society 90: 159–204.
 
-Gardiner BG, Miles RS. 1994. Eubrachythoracid arthrodires from Gogo, Western Australia. Zoological Journal of
+Gardiner BG, Miles RS. 1994. Eubrachythoracid arthrodires from Gogo, Western Australia. Zoological Journal of
 the Linnean Society 112: 443–477.
 
 Goujet D. 1975. Dicksonosteus, un nouvel Arthrodire du
 Dévonien du Spitsberg; remarques sur le squelette visceral
 des Dolichothoraci. In: Lehman JP, ed. Problèmes actuels de
-Paléontologie: Évolution des Vertébrés. Colloques internationaux du Centre national de la Recherche Scientifique.
+Paléontologie: Évolution des Vertébrés. Colloques internationaux du Centre national de la Recherche Scientifique.
 Paris: Centre National de la Recherche Scientifique, 81–99.
 
 Goujet D. 1984. Les Poissons Placodermes du Spitsberg.
 Arthrodires Dolichothoraci de la Formation de Wood Bay
-(Dévonien Inférieur). Paris: Cahiers de Paléontologie, Editions du Centre National de la Recherche Scientifique.
+(Dévonien Inférieur). Paris: Cahiers de Paléontologie, Editions du Centre National de la Recherche Scientifique.
 
 Goujet D, Young GC. 1995. Interrelationships of placoderms
 revisited. Geobios Mémoire spécial 19: 89–95.
@@ -1183,7 +1183,7 @@ Heintz A. 1934. Revision of the Estonian Arthrodira. Part 1.
 Family Homostiidae Jaekel. University of Tartu, Institute of
 Geology Publication 38: 177–291.
 
-Heintz A. 1968. The spinal plate in Homostius and Dunkleosteus. In: Ørvig T, ed. Current Problems of Lower Vertebrate
+Heintz A. 1968. The spinal plate in Homostius and Dunkleosteus. In: Ørvig T, ed. Current Problems of Lower Vertebrate
 Phylogeny, Nobel Symposium 4. Stockholm: Almqvist and
 Wiksell, 145–151.
 
@@ -1193,7 +1193,7 @@ Unpublished Master of Arts Thesis, Boston University,
 Massachusetts, U.S.A.
 
 Hlavin WJ. 1976. Biostratigraphy of the Late Devonian black
-shales on the cratonal margin of the Appalachian geosyncline. Unpublished D. Phil. Thesis, Boston University,
+shales on the cratonal margin of the Appalachian geosyncline. Unpublished D. Phil. Thesis, Boston University,
 Massachusetts, U.S.A.
 
 Hoover KV. 1960. Devonian – Mississippian shale sequence
@@ -1233,7 +1233,7 @@ Tafilalet (sud marocain). Notes et Mémoires. Service
 Géologique du Maroc 129: 1–170.
 
 Lelièvre H. 1984a. Atlantidosteus hollardi n. g., n. sp.,
-nouveau Brachythoraci (Vertébrés, Placodermes) du Dévonien inférieur du Maroc présaharien. Bulletin du Museum
+nouveau Brachythoraci (Vertébrés, Placodermes) du Dévonien inférieur du Maroc présaharien. Bulletin du Museum
 national d’Histoire naturelle, Paris 4: 197–208.
 
 Lelièvre H. 1984b. Antineosteus lehmani n. g., n. sp.,
@@ -1248,7 +1248,7 @@ Bulletin du Muséum national d’Histoire naturelle, Paris 4:
 
 Lelièvre H, Feist R, Goujet D, Blieck A. 1987. Les
 vertébrés dévoniens de la Montagne Noire (sud de la
-France) et leur apport à la phylogénie des pachyostéomorphes (Placodermes Arthrodires). Palaeovertebrata 17: 1–
+France) et leur apport à la phylogénie des pachyostéomorphes (Placodermes Arthrodires). Palaeovertebrata 17: 1–
 26.
 
 Lelièvre H, Janvier P, Goujet D. 1981. Les vertébrés
@@ -1262,11 +1262,11 @@ Long JA. 1984. New phyllolepids from Victoria and the
 relationships of the group. Proceedings of the Linnean
 Society New South Wales 107: 263–308.
 
-Long JA. 1987. A new dinichthyid fish (Placodermi: Arthrodira) from the Upper Devonian of Western Australia, with a
+Long JA. 1987. A new dinichthyid fish (Placodermi: Arthrodira) from the Upper Devonian of Western Australia, with a
 discussion of dinichthyid interrelationships. Records of the
 Western Australian Museum 13: 515–540.
 
-Long JA. 1988. A new camuropiscid arthrodire (Pisces: Placodermi) from Gogo, Western Australia. Zoological Journal
+Long JA. 1988. A new camuropiscid arthrodire (Pisces: Placodermi) from Gogo, Western Australia. Zoological Journal
 of the Linnean Society 94: 233–258.
 
 Long JA. 1990. Two new arthrodires (placoderm fishes) from
@@ -1277,7 +1277,7 @@ Long JA. 1995. A new plourdosteid arthrodire from the
 Upper Devonian Gogo Formation of Western Australia.
 Palaeontology 38 (part 1): 39–62.
 
-Maddison WP, Donoghue MJ, Maddison DR. 1984. Outgroup analysis and parsimony. Sytematic Zoology 83:
+Maddison WP, Donoghue MJ, Maddison DR. 1984. Outgroup analysis and parsimony. Sytematic Zoology 83:
 83–103.
 
 Mark-Kurik E. 1963. On the spinal plate of the Middle
@@ -1290,11 +1290,11 @@ period. Annals and Magazine Natural History 2: 1–10; 115–
 134.
 
 Miles RS. 1969. Features of placoderm diversification and the
-evolution of the Arthrodire feeding mechanism. Transactions of the Royal Society of Edinburgh 68: 123–170.
+evolution of the Arthrodire feeding mechanism. Transactions of the Royal Society of Edinburgh 68: 123–170.
 
 Miles RS. 1971. The Holonematidae (placoderm fishes), a
 review based on new specimens of Holonema from the
-Upper Devonian of Western Australia. Philosophical Transactions of the Royal Society of London 263: 101–234.
+Upper Devonian of Western Australia. Philosophical Transactions of the Royal Society of London 263: 101–234.
 
 Miles RS, Dennis KD. 1979. A primitive eubrachythoracid
 arthrodire from Gogo, Western Australia. Zoological
@@ -1303,7 +1303,7 @@ Journal of the Linnean Society 66: 31–62.
 Miller H. 1841. The old red sandstone. Edinburgh: J.
 Johnstone.
 
-Newberry JS. 1868. On some remarkable fossil fishes discovered by Rev. H. Herzer in the black shale (Devonian) at
+Newberry JS. 1868. On some remarkable fossil fishes discovered by Rev. H. Herzer in the black shale (Devonian) at
 Delaware, Ohio. In: Lovering J, ed. Proceedings of the
 American Association for the Advancement of Science, 17th
 Meeitng held at Burlington, Vermont, August, 1867. Boston,
@@ -1317,7 +1317,7 @@ fishes. Annals of the New York Academy of Sciences 1:
 188–192.
 
 Newberry JS. 1885. Descriptions of some gigantic placoderm
-fishes recently discovered in the Devonian of Ohio. Transactions of the New York Academy of Sciences 5: 25–28.
+fishes recently discovered in the Devonian of Ohio. Transactions of the New York Academy of Sciences 5: 25–28.
 
 Newberry JS. 1888. On the fossil fishes of the Erie shale of
 Ohio. Transactions of the New York Academy of Sciences 7:
@@ -1328,7 +1328,7 @@ Monograph of the United States Geological Survey 16: 1–340.
 
 Obruchev DV. 1964. Class Placodermi. Fundamentals of
 Paleontology: A Manual for Paleontologists and Geologists of
-the U.S.S.R., XI, Agnatha, Pisces. Russian: English translation by the Israel Program for Scientific Translations, 1967.
+the U.S.S.R., XI, Agnatha, Pisces. Russian: English translation by the Israel Program for Scientific Translations, 1967.
 
 Obrucheva OP. 1962. Armored fishes of the Devonian of
 USSR (coccosteidae and dinichthyidae). Moscow: Moscow
@@ -1364,8 +1364,8 @@ Stensiö EA. 1959. On the pectoral fin and shoulder girdle of
 Handlingar 8: 1–229.
 
 Stensiö EA. 1963. Anatomical studies on the arthrodiran
-head. Part I. Preface, geological and geographical distribution, the organisation of the head in the Dolichothoraci,
-Coccosteomorphi, and Pachyosteomorphi. Taxonomic appendix. Kungliga Svenska Vetenskapsakademiens Handlingar
+head. Part I. Preface, geological and geographical distribution, the organisation of the head in the Dolichothoraci,
+Coccosteomorphi, and Pachyosteomorphi. Taxonomic appendix. Kungliga Svenska Vetenskapsakademiens Handlingar
 9: 1–419.
 
 Stensiö EA. 1969. Anatomie des arthrodires dans leur cadre
@@ -1376,10 +1376,10 @@ parsimony (*and other methods), version 4. Sunderland:
 Sinauer Associates.
 
 Traquair RH. 1888. Notes on the nomenclature of the fishes
-of the Old Red sandstone of Great Britain. Geological Magazine 3: 507–517.
+of the Old Red sandstone of Great Britain. Geological Magazine 3: 507–517.
 
 Vézina D. 1988. Plourdosteus canadensis (Woodward, 1892),
-un arthrodire du Frasnien inferieur du Canada: contribution à l’etude morphologique phylogénétique des Plourdosteidae (Vertebrata, Placodermi) du Dévonien moyen et
+un arthrodire du Frasnien inferieur du Canada: contribution à l’etude morphologique phylogénétique des Plourdosteidae (Vertebrata, Placodermi) du Dévonien moyen et
 supérieur. Unpublished D. Phil. Thesis, University of Paris
 VII, France.
 
@@ -1411,7 +1411,7 @@ British Museum (Natural History). Part II. London: Taylor
 Woodward AS. 1892. Further contributions to the Devonian
 fish-fauna of Canada. Geological Magazine 9: 481–485.
 
-Young G. 1979. New information on the structure and relationships of Buchanosteus (Placodermi: Euarthrodira) from
+Young G. 1979. New information on the structure and relationships of Buchanosteus (Placodermi: Euarthrodira) from
 the Early Devonian of New South Wales. Zoological Journal
 of the Linnean Society 66: 309–352.
 
@@ -1573,7 +1573,7 @@ Lingham-Soliar, T. (2016). Convergence in thunniform anatomy in lamnid
 sharks and Jurassic ichthyosaurs. Integr. Comp. Biol. 56, 1323–1336. doi: 10.1093/
 icb/icw125
 
-Lingham-Soliar, T., and Plodowski, G. (2007). Taphonomic evidence for highspeed adapted fins in thunniform ichthyosaurs. Naturwissenschaften 94, 65–70.
+Lingham-Soliar, T., and Plodowski, G. (2007). Taphonomic evidence for highspeed adapted fins in thunniform ichthyosaurs. Naturwissenschaften 94, 65–70.
 doi: 10.1007/s00114-006-0160-8
 
 Long, J., Trinajstic, K., Young, G., and Senden, T. (2008). Live birth in the
