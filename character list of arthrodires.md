@@ -1316,3 +1316,248 @@ of the Linnean Society 66: 309–352.
 Young G. 1981. New Early Devonian brachythoracids
 (placoderm fishes) from the Taemas – Wee Jasper region of
 New South Wales. Alcheringa 5: 245–271.
+
+Adams, D. C., Collyer, M., Kaliontzopoulou, A., and Sherratt, E. (2016).
+Geomorph: Software for geometric morphometric analyses. New York: R core Team.
+Ahlberg, P., Trinajstic, K., Johanson, Z., and Long, J. (2009). Pelvic claspers
+confirm chondrichthyan-like internal fertilization in arthrodires. Nature 460,
+888–889. doi: 10.1038/nature08176
+Anderson, P., Friedman, M., Brazeau, M., and Rayfield, E. (2011). Initial
+radiation of jaws demonstrated stability despite faunal and environmental change.
+Nature 476, 206–209. doi: 10.1038/nature10207
+Becker, R. T., House, M. R., Bockwinkel, J., Ebbighausen, V. and Aboussalam,
+Z. S. (2002). Famennian ammonoid zones of the eastern Anti-Atlas (southern
+Morocco). Münster. Forsch. Geol. Paläont. 93, 195–205.
+Bernal, D., Dickson, K., Shadwick, R., and Graham, J. (2001). Review: Analysis
+of the evolutionary convergence for high performance swimming in lamnid sharks
+and tunas. Comp. Biochem. and Physiol. Part A 129, 695–726. doi: 10.1016/S1095-
+6433(01)00333-6
+Bonhomme, V., Picq, S., Gaucherel, C., and Claude, J. (2014). Momocs: Outline
+Analysis Using R. J. Statist. Softw. 56, 1–24. doi: 10.18637/jss.v056.i13
+Brazeau, M. D., and Friedman, M. (2014). The characters of Palaeozoic jawed
+vertebrates. Zool. J. Linn. Soc. 170, 779–821. doi: 10.1111/zoj12111
+Brazeau, M. D., and Friedman, M. (2015). The origin and early phylogenetic
+history of jawed vertebrates. Nature 520, 490–497. doi: 10.1038/nature14438
+Carr, R. K. (1994). A redescription of Gymnotrachelus (Placodermi: Arthrodira)
+from the Cleveland Shale (Famennian) of Northern Ohio, U.S.A. Cleveland:
+Cleveland Museum of Natural History.
+Carr, R. K. (1995). Placoderm diversity and evolution. Bull. Muséum Natl. Nat.
+17, 85–125.
+Carr, R. K., Johanson, Z., and Ritchie, A. (2009). The Phyllolepid Placoderm
+Cowralepis mclachlani: Insights into the Evolution of Feeding Mechanisms in
+Jawed Vertebrates. J. Morpho. 270, 775–804. doi: 10.1002/jmor.10719
+Carr, R. K., Lelievre, H., and Jackson, G. (2010). “The ancestral morphotype for
+the gnathostome pectoral fin revisited and the placoderm condition,” in Phylogeny
+and Paleobiogeography of Fossil Fishes, eds D. K. Elliott, J. G. Maisey, X. Yu, and D.
+Miao (New Delhi: Morphology), 107–122.
+Coatham, S. J., Vinther, J., Rayfield, E. J., and Klug, C. (2020). Was the Devonian
+placoderm Titanichthys a suspension feeder? Roy. Soc. Open Sci. 7:200272. doi:
+10.1098/rsos.200272
+Dean, B. (1901a). Palaeontological Notes. I. On two new arthrodires from the
+Cleveland Shale of Ohio. Mem. New York Acad. Sci. 2, 87–100.
+Dean, B. (1901b). Palaeontological Notes. III. Further notes on the relationships
+of the Arthrognathi. Mem. New York Acad. Sci. 2, 110–123.
+Denison, R. (1978). Handbook of paleoichthyology Volume 2. Placodermi.
+Fischer: Stuttgart.
+Dennis, K., and Miles, R. S. (1981). A pachyosteomorph arthrodire from Gogo,
+Western Australia. Zool. J. Linn. Soc. 73, 213–258. doi: 10.1111/j.1096-3642.1981.
+tb01594.x
+Donley, J. M., Sepulveda, C. A., Konstantinidis, P., Gemballa, S., and Shadwick,
+R. E. (2004). Convergent evolution in mechanical design of lamnid sharks and
+tunas. Nature 429, 61–65. doi: 10.1038/nature02435
+Donoghue, P. C., Forey, P. L., and Aldridge, R. J. (2000). Conodont affinity
+and chordate phylogeny. Biol. Rev. Camb. Philos. Soc. 75, 191–251. doi: 10.1017/
+S0006323199005472
+Ebert, D. A., Fowler, S. L., Compagno, L. J. V., and Dando, M. (2013). Sharks of
+the world : a fully illustrated guide. Plympton St. Maurice: Plymouth Wild Nature
+Press.
+Ferrón, H. G., Martínez-Pérez, C., and Botella, H. (2017). Ecomorphological
+inferences in early vertebrates: reconstructing Dunkleosteus terrelli (Arthrodira,
+Placodermi) caudal fin from palaeoecological data. PeerJ 5:e4081. doi: 10.7717/
+peerj.4081
+Fish, F. E. (1998). Comparative kinematics and hydrodynamics of odontocete
+cetaceans: Morphological and ecological correlates with swimming performance.
+J. Exp. Biol. 201, 2867–2877. doi: 10.1242/jeb.201.20.2867
+Forey, P. L., and Janvier, P. (1993). Agnathans and the origin of jawed
+vertebrates. Nature 361, 129–134. doi: 10.1038/361129a0
+Frey, L., Coates, M., Ginter, M., Hairapetian, V., Rücklin, M., Jerjen, I.,
+et al. (2019a). The early elasmobranch Phoebodus: phylogenetic relationships,
+ecomorphology and a new time-scale for shark evolution. Proc. Roy. Soc. B
+286:20191336. doi: 10.1098/rspb.2019.1336
+Frey, L., Pohle, A., Rücklin, M., and Klug, C. (2019b). Fossil-Lagerstaütten,
+palaeoecology and preservation of vertebrates and invertebrates from the
+Devonian of Morocco (eastern Anti-Atlas). Lethaia 53, 242–266. doi: 10.1111/let.
+12354
+Frey, L., Coates, M. I., Tietjen, K., Rücklin, M., and Klug, C. (2020). A
+symmoriiform from the Late Devonian of Morocco demonstrates a derived jaw
+function in ancient chondrichthyans. Comm. Biol. 3, 1–10. doi: 10.1038/s42003-
+020-01394-2
+Frey, L., Rücklin, M., Korn, D., and Klug, C. (2018). Late Devonian and Early
+Carboniferous alpha diversity, ecospace occupation, vertebrate assemblages and
+bio-events of southeastern Morocco. Palaeogeogr. palaeocl. palaeoecol. 496, 1–17.
+doi: 10.1016/j.palaeo.2017.12.028
+Gardiner, B. G. (1984). The relationships of placoderms. J. Vert. Paleontol. 4,
+375–395. doi: 10.1080/02724634.1984.10012017
+Gess, R. W., and Trinajstic, K. M. (2017). New morphological information on,
+and species of placoderm fish Africanaspis (Arthrodira, Placodermi) from the Late
+Devonian of South Africa. PLoS One 12, e0173169. doi: 10.1371/journal.pone.
+0173169
+Giles, S., Friedman, M., and Brazeau, M. D. (2015). Osteichthyan-like cranial
+conditions in an Early Devonian stem gnathostome. Nature 520:7545. doi: 10.
+1038/nature14065
+Gross, W. (1961). Lunaspis broilii und Lunaspis heroldi aus dem
+Hunsrückschiefer (Unterdevon, Rheinland). Notizbl. Hess. Landes. Bodenforsch.
+Wiesbaden 89, 17–14.
+Jaekel, O. M. J. (1903). Über die Organisation und systematische Stellung der
+Asterolepiden. Z. Deutschen Geol. Gesellschaft 55, 41–60.
+Jaekel, O. M. J. (1911). Die Wirbeltiere. Gebrüder Bornträger. Berlin: Verlag
+Gebrüder Borntraeger.
+Jaekel, O. M. J. (1919). Die Mundbildung der Placodermen. Sitzungsberichte
+der Gesellschaft Naturforschender Freunde Berlin. Berlin: Verlag Gebrüder
+Borntraeger, 73–110.
+Janvier, P. (1984). The relationships of the Osteostraci and Galeaspida.
+J. Vertebr. Paleontol. 4, 344–358. doi: 10.1080/02724634.1984.10012014
+Jarvik, E. (1980). Basic structure and evolution of vertebrates. London: Academic
+Press.
+Jobbins, M., Haug, C., and Klug, C. (2020). First African thylacocephalans from
+the Famennian of Morocco and their role in Late Devonian food webs. Sci. Rep.
+10:5129. doi: 10.1038/s41598-020-61770-0
+Jobbins, M. E. M., Rücklin, M., Argyriou, T., and Klug, C. (2021). A large
+Middle Devonian eubrachythoracid ‘placoderm’ (Arthrodira) jaw from northern
+Gondwana. Swiss J. Palaeo. 140, 1–17. doi: 10.1186/s13358-020-00212-w
+Johanson, Z. (1997). New Remigolepis (Placodermi; Antiarchi) from
+Canowindra, New South Wales, Australia. Geol. Mag. 134, 813–846.
+doi: 10.1017/S0016756897007838
+King, B., Qiao, T., Lee, M. S. Y., Zhu, M., and Long, J. A. (2017). Bayesian
+Morphological Clock Methods Resurrect Placoderm Monophyly and Reveal Rapid
+Early Evolution in Jawed Vertebrates. Syst Biol. 66, 499–516. doi: 10.1093/sysbio/
+syw107
+Klug, C., Di Silvestro, G., Hoffmann, R., Schweigert, G., Fuchs, D., Clements,
+T., et al. (2021). Diagenetic phosphatic Liesegang rings deceptively resemble
+chromatophores in Mesozoic coleoids. PeerJ 9:e10703. doi: 10.7717/peerj.10703
+Kuratani, S. (2012). Evolution of the vertebrate jaw from developmental
+perspectives. Evol. Dev. 14, 76–92. doi: 10.1111/j.1525-142X.2011.00523.x
+Lelièvre, H., Feist, R., Goujet, D., and Blieck, A. (1987). Les vertébrés de
+la Montagne Noire (Sud de la France) et leur apport à la phylogénie des
+Pachyostéomorphes (Placodermes, Arthrodires). Palaeovertebrata 17, 1–26.
+Lindgren, J., Sjövall, P., Thiel, V., Zheng, W., Ito, S., Wakamatsu, K., et al. (2018).
+Soft-tissue evidence for homeothermy and crypsis in a Jurassic ichthyosaur. Nature
+564, 359–365. doi: 10.1038/s41586-018-0775-x
+Lingham-Soliar, T. (2016). Convergence in thunniform anatomy in lamnid
+sharks and Jurassic ichthyosaurs. Integr. Comp. Biol. 56, 1323–1336. doi: 10.1093/
+icb/icw125
+Lingham-Soliar, T., and Plodowski, G. (2007). Taphonomic evidence for highspeed adapted fins in thunniform ichthyosaurs. Naturwissenschaften 94, 65–70.
+doi: 10.1007/s00114-006-0160-8
+Long, J., Trinajstic, K., Young, G., and Senden, T. (2008). Live birth in the
+Devonian period. Nature 453, 650–652. doi: 10.1038/nature06966
+Long, J. A. (1983). New Bothriolepid fish from the Late Devonian of Victoria,
+Australia. Palaeontol 26, 395–320.
+Long, J. A., Mark-Kurik, E., Johanson, Z., Lee, M. S. Y., Young, G. C., and Min, Z.
+(2015). Copulation in antiarch placoderms and the origin of gnathostome internal
+fertilization. Nature 517, 196–199. doi: 10.1038/nature13825
+Long, J. A., Trinajstic, K., and Johanson, Z. (2009). Devonian arthrodire
+embryos and the origin of internal fertilization in vertebrates. Nature 457, 1124–
+1127. doi: 10.1038/nature07732
+Maddison, W. P., and Maddison, D. R. (2021). Mesquite: a modular
+system for evolutionary analysis. Version 3.70. Available online at: http://www.
+mesquiteproject.org (accessed April 8, 2022).
+Miles, R. S., and Westoll, T. S. (1968). IX.—The Placoderm Fish Coccosteus
+cuspidatus Miller ex Agassiz from the Middle Old Red Sandstone of Scotland.
+Part I. Descriptive Morphology. T. Roy. Soc. Edin. 67, 373–476. doi: 10.1017/
+S0080456800024078
+Ørvig, T. (1960). New Finds of Acanthodians, Arthrodires, Crossopterygians,
+Ganoids and Dipnoans in the Upper Middle Devonian Calcareous Flags
+(Oberer Plattenkalk) of the Bergisch Gladbach-Paffrath Trough. Paläontologische
+Zeitschrift 34, 295–335. doi: 10.1007/BF02986872
+Philippe, J. (1996). Early vertebrates. Oxford: Clarendon Press.
+R Core Team (2020). R: A Language and Environment for Statistical Computing.
+Vienna: R Foundation for Statistical Computing.
+Reif, W. E. (1982). Evolution of dermal skeleton and dentition in vertebrates.
+Evol. Biol. 15, 287–368. doi: 10.1007/978-1-4615-6968-8_7
+Rohlf, J. (2016). tpsDig2. v 2.26. New York: Stony Brook University, 523.
+Rücklin, M. (2011). First selenosteid placoderms from the eastern Anti-Atlas of
+Morocco; osteology, phylogeny and palaeogeographical implications. Palaeontol
+54, 25–62. doi: 10.1111/j.1475-4983.2010.01026.x
+Rücklin, M., Donoghue, P. C. J., Cunningham, J. A., Marone, F., and
+Stampanoni, M. (2014). Developmental paleobiology of the vertebrate skeleton.
+J. Paleontol. 88, 676–683. doi: 10.1666/13-107
+Rücklin, M., Donoghue, P. C. J., Johanson, Z., Trinajstic, K., Marone,
+F., and Stampanoni, M. (2012). Development of teeth and jaws in the
+earliest jawed vertebrates. Nature 491, 748–751. doi: 10.1038/nature1
+1555
+Rücklin, M., Lelièvre, H., and Klug, C. (2018). Placodermi from the Early
+Devonian Kess-Kess Mounds of Hamar Laghdad, Southern Morocco. Neues
+Jahrbuch für Geologie und Paläontologie, Abhandlungen 290, 301–306. doi: 10.
+1127/njgpa/2018/0780
+Rücklin, M., Long, J. A., and Trinajstic, K. (2015). A new selenosteid arthrodire
+(‘Placodermi’) from the Late Devonian of Morocco. J. Vert. Paleontol. 35, 1–13.
+doi: 10.1080/02724634.2014.908896
+Sansom, I. J., Wang, N. Z., and Smith, M. (2005). The histology and affinities
+of sinacanthid fishes: primitive gnathostomes from the Silurian of China. Zool. J.
+Linn. Soc. 144, 379–386. doi: 10.1111/j.1096-3642.2005.00171.x
+Shadwick, R. (2005). How tunas and lamnid sharks swim: An evolutionary
+convergence. Am. Sci. 93, 524–531. doi: 10.1511/2005.56.524
+Smith, M. M., and Johanson, Z. (2003). Separate evolutionary origins of teeth
+from evidence in fossil jawed vertebrates. Science 299, 1235–1236. doi: 10.1126/
+science.1079623
+Sternes, P. C., and Shimada, K. (2020). Body forms in sharks (Chondrichthyes:
+Elasmobranchii) and their functional, ecological, and evolutionary implications.
+Zoology 140:125799. doi: 10.1016/j.zool.2020.125799
+Swofford, D. A. (2003). PAUP∗
+4.0. Sunderland: Sinauer Associates.
+Thomson, K. S., and Simanek, D. E. (1977). Body Form and Locomotion in
+Sharks. Am. Zool. 17, 343–354. doi: 10.1093/icb/17.2.343
+Trinajstic, K., Boisvert, C., Long, J., Maksimenko, A., and Johanson, Z. (2015).
+Pelvic and reproductive structures in placoderms (stem gnathostomes). Biol. Rev.
+90, 468–501. doi: 10.1111/brv.12118
+Trinajstic, K., Long, J., Sanchez, S., Boisvert, C., Snitting, D., and Tafforeau,
+P. (2022). Exceptional preservation of organs in Devonian placoderms from the
+Gogo lagerstätte. Science 377, 1311–1314. doi: 10.1126/science.abf3289
+Vaškaninová, V., Chen, D., Tafforeau, P., Johanson, Z., Ekrt, B., Blom, H.,
+et al. (2020). Marginal dentition and multiple dermal jawbones as the ancestral
+condition of jawed vertebrates. Science 369, 211–216. doi: 10.1126/science.aaz9431
+Wendt, J. (1985). Disintegration of the continental margin of northwestern
+Gondwana: Late Devonian of the eastern Anti-Atlas (Morocco). Geology 13,
+815–818. doi: 10.1130/0091-7613(1985)13<815:DOTCMO>2.0.CO;2
+Wendt, J. (1988). “Facies pattern and palaeogeography of the Middle and Late
+Devonian in the eastern Anti-Atlas (Morocco),” in Devonian of the World, I, eds
+N. J. Mc Millan, A. F. Embry, and D. J. Glass (Canada: Canadian Society of
+Petroleum Geologists), 467–480.
+Wendt, J. (2021). Middle and Late Devonian paleogeography of the eastern
+Anti-Atlas (Morocco). Int. J. Earth Sci. 110, 1531–1544. doi: 10.1007/s00531-021-
+02028-6
+Wickham, H. (2016). ggplot2: elegant graphics for data analysis. Germany:
+Springer. doi: 10.1007/978-3-319-24277-4
+Young, G. C. (1986). The relationships of the placoderm fishes. Zool. J. Linn.
+Soc. 88, 1–57. doi: 10.1111/j.1096-3642.1986.tb00876.x
+Young, G. C. (2010). Placoderms (armoured fish): dominant vertebrates of
+the Devonian period. Annu. Rev. Earth Planet. Sci. 38, 523–550. doi: 10.1146/
+annurev-earth-040809-152507
+Zhang, J. D., Sung, H. J., and Huang, W. X. (2020). Specialization of tuna:
+A numerical study on the function of caudal keels. Physic. Fluids 32:111902.
+doi: 10.1063/5.0029340
+Zhu, M., Ahlberg, P. E., Pan, Z., Zhu, Y., Qiao, T., Zhao, W., et al. (2016).
+A Silurian maxillate placoderm illuminates jaw evolution. Science 354, 334–336.
+doi: 10.1126/science.aah3764
+Zhu, M., Yu, X., Ahlberg, P. E., Choo, B., Lu, J., Qiao, T., et al. (2013). A Silurian
+placoderm with osteichthyan-like marginal jaw bones. Nature 502, 188–193. doi:
+10.1038/nature12617
+Zhu, Y., Giles, S., Young, G. C., Hu, Y., Bazzi, M., Ahlberg, P. E., et al.
+(2021). Endocast and Bony Labyrinth of a Devonian ‘Placoderm’ Challenges Stem
+Gnathostome Phylogeny. Curr. Biol 31, 1112–1118.e4. doi: 10.1016/j.cub.2020.12.
+046
+
+Jobbins M, Rücklin M, Ferrón HG, Klug C. 2022
+A new selenosteid placoderm from the Late
+Devonian of the eastern Anti-Atlas (Morocco)
+with preserved body outline and its
+ecomorphology. Front. Ecol. Evol. 10, 969158,
+(doi:10.3389/fevo.2022.969158)
+
+Jobbins M, Rücklin M, Sánchez
+Villagra MR, Lelièvre H, Grogan E, Szrek P, Klug
+C. 2024 Extreme lower jaw elongation in a
+placoderm reflects high disparity and modularity
+in early vertebrate evolution. R. Soc. Open Sci. 11:
+231747.
+https://doi.org/10.1098/rsos.231747
