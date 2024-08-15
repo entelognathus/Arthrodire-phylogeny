@@ -12,7 +12,7 @@
  2. Lateral consolidated arch: absent or greatly reduced (0); present, forming a prominent crest (1).
 >  Carr (1991), Character 2; Carr and Hlavin (2010), Character 2; Rücklin *et al*. (2015), Character 2; Zhu Y *et al*. (2016), Character 2; Jobbins *et al*. (2022, 2024), Character 2.
  
-> - The previous definition [Posterolateral extension of the lateral consolidated arch extends as a distinct ridge or thickening onto the postmarginal plate, or to the skull roof edge if the postmarginal plate is absent: absent (0); present (1)] did not summarize the condition in plesiomorphic brachythoracids well, in which the lateral consolidated arch is separated from the inframarginal crista, exemplified in *Exutaspis*. or the lateral consolidated arch is absent but the inframarginal crista is present, as in *Holonema*. 
+> - The previous definition 'Posterolateral extension of the lateral consolidated arch extends as a distinct ridge or thickening onto the postmarginal plate, or to the skull roof edge if the postmarginal plate is absent: absent (0); present (1)' did not summarize the condition in plesiomorphic brachythoracids well, in which the lateral consolidated arch is separated from the inframarginal crista, exemplified in *Exutaspis*. or the lateral consolidated arch is absent but the inframarginal crista is present, as in *Holonema*. 
 
 > - Xue et al. (in prep.) revise the definition of this character to cover all situations, together with the two additional characters (Characters 173 and 174).
 
@@ -908,6 +908,7 @@ cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) 
 174. Number of inframarginal cristae: one (1) or two (1).
 > Xue *et al*. (in prep.), Character 174.
 
+> - Character 174 is contingent on Character 173.
 > - The coding of the new Xitun actinolepid is ?.
 
 175. The groove of the path of the ramus mandibularis internus VII: absent(0); present(1).
