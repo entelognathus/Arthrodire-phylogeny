@@ -681,24 +681,25 @@
 > - Water Canyon Formation; Cache County, Utah, USA.
 > - [Denison, 1958].
 
-[*Ailuracantha dorsifelis *](https://deepbone.org/public/#/explor?s_id=2496&functionId=Deepbone_header_searchResultOpen) White, 1969
+[*Ailuracantha dorsifelis*](https://deepbone.org/public/#/explor?s_id=2496&functionId=Deepbone_header_searchResultOpen) White, 1969
 > Pragian or Lower Emsian, 410.8, 407.6 or 407.6, 400.45
 
 > - Herefordshire, England
 > - [White, 1969](https://academic.oup.com/biolinnean/article-abstract/1/3/293/2682521)
-
 
 [*Alienacanthus malkowskii*](https://deepbone.cn/public/#/explor?s_id=172100&functionId=Deepbone_header_searchResultOpen) Jobbins et al., 2024
 > Middle Famennian, 372.2, 363.3
 
 > - Maider Basin, Morocco
 > - [Jobbins et al., 2024](https://royalsocietypublishing.org/doi/full/10.1098/rsos.231747).
+> - **To be added.**
 
 [*Amazichthys_trinajsticae*](https://deepbone.cn/public/#/explor?s_id=169304&functionId=Deepbone_header_searchResultOpen) Jobbins et al., 2022
 > Middle Famennian, 372.2, 363.3
 
 > - Jebel Ouaoufilal, Morocco
 > - [Jobbins et al., 2022](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2022.969158/full)
+> - **To be added.**
 
 [*Anarthraspis chamberlini*](https://deepbone.cn/public/#/explor?s_id=2497&functionId=Deepbone_header_searchResultOpen) (Bryant, 1934)
 > Pragian, 410.8, 407.6
