@@ -3,11 +3,12 @@
 
 ## Skull roof
  1. Nuchal plate with posterodorsally placed paired pits: absent (0), present (1).
-> Carr (1991), Character 1; Carr and Hlavin (2010), Character 1; Rücklin *et al*. (2015), Character 1; Zhu Y *et al*. (2016), Character 1; Jobbins *et al*. (2022, 2024), Character 1.
+> Carr (1991), Character 1; Carr and Hlavin (2010), Character 1; Rücklin *et al*. (2015), Character 1; Zhu Y *et al*. (2016), Character 1; Jobbins *et al*. (2022, 2024), Character 1; Xue *et al*. (submitted), Character 1.
 
 > - f.lv (fossa on the nuchal plate for levator muscles of the head) of Goujet (1984).
 > - present on the paranuchal plate in *Holonema*.
 > - The coding of the new Xitun actinolepid is 0.
+> - The coding of *Panjiangosteus eurycephala* is .
 
  2. Lateral consolidated arch: absent or greatly reduced (0); present, forming a prominent crest (1).
 >  Carr (1991), Character 2; Carr and Hlavin (2010), Character 2; Rücklin *et al*. (2015), Character 2; Zhu Y *et al*. (2016), Character 2; Jobbins *et al*. (2022, 2024), Character 2.
@@ -123,7 +124,7 @@
 > - The coding of the new Xitun actinolepid is 0.
 
  23. Marginal plate in contact with the central plate: absent (0); present (1).
-> Lelièvre (1988), Character 5; Johnson *et al*. (2000), Character 5; Carr (1991), Character 23, modified; Carr and Hlavin (2010), Character 23; Rücklin *et al*. (2015), Character 23; Zhu Y *et al*. (2016, 2024), Character 23; Dupret *et al*., Character 22; Jobbins *et al*. (2022), Character 23.
+> Lelièvre (1988), Character 5; Johnson *et al*. (2000), Character 5; Carr (1991), Character 23, modified; Carr and Hlavin (2010), Character 23; Rücklin *et al*. (2015), Character 23; Zhu Y *et al*. (2016), Character 23; Dupret *et al*. (2017), Character 22; Jobbins *et al*. (2022, 2024), Character 23.
 
 > - The coding of the new Xitun actinolepid is 1.
 
@@ -307,7 +308,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of the new Xitun actinolepid is 1.
 
  57. Pineal or rostropineal plate fused to skull roof: no fusion (0); fusion (1).
-> Johnson *et al*. (2000), Character 2; Dupret *et al*. (2017), Character 10; Zhu *et al*. (2010), Character 10.
+> Johnson *et al*. (2000), Character 2; Dupret *et al*. (2009), Character 10; Dupret *et al*. (2017), Character 10; Zhu *et al*. (2010), Character 10.
 
 > - The coding of the new Xitun actinolepid is 1.
 
@@ -1016,6 +1017,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - Central sensory canals meet posterioly on central plates in *Watsonosteus* and *Dickosteus*.
 
 
+
 Link between the two neurocranium components (ethmoid and postethmoid parts): no link (‘loose nose’ fishes) (0); fusion (by osseous trabecles or total fusion) (1).
 > Dupret *et al*. (2017), Character 1.
 
@@ -1034,7 +1036,7 @@ Rostral, pineal, or rostropineal plates: absent (0); present (1).
 Position of pineal plate: further anteriorly from orbits (0); same level as orbits (1).
 > Dupret *et al*. (2017), Character 6.
 
-Pineal or rostropineal plate separates preorbital plates: no separation (0); separation (1).
+**Pineal or rostropineal plate separates preorbital plates: no separation (0); separation (1).**
 > Dupret *et al*. (2017), Character 7.
 
 Rostral and pineal plates fused in single rostropineal component: no (0); yes (1).
@@ -1074,7 +1076,7 @@ Midline contact between paired central plates: straight (0); sinuous (1).
 Contact between pineal (or rostropineal) and central plates: absent (0); present (1).
 > Dupret *et al*. (2017), Character 19.
 
-Indentation of posterior edge of preorbital plates on anterior edge of central plates: absent (0); present (1).
+**Indentation of posterior edge of preorbital plates on anterior edge of central plates: absent (0); present (1).**
 > Dupret *et al*. (2017), Character 20.
 
 Contact between central and preorbital plates: present (0); absent (1).
@@ -1083,7 +1085,7 @@ Contact between central and preorbital plates: present (0); absent (1).
 Contact between central and marginal plates: present (0); absent (1).
 > Dupret *et al*. (2017), Character 22.
 
-Contact between postorbital and paranuchal plates: present (0); absent (1).
+**Contact between postorbital and paranuchal plates: present (0); absent (1).**
 > Dupret *et al*. (2017), Character 23.
 
 Nuchal plate: absent (0); present (1).
@@ -1113,7 +1115,7 @@ Central sensory line: absent (0); present (1).
 Postmarginal plate: absent (0); present (1).
 > Dupret *et al*. (2017), Character 32.
 
-Contact suture between nuchal and central plates (external side): nuchal plate indenting central plates (0); straight contact (1).
+**Contact suture between nuchal and central plates (external side): nuchal plate indenting central plates (0); straight contact (1).**
 > Dupret *et al*. (2017), Character 33.
 
 Contact between pineal and nuchal plates: absent (0); present (1).
@@ -1128,7 +1130,7 @@ Occipital cross commissure: on both nuchal and paranuchal plates (0); only on pa
 Posterolateral edge of paranuchal plates: convex (0); concave (1).
 > Dupret *et al*. (2017), Character 37.
 
-Posterior process of paranuchal plate behind nuchal plate (external side): absent (0); present (1).
+**Posterior process of paranuchal plate behind nuchal plate (external side): absent (0); present (1).**
 > Dupret *et al*. (2017), Character 38.
 
 Position of external foramen for endolymphatic duct: very forwardly positioned from posterior edge of paranuchal plate, or on anterior paranuchal plate for Petalichthyida (0); near the posterior edge of paranuchal plate (1).
@@ -1138,7 +1140,7 @@ Type of exoskeletal dermal craniothoracic articulation:
 actinolepid ‘sliding neck joint’ (0); ginglymoid phlyctaenioid type (1); ‘spoon-like’ petalichthyid type (2).
 > Dupret *et al*. (2017), Character 40.
 
-Articular dermal condyle of anterior dorsolateral plates: close together (0); further apart (1).
+**Articular dermal condyle of anterior dorsolateral plates: close together (0); further apart (1).**
 > Dupret *et al*. (2017), Character 41.
 
 Ventral keel on internal side of median dorsal plate: absent (0); present (1).
@@ -1168,7 +1170,7 @@ Prepectoral process of anterior ventrolateral plate: short (0); long (1).
 Anteroventral plates: absent (0); present (1).
 > Dupret *et al*. (2017), Character 50.
 
-Contact between anterior lateral and anterior ventrolateral plates behind pectoral fenestra: no (0); yes (1).
+**Contact between anterior lateral and anterior ventrolateral plates behind pectoral fenestra: no (0); yes (1).**
 > Dupret *et al*. (2017), Character 51.
 
 Anterior medioventral plate: absent (0); present (1).
@@ -1183,10 +1185,10 @@ Posterior ventrolateral plates mutually overlapping: simple overlapping (0); sin
 Spinelets on mesial side of spinal plate: absent (0); present (1).
 > Dupret *et al*. (2017), Character 55.
 
-Posterior median dorsal plates covering the tail: absent (0); present (1).
+**Posterior median dorsal plates covering the tail: absent (0); present (1).**
 > Dupret *et al*. (2017), Character 56.
 
-Width/length (W/L) ratio of preorbital plates: W/L > 0.5 (0); W/L  0.5 (1).
+**Width/length (W/L) ratio of preorbital plates: W/L > 0.5 (0); W/L  0.5 (1).**
 > Dupret *et al*. (2017), Character 57.
 
 Central plate length/skull roof length ratio (LC/LSR; from anterior edge of preorbital plates to posterior-mostedge of skull roof): LC/LSR < 45% (0); LC/LSR 45% (1).
@@ -1195,16 +1197,16 @@ Central plate length/skull roof length ratio (LC/LSR; from anterior edge of preo
 Length/width ratio (L/W) of nuchal plate: L/W  1.5 (0); L/W > 1.5 (1).
 > Dupret *et al*. (2017), Character 59.
 
-Length/width ratio (L/W) of median dorsal plate: L/W < 1.5 (0); L/W 1.5 (1).
+**Length/width ratio (L/W) of median dorsal plate: L/W < 1.5 (0); L/W 1.5 (1).**
 > Dupret *et al*. (2017), Character 60.
 
-Length/width ratio (L/W) of anterior dorsolateral plate: L/H < 1 (0); L/H 1 (1).
+**Length/width ratio (L/W) of anterior dorsolateral plate: L/H < 1 (0); L/H 1 (1).**
 > Dupret *et al*. (2017), Character 61.
 
 Length/width ratio (L/W) of posterior dorsolateral plate: L/H < 2 (0); L/H >= 2 (1).
 > Dupret *et al*. (2017), Character 62.
 
-Angle between interolateral and spinal plates: angle > 110 (0); angle 110 (1).
+**Angle between interolateral and spinal plates: angle > 110 (0); angle 110 (1).**
 > Dupret *et al*. (2017), Character 63.
 > check state definition. an error exists in Dupret et al. (2017).
 
