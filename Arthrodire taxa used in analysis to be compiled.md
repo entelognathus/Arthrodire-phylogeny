@@ -549,7 +549,6 @@
 > - Yukiang Formation, Pingguo County, Guangxi, China
 > - [Zhu *et al*., 2010](https://www.vertpala.ac.cn/EN/abstract/abstract1259.shtml).
 
-
 [*Protitanichthys rockportensis*](https://deepbone.cn/public/#/explor?s_id=2437&functionId=Deepbone_header_searchResultOpen) Case, 1931
 > Lower Givetian, 387.7, 386.0
 
@@ -673,9 +672,45 @@
 > - Nakaoling (Nagaoling) Formation, Guangxi, China.
 > - [Dupret 2009](https://onlinelibrary.wiley.com/doi/10.1111/j.1096-3642.2009.00519.x), [Wang 1998](https://www.vertpala.ac.cn/EN/abstract/abstract724.shtml)
 
-
-
 ## Arthrodire taxa not used in the analysis
+### To be added from Jobbins et al., 2024
+[*Alienacanthus malkowskii*](https://deepbone.cn/public/#/explor?s_id=172100&functionId=Deepbone_header_searchResultOpen) Jobbins et al., 2024
+> Middle Famennian, 372.2, 363.3
+
+> - Maider Basin, Morocco
+> - [Jobbins et al., 2024](https://royalsocietypublishing.org/doi/full/10.1098/rsos.231747).
+
+[*Amazichthys_trinajsticae*](https://deepbone.cn/public/#/explor?s_id=169304&functionId=Deepbone_header_searchResultOpen) Jobbins et al., 2022
+> Middle Famennian, 372.2, 363.3
+
+> - Jebel Ouaoufilal, Morocco
+> - [Jobbins et al., 2022](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2022.969158/full)Driscollaspis
+
+*Draconichthys*
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - [references]
+>
+*Enseosteus*
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - [references]
+>
+*Selenosteus* 
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - [references]
+>
+*Walterosteus*
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - [references]
+>
+### To be added from other sources
 [*Actinolepis zaikai*](https://deepbone.org/public/#/explor?s_id=73838&functionId=Deepbone_header_searchResultOpen) Plax & Newman, 2020
 > Upper Emsian, 400.45, 393.3
 
@@ -699,20 +734,6 @@
 
 > - Herefordshire, England
 > - [White, 1969](https://academic.oup.com/biolinnean/article-abstract/1/3/293/2682521)
-
-[*Alienacanthus malkowskii*](https://deepbone.cn/public/#/explor?s_id=172100&functionId=Deepbone_header_searchResultOpen) Jobbins et al., 2024
-> Middle Famennian, 372.2, 363.3
-
-> - Maider Basin, Morocco
-> - [Jobbins et al., 2024](https://royalsocietypublishing.org/doi/full/10.1098/rsos.231747).
-> - **To be added.**
-
-[*Amazichthys_trinajsticae*](https://deepbone.cn/public/#/explor?s_id=169304&functionId=Deepbone_header_searchResultOpen) Jobbins et al., 2022
-> Middle Famennian, 372.2, 363.3
-
-> - Jebel Ouaoufilal, Morocco
-> - [Jobbins et al., 2022](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2022.969158/full)
-> - **To be added.**
 
 [*Anarthraspis chamberlini*](https://deepbone.cn/public/#/explor?s_id=2497&functionId=Deepbone_header_searchResultOpen) (Bryant, 1934)
 > Pragian, 410.8, 407.6
@@ -974,7 +995,6 @@
 > - Severnaya Zemlya, Russia.
 > - [Long et al.,2014](https://www.publish.csiro.au/zo/zo13081)
 
-
 [*Wheathillaspis wickhamkingi*](https://deepbone.org/public/#/explor?s_id=3620&functionId=Deepbone_header_searchResultOpen) White, 1961
 > Pragian, 410.8, 393.3
 
@@ -991,7 +1011,6 @@
 
 > - Lepel Beds, Vitebsk Regional Stage, Belarus
 > - [Plax & Newman, 2020](https://www.researchgate.net/publication/340312755_New_Early_Devonian_late_Emsian_placoderms_from_Belarus)
-
 
 [*Yunnanacanthus cuifengshanensis*](https://deepbone.org/public/#/explor?s_id=3278&functionId=Deepbone_header_searchResultOpen) Liu, 1973
 > Lochkovian, 419.2, 410.8
