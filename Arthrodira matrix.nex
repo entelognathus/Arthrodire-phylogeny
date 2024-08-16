@@ -30,7 +30,7 @@ BEGIN CHARACTERS;
 		12 'Nuchal_thickening_with_the_lateral_thickening_associated_with_the_craniothoracic_dermal_articulation' /  discontinuous continuous,
 		13 Preorbital_plate_embayment_of_central_plate /  absent shallow developed,
 		14 Paranuchal_plate_embayment_of_central_plate /  absent shallow developed,
-		15 'Length_ratio_for_the_external_longitudinal_of_the_preorbital_and_central_lates_(r_=_PrO/C)' /  'subequal PRO > C' 'C > PRO',
+		15 'Length ratio for the external longitudinal of the preorbital and central lates (r = PrO/C)' /  'subequal PRO > C' 'C > PRO',
 		16 Infrafenestral_process_of_postnasal_plate /  absent present,
 		17 Preorbital_plate_with_a_dermal_preorbital_lamina_or_process /  absent present,
 		18 Preorbital_plates_with_a_median_contact /  posterior_to_P anterior_to_P absent,
