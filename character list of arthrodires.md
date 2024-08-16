@@ -93,7 +93,7 @@
 > - The coding of the new Xitun actinolepid is ?.
 
  17. Preorbital plate with a dermal preorbital lamina or process: absent (0); present (1).
-> Dennis and Miles (1979b), Character 19; Young (1981), Character 19; Carr (1991), Character 17; Carr and Hlavin (2010), Character 17; Rücklin *et al*. (2015), Character 17; Zhu Y *et al*. (2016, 2024), Character 17; Jobbins *et al*. (2022), Character 
+> Dennis and Miles (1979b), Character 19; Young (1981), Character 19; Carr (1991), Character 17; Carr and Hlavin (2010), Character 17; Rücklin *et al*. (2015), Character 17; Zhu Y *et al*. (2016), Character 17; Jobbins *et al*. (2022), Character 
 
 > - The coding of the new Xitun actinolepid is ?.
 
@@ -922,7 +922,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 176. Middle pit-line: absent (0); present (1).
 > - In the Dunkleosteidae, the middle pit-line is absent, such as in *Gorgonichthys*, *Dunkleosteus*, and *Heterosteus ingens*. The middle pit-line is present in the majority of arthrodires, such as in *Kujdanowiaspis* and *Coccosteus*.
 
-177.Postocular crest: absent (0); present (1).
+177. Postocular crest: absent (0); present (1).
 > - The postocular crest is present in many plesiomorphic arthrodires, such as *Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2), but is absent in eubrachythoracids. In contrast, many eubrachythoracids posssess dermal postorbital processes, but lacking the postocular crest.
 
 178. Round depression lateral to supraorbital vault: absent (0); present (1).
@@ -1016,113 +1016,66 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - Central sensory canals meet posterioly on central plates in *Watsonosteus* and *Dickosteus*.
 
 ## References
-Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic
-Biology 43: 27–40.
+Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
-Asmuss H. 1856. Das vollkommenste Hautskelet der bisher
-bekannten Thierreihe, An fossilen Fischen des Alten Rothen
-Sandsteins aufgefunden und aus ihren Resten erläutert.
+Asmuss H. 1856. Das vollkommenste Hautskelet der bisherbekannten Thierreihe, An fossilen Fischen des Alten Rothen Sandsteins aufgefunden und aus ihren Resten erläutert. Abhandlung zur Erlangung der Magisterwürd. Dorpat: Gedruckt bei Schünmans Wittwe & C. Mattiesen.
 
-Abhandlung zur Erlangung der Magisterwürd. Dorpat:
-Gedruckt bei Schünmans Wittwe & C. Mattiesen.
+Barriel V, Tassy P. 1998. Rooting with multiple outgroups: Consensus versus parsimony. Cladistics 14: 193–200.
 
-Barriel V, Tassy P. 1998. Rooting with multiple outgroups:
-Consensus versus parsimony. Cladistics 14: 193–200.
+Boylan JC. 1973. Eastmanosteus, a placoderm from the Devonian of North America. Unpublished D. Phil. Thesis, Columbia University, New York, USA.
 
-Boylan JC. 1973. Eastmanosteus, a placoderm from the
-Devonian of North America. Unpublished D. Phil. Thesis,
-Columbia University, New York, USA.
+Carr RK. 1991. Reanalysis of Heintzichthys gouldii, an aspinothoracid arthrodire (Placodermi) from the Famennian of northern Ohio, U.S.A. with a review of brachythoracid systematics. Zoological Journal of the Linnean Society 103: 349–390.
 
-Carr RK. 1991. Reanalysis of Heintzichthys gouldii, an
-aspinothoracid arthrodire (Placodermi) from the Famennian
-of northern Ohio, U.S.A. with a review of brachythoracid
-systematics. Zoological Journal of the Linnean Society 103:
-349–390.
+Carr RK. 1994. A redescription of Gymnotrachelus (Placodermi: Arthrodira) from the Cleveland Shale (Famennian) of northern Ohio, U.S.A. Kirtlandia 48: 3–21.
 
-Carr RK. 1994. A redescription of Gymnotrachelus (Placodermi: Arthrodira) from the Cleveland Shale (Famennian) of
-northern Ohio, U.S.A. Kirtlandia 48: 3–21.
+Carr, R. K. (1995). Placoderm diversity and evolution. Bull. Muséum Natl. Nat. 17, 85–125.
 
-Carr RK. 1996. Stenosteus angustopectus sp. nov. from the
-Cleveland Shale (Famennian) of northern Ohio with a
-review of selenosteid (Placodermi) systematics. Kirtlandia
-49: 19–43.
+Carr RK. 1996. Stenosteus angustopectus sp. nov. from the Cleveland Shale (Famennian) of northern Ohio with a review of selenosteid (Placodermi) systematics. Kirtlandia 49: 19–43.
 
-Carr RK. 2004. Recognizing paraphyletic stem groups: A
-case study in the analysis of eubrachythoracid arthrodires
-(Placodermi). In: Arratia G, Wilson MVH, Cloutier R,
-eds. Recent advances in the origin and early radiation
-of vertebrates. München: Verlag Dr. Friedrich Pfeil, 127–
-138.
+Carr RK. 2004. Recognizing paraphyletic stem groups: A case study in the analysis of eubrachythoracid arthrodires
+(Placodermi). In: Arratia G, Wilson MVH, Cloutier R, eds. Recent advances in the origin and early radiation of vertebrates. München: Verlag Dr. Friedrich Pfeil, 127– 138.
 
-Carr RK, Johanson Z, Ritchie R. 2009. The phyllolepid
-placoderm Cowralepis mclachlani: Insights into the evolution of feeding mechanisms in jawed vertebrates. Journal of
-Morphology DOI: 10.1002/jmor.10719: 1–30.
+Carr, R. K., Johanson, Z., and Ritchie, A. (2009). The Phyllolepid Placoderm Cowralepis mclachlani: Insights into the Evolution of Feeding Mechanisms in Jawed Vertebrates. J. Morpho. 270, 775–804. doi: 10.1002/jmor.10719
 
-Chapman F. 1916. On the generic position of ‘Asterolepis
-ornate, var. australis’, McCoy: with description of a new
-variety. Proceedings of the Royal Society of Victoria, Melbourne 28: 211–215.
+Carr, R. K., Lelievre, H., and Jackson, G. (2010). “The ancestral morphotype for the gnathostome pectoral fin revisited and the placoderm condition,” in Phylogeny and Paleobiogeography of Fossil Fishes, eds D. K. Elliott, J. G. Maisey, X. Yu, and D. Miao (New Delhi: Morphology), 107–122.
 
-Claypole EW. 1892. A new gigantic placoderm from Ohio.
-American Geologist 10: 1–4.
+Chapman F. 1916. On the generic position of ‘Asterolepis ornate, var. australis’, McCoy: with description of a newvariety. Proceedings of the Royal Society of Victoria, Melbourne 28: 211–215.
 
-Claypole EW. 1896. Dinichthys prentis-clarki. American
-Geologist 18: 199–201.
+Claypole EW. 1892. A new gigantic placoderm from Ohio. American Geologist 10: 1–4.
+
+Claypole EW. 1896. Dinichthys prentis-clarki. American Geologist 18: 199–201.
 
 Cossman M. 1910. Rectification de nomenclature. Revue Critique de Paléozoologie 14: 74.
 
-Dean B. 1901a. Palaeontological notes. I. On two new arthrodires from the Cleveland Shale of Ohio. Memoirs of the
-New York Academy of Sciences 2: 87–100.
+Dean B. 1901a. Palaeontological notes. I. On two new arthrodires from the Cleveland Shale of Ohio. Memoirs of the New York Academy of Sciences 2: 87–100.
 
-Dean B. 1901b. Palaeontological notes. III. Further notes on
-the relationships of the Arthrognathii. Memoirs of the
-New York Academy of Sciences 2: 110–123.
+Dean B. 1901b. Palaeontological notes. III. Further notes on the relationships of the Arthrognathii. Memoirs of the New York Academy of Sciences 2: 110–123.
 
-Denison RH. 1975. Evolution and classification of placoderm
-fishes. Breviora 432: 1–24.
+Denison RH. 1975. Evolution and classification of placoderm fishes. Breviora 432: 1–24.
 
 Denison RH. 1978. Handbook of paleoichthyology. 2. Placodermi. Stuttgart: Gustav Fischer Verlag.
-Denison RH. 1984. Further consideration of the phylogeny
-and classification of the Order Arthrodira (Pisces: Placodermi). Journal of Vertebrate Paleontology 4: 396–412.
 
-Dennis KD, Miles RS. 1979a. A second eubrachythoracid
-arthrodire from Gogo, Western Australia. Zoological
-Journal of the Linnean Society 67: 1–29.
+Denison RH. 1984. Further consideration of the phylogenyand classification of the Order Arthrodira (Pisces: Placodermi). Journal of Vertebrate Paleontology 4: 396–412.
 
-Dennis KD, Miles RS. 1979b. Eubrachythoracid arthrodires
-with tubular rostral plates from Gogo, Western Australia.
-Zoological Journal of the Linnean Society 67: 297–328.
+Dennis KD, Miles RS. 1979a. A second eubrachythoracid arthrodire from Gogo, Western Australia. Zoological Journal of the Linnean Society 67: 1–29.
 
-Dennis KD, Miles RS. 1980. New durophagus arthrodires
-from Gogo, Western Australia. Zoological Journal of the
-Linnean Society 69: 43–85.
+Dennis KD, Miles RS. 1979b. Eubrachythoracid arthrodires with tubular rostral plates from Gogo, Western Australia.Zoological Journal of the Linnean Society 67: 297–328.
 
-Dennis KD, Miles RS. 1981. A pachyosteomorph arthrodire
-from Gogo, Western Australia. Zoological Journal of the
-Linnean Society 73: 213–258.
+Dennis KD, Miles RS. 1980. New durophagus arthrodires from Gogo, Western Australia. Zoological Journal of the Linnean Society 69: 43–85.
 
-Dennis KD, Miles RS. 1982. A eubrachythoracid arthrodire
-with a snub-nose from Gogo, Western Australia. Zoological
-Journal of the Linnean Society 75: 153–166.
+Dennis KD, Miles RS. 1981. A pachyosteomorph arthrodire from Gogo, Western Australia. Zoological Journal of the Linnean Society 73: 213–258. doi: 10.1111/j.1096-3642.1981.tb01594.x
 
-Dennis-Bryan KD. 1995. Some comments on the placoderm
-parasphenoid. In: Arsenault M, Lelièvre H, Janvier P, eds.
-VIIe International Symposium international, Parc de
-Miguasha, Québec: Études sur le Vertébrés inférieurs
-Early Vertebrates (Nouvelle, Quebec, Canada), Vol. 17.
-Paris: Bulletin du Muséum national d’Histoire naturelle,
-127–142.
+Dennis KD, Miles RS. 1982. A eubrachythoracid arthrodire with a snub-nose from Gogo, Western Australia. Zoological Journal of the Linnean Society 75: 153–166.
 
-Dennis-Bryan KD. 1987. A new species of eastmanosteid
-arthrodire (Pisces: Placodermi) from Gogo, Western Australia. Zoological Journal of the Linnean Society 90: 1–64.
+Dennis-Bryan KD. 1995. Some comments on the placoderm parasphenoid. In: Arsenault M, Lelièvre H, Janvier P, eds. VIIe International Symposium international, Parc de Miguasha, Québec: Études sur le Vertébrés inférieurs Early Vertebrates (Nouvelle, Quebec, Canada), Vol. 17. Paris: Bulletin du Muséum national d’Histoire naturelle, 127–142.
 
-Dennis-Bryan KD, Miles RS. 1983a. Further eubrachythoracid arthrodires from Gogo, Western Australia. Zoological
-Journal of the Linnean Society 77: 145–173.
+Dennis-Bryan KD. 1987. A new species of eastmanosteid arthrodire (Pisces: Placodermi) from Gogo, Western Australia. Zoological Journal of the Linnean Society 90: 1–64.
+
+Dennis-Bryan KD, Miles RS. 1983a. Further eubrachythoracid arthrodires from Gogo, Western Australia. Zoological Journal of the Linnean Society 77: 145–173.
 
 Dennis-Bryan KD, Miles RS. 1983b. Renaming of Kimberia. Zoological Journal of the Linnean Society 78: 398.
 
-Dunkle DH, Bungart PA. 1939. A new arthrodire from the
-Cleveland Shale Formation. Scientific Publications of the
-Cleveland Museum of Natural History 8: 13–28.
+Dunkle DH, Bungart PA. 1939. A new arthrodire from the Cleveland Shale Formation. Scientific Publications of the Cleveland Museum of Natural History 8: 13–28.
 
 Dunkle DH, Bungart PA. 1942. A new genus and species of
 Arthrodire from the Cleveland Shale. Scientific Publications
@@ -1131,132 +1084,72 @@ of the Cleveland Museum of Natural History 8: 65–71.
 Dunkle DH, Bungart PA. 1946. The antero-supragnathal of
 Gorgonichthys. American Museum Novitates 1316: 1–10.
 
-Dupret V. 2004. The phylogenetic relationships between actinolepids (Placodermi: Arthrodira) and other arthrodires
-(phlyctaeniids and brachythoracids). Fossils and Strata 50:
-44–51.
+Dupret V. 2004. The phylogenetic relationships between actinolepids (Placodermi: Arthrodira) and other arthrodires (phlyctaeniids and brachythoracids). Fossils and Strata 50: 44–51.
 
-Dupret V, Goujet D, Mark-Kurik E. 2007. A new genus of
-placoderm (Arthrodira:‘Actinolepida’) from the Lower Devonian of Podolia (Ukraine). Journal of Vertebrate Paleontology 27: 266–284.
+Dupret V, Goujet D, Mark-Kurik E. 2007. A new genus of placoderm (Arthrodira:‘Actinolepida’) from the Lower Devonian of Podolia (Ukraine). Journal of Vertebrate Paleontology 27: 266–284.
 
-Eastman CR. 1897. On the relations of certain plates in the
-dinichthyids, with descriptions of new species. Bulletin of
-the Museum of Comparative Zoology at Harvard University
-31: 19–44.
+Eastman CR. 1897. On the relations of certain plates in the dinichthyids, with descriptions of new species. Bulletin of the Museum of Comparative Zoology at Harvard University 31: 19–44.
 
 Eastman CR. 1907. Devonic fishes of the New York formations. Memoir New York State Museum 10: 1–235.
 
-Elliott DK, Johnson HG, Cloutier R, Carr RK, Daeschler
-EB. 2000. Middle and Late Devonian vertebrates of the
-western Old Red Sandstone Continent. Courier Forschungsinstittut Senckenberg 223: 291–308.
+Elliott DK, Johnson HG, Cloutier R, Carr RK, Daeschler EB. 2000. Middle and Late Devonian vertebrates of the western Old Red Sandstone Continent. Courier Forschungsinstittut Senckenberg 223: 291–308.
 
-Gardiner BG, Miles RS. 1990. A new genus of eubrachythoracid arthrodire form Gogo, Western Australia. Zoological
-Journal of the Linnean Society 90: 159–204.
+Gardiner BG, Miles RS. 1990. A new genus of eubrachythoracid arthrodire form Gogo, Western Australia. Zoological Journal of the Linnean Society 90: 159–204.
 
-Gardiner BG, Miles RS. 1994. Eubrachythoracid arthrodires from Gogo, Western Australia. Zoological Journal of
-the Linnean Society 112: 443–477.
+Gardiner BG, Miles RS. 1994. Eubrachythoracid arthrodires from Gogo, Western Australia. Zoological Journal of the Linnean Society 112: 443–477.
 
-Goujet D. 1975. Dicksonosteus, un nouvel Arthrodire du
-Dévonien du Spitsberg; remarques sur le squelette visceral
-des Dolichothoraci. In: Lehman JP, ed. Problèmes actuels de
-Paléontologie: Évolution des Vertébrés. Colloques internationaux du Centre national de la Recherche Scientifique.
-Paris: Centre National de la Recherche Scientifique, 81–99.
+Goujet D. 1975. Dicksonosteus, un nouvel Arthrodire du Dévonien du Spitsberg; remarques sur le squelette visceral des Dolichothoraci. In: Lehman JP, ed. Problèmes actuels de Paléontologie: Évolution des Vertébrés. Colloques internationaux du Centre national de la Recherche Scientifique. Paris: Centre National de la Recherche Scientifique, 81–99.
 
-Goujet D. 1984. Les Poissons Placodermes du Spitsberg.
-Arthrodires Dolichothoraci de la Formation de Wood Bay
-(Dévonien Inférieur). Paris: Cahiers de Paléontologie, Editions du Centre National de la Recherche Scientifique.
+Goujet D. 1984. Les Poissons Placodermes du Spitsberg. Arthrodires Dolichothoraci de la Formation de Wood Bay (Dévonien Inférieur). Paris: Cahiers de Paléontologie, Editions du Centre National de la Recherche Scientifique.
 
-Goujet D, Young GC. 1995. Interrelationships of placoderms
-revisited. Geobios Mémoire spécial 19: 89–95.
+Goujet D, Young GC. 1995. Interrelationships of placoderms revisited. Geobios Mémoire spécial 19: 89–95.
 
-Gross W. 1932. Die Arthrodira Wildungens. Geologische und
-Palaeontologische Abhandlungen 19: 5–61.
+Gross W. 1932. Die Arthrodira Wildungens. Geologische und Palaeontologische Abhandlungen 19: 5–61.
 
-Gross W. 1960. Tityosteus n. gen., ein Riesenarthrodire aus
-dem rheinischen Unterdevon. Paläontologishe Zeitschrift
-34: 263–274.
+Gross W. 1960. Tityosteus n. gen., ein Riesenarthrodire aus dem rheinischen Unterdevon. Paläontologishe Zeitschrift 34: 263–274.
 
-Heintz A. 1932. The structure of Dinichthys a contribution to
-our knowledge of the Arthrodira. Bashford Dean Memorial
-Volume-Archaic Fishes 4: 115–224.
+Heintz A. 1932. The structure of Dinichthys a contribution to our knowledge of the Arthrodira. Bashford Dean Memorial Volume-Archaic Fishes 4: 115–224.
 
-Heintz A. 1934. Revision of the Estonian Arthrodira. Part 1.
-Family Homostiidae Jaekel. University of Tartu, Institute of
-Geology Publication 38: 177–291.
+Heintz A. 1934. Revision of the Estonian Arthrodira. Part 1. Family Homostiidae Jaekel. University of Tartu, Institute of Geology Publication 38: 177–291.
 
-Heintz A. 1968. The spinal plate in Homostius and Dunkleosteus. In: Ørvig T, ed. Current Problems of Lower Vertebrate
-Phylogeny, Nobel Symposium 4. Stockholm: Almqvist and
-Wiksell, 145–151.
+Heintz A. 1968. The spinal plate in Homostius and Dunkleosteus. In: Ørvig T, ed. Current Problems of Lower Vertebrate Phylogeny, Nobel Symposium 4. Stockholm: Almqvist and Wiksell, 145–151.
 
-Hlavin WJ. 1973. A review of the vertebrate fauna of the
-Upper Devonian (Famennian) Cleveland Shale: Arthrodira.
-Unpublished Master of Arts Thesis, Boston University,
-Massachusetts, U.S.A.
+Hlavin WJ. 1973. A review of the vertebrate fauna of the Upper Devonian (Famennian) Cleveland Shale: Arthrodira. Unpublished Master of Arts Thesis, Boston University, Massachusetts, U.S.A.
 
-Hlavin WJ. 1976. Biostratigraphy of the Late Devonian black
-shales on the cratonal margin of the Appalachian geosyncline. Unpublished D. Phil. Thesis, Boston University,
-Massachusetts, U.S.A.
+Hlavin WJ. 1976. Biostratigraphy of the Late Devonian black shales on the cratonal margin of the Appalachian geosyncline. Unpublished D. Phil. Thesis, Boston University, Massachusetts, U.S.A.
 
-Hoover KV. 1960. Devonian – Mississippian shale sequence
-in Ohio. Information Circular No. 27. State of Ohio Division
-of Geological Survey.
+Hoover KV. 1960. Devonian – Mississippian shale sequence in Ohio. Information Circular No. 27. State of Ohio Division of Geological Survey.
 
-Hussakof L. 1909. The systematic relationships of certain
-American arthrodires. Bulletin of the American Museum of
-Natural History 26: 263–272.
+Hussakof L. 1909. The systematic relationships of certain American arthrodires. Bulletin of the American Museum of Natural History 26: 263–272.
 
-Hussakof L. 1942. Fishes from the Devonian of Arizona.
-American Museum of Natural History Novitates 1186: 1–6.
+Hussakof L. 1942. Fishes from the Devonian of Arizona. American Museum of Natural History Novitates 1186: 1–6.
 
-Hussakof L, Bryant WL. 1918. Catalog of the fossil fishes
-in the museum of the Buffalo Society of Natural Sciences.
-Bulletin Buffalo Society of Natural Sciences 12: 1–346.
+Hussakof L, Bryant WL. 1918. Catalog of the fossil fishes in the museum of the Buffalo Society of Natural Sciences. Bulletin Buffalo Society of Natural Sciences 12: 1–346.
 
-Ivanov AO. 1989. A new genus of arthrodires from the Upper
-Devonian of Timan. Paleontology Journal 2: 117–119.
+Ivanov AO. 1989. A new genus of arthrodires from the Upper Devonian of Timan. Paleontology Journal 2: 117–119.
 
-Jaekel OMJ. 1911. Die Wirbeltiere. Berlin: Gebrüder
-Borntraeger.
+Jaekel OMJ. 1911. Die Wirbeltiere. Berlin: Gebrüder Borntraeger.
 
-Kluge AG. 1984. The relevance of parsimony to phylogenetic
-inference. In: Duncan T, Stuessy TF, eds. Cladistics:
-perspectives on the reconstruction of evolutionary history.
-New York: Columbia University Press, 24–38.
+Kluge AG. 1984. The relevance of parsimony to phylogenetic inference. In: Duncan T, Stuessy TF, eds. Cladistics:
+perspectives on the reconstruction of evolutionary history. New York: Columbia University Press, 24–38.
 
-Kluge AG, Wolf AJ. 1993. Cladistics: what’s in a word?
-Cladistics 9: 183–199.
+Kluge AG, Wolf AJ. 1993. Cladistics: what’s in a word? Cladistics 9: 183–199.
 
-Kulczycki J. 1956. On the parasphenoid of Brachythoracidi.
-Acta Palaeontologica Polonica 1: 103–111.
+Kulczycki J. 1956. On the parasphenoid of Brachythoracidi. Acta Palaeontologica Polonica 1: 103–111.
 
-Lehman JP. 1956. Les arthrodires du Dévonien supérieur du
-Tafilalet (sud marocain). Notes et Mémoires. Service
-Géologique du Maroc 129: 1–170.
+Lehman JP. 1956. Les arthrodires du Dévonien supérieur du Tafilalet (sud marocain). Notes et Mémoires. Service Géologique du Maroc 129: 1–170.
 
-Lelièvre H. 1984a. Atlantidosteus hollardi n. g., n. sp.,
-nouveau Brachythoraci (Vertébrés, Placodermes) du Dévonien inférieur du Maroc présaharien. Bulletin du Museum
-national d’Histoire naturelle, Paris 4: 197–208.
+Lelièvre H. 1984a. Atlantidosteus hollardi n. g., n. sp., nouveau Brachythoraci (Vertébrés, Placodermes) du Dévonien inférieur du Maroc présaharien. Bulletin du Museum national d’Histoire naturelle, Paris 4: 197–208.
 
-Lelièvre H. 1984b. Antineosteus lehmani n. g., n. sp.,
-nouveau Brachythoraci du Dévonien inférieur du Maroc
-présaharien. Annales de Paléontologie 70: 115–158.
+Lelièvre H. 1984b. Antineosteus lehmani n. g., n. sp., nouveau Brachythoraci du Dévonien inférieur du Maroc présaharien. Annales de Paléontologie 70: 115–158.
 
-Lelièvre H. 1988. Nouveau matériel d’Antineosteus
-lehmani Lelièvre, 1984 (Placoderme, Brachythoraci) et
-d’Acanthodiens du Dévonien inférieur (Emsien) d’Algérie.
-Bulletin du Muséum national d’Histoire naturelle, Paris 4:
-287–302.
+Lelièvre H. 1988. Nouveau matériel d’Antineosteus lehmani Lelièvre, 1984 (Placoderme, Brachythoraci) et d’Acanthodiens du Dévonien inférieur (Emsien) d’Algérie. Bulletin du Muséum national d’Histoire naturelle, Paris 4: 287–302.
 
-Lelièvre H, Feist R, Goujet D, Blieck A. 1987. Les
-vertébrés dévoniens de la Montagne Noire (sud de la
-France) et leur apport à la phylogénie des pachyostéomorphes (Placodermes Arthrodires). Palaeovertebrata 17: 1–
-26.
+Lelièvre H, Feist R, Goujet D, Blieck A. 1987. Les vertébrés dévoniens de la Montagne Noire (sud de la France) et leur apport à la phylogénie des pachyostéomorphes (Placodermes Arthrodires). Palaeovertebrata 17: 1–26.
 
-Lelièvre H, Janvier P, Goujet D. 1981. Les vertébrés
-dévoniens de l’Iran Central IV: arthrodires et ptyctodontes.
-Géobios 14: 677–709.
+Lelièvre H, Janvier P, Goujet D. 1981. Les vertébrés dévoniens de l’Iran Central IV: arthrodires et ptyctodontes. Géobios 14: 677–709.
 
-Liu HT. 1955. Kiangyousteus, a new arthrodiran fish from
-Szechuan, China. Acta Palaeontologica Sinica 3: 271–274.
+Liu HT. 1955. Kiangyousteus, a new arthrodiran fish from Szechuan, China. Acta Palaeontologica Sinica 3: 271–274.
 
 Long JA. 1984. New phyllolepids from Victoria and the
 relationships of the group. Proceedings of the Linnean
@@ -1435,40 +1328,17 @@ Brazeau, M. D., and Friedman, M. (2014). The characters of Palaeozoic jawed vert
 
 Brazeau, M. D., and Friedman, M. (2015). The origin and early phylogenetic history of jawed vertebrates. Nature 520, 490–497. doi: 10.1038/nature14438
 
-Carr, R. K. (1994). A redescription of Gymnotrachelus (Placodermi: Arthrodira) from the Cleveland Shale (Famennian) of Northern Ohio, U.S.A. Cleveland: Cleveland Museum of Natural History.
-
-Carr, R. K. (1995). Placoderm diversity and evolution. Bull. Muséum Natl. Nat. 17, 85–125.
-
-Carr, R. K., Johanson, Z., and Ritchie, A. (2009). The Phyllolepid Placoderm Cowralepis mclachlani: Insights into the Evolution of Feeding Mechanisms in Jawed Vertebrates. J. Morpho. 270, 775–804. doi: 10.1002/jmor.10719
-
-Carr, R. K., Lelievre, H., and Jackson, G. (2010). “The ancestral morphotype for the gnathostome pectoral fin revisited and the placoderm condition,” in Phylogeny and Paleobiogeography of Fossil Fishes, eds D. K. Elliott, J. G. Maisey, X. Yu, and D. Miao (New Delhi: Morphology), 107–122.
-
 Coatham, S. J., Vinther, J., Rayfield, E. J., and Klug, C. (2020). Was the Devonian placoderm Titanichthys a suspension feeder? Roy. Soc. Open Sci. 7:200272. doi: 10.1098/rsos.200272
 
-Dean, B. (1901a). Palaeontological Notes. I. On two new arthrodires from the
-Cleveland Shale of Ohio. Mem. New York Acad. Sci. 2, 87–100.
+Dean, B. (1901a). Palaeontological Notes. I. On two new arthrodires from the Cleveland Shale of Ohio. Mem. New York Acad. Sci. 2, 87–100.
 
-Dean, B. (1901b). Palaeontological Notes. III. Further notes on the relationships
-of the Arthrognathi. Mem. New York Acad. Sci. 2, 110–123.
+Dean, B. (1901b). Palaeontological Notes. III. Further notes on the relationships of the Arthrognathi. Mem. New York Acad. Sci. 2, 110–123.
 
-Denison, R. (1978). Handbook of paleoichthyology Volume 2. Placodermi.
-Fischer: Stuttgart.
+Donley, J. M., Sepulveda, C. A., Konstantinidis, P., Gemballa, S., and Shadwick, R. E. (2004). Convergent evolution in mechanical design of lamnid sharks and tunas. Nature 429, 61–65. doi: 10.1038/nature02435
 
-Dennis, K., and Miles, R. S. (1981). A pachyosteomorph arthrodire from Gogo,
-Western Australia. Zool. J. Linn. Soc. 73, 213–258. doi: 10.1111/j.1096-3642.1981.
-tb01594.x
+Donoghue, P. C., Forey, P. L., and Aldridge, R. J. (2000). Conodont affinity and chordate phylogeny. Biol. Rev. Camb. Philos. Soc. 75, 191–251. doi: 10.1017/S0006323199005472
 
-Donley, J. M., Sepulveda, C. A., Konstantinidis, P., Gemballa, S., and Shadwick,
-R. E. (2004). Convergent evolution in mechanical design of lamnid sharks and
-tunas. Nature 429, 61–65. doi: 10.1038/nature02435
-
-Donoghue, P. C., Forey, P. L., and Aldridge, R. J. (2000). Conodont affinity
-and chordate phylogeny. Biol. Rev. Camb. Philos. Soc. 75, 191–251. doi: 10.1017/
-S0006323199005472
-
-Ebert, D. A., Fowler, S. L., Compagno, L. J. V., and Dando, M. (2013). Sharks of
-the world : a fully illustrated guide. Plympton St. Maurice: Plymouth Wild Nature
-Press.
+Ebert, D. A., Fowler, S. L., Compagno, L. J. V., and Dando, M. (2013). Sharks of the world : a fully illustrated guide. Plympton St. Maurice: Plymouth Wild Nature Press.
 
 Ferrón, H. G., Martínez-Pérez, C., and Botella, H. (2017). Ecomorphological
 inferences in early vertebrates: reconstructing Dunkleosteus terrelli (Arthrodira,
