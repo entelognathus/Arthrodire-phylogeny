@@ -684,27 +684,33 @@
 > Middle Famennian, 372.2, 363.3
 
 > - Jebel Ouaoufilal, Morocco
-> - [Jobbins et al., 2022](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2022.969158/full)Driscollaspis
-
-*Draconichthys*
+> - [Jobbins et al., 2022](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2022.969158/full)
+> -
+[*Draconichthys*]()
 > [geological range], XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
 > - [references]
 >
-*Enseosteus*
+[*Driscollaspis*]()
 > [geological range], XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
 > - [references]
 >
-*Selenosteus* 
+[*Enseosteus*]()
 > [geological range], XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
 > - [references]
 >
-*Walterosteus*
+[*Selenosteus*]() 
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - [references]
+>
+[*Walterosteus*]()
 > [geological range], XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
