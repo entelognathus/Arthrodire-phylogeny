@@ -1037,7 +1037,7 @@ Position of pineal plate: further anteriorly from orbits (0); same level as orbi
 Pineal or rostropineal plate separates preorbital plates: no separation (0); separation (1).
 > Dupret *et al*. (2017), Character 7.
 
-Rostral and pineal plates fused in single rostropineal component: no (0); yes (1).
+Rostral and pineal plates fused in single rostropineal component: no (0); yes (1).
 > Dupret *et al*. (2017), Character 8.
 
 Preorbital plates show an embayment for insertion of pineal or rostropineal plate: no, or very shallow (0); yes, very deep (1).
@@ -1065,7 +1065,7 @@ Infraorbital and cephalic main lateral sensory lines run
 along mesial margin of the marginal plate: no (0); yes (1).
 > Dupret *et al*. (2017), Character 16.
 
-Central plates: fused into ‘centronuchal’ plate (0); individualized paired elements (1).
+Central plates: fused into ‘centronuchal’ plate (0); individualized paired elements (1).
 > Dupret *et al*. (2017), Character 17.
 
 Midline contact between paired central plates: straight (0); sinuous (1).
@@ -1074,122 +1074,102 @@ Midline contact between paired central plates: straight (0); sinuous (1).
 Contact between pineal (or rostropineal) and central plates: absent (0); present (1).
 > Dupret *et al*. (2017), Character 19.
 
-(20) Indentation of posterior edge of preorbital plates on anterior edge of central plates: absent (0); present (1).
-> Dupret *et al*. (2017), Character .
+Indentation of posterior edge of preorbital plates on anterior edge of central plates: absent (0); present (1).
+> Dupret *et al*. (2017), Character 20.
 
-(21) Contact between central and preorbital plates: present (0);
-absent (1).
-> Dupret *et al*. (2017), Character .
+Contact between central and preorbital plates: present (0); absent (1).
+> Dupret *et al*. (2017), Character 21.
 
-(22) Contact between central and marginal plates: present (0);
-absent (1).
-> Dupret *et al*. (2017), Character .
+Contact between central and marginal plates: present (0); absent (1).
+> Dupret *et al*. (2017), Character 22.
 
-(23) Contact between postorbital and paranuchal plates: present
-(0); absent (1).
-> Dupret *et al*. (2017), Character .
+Contact between postorbital and paranuchal plates: present (0); absent (1).
+> Dupret *et al*. (2017), Character 23.
 
-(24) Nuchal plate: absent (0); present (1).
-> Dupret *et al*. (2017), Character .
+Nuchal plate: absent (0); present (1).
+> Dupret *et al*. (2017), Character 24.
 
-(25) Nuchal plate separating central plates: no (0); yes (1).
-> Dupret *et al*. (2017), Character .
+Nuchal plate separating central plates: no (0); yes (1).
+> Dupret *et al*. (2017), Character 25.
 
-(26) Contact between orbits and central plates: absent (0); present (1).
-> Dupret *et al*. (2017), Character .
+Contact between orbits and central plates: absent (0); present (1).
+> Dupret *et al*. (2017), Character 26.
 
-(27) Preorbital plates forming part of orbital margin: yes (0); no (1).
-> Dupret *et al*. (2017), Character .
+Preorbital plates forming part of orbital margin: yes (0); no (1).
+> Dupret *et al*. (2017), Character 27.
 
-(28) Central sensory line leaves postorbital plate until radiation
-> Dupret *et al*. (2017), Character .
+Central sensory line leaves postorbital plate until radiation center of central plates: no (0); yes (1).
+> Dupret *et al*. (2017), Character 28.
 
-center of central plates: no (0); yes (1).
-(29) Number of posterior pit lines: two pairs (0); one pair (1).
-> Dupret *et al*. (2017), Character .
+Number of posterior pit lines: two pairs (0); one pair (1).
+> Dupret *et al*. (2017), Character 29.
 
-(30) Posterior pit line distribution on both central and paranuchal plates: anterior and posterior ends clearly connected
-(0); anterior and posterior ends not connected (implying a
-superficial run) (1).
-> Dupret *et al*. (2017), Character .
+Posterior pit line distribution on both central and paranuchal plates: anterior and posterior ends clearly connected (0); anterior and posterior ends not connected (implying a superficial run) (1).
+> Dupret *et al*. (2017), Character 30.
 
-(31) Central sensory line: absent (0); present (1).
-> Dupret *et al*. (2017), Character .
+Central sensory line: absent (0); present (1).
+> Dupret *et al*. (2017), Character 31.
 
-(32) Postmarginal plate: absent (0); present (1).
-> Dupret *et al*. (2017), Character .
+Postmarginal plate: absent (0); present (1).
+> Dupret *et al*. (2017), Character 32.
 
-(33) Contact suture between nuchal and central plates (external side):
-nuchal plate indenting central plates (0); straight contact (1).
-> Dupret *et al*. (2017), Character .
+Contact suture between nuchal and central plates (external side): nuchal plate indenting central plates (0); straight contact (1).
+> Dupret *et al*. (2017), Character 33.
 
-(34) Contact between pineal and nuchal plates: absent (0); present (1).
-> Dupret *et al*. (2017), Character .
+Contact between pineal and nuchal plates: absent (0); present (1).
+> Dupret *et al*. (2017), Character 34.
 
-(35) Number of paranuchal plate pairs: one pair (0); two pairs (1).
-> Dupret *et al*. (2017), Character .
+Number of paranuchal plate pairs: one pair (0); two pairs (1).
+> Dupret *et al*. (2017), Character 35.
 
-(36) Occipital cross commissure: on both nuchal and paranuchal
-plates (0); only on paranuchal plates (1).
-> Dupret *et al*. (2017), Character .
+Occipital cross commissure: on both nuchal and paranuchal plates (0); only on paranuchal plates (1).
+> Dupret *et al*. (2017), Character 36.
 
-(37) Posterolateral edge of paranuchal plates: convex (0); concave (1).
-> Dupret *et al*. (2017), Character .
+Posterolateral edge of paranuchal plates: convex (0); concave (1).
+> Dupret *et al*. (2017), Character 37.
 
-(38) Posterior process of paranuchal plate behind nuchal plate
-(external side): absent (0); present (1).
-> Dupret *et al*. (2017), Character .
+Posterior process of paranuchal plate behind nuchal plate (external side): absent (0); present (1).
+> Dupret *et al*. (2017), Character 38.
 
-(39) Position of external foramen for endolymphatic duct: very
-forwardly positioned from posterior edge of paranuchal
-plate, or on anterior paranuchal plate for Petalichthyida
-(0); near the posterior edge of paranuchal plate (1).
-> Dupret *et al*. (2017), Character .
+Position of external foramen for endolymphatic duct: very forwardly positioned from posterior edge of paranuchal plate, or on anterior paranuchal plate for Petalichthyida (0); near the posterior edge of paranuchal plate (1).
+> Dupret *et al*. (2017), Character 39.
 
-(40) Type of exoskeletal dermal craniothoracic articulation:
-actinolepid ‘sliding neck joint’ (0); ginglymoid phlyctaenioid type (1); ‘spoon-like’ petalichthyid type (2).
-> Dupret *et al*. (2017), Character .
+Type of exoskeletal dermal craniothoracic articulation:
+actinolepid ‘sliding neck joint’ (0); ginglymoid phlyctaenioid type (1); ‘spoon-like’ petalichthyid type (2).
+> Dupret *et al*. (2017), Character 40.
 
-(41) Articular dermal condyle of anterior dorsolateral plates:
-close together (0); further apart (1).
-> Dupret *et al*. (2017), Character .
+Articular dermal condyle of anterior dorsolateral plates: close together (0); further apart (1).
+> Dupret *et al*. (2017), Character 41.
 
-(42) Ventral keel on internal side of median dorsal plate: absent
-(0); present (1).
-> Dupret *et al*. (2017), Character .
+Ventral keel on internal side of median dorsal plate: absent (0); present (1).
+> Dupret *et al*. (2017), Character 42.
 
-(43) Unornamented (overlapped) area on anterior edge of
-median dorsal plate: absent (0); present (1).
-> Dupret *et al*. (2017), Character .
+Unornamented (overlapped) area on anterior edge of median dorsal plate: absent (0); present (1).
+> Dupret *et al*. (2017), Character 43.
 
-(44) This unornamented zone: simple (0); double (1).
-> Dupret *et al*. (2017), Character .
+This unornamented zone: simple (0); double (1).
+> Dupret *et al*. (2017), Character 44.
 
-(45) Extrascapular plate: absent (0); present (1).
-> Dupret *et al*. (2017), Character .
+Extrascapular plate: absent (0); present (1).
+> Dupret *et al*. (2017), Character 45.
 
-(46) Dorsolateral groove (for accessory line) on anterior dorsolateral plate: absent (0); present (1).
-> Dupret *et al*. (2017), Character .
+Dorsolateral groove (for accessory line) on anterior dorsolateral plate: absent (0); present (1).
+> Dupret *et al*. (2017), Character 46.
 
-(47) Posterior lateral plate: absent (0); present (1).
-> Dupret *et al*. (2017), Character .
+Posterior lateral plate: absent (0); present (1).
+> Dupret *et al*. (2017), Character 47.
 
-(48) Pectoral notch of anterior ventrolateral plate: shallow (0);
-deep (1).
-> Dupret *et al*. (2017), Character .
+Pectoral notch of anterior ventrolateral plate: shallow (0); deep (1).
+> Dupret *et al*. (2017), Character 48.
 
-(49) Prepectoral process of anterior ventrolateral plate: short
-(0); long (1).
-> Dupret *et al*. (2017), Character .
+Prepectoral process of anterior ventrolateral plate: short (0); long (1).
+> Dupret *et al*. (2017), Character 49.
 
-(50) Anteroventral plates: absent (0); present (1).
-> Dupret *et al*. (2017), Character .
+Anteroventral plates: absent (0); present (1).
+> Dupret *et al*. (2017), Character 50.
 
-(51) Contact between anterior lateral and anterior ventrolateral
-> Dupret *et al*. (2017), Character .
-
-plates behind pectoral fenestra: no (0); yes (1).
-> Dupret *et al*. (2017), Character .
+Contact between anterior lateral and anterior ventrolateral plates behind pectoral fenestra: no (0); yes (1).
+> Dupret *et al*. (2017), Character 51.
 
 (52) Anterior medioventral plate: absent (0); present (1).
 > Dupret *et al*. (2017), Character .
@@ -1210,7 +1190,7 @@ present (1).
 > Dupret *et al*. (2017), Character .
 
 (57) Width/length (W/L) ratio of preorbital plates: W/L > 0.5
-(0); W/L  0.5 (1).
+(0); W/L  0.5 (1).
 > Dupret *et al*. (2017), Character .
 
 (58) Central plate length/skull roof length ratio (LC/LSR;
@@ -1219,7 +1199,7 @@ edge of skull roof): LC/LSR < 45% (0); LC/LSR 
 45% (1).
 > Dupret *et al*. (2017), Character .
 
-(59) Length/width ratio (L/W) of nuchal plate: L/W  1.5 (0); L/
+(59) Length/width ratio (L/W) of nuchal plate: L/W  1.5 (0); L/
 W > 1.5 (1).
 > Dupret *et al*. (2017), Character .
 
@@ -1235,8 +1215,8 @@ H < 1 (0); L/H  1 (1).
 H < 2 (0); L/H  2 (1).
 > Dupret *et al*. (2017), Character .
 
-(63) Angle between interolateral and spinal plates: angle > 110
-(0); angle  110 (1).
+(63) Angle between interolateral and spinal plates: angle > 110
+(0); angle  110 (1).
 > Dupret *et al*. (2017), Character .
 
 (64) RSp ( D LSp borne by AVL/LSp): RSp < 60% (0); RSp 
