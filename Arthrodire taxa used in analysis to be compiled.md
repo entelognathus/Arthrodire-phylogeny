@@ -543,6 +543,13 @@
 > - Escuminac Formation, Quebec, Canada
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Miles, 1966b; Schultze and Cloutier, 1996; [Vézina, 1990](https://cdnsciencepub.com/doi/abs/10.1139/e90-065).
 
+[*Potangaspis parvoculatus*] Zhu *et al* 2010
+> lower Emsian, 407.6, 400.45
+
+> - Yukiang Formation, Pingguo County, Guangxi, China
+> - [Zhu *et al*., 2010](https://www.vertpala.ac.cn/EN/abstract/abstract1259.shtml).
+
+
 [*Protitanichthys rockportensis*](https://deepbone.cn/public/#/explor?s_id=2437&functionId=Deepbone_header_searchResultOpen) Case, 1931
 > Lower Givetian, 387.7, 386.0
 
@@ -586,6 +593,12 @@
 
 > - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - Stensiö, 1963.
+
+[*Toombalepis tuberculata*](https://deepbone.cn/public/#/explor?s_id=2719&functionId=Deepbone_header_searchResultOpen) Young and Goujet, 2003
+> late Emsian to early Eifelian, 410.8, 407.6
+
+> Cravens Peak Beds, Mulga Downs Group, western Queensland, Australia
+> [Young and Goujet, 2003](https://d1wqtxts1xzle7.cloudfront.net/88066795/SuppWAMuseum_2003_65_01to85_YOUNGetal-libre.pdf?1656454034=&response-content-disposition=inline%3B+filename%3DComparacion_de_tecnicas_de_elastografia.pdf&Expires=1723737432&Signature=ImvTtuhchSwE0Ks0RGL8~fb3sYwL383Bal94CrYC~uM6GCK-t52K7Fq7Mha11wC-OQYkCnqYK3YJx~i5Cz4a8tIVP0KYfmKaSNvxUSo8sO0yiVjInkxfDoi7fwcFDYXHHtlSMlvhwf~ExaAOuBxua4hbON-tf8MNmQvOYsiGOirUz6W49NruAy9GZNpU871sm6BkTlVBnnohyhRTIw-BHqfwuUSMc99eJ~Uy~AlAjw05bD-cvv47pYq9-fHOxAAaYdDWDdlKBlpM0-hhoydmfU4b-Q5YofZGU8ZqGmgWp3ElC8KcPBc3AB9moesu5nLQmBAQEzrbUsjVwUVgVt1ggw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 
 [*Torosteus tuberculatus*](https://deepbone.cn/public/#/explor?s_id=2192&functionId=Deepbone_header_searchResultOpen) Gardiner and Miles, 1990
 > lower Frasnian, 382.7, 379.2
