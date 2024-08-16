@@ -665,7 +665,6 @@
 > - Jiucheng Formation, Wuding, Yunnan, China
 > - [Zhu et al., 2016](https://academic.oup.com/zoolinnean/article/176/4/806/2449910); Wang and Wang, 1984.
 
-
 [*Yujiangolepis liujingensis*](https://deepbone.cn/public/#/explor?s_id=2722&functionId=Deepbone_header_searchResultOpen) Wang et al., 1998
 > Pragian, 410.8 , 407.6
 
@@ -716,13 +715,8 @@
 > - [horizon and locality]
 > - [references]
 >
-### To be added from other sources
-[*Actinolepis zaikai*](https://deepbone.org/public/#/explor?s_id=73838&functionId=Deepbone_header_searchResultOpen) Plax & Newman, 2020
-> Upper Emsian, 400.45, 393.3
 
-> - Lepel Beds, Vitebsk Regional Stage, Belarus
-> - [Plax & Newman, 2020](https://www.researchgate.net/publication/340312755_New_Early_Devonian_late_Emsian_placoderms_from_Belarus)
-
+### To be added from Dupret et al., 2017
 [*Actinolepis spinosa*](https://deepbone.cn/public/#/explor?s_id=2465&functionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1985
 > Pragian to lower Emsian, 410.8, 400.45
 
@@ -735,12 +729,6 @@
 > - Water Canyon Formation; Cache County, Utah, USA.
 > - [Denison, 1958].
 
-[*Ailuracantha dorsifelis*](https://deepbone.org/public/#/explor?s_id=2496&functionId=Deepbone_header_searchResultOpen) White, 1969
-> Pragian or Lower Emsian, 410.8, 407.6 or 407.6, 400.45
-
-> - Herefordshire, England
-> - [White, 1969](https://academic.oup.com/biolinnean/article-abstract/1/3/293/2682521)
-
 [*Anarthraspis chamberlini*](https://deepbone.cn/public/#/explor?s_id=2497&functionId=Deepbone_header_searchResultOpen) (Bryant, 1934)
 > Pragian, 410.8, 407.6
 
@@ -752,6 +740,68 @@
 
 > - Beartooth Butte Formation; Beartooth Butte, Wyoming, USA.
 > - [Bryant,1934](http://www.jstor.org/stable/984757)
+
+[*Cowralepis mclachlani*](https://deepbone.org/public/#/explor?s_id=2470&functionId=Deepbone_header_searchResultOpen) Ritchie, 2005
+> upper Givetian, 384.37, 382.7
+
+> - Merriganowry Shale Member, New South Wales, Australia.
+> - [Ritchie, 2005](https://www.biodiversitylibrary.org/part/183466)
+
+[*Kujdanowiaspis buczacziensis*](https://deepbone.org/public/#/explor?s_id=2123&functionId=Deepbone_header_searchResultOpen) Brotzen, 1934
+> lower Pragian, 410.8, 409.2
+
+> - Borshchov Formation; Buchach, Podolia, Ukraine.
+> - [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short)
+
+[*Pageauaspis russelli*](https://deepbone.org/public/#/top-search-list?keyword=Pageauaspis%20russelli) Pageau, 1969
+> Emsian, 407.6, 393.3
+
+> - [horizon and locality]
+> - [Denison, 1978](https://www.abebooks.co.uk/9783437302657/Placodermi-Handbook-Paleoichthyology-Vol-2-3437302655/plp?cm_sp=plped-_-1-_-image)
+
+[*Phyllolepis orvini*](https://deepbone.org/public/#/explor?s_id=2287&functionId=Deepbone_header_searchResultOpen) Heintz, 1930
+> Famennian, 372.7, 358.9
+
+> - East Groenland and Scotland
+> - [Stensio, 1934](https://search.worldcat.org/zh-cn/title/on-the-placodermi-of-the-upper-devonian-of-east-greenland-1-phyllolepida-and-arthrodira/oclc/491732290)
+
+[*Proaethaspis ohioensis*](https://deepbone.org/public/#/explor?s_id=2477&functionId=Deepbone_header_searchResultOpen) Denison, 1960
+> Pragian, 410.8, 407.6
+
+> - Ohio, USA
+> - [Denison, 1978](https://www.semanticscholar.org/paper/Handbook-of-Paleoichthyology%2C-2.-Placodermi%3A-R.-128-Miller/7980f3e95c79279cc1feba3bc9086fcebf3d73f1)
+
+[*Sigaspis lepidophora*](https://deepbone.org/public/#/explor?s_id=2483&functionId=Deepbone_header_searchResultOpen) Goujet, 1973
+> Lower Pragian, 410.8, 409.2
+
+> - Wood Bay Formation, Svalbard
+> - [Goujet, 1973](https://www.researchgate.net/publication/290391621_Sigaspis_un_nouvel_arthrodire_du_Devonien_inferieur_du_Spitsberg)
+
+[*Simblaspis cachensis*](https://deepbone.org/public/#/explor?s_id=2485&functionId=Deepbone_header_searchResultOpen) Denison, 1958
+> Emsian, 407.6, 393.3
+
+> - Water Canyon Formation, Utah, USA
+> - [Denison, 1958](https://www.biodiversitylibrary.org/bibliography/7193)
+
+[*Tiaraspis subtilis*](https://deepbone.org/public/#/explor?s_id=2593&functionId=Deepbone_header_searchResultOpen) Gross, 1933
+> [Upper Pragian to Lower Emsian], 409.2, 400.45
+
+> - [Wahnbach Formation, Rimmert Formation, Odenspiel Formation, eastern Rheinisches Schiefergebirge, West Germany]
+> - [Schultze, 1984](https://www.biodiversitylibrary.org/part/47129)
+
+
+### To be added from other sources
+[*Actinolepis zaikai*](https://deepbone.org/public/#/explor?s_id=73838&functionId=Deepbone_header_searchResultOpen) Plax & Newman, 2020
+> Upper Emsian, 400.45, 393.3
+
+> - Lepel Beds, Vitebsk Regional Stage, Belarus
+> - [Plax & Newman, 2020](https://www.researchgate.net/publication/340312755_New_Early_Devonian_late_Emsian_placoderms_from_Belarus)
+
+[*Ailuracantha dorsifelis*](https://deepbone.org/public/#/explor?s_id=2496&functionId=Deepbone_header_searchResultOpen) White, 1969
+> Pragian or Lower Emsian, 410.8, 407.6 or 407.6, 400.45
+
+> - Herefordshire, England
+> - [White, 1969](https://academic.oup.com/biolinnean/article-abstract/1/3/293/2682521)
 
 [*Antarctolepis gunni*](https://deepbone.cn/public/#/explor?s_id=2163&functionId=Deepbone_header_searchResultOpen) White, 1968
 > Givetian, 387.7, 382.7
@@ -849,17 +899,11 @@
 > - Xiayiling Member, Nagaoling Formation; Heping District, Yongfu County, Guangxi, China.
 > - [Wang, 2005](https://www.cgsjournals.com/article/id/dztb_200509161)
 
-[*Buchanosteus sp.*](https://deepbone.cn/public/#/explor?s_id=164990&functionId=Deepbone_header_searchResultOpen) Wang et al., 1998
+[*Buchanosteus* sp.](https://deepbone.cn/public/#/explor?s_id=164990&functionId=Deepbone_header_searchResultOpen) Wang et al., 1998
 > upper Lochkovian, 415.0, 410.8
 
 > - Beijuntang Formation; Zhangmu Township, Yulin, Guangxi, China.
 > - [Wang et al., 1998](https://archive.org/details/21ac13050e96d2efff17d880e1207498e01e3d1b)
-
-[*Cowralepis mclachlani*](https://deepbone.org/public/#/explor?s_id=2470&functionId=Deepbone_header_searchResultOpen) Ritchie, 2005
-> upper Givetian, 384.37, 382.7
-
-> - Merriganowry Shale Member, New South Wales, Australia.
-> - [Ritchie, 2005](https://www.biodiversitylibrary.org/part/183466)
 
 [*Edgellaspis gorteri*](https://deepbone.org/public/#/explor?s_id=165872&functionId=Deepbone_header_searchResultOpen) Hunt & Young, 2010
 > Eifelian, 393.3, 387.7
@@ -903,12 +947,6 @@
 > - Upper Wudang Formation; Wudang District, Guiyang, Guizhou, China.
 > - [Pan, 1975]
 
-[*Kujdanowiaspis buczacziensis*](https://deepbone.org/public/#/explor?s_id=2123&functionId=Deepbone_header_searchResultOpen) Brotzen, 1934
-> lower Pragian, 410.8, 409.2
-
-> - Borshchov Formation; Buchach, Podolia, Ukraine.
-> - [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short)
-
 [*Lataspis brevicornis*](https://deepbone.org/public/#/explor?s_id=2507&functionId=Deepbone_header_searchResultOpen) Heintz, 1929
 > Emsian, 407.6, 393.3
 
@@ -929,18 +967,6 @@
 > - The Old Red Sandstone of Brown Clee Hill and the Adjacent Area
 > - [White, 1961](https://www.journals.uchicago.edu/doi/10.1086/404102)
 
-[*Pageauaspis russelli*](https://deepbone.org/public/#/top-search-list?keyword=Pageauaspis%20russelli) Pageau, 1969
-> Emsian, 407.6, 393.3
-
-> - [horizon and locality]
-> - [Denison, 1978](https://www.abebooks.co.uk/9783437302657/Placodermi-Handbook-Paleoichthyology-Vol-2-3437302655/plp?cm_sp=plped-_-1-_-image)
-
-[*Phyllolepis orvini*](https://deepbone.org/public/#/explor?s_id=2287&functionId=Deepbone_header_searchResultOpen) Heintz, 1930
-> Famennian, 372.7, 358.9
-
-> - East Groenland and Scotland
-> - [Stensio, 1934](https://search.worldcat.org/zh-cn/title/on-the-placodermi-of-the-upper-devonian-of-east-greenland-1-phyllolepida-and-arthrodira/oclc/491732290)
-
 [*Phyllolepis rossimontina*](https://deepbone.org/public/#/explor?s_id=2285&functionId=Deepbone_header_searchResultOpen) Lane & Cuffey, 2005
 > Upper Famennian, 363.3, 358.9
 
@@ -953,41 +979,17 @@
 > - The Old Red Sandstone of Brown Clee Hill and the Adjacent Area
 > - [White, 1961](https://www.journals.uchicago.edu/doi/10.1086/404102)
 
-[*Proaethaspis ohioensis*](https://deepbone.org/public/#/explor?s_id=2477&functionId=Deepbone_header_searchResultOpen) Denison, 1960
-> Pragian, 410.8, 407.6
-
-> - Ohio, USA
-> - [Denison, 1978](https://www.semanticscholar.org/paper/Handbook-of-Paleoichthyology%2C-2.-Placodermi%3A-R.-128-Miller/7980f3e95c79279cc1feba3bc9086fcebf3d73f1)
-
 [*Richardosteus barwickorum*](https://deepbone.cn/public/#/explor?s_id=3223&functionId=Deepbone_header_searchResultOpen) Long et al. 2014
 > Emsian, 407.6, 393.3
 
 > - Murrumbidgee Group,Burrinjuck, Australia
 > - [Long et al.,2014](https://www.publish.csiro.au/zo/zo13081)
 
-[*Sigaspis lepidophora*](https://deepbone.org/public/#/explor?s_id=2483&functionId=Deepbone_header_searchResultOpen) Goujet, 1973
-> Lower Pragian, 410.8, 409.2
-
-> - Wood Bay Formation, Svalbard
-> - [Goujet, 1973](https://www.researchgate.net/publication/290391621_Sigaspis_un_nouvel_arthrodire_du_Devonien_inferieur_du_Spitsberg)
-
-[*Simblaspis cachensis*](https://deepbone.org/public/#/explor?s_id=2485&functionId=Deepbone_header_searchResultOpen) Denison, 1958
-> Emsian, 407.6, 393.3
-
-> - Water Canyon Formation, Utah, USA
-> - [Denison, 1958](https://www.biodiversitylibrary.org/bibliography/7193)
-
 [*Taemasosteus novaustrocambricus*](https://deepbone.cn/public/#/explor?s_id=3616&functionId=Deepbone_header_searchResultOpen) White 1952
 > Emsian, 407.6, 393.3
 
 > - Murrumbidgee Group,Burrinjuck, Australia
 > - [White, 1978](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/j.1096-3642.1978.tb00374.x)
-
-[*Tiaraspis subtilis*](https://deepbone.org/public/#/explor?s_id=2593&functionId=Deepbone_header_searchResultOpen) Gross, 1933
-> [Upper Pragian to Lower Emsian], 409.2, 400.45
-
-> - [Wahnbach Formation, Rimmert Formation, Odenspiel Formation, eastern Rheinisches Schiefergebirge, West Germany]
-> - [Schultze, 1984](https://www.biodiversitylibrary.org/part/47129)
 
 [*Uralosteus bashkiricus*](https://deepbone.cn/public/#/explor?s_id=3228&functionId=Deepbone_header_searchResultOpen) Mark-Kurik & Young, 2003
 > Emsian, 407.6, 393.3
