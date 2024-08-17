@@ -7,7 +7,9 @@
 
 > - f.lv (fossa on the nuchal plate for levator muscles of the head) of Goujet (1984).
 > - present on the paranuchal plate in *Holonema*.
+
 > - The coding of the new Xitun actinolepid is 0.
+
 > - The coding of *Panjiangosteus eurycephala* is .
 
  2. Lateral consolidated arch: absent or greatly reduced (0); present, forming a prominent crest (1).
@@ -1027,13 +1029,13 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 **Posterior median dorsal plates covering the tail: absent (0); present (1).**
 > Dupret *et al*. (2017), Character 56.
 
-**Width/length (W/L) ratio of preorbital plates: W/L > 0.5 (0); W/L  0.5 (1).**
+**Width/length (W/L) ratio of preorbital plates: W/L > 0.5 (0); W/L <= 0.5 (1).**
 > Dupret *et al*. (2017), Character 57.
 
-**Length/width ratio (L/W) of median dorsal plate: L/W < 1.5 (0); L/W 1.5 (1).**
+**Length/width ratio (L/W) of median dorsal plate: L/W < 1.5 (0); L/W >= 1.5 (1).**
 > Dupret *et al*. (2017), Character 60.
 
-**Length/width ratio (L/W) of anterior dorsolateral plate: L/H < 1 (0); L/H 1 (1).**
+**Length/width ratio (L/W) of anterior dorsolateral plate: L/H < 1 (0); L/H >= 1 (1).**
 > Dupret *et al*. (2017), Character 61.
 
 **Angle between interolateral and spinal plates: angle > 110 (0); angle 110 (1).**
@@ -1103,12 +1105,9 @@ Dennis-Bryan KD, Miles RS. 1983b. Renaming of Kimberia. Zoological Journal of th
 
 Dunkle DH, Bungart PA. 1939. A new arthrodire from the Cleveland Shale Formation. Scientific Publications of the Cleveland Museum of Natural History 8: 13–28.
 
-Dunkle DH, Bungart PA. 1942. A new genus and species of
-Arthrodire from the Cleveland Shale. Scientific Publications
-of the Cleveland Museum of Natural History 8: 65–71.
+Dunkle DH, Bungart PA. 1942. A new genus and species of Arthrodire from the Cleveland Shale. Scientific Publications of the Cleveland Museum of Natural History 8: 65–71.
 
-Dunkle DH, Bungart PA. 1946. The antero-supragnathal of
-Gorgonichthys. American Museum Novitates 1316: 1–10.
+Dunkle DH, Bungart PA. 1946. The antero-supragnathal of Gorgonichthys. American Museum Novitates 1316: 1–10.
 
 Dupret V. 2004. The phylogenetic relationships between actinolepids (Placodermi: Arthrodira) and other arthrodires (phlyctaeniids and brachythoracids). Fossils and Strata 50: 44–51.
 
@@ -1156,8 +1155,7 @@ Ivanov AO. 1989. A new genus of arthrodires from the Upper Devonian of Timan. Pa
 
 Jaekel OMJ. 1911. Die Wirbeltiere. Berlin: Gebrüder Borntraeger.
 
-Kluge AG. 1984. The relevance of parsimony to phylogenetic inference. In: Duncan T, Stuessy TF, eds. Cladistics:
-perspectives on the reconstruction of evolutionary history. New York: Columbia University Press, 24–38.
+Kluge AG. 1984. The relevance of parsimony to phylogenetic inference. In: Duncan T, Stuessy TF, eds. Cladistics: perspectives on the reconstruction of evolutionary history. New York: Columbia University Press, 24–38.
 
 Kluge AG, Wolf AJ. 1993. Cladistics: what’s in a word? Cladistics 9: 183–199.
 
@@ -1177,99 +1175,53 @@ Lelièvre H, Janvier P, Goujet D. 1981. Les vertébrés dévoniens de l’Iran C
 
 Liu HT. 1955. Kiangyousteus, a new arthrodiran fish from Szechuan, China. Acta Palaeontologica Sinica 3: 271–274.
 
-Long JA. 1984. New phyllolepids from Victoria and the
-relationships of the group. Proceedings of the Linnean
-Society New South Wales 107: 263–308.
+Long JA. 1984. New phyllolepids from Victoria and the relationships of the group. Proceedings of the Linnean Society New South Wales 107: 263–308.
 
-Long JA. 1987. A new dinichthyid fish (Placodermi: Arthrodira) from the Upper Devonian of Western Australia, with a
-discussion of dinichthyid interrelationships. Records of the
-Western Australian Museum 13: 515–540.
+Long JA. 1987. A new dinichthyid fish (Placodermi: Arthrodira) from the Upper Devonian of Western Australia, with a discussion of dinichthyid interrelationships. Records of the Western Australian Museum 13: 515–540.
 
-Long JA. 1988. A new camuropiscid arthrodire (Pisces: Placodermi) from Gogo, Western Australia. Zoological Journal
-of the Linnean Society 94: 233–258.
+Long JA. 1988. A new camuropiscid arthrodire (Pisces: Placodermi) from Gogo, Western Australia. Zoological Journal of the Linnean Society 94: 233–258.
 
-Long JA. 1990. Two new arthrodires (placoderm fishes) from
-the Upper Devonian Gogo Formation Western Australia.
-Memoirs of the Queensland Museum 28: 51–64.
+Long JA. 1990. Two new arthrodires (placoderm fishes) from the Upper Devonian Gogo Formation Western Australia. Memoirs of the Queensland Museum 28: 51–64.
 
-Long JA. 1995. A new plourdosteid arthrodire from the
-Upper Devonian Gogo Formation of Western Australia.
-Palaeontology 38 (part 1): 39–62.
+Long JA. 1995. A new plourdosteid arthrodire from the Upper Devonian Gogo Formation of Western Australia. Palaeontology 38 (part 1): 39–62.
 
-Maddison WP, Donoghue MJ, Maddison DR. 1984. Outgroup analysis and parsimony. Sytematic Zoology 83:
-83–103.
+Maddison WP, Donoghue MJ, Maddison DR. 1984. Outgroup analysis and parsimony. Sytematic Zoology 83: 83–103.
 
-Mark-Kurik E. 1963. On the spinal plate of the Middle
-Devonian arthrodire. Homostius. Eesti NSV Teaduste
-Akadeemia Geoloogia Instituudi Uurimused 13: 189–200
-(Russian: Estonian and English summaries).
+Mark-Kurik E. 1963. On the spinal plate of the Middle Devonian arthrodire. Homostius. Eesti NSV Teaduste Akadeemia Geoloogia Instituudi Uurimused 13: 189–200 (Russian: Estonian and English summaries).
 
-McCoy F. 1848. On some new fossil fish of the Carboniferous
-period. Annals and Magazine Natural History 2: 1–10; 115–
-134.
+McCoy F. 1848. On some new fossil fish of the Carboniferous period. Annals and Magazine Natural History 2: 1–10; 115–134.
 
-Miles RS. 1969. Features of placoderm diversification and the
-evolution of the Arthrodire feeding mechanism. Transactions of the Royal Society of Edinburgh 68: 123–170.
+Miles RS. 1969. Features of placoderm diversification and the evolution of the Arthrodire feeding mechanism. Transactions of the Royal Society of Edinburgh 68: 123–170.
 
-Miles RS. 1971. The Holonematidae (placoderm fishes), a
-review based on new specimens of Holonema from the
-Upper Devonian of Western Australia. Philosophical Transactions of the Royal Society of London 263: 101–234.
+Miles RS. 1971. The Holonematidae (placoderm fishes), a review based on new specimens of Holonema from the Upper Devonian of Western Australia. Philosophical Transactions of the Royal Society of London 263: 101–234.
 
-Miles RS, Dennis KD. 1979. A primitive eubrachythoracid
-arthrodire from Gogo, Western Australia. Zoological
-Journal of the Linnean Society 66: 31–62.
+Miles RS, Dennis KD. 1979. A primitive eubrachythoracid arthrodire from Gogo, Western Australia. Zoological Journal of the Linnean Society 66: 31–62.
 
-Miller H. 1841. The old red sandstone. Edinburgh: J.
-Johnstone.
+Miller H. 1841. The old red sandstone. Edinburgh: J. Johnstone.
 
-Newberry JS. 1868. On some remarkable fossil fishes discovered by Rev. H. Herzer in the black shale (Devonian) at
-Delaware, Ohio. In: Lovering J, ed. Proceedings of the
-American Association for the Advancement of Science, 17th
-Meeitng held at Burlington, Vermont, August, 1867. Boston,
-MA: F. B. Dakin, Printer, 146–147.
+Newberry JS. 1868. On some remarkable fossil fishes discovered by Rev. H. Herzer in the black shale (Devonian) at Delaware, Ohio. In: Lovering J, ed. Proceedings of the American Association for the Advancement of Science, 17th Meeting held at Burlington, Vermont, August, 1867. Boston, MA: F. B. Dakin, Printer, 146–147.
 
-Newberry JS. 1873. Descriptions of fossil fishes. Report of
-the Geological Survey of Ohio 1 (part 2): 245–355.
+Newberry JS. 1873. Descriptions of fossil fishes. Report of the Geological Survey of Ohio 1 (part 2): 245–355.
 
-Newberry JS. 1878. Descriptions of new Palaeozoic
-fishes. Annals of the New York Academy of Sciences 1:
-188–192.
+Newberry JS. 1878. Descriptions of new Palaeozoic fishes. Annals of the New York Academy of Sciences 1: 188–192.
 
-Newberry JS. 1885. Descriptions of some gigantic placoderm
-fishes recently discovered in the Devonian of Ohio. Transactions of the New York Academy of Sciences 5: 25–28.
+Newberry JS. 1885. Descriptions of some gigantic placoderm fishes recently discovered in the Devonian of Ohio. Transactions of the New York Academy of Sciences 5: 25–28.
 
-Newberry JS. 1888. On the fossil fishes of the Erie shale of
-Ohio. Transactions of the New York Academy of Sciences 7:
-178–180.
+Newberry JS. 1888. On the fossil fishes of the Erie shale of Ohio. Transactions of the New York Academy of Sciences 7: 178–180.
 
-Newberry JS. 1889. The Palaeozoic fishes of North America.
-Monograph of the United States Geological Survey 16: 1–340.
+Newberry JS. 1889. The Palaeozoic fishes of North America. Monograph of the United States Geological Survey 16: 1–340.
 
-Obruchev DV. 1964. Class Placodermi. Fundamentals of
-Paleontology: A Manual for Paleontologists and Geologists of
-the U.S.S.R., XI, Agnatha, Pisces. Russian: English translation by the Israel Program for Scientific Translations, 1967.
+Obruchev DV. 1964. Class Placodermi. Fundamentals of Paleontology: A Manual for Paleontologists and Geologists of the U.S.S.R., XI, Agnatha, Pisces. Russian: English translation by the Israel Program for Scientific Translations, 1967.
 
-Obrucheva OP. 1962. Armored fishes of the Devonian of
-USSR (coccosteidae and dinichthyidae). Moscow: Moscow
-University Press (in Russian).
+Obrucheva OP. 1962. Armored fishes of the Devonian of USSR (coccosteidae and dinichthyidae). Moscow: Moscow University Press (in Russian).
 
-Ørvig T. 1951. Histological studies of placoderms and fossil
-elasmobranchs. I. The endoskeleton with remarks on the
-hard tissues of lower vertebrates in general. Arkiv foer
-Zoologi 2: 321–454.
+Ørvig T. 1951. Histological studies of placoderms and fossil elasmobranchs. I. The endoskeleton with remarks on the hard tissues of lower vertebrates in general. Arkiv foer Zoologi 2: 321–454.
 
-Over DJ, Rhodes MK. 2000. Conodonts from the Upper
-Olentangy Shale (Upper Devonian, central Ohio) and
-stratigraphy across the Frasnian-Famennian boundary.
-Journal of Paleontology 74: 101–112.
+Over DJ, Rhodes MK. 2000. Conodonts from the Upper Olentangy Shale (Upper Devonian, central Ohio) and stratigraphy across the Frasnian-Famennian boundary. Journal of Paleontology 74: 101–112.
 
-Patterson C. 1982. Morphological characters and homology.
-In: Joysey KA, Friday AE, eds. Problems of phylogenetic
-reconstruction. New York: Academic Press, 21–74.
+Patterson C. 1982. Morphological characters and homology. In: Joysey KA, Friday AE, eds. Problems of phylogenetic reconstruction. New York: Academic Press, 21–74.
 
-deQuieroz K, Gauthier J. 1990. Phylogeny as a central
-principle in taxonomy: phylogenetic definitions of taxon
-names. Systematic Zoology 39: 307–322.
+deQuieroz K, Gauthier J. 1990. Phylogeny as a central principle in taxonomy: phylogenetic definitions of taxon names. Systematic Zoology 39: 307–322.
 
 Schultze H-P. 1973. Large Upper Devonian arthrodires from
 Iran. Fieldiana (geology) 23: 53–78.
