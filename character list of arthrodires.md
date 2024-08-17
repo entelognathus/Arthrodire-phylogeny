@@ -59,7 +59,7 @@
 > - The coding of the new Xitun actinolepid is 1.
  
  10. Shape of the external anterior nuchal border: straight (0); convex (1); concave (2).
-> Carr (1991), Character 10; Carr and Hlavin (2010), Character 10; Rücklin *et al*. (2015), Character 10; Zhu Y *et al*. (2016), Character 10; modified from Dupret *et al*. (2017), Character 33; Jobbins *et al*. (2022, 2024), Character 10; Xue *et al*. (submitted), Character 10.
+> Carr (1991), Character 10; Carr and Hlavin (2010), Character 10; Rücklin *et al*. (2015), Character 10; Zhu Y *et al*. (2016), Character 10; Dupret *et al*. (2009, 2017), Character 33, modified; Jobbins *et al*. (2022, 2024), Character 10; Xue *et al*. (submitted), Character 10.
 
 
 > - The coding of the new Xitun actinolepid is 1.
@@ -75,7 +75,7 @@
 > - The coding of the new Xitun actinolepid is ?.
 
  13. Preorbital plate embayment of central plate: absent (0); shallow (1); developed (2).
-> Carr (1991), Character 13; Carr and Hlavin (2010), Character 13; Rücklin *et al*. (2015), Character 13; Zhu Y *et al*. (2016), Character 13; Jobbins *et al*. (2022, 2024), Character 13; modified from Dupret *et al*. (2017), Character 20; Xue *et al*. (submitted), Character 13.
+> Carr (1991), Character 13; Carr and Hlavin (2010), Character 13; Rücklin *et al*. (2015), Character 13; Zhu Y *et al*. (2016), Character 13; Jobbins *et al*. (2022, 2024), Character 13; Dupret *et al*. (2009, 2017), Character 20, modified; Xue *et al*. (submitted), Character 13.
 
 > - The coding of the new Xitun actinolepid is 0.
 
@@ -102,7 +102,7 @@
 > - The coding of the new Xitun actinolepid is ?.
 
  18. Preorbital plates with a median contact: contact posterior to pineal plate (0); contact anterior to pineal plate (1); pineal plate separating preorbital plates (2).
-> Young (1981), Character 19a, modified; Carr (1991), Character 18; Carr and Hlavin (2010), Character 18; Rücklin *et al*. (2015), Character 18; Zhu Y *et al*. (2016), Character 18; modified from Dupret *et al*. (2017), Character 7; Jobbins *et al*. (2022, 2024), Character 18; Xue *et al*. (submitted), Character 18.
+> Young (1981), Character 19a, modified; Carr (1991), Character 18; Carr and Hlavin (2010), Character 18; Rücklin *et al*. (2015), Character 18; Zhu Y *et al*. (2016), Character 18; Dupret *et al*. (2009, 2017), Character 7, modified; Jobbins *et al*. (2022, 2024), Character 18; Xue *et al*. (submitted), Character 18.
 
 > - The coding of the new Xitun actinolepid is 0.
 
@@ -127,7 +127,7 @@
 > - The coding of the new Xitun actinolepid is 0.
 
  23. Marginal plate in contact with the central plate: absent (0); present (1).
-> Lelièvre (1988), Character 5; Johnson *et al*. (2000), Character 5; Carr (1991), Character 23, modified; Carr and Hlavin (2010), Character 23; Rücklin *et al*. (2015), Character 23; Zhu Y *et al*. (2016), Character 23; Dupret *et al*. (2017), Character 22; Jobbins *et al*. (2022, 2024), Character 23; Xue *et al*. (submitted), Character 23.
+> Lelièvre (1988), Character 5; Johnson *et al*. (2000), Character 5; Carr (1991), Character 23, modified; Carr and Hlavin (2010), Character 23; Rücklin *et al*. (2015), Character 23; Zhu Y *et al*. (2016), Character 23; Dupret *et al*. (2009, 2017), Character 22; Jobbins *et al*. (2022, 2024), Character 23; Xue *et al*. (submitted), Character 23.
 
 > - The coding of the new Xitun actinolepid is 1.
 
@@ -165,7 +165,7 @@ feature. *Buchanosteus confertituberculatus*, previously considered to have this
 > - The coding of the new Xitun actinolepid is 0.
 
  30. Postnuchal process of paranuchal plate on dermal surface: absent (0); present (1), indicated by the presence of a postnuchal process on the dermal surface of the skull roof.
-> Dennis and Miles (1979b), Character 8, modified; Carr (1991), Character 30; Carr and Hlavin (2010), Character 30; Rücklin *et al*. (2015), Character 30; Zhu Y *et al*. (2016), Character 30; modified from Dupret *et al*. (2017), Character 38; Jobbins *et al*. (2022, 2024), Character 30; Xue *et al*. (submitted), Character 30.
+> Dennis and Miles (1979b), Character 8, modified; Carr (1991), Character 30; Carr and Hlavin (2010), Character 30; Rücklin *et al*. (2015), Character 30; Zhu Y *et al*. (2016), Character 30; Dupret *et al*. (2009, 2017), Character 38, modified; Jobbins *et al*. (2022, 2024), Character 30; Xue *et al*. (submitted), Character 30.
 
 > - The coding of the new Xitun actinolepid is 1.
 
@@ -193,7 +193,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of the new Xitun actinolepid is 1.
 
  35. Skull roof and thoracic armour articulation: articulation medial (0); articulation laterally displaced (1). 
->  Goujet (1984); Carr and Hlavin (2010), Character 90; Rücklin *et al*. (2015), Character 90; Zhu Y *et al*. (2016), Character 90; Dupret *et al*. (2017), Character 41; Jobbins *et al*. (2022, 2024), Character 90; Xue *et al*. (submitted), Character 35.
+>  Goujet (1984); Carr and Hlavin (2010), Character 90; Rücklin *et al*. (2015), Character 90; Zhu Y *et al*. (2016), Character 90; Dupret *et al*. (2009, 2017), Character 41; Jobbins *et al*. (2022, 2024), Character 90; Xue *et al*. (submitted), Character 35.
 
 > add condition:  close to posterolateral corner of the skull roof (2).
 
@@ -381,7 +381,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of the new Xitun actinolepid is ?.
 
 71. Type of exoskeletal dermal craniothoracic articulatuion: actinolepid' sliding neck joint'(0);ginglymoid phlyctaenioid type（1）；‘spoon-like’petalichthyid type (2).
-> Dupret *et al*.(2009), Character 40; Zhu *et al*, Character 40; Xue *et al*. (submitted), Character 71.
+> Dupret *et al*. (2009, 2017), Character 40; Zhu *et al*, Character 40; Xue *et al*. (submitted), Character 71.
  
  72. Central plate length/skull roof length ratio (LC/LSR; from anterior edge of preorbital plates to posterior-most edge of skull roof): LC/LSR < 45% (0); LC/LSR => 45% (1).
 > Johnson *et al*. (2000), Character 7; Dupret *et al*. (2009), Character 58; Dupret *et al*. (2017), Character 58; Zhu *et al*. (2010), Character 58; Xue *et al*. (submitted), Character 72.
@@ -821,27 +821,27 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of the new Xitun actinolepid is 1.
 
  157. External morphology of sensory line system: canals with external pores (0); grooves (1).
-> Dupret *et al*. (2017), Character 14; Zhu *et al*. (2010), Character 14; Xue *et al*. (submitted), Character 157.
+> Dupret *et al*. (2009, 2017), Character 14; Zhu *et al*. (2010), Character 14; Xue *et al*. (submitted), Character 157.
 
 > - The coding of the new Xitun actinolepid is 1.
 
  158. Supraorbital sensory lines: separate (0); meet posteriorly (1).
-> Dupret *et al*. (2017), Character 15; Zhu *et al*. (2010), Character 15; Xue *et al*. (submitted), Character 158.
+> Dupret *et al*. (2009, 2017), Character 15; Zhu *et al*. (2010), Character 15; Xue *et al*. (submitted), Character 158.
 
 > - The coding of the new Xitun actinolepid is 0.
 
  159. Infraorbital and cephalic main lateral sensory lines run along mesial margin of the marginal plate: no (0); yes (1).
-> Dupret *et al*. (2017), Character 16; Zhu *et al*. (2010), Character 16; Xue *et al*. (submitted), Character 159.
+> Dupret *et al*. (2009, 2017), Character 16; Zhu *et al*. (2010), Character 16; Xue *et al*. (submitted), Character 159.
 
 > - The coding of the new Xitun actinolepid is 1.
 
  160. Central sensory line leaves postorbital plate until radiation center of central plates: no (0); yes (1).
-> Johnson *et al*. (2000), Character 11; Dupret *et al*. (2017), Character 28; Zhu *et al*. (2010), Character 28; Xue *et al*. (submitted), Character 160.
+> Johnson *et al*. (2000), Character 11; Dupret *et al*. (2009, 2017), Character 28; Zhu *et al*. (2010), Character 28; Xue *et al*. (submitted), Character 160.
 
 > - The coding of the new Xitun actinolepid is -.[When the cc doesn't leave the PtO, this character is not applicable.]
 
  161. Number of posterior pit lines: two pairs (0); one pair (1).
-> Dupret *et al*. (2017), Character 29; Zhu *et al*. (2010), Character 29; Xue *et al*. (submitted), Character 161.
+> Dupret *et al*. (2009, 2017), Character 29; Zhu *et al*. (2010), Character 29; Xue *et al*. (submitted), Character 161.
 
 >- Pair posterior pit lines is only present in the Petalithchyida and *Yinminaspis*. Dupret(2008) suggested that two pairs posterior pitline of *Yinminaspis* are homologous with Petalichthyida.? In some clades of Brachythoraci, the posterior pit line is absent, sunch as in the *Homosteus sulcatus*, *Heterosteus ingens* ,*Tafilalichthys lavocati* and *Enseosteus jaekeli*.
 
@@ -1021,25 +1021,25 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 
 **Contact between postorbital and paranuchal plates: present (0); absent (1).**
-> Dupret *et al*. (2017), Character 23.
+> Dupret *et al*. (2009, 2017), Character 23.
 
 **Contact between anterior lateral and anterior ventrolateral plates behind pectoral fenestra: no (0); yes (1).**
-> Dupret *et al*. (2017), Character 51.
+> Dupret *et al*. (2009, 2017), Character 51.
 
 **Posterior median dorsal plates covering the tail: absent (0); present (1).**
-> Dupret *et al*. (2017), Character 56.
+> Dupret *et al*. (2009, 2017), Character 56.
 
 **Width/length (W/L) ratio of preorbital plates: W/L > 0.5 (0); W/L <= 0.5 (1).**
-> Dupret *et al*. (2017), Character 57.
+> Dupret *et al*. (2009, 2017), Character 57.
 
 **Length/width ratio (L/W) of median dorsal plate: L/W < 1.5 (0); L/W >= 1.5 (1).**
-> Dupret *et al*. (2017), Character 60.
+> Dupret *et al*. (2009, 2017), Character 60.
 
 **Length/width ratio (L/W) of anterior dorsolateral plate: L/H < 1 (0); L/H >= 1 (1).**
-> Dupret *et al*. (2017), Character 61.
+> Dupret *et al*. (2009, 2017), Character 61.
 
 **Angle between interolateral and spinal plates: angle > 110 (0); angle 110 (1).**
-> Dupret *et al*. (2017), Character 63.
+> Dupret *et al*. (2009, 2017), Character 63.
 > check state definition. an error exists in Dupret et al. (2017).
 
 
