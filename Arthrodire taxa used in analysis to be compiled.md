@@ -691,12 +691,6 @@
 > - Kellwasser horizon in the eastern Anti-Atlas, Morocco
 > - [Rücklin *et al*., 2015](https://www.tandfonline.com/doi/abs/10.1080/02724634.2014.908896)
 >
-[*Driscollaspis*]()
-> [geological range], XXX (maximum age), YYY (minimum age)
-
-> - [horizon and locality]
-> - [references]
->
 [*Enseosteus*]()
 > [geological range], XXX (maximum age), YYY (minimum age)
 
