@@ -543,7 +543,7 @@
 > - Escuminac Formation, Quebec, Canada
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Miles, 1966b; Schultze and Cloutier, 1996; [Vézina, 1990](https://cdnsciencepub.com/doi/abs/10.1139/e90-065).
 
-[*Potangaspis parvoculatus*] Zhu *et al* 2010
+[*Potangaspis parvoculatus*](https://deepbone.cn/public/#/explor?s_id=2721&functionId=Deepbone_header_searchResultOpen) Zhu *et al* 2010
 > lower Emsian, 407.6, 400.45
 
 > - Yukiang Formation, Pingguo County, Guangxi, China
@@ -685,11 +685,11 @@
 > - Jebel Ouaoufilal, Morocco
 > - [Jobbins et al., 2022](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2022.969158/full)
 > -
-[*Draconichthys*]()
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Driscollaspis pankowskiorum*](https://deepbone.cn/public/#/explor?s_id=3841&functionId=Deepbone_header_searchResultOpen)
+> Frasnian, XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
+> - Kellwasser horizon in the eastern Anti-Atlas, Morocco
+> - [Rücklin *et al*., 2015](https://www.tandfonline.com/doi/abs/10.1080/02724634.2014.908896)
 >
 [*Driscollaspis*]()
 > [geological range], XXX (maximum age), YYY (minimum age)
