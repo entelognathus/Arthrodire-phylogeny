@@ -195,8 +195,6 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  35. Skull roof and thoracic armour articulation: articulation medial (0); articulation laterally displaced (1). 
 >  Goujet (1984); Carr and Hlavin (2010), Character 90; Rücklin *et al*. (2015), Character 90; Zhu Y *et al*. (2016), Character 90; Dupret *et al*. (2009, 2017), Character 41; Jobbins *et al*. (2022, 2024), Character 90; Xue *et al*. (submitted), Character 35.
 
-> add condition:  close to posterolateral corner of the skull roof (2).
-
 > - The coding of the new Xitun actinolepid is ?.
 
  36. Length ratio (r1 = c/b; representing the position of the posterolateral corner of the skull roof, measured as the ratio of posterior sensory line junction–fossa distance (c) divided by the anterior sensory line junction–fossa distance (b): r1 < 0.45 (0); 0.45 =< r1 =< 0.58 (1); r1 > 0.58 (2).
@@ -209,18 +207,24 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of the new Xitun actinolepid is 0.
 
- 38. In forms with a marginal - central plate contact, position of the junction of the postorital, marginal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
+ 38. In forms with a marginal - central plate contact, position of the junction of the postorbital, marginal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 > Long (1987), Character 7, modified; Carr and Hlavin (2010), Character 94; Rücklin *et al*. (2015), Character 94; Zhu Y *et al*. (2016), Character 94; Jobbins *et al*. (2022, 2024), Character 94; Xue *et al*. (submitted), Character 38.
 
+> - This character is contingent on Character 23.
+   
 > - The coding of the new Xitun actinolepid is 0.
 
  39. In forms with a marginal – central plate contact, position of the juction of the marginal, paranuchal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 > Long 1987, Character 7, modified; Carr and Hlavin (2010), Character 95; Rücklin *et al*. (2015), Character 95; Zhu Y *et al*. (2016), Character 95; Jobbins *et al*. (2022, 2024), Character 95; Xue *et al*. (submitted), Character 39.
 
+> - This character is contingent on Character 23.
+
 > - The coding of the new Xitun actinolepid is 0.
 
  40. In forms without a marginal – central plate contact, position of the junction between the postorbital, paranuchal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 > Long 1987, Character 7, modified; Carr and Hlavin (2010), Character 96; Rücklin *et al*. (2015), Character 96; Zhu Y *et al*. (2016), Character 96; Jobbins *et al*. (2022, 2024), Character 96; Xue *et al*. (submitted), Character 40.
+
+> - This character is contingent on Character 23.
 
 > - The coding of the new Xitun actinolepid is -.
 
@@ -251,8 +255,10 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of the new Xitun actinolepid is 0.
 
- 46. Lateral development of the supraorbital vault compared with the breadth of the skull roof at the level immediately behind the supraorbital vault. This definition of the skull roof breadth is to make this character independent to character113: under developed, indicated by the ratio of the breadth of both sides of the lateral expansion of the supraorbital vaults/the breadth of the skull roof at the level immediately behind the supraorbital vault less than 0.3 (0); developed, indicated by the ratio of the breadth of the lateral expansion of the supraorbital vaults/the breadth of the skull oof larger than 0.3 (1).
+ 46. Lateral development of the supraorbital vault compared with the breadth of the skull roof at the level immediately behind the supraorbital vault: under developed, indicated by the ratio of the breadth of both sides of the lateral expansion of the supraorbital vaults/the breadth of the skull roof at the level immediately behind the supraorbital vault less than 0.3 (0); developed, indicated by the ratio of the breadth of the lateral expansion of the supraorbital vaults/the breadth of the skull oof larger than 0.3 (1).
 > Zhu Y *et al*. (2016), Character 102; Xue *et al*. (submitted), Character 46.
+
+> - This definition of the skull roof breadth is to make this character independent to Character 113 (Zhu Y et al. 2016).
 
 > - The coding of the new Xitun actinolepid is ?.
 
@@ -263,7 +269,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of the new Xitun actinolepid is 0.
 
- 48. Position of the anterior end of the endolymphatic duct on the visceral surface of the skull roof, indicating the neurocranial aperture of the endolymphatic duct: anteriorly positioned, defined as positioned anterior to the nuchal thickening (0); posteriorly positioned, on the nuchal thickening.
+ 48. Position of the anterior end of the endolymphatic duct on the visceral surface of the skull roof, indicating the neurocranial aperture of the endolymphatic duct: anteriorly positioned, defined as positioned anterior to the nuchal thickening (0); posteriorly positioned, on the nuchal thickening (1).
 > Zhu Y *et al*. (2016), Character 104; Xue *et al*. (submitted), Character 48.
 
 > - The coding of the new Xitun actinolepid is 0.
@@ -286,7 +292,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  52. Position of the skull roof and thoracic armour articulation: not close to posterolateral corner of the skull roof (0); close to posterolateral corner of the skull roof (1).
 > Zhu Y *et al*. (2016), Character 108; Xue *et al*. (submitted), Character 52.
 >
-> - **check its relationship with Character 35** This character can be incorporated into character 35.
+> - This character is contingent on the state 1 of Character 35.
 
 > - The coding of the new Xitun actinolepid is ?.
 
@@ -380,7 +386,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of the new Xitun actinolepid is ?.
 
-71. Type of exoskeletal dermal craniothoracic articulatuion: actinolepid' sliding neck joint'(0);ginglymoid phlyctaenioid type（1）；‘spoon-like’petalichthyid type (2).
+71. Type of exoskeletal dermal craniothoracic articulatuion: actinolepid' sliding neck joint'(0); ginglymoid phlyctaenioid type（1）；‘spoon-like’ petalichthyid type (2).
 > Dupret *et al*. (2009, 2017), Character 40; Zhu *et al*, Character 40; Xue *et al*. (submitted), Character 71.
  
  72. Central plate length/skull roof length ratio (LC/LSR; from anterior edge of preorbital plates to posterior-most edge of skull roof): LC/LSR < 45% (0); LC/LSR => 45% (1).
@@ -467,8 +473,9 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  88. Spinal pit of the spinal plate : absent (0); present (1).
 > Gardiner and Miles (1990), Character 22.32; Carr (1991), Character 46; Carr and Hlavin (2010), Character 46; Rücklin *et al*. (2015), Character 46; Zhu Y *et al*. (2016), Character 46; Jobbins *et al*. (2022, 2024), Character 46； Xue *et al*. (submitted), Character 88.
 
-> - The coding of the new Xitun actinolepid is ?.
 > - Gardiner and Miles (1990): "Three subgroups of ‘coccosteids’ may be defined on spinal structure: (1) Watsonosteus, Dickosteus, Coccosteus, Millerosteus, Plourdosteus, Harytoombsia and Torosteus in which the spinal plate cavity is filled by the lateral prepectoral process. This is presumed to be the primitive condition. (2) Camuropiscis and Holonema both with long spinal plates without an internal cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) Eastmanosteus, Dunkleosteus, Bullerichthys, Kendrickichthys and Homosteus in which the spinal plate is very short and without any trace of an internal cavity. This type is termed ‘short pseudospinal’."
+
+> - The coding of the new Xitun actinolepid is ?.
 
  89. Branchial lamina of the interolateral plate : absent (0); present (1).
 > Carr (1991), Character 47; Carr and Hlavin (2010), Character 47; Rücklin *et al*. (2015), Character 47; Zhu Y *et al*. (2016), Character 47; Jobbins *et al*. (2022, 2024), Character 47；Xue *et al*. (submitted), Character 89.
@@ -485,7 +492,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  91. Ormantation of branchial lamina of interolateral plate: absent (0); present (1).
 > Carr (1991), Character 49; Carr and Hlavin (2010), Character 49; Rücklin *et al*. (2015), Character 49; Zhu Y *et al*. (2016), Character 49; Jobbins *et al*. (2022, 2024), Character 49；Xue *et al*. (submitted), Character 91.
 
->- Also named as the postbranchial lamina.
+> - Also named as the postbranchial lamina.
+
 > - The coding of the new Xitun actinolepid is ?.
 
  92. Posterior ventrolateral plate dorsolateral contact with the lateral thoracic armour: posterior lateral plate only (0); posterior lateral and anterior lateral plates (1).
@@ -596,10 +604,14 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  113. Length/width ratio (L/W) of posterior dorsolateral plate: L/H < 2 (0); L/H> 2 (1).
 > Johnson *et al*. (2000), Character 36; Dupret *et al*. (2009), Character 62; Dupret *et al*. (2017), Character 62; Zhu *et al*. (2010), Character 62; Xue *et al*. (submitted), Character 113.
 
+> - check definition, type error?
+
 > - The coding of the new Xitun actinolepid is ?.
 
- 114. RSp (=LSp borne by AVL/LSp): RSp < 60% (0); RSp =>60% (1). [ratio of [length proportion of the spinal plate borne by the anterior ventrolateral plate] over total length of the spinal plate]
+ 114. RSp (=LSp borne by AVL/LSp): RSp < 60% (0); RSp =>60% (1).
 > Johnson *et al*. (2000), Character 28; Dupret *et al*. (2009), Character 64; Dupret *et al*. (2017), Character 64; Zhu *et al*. (2010), Character 64; Xue *et al*. (submitted), Character 114.
+
+> - RSp represents the ratio of length proportion of the spinal plate borne by the anterior ventrolateral plate (LSp borne by AVL) over total length of the spinal plate (LSp).
 
 > - The coding of the new Xitun actinolepid is ?.
 
@@ -624,12 +636,12 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of the new Xitun actinolepid is ?.
 
- 119. Suborbital and marginal plates in contact: absent (0); resent (1).
+ 119. Suborbital and marginal plates in contact: absent (0); present (1).
 > Gariner and Miles (1990), Character 22.28; Carr (1991), Character 55; Carr and Hlavin (2010), Character 55; Rücklin *et al*. (2015), Character 55; Zhu Y *et al*. (2016), Character 55; Jobbins *et al*. (2022, 2024), Character 55; Xue *et al*. (submitted), Character 119.
 
 > - The coding of the new Xitun actinolepid is ?.
 
- 120. Suborbital plate with a contact face for the PSG (cf.PSG) on the linguiform process (cr.lg): absent (0); present (1).
+ 120. Suborbital plate with a contact face for the PSG on the linguiform process: absent (0); present (1).
 > Carr (1991), Character 56; Carr and Hlavin (2010), Character 56; Rücklin *et al*. (2015), Character 56; Zhu Y *et al*. (2016), Character 56; Jobbins *et al*. (2022, 2024), Character 56; Xue *et al*. (submitted), Character 120.
 
 > - The coding of the new Xitun actinolepid is ?.
