@@ -67,8 +67,9 @@
 [*Neopetalichthys yenmenpaensis*](https://deepbone.org/public/#/explor?s_id=3253andfunctionId=Deepbone_header_searchResultOpen) Liu, 1973
 > Pragian, 410.8, 407.6
 
-> - Pingyipu Formation; Yanmenba, Jiangyou City, Sichuan Province, China
+> - Pingyipu Group; Yanmenba, Jiangyou City, Sichuan Province, China
 > - [Liu, 1973]
+> - Previously Pingyipu Formation. Guanshanpo Formation after Hou et al. (1988)?
 
 [*Notopetalichthys hillsi*](https://deepbone.org/public/#/explor?s_id=2391&functionId=Deepbone_header_searchResultOpen) Woodward, 1941
 > Emsian, 407.6, 393.3
@@ -86,8 +87,8 @@
 [*Parapetalichthys minor*](https://deepbone.org/public/#/explor?s_id=3270&functionId=Deepbone_header_searchResultOpen) Wang, 1988
 > Pragian, 410.8, 407.6
 
-> - Pingyipu Formation; Yanmenba, Jiangyou City, Sichuan Province, China
-> - [references]
+> - B22 beds, Guanshanpo Formation, Pingyipu Group; Ganxi, Beichuan County, Sichuan Province, China
+> - [Wang, 1988 in Hou et al. 1988]
 
 [*Pauropetalichthys magnoculus*](https://deepbone.org/public/#/explor?s_id=3259&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 2015
 > upper Emsian, 400.45, 393.3
@@ -129,8 +130,9 @@
 [*Xinanpetalichthys shendaowanensis*](https://deepbone.org/public/#/explor?s_id=3266andfunctionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > Pragian, 410.8, 407.6
 
-> - Pingyipu Formation; Yanmenba, Jiangyou City, Sichuan Province, China
-> - [references]
+> - Pingyipu Group; Yanmenba, Jiangyou City, Sichuan Province, China
+> - [P'an and Wang, 1978]
+> - Previously Pingyipu Formation. Guanshanpo Formation after Hou et al. (1988)?
 
 ## Arthrodire taxa used in the analysis
 [*Actinolepis magna*](https://deepbone.org/public/#/explor?s_id=2464andfunctionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1973
