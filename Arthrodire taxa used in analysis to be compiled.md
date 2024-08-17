@@ -839,11 +839,11 @@
 > - Dicksonfjorden Member of the Wood Bay Formation, Dickson Bay and Wijde Bay, Svalbard (Spitsbergen).
 > - [Denison,1958]
 
-[*Barrydalaspis theroni*] Chaloner *et al*. 1980
-> Emsian to Eifelian, 407.6, 387.7
+[*Barrydalaspis theroni*]() Chaloner *et al*. 1980
+> lower Givetian, 387.7, 386.0
 
 > - Lower Bokkeveld Group or Ceres Subgroup; South Africa.
-> - [Chaloner et al., 1980](https://www.biodiversitylibrary.org/part/75124); Anderson, 1999
+> - [Chaloner et al., 1980](https://www.biodiversitylibrary.org/part/75124); Anderson, 1999; Gess, 2016.
 
 [*Barwickosteus antarcticus*](https://deepbone.org/public/#/explor?s_id=77199&functionId=Deepbone_header_searchResultOpen)
 > Givetian, 387.7, 382.7
