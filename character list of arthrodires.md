@@ -25,7 +25,7 @@
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  3. Triangular depression posterior to supraorbital vault: absent (0); present (1).
-> Dennis and Miles (1979b), Character 14, in part; Carr (1991), Character 3; Carr and Hlavin (2010), Character 3; Rücklin *et al*. (2016), Character 3; Zhu Y *et al*. (2016), Character 3; Jobbins *et al*. (2022, 2024), Character 3; Xue *et al*. (submitted), Character 3.
+> Dennis and Miles (1979b), Character 14, in part; Carr (1991), Character 3; Lelièvre (1995), character 24; Carr and Hlavin (2010), Character 3; Rücklin *et al*. (2016), Character 3; Zhu Y *et al*. (2016), Character 3; Jobbins *et al*. (2022, 2024), Character 3; Xue *et al*. (submitted), Character 3.
 
 > - The coding of the new Xitun actinolepid is ?.
 
@@ -133,14 +133,14 @@
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  17. Preorbital plate with a dermal preorbital lamina or process: absent (0); present (1).
-> Dennis and Miles (1979b), Character 19; Young (1981), Character 19; Carr (1991), Character 17; Carr and Hlavin (2010), Character 17; Rücklin *et al*. (2015), Character 17; Zhu Y *et al*. (2016), Character 17; Jobbins *et al*. (2022, 2024), Character 17; Xue *et al*. (submitted), Character 17.
+> Dennis and Miles (1979b), Character 19; Young (1981), Character 19; Carr (1991), Character 17; Lelièvre (1995), character 20; Carr and Hlavin (2010), Character 17; Rücklin *et al*. (2015), Character 17; Zhu Y *et al*. (2016), Character 17; Jobbins *et al*. (2022, 2024), Character 17; Xue *et al*. (submitted), Character 17.
 
 > - The coding of the new Xitun actinolepid is ?.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  18. Preorbital plates with a median contact: contact posterior to pineal plate (0); contact anterior to pineal plate (1); pineal plate separating preorbital plates (2).
-> Young (1981), Character 19a, modified; Carr (1991), Character 18; Carr and Hlavin (2010), Character 18; Rücklin *et al*. (2015), Character 18; Zhu Y *et al*. (2016), Character 18; Dupret *et al*. (2009, 2017), Character 7, modified; Jobbins *et al*. (2022, 2024), Character 18; Xue *et al*. (submitted), Character 18.
+> Young (1981), Character 19a, modified; Carr (1991), Character 18; Lelièvre (1995), character 19, modified; Carr and Hlavin (2010), Character 18; Rücklin *et al*. (2015), Character 18; Zhu Y *et al*. (2016), Character 18; Dupret *et al*. (2009, 2017), Character 7, modified; Jobbins *et al*. (2022, 2024), Character 18; Xue *et al*. (submitted), Character 18.
 
 > Dupret *et al*. (2009, 2017): Pineal or rostropineal plate separates preorbital plates: no separation (0); separation (1).
 
@@ -206,7 +206,7 @@ The orginal definition from Carr (1991) is "Extent of median preorbital plate co
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  26. Postnasal plate forms part of the orbit border: absent (0); present (1).
-> Dennis and Miles (1979b), Character 1; Carr (1991), Character 26; Carr and Hlavin (2010), Character 26; Rücklin *et al*. (2015), Character 26; Zhu Y *et al*. (2016), Character 26; Jobbins *et al*. (2022, 2024), Character 26; Xue *et al*. (submitted), Character 26.
+> Dennis and Miles (1979b), Character 1; Carr (1991), Character 26; Lelièvre (1995), character 22, modified; Carr and Hlavin (2010), Character 26; Rücklin *et al*. (2015), Character 26; Zhu Y *et al*. (2016), Character 26; Jobbins *et al*. (2022, 2024), Character 26; Xue *et al*. (submitted), Character 26.
 
 > - The coding of the new Xitun actinolepid is 1.
 
@@ -273,7 +273,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  34. Postorbital dermal process; negligible or absent (0); present (1).
-> Carr (1991), Character 34; Carr and Hlavin (2010), Character 34; Rücklin *et al*. (2015), Character 34; Zhu Y *et al*. (2016), Character 34; Jobbins *et al*. (2022, 2024), Character 34; Xue *et al*. (submitted), Character 34.
+> Carr (1991), Character 34; Lelièvre (1995), character 21, modified; Carr and Hlavin (2010), Character 34; Rücklin *et al*. (2015), Character 34; Zhu Y *et al*. (2016), Character 34; Jobbins *et al*. (2022, 2024), Character 34; Xue *et al*. (submitted), Character 34.
 
 > - The coding of the new Xitun actinolepid is 1.
 
@@ -468,7 +468,9 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  59. Position of orbits on skull roof: dorsal (0); lateral (1).
-> Dupret *et al*. (2009), Character 12; Dupret *et al*. (2017), Character 12; Zhu *et al*. (2010), Character 12; Xue *et al*. (submitted), Character 59.
+> Lelièvre (1995), character 23, modified; Dupret *et al*. (2009), Character 12; Dupret *et al*. (2017), Character 12; Zhu *et al*. (2010), Character 12; Xue *et al*. (submitted), Character 59.
+
+> - Lelièvre (1995): Position and size of the orbits: samall and anteriorly placed (0); small and laterally placed (1); enlarged and lateral (2).
 
 > - The coding of the new Xitun actinolepid is 1.
 
@@ -593,21 +595,21 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 ## Thoracic armour
  77. Median dorsal plate with a ventral ridge: a ventral thickening or ridge (0); posterior ridge with a posterior process, not spatulate (1); posterior process posterodorsally spatulate (2).
-> Dennis and Miles (1979a), Characters 4 and 18, modified; Carr (1991), Character 35; Carr and Hlavin (2010), Character 35; Rücklin *et al*. (2015), Character 35; Zhu Y *et al*. (2016), Character 35; Jobbins *et al*. (2022, 2024), Character 35； Xue *et al*. (submitted), Character 77.
+> Dennis and Miles (1979a), Characters 4 and 18, modified; Carr (1991), Character 35; Lelièvre (1995), character  40, modified; Carr and Hlavin (2010), Character 35; Rücklin *et al*. (2015), Character 35; Zhu Y *et al*. (2016), Character 35; Jobbins *et al*. (2022, 2024), Character 35； Xue *et al*. (submitted), Character 77.
 
 > - The coding of the new Xitun actinolepid is ?.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  78. Median dorsal plate shape: short and broad to equidimensional (0); body of plate long and narrow, not including a posteriorly produced spine (1).
-> Carr (1991), Character 36; Carr and Hlavin (2010), Character 36; Rücklin *et al*. (2015), Character 36; Zhu Y *et al*. (2016), Character 36; Jobbins *et al*. (2022, 2024), Character 36； Xue *et al*. (submitted), Character 78.
+> Carr (1991), Character 36; Lelièvre (1995), character 38, modified; Carr and Hlavin (2010), Character 36; Rücklin *et al*. (2015), Character 36; Zhu Y *et al*. (2016), Character 36; Jobbins *et al*. (2022, 2024), Character 36； Xue *et al*. (submitted), Character 78.
 
 > - The coding of the new Xitun actinolepid is ?.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  79. Posterior border of the median dorsal plate: rounded (0); spinous (1).
-> Dennis and Miles (1979a), Character 18; Carr (1991), Character 37; Carr and Hlavin (2010), Character 37; Rücklin *et al*. (2015), Character 37; Zhu Y *et al*. (2016), Character 37; Jobbins *et al*. (2022, 2024), Character 37； Xue *et al*. (submitted), Character 79.
+> Dennis and Miles (1979a), Character 18; Carr (1991), Character 37; Lelièvre (1995), character 39; Carr and Hlavin (2010), Character 37; Rücklin *et al*. (2015), Character 37; Zhu Y *et al*. (2016), Character 37; Jobbins *et al*. (2022, 2024), Character 37； Xue *et al*. (submitted), Character 79.
 
 > - The coding of the new Xitun actinolepid is ?.
 
@@ -631,7 +633,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of the new Xitun actinolepid is ?.
 
  83. Pectoral dermal enclosure: fenestra (0); embayment open posteriorly (1).
-> Carr (1991), Character 41; Carr and Hlavin (2010), Character 41; Rücklin *et al*. (2015), Character 41; Zhu Y *et al*. (2016), Character 41; Jobbins *et al*. (2022, 2024), Character 41； Xue *et al*. (submitted), Character 83.
+> Carr (1991), Character 41; Lelièvre (1995), character 34;  Carr and Hlavin (2010), Character 41; Rücklin *et al*. (2015), Character 41; Zhu Y *et al*. (2016), Character 41; Jobbins *et al*. (2022, 2024), Character 41； Xue *et al*. (submitted), Character 83.
 
 > - The coding of the new Xitun actinolepid is ?.
 
@@ -691,7 +693,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  91. Ormantation of branchial lamina of interolateral plate: absent (0); present (1).
-> Carr (1991), Character 49; Carr and Hlavin (2010), Character 49; Rücklin *et al*. (2015), Character 49; Zhu Y *et al*. (2016), Character 49; Jobbins *et al*. (2022, 2024), Character 49；Xue *et al*. (submitted), Character 91.
+> Carr (1991), Character 49; Lelièvre (1995), character 41, modified; Carr and Hlavin (2010), Character 49; Rücklin *et al*. (2015), Character 49; Zhu Y *et al*. (2016), Character 49; Jobbins *et al*. (2022, 2024), Character 49；Xue *et al*. (submitted), Character 91.
 
 > - Also named as the postbranchial lamina.
 
@@ -882,7 +884,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  117. Suborbital plate overlaps postorbital plate: absent (0); resent (1).
-> Gariner and Miles (1990), Character 22.9; Lelièvre (1991), character 14; Carr (1991), Character 53; Carr and Hlavin (2010), Character 53; Rücklin *et al*. (2015), Character 53; Zhu Y *et al*. (2016), Character 53; Jobbins *et al*. (2022, 2024), Character 53; Xue *et al*. (submitted), Character 117.
+> Gariner and Miles (1990), Character 22.9; Carr (1991), Character 53; Lelièvre (1995), character 27; Carr and Hlavin (2010), Character 53; Rücklin *et al*. (2015), Character 53; Zhu Y *et al*. (2016), Character 53; Jobbins *et al*. (2022, 2024), Character 53; Xue *et al*. (submitted), Character 117.
+
 
 > - The coding of the new Xitun actinolepid is ?.
 
@@ -931,14 +934,17 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  124. Shape of submarginal plate: broad (0); elongate (1).
-> Carr (1991), Character 60; Carr and Hlavin (2010), Character 60; Rücklin *et al*. (2015), Character 60; Zhu Y *et al*. (2016), Character 60; Jobbins *et al*. (2022, 2024), Character 60; Xue *et al*. (submitted), Character 124.
+> Carr (1991), Character 60; Lelièvre (1995), character 26, modified; Carr and Hlavin (2010), Character 60; Rücklin *et al*. (2015), Character 60; Zhu Y *et al*. (2016), Character 60; Jobbins *et al*. (2022, 2024), Character 60; Xue *et al*. (submitted), Character 124.
 
-> -
+> - Lelièvre (1995): Shape of submarginal plate: large (0); enlongated; small and square (2).
+
+> - The coding of the new Xitun actinolepid is ?.
+
 > - The coding of *Panjiangosteus eurycephala* is ?.
- The coding of the new Xitun actinolepid is ?.
+
 
  125. Length of cheek and skull roof contact: long (0); short, measured as the contact being less than one third of the length measured from the anterior suborbital plate to the posterior cheek/skull roof contact (1).
-> Carr (1991), Character 61; Carr and Hlavin (2010), Character 61; Rücklin *et al*. (2015), Character 61; Zhu Y *et al*. (2016), Character 61; Jobbins *et al*. (2022, 2024), Character 61; Xue *et al*. (submitted), Character 125.
+> Carr (1991), Character 61; Lelièvre (1995), character 25; Carr and Hlavin (2010), Character 61; Rücklin *et al*. (2015), Character 61; Zhu Y *et al*. (2016), Character 61; Jobbins *et al*. (2022, 2024), Character 61; Xue *et al*. (submitted), Character 125.
 
 > - The coding of the new Xitun actinolepid is ?.
 
@@ -953,7 +959,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 ## Parasphenoid and gnathal elements
  127. Infragnathal with a developed blade portion: absent (0); present (1).
-> Dennis and Miles (1979a), Character 13; Carr (1991), Character 63; Carr and Hlavin (2010), Character 63; Rücklin *et al*. (2015), Character 63; Zhu Y *et al*. (2016), Character 63; Jobbins *et al*. (2022, 2024), Character 63; Xue *et al*. (submitted), Character 127.
+> Dennis and Miles (1979a), Character 13; Carr (1991), Character 63; Lelièvre (1995), character 31; Carr and Hlavin (2010), Character 63; Rücklin *et al*. (2015), Character 63; Zhu Y *et al*. (2016), Character 63; Jobbins *et al*. (2022, 2024), Character 63; Xue *et al*. (submitted), Character 127.
 
 > - The coding of the new Xitun actinolepid is ?.
 
@@ -974,7 +980,9 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  130. Anterior supragnathal cusps: none (0); lateral (1); lateral and anterior (2).
-> Carr (1991), Character 66; Carr and Hlavin (2010), Character 66; Rücklin *et al*. (2015), Character 66; Zhu Y *et al*. (2016), Character 66; Jobbins *et al*. (2022, 2024), Character 66; Xue *et al*. (submitted), Character 130.
+> Carr (1991), Character 66; Lelièvre (1995), character 29, modified; Carr and Hlavin (2010), Character 66; Rücklin *et al*. (2015), Character 66; Zhu Y *et al*. (2016), Character 66; Jobbins *et al*. (2022, 2024), Character 66; Xue *et al*. (submitted), Character 130.
+
+> - Lelièvre (1995): "Teeth" developed on the occlusal surface of the anterior superognathal:absent (0); present on anterior margin (1); present on anterior and lateral margins (2). 
 
 > - The coding of the new Xitun actinolepid is ?.
 
@@ -988,7 +996,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  132. Anterior supragnathal plate with a dorsal process: absent (0); present (1).
-> Dennis and Miles (1979a), Character 22; Carr (1991), Character 68; Carr and Hlavin (2010), Character 68; Rücklin *et al*. (2015), Character 68; Zhu Y *et al*. (2016), Character 68; Jobbins *et al*. (2022, 2024), Character 68; Xue *et al*. (submitted), Character 132.
+> Dennis and Miles (1979a), Character 22; Carr (1991), Character 68; Lelièvre (1995), character 28; Carr and Hlavin (2010), Character 68; Rücklin *et al*. (2015), Character 68; Zhu Y *et al*. (2016), Character 68; Jobbins *et al*. (2022, 2024), Character 68; Xue *et al*. (submitted), Character 132.
 
 > - The coding of the new Xitun actinolepid is ?.
 
@@ -1117,14 +1125,14 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  150. Main lateral line groove on the posterior dorsolateral plate: absent 0); present (1).
-> Carr (1991), Character 79, modified; Johnson *et al*. (2000), Character 15; Carr and Hlavin (2010), Character 79; Rücklin *et al*. (2015), Character 79; Zhu Y *et al*. (2016), Character 79; Jobbins *et al*. (2022, 2024), Character 79; Xue *et al*. (submitted), Character 150.
+> Carr (1991), Character 79, modified; Lelièvre (1995), Character 50. Johnson *et al*. (2000), Character 15; Carr and Hlavin (2010), Character 79; Rücklin *et al*. (2015), Character 79; Zhu Y *et al*. (2016), Character 79; Jobbins *et al*. (2022, 2024), Character 79; Xue *et al*. (submitted), Character 150.
 
 > - The coding of the new Xitun actinolepid is ?.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  151. Dorsal groove of the main lateral line on the median dorsal plate: absent (0); present (1).
-> Carr (1991), Character 80; Carr and Hlavin (2010), Character 80; Rücklin *et al*. (2015), Character 80; Zhu Y *et al*. (2016), Character 80; Jobbins *et al*. (2022, 2024), Character 80; Xue *et al*. (submitted), Character 151.
+> Carr (1991), Character 80; Lelièvre (1995), Character 51; Carr and Hlavin (2010), Character 80; Rücklin *et al*. (2015), Character 80; Zhu Y *et al*. (2016), Character 80; Jobbins *et al*. (2022, 2024), Character 80; Xue *et al*. (submitted), Character 151.
 
 > - The coding of the new Xitun actinolepid is ?.
 
@@ -1138,7 +1146,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  153. Angle between the suborbital and postorbital branches of the infraorbital sensory line groove (Lelièvre, 1984a): opened (0); closed, measured as less than 90° (1).
-> Carr (1991), Character 82, modified; Carr and Hlavin (2010), Character 82; Rücklin *et al*. (2015), Character 82; Zhu Y *et al*. (2016), Character 82; Jobbins *et al*. (2022, 2024), Character 82; Xue *et al*. (submitted), Character 153.
+> Carr (1991), Character 82, modified; Lelièvre (1995), Character 53;  Carr and Hlavin (2010), Character 82; Rücklin *et al*. (2015), Character 82; Zhu Y *et al*. (2016), Character 82; Jobbins *et al*. (2022, 2024), Character 82; Xue *et al*. (submitted), Character 153.
 
 > - Carr and Hlavin (2010): "Gardiner & Miles (1994) argued that the angle between these grooves in *Homostius* and *Buchanosteus* is opened, in contrast to the interpretations of Lelièvre (in part, 1984a) and Carr (1991). We assume that this discrepancy was based on differing interpretations of the terms open and closed. As originally used by Lelièvre (1984a), and followed by Carr (1991), the angle in consideration was the anterior or anterodorsal-facing angle formed by the postorbital and suborbital branches of the infraorbital sensory line groove (Lelièvre, 1984a, angle formed by sio and sio.sb, fig. 2A). This feature is considered here to be closed in Homostius (Heintz, 1934, fig. 22), polymorphic in *Buchanosteus* (sensu Young, 1979); opened in *B. confertituberculatus* (Young, 1979: fig. 13, pl. 3), and closed in *B. ‘murrumbidgeensis’* (White, 1952) (White &Toombs, 1972: fig. 24; pl. 8, fig. 3), and opened in the other taxa."
 
@@ -1147,7 +1155,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  154. Postorbital branch of the infraorbital sensory line groove and supraoral sensory groove confluent: discontinuous (0); continuous (1).
-> Lelièvre (1984a); Carr (1991), Character 83; Carr and Hlavin (2010), Character 83; Rücklin *et al*. (2015), Character 83; Zhu Y *et al*. (2016), Character 83; Jobbins *et al*. (2022, 2024), Character 83; Xue *et al*. (submitted), Character 154.
+> Lelièvre (1984a); Carr (1991), Character 83; Lelièvre (1995), character 47; Carr and Hlavin (2010), Character 83; Rücklin *et al*. (2015), Character 83; Zhu Y *et al*. (2016), Character 83; Jobbins *et al*. (2022, 2024), Character 83; Xue *et al*. (submitted), Character 154.
 
 > - The coding of the new Xitun actinolepid is ?.
 
@@ -1182,7 +1190,9 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  159. Infraorbital and cephalic main lateral sensory lines run along mesial margin of the marginal plate: no (0); yes (1).
-> Dupret *et al*. (2009, 2017), Character 16; Zhu *et al*. (2010), Character 16; Xue *et al*. (submitted), Character 159.
+> Lelièvre (1995), character 45, modified; Dupret *et al*. (2009, 2017), Character 16; Zhu *et al*. (2010), Character 16; Xue *et al*. (submitted), Character 159.
+
+> - Lelièvre (1995): Position of the otic branch of the infraorbital sensory line on the marginal plate: near the lateral margin of the plate (0), near the medial  margin of the plate (1).
 
 > - The coding of the new Xitun actinolepid is 1.
 
@@ -1221,7 +1231,9 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  164. Occipital cross commissure: on both nuchal and paranuchal plates (0); only on paranuchal plates (1).
-> Johnson *et al*. (2000), Characters 8 and 9, modified; Dupret *et al*. (2009), Character 36; Dupret *et al*. (2017), Character 36; Zhu *et al*. (2010), Character 36; Xue *et al*. (submitted), Character 164.
+> Lelièvre (1995), character 48, modified; Johnson *et al*. (2000), Characters 8 and 9, modified; Dupret *et al*. (2009), Character 36; Dupret *et al*. (2017), Character 36; Zhu *et al*. (2010), Character 36; Xue *et al*. (submitted), Character 164.
+
+> - Lelièvre (1995): Orientation of the occipital cross-comissure: directed towards or reaching the nuchal plate (0), directed onto the nuchal gap, and extending on the extrascapular plates, if preserved (1); absent(0).
 
 > - The coding of the new Xitun actinolepid is 1.
 
@@ -1389,7 +1401,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 193. Cutaneous sensory organ pit on the postsuborbital plate: absent(0); present(1).
      
-194. Cutaneous sensory organ pit on the suborbital plate: absent (0); present (1).
+194. Cutaneous sensory organ pit on the suborbital plate: absent (0); present (1).     
 > - Within arthrodires, cutaneous sensory organ pits aremost commonly found on the suborbital and postsubor-bital plates of eubrachythoracid arthrodires: the suborbitaland postsuborbital plates of Coccosteus (Stensi€o 1963;Fig. 5B), Watsonosteus (Miles & Westoll 1962),Goodradigbeeon (White 1978),Torosteus (Gardiner & Miles 1990) and Plourdosteus(Ørvig 1960) and the postsuborbital plate of Harrytoombsia (Miles  &  Dennis  1979), Mcnamaraspis(Long 1995), Simosteus (Dennis & Miles 1982), Compagopiscis (Gardiner & Miles 1994), Dickosteus (Miles & Westoll 1962) and Kimberleyichthyes (Dennis-Bryan & Miles 1983).
 
 195.Supraorbital crista: absent (0); present (1).
@@ -1402,6 +1414,11 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 197.  Central sensory canals: separate (0); meet posteriorly (1).
 > - Central sensory canals meet posterioly on central plates in *Watsonosteus* and *Dickosteus*.
+
+198. Supraorbital sensory canal extend to the rostral plate: absent (0); present (1).
+> Lelièvre (1995), character 43.
+
+199. Ventral sensory canal on the anterior ventrolateral plate: absent (0), present (1).
 
 **Contact between anterior lateral and anterior ventrolateral plates behind pectoral fenestra: no (0); yes (1).**
 > Dupret *et al*. (2009, 2017), Character 51.
