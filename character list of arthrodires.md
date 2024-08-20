@@ -3,8 +3,9 @@
 
 ## Skull roof
  1. Nuchal plate with posterodorsally placed paired pits: absent (0), present (1).
-> Carr (1991), Character 1; Carr and Hlavin (2010), Character 1; Rücklin *et al*. (2015), Character 1; Zhu Y *et al*. (2016), Character 1; Jobbins *et al*. (2022, 2024), Character 1; Xue *et al*. (submitted), Character 1.
+> Carr (1991), Character 1; Lelièvre (1995), character 7, modified; Carr and Hlavin (2010), Character 1; Rücklin *et al*. (2015), Character 1; Zhu Y *et al*. (2016), Character 1; Jobbins *et al*. (2022, 2024), Character 1; Xue *et al*. (submitted), Character 1.
 
+> - Lelièvre (1995): Position of the levator muscle pits on the nuchal plate: posterdorsal (0); posterventral (1); ventral (2).
 > - f.lv (fossa on the nuchal plate for levator muscles of the head) of Goujet (1984).
 > - present on the paranuchal plate in *Holonema*.
 
@@ -38,7 +39,7 @@
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  5. Posterior development of rostral plate: not developed (0); subtriangular (1); T-shaped (2).
-> Carr (1991), Character 5; Carr and Hlavin (2010), Character 5; Rücklin *et al*. (2015), Character 5; Zhu Y *et al*. (2016), Character 5; Jobbins *et al*. (2022, 2024), Character 5; Xue *et al*. (submitted), Character 5.
+> Carr (1991), Character 5; Lelièvre (1995), character 4, modified; Carr and Hlavin (2010), Character 5; Rücklin *et al*. (2015), Character 5; Zhu Y *et al*. (2016), Character 5; Jobbins *et al*. (2022, 2024), Character 5; Xue *et al*. (submitted), Character 5.
 
 > In those taxa that the rostral plate fused with the pineal plate, this character is scored as 'not applicable'.
 
@@ -54,14 +55,14 @@
 > - The coding of *Panjiangosteus eurycephala* is 0.
 
  7. Ventrally enclosed tubular rostrum: absent (0); present (1).
-> Carr (1991), Character 7; Carr and Hlavin (2010), Character 7; Rücklin *et al*. (2015), Character 7; Zhu Y *et al*. (2016), Character 7; Jobbins *et al*. (2022, 2024), Character 7; Xue *et al*. (submitted), Character 7.
+> Carr (1991), Character 7; Lelièvre (1995), character 3, modified; Carr and Hlavin (2010), Character 7; Rücklin *et al*. (2015), Character 7; Zhu Y *et al*. (2016), Character 7; Jobbins *et al*. (2022, 2024), Character 7; Xue *et al*. (submitted), Character 7.
 
 > - The coding of the new Xitun actinolepid is -.
 
 > - The coding of *Panjiangosteus eurycephala* is -.
 
  8. Position of anterior edge of pineal plate: over orbit (0); anterior to orbit (1).
-> Carr (1991), Character 8; Carr and Hlavin (2010), Character 8; Rücklin *et al*. (2015), Character 8; Zhu Y *et al*. (2016), Character 8; Jobbins *et al*. (2022, 2024), Character 8; Xue *et al*. (submitted), Character 8.
+> Carr (1991), Character 8; Lelièvre (1995), character 5, modified; Carr and Hlavin (2010), Character 8; Rücklin *et al*. (2015), Character 8; Zhu Y *et al*. (2016), Character 8; Jobbins *et al*. (2022, 2024), Character 8; Xue *et al*. (submitted), Character 8.
 
 > - The coding of the new Xitun actinolepid is 1.
  
@@ -75,7 +76,7 @@
 > - The coding of *Panjiangosteus eurycephala* is 0.
  
  10. Shape of the external anterior nuchal border: straight (0); convex (1); concave (2).
-> Carr (1991), Character 10; Carr and Hlavin (2010), Character 10; Rücklin *et al*. (2015), Character 10; Zhu Y *et al*. (2016), Character 10; Dupret *et al*. (2009, 2017), Character 33, modified; Jobbins *et al*. (2022, 2024), Character 10; Xue *et al*. (submitted), Character 10.
+> Carr (1991), Character 10; Lelièvre (1995), character 9, modified; Carr and Hlavin (2010), Character 10; Rücklin *et al*. (2015), Character 10; Zhu Y *et al*. (2016), Character 10; Dupret *et al*. (2009, 2017), Character 33, modified; Jobbins *et al*. (2022, 2024), Character 10; Xue *et al*. (submitted), Character 10.
 
 > Dupret *et al*. (2009, 2017): Contact suture between nuchal and central plates (external side):nuchal plate indenting central plates (0); straight contact (1).
 
@@ -91,14 +92,16 @@
 > - The coding of *Panjiangosteus eurycephala* is 2.
  
  12. Nuchal thickening: discontinuous with the lateral thickening associated with the cranio-thoracic dermal articulation (0); continuous thickening across the posterior skull roof (1).
-> Lelièvre (1988); Carr (1991), Character 12; Carr and Hlavin (2010), Character 12; Rücklin *et al*. (2015), Character 12; Zhu Y *et al*. (2016), Character 12; Jobbins *et al*. (2022, 2024), Character 12; Xue *et al*. (submitted), Character 12.
+> Lelièvre (1988); Carr (1991), Character 12; Lelièvre (1995), character 10, modified; Carr and Hlavin (2010), Character 12; Rücklin *et al*. (2015), Character 12; Zhu Y *et al*. (2016), Character 12; Jobbins *et al*. (2022, 2024), Character 12; Xue *et al*. (submitted), Character 12.
+
+> - Lelièvre (1995): Posterior nuchal thickening: present only under the paranuchal visceral surface (it corresponds to the development of the dermal articulation)(0), developed under all the occipital region of the skull-roof(1).
 
 > - The coding of the new Xitun actinolepid is ?.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  13. Preorbital plate embayment of central plate: absent (0); shallow (1); developed (2).
-> Carr (1991), Character 13; Carr and Hlavin (2010), Character 13; Rücklin *et al*. (2015), Character 13; Zhu Y *et al*. (2016), Character 13; Jobbins *et al*. (2022, 2024), Character 13; Dupret *et al*. (2009, 2017), Character 20, modified; Xue *et al*. (submitted), Character 13.
+> Carr (1991), Character 13; Lelièvre (1991), character 16; Carr and Hlavin (2010), Character 13; Rücklin *et al*. (2015), Character 13; Zhu Y *et al*. (2016), Character 13; Jobbins *et al*. (2022, 2024), Character 13; Dupret *et al*. (2009, 2017), Character 20, modified; Xue *et al*. (submitted), Character 13.
 
 > Dupret *et al*. (2009, 2017)：Indentation of posterior edge of preorbital plates on anterior edge of central plates: absent (0); present (1).
 
@@ -180,7 +183,7 @@ The orginal definition from Carr (1991) is "Extent of median preorbital plate co
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  23. Marginal plate in contact with the central plate: absent (0); present (1).
-> Lelièvre (1988), Character 5; Johnson *et al*. (2000), Character 5; Carr (1991), Character 23, modified; Carr and Hlavin (2010), Character 23; Rücklin *et al*. (2015), Character 23; Zhu Y *et al*. (2016), Character 23; Dupret *et al*. (2009, 2017), Character 22; Jobbins *et al*. (2022, 2024), Character 23; Xue *et al*. (submitted), Character 23.
+> Lelièvre (1988), Character 5; Johnson *et al*. (2000), Character 5; Carr (1991), Character 23, modified; Lelièvre (1991), character 18; Carr and Hlavin (2010), Character 23; Rücklin *et al*. (2015), Character 23; Zhu Y *et al*. (2016), Character 23; Dupret *et al*. (2009, 2017), Character 22; Jobbins *et al*. (2022, 2024), Character 23; Xue *et al*. (submitted), Character 23.
 
 > - This character seems redundant with Character 23 of Dupret *et al*. (2009, 2017) 'Contact between postorbital and paranuchal plates: present (0); absent (1)'. **Check codings in the matrix.**
 
@@ -225,17 +228,17 @@ The orginal definition from Carr (1991) is "Extent of median preorbital plate co
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  29. Nuchal and paranuchal plates elongate: absent (0); present, associated with an elongation of the endolymphatic canal (1).
-> Lelièvre (1984b); Carr (1991), Character 29, modified; Carr and Hlavin (2010), Character 29; Rücklin *et al*. (2015), Character 29; Zhu Y *et al*. (2016), Character 29; Jobbins *et al*. (2022, 2024), Character 29; Xue *et al*. (submitted), Character 29.
+> Lelièvre (1984b); Carr (1991), Character 29, modified; Lelièvre (1995), character 11, modified;  Carr and Hlavin (2010), Character 29; Rücklin *et al*. (2015), Character 29; Zhu Y *et al*. (2016), Character 29; Jobbins *et al*. (2022, 2024), Character 29; Xue *et al*. (submitted), Character 29.
 
 > - Carr and Hlavin (2010): "Gardiner & Miles (1994) pointed out correctly that, in their analysis, only *Homostius* possesses this
 feature. *Buchanosteus confertituberculatus*, previously considered to have this feature by Carr (1991), is noted here to lack this character state (see also Lelièvre, 1984b). Although representing an autapomorphy of *Homostius* in the present study, this feature is potentially useful in considering other homostiids, e.g. *Tityosteus* Gross,1960 (Lelièvre, 1988, fig. 4A; refer to Denison 1978, fig. 51)."
 
 > - The coding of the new Xitun actinolepid is 0.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 0.
 
  30. Postnuchal process of paranuchal plate on dermal surface: absent (0); present (1), indicated by the presence of a postnuchal process on the dermal surface of the skull roof.
-> Dennis and Miles (1979b), Character 8, modified; Carr (1991), Character 30; Carr and Hlavin (2010), Character 30; Rücklin *et al*. (2015), Character 30; Zhu Y *et al*. (2016), Character 30; Dupret *et al*. (2009, 2017), Character 38, modified; Jobbins *et al*. (2022, 2024), Character 30; Xue *et al*. (submitted), Character 30.
+> Dennis and Miles (1979b), Character 8, modified; Carr (1991), Character 30; Lelièvre (1995), character 6, modified; Carr and Hlavin (2010), Character 30; Rücklin *et al*. (2015), Character 30; Zhu Y *et al*. (2016), Character 30; Dupret *et al*. (2009, 2017), Character 38, modified; Jobbins *et al*. (2022, 2024), Character 30; Xue *et al*. (submitted), Character 30.
 
 > Dupret *et al*. (2009, 2017): Posterior process of paranuchal plate behind nuchal plate (external side): absent (0); present (1).
 
@@ -254,7 +257,9 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  32. Position of preorbital/postorbital/central triple point relative to posterior triple point (PtO/M/C or PtO/PNu/C): parallels the midline or with the anterior point lateral (0); posterior point lateral to anterior point (1).
-> Carr (1991), Character 32; Carr and Hlavin (2010), Character 32; Rücklin *et al*. (2015), Character 32; Zhu Y *et al*. (2016), Character 32; Jobbins *et al*. (2022, 2024), Character 32; Xue *et al*. (submitted), Character 32.
+> Carr (1991), Character 32;  Lelièvre (1991), character 12, modified; Carr and Hlavin (2010), Character 32; Rücklin *et al*. (2015), Character 32; Zhu Y *et al*. (2016), Character 32; Jobbins *et al*. (2022, 2024), Character 32; Xue *et al*. (submitted), Character 32.
+
+> - Lelièvre (1991) suggested that the definition of the character 32 of Carr (1991) is complex. The simply definition is Paranuchal plate process onto the central plate determing a lateral lobe: absent (0); present (1).
 
 > - The coding of the new Xitun actinolepid is 1.
 
@@ -442,6 +447,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  56. Preorbital plates show an embayment for insertion of pineal or rostropineal plate: no, or very shallow (0); yes, very deep (1).
 > Johnson *et al*. (2000), Character 1; Dupret *et al*. (2009), Character 9; Dupret *et al*. (2017), Character 9; Zhu *et al*. (2010), Character 9; Xue *et al*. (submitted), Character 56.
 
+> - In those taxa that the preorbital plates are sperated by pineal of rostropineal plate, this character scored "as yes, very deep(1)".
+ 
 > - The coding of the new Xitun actinolepid is 1.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
@@ -879,6 +886,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  117. Suborbital plate overlaps postorbital plate: absent (0); resent (1).
 > Gariner and Miles (1990), Character 22.9; Carr (1991), Character 53; Lelièvre (1995), character 27; Carr and Hlavin (2010), Character 53; Rücklin *et al*. (2015), Character 53; Zhu Y *et al*. (2016), Character 53; Jobbins *et al*. (2022, 2024), Character 53; Xue *et al*. (submitted), Character 117.
 
+
 > - The coding of the new Xitun actinolepid is ?.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
@@ -905,7 +913,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  121. Palatoquadrate ossification: ossified as a single unit (0); autopalatine and quadrate ossifications (1).
-> Dennis and Miles (1979a), Character 21; Carr (1991), Character 57; Carr and Hlavin (2010), Character 57; Rücklin *et al*. (2015), Character 57; Zhu Y *et al*. (2016), Character 57; Jobbins *et al*. (2022, 2024), Character 57; Xue *et al*. (submitted), Character 121.
+> Dennis and Miles (1979a), Character 21; Carr (1991), Character 57; Lelièvre (1991), character 15; Carr and Hlavin (2010), Character 57; Rücklin *et al*. (2015), Character 57; Zhu Y *et al*. (2016), Character 57; Jobbins *et al*. (2022, 2024), Character 57; Xue *et al*. (submitted), Character 121.
 
 > - The coding of the new Xitun actinolepid is ?.
 
