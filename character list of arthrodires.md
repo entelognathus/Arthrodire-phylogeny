@@ -286,7 +286,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of the new Xitun actinolepid is ?.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 0.
 
  36. Length ratio r1 representing the position of the posterolateral corner of the skull roof,: r1 < 0.45 (0); 0.45 =< r1 =< 0.58 (1); r1 > 0.58 (2).
 > Zhu Y *et al*. (2016), Character 92; Xue *et al*. (submitted), Character 36.
@@ -295,7 +295,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of the new Xitun actinolepid is 2.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 2.
 
  37. Length ratio r2 representing the extension of the anterior portion of the skull roof: r2 < 0.3 (0); 0.3 =< r2 =< 0.5 (1); r2 > 0.5 (2).
 > Zhu Y *et al*. (2016), Character 93; Xue *et al*. (submitted), Character 37.
@@ -304,7 +304,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of the new Xitun actinolepid is 0.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 0.
 
  38. In forms with a marginal - central plate contact, position of the junction of the postorbital, marginal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 > Long (1987), Character 7, modified; Carr and Hlavin (2010), Character 94; Rücklin *et al*. (2015), Character 94; Zhu Y *et al*. (2016), Character 94; Jobbins *et al*. (2022, 2024), Character 94; Xue *et al*. (submitted), Character 38.
@@ -313,7 +313,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
    
 > - The coding of the new Xitun actinolepid is 0.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 1.
 
  39. In forms with a marginal – central plate contact, position of the juction of the marginal, paranuchal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 > Long 1987, Character 7, modified; Carr and Hlavin (2010), Character 95; Rücklin *et al*. (2015), Character 95; Zhu Y *et al*. (2016), Character 95; Jobbins *et al*. (2022, 2024), Character 95; Xue *et al*. (submitted), Character 39.
@@ -322,7 +322,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of the new Xitun actinolepid is 0.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 1.
 
  40. In forms without a marginal – central plate contact, position of the junction between the postorbital, paranuchal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 > Long 1987, Character 7, modified; Carr and Hlavin (2010), Character 96; Rücklin *et al*. (2015), Character 96; Zhu Y *et al*. (2016), Character 96; Jobbins *et al*. (2022, 2024), Character 96; Xue *et al*. (submitted), Character 40.
@@ -331,7 +331,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of the new Xitun actinolepid is -.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is -.
 
  41. Paired pits on the internal side of the nuchal plate separated by a median septum that is continuous with the median posterior process: absent (0); present (1).
 > Carr and Hlavin (2010), Character 97; Rücklin *et al*. (2015), Character 97; Zhu Y *et al*. (2016), Character 97; Jobbins *et al*. (2022, 2024), Character 97; Xue *et al*. (submitted), Character 41.
@@ -368,14 +368,18 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of the new Xitun actinolepid is 0.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 1.
 
  46. Lateral development of the supraorbital vault compared with the breadth of the skull roof at the level immediately behind the supraorbital vault: under developed, indicated by the ratio of the breadth of both sides of the lateral expansion of the supraorbital vaults/the breadth of the skull roof at the level immediately behind the supraorbital vault less than 0.3 (0); developed, indicated by the ratio of the breadth of the lateral expansion of the supraorbital vaults/the breadth of the skull oof larger than 0.3 (1).
 > Zhu Y *et al*. (2016), Character 102; Xue *et al*. (submitted), Character 46.
 
 > - This definition of the skull roof breadth is to make this character independent of Character 113 (Zhu Y et al. 2016).
 
+> - In those taxa without supraorbital vault, this character is scored as 'not applicable'.
+
 > - The coding of the new Xitun actinolepid is ?.
+
+> - The coding of *Panjiangosteus eurycephala* is ?.
 
  47. Development of the postorbital process of the postorbital plate: moderately developed (0); highly developed, defined as the postorbital process composing one-quarter of the orbit (1).
 > Zhu Y *et al*. (2016), Character 103; Xue *et al*. (submitted), Character 47.
@@ -384,7 +388,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of the new Xitun actinolepid is 0.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 0.
 
  48. Position of the anterior end of the endolymphatic duct on the visceral surface of the skull roof, indicating the neurocranial aperture of the endolymphatic duct: anteriorly positioned, defined as positioned anterior to the nuchal thickening (0); posteriorly positioned, on the nuchal thickening (1).
 > Zhu Y *et al*. (2016), Character 104; Xue *et al*. (submitted), Character 48.
@@ -398,7 +402,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of the new Xitun actinolepid is 0.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 0.
 
  50. Median ridge on the visceral surface of the nuchal plate, corresponding to the median depression on the occipital region of the neurocranium: absent (0); present (1).
 > Zhu Y *et al*. (2016), Character 106; Xue *et al*. (submitted), Character 50.
