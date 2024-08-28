@@ -82,7 +82,7 @@
 
 > - The coding of the new Xitun actinolepid is 1.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 1.
  
  11. Shape of the posterior nuchal border: straight (0); convex (1); concave (2).
 > Carr (1991), Character 11; Carr and Hlavin (2010), Character 11; Rücklin *et al*. (2015), Character 11; Zhu Y *et al*. (2016), Character 11; Jobbins *et al*. (2022, 2024), Character 11; Xue *et al*. (submitted), Character 11.
@@ -107,7 +107,7 @@
 
 > - The coding of the new Xitun actinolepid is 0.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 0.
 
  14. Paranuchal plate embayment of central plate: absent (0); shallow (1); developed (2).
 > Carr (1991), Character 14; Carr and Hlavin (2010), Character 14; Rücklin *et al*. (2015), Character 14; Zhu Y *et al*. (2016), Character 14; Jobbins *et al*. (2022, 2024), Characters 14; Xue *et al*. (submitted), Character 14.
@@ -171,16 +171,18 @@ The orginal definition from Carr (1991) is "Extent of median preorbital plate co
  21. Length of the central plate contact with the nuchal plate: short (0); long, measured as greater than one half the length from the nuchal anteromedian point to the posterolateral corner of the nuchal plate (1).
 > Carr (1991), Character 21; Carr and Hlavin (2010), Character 21; Rücklin *et al*. (2015), Character 21; Zhu Y *et al*. (2016), Character 21; Jobbins *et al*. (2022, 2024), Character 21; Xue *et al*. (submitted), Character 21.
 
+> - In those taxa that the nuchal plate seperates the central plates, this character is scored as 'not applicable'.
+
 > - The coding of the new Xitun actinolepid is 0.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is -.
 
  22. Width of the central plate at its contact with the pineal plate: central plate tapers anteriorly to contact (0); central plate expanded laterally to produce a transverse anterior border (1).
 > Carr (1991), Character 22; Carr and Hlavin (2010), Character 22; Rücklin *et al*. (2015), Character 22; Zhu Y *et al*. (2016), Character 22; Jobbins *et al*. (2022, 2024), Character 22; Xue *et al*. (submitted), Character 22.
 
 > - The coding of the new Xitun actinolepid is 0.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - **The coding of *Panjiangosteus eurycephala* is 0.**
 
  23. Marginal plate in contact with the central plate: absent (0); present (1).
 > Lelièvre (1988), Character 5; Johnson *et al*. (2000), Character 5; Carr (1991), Character 23, modified; Lelièvre (1991), character 18; Carr and Hlavin (2010), Character 23; Rücklin *et al*. (2015), Character 23; Zhu Y *et al*. (2016), Character 23; Dupret *et al*. (2009, 2017), Character 22; Jobbins *et al*. (2022, 2024), Character 23; Xue *et al*. (submitted), Character 23.
@@ -189,21 +191,21 @@ The orginal definition from Carr (1991) is "Extent of median preorbital plate co
 
 > - The coding of the new Xitun actinolepid is 1.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 1.
 
  24. Extent of marginal plate along the lateral border of the skull roof: less than half the length from the postorbital process to the posterolateral corner of the skull roof (0); greater than half the length (1).
 > Carr (1991), Character 24; Carr and Hlavin (2010), Character 24; Rücklin *et al*. (2015), Character 24; Zhu Y *et al*. (2016), Character 24; Jobbins *et al*. (2022, 2024), Character 24; Xue *et al*. (submitted), Character 24.
 
 > - The coding of the new Xitun actinolepid is 0.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 0.
 
  25. Marginal plate forms part of orbit border: absent (0); present (1).
 > Dennis and Miles (1979b), Character 26; Carr (1991), Character 25; Carr and Hlavin (2010), Character 25; Rücklin *et al*. (2015), Character 25; Zhu Y *et al*. (2016), Character 25; Jobbins *et al*. (2022, 2024), Character 25; Xue *et al*. (submitted), Character 25.
 
 > - The coding of the new Xitun actinolepid is 0.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 0.
 
  26. Postnasal plate forms part of the orbit border: absent (0); present (1).
 > Dennis and Miles (1979b), Character 1; Carr (1991), Character 26; Lelièvre (1995), character 22, modified; Carr and Hlavin (2010), Character 26; Rücklin *et al*. (2015), Character 26; Zhu Y *et al*. (2016), Character 26; Jobbins *et al*. (2022, 2024), Character 26; Xue *et al*. (submitted), Character 26.
@@ -233,6 +235,10 @@ The orginal definition from Carr (1991) is "Extent of median preorbital plate co
 > - Carr and Hlavin (2010): "Gardiner & Miles (1994) pointed out correctly that, in their analysis, only *Homostius* possesses this
 feature. *Buchanosteus confertituberculatus*, previously considered to have this feature by Carr (1991), is noted here to lack this character state (see also Lelièvre, 1984b). Although representing an autapomorphy of *Homostius* in the present study, this feature is potentially useful in considering other homostiids, e.g. *Tityosteus* Gross,1960 (Lelièvre, 1988, fig. 4A; refer to Denison 1978, fig. 51)."
 
+> - In those taxa that the paranuchal plate is elongated, but the paranuchal plate is nomral, this character is scored as 'absent'.
+
+> - In *Baringaspis dineleyi*, antarctaspids, and wuttagoonaspids, the nuchal plate is elongated and separates central plates, but the paranuchal plate is normal. **add the character: Nuchal plate elongate and separates the central plate: absent (0); present (1).**
+
 > - The coding of the new Xitun actinolepid is 0.
 
 > - The coding of *Panjiangosteus eurycephala* is 0.
@@ -244,7 +250,7 @@ feature. *Buchanosteus confertituberculatus*, previously considered to have this
 
 > - The coding of the new Xitun actinolepid is 1.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 0.
 
  31. Position of the central/paranuchal/marginal or postorbital triple point (plate junction) relative to the paranuchal/central/nuchal triple point: C/PNu/M or PtO triple point anterior to PNu/ C/Nu (0); posterior to PNu/C/Nu (1).
 > Carr (1991), Character 31, modified; Carr and Hlavin (2010), Character 31; Rücklin *et al*. (2015), Character 31; Zhu Y *et al*. (2016), Character 31; Jobbins *et al*. (2022, 2024), Character 31; Xue *et al*. (submitted), Character 31.
@@ -254,30 +260,34 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of the new Xitun actinolepid is 0.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 0.
 
  32. Position of preorbital/postorbital/central triple point relative to posterior triple point (PtO/M/C or PtO/PNu/C): parallels the midline or with the anterior point lateral (0); posterior point lateral to anterior point (1).
 > Carr (1991), Character 32;  Lelièvre (1991), character 12, modified; Carr and Hlavin (2010), Character 32; Rücklin *et al*. (2015), Character 32; Zhu Y *et al*. (2016), Character 32; Jobbins *et al*. (2022, 2024), Character 32; Xue *et al*. (submitted), Character 32.
+
+> - In those taxa that the central plate is not contacted with the preorbital plate, this character is scored as 'not applicable'. 
 
 > - Lelièvre (1991) suggested that the definition of the character 32 of Carr (1991) is complex. The simply definition is Paranuchal plate process onto the central plate determing a lateral lobe: absent (0); present (1).
 
 > - The coding of the new Xitun actinolepid is 1.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is -.
 
  33. Position of the PrO/PtO/C triple point relative to the orbit: posterior to orbit (0); over the orbit (1).
 > Carr (1991), Character 33; Carr and Hlavin (2010), Character 33; Rücklin *et al*. (2015), Character 33; Zhu Y *et al*. (2016), Character 33; Jobbins *et al*. (2022, 2024), Character 33; Xue *et al*. (submitted), Character 33.
 
+> - In those taxa that the central plate is not contacted with the preorbital plate, this character is scored as 'not applicable'.
+
 > - The coding of the new Xitun actinolepid is 0.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is -.
 
  34. Postorbital dermal process; negligible or absent (0); present (1).
 > Carr (1991), Character 34; Lelièvre (1995), character 21, modified; Carr and Hlavin (2010), Character 34; Rücklin *et al*. (2015), Character 34; Zhu Y *et al*. (2016), Character 34; Jobbins *et al*. (2022, 2024), Character 34; Xue *et al*. (submitted), Character 34.
 
 > - The coding of the new Xitun actinolepid is 1.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 0.
 
  35. Skull roof and thoracic armour articulation: articulation medial (0); articulation laterally displaced (1). 
 >  Goujet (1984); Carr and Hlavin (2010), Character 90; Rücklin *et al*. (2015), Character 90; Zhu Y *et al*. (2016), Character 90; Dupret *et al*. (2009, 2017), Character 41; Jobbins *et al*. (2022, 2024), Character 90; Xue *et al*. (submitted), Character 35.
