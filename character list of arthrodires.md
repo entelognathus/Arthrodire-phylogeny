@@ -64,6 +64,8 @@
  8. Position of anterior edge of pineal plate: over orbit (0); anterior to orbit (1).
 > Carr (1991), Character 8; Lelièvre (1995), character 5, modified; Carr and Hlavin (2010), Character 8; Rücklin *et al*. (2015), Character 8; Zhu Y *et al*. (2016), Character 8; Jobbins *et al*. (2022, 2024), Character 8; Xue *et al*. (submitted), Character 8.
 
+> - In those taxa that the rostral plate fused with the pineal plate, this character is scored as 'not applicable'.
+
 > - The coding of the new Xitun actinolepid is 1.
  
 > - The coding of *Panjiangosteus eurycephala* is 1.
