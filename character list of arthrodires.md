@@ -424,39 +424,41 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  51. Position of the paired nuchal pits: anteriorly positioned, defined by position anterior to or on the transverse nuchal thickening (0); posteriorly positioned, defined by position posterior to the transverse nuchal thickening (1).
 > Zhu Y *et al*. (2016), Character 107; Xue *et al*. (submitted), Character 51.
 
+> - This character is contingent on Character 41.
+
 > - The coding of the new Xitun actinolepid is 1.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  52. Position of the skull roof and thoracic armour articulation: not close to posterolateral corner of the skull roof (0); close to posterolateral corner of the skull roof (1).
 > Zhu Y *et al*. (2016), Character 108; Xue *et al*. (submitted), Character 52.
->
+
 > - This character is contingent on the state 1 of Character 35.
 
 > - The coding of the new Xitun actinolepid is ?.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 0.
 
  53. Skull roof fenestra: absent (0); present (1).
 > Zhu Y *et al*. (2016), Character 109; Xue *et al*. (submitted), Character 53.
 
 > - The coding of the new Xitun actinolepid is 0.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 0.
 
  54. Rostral, pineal, or rostropineal plates: absent (0); present (1).
 > Dupret *et al*. (2009), Character 5; Dupret *et al*. (2017), Character 5; Zhu *et al*. (2010), Character 5; Xue *et al*. (submitted), Character 54.
 
 > - The coding of the new Xitun actinolepid is 1.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 1.
 
  55. Position of pineal plate: further anteriorly from orbits (0); same level as orbits (1).
 > Dupret *et al*. (2009), Character 6; Dupret *et al*. (2017), Character 6; Zhu *et al*. (2010), Character 6; Xue *et al*. (submitted), Character 55.
 
 > - The coding of the new Xitun actinolepid is 1.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 1.
 
  56. Preorbital plates show an embayment for insertion of pineal or rostropineal plate: no, or very shallow (0); yes, very deep (1).
 > Johnson *et al*. (2000), Character 1; Dupret *et al*. (2009), Character 9; Dupret *et al*. (2017), Character 9; Zhu *et al*. (2010), Character 9; Xue *et al*. (submitted), Character 56.
@@ -465,14 +467,14 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  
 > - The coding of the new Xitun actinolepid is 1.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 1.
 
  57. Pineal or rostropineal plate fused to skull roof: no fusion (0); fusion (1).
 > Johnson *et al*. (2000), Character 2; Dupret *et al*. (2009), Character 10; Dupret *et al*. (2017), Character 10; Zhu *et al*. (2010), Character 10; Xue *et al*. (submitted), Character 57.
 
 > - The coding of the new Xitun actinolepid is 1.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 1.
 
  58. Postnasal plates fused or not to preorbital plates: fusion (0); no fusion (1).
 > Johnson *et al*. (2000), Character 4; Dupret *et al*. (2009), Character 11; Dupret *et al*. (2017), Character 11; Zhu *et al*. (2010), Character 11; Xue *et al*. (submitted), Character 58.
@@ -488,77 +490,79 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of the new Xitun actinolepid is 1.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 1.
 
  60. Preorbital plates: separate (0); fused (1).
 > Johnson *et al*. (2000), Character 3; Dupret *et al*. (2009), Character 13; Dupret *et al*. (2017), Character 13; Zhu *et al*. (2010), Character 13; Xue *et al*. (submitted), Character 60.
 
 > - The coding of the new Xitun actinolepid is 1.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 0.
 
  61. Central plates: fused into ‘centronuchal’ plate (0); individulized paired elements (1).
 > Dupret *et al*. (2009), Character 17; Dupret *et al*. (2017), Character 17; Zhu *et al*. (2010), Character 17; Xue *et al*. (submitted), Character 61.
 
 > - The coding of the new Xitun actinolepid is 1.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 1.
 
  62. Midline contact between paired central plates: straight (0); sinuous (1).
 > Dupret *et al*. (2009), Character 18; Dupret *et al*. (2017), Character 18; Zhu *et al*. (2010), Character 18; Xue *et al*. (submitted), Character 62.
 
+> - In those taxa that the central plates are separated by nuchal plate, this character is scored as 'not applicable'.
+
 > - The coding of the new Xitun actinolepid is 0.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is -.
 
  63. Contact between pineal (or rostropineal) and central plates: absent (0); present (1).
 > Dupret *et al*. (2009), Character 19; Dupret *et al*. (2017), Character 19; Zhu *et al*. (2010), Character 19; Xue *et al*. (submitted), Character 63.
 
 > - The coding of the new Xitun actinolepid is 0.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 0.
 
  64. Contact between central and preorbital plates: present (0); absent (1).
 > Johnson *et al*. (2000), Character 20; Dupret *et al*. (2009), Character 21; Dupret *et al*. (2017), Character 21; Zhu *et al*. (2010), Character 21; Xue *et al*. (submitted), Character 64.
 
 > - The coding of the new Xitun actinolepid is 0.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 0.
 
  65. Nuchal plate: absent (0); present (1).
 > Dupret *et al*. (2009), Character 24; Dupret *et al*. (2017), Character 24; Zhu *et al*. (2010), Character 24; Xue *et al*. (submitted), Character 65.
 
 > - The coding of the new Xitun actinolepid is 1.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 1.
 
  66. Nuchal plate separating central plates: no (0); yes (1).
 > Johnson *et al*. (2000), Character 6; Dupret *et al*. (2009), Character 25; Dupret *et al*. (2017), Character 25; Zhu *et al*. (2010), Character 25; Xue *et al*. (submitted), Character 66.
 
 > - The coding of the new Xitun actinolepid is 0.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 1.
 
  67. Contact between orbits and central plates: absent (0); present (1).
 > Dupret *et al*. (2009), Character 26; Dupret *et al*. (2017), Character 26; Zhu *et al*. (2010), Character 26; Xue *et al*. (submitted), Character 67.
 
 > - The coding of the new Xitun actinolepid is 0.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 0.
 
  68. Number of paranuchal plates: one pair (0); two pairs (1).
 > Dupret *et al*. (2009), Character 35; Dupret *et al*. (2017), Character 35; Zhu *et al*. (2010), Character 35; Xue *et al*. (submitted), Character 68.
 
 > - The coding of the new Xitun actinolepid is 0.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 0.
 
  69. Posterolateral edge of paranuchal plates: convex (0); concave (1).
 > Dupret *et al*. (2009), Character 37; Dupret *et al*. (2017), Character 37; Zhu *et al*. (2010), Character 37; Xue *et al*. (submitted), Character 69.
 
 > - The coding of the new Xitun actinolepid is 0.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 0.
 
  70. Position of external foramen for endolymphatic duct: very forwardly positioned from posterior edge of paranuchal plate, or on anterior paranuchal plate for Petalichthyida (0); near the posterior edge of paranuchal plate (1).
 > Dupret *et al*. (2009), Character 39; Dupret *et al*. (2017), Character 39; Zhu *et al*. (2010), Character 39; Xue *et al*. (submitted), Character 70.
