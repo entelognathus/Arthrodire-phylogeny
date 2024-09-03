@@ -180,6 +180,8 @@ The orginal definition from Carr (1991) is "Extent of median preorbital plate co
  22. Width of the central plate at its contact with the pineal plate: central plate tapers anteriorly to contact (0); central plate expanded laterally to produce a transverse anterior border (1).
 > Carr (1991), Character 22; Carr and Hlavin (2010), Character 22; Rücklin *et al*. (2015), Character 22; Zhu Y *et al*. (2016), Character 22; Jobbins *et al*. (2022, 2024), Character 22; Xue *et al*. (submitted), Character 22.
 
+> - This character is determined by the anterterior margin of central plate, although the central plate is not contacted with pineal plate. 
+
 > - The coding of the new Xitun actinolepid is 0.
 
 > - **The coding of *Panjiangosteus eurycephala* is 0.**
