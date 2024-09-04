@@ -1167,6 +1167,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  152. Postorbital sensory line groove on suborbital plate: absent (0); present (1).
 > Lelièvre (1988), Character 1; Carr (1991), Character 81; Carr and Hlavin (2010), Character 81; Rücklin *et al*. (2015), Character 81; Zhu Y *et al*. (2016), Character 81; Jobbins *et al*. (2022), Character 81; Xue *et al*. (submitted), Character 152.
 
+> - **postsuborbital sensory line groove? check original definition**
+
 > - The coding of the new Xitun actinolepid is ?.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
