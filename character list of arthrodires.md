@@ -107,6 +107,8 @@
 
 > Dupret *et al*. (2009, 2017)：Indentation of posterior edge of preorbital plates on anterior edge of central plates: absent (0); present (1).
 
+> In those taxa that the preorbital plate is not contacted with the central plate, this character is scored as 'not applicable'.
+
 > - The coding of the new Xitun actinolepid is 0.
 
 > - The coding of *Panjiangosteus eurycephala* is 0.
@@ -136,6 +138,8 @@
 
  17. Preorbital plate with a dermal preorbital lamina or process: absent (0); present (1).
 > Dennis and Miles (1979b), Character 19; Young (1981), Character 19; Carr (1991), Character 17; Lelièvre (1995), character 20; Carr and Hlavin (2010), Character 17; Rücklin *et al*. (2015), Character 17; Zhu Y *et al*. (2016), Character 17; Jobbins *et al*. (2022, 2024), Character 17; Xue *et al*. (submitted), Character 17.
+
+> - In those taxa that the preorbital do not form the orbital margin, this character is scored as 'not applicable'.
 
 > - The coding of the new Xitun actinolepid is ?.
 
