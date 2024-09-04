@@ -676,41 +676,58 @@
 ## Arthrodire taxa not used in the analysis
 ### To be added from Jobbins et al., 2024
 [*Alienacanthus malkowskii*](https://deepbone.cn/public/#/explor?s_id=172100&functionId=Deepbone_header_searchResultOpen) Jobbins et al., 2024
-> Middle Famennian, 372.2, 363.3
+> middle Famennian, 367.7, 363.3
 
 > - Maider Basin, Morocco
 > - [Jobbins et al., 2024](https://royalsocietypublishing.org/doi/full/10.1098/rsos.231747).
 
 [*Amazichthys_trinajsticae*](https://deepbone.cn/public/#/explor?s_id=169304&functionId=Deepbone_header_searchResultOpen) Jobbins et al., 2022
-> Middle Famennian, 372.2, 363.3
+> middle Famennian, 367.7, 363.3
 
 > - Jebel Ouaoufilal, Morocco
 > - [Jobbins et al., 2022](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2022.969158/full)
-> -
+
+[*Draconichthys elegans*](https://deepbone.cn/public/#/explor?s_id=3833&functionId=Deepbone_header_searchResultOpen)
+> upper Frasnian, 375.7, 372.2
+
+> - Tafilalt Basin, Morocco.
+> - [Rücklin, 2011](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2010.01026.x).
+
 [*Driscollaspis pankowskiorum*](https://deepbone.cn/public/#/explor?s_id=3841&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, XXX (maximum age), YYY (minimum age)
+> Frasnian, 382.7, 372.2
 
 > - Kellwasser horizon in the eastern Anti-Atlas, Morocco
 > - [Rücklin *et al*., 2015](https://www.tandfonline.com/doi/abs/10.1080/02724634.2014.908896)
->
-[*Enseosteus*]()
-> [geological range], XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
-> - [references]
->
-[*Selenosteus*]() 
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Enseosteus marocanensis*](https://deepbone.cn/public/#/explor?s_id=3834&functionId=Deepbone_header_searchResultOpen)
+> upper Frasnian, 375.7, 372.2
 
-> - [horizon and locality]
-> - [references]
->
-[*Walterosteus*]()
-> [geological range], XXX (maximum age), YYY (minimum age)
+> - Tafilalt Basin, Morocco.
+> - [Rücklin, 2011](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2010.01026.x).
 
-> - [horizon and locality]
-> - [references]
->
+[*Selenosteus brevis*](https://deepbone.cn/public/#/explor?s_id=3576&functionId=Deepbone_header_searchResultOpen) 
+> upper Famennian, 363.3, 358.9
+
+> - Ohio Shale Formation, Ohio, U.S.A.
+> - [Denison, 1978].
+
+[*Walterosteus pachyosteides*](https://deepbone.cn/public/#/explor?s_id=172137&functionId=Deepbone_header_searchResultOpen)
+> upper Frasnian, 375.7, 372.2
+
+> - Kellwasserkalk Formation, Bad Wildungen Hessen, Germany.
+> - [Rücklin, 2011](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2010.01026.x).
+
+[*Walterosteus grossi*](https://deepbone.cn/public/#/explor?s_id=3837&functionId=Deepbone_header_searchResultOpen)
+> upper Frasnian, 375.7, 372.2
+
+> - Kellwasserkalk Formation, Bad Wildungen Hessen, Germany.
+> - [Rücklin, 2011](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2010.01026.x).
+
+[*Walterosteus lelievrei*](https://deepbone.cn/public/#/explor?s_id=3838&functionId=Deepbone_header_searchResultOpen)
+> upper Frasnian, 375.7, 372.2
+
+> - Tafilalt Basin, Morocco.
+> - [Rücklin, 2011](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2010.01026.x).
 
 ### To be added from Dupret et al., 2017
 [*Actinolepis spinosa*](https://deepbone.cn/public/#/explor?s_id=2465&functionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1985
@@ -1021,6 +1038,8 @@
 
 > - South China
 > - [Liu, 1973](http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200905/t20090512_2386681.html)
+
+
 
 
 ## References
