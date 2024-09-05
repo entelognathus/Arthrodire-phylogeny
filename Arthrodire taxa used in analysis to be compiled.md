@@ -778,11 +778,11 @@
 > - East Groenland and Scotland
 > - [Stensio, 1934](https://search.worldcat.org/zh-cn/title/on-the-placodermi-of-the-upper-devonian-of-east-greenland-1-phyllolepida-and-arthrodira/oclc/491732290)
 
-[*Proaethaspis ohioensis*](https://deepbone.org/public/#/explor?s_id=2477&functionId=Deepbone_header_searchResultOpen) Denison, 1960
+[*Proaethaspis ohioensis*](https://deepbone.org/public/#/explor?s_id=2477&functionId=Deepbone_header_searchResultOpen) (Denison, 1960)
 > Pragian, 410.8, 407.6
 
 > - Ohio, USA
-> - [Denison, 1978](https://www.semanticscholar.org/paper/Handbook-of-Paleoichthyology%2C-2.-Placodermi%3A-R.-128-Miller/7980f3e95c79279cc1feba3bc9086fcebf3d73f1)
+> - [Denison, 1960](https://agris.fao.org/search/en/providers/122376/records/647472da2d5d435c424edfb4); [Denison, 1978](https://www.semanticscholar.org/paper/Handbook-of-Paleoichthyology%2C-2.-Placodermi%3A-R.-128-Miller/7980f3e95c79279cc1feba3bc9086fcebf3d73f1)
 
 [*Sigaspis lepidophora*](https://deepbone.org/public/#/explor?s_id=2483&functionId=Deepbone_header_searchResultOpen) Goujet, 1973
 > Lower Pragian, 410.8, 409.2
