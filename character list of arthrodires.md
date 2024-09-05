@@ -464,6 +464,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  55. Position of pineal plate: further anteriorly from orbits (0); same level as orbits (1).
 > Dupret *et al*. (2009), Character 6; Dupret *et al*. (2017), Character 6; Zhu *et al*. (2010), Character 6; Xue *et al*. (submitted), Character 55.
 
+> - In those taxa that the pineal plate is fused with rostral plate, this character revises to Position of pineal plate. 
+
 > - The coding of the new Xitun actinolepid is 1.
 
 > - The coding of *Panjiangosteus eurycephala* is 1.
