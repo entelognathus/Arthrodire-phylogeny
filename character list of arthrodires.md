@@ -41,7 +41,7 @@
  5. Posterior development of rostral plate: not developed (0); subtriangular (1); T-shaped (2).
 > Carr (1991), Character 5; Lelièvre (1995), character 4, modified; Carr and Hlavin (2010), Character 5; Rücklin *et al*. (2015), Character 5; Zhu Y *et al*. (2016), Character 5; Jobbins *et al*. (2022, 2024), Character 5; Xue *et al*. (submitted), Character 5.
 
-> In those taxa that the rostral plate fused with the pineal plate, this character is scored as 'not applicable'.
+> - In those taxa that the rostral plate fused with the pineal plate or the rosrtal plate is absent, this character is scored as 'not applicable'.**Phyllolepid**
 
 > - The coding of the new Xitun actinolepid is 0.
 
@@ -50,12 +50,16 @@
  6. Anterior elongation of the rostrum: absent (0); present (1).
 > Long (1988), Characters 4, 12, and 16; Carr (1991), Character 6; Carr and Hlavin (2010), Character 6; Rücklin *et al*.  (2015), Character 6; Zhu Y *et al*. (2016), Character 6; Jobbins *et al*. (2022, 2024), Character 6; Xue *et al*. (submitted), Character 6.
 
+> - In those taxa that the rostral plate is absent, this character is scored as 'not applicable'.**Phyllolepid**
+
 > - The coding of the new Xitun actinolepid is 0.
 
 > - The coding of *Panjiangosteus eurycephala* is 0.
 
  7. Ventrally enclosed tubular rostrum: absent (0); present (1).
 > Carr (1991), Character 7; Lelièvre (1995), character 3, modified; Carr and Hlavin (2010), Character 7; Rücklin *et al*. (2015), Character 7; Zhu Y *et al*. (2016), Character 7; Jobbins *et al*. (2022, 2024), Character 7; Xue *et al*. (submitted), Character 7.
+
+> - In those taxa that the rostral plate is absent, this character is scored as 'not applicable'. **Phyllolepid**
 
 > - The coding of the new Xitun actinolepid is -.
 
