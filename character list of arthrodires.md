@@ -331,6 +331,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  38. In forms with a marginal - central plate contact, position of the junction of the postorbital, marginal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 > Long (1987), Character 7, modified; Carr and Hlavin (2010), Character 94; Rücklin *et al*. (2015), Character 94; Zhu Y *et al*. (2016), Character 94; Jobbins *et al*. (2022, 2024), Character 94; Xue *et al*. (submitted), Character 38.
 
+> In those taxa that the nuchal plate is absent, this character is scored as 'not applicable'. **Phyllolepid**  
+
 > - This character is contingent on Character 23.
    
 > - The coding of the new Xitun actinolepid is 0.
@@ -339,6 +341,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
  39. In forms with a marginal – central plate contact, position of the juction of the marginal, paranuchal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 > Long 1987, Character 7, modified; Carr and Hlavin (2010), Character 95; Rücklin *et al*. (2015), Character 95; Zhu Y *et al*. (2016), Character 95; Jobbins *et al*. (2022, 2024), Character 95; Xue *et al*. (submitted), Character 39.
+
+> In those taxa that the nuchal plate is absent, this character is scored as 'not applicable'. **Phyllolepid**
 
 > - This character is contingent on Character 23.
 
@@ -349,6 +353,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  40. In forms without a marginal – central plate contact, position of the junction between the postorbital, paranuchal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 > Long 1987, Character 7, modified; Carr and Hlavin (2010), Character 96; Rücklin *et al*. (2015), Character 96; Zhu Y *et al*. (2016), Character 96; Jobbins *et al*. (2022, 2024), Character 96; Xue *et al*. (submitted), Character 40.
 
+> In those taxa that the nuchal plate is absent, this character is scored as 'not applicable'. **Phyllolepid**
+
 > - This character is contingent on Character 23.
 
 > - The coding of the new Xitun actinolepid is -.
@@ -357,6 +363,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
  41. Paired pits on the internal side of the nuchal plate separated by a median septum that is continuous with the median posterior process: absent (0); present (1).
 > Carr and Hlavin (2010), Character 97; Rücklin *et al*. (2015), Character 97; Zhu Y *et al*. (2016), Character 97; Jobbins *et al*. (2022, 2024), Character 97; Xue *et al*. (submitted), Character 41.
+
+> In those taxa that the nuchal plate is absent, this character is scored as 'not applicable'. **Phyllolepid**
 
 > - The coding of the new Xitun actinolepid is ?.
 
