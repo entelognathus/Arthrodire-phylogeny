@@ -674,6 +674,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  84. Posterior lateral plate and posterior dorsolateral plate overlap: simple overlap (0); insertion (1).
 >  Vézina (1988); Carr (1991), Character 42; Carr and Hlavin (2010), Character 42; Rücklin *et al*. (2015), Character 42; Zhu Y *et al*. (2016), Character 42; Jobbins *et al*. (2022, 2024), Character 42； Xue *et al*. (submitted), Character 84.
 
+> In those taxa that the posterior lateral plate or posterior dorsolateral plate is absent, this character is scored as 'not applicable'.
+
 > - The coding of the new Xitun actinolepid is ?.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
@@ -681,12 +683,16 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  85. Posterior lateral plate forms part of closed pectoral fenestra: absent (0); present (1).
 > Carr (1991), Character 43; Carr and Hlavin (2010), Character 43; Rücklin *et al*. (2015), Character 43; Zhu Y *et al*. (2016), Character 43; Jobbins *et al*. (2022, 2024), Character 43； Xue *et al*. (submitted), Character 85.
 
+> In those taxa that the posterior lateral plate is absent, this character is scored as 'not applicable'.
+
 > - The coding of the new Xitun actinolepid is ?.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  86. Ventral lamina of the posterior lateral plate: absent (0); present (1).
 > Gardiner & Miles (1990), Character 22.13; Carr (1991), Character ; Carr and Hlavin (2010), Character 44; Rücklin *et al*. (2015), Character 44; Zhu Y *et al*. (2016), Character 44; Jobbins *et al*. (2022, 2024), Character 44； Xue *et al*. (submitted), Character 86.
+
+> In those taxa that the posterior lateral plate is absent, this character is scored as 'not applicable'.
 
 > - The coding of the new Xitun actinolepid is ?.
 
