@@ -769,8 +769,8 @@
 [*Pageauaspis russelli*](https://deepbone.org/public/#/top-search-list?keyword=Pageauaspis%20russelli) Pageau, 1969
 > Emsian, 407.6, 393.3
 
-> - [horizon and locality]
-> - [Denison, 1978](https://www.abebooks.co.uk/9783437302657/Placodermi-Handbook-Paleoichthyology-Vol-2-3437302655/plp?cm_sp=plped-_-1-_-image)
+> - Battery Point formation, Quebec, Canada.
+> - [Denison, 1978](https://www.abebooks.co.uk/9783437302657/Placodermi-Handbook-Paleoichthyology-Vol-2-3437302655/plp?cm_sp=plped-_-1-_-image)[Pageau, 1969]
 
 [*Phyllolepis orvini*](https://deepbone.org/public/#/explor?s_id=2287&functionId=Deepbone_header_searchResultOpen) Heintz, 1930
 > Famennian, 372.7, 358.9
