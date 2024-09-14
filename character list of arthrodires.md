@@ -1476,6 +1476,11 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > check state definition. an error exists in Dupret et al. (2017).
 
 
+
+
+
+Supraorbital sensory lines extend to the nuchal plate: present (0); absent (1). 
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
