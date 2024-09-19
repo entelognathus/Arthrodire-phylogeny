@@ -750,6 +750,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  94. Posterior development of the posterior carinal process of the keel on the visceral surface of the median dorsal plate: posteriorly developed, beyond the posterior margin of the median dorsal plate in dorsal view (0); not posteriorly developed, not beyond the posterior margin of the median dorsal plate in dorsal view (1).
 > Zhu Y *et al*. (2016), Character 115; Xue *et al*. (submitted), Character 94.
 
+> In those taxa that the posterior carinal process is absent, this character is scored as 'not applicable'.
+
 > - The coding of the new Xitun actinolepid is ?.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
