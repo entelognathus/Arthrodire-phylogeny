@@ -318,7 +318,7 @@
 > Upper Lochkovian to Lower Pragian, 415.0, 410.8
 
 > -  Ivanye, Ustechko, and Khmeleva Formation, Podolia, Ukraine.
-> - [Dupret, 2007](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2007)27%5B266:ANGOPA%5D2.0.CO;2).
+> - [Dupret *et al*., 2007](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2007)27%5B266:ANGOPA%5D2.0.CO;2).
 
 [*Eskimaspis heintzi*](https://deepbone.cn/public/#/explor?s_id=154182&functionId=Deepbone_header_searchResultOpen) Dineley and Liu 1984
 > upper Lochkovian, 415.0, 410.8
