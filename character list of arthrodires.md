@@ -249,8 +249,6 @@ feature. *Buchanosteus confertituberculatus*, previously considered to have this
 
 > - In those taxa that the paranuchal plate is elongated, but the paranuchal plate is nomral, this character is scored as 'absent'.
 
-> - In *Baringaspis dineleyi*, antarctaspids, and wuttagoonaspids, the nuchal plate is elongated and separates central plates, but the paranuchal plate is normal. **add the character: Nuchal plate elongate and separates the central plate: absent (0); present (1).**
-
 > - The coding of the new Xitun actinolepid is 0.
 
 > - The coding of *Panjiangosteus eurycephala* is 0.
