@@ -1456,6 +1456,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 199. Ventral sensory canal on the anterior ventrolateral plate: absent (0), present (1).
 
+Extrascapular: one (0); two (1).
+
 **Contact between anterior lateral and anterior ventrolateral plates behind pectoral fenestra: no (0); yes (1).**
 > Dupret *et al*. (2009, 2017), Character 51.
 
