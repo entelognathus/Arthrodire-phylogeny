@@ -1476,6 +1476,35 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > check state definition. an error exists in Dupret et al. (2017).
 
 
+
+Transversely divided pineal plate forming anterior and posterior plates: Absent (0) Present (1). 
+> Fitzpatrick *et al*. (2024), character 123.
+
+Cutaneous sensory pits present on the suborbital or/and post suborbital plates: Absent (0) Present (1).
+> King, Hu & Long, 2016, Fitzpatrick *et al*. (2024), character 124.
+
+Dermal contact between the anterior dorsolateral and posterior lateral plates: Absent (0) Present (1). 
+> Fitzpatrick *et al*. (2024), character 125.
+
+Inverted V-shaped flexure of the posterior dorsolateral plate sensory canal. Scored not applicable in taxa without a PDL flexuresensory canal: No flexure (0) Weak flexure, >110° (1) Strong flexure, <110° (2).  
+> Fitzpatrick *et al*. (2024), character 126. Long (1995).
+
+Dorsolateral ridge originating from near the condyle of the anterior dorsolateral plate: Absent (0) Present (1). 
+> Fitzpatrick *et al*. (2024), character 127. Long (1995).
+
+Medial contact of the dorsolateral plates under the median dorsal plate: No contact (0) anterior dorsolateral plates (1) anterior and posterior dorsolateral plates (2).
+> Fitzpatrick *et al*. (2024), character 128. Goujet(1984).
+
+Internal annular thickening of the posterior trunk plates (‘b.cpd’, Goujet 1984, fig. 61B): Absent (0) Present (1).  
+> Fitzpatrick *et al*. (2024), character 129. Goujet(1984).
+
+Ventral sensory canals: Absent (0) Present (1).
+> Fitzpatrick *et al*. (2024), character 131.
+
+Distinct infraspinal lamina/process (‘pr.infsp’, Miles & Westoll 1968, fig. 40C; ‘la.spv’, Goujet 1984, fig. 66A) of the anterior ventrolateral plate: Absent (0) Present (1).
+> Fitzpatrick *et al*. (2024), character 132.
+
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
