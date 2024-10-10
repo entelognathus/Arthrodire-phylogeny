@@ -332,6 +332,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  37. Length ratio r2 representing the extension of the anterior portion of the skull roof: r2 < 0.3 (0); 0.3 =< r2 =< 0.5 (1); r2 > 0.5 (2).
 > Zhu Y *et al*. (2016), Character 93; Xue *et al*. (submitted), Character 37.
 
+> In those taxa lacking the pineal plate, this character is scored as 'not applicable'. **Phyllolepid**
+
 > - This ratio (r2 = d/b) is measured as the ratio of the pineal foramen–anterior sensory line junction (d) divided by the anterior sensory line junction–fossa distance (b).
 
 > - The coding of the new Xitun actinolepid is 0.
