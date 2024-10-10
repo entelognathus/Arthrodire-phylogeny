@@ -173,7 +173,7 @@
 
 > - In those taxa that the preorbital plates are seperated, this character is scored as 'not applicable'.
 
-> - The orginal definition of this character in Carr (1991) is "Extent of median preorbital plate contact: short (0); long, measured as the (ratio of contact length)/(PrO parasagittal length) (1)." However, there was no value to define two states. Here, we complement it as "short (0); long, measured as the ratio of (contact length)/ (PrO parasagittal length) > 0.5 (1)"
+> - The orginal definition of this character in Carr (1991) is "Extent of median preorbital plate contact: short (0); long, measured as the (ratio of contact length)/(PrO parasagittal length) (1)." However, there was no value to define these two states. Here, we complement it as "short (0); long, measured as the ratio of (contact length)/ (PrO parasagittal length) > 0.5 (1)"
 
 > - The coding of the new Xitun actinolepid is 1.
 
@@ -189,7 +189,7 @@
  21. Length of the central plate contact with the nuchal plate: short (0); long, measured as greater than one half the length from the nuchal anteromedian point to the posterolateral corner of the nuchal plate (1).
 > Carr (1991), Character 21; Carr and Hlavin (2010), Character 21; Rücklin *et al*. (2015), Character 21; Zhu Y *et al*. (2016), Character 21; Jobbins *et al*. (2022, 2024), Character 21; Xue *et al*. (submitted), Character 21.
 
-> In those taxa that the nuchal plate seperates the central plates or the nuchal plate is absent **Phyllolepid**, this character is scored as 'not applicable'.
+> - In those taxa that the nuchal plate seperates the central plates or the nuchal plate is absent, this character is scored as 'not applicable'. **Phyllolepid**
 
 > - The coding of the new Xitun actinolepid is 0.
 
@@ -241,10 +241,11 @@
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
- 28. Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes)/ (distance between pineal and paired condyles): small (0); intermediate (1); large (2).
+ 28. **Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes)/ (distance between pineal and paired condyles): small (0); intermediate (1); large (2).**
 > Carr (1991), Character 28; Carr and Hlavin (2010), Character 28; Rücklin *et al*. (2015), Character 28; Zhu Y *et al*. (2016), Character 28; Jobbins *et al*. (2022, 2024), Character 28; Xue *et al*. (submitted), Character 28.
 
-> **check original definition**
+>  - The orginal definition of this character in Carr (1991) is " Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes)/ (distance between pineal and paired condyles): small (0); intermediate (1); large (2)." However, there was no value to define these three states. 
+
 > - The coding of the new Xitun actinolepid is ?.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
@@ -255,7 +256,7 @@
 > - Carr and Hlavin (2010): "Gardiner & Miles (1994) pointed out correctly that, in their analysis, only *Homostius* possesses this
 feature. *Buchanosteus confertituberculatus*, previously considered to have this feature by Carr (1991), is noted here to lack this character state (see also Lelièvre, 1984b). Although representing an autapomorphy of *Homostius* in the present study, this feature is potentially useful in considering other homostiids, e.g. *Tityosteus* Gross,1960 (Lelièvre, 1988, fig. 4A; refer to Denison 1978, fig. 51)."
 
-> - In those taxa that the paranuchal plate is elongated but the paranuchal plate is nomral or the nuchal plate is absent **Phyllolepid**, this character is scored as 'absent'.
+> - In those taxa that the paranuchal plate is elongated but the paranuchal plate is nomral or the nuchal plate is absent, this character is scored as 'absent'. **Phyllolepid**
 
 > - In *Baringaspis dineleyi*, antarctaspids, and wuttagoonaspids, the nuchal plate is elongated and separates central plates, but the paranuchal plate is normal. **revised the character: The occipital dermal plate elongate:absent (0); present, associated with an elongation of the endolymphatic canal (1); Nuchal plate elongate: absent (0); present (1).**
 
@@ -272,7 +273,7 @@ feature. *Buchanosteus confertituberculatus*, previously considered to have this
 
 > - The coding of *Panjiangosteus eurycephala* is 0.
 
- 31. Position of the central/paranuchal/marginal or postorbital triple point (plate junction) relative to the paranuchal/central/nuchal triple point: C/PNu/M or PtO triple point anterior to PNu/ C/Nu (0); posterior to PNu/C/Nu (1).
+ 31. Position of the central/paranuchal/marginal or postorbital triple point (plate junction) relative to the paranuchal/central/nuchal triple point: C/PNu/M or PtO triple point anterior to PNu/C/Nu (0); posterior to PNu/C/Nu (1).
 > Carr (1991), Character 31, modified; Carr and Hlavin (2010), Character 31; Rücklin *et al*. (2015), Character 31; Zhu Y *et al*. (2016), Character 31; Jobbins *et al*. (2022, 2024), Character 31; Xue *et al*. (submitted), Character 31.
 
 > Carr and Hlavin (2010): "Gardiner & Miles (1994) noted the error in the transposition of this character in Carr (1991). Only *Homostius*
@@ -332,7 +333,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  37. Length ratio r2 representing the extension of the anterior portion of the skull roof: r2 < 0.3 (0); 0.3 =< r2 =< 0.5 (1); r2 > 0.5 (2).
 > Zhu Y *et al*. (2016), Character 93; Xue *et al*. (submitted), Character 37.
 
-> In those taxa lacking the pineal plate, this character is scored as 'not applicable'. **Phyllolepid**
+> - In those taxa lacking the pineal plate, this character is scored as 'not applicable'. **Phyllolepid**
 
 > - This ratio (r2 = d/b) is measured as the ratio of the pineal foramen–anterior sensory line junction (d) divided by the anterior sensory line junction–fossa distance (b).
 
@@ -343,7 +344,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  38. In forms with a marginal - central plate contact, position of the junction of the postorbital, marginal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 > Long (1987), Character 7, modified; Carr and Hlavin (2010), Character 94; Rücklin *et al*. (2015), Character 94; Zhu Y *et al*. (2016), Character 94; Jobbins *et al*. (2022, 2024), Character 94; Xue *et al*. (submitted), Character 38.
 
-> In those taxa that the nuchal plate is absent, this character is scored as 'not applicable'. **Phyllolepid**  
+> - In those taxa that the nuchal plate is absent, this character is scored as 'not applicable'. **Phyllolepid**  
 
 > - This character is contingent on Character 23.
    
@@ -354,7 +355,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  39. In forms with a marginal – central plate contact, position of the juction of the marginal, paranuchal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 > Long 1987, Character 7, modified; Carr and Hlavin (2010), Character 95; Rücklin *et al*. (2015), Character 95; Zhu Y *et al*. (2016), Character 95; Jobbins *et al*. (2022, 2024), Character 95; Xue *et al*. (submitted), Character 39.
 
-> In those taxa that the nuchal plate is absent, this character is scored as 'not applicable'. **Phyllolepid**
+> - In those taxa that the nuchal plate is absent, this character is scored as 'not applicable'. **Phyllolepid**
 
 > - This character is contingent on Character 23.
 
@@ -365,7 +366,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  40. In forms without a marginal – central plate contact, position of the junction between the postorbital, paranuchal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 > Long 1987, Character 7, modified; Carr and Hlavin (2010), Character 96; Rücklin *et al*. (2015), Character 96; Zhu Y *et al*. (2016), Character 96; Jobbins *et al*. (2022, 2024), Character 96; Xue *et al*. (submitted), Character 40.
 
-> In those taxa that the nuchal plate is absent, this character is scored as 'not applicable'. **Phyllolepid**
+> - In those taxa that the nuchal plate is absent, this character is scored as 'not applicable'. **Phyllolepid**
 
 > - This character is contingent on Character 23.
 
@@ -376,7 +377,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  41. Paired pits on the internal side of the nuchal plate separated by a median septum that is continuous with the median posterior process: absent (0); present (1).
 > Carr and Hlavin (2010), Character 97; Rücklin *et al*. (2015), Character 97; Zhu Y *et al*. (2016), Character 97; Jobbins *et al*. (2022, 2024), Character 97; Xue *et al*. (submitted), Character 41.
 
-> In those taxa that the nuchal plate is absent, this character is scored as 'not applicable'. **Phyllolepid**
+> - In those taxa that the nuchal plate is absent, this character is scored as 'not applicable'. **Phyllolepid**
 
 > - The coding of the new Xitun actinolepid is ?.
 
@@ -406,7 +407,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  45. Shape of the pineal plate on the external surface of the skull roof: short and broad (0); long and narrow (1).
 > Zhu Y *et al*. (2016), Character 101; Xue *et al*. (submitted), Character 45.
 
-> In those taxa that the rostral plate fused with the pineal plate, this character is scored as 'not applicable'.
+> - In those taxa that the rostral plate fused with the pineal plate, this character is scored as 'not applicable'.
 
 > - The coding of the new Xitun actinolepid is 0.
 
@@ -426,7 +427,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  47. Development of the postorbital process of the postorbital plate: moderately developed (0); highly developed, defined as the postorbital process composing one-quarter of the orbit (1).
 > Zhu Y *et al*. (2016), Character 103; Xue *et al*. (submitted), Character 47.
 
-> In those taxa that the postorbital plate is asbent, this character is scored as 'not applicable'.
+> - In those taxa that the postorbital plate is asbent, this character is scored as 'not applicable'.
 
 > - The coding of the new Xitun actinolepid is 0.
 
@@ -488,7 +489,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  55. Position of pineal plate: further anteriorly from orbits (0); same level as orbits (1).
 > Dupret *et al*. (2009), Character 6; Dupret *et al*. (2017), Character 6; Zhu *et al*. (2010), Character 6; Xue *et al*. (submitted), Character 55.
 
-> - In those taxa that the pineal plate is fused with rostral plate, this character revises to Position of pineal plate. 
+> - **In those taxa that the pineal plate is fused with rostral plate, this character revises to Position of pineal plate.**
 
 > - The coding of the new Xitun actinolepid is 1.
 
@@ -497,7 +498,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  56. Preorbital plates show an embayment for insertion of pineal or rostropineal plate: no, or very shallow (0); yes, very deep (1).
 > Johnson *et al*. (2000), Character 1; Dupret *et al*. (2009), Character 9; Dupret *et al*. (2017), Character 9; Zhu *et al*. (2010), Character 9; Xue *et al*. (submitted), Character 56.
 
-> - In those taxa that the preorbital plates are sperated by pineal of rostropineal plate, this character scored "as yes, very deep(1)".
+> - In those taxa that the preorbital plates are sperated by pineal of rostropineal plate, this character is scored "as yes, very deep (1)".
  
 > - The coding of the new Xitun actinolepid is 1.
 
@@ -617,7 +618,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
- 73. Length/width ratio (L/W) of nuchal plate: L/W＝< 1.5 (0); L/W>1.5(1).
+ 73. Length/width ratio (L/W) of nuchal plate: L/W =< 1.5 (0); L/W > 1.5(1).
 > Dupret *et al*. (2009), Character 59; Dupret *et al*. (2017), Character 59; Zhu *et al*. (2010), Character 59; Xue *et al*. (submitted), Character 73.
 
 > - The coding of the new Xitun actinolepid is 0.
@@ -696,7 +697,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  84. Posterior lateral plate and posterior dorsolateral plate overlap: simple overlap (0); insertion (1).
 >  Vézina (1988); Carr (1991), Character 42; Carr and Hlavin (2010), Character 42; Rücklin *et al*. (2015), Character 42; Zhu Y *et al*. (2016), Character 42; Jobbins *et al*. (2022, 2024), Character 42； Xue *et al*. (submitted), Character 84.
 
-> In those taxa that the posterior lateral plate or posterior dorsolateral plate is absent, this character is scored as 'not applicable'.
+> - In those taxa that the posterior lateral plate or posterior dorsolateral plate is absent, this character is scored as 'not applicable'.
 
 > - The coding of the new Xitun actinolepid is ?.
 
@@ -705,7 +706,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  85. Posterior lateral plate forms part of closed pectoral fenestra: absent (0); present (1).
 > Carr (1991), Character 43; Carr and Hlavin (2010), Character 43; Rücklin *et al*. (2015), Character 43; Zhu Y *et al*. (2016), Character 43; Jobbins *et al*. (2022, 2024), Character 43； Xue *et al*. (submitted), Character 85.
 
-> In those taxa that the posterior lateral plate is absent, this character is scored as 'not applicable'.
+> - In those taxa that the posterior lateral plate is absent, this character is scored as 'not applicable'.
 
 > - The coding of the new Xitun actinolepid is ?.
 
@@ -714,7 +715,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  86. Ventral lamina of the posterior lateral plate: absent (0); present (1).
 > Gardiner & Miles (1990), Character 22.13; Carr (1991), Character ; Carr and Hlavin (2010), Character 44; Rücklin *et al*. (2015), Character 44; Zhu Y *et al*. (2016), Character 44; Jobbins *et al*. (2022, 2024), Character 44； Xue *et al*. (submitted), Character 86.
 
-> In those taxa that the posterior lateral plate is absent, this character is scored as 'not applicable'.
+> - In those taxa that the posterior lateral plate is absent, this character is scored as 'not applicable'.
 
 > - The coding of the new Xitun actinolepid is ?.
 
@@ -739,7 +740,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  89. Branchial lamina of the interolateral plate : absent (0); present (1).
 > Carr (1991), Character 47; Carr and Hlavin (2010), Character 47; Rücklin *et al*. (2015), Character 47; Zhu Y *et al*. (2016), Character 47; Jobbins *et al*. (2022, 2024), Character 47；Xue *et al*. (submitted), Character 89.
 
->- Also named as the postbranchial lamina. 
+> - Also named as the postbranchial lamina. 
 
 > - The coding of the new Xitun actinolepid is ?.
 
@@ -755,7 +756,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  91. Ormantation of branchial lamina of interolateral plate: absent (0); present (1).
 > Carr (1991), Character 49; Lelièvre (1995), character 41, modified; Carr and Hlavin (2010), Character 49; Rücklin *et al*. (2015), Character 49; Zhu Y *et al*. (2016), Character 49; Jobbins *et al*. (2022, 2024), Character 49；Xue *et al*. (submitted), Character 91.
 
-> - Also named as the postbranchial lamina.
+> - Also named as the postbranchial lamina. This character is contingent on Character 89.
 
 > - The coding of the new Xitun actinolepid is ?.
 
@@ -764,7 +765,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  92. Posterior ventrolateral plate dorsolateral contact with the lateral thoracic armour: posterior lateral plate only (0); posterior lateral and anterior lateral plates (1).
 > Carr (1991), Character 50; Carr and Hlavin (2010), Character 50; Rücklin *et al*. (2015), Character 50; Zhu Y *et al*. (2016), Character 50; Jobbins *et al*. (2022, 2024), Character 50； Xue *et al*. (submitted), Character 92.
 
-> In those taxa that the posterior lateral plate is absent, this character is scored as 'not applicable'.
+> - In those taxa that the posterior lateral plate is absent, this character is scored as 'not applicable'.
 
 > - The coding of the new Xitun actinolepid is ?.
 
@@ -780,7 +781,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  94. Posterior development of the posterior carinal process of the keel on the visceral surface of the median dorsal plate: posteriorly developed, beyond the posterior margin of the median dorsal plate in dorsal view (0); not posteriorly developed, not beyond the posterior margin of the median dorsal plate in dorsal view (1).
 > Zhu Y *et al*. (2016), Character 115; Xue *et al*. (submitted), Character 94.
 
-> In those taxa that the posterior carinal process is absent, this character is scored as 'not applicable'.
+> - In those taxa that the posterior carinal process is absent, this character is scored as 'not applicable'.
 
 > - The coding of the new Xitun actinolepid is ?.
 
@@ -810,7 +811,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  98. In those taxa that possess an anterolaterally extended anterior lateral plate, the extent of the extension: extended normally (0); extended into a rod-like structure (1).
 > Zhu Y *et al*. (2016), Character 119; Xue *et al*. (submitted), Character 98.
 
->  In those taxa that do not possess an anterolaterally extended anterior lateral plate, this character is scored as 'not applicable'.
+>  - In those taxa that do not possess an anterolaterally extended anterior lateral plate, this character is scored as 'not applicable'.
 
 > - The coding of the new Xitun actinolepid is -.
 
@@ -914,16 +915,17 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
- 113. Length/width ratio (L/W) of posterior dorsolateral plate: L/H < 2 (0); L/H> 2 (1).
+ 113. Length/width ratio (L/W) of posterior dorsolateral plate: L/W > 2 (0), L/W =< 2 (1).
 > Johnson *et al*. (2000), Character 36; Dupret *et al*. (2009), Character 62; Dupret *et al*. (2017), Character 62; Zhu *et al*. (2010), Character 62; Xue *et al*. (submitted), Character 113.
 
-> - **check definition, type error?**
+> - **check definition, typo error, check codings in the matrix?** There exist systematic typo errors from Dupret *et al*. (2009) to Zhu *et al*. (2010) "Length/width ratio (L/W) of posterior dorsolateral plate: L/H < 2 (0); L/H > 2 (1)". The original definition in Johnson et al. (2000), L/W > 2 (0), L/W =< 2 (1).
+> - Johnson *et al*. (2000): "measured along the main lateral line canal (width) and posteror margin (ornamented area) equals less than 2. This ratio exceeds 2 only in *Actinolepis magna* (Mark-Kurik, 1973)."
 
 > - The coding of the new Xitun actinolepid is ?.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
- 114. RSp (=LSp borne by AVL/LSp): RSp < 60% (0); RSp =>60% (1).
+ 114. RSp (=LSp borne by AVL/LSp): RSp < 60% (0); RSp => 60% (1).
 > Johnson *et al*. (2000), Character 28; Dupret *et al*. (2009), Character 64; Dupret *et al*. (2017), Character 64; Zhu *et al*. (2010), Character 64; Xue *et al*. (submitted), Character 114.
 
 > - RSp represents the ratio of length proportion of the spinal plate borne by the anterior ventrolateral plate (LSp borne by AVL) over total length of the spinal plate (LSp).
@@ -949,7 +951,6 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
  117. Suborbital plate overlaps postorbital plate: absent (0); resent (1).
 > Gariner and Miles (1990), Character 22.9; Carr (1991), Character 53; Lelièvre (1995), character 27; Carr and Hlavin (2010), Character 53; Rücklin *et al*. (2015), Character 53; Zhu Y *et al*. (2016), Character 53; Jobbins *et al*. (2022, 2024), Character 53; Xue *et al*. (submitted), Character 117.
-
 
 > - The coding of the new Xitun actinolepid is ?.
 
