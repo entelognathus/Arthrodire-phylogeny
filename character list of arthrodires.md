@@ -1491,6 +1491,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 199. Ventral sensory canal on the anterior ventrolateral plate: absent (0), present (1).
 
+Extrascapular: one (0); two (1).
+
 201. Occipital cross commissure: absent (0); present (1).
 
 202. Posterior dorsolateral plate: present (1); absent (0).
