@@ -168,13 +168,12 @@
 
 > - The coding of *Panjiangosteus eurycephala* is 2.
 
- 19. Extent of median preorbital plate contact: short (0); long, measured as the ratio of (contact length)/ (PrO parasagittal length) (1).
+ 19. Extent of median preorbital plate contact: short (0); long, measured as the ratio of (contact length)/ (PrO parasagittal length) > 0.5 (1).
 > Carr (1991), Character 19; Carr and Hlavin (2010), Character 19; Rücklin *et al*. (2015), Character 19; Zhu Y *et al*. (2016), Character 19; Jobbins *et al*. (2022, 2024), Character 19; Xue *et al*. (submitted), Character 19.
 
 > - In those taxa that the preorbital plates are seperated, this character is scored as 'not applicable'.
 
-> - **check original definition**
-The orginal definition from Carr (1991) is "Extent of median preorbital plate contact: short (0); long, measured as the (ratio of contact length)/(PrO parasagittal length) (1)." 
+> - The orginal definition of this character in Carr (1991) is "Extent of median preorbital plate contact: short (0); long, measured as the (ratio of contact length)/(PrO parasagittal length) (1)." However, there was no value to define two states. Here, we complement it as "short (0); long, measured as the ratio of (contact length)/ (PrO parasagittal length) > 0.5 (1)"
 
 > - The coding of the new Xitun actinolepid is 1.
 
