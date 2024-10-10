@@ -1518,6 +1518,11 @@ Posterior dorsolateral plate: present(0); absent(1).
 > Posterior dorsolateral plate is present in almost all arthrodires except phyllolepid. However, in phyllolepids the posterior dorsolateral is only present in *Cowralepis*.  
 
 
+
+
+
+Supraorbital sensory lines extend to the nuchal plate: present (0); absent (1). 
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
