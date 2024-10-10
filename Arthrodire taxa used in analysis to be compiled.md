@@ -318,7 +318,7 @@
 > Upper Lochkovian to Lower Pragian, 415.0, 410.8
 
 > -  Ivanye, Ustechko, and Khmeleva Formation, Podolia, Ukraine.
-> - [Dupret, 2007](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2007)27%5B266:ANGOPA%5D2.0.CO;2).
+> - [Dupret *et al*., 2007](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2007)27%5B266:ANGOPA%5D2.0.CO;2).
 
 [*Eskimaspis heintzi*](https://deepbone.cn/public/#/explor?s_id=154182&functionId=Deepbone_header_searchResultOpen) Dineley and Liu 1984
 > upper Lochkovian, 415.0, 410.8
@@ -769,8 +769,8 @@
 [*Pageauaspis russelli*](https://deepbone.org/public/#/top-search-list?keyword=Pageauaspis%20russelli) Pageau, 1969
 > Emsian, 407.6, 393.3
 
-> - [horizon and locality]
-> - [Denison, 1978](https://www.abebooks.co.uk/9783437302657/Placodermi-Handbook-Paleoichthyology-Vol-2-3437302655/plp?cm_sp=plped-_-1-_-image)
+> - Battery Point formation, Quebec, Canada.
+> - [Denison, 1978](https://www.abebooks.co.uk/9783437302657/Placodermi-Handbook-Paleoichthyology-Vol-2-3437302655/plp?cm_sp=plped-_-1-_-image)[Pageau, 1969]
 
 [*Phyllolepis orvini*](https://deepbone.org/public/#/explor?s_id=2287&functionId=Deepbone_header_searchResultOpen) Heintz, 1930
 > Famennian, 372.7, 358.9
