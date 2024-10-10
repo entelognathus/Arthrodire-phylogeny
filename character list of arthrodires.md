@@ -1396,6 +1396,10 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 177. Postocular crest: absent (0); present (1).
 > - The postocular crest is present in many plesiomorphic arthrodires, such as *Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2), but is absent in eubrachythoracids. In contrast, many eubrachythoracids posssess dermal postorbital processes, but lacking the postocular crest.
 
+> - Dennis and Miles (1979): 20. Suborbital plate with internal laminae (Figs 3, 11B). This plate (P50937) is structurally the same as that described for *Harrytoombsia*, except for the **postocular crista** which is proportionally much narrower and less robust. However, it does broaden anteriorly to form a substantial subocular crista. Also, the overlap area on the dorsal surface (PN.oa, Fig. 11B) receives the postnasal plate and not the preorbital lamina of the preorbital plate as is the case with *Harrytoombsia*.
+> - Rucklin (2011): "The visceral surface bears fused sub- and postocular crista, which form the ventral and posterior borders of the orbital vault. The subocular crista broadens anteriorly and is 5 mm wide lateromedially (Text-fig. 6C–D)."
+> - The postocular crest is a structure on the suborbital plate (dermal cheek). 
+
 178. Round depression lateral to supraorbital vault: absent (0); present (1).
 > - The round depression is present in many plesiomorphic arthrodires, such as *Buchansopteus*,*Dhanguura* and *Exutaspis*.
 
