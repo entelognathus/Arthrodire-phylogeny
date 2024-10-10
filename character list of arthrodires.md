@@ -1405,6 +1405,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 179. Posterolateral extension of the lateral consolidated arch: absent(0); present (1); forming a prominent crest (2).
 > - The lateral consolidateda arch is absent in plesiomorphic arthrodires and present in brachythoracids. In dunkleosteids, the lateal consolidated arch form a prominent crest and is connected with the inframarginal crista.
+> - **better as two characters. absent vs present; for the presence, two states.**
 
 180. Lateral nuchal depression on the dorsal suface of neurocranium: absent (0); present (1).
 > - The lateral nuchal depression on the dorsal suface of neurocranium is present in the brachythoracids and absent in the plesiomorphic arthrodires. The lateral nuchal depression corresponds to the endolymphatic thickening.
@@ -1415,6 +1416,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 182. The central sensory line leaves the postorbital plate: no (0); yes (1).
 > - The coding of the new Xitun actinolepid is 0.
 > - The central sensory lines of the new Xitun actinolepid, *Dicksonosteus arcticus*, *Szelepis yunnanensis* don't extend out of the postorbital plate.
+>
+> - **This character is redundant with Character 160.**
 
 183. Profundus sensory line on preorbital: absent (0); present (1).
 > Johnson *et al*. (2000), Character 12.
@@ -1423,6 +1426,11 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The profundus sensory canal extends from preorbital to the postorbital plates. This character is present in *Bryantolepis*.
 
 > - The coding of the new Xitun actinolepid is 0.
+
+--More logical formulations--
+> - **Profundus sensory line: absent (0); present (1).**
+> - **Position of Profundus sensory line: on preorbital plate (0), on postorbital and preorbital plates (1), on postorbital plate at intersection with infraorbital sensory line (2).**
+> - **Condition of Profundus sensory line on preorbital and postorbital plates: disconnected segments (0), a continuous line (1).**
 
 184. Profundus sensory line on postorbital and preorbital: absent (0); present (1).
 > Johnson *et al*. (2000), Character 22.
@@ -1480,14 +1488,14 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 194. Cutaneous sensory organ pit on the suborbital plate: absent (0); present (1).     
 > - Within arthrodires, cutaneous sensory organ pits are most commonly found on the suborbital and postsuborbital plates of eubrachythoracid arthrodires: the suborbitaland postsuborbital plates of Coccosteus (Stensi€o 1963;Fig. 5B), Watsonosteus (Miles & Westoll 1962), Goodradigbeeon (White 1978), Torosteus (Gardiner & Miles 1990) and Plourdosteus (Ørvig 1960) and the postsuborbital plate of Harrytoombsia (Miles  &  Dennis  1979), Mcnamaraspis (Long 1995), Simosteus (Dennis & Miles 1982), Compagopiscis (Gardiner & Miles 1994), Dickosteus (Miles & Westoll 1962) and Kimberleyichthyes (Dennis-Bryan & Miles 1983).
 
-195.Supraorbital crista: absent (0); present (1).
+195. Supraorbital crista: absent (0); present (1).
 > - The supraorbital crista is present in *Arenipiscus*,*Dhanguura*, and *Exutaspis*.
 
 196. ADL overlapped by the PL: absent(0); present(1).
 > Long et al. (2014).
 > - This character is possibly the synapomorphy of Parabuchanosteidae. This condition is also present in *Herasmius dayi*.
 
-197.  Central sensory canals: separate (0); meet posteriorly (1).
+197. Central sensory canals: separate (0); meet posteriorly (1).
 > - Central sensory canals meet posterioly on central plates in *Watsonosteus* and *Dickosteus*.
 
 198. Supraorbital sensory canal extend to the rostral plate: absent (0); present (1).
@@ -1809,96 +1817,53 @@ Donoghue, P. C., Forey, P. L., and Aldridge, R. J. (2000). Conodont affinity and
 
 Ebert, D. A., Fowler, S. L., Compagno, L. J. V., and Dando, M. (2013). Sharks of the world : a fully illustrated guide. Plympton St. Maurice: Plymouth Wild Nature Press.
 
-Ferrón, H. G., Martínez-Pérez, C., and Botella, H. (2017). Ecomorphological
-inferences in early vertebrates: reconstructing Dunkleosteus terrelli (Arthrodira,
-Placodermi) caudal fin from palaeoecological data. PeerJ 5:e4081. doi: 10.7717/
-peerj.4081
+Ferrón, H. G., Martínez-Pérez, C., and Botella, H. (2017). Ecomorphological inferences in early vertebrates: reconstructing Dunkleosteus terrelli (Arthrodira, Placodermi) caudal fin from palaeoecological data. PeerJ 5:e4081. doi: 10.7717/ peerj.4081
 
-Fish, F. E. (1998). Comparative kinematics and hydrodynamics of odontocete
-cetaceans: Morphological and ecological correlates with swimming performance.
-J. Exp. Biol. 201, 2867–2877. doi: 10.1242/jeb.201.20.2867
+Fish, F. E. (1998). Comparative kinematics and hydrodynamics of odontocete cetaceans: Morphological and ecological correlates with swimming performance. J. Exp. Biol. 201, 2867–2877. doi: 10.1242/jeb.201.20.2867
 
-Forey, P. L., and Janvier, P. (1993). Agnathans and the origin of jawed
-vertebrates. Nature 361, 129–134. doi: 10.1038/361129a0
+Forey, P. L., and Janvier, P. (1993). Agnathans and the origin of jawed vertebrates. Nature 361, 129–134. doi: 10.1038/361129a0
 
-Frey, L., Coates, M., Ginter, M., Hairapetian, V., Rücklin, M., Jerjen, I.,
-et al. (2019a). The early elasmobranch Phoebodus: phylogenetic relationships,
-ecomorphology and a new time-scale for shark evolution. Proc. Roy. Soc. B
-286:20191336. doi: 10.1098/rspb.2019.1336
+Frey, L., Coates, M., Ginter, M., Hairapetian, V., Rücklin, M., Jerjen, I., et al. (2019a). The early elasmobranch Phoebodus: phylogenetic relationships, ecomorphology and a new time-scale for shark evolution. Proc. Roy. Soc. B 286:20191336. doi: 10.1098/rspb.2019.1336
 
-Frey, L., Pohle, A., Rücklin, M., and Klug, C. (2019b). Fossil-Lagerstaütten,
-palaeoecology and preservation of vertebrates and invertebrates from the
-Devonian of Morocco (eastern Anti-Atlas). Lethaia 53, 242–266. doi: 10.1111/let.
-12354
+Frey, L., Pohle, A., Rücklin, M., and Klug, C. (2019b). Fossil-Lagerstaütten, palaeoecology and preservation of vertebrates and invertebrates from the Devonian of Morocco (eastern Anti-Atlas). Lethaia 53, 242–266. doi: 10.1111/let.12354
 
-Frey, L., Coates, M. I., Tietjen, K., Rücklin, M., and Klug, C. (2020). A
-symmoriiform from the Late Devonian of Morocco demonstrates a derived jaw
-function in ancient chondrichthyans. Comm. Biol. 3, 1–10. doi: 10.1038/s42003-
-020-01394-2
+Frey, L., Coates, M. I., Tietjen, K., Rücklin, M., and Klug, C. (2020). A symmoriiform from the Late Devonian of Morocco demonstrates a derived jaw function in ancient chondrichthyans. Comm. Biol. 3, 1–10. doi: 10.1038/s42003-020-01394-2
 
-Frey, L., Rücklin, M., Korn, D., and Klug, C. (2018). Late Devonian and Early
-Carboniferous alpha diversity, ecospace occupation, vertebrate assemblages and
-bio-events of southeastern Morocco. Palaeogeogr. palaeocl. palaeoecol. 496, 1–17.
-doi: 10.1016/j.palaeo.2017.12.028
+Frey, L., Rücklin, M., Korn, D., and Klug, C. (2018). Late Devonian and Early Carboniferous alpha diversity, ecospace occupation, vertebrate assemblages and bio-events of southeastern Morocco. Palaeogeogr. palaeocl. palaeoecol. 496, 1–17. doi: 10.1016/j.palaeo.2017.12.028
 
-Gardiner, B. G. (1984). The relationships of placoderms. J. Vert. Paleontol. 4,
-375–395. doi: 10.1080/02724634.1984.10012017
+Gardiner, B. G. (1984). The relationships of placoderms. J. Vert. Paleontol. 4, 375–395. doi: 10.1080/02724634.1984.10012017
 
-Gess, R. W., and Trinajstic, K. M. (2017). New morphological information on,
-and species of placoderm fish Africanaspis (Arthrodira, Placodermi) from the Late
-Devonian of South Africa. PLoS One 12, e0173169. doi: 10.1371/journal.pone.
-0173169
+Gess, R. W., and Trinajstic, K. M. (2017). New morphological information on, and species of placoderm fish Africanaspis (Arthrodira, Placodermi) from the Late Devonian of South Africa. PLoS One 12, e0173169. doi: 10.1371/journal.pone.0173169
 
-Giles, S., Friedman, M., and Brazeau, M. D. (2015). Osteichthyan-like cranial
-conditions in an Early Devonian stem gnathostome. Nature 520:7545. doi: 10.
-1038/nature14065
+Giles, S., Friedman, M., and Brazeau, M. D. (2015). Osteichthyan-like cranial conditions in an Early Devonian stem gnathostome. Nature 520:7545. doi: 10.1038/nature14065
 
-Gross, W. (1961). Lunaspis broilii und Lunaspis heroldi aus dem
-Hunsrückschiefer (Unterdevon, Rheinland). Notizbl. Hess. Landes. Bodenforsch.
-Wiesbaden 89, 17–14.
+Gross, W. (1961). Lunaspis broilii und Lunaspis heroldi aus dem Hunsrückschiefer (Unterdevon, Rheinland). Notizbl. Hess. Landes. Bodenforsch. Wiesbaden 89, 17–14.
 
-Jaekel, O. M. J. (1903). Über die Organisation und systematische Stellung der
-Asterolepiden. Z. Deutschen Geol. Gesellschaft 55, 41–60.
+Jaekel, O. M. J. (1903). Über die Organisation und systematische Stellung der Asterolepiden. Z. Deutschen Geol. Gesellschaft 55, 41–60.
 
-Jaekel, O. M. J. (1911). Die Wirbeltiere. Gebrüder Bornträger. Berlin: Verlag
-Gebrüder Borntraeger.
+Jaekel, O. M. J. (1911). Die Wirbeltiere. Gebrüder Bornträger. Berlin: Verlag Gebrüder Borntraeger.
 
-Jaekel, O. M. J. (1919). Die Mundbildung der Placodermen. Sitzungsberichte
-der Gesellschaft Naturforschender Freunde Berlin. Berlin: Verlag Gebrüder
-Borntraeger, 73–110.
+Jaekel, O. M. J. (1919). Die Mundbildung der Placodermen. Sitzungsberichte der Gesellschaft Naturforschender Freunde Berlin. Berlin: Verlag Gebrüder Borntraeger, 73–110.
 
-Janvier, P. (1984). The relationships of the Osteostraci and Galeaspida.
-J. Vertebr. Paleontol. 4, 344–358. doi: 10.1080/02724634.1984.10012014
+Janvier, P. (1984). The relationships of the Osteostraci and Galeaspida. J. Vertebr. Paleontol. 4, 344–358. doi: 10.1080/02724634.1984.10012014
 
-Jarvik, E. (1980). Basic structure and evolution of vertebrates. London: Academic
-Press.
+Jarvik, E. (1980). Basic structure and evolution of vertebrates. London: Academic Press.
 
-Jobbins, M., Haug, C., and Klug, C. (2020). First African thylacocephalans from
-the Famennian of Morocco and their role in Late Devonian food webs. Sci. Rep.
-10:5129. doi: 10.1038/s41598-020-61770-0
+Jobbins, M., Haug, C., and Klug, C. (2020). First African thylacocephalans from the Famennian of Morocco and their role in Late Devonian food webs. Sci. Rep. 10:5129. doi: 10.1038/s41598-020-61770-0
 
-Jobbins, M. E. M., Rücklin, M., Argyriou, T., and Klug, C. (2021). A large
-Middle Devonian eubrachythoracid ‘placoderm’ (Arthrodira) jaw from northern
-Gondwana. Swiss J. Palaeo. 140, 1–17. doi: 10.1186/s13358-020-00212-w
+Jobbins, M. E. M., Rücklin, M., Argyriou, T., and Klug, C. (2021). A large Middle Devonian eubrachythoracid ‘placoderm’ (Arthrodira) jaw from northern Gondwana. Swiss J. Palaeo. 140, 1–17. doi: 10.1186/s13358-020-00212-w
 
 Jobbins M, Rücklin M, Ferrón HG, Klug C. 2022. A new selenosteid placoderm from the Late Devonian of the eastern Anti-Atlas (Morocco) with preserved body outline and its ecomorphology. Front. Ecol. Evol. 10, 969158, (doi:10.3389/fevo.2022.969158)
 
 Jobbins M, Rücklin M, Sánchez Villagra MR, Lelièvre H, Grogan E, Szrek P, Klug C. 2024. Extreme lower jaw elongation in a placoderm reflects high disparity and modularity in early vertebrate evolution. R. Soc. Open Sci. 11: 231747. https://doi.org/10.1098/rsos.231747
 
-Johanson, Z. (1997). New Remigolepis (Placodermi; Antiarchi) from
-Canowindra, New South Wales, Australia. Geol. Mag. 134, 813–846.
-doi: 10.1017/S0016756897007838
+Johanson, Z. (1997). New Remigolepis (Placodermi; Antiarchi) from Canowindra, New South Wales, Australia. Geol. Mag. 134, 813–846. doi: 10.1017/S0016756897007838
 
-King, B., Qiao, T., Lee, M. S. Y., Zhu, M., and Long, J. A. (2017). Bayesian
-Morphological Clock Methods Resurrect Placoderm Monophyly and Reveal Rapid
-Early Evolution in Jawed Vertebrates. Syst Biol. 66, 499–516. doi: 10.1093/sysbio/
-syw107
+King, B., Qiao, T., Lee, M. S. Y., Zhu, M., and Long, J. A. (2017). Bayesian Morphological Clock Methods Resurrect Placoderm Monophyly and Reveal Rapid Early Evolution in Jawed Vertebrates. Syst Biol. 66, 499–516. doi: 10.1093/sysbio/syw107
 
-Klug, C., Di Silvestro, G., Hoffmann, R., Schweigert, G., Fuchs, D., Clements,
-T., et al. (2021). Diagenetic phosphatic Liesegang rings deceptively resemble
-chromatophores in Mesozoic coleoids. PeerJ 9:e10703. doi: 10.7717/peerj.10703
-Kuratani, S. (2012). Evolution of the vertebrate jaw from developmental
-perspectives. Evol. Dev. 14, 76–92. doi: 10.1111/j.1525-142X.2011.00523.x
+Klug, C., Di Silvestro, G., Hoffmann, R., Schweigert, G., Fuchs, D., Clements, T., et al. (2021). Diagenetic phosphatic Liesegang rings deceptively resemble chromatophores in Mesozoic coleoids. PeerJ 9:e10703. doi: 10.7717/peerj.10703
+
+Kuratani, S. (2012). Evolution of the vertebrate jaw from developmental perspectives. Evol. Dev. 14, 76–92. doi: 10.1111/j.1525-142X.2011.00523.x
 
 Lelièvre, H., Feist, R., Goujet, D., and Blieck, A. (1987). Les vertébrés de
 la Montagne Noire (Sud de la France) et leur apport à la phylogénie des
