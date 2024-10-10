@@ -18,7 +18,7 @@
  
 > - The previous definition 'Posterolateral extension of the lateral consolidated arch extends as a distinct ridge or thickening onto the postmarginal plate, or to the skull roof edge if the postmarginal plate is absent: absent (0); present (1)' did not summarize the condition in plesiomorphic brachythoracids well, in which the lateral consolidated arch is separated from the inframarginal crista, exemplified in *Exutaspis*. or the lateral consolidated arch is absent but the inframarginal crista is present, as in *Holonema*. 
 
-> - Xue et al. (submission) revise the definition of this character to cover all situations, together with the two additional characters (Characters 173 and 174).
+> - Xue et al. (in review) revise the definition of this character to cover all situations, together with the two additional characters (Characters 173 and 174).
 
 > - The coding of the new Xitun actinolepid is ?.
 
