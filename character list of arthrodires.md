@@ -1401,7 +1401,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The postocular crest is a structure on the suborbital plate (dermal cheek). 
 
 178. Round depression lateral to supraorbital vault: absent (0); present (1).
-> - The round depression is present in many plesiomorphic arthrodires, such as *Buchansopteus*,*Dhanguura* and *Exutaspis*.
+> - The round depression is present in many plesiomorphic arthrodires, such as *Buchansopteus*, *Dhanguura* and *Exutaspis*.
 
 179. Posterolateral extension of the lateral consolidated arch: absent(0); present (1); forming a prominent crest (2).
 > - The lateral consolidateda arch is absent in plesiomorphic arthrodires and present in brachythoracids. In dunkleosteids, the lateal consolidated arch form a prominent crest and is connected with the inframarginal crista.
@@ -1410,11 +1410,11 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The lateral nuchal depression on the dorsal suface of neurocranium is present in the brachythoracids and absent in the plesiomorphic arthrodires. The lateral nuchal depression corresponds to the endolymphatic thickening.
 
 181. Median nuchal depression: long (0); short (1).
-> - The lateral nuchal depression on the dorsal suface of neurocranium is short in the brachythoracids and long in the plesiomorphic arthrodires.
+> - The **lateral** nuchal depression on the dorsal suface of neurocranium is short in the brachythoracids and long in the plesiomorphic arthrodires.
 
 182. The central sensory line leaves the postorbital plate: no (0); yes (1).
 > - The coding of the new Xitun actinolepid is 0.
-> - The central sensory lines of *the new Xitun actinolepid*, *Dicksonosteus arcticus*, *Szelepis yunnanensis* don't extend out of the postorbital plate.
+> - The central sensory lines of the new Xitun actinolepid, *Dicksonosteus arcticus*, *Szelepis yunnanensis* don't extend out of the postorbital plate.
 
 183. Profundus sensory line on preorbital: absent (0); present (1).
 > Johnson *et al*. (2000), Character 12.
