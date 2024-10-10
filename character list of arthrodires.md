@@ -241,10 +241,10 @@
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
- 28. **Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes)/ (distance between pineal and paired condyles): small (0); intermediate (1); large (2).**
+ 28. **Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes)/ (distance between pineal and paired condyles): small (r < 0.2)(0); intermediate (0.2 < r < 0.5) (1); large (r > 0.5)(2).**
 > Carr (1991), Character 28; Carr and Hlavin (2010), Character 28; Rücklin *et al*. (2015), Character 28; Zhu Y *et al*. (2016), Character 28; Jobbins *et al*. (2022, 2024), Character 28; Xue *et al*. (submitted), Character 28.
 
->  - The orginal definition of this character in Carr (1991) is " Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes)/ (distance between pineal and paired condyles): small (0); intermediate (1); large (2)." However, there was no value to define these three states. 
+>  - The orginal definition of this character in Carr (1991) is " Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes)/ (distance between pineal and paired condyles): small (0); intermediate (1); large (2)." However, there was no value to define these three states. Here, we complement it as "small (r < 0.2)(0); intermediate (0.2 < r < 0.5) (1); large (r > 0.5)(2)."
 
 > - The coding of the new Xitun actinolepid is ?.
 
@@ -1393,12 +1393,13 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 176. Middle pit-line: absent (0); present (1).
 > - In the Dunkleosteidae, the middle pit-line is absent, such as in *Gorgonichthys*, *Dunkleosteus*, and *Heterosteus ingens*. The middle pit-line is present in the majority of arthrodires, such as in *Kujdanowiaspis* and *Coccosteus*.
 
-177. Postocular crest: absent (0); present (1).
-> - The postocular crest is present in many plesiomorphic arthrodires, such as *Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2), but is absent in eubrachythoracids. In contrast, many eubrachythoracids posssess dermal postorbital processes, but lacking the postocular crest.
+177. Postocular cresta at the visceral surface of postorbital plate: absent (0); present (1).
+> - The postocular cresta is present in many plesiomorphic arthrodires, such as *Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2), but is absent in eubrachythoracids. In contrast, many eubrachythoracids posssess dermal postorbital processes, but lacking the postocular crest.
 
 > - Dennis and Miles (1979): 20. Suborbital plate with internal laminae (Figs 3, 11B). This plate (P50937) is structurally the same as that described for *Harrytoombsia*, except for the **postocular crista** which is proportionally much narrower and less robust. However, it does broaden anteriorly to form a substantial subocular crista. Also, the overlap area on the dorsal surface (PN.oa, Fig. 11B) receives the postnasal plate and not the preorbital lamina of the preorbital plate as is the case with *Harrytoombsia*.
 > - Rucklin (2011): "The visceral surface bears fused sub- and postocular crista, which form the ventral and posterior borders of the orbital vault. The subocular crista broadens anteriorly and is 5 mm wide lateromedially (Text-fig. 6C–D)."
-> - The postocular crest is a structure on the suborbital plate (dermal cheek). 
+> - The postocular crest is a structure on the suborbital plate (dermal cheek).
+> - The postocular cresta is positioned posterior to the supraorbital vault at the visceral surface of postorbital plate, e.g.*Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2).     
 
 178. Round depression lateral to supraorbital vault: absent (0); present (1).
 > - The round depression is present in many plesiomorphic arthrodires, such as *Buchansopteus*, *Dhanguura* and *Exutaspis*.
