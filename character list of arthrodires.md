@@ -1454,63 +1454,47 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of the new Xitun actinolepid is 0.
 
-187. Dorsal articular lamina on trunk armour: absent (0); present (1).
-> Zhu Y. et al. (2019), Character 3; Zhu Y. et al. (2021), Character 356; Zhu Y. et al. (2022), Character 561.
-
-> - The coding of the new Xitun actinolepid is ?.
-
-188. Cranial fossa receiving the ventral articular lamina of the trunk: absent (0); present (1).
-> Zhu Y. et al. (2019), Character 4; Zhu Y. et al. (2021), Character 357; Zhu Y. et al. (2022), Character 562.
-
-> - The coding of the new Xitun actinolepid is 0.
-
-189. Trunk ventral articular lamina develops into flange or condyle: absent, continuous along the articular lamina of the anterior dorsolateral plate (0); present, the articular lamina develops into distinctive flange or condyle (1).
-> Zhu Y. et al. (2019), Character 5; Zhu Y. et al. (2021), Character 358; Zhu Y. et al. (2022), Character 563.
-
-> - The coding of the new Xitun actinolepid is ?.
-
-190. Rotatory contact of the articulation: absent (0); present (1).
-> Zhu Y. et al. (2019), Character 6; Zhu Y. et al. (2021), Character 359; Zhu Y. et al. (2022), Character 564.
-
-> - The coding of the new Xitun actinolepid is ?.
-
-191. Lateral ridges on skull roof laterally defining the articulation: absent (0); present (1).
-> Young (1978); Zhu Y. et al. (2019), Character 8; Zhu Y. et al. (2021), Character 360; Zhu Y. et al. (2022), Character 565; Brazeau et al. (2023), Character 179.
-
-> - Brazeau et al. (2023): "Para-articular process of dermal neck joint: (0) absent; (1) present. The para-articular process and depression were used to define the articulation of petalichthyids by Young (1978). We disagree with Brazeau et al. (2023) in the coding of arthrodires." 
-
-> - The coding of the new Xitun actinolepid is 0.
-
-192. Spiracular notch: absent (0); present (1).
+187. Spiracular notch: absent (0); present (1).
 > - The spiracular notch between the postorbital plate and the dorsal margin of suborbital plate is present in some Incisoscutoidea, such as *Torosteus*, *Harrytoombsia*, and *Mcnamaraspis*. The spiracular notch of *Mcnamaraspis* is closed by short contact between the suborbital and postorbital plates.
 
-193. Cutaneous sensory organ pit on the postsuborbital plate: absent(0); present(1).
+188. Cutaneous sensory organ pit on the postsuborbital plate: absent(0); present(1).
      
-194. Cutaneous sensory organ pit on the suborbital plate: absent (0); present (1).     
+189. Cutaneous sensory organ pit on the suborbital plate: absent (0); present (1).     
 > - Within arthrodires, cutaneous sensory organ pits are most commonly found on the suborbital and postsuborbital plates of eubrachythoracid arthrodires: the suborbitaland postsuborbital plates of Coccosteus (Stensi€o 1963;Fig. 5B), Watsonosteus (Miles & Westoll 1962), Goodradigbeeon (White 1978), Torosteus (Gardiner & Miles 1990) and Plourdosteus (Ørvig 1960) and the postsuborbital plate of Harrytoombsia (Miles  &  Dennis  1979), Mcnamaraspis (Long 1995), Simosteus (Dennis & Miles 1982), Compagopiscis (Gardiner & Miles 1994), Dickosteus (Miles & Westoll 1962) and Kimberleyichthyes (Dennis-Bryan & Miles 1983).
 
-195. Supraorbital crista: absent (0); present (1).
+
+190.Supraorbital crista: absent (0); present (1).
+
 > - The supraorbital crista is present in *Arenipiscus*,*Dhanguura*, and *Exutaspis*.
 
-196. ADL overlapped by the PL: absent(0); present(1).
+191. ADL overlapped by the PL: absent(0); present(1).
 > Long et al. (2014).
 > - This character is possibly the synapomorphy of Parabuchanosteidae. This condition is also present in *Herasmius dayi*.
 
-197. Central sensory canals: separate (0); meet posteriorly (1).
+192.  Central sensory canals: separate (0); meet posteriorly (1).
+
 > - Central sensory canals meet posterioly on central plates in *Watsonosteus* and *Dickosteus*.
 
-198. Supraorbital sensory canal extend to the rostral plate: absent (0); present (1).
+193. Supraorbital sensory canal extend to the rostral plate: absent (0); present (1).
 > Lelièvre (1995), character 43.
 
-199. Ventral sensory canal on the anterior ventrolateral plate: absent (0), present (1).
+194. Ventral sensory canal on the anterior ventrolateral plate: absent (0), present (1).
 
-200. Extrascapular: one (0); two (1).
+195. Extrascapular: one (0); two (1).
 
-201. Occipital cross commissure: absent (0); present (1).
+196. Occipital cross commissure: absent (0); present (1).
 
-202. Posterior dorsolateral plate: present (1); absent (0).
+197. Posterior dorsolateral plate: present (1); absent (0).
 
-203. Postorbital plate in contact with the nuchal plate: absent(0); present(1).
+198. Postorbital plate in contact with the nuchal plate: absent(0); present(1).
+
+199. Supraorbital sensory lines extend to the nuchal plate: present (0); absent (1).
+
+200. Posterior dorsolateral plate: present(0); absent(1).
+> Posterior dorsolateral plate is present in almost all arthrodires except phyllolepid. However, in phyllolepids the posterior dorsolateral is only present in *Cowralepis*.  
+
+201. Postmarginal canal extend to the postmarginal plate: present (0); absent (1).
+> In most arthrodires, the postmarginal canal is extend to the postmarginal plate, but in some clade, such as *Baringaspis* and *Yujiangolepis*, the postmarginal canal is limited in the marginal plate.
 
 
 **Contact between anterior lateral and anterior ventrolateral plates behind pectoral fenestra: no (0); yes (1).**
@@ -1528,22 +1512,9 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 **Length/width ratio (L/W) of anterior dorsolateral plate: L/H < 1 (0); L/H >= 1 (1).**
 > Dupret *et al*. (2009, 2017), Character 61.
 
-**Angle between interolateral and spinal plates: angle > 110 (0); angle 110 (1).**
-> Dupret *et al*. (2009, 2017), Character 63.
+**Angle between interolateral and spinal plates: angle < 110 (0); angle > 110 (1).**
+> Dupret *et al*. (2009, 2017), Character 63. **check codings**
 > check state definition. an error exists in Dupret et al. (2017).
-
-Postmarginal canal extend to the postmarginal plate: present (0); absent (1).
-> In most arthrodires, the postmarginal canal is extend to the postmarginal plate, but in some clade, such as *Baringaspis* and *Yujiangolepis*, the postmarginal canal is limited in the marginal plate.
-
-Posterior dorsolateral plate: present(0); absent(1).
-> Posterior dorsolateral plate is present in almost all arthrodires except phyllolepid. However, in phyllolepids the posterior dorsolateral is only present in *Cowralepis*.  
-
-
-
-
-
-Supraorbital sensory lines extend to the nuchal plate: present (0); absent (1). 
-
 
 Transversely divided pineal plate forming anterior and posterior plates: Absent (0) Present (1). 
 > Fitzpatrick *et al*. (2024), character 123.
