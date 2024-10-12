@@ -1461,7 +1461,10 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > Long et al. (2014).
 
 > - This character is possibly the synapomorphy of Parabuchanosteidae. This condition is also present in *Herasmius dayi*.
-
+>
+> Dermal contact between the anterior dorsolateral and posterior lateral plates: Absent (0) Present (1). 
+> Fitzpatrick *et al*. (2024), character 125.
+> 
 190.  Central sensory canals: separate (0); meet posteriorly (1).
 
 > - Central sensory canals meet posterioly on central plates in *Watsonosteus* and *Dickosteus*.
@@ -1501,6 +1504,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 **Length/width ratio (L/W) of median dorsal plate: L/W < 1.5 (0); L/W >= 1.5 (1).**
 > Dupret *et al*. (2009, 2017), Character 60.
+> - check the redundancy of this character with Charater 78,  L/W <=  OR > 1.0. They are slightly different. check codings in two matrix. 
 
 **Length/width ratio (L/W) of anterior dorsolateral plate: L/H < 1 (0); L/H >= 1 (1).**
 > Dupret *et al*. (2009, 2017), Character 61.
@@ -1521,7 +1525,7 @@ Dermal contact between the anterior dorsolateral and posterior lateral plates: A
 Inverted V-shaped flexure of the posterior dorsolateral plate sensory canal. Scored not applicable in taxa without a PDL flexuresensory canal: No flexure (0) Weak flexure, >110° (1) Strong flexure, <110° (2).  
 > Fitzpatrick *et al*. (2024), character 126. Long (1995).
 
-Dorsolateral ridge originating from near the condyle of the anterior dorsolateral plate: Absent (0) Present (1). 
+**Dorsolateral ridge originating from near the condyle of the anterior dorsolateral plate: Absent (0) Present (1).** 
 > Fitzpatrick *et al*. (2024), character 127. Long (1995).
 
 Medial contact of the dorsolateral plates under the median dorsal plate: No contact (0) anterior dorsolateral plates (1) anterior and posterior dorsolateral plates (2).
@@ -1532,6 +1536,8 @@ Internal annular thickening of the posterior trunk plates (‘b.cpd’, Goujet 1
 
 Ventral sensory canals: Absent (0) Present (1).
 > Fitzpatrick *et al*. (2024), character 131.
+Character 192 here.
+
 
 Distinct infraspinal lamina/process (‘pr.infsp’, Miles & Westoll 1968, fig. 40C; ‘la.spv’, Goujet 1984, fig. 66A) of the anterior ventrolateral plate: Absent (0) Present (1).
 > Fitzpatrick *et al*. (2024), character 132.
