@@ -1404,25 +1404,14 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 178. Round depression lateral to supraorbital vault: absent (0); present (1).
 > - The round depression is present in many plesiomorphic arthrodires, such as *Buchansopteus*, *Dhanguura* and *Exutaspis*.
 
-179. Posterolateral extension of the lateral consolidated arch: absent(0); present (1); forming a prominent crest (2).
-> - The lateral consolidateda arch is absent in plesiomorphic arthrodires and present in brachythoracids. In dunkleosteids, the lateal consolidated arch form a prominent crest and is connected with the inframarginal crista.
-> - **better as two characters. absent vs present; for the presence, two states.**
-
-180. Lateral nuchal depression on the dorsal suface of neurocranium: absent (0); present (1).
+179. Lateral nuchal depression on the dorsal suface of neurocranium: absent (0); present (1).
 > - The lateral nuchal depression on the dorsal suface of neurocranium is present in the brachythoracids and absent in the plesiomorphic arthrodires. The lateral nuchal depression corresponds to the endolymphatic thickening.
 
-181. Median nuchal depression: long (0); short (1).
-> - The **lateral** nuchal depression on the dorsal suface of neurocranium is short in the brachythoracids and long in the plesiomorphic arthrodires.
+180. Median nuchal depression: long (0); short (1).
+> - The median nuchal depression on the dorsal suface of neurocranium is short in the brachythoracids and long in the plesiomorphic arthrodires.
 
-182. The central sensory line leaves the postorbital plate: no (0); yes (1).
-> - The coding of the new Xitun actinolepid is 0.
-> - The central sensory lines of the new Xitun actinolepid, *Dicksonosteus arcticus*, *Szelepis yunnanensis* don't extend out of the postorbital plate.
->
-> - **This character is redundant with Character 160.**
-
-183. Profundus sensory line on preorbital: absent (0); present (1).
-> Johnson *et al*. (2000), Character 12.
-
+181. Profundus sensory line : absent (0); present (1).
+> Modified from Johnson *et al*. (2000), Character 12.
 > - Johnson *et al*. (2000): "A short segment of the profundus sensory line on the anterior part of the Preorbital has been recorded in *Heightingtonaspis anglica* and *Kujdanowiaspis* sp. (White, 1969; Denison, 1958, 1978)."
 > - The profundus sensory canal extends from preorbital to the postorbital plates. This character is present in *Bryantolepis*.
 
@@ -1433,67 +1422,70 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - **Position of Profundus sensory line: on preorbital plate (0), on postorbital and preorbital plates (1), on postorbital plate at intersection with infraorbital sensory line (2).**
 > - **Condition of Profundus sensory line on preorbital and postorbital plates: disconnected segments (0), a continuous line (1).**
 
-184. Profundus sensory line on postorbital and preorbital: absent (0); present (1).
-> Johnson *et al*. (2000), Character 22.
+**182. Profundus sensory line connect with the optic branch of infraorbital sensory line: present(0); absent(1). **
+> Modified from Johnson *et al*. (2000), Character 24.
 
 > - Johnson *et al*. (2000): "In *Bryantolepis brachycephala* the profundus sensory line is present as a continuous line from the central sensory line on the Postorbital to the centre of the Preorbital terminating near the supraorbital sensory line (Denison, 1958)."
 
-> - The coding of the new Xitun actinolepid is 1.
+> - In *Kujdanowisaspis podolica*, the short profundus sensory line is not connecting with the optic branch of infraorbital or central sensory lines.
+> - Johnson *et al*. (2000): "A small segment of the profundus sensory line branches off the intersection of the central sensory line and the infraorbital sensory line (postorbital branch) in *Aleosteus eganensis*, an arrangement not recorded in any other actinolepid." Here, I consider that Johnson *et al.* (2000) inaccurately identified the profundus sensory line, and what they considered the profundus sensory line of *Aleosteus eganensis* is actually the optic branch of the infraorbital sensory line.
 
-185. Profundus sensory line on Preorbital and Postorbital, but segments do not connect: absent (0); present (1).
-> Johnson *et al*. (2000), Character 23.
+> - The coding of the new Xitun actinolepid is 0.
+
+**183. Position of Profundus sensory line: on postorbital(0), on postorbital and preorbital plates(1).** 
+> Modified from Johnson *et al*. (2000), Character 22.
+
+
+184. Condition of Profundus sensory line on preorbital and postorbital plates: disconnected segments (0), a continuous line (1).
+> Modified from Johnson *et al*. (2000), Character 23.
 
 > - Johnson *et al*. (2000): "This character is known only in *Simblaspis cachensis* (Denison, 1958)."
 
+> - In *Simblaspis cachensis*, the profundus sensory line comprises of short groove and pits anterior to the infraorbtial sensory cana lon the postorbital plate and scattered pits posterolateral to the end of the supraorbital sensory canal on the preobital (Denison 1958).  
+ 
 > - The coding of the new Xitun actinolepid is 0.
 
-186. Profunduds sensory line present on postorbital at intersection with infraorbital sensory line: absent (0); present (1).
-> Johnson *et al*. (2000), Character 24.
 
-> - Johnson *et al*. (2000): "A small segment of the profundus sensory line branches off the intersection of the central sensory line and the infraorbital sensory line in *Aleosteus eganensis*, an arrangement not recorded in any other actinolepid." 
-
-> - The coding of the new Xitun actinolepid is 0.
-
-187. Spiracular notch: absent (0); present (1).
+185. Spiracular notch: absent (0); present (1).
 > - The spiracular notch between the postorbital plate and the dorsal margin of suborbital plate is present in some Incisoscutoidea, such as *Torosteus*, *Harrytoombsia*, and *Mcnamaraspis*. The spiracular notch of *Mcnamaraspis* is closed by short contact between the suborbital and postorbital plates.
 
-188. Cutaneous sensory organ pit on the postsuborbital plate: absent(0); present(1).
+186. Cutaneous sensory organ pit on the postsuborbital plate: absent(0); present(1).
      
-189. Cutaneous sensory organ pit on the suborbital plate: absent (0); present (1).     
+187. Cutaneous sensory organ pit on the suborbital plate: absent (0); present (1).     
 > - Within arthrodires, cutaneous sensory organ pits are most commonly found on the suborbital and postsuborbital plates of eubrachythoracid arthrodires: the suborbitaland postsuborbital plates of Coccosteus (Stensi€o 1963;Fig. 5B), Watsonosteus (Miles & Westoll 1962), Goodradigbeeon (White 1978), Torosteus (Gardiner & Miles 1990) and Plourdosteus (Ørvig 1960) and the postsuborbital plate of Harrytoombsia (Miles  &  Dennis  1979), Mcnamaraspis (Long 1995), Simosteus (Dennis & Miles 1982), Compagopiscis (Gardiner & Miles 1994), Dickosteus (Miles & Westoll 1962) and Kimberleyichthyes (Dennis-Bryan & Miles 1983).
 
 
-190.Supraorbital crista: absent (0); present (1).
+188.Supraorbital crista: absent (0); present (1).
 
 > - The supraorbital crista is present in *Arenipiscus*,*Dhanguura*, and *Exutaspis*.
 
-191. ADL overlapped by the PL: absent(0); present(1).
+189. ADL overlapped by the PL: absent(0); present(1).
 > Long et al. (2014).
 > - This character is possibly the synapomorphy of Parabuchanosteidae. This condition is also present in *Herasmius dayi*.
 
-192.  Central sensory canals: separate (0); meet posteriorly (1).
+190.  Central sensory canals: separate (0); meet posteriorly (1).
 
 > - Central sensory canals meet posterioly on central plates in *Watsonosteus* and *Dickosteus*.
 
-193. Supraorbital sensory canal extend to the rostral plate: absent (0); present (1).
+191. Supraorbital sensory canal extend to the rostral plate: absent (0); present (1).
 > Lelièvre (1995), character 43.
 
-194. Ventral sensory canal on the anterior ventrolateral plate: absent (0), present (1).
+192. Ventral sensory canal on the anterior ventrolateral plate: absent (0), present (1).
 
-195. Extrascapular: one (0); two (1).
+193. Extrascapular: one (0); two (1).
 
-196. Occipital cross commissure: absent (0); present (1).
+194. Occipital cross commissure: absent (0); present (1).
 
-197. Posterior dorsolateral plate: present (1); absent (0).
+195. Posterior dorsolateral plate: present (1); absent (0).
 
-198. Postorbital plate in contact with the nuchal plate: absent(0); present(1).
+196. Postorbital plate in contact with the nuchal plate: absent(0); present(1).
 
-199. Supraorbital sensory lines extend to the nuchal plate: present (0); absent (1).
+197. Supraorbital sensory lines extend to the nuchal plate: present (0); absent (1).
 
-200. Posterior dorsolateral plate: present(0); absent(1).
+208. Posterior dorsolateral plate: present(0); absent(1).
 > Posterior dorsolateral plate is present in almost all arthrodires except phyllolepid. However, in phyllolepids the posterior dorsolateral is only present in *Cowralepis*.  
 
-201. Postmarginal canal extend to the postmarginal plate: present (0); absent (1).
+209. Postmarginal canal extend to the postmarginal plate: present (0); absent (1).
 > In most arthrodires, the postmarginal canal is extend to the postmarginal plate, but in some clade, such as *Baringaspis* and *Yujiangolepis*, the postmarginal canal is limited in the marginal plate.
 
 
