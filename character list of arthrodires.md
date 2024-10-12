@@ -1422,7 +1422,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - **Position of Profundus sensory line: on preorbital plate (0), on postorbital and preorbital plates (1), on postorbital plate at intersection with infraorbital sensory line (2).**
 > - **Condition of Profundus sensory line on preorbital and postorbital plates: disconnected segments (0), a continuous line (1).**
 
-**182. Profundus sensory line connect with the optic branch of infraorbital sensory line: present(0); absent(1). **
+**182. Profundus sensory line connect with the optic branch of infraorbital sensory line: present(0); absent(1).**
 > Modified from Johnson *et al*. (2000), Character 24.
 
 > - Johnson *et al*. (2000): "In *Bryantolepis brachycephala* the profundus sensory line is present as a continuous line from the central sensory line on the Postorbital to the centre of the Preorbital terminating near the supraorbital sensory line (Denison, 1958)."
@@ -1436,7 +1436,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > Modified from Johnson *et al*. (2000), Character 22.
 
 
-184. Condition of Profundus sensory line on preorbital and postorbital plates: disconnected segments (0), a continuous line (1).
+**184. Condition of Profundus sensory line on preorbital and postorbital plates: disconnected segments (0), a continuous line (1).**
 > Modified from Johnson *et al*. (2000), Character 23.
 
 > - Johnson *et al*. (2000): "This character is known only in *Simblaspis cachensis* (Denison, 1958)."
