@@ -1445,7 +1445,6 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  
 > - The coding of the new Xitun actinolepid is 0.
 
-
 185. Spiracular notch: absent (0); present (1).
 > - The spiracular notch between the postorbital plate and the dorsal margin of suborbital plate is present in some Incisoscutoidea, such as *Torosteus*, *Harrytoombsia*, and *Mcnamaraspis*. The spiracular notch of *Mcnamaraspis* is closed by short contact between the suborbital and postorbital plates.
 
@@ -1454,39 +1453,41 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 187. Cutaneous sensory organ pit on the suborbital plate: absent (0); present (1).     
 > - Within arthrodires, cutaneous sensory organ pits are most commonly found on the suborbital and postsuborbital plates of eubrachythoracid arthrodires: the suborbitaland postsuborbital plates of Coccosteus (Stensi€o 1963;Fig. 5B), Watsonosteus (Miles & Westoll 1962), Goodradigbeeon (White 1978), Torosteus (Gardiner & Miles 1990) and Plourdosteus (Ørvig 1960) and the postsuborbital plate of Harrytoombsia (Miles  &  Dennis  1979), Mcnamaraspis (Long 1995), Simosteus (Dennis & Miles 1982), Compagopiscis (Gardiner & Miles 1994), Dickosteus (Miles & Westoll 1962) and Kimberleyichthyes (Dennis-Bryan & Miles 1983).
 
-
 188.Supraorbital crista: absent (0); present (1).
 
 > - The supraorbital crista is present in *Arenipiscus*,*Dhanguura*, and *Exutaspis*.
 
-189. ADL overlapped by the PL: absent(0); present(1).
+189. Anterior dorsolateral plate overlapped by the posterior lateral plate: absent(0); present(1).
 > Long et al. (2014).
+
 > - This character is possibly the synapomorphy of Parabuchanosteidae. This condition is also present in *Herasmius dayi*.
 
 190.  Central sensory canals: separate (0); meet posteriorly (1).
 
 > - Central sensory canals meet posterioly on central plates in *Watsonosteus* and *Dickosteus*.
 
-191. Supraorbital sensory canal extend to the rostral plate: absent (0); present (1).
+191. Supraorbital sensory canals extending to the rostral plate: absent (0); present (1).
 > Lelièvre (1995), character 43.
 
 192. Ventral sensory canal on the anterior ventrolateral plate: absent (0), present (1).
 
-193. Extrascapular: one (0); two (1).
-
+193. Number of the extrascapular: one (0); two (1).
+>
+> - This character is contingent on Character 104.
+>
 194. Occipital cross commissure: absent (0); present (1).
 
 195. Posterior dorsolateral plate: present (1); absent (0).
 
 196. Postorbital plate in contact with the nuchal plate: absent(0); present(1).
 
-197. Supraorbital sensory lines extend to the nuchal plate: present (0); absent (1).
+197. Supraorbital sensory canals extending to the nuchal plate: present (0); absent (1).
 
-208. Posterior dorsolateral plate: present(0); absent(1).
-> Posterior dorsolateral plate is present in almost all arthrodires except phyllolepid. However, in phyllolepids the posterior dorsolateral is only present in *Cowralepis*.  
+198. Posterior dorsolateral plate: present(0); absent(1).
+> - The posterior dorsolateral plate is present in almost all arthrodires except phyllolepids. However, in phyllolepids the posterior dorsolateral is only present in *Cowralepis*.  
 
-209. Postmarginal canal extend to the postmarginal plate: present (0); absent (1).
-> In most arthrodires, the postmarginal canal is extend to the postmarginal plate, but in some clade, such as *Baringaspis* and *Yujiangolepis*, the postmarginal canal is limited in the marginal plate.
+199. Postmarginal canal extending to the postmarginal plate: present (0); absent (1).
+> - In most arthrodires, the postmarginal canal extends to the postmarginal plate, but in some clade, such as *Baringaspis* and *Yujiangolepis*, the postmarginal canal is limited in the marginal plate.
 
 
 **Contact between anterior lateral and anterior ventrolateral plates behind pectoral fenestra: no (0); yes (1).**
