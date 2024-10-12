@@ -1424,6 +1424,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 **182. Profundus sensory line connect with the optic branch of infraorbital sensory line: present(0); absent(1). **
 > Modified from Johnson *et al*. (2000), Character 24.
+> - In those taxa that the profundus sensory line is absent, this character is scored as 'not applicable'.
 
 > - Johnson *et al*. (2000): "In *Bryantolepis brachycephala* the profundus sensory line is present as a continuous line from the central sensory line on the Postorbital to the centre of the Preorbital terminating near the supraorbital sensory line (Denison, 1958)."
 
@@ -1434,10 +1435,11 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 **183. Position of Profundus sensory line: on postorbital(0), on postorbital and preorbital plates(1).** 
 > Modified from Johnson *et al*. (2000), Character 22.
-
+> - In those taxa that the profundus sensory line is absent, this character is scored as 'not applicable'.
 
 184. Condition of Profundus sensory line on preorbital and postorbital plates: disconnected segments (0), a continuous line (1).
 > Modified from Johnson *et al*. (2000), Character 23.
+> - In those taxa that the profundus sensory line is absent, this character is scored as 'not applicable'.
 
 > - Johnson *et al*. (2000): "This character is known only in *Simblaspis cachensis* (Denison, 1958)."
 
@@ -1461,32 +1463,37 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > Long et al. (2014).
 
 > - This character is possibly the synapomorphy of Parabuchanosteidae. This condition is also present in *Herasmius dayi*.
->
+
 > Dermal contact between the anterior dorsolateral and posterior lateral plates: Absent (0) Present (1). 
 > Fitzpatrick *et al*. (2024), character 125.
-> 
+
+
 190.  Central sensory canals: separate (0); meet posteriorly (1).
 
 > - Central sensory canals meet posterioly on central plates in *Watsonosteus* and *Dickosteus*.
+> - In those taxa that the central sensory canal is absent, this character is scored as 'not applicable'.
 
 191. Supraorbital sensory canals extending to the rostral plate: absent (0); present (1).
 > Lelièvre (1995), character 43.
 
 192. Ventral sensory canal on the anterior ventrolateral plate: absent (0), present (1).
 
+
 193. Number of the extrascapular: one (0); two (1).
->
-> - This character is contingent on Character 104.
->
+
+> - In those taxa that the extrascapular is absent, this character is scored as 'not applicable'. 
+> - **This character is contingent on Character 104.**
+
 194. Occipital cross commissure: absent (0); present (1).
 
 195. Posterior dorsolateral plate: present (1); absent (0).
+> - The posterior dorsalateral plate is absent in most phyllolepids, except *Cowralepis*.
 
-196. Postorbital plate in contact with the nuchal plate: absent(0); present(1).
+196. Postorbital plate in contact with the nuchal plate: absent(0); present(1).    
 
-197. Supraorbital sensory canals extending to the nuchal plate: present (0); absent (1).
+198. Supraorbital sensory canals extending to the nuchal plate: present (0); absent (1).
 
-198. Posterior dorsolateral plate: present(0); absent(1).
+199. Posterior dorsolateral plate: present(0); absent(1).
 > - The posterior dorsolateral plate is present in almost all arthrodires except phyllolepids. However, in phyllolepids the posterior dorsolateral is only present in *Cowralepis*.  
 
 199. Postmarginal canal extending to the postmarginal plate: present (0); absent (1).
