@@ -241,7 +241,7 @@
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
- 28. **Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes)/ (distance between pineal and paired condyles): small (r < 0.2)(0); intermediate (0.2 < r < 0.5) (1); large (r > 0.5)(2).**
+ 28. Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes)/ (distance between pineal and paired condyles): small (r < 0.2)(0); intermediate (0.2 < r < 0.5) (1); large (r > 0.5)(2).
 > Carr (1991), Character 28; Carr and Hlavin (2010), Character 28; Rücklin *et al*. (2015), Character 28; Zhu Y *et al*. (2016), Character 28; Jobbins *et al*. (2022, 2024), Character 28; Xue *et al*. (submitted), Character 28.
 
 >  - The orginal definition of this character in Carr (1991) is " Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes)/ (distance between pineal and paired condyles): small (0); intermediate (1); large (2)." However, there was no value to define these three states. Here, we complement it as "small (r < 0.2)(0); intermediate (0.2 < r < 0.5) (1); large (r > 0.5)(2)."
@@ -489,7 +489,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  55. Position of pineal plate: further anteriorly from orbits (0); same level as orbits (1).
 > Dupret *et al*. (2009), Character 6; Dupret *et al*. (2017), Character 6; Zhu *et al*. (2010), Character 6; Xue *et al*. (in review), Character 55.
 
-> - **In those taxa that the pineal plate is fused with rostral plate, this character revises to Position of pineal plate.**
+> - In those taxa that the pineal plate is fused with rostral plate, we use the rostropineal plate to represent the pineal plate.
 
 > - The coding of the new Xitun actinolepid is 1.
 
@@ -1393,21 +1393,20 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 176. Middle pit-line: absent (0); present (1).
 > - In the Dunkleosteidae, the middle pit-line is absent, such as in *Gorgonichthys*, *Dunkleosteus*, and *Heterosteus ingens*. The middle pit-line is present in the majority of arthrodires, such as in *Kujdanowiaspis* and *Coccosteus*.
 
-177. Postocular cresta at the visceral surface of postorbital plate: absent (0); present (1).
-> - The postocular cresta is present in many plesiomorphic arthrodires, such as *Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2), but is absent in eubrachythoracids. In contrast, many eubrachythoracids posssess dermal postorbital processes, but lacking the postocular crest.
+177. Postocular crest on the visceral surface of skull roof: absent (0); present (1).
+> - The postocular crest of skull roof (Young, 1979) is present in many plesiomorphic arthrodires, such as *Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2), but is absent in eubrachythoracids. In contrast, many eubrachythoracids posssess dermal postorbital processes, but lacking the postocular crest.
+> - The postocular crest of skull roof is positioned posterior to the supraorbital vault on the visceral surface of skull roof, e.g.*Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2).     
 
-> - Dennis and Miles (1979): 20. Suborbital plate with internal laminae (Figs 3, 11B). This plate (P50937) is structurally the same as that described for *Harrytoombsia*, except for the **postocular crista** which is proportionally much narrower and less robust. However, it does broaden anteriorly to form a substantial subocular crista. Also, the overlap area on the dorsal surface (PN.oa, Fig. 11B) receives the postnasal plate and not the preorbital lamina of the preorbital plate as is the case with *Harrytoombsia*.
-> - Rucklin (2011): "The visceral surface bears fused sub- and postocular crista, which form the ventral and posterior borders of the orbital vault. The subocular crista broadens anteriorly and is 5 mm wide lateromedially (Text-fig. 6C–D)."
-> - The postocular crest is a structure on the suborbital plate (dermal cheek).
-> - The postocular cresta is positioned posterior to the supraorbital vault at the visceral surface of postorbital plate, e.g.*Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2).     
+> - The postocular crest is also present on the suborbital plate (Dennis and Miles, 1979; Rucklin, 2011). 
+> - Dennis and Miles (1979): 20. Suborbital plate with internal laminae (Figs 3, 11B). This plate (P50937) is structurally the same as that described for *Harrytoombsia*, except for the **postocular crista** which is proportionally much narrower and less robust. However, it does broaden anteriorly to form a substantial subocular crista. Also, the overlap area on the dorsal surface (PN.oa, Fig. 11B) receives the postnasal plate and not the preorbital lamina of the preorbital plate as is the case with *Harrytoombsia*. Rucklin (2011): "The visceral surface bears fused sub- and postocular crista, which form the ventral and posterior borders of the orbital vault. The subocular crista broadens anteriorly and is 5 mm wide lateromedially (Text-fig. 6C–D)."
 
-178. Round depression lateral to supraorbital vault: absent (0); present (1).
-> - The round depression is present in many plesiomorphic arthrodires, such as *Buchansopteus*, *Dhanguura* and *Exutaspis*.
+178. Depression lateral to supraorbital vault: absent (0); present (1).
+> - This depression is present in many plesiomorphic arthrodires, such as *Buchansopteus*, *Dhanguura* and *Exutaspis*.
 
-179. Lateral nuchal depression on the dorsal suface of neurocranium: absent (0); present (1).
-> - The lateral nuchal depression on the dorsal suface of neurocranium is present in the brachythoracids and absent in the plesiomorphic arthrodires. The lateral nuchal depression corresponds to the endolymphatic thickening.
+179. Endolymphatic thickening on the visceral surface of skull roof: absent (0); present (1).
+> - 
 
-180. Median nuchal depression: long (0); short (1).
+180. Median nuchal thickening on the visceral surface of skull roof: long (0); short (1).
 > - The median nuchal depression on the dorsal suface of neurocranium is short in the brachythoracids and long in the plesiomorphic arthrodires.
 
 181. Profundus sensory line : absent (0); present (1).
@@ -1417,26 +1416,22 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of the new Xitun actinolepid is 0.
 
---More logical formulations--
-> - **Profundus sensory line: absent (0); present (1).**
-> - **Position of Profundus sensory line: on preorbital plate (0), on postorbital and preorbital plates (1), on postorbital plate at intersection with infraorbital sensory line (2).**
-> - **Condition of Profundus sensory line on preorbital and postorbital plates: disconnected segments (0), a continuous line (1).**
+182. Position of Profundus sensory line: on preorbital (0), on postorbital (1), on both postorbital and preorbital plates (2). 
+> Modified from Johnson *et al*. (2000), Character 22.
 
-**182. Profundus sensory line connect with the optic branch of infraorbital sensory line: present(0); absent(1).**
+183. Profundus sensory line connecting with the infraorbital sensory line: absent (0); present (1).
+
 > Modified from Johnson *et al*. (2000), Character 24.
 
 > - Johnson *et al*. (2000): "In *Bryantolepis brachycephala* the profundus sensory line is present as a continuous line from the central sensory line on the Postorbital to the centre of the Preorbital terminating near the supraorbital sensory line (Denison, 1958)."
 
 > - In *Kujdanowisaspis podolica*, the short profundus sensory line is not connecting with the optic branch of infraorbital or central sensory lines.
-> - Johnson *et al*. (2000): "A small segment of the profundus sensory line branches off the intersection of the central sensory line and the infraorbital sensory line (postorbital branch) in *Aleosteus eganensis*, an arrangement not recorded in any other actinolepid." Here, I consider that Johnson *et al.* (2000) inaccurately identified the profundus sensory line, and what they considered the profundus sensory line of *Aleosteus eganensis* is actually the optic branch of the infraorbital sensory line.
+> - Johnson *et al*. (2000): "A small segment of the profundus sensory line branches off the intersection of the central sensory line and the infraorbital sensory line (postorbital branch) in *Aleosteus eganensis*, an arrangement not recorded in any other actinolepid."
 
 > - The coding of the new Xitun actinolepid is 0.
 
-**183. Position of Profundus sensory line: on postorbital(0), on postorbital and preorbital plates(1).** 
-> Modified from Johnson *et al*. (2000), Character 22.
+184. Condition of Profundus sensory line on preorbital and postorbital plates: disconnected segments (0), a continuous line (1).
 
-
-**184. Condition of Profundus sensory line on preorbital and postorbital plates: disconnected segments (0), a continuous line (1).**
 > Modified from Johnson *et al*. (2000), Character 23.
 
 > - Johnson *et al*. (2000): "This character is known only in *Simblaspis cachensis* (Denison, 1958)."
@@ -1448,14 +1443,13 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 185. Spiracular notch: absent (0); present (1).
 > - The spiracular notch between the postorbital plate and the dorsal margin of suborbital plate is present in some Incisoscutoidea, such as *Torosteus*, *Harrytoombsia*, and *Mcnamaraspis*. The spiracular notch of *Mcnamaraspis* is closed by short contact between the suborbital and postorbital plates.
 
-186. Cutaneous sensory organ pit on the postsuborbital plate: absent(0); present(1).
-     
-187. Cutaneous sensory organ pit on the suborbital plate: absent (0); present (1).     
-> - Within arthrodires, cutaneous sensory organ pits are most commonly found on the suborbital and postsuborbital plates of eubrachythoracid arthrodires: the suborbitaland postsuborbital plates of Coccosteus (Stensi€o 1963;Fig. 5B), Watsonosteus (Miles & Westoll 1962), Goodradigbeeon (White 1978), Torosteus (Gardiner & Miles 1990) and Plourdosteus (Ørvig 1960) and the postsuborbital plate of Harrytoombsia (Miles  &  Dennis  1979), Mcnamaraspis (Long 1995), Simosteus (Dennis & Miles 1982), Compagopiscis (Gardiner & Miles 1994), Dickosteus (Miles & Westoll 1962) and Kimberleyichthyes (Dennis-Bryan & Miles 1983).
+186. Cutaneous sensory organ pit on the dermal cheek: absent (0); present(1).
+   
+> - Within arthrodires, cutaneous sensory organ pits are most commonly found on the suborbital and postsuborbital plates of eubrachythoracid arthrodires: the suborbital and postsuborbital plates of Coccosteus (Stensio 1963; Fig. 5B), Watsonosteus (Miles & Westoll 1962), Goodradigbeeon (White 1978), Torosteus (Gardiner & Miles 1990) and Plourdosteus (Ørvig 1960) and the postsuborbital plate of Harrytoombsia (Miles  &  Dennis  1979), Mcnamaraspis (Long 1995), Simosteus (Dennis & Miles 1982), Compagopiscis (Gardiner & Miles 1994), Dickosteus (Miles & Westoll 1962) and Kimberleyichthyes (Dennis-Bryan & Miles 1983).
 
-188.Supraorbital crista: absent (0); present (1).
+187. Supraorbital crista: absent (0); present (1).
 
-> - The supraorbital crista is present in *Arenipiscus*,*Dhanguura*, and *Exutaspis*.
+> - The supraorbital crista is present in *Arenipiscus*, *Dhanguura*, and *Exutaspis*.
 
 189. Anterior dorsolateral plate overlapped by the posterior lateral plate: absent(0); present(1).
 > Long et al. (2014).
