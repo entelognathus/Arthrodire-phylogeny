@@ -1420,6 +1420,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > Modified from Johnson *et al*. (2000), Character 22.
 
 183. Profundus sensory line connecting with the infraorbital sensory line: absent (0); present (1).
+
 > Modified from Johnson *et al*. (2000), Character 24.
 
 > - Johnson *et al*. (2000): "In *Bryantolepis brachycephala* the profundus sensory line is present as a continuous line from the central sensory line on the Postorbital to the centre of the Preorbital terminating near the supraorbital sensory line (Denison, 1958)."
@@ -1430,6 +1431,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of the new Xitun actinolepid is 0.
 
 184. Condition of Profundus sensory line on preorbital and postorbital plates: disconnected segments (0), a continuous line (1).
+
 > Modified from Johnson *et al*. (2000), Character 23.
 
 > - Johnson *et al*. (2000): "This character is known only in *Simblaspis cachensis* (Denison, 1958)."
