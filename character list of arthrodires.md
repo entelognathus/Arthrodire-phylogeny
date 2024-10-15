@@ -1388,8 +1388,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
 ## more additions
-### Skull roof
-
+### cranial part
 175. The groove of the path of the ramus mandibularis internus VII: absent (0); present (1).
 > - In Coccosteomorhpi, on the mesial surface of the blade, a groove running subparallel to its lower edge (gr.cth) is possibly corresponding to the path of the ramus mandibularis internus VII, such as in the *Coccosteus cuspidatus*, *Xiantingosteus gracilis*, and *Camuropiscis concinnus*.
 
@@ -1454,85 +1453,84 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The supraorbital crista is present in *Arenipiscus*, *Dhanguura*, and *Exutaspis*.
 
-190.  Central sensory canals: separate (0); meet posteriorly (1).
+188.  Central sensory canals: separate (0); meet posteriorly (1).
 
 > - Central sensory canals meet posterioly on central plates in *Watsonosteus* and *Dickosteus*.
 
-191. Supraorbital sensory canals extending to the rostral plate: absent (0); present (1).
+189. Supraorbital sensory canals extending to the rostral plate: absent (0); present (1).
 > Lelièvre (1995), character 43.
 
-192. Ventral sensory canal on the anterior ventrolateral plate: absent (0), present (1).
-> Fitzpatrick *et al*. (2024), character 131.
 
-193. Number of the extrascapular: one (0); two (1).
+190. Supraorbital sensory canals extending to the nuchal plate: absent (0); present (1).
+
+
+191. Postmarginal canal extending to the postmarginal plate: present (0); absent (1).
+> - In most arthrodires, the postmarginal canal extends to the postmarginal plate, but in some clade, such as *Baringaspis* and *Yujiangolepis*, the postmarginal canal is limited in the marginal plate.
+
+192. Number of the extrascapular: one (0); two (1).
 > - This character is contingent on Character 104.
 >
-194. Occipital cross commissure: absent (0); present (1).
 
-195. Postorbital plate in contact with the nuchal plate: absent(0); present(1).
+193. Occipital cross commissure: absent (0); present (1).
 
-196. Supraorbital sensory canals extending to the nuchal plate: present (0); absent (1).
+194. Postorbital plate in contact with the nuchal plate: absent(0); present(1).
 
-Width/length (W/L) ratio of preorbital plates: W/L > 0.5 (0); W/L <= 0.5 (1).
+
+195. Width/length (W/L) ratio of preorbital plates: W/L > 0.5 (0); W/L <= 0.5 (1).
 > Dupret *et al*. (2009, 2017), Character 57.
 
-Transversely divided pineal plate forming anterior and posterior plates: Absent (0) Present (1). 
+196. Transversely divided pineal plate forming anterior and posterior plates: Absent (0) Present (1). 
 > Fitzpatrick *et al*. (2024), character 123.
 
 
+### postcranial part
 
-
-189. Anterior dorsolateral plate overlapped by the posterior lateral plate: absent(0); present(1).
+197. Anterior dorsolateral plate overlapped by the posterior lateral plate: absent(0); present(1).
 > Long et al. (2014); Fitzpatrick *et al*. (2024), character 125.
 
 > - Fitzpatrick *et al*. (2024), character 125, "Dermal contact between the anterior dorsolateral and posterior lateral plates: absent (0), present (1)." 
 > - This character is possibly the synapomorphy of Parabuchanosteidae. This condition is also present in *Herasmius dayi*.
 >
 
-197. Posterior dorsolateral plate: present(0); absent(1).
+198. Posterior dorsolateral plate: present(0); absent(1).
 > - The posterior dorsolateral plate is present in almost all arthrodires except phyllolepids. However, in phyllolepids the posterior dorsolateral is only present in *Cowralepis*.  
 
-198. Postmarginal canal extending to the postmarginal plate: present (0); absent (1).
-> - In most arthrodires, the postmarginal canal extends to the postmarginal plate, but in some clade, such as *Baringaspis* and *Yujiangolepis*, the postmarginal canal is limited in the marginal plate.
-
-Contact between anterior lateral and anterior ventrolateral plates behind pectoral fenestra: no (0); yes (1).
+199. Contact between anterior lateral and anterior ventrolateral plates behind pectoral fenestra: no (0); yes (1).
 > Dupret *et al*. (2009, 2017), Character 51.
 
-Posterior median dorsal plates covering the tail: absent (0); present (1).
+200. Posterior median dorsal plates covering the tail: absent (0); present (1).
 > Dupret *et al*. (2009, 2017), Character 56.
 
-Length/width ratio (L/W) of median dorsal plate: L/W < 1.5 (0); L/W >= 1.5 (1).
+201. Length/width ratio (L/W) of median dorsal plate: L/W < 1.5 (0); L/W >= 1.5 (1).
 > Dupret *et al*. (2009, 2017), Character 60.
 
 > - check the redundancy of this character with Charater 78,  L/W <=  OR > 1.0. They are slightly different. check codings in two matrix. 
 
-Length/width ratio (L/W) of anterior dorsolateral plate: L/H < 1 (0); L/H >= 1 (1).
+202. Length/height ratio (L/H) of anterior dorsolateral plate: L/H < 1 (0); L/H >= 1 (1).
 > Dupret *et al*. (2009, 2017), Character 61.
 
-Angle between interolateral and spinal plates: angle < 110 (0); angle > 110 (1).
+203. Angle between interolateral and spinal plates: angle < 110 (0); angle > 110 (1).
 > Dupret *et al*. (2009, 2017), Character 63. **check codings**
 
 > check state definition. an error exists in Dupret et al. (2017).
 
-Dermal contact between the anterior dorsolateral and posterior lateral plates: Absent (0) Present (1). 
-> Fitzpatrick *et al*. (2024), character 125.
-
-Inverted V-shaped flexure of the posterior dorsolateral plate sensory canal. Scored not applicable in taxa without a PDL flexuresensory canal: No flexure (0) Weak flexure, >110° (1) Strong flexure, <110° (2).  
+204. Inverted V-shaped flexure of the posterior dorsolateral plate sensory canal. Scored not applicable in taxa without a PDL flexuresensory canal: No flexure (0) Weak flexure, >110° (1) Strong flexure, <110° (2).  
 > Fitzpatrick *et al*. (2024), character 126. Long (1995).
 
-Dorsolateral ridge originating from near the condyle of the anterior dorsolateral plate: Absent (0) Present (1).
+205. Dorsolateral ridge originating from near the condyle of the anterior dorsolateral plate: Absent (0) Present (1).
 > Fitzpatrick *et al*. (2024), character 127. Long (1995).
 
-Medial contact of the dorsolateral plates under the median dorsal plate: No contact (0) anterior dorsolateral plates (1) anterior and posterior dorsolateral plates (2).
+206. Medial contact of the dorsolateral plates under the median dorsal plate: No contact (0) anterior dorsolateral plates (1) anterior and posterior dorsolateral plates (2).
 > Fitzpatrick *et al*. (2024), character 128. Goujet(1984).
 
-Internal annular thickening of the posterior trunk plates (‘b.cpd’, Goujet 1984, fig. 61B): Absent (0) Present (1).  
+207. Internal annular thickening of the posterior trunk plates (‘b.cpd’, Goujet 1984, fig. 61B): Absent (0) Present (1).  
 > Fitzpatrick *et al*. (2024), character 129. Goujet(1984).
 
-
-Distinct infraspinal lamina/process (‘pr.infsp’, Miles & Westoll 1968, fig. 40C; ‘la.spv’, Goujet 1984, fig. 66A) of the anterior ventrolateral plate: Absent (0) Present (1).
+208. Distinct infraspinal lamina/process (‘pr.infsp’, Miles & Westoll 1968, fig. 40C; ‘la.spv’, Goujet 1984, fig. 66A) of the anterior ventrolateral plate: Absent (0) Present (1).
 > Fitzpatrick *et al*. (2024), character 132.
 
+209. Ventral sensory canal on the anterior ventrolateral plate: absent (0), present (1).
+> Fitzpatrick *et al*. (2024), character 131.
 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
