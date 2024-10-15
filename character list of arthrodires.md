@@ -606,8 +606,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
-71. Type of exoskeletal dermal craniothoracic articulatuion: actinolepid' sliding neck joint'(0); ginglymoid phlyctaenioid type（1）；‘spoon-like’ petalichthyid type (2).
-> Dupret *et al*. (2009, 2017), Character 40; Zhu *et al*, Character 40; Xue *et al*. (in review), Character 71.
+71. Type of exoskeletal dermal craniothoracic articulatuion: actinolepid sliding neck joint (0); ginglymoid phlyctaenioid type (1); ‘spoon-like’ petalichthyid type (2).
+> Miles (1973), in part; Dupret *et al*. (2009, 2017), Character 40; Zhu *et al*. (2010), Character 40; Xue *et al*. (in review), Character 71; Fitzpatrick *et al*. (2024), character 122.
  
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
@@ -713,7 +713,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  86. Ventral lamina of the posterior lateral plate: absent (0); present (1).
-> Gardiner & Miles (1990), Character 22.13; Carr (1991), Character ; Carr and Hlavin (2010), Character 44; Rücklin *et al*. (2015), Character 44; Zhu Y *et al*. (2016), Character 44; Jobbins *et al*. (2022, 2024), Character 44； Xue *et al*. (in review), Character 86.
+> Gardiner & Miles (1990), Character 22.13; Carr (1991), Character ?; Carr and Hlavin (2010), Character 44; Rücklin *et al*. (2015), Character 44; Zhu Y *et al*. (2016), Character 44; Jobbins *et al*. (2022, 2024), Character 44； Xue *et al*. (in review), Character 86.
 
 > - In those taxa that the posterior lateral plate is absent, this character is scored as 'not applicable'.
 
@@ -1445,14 +1445,14 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The spiracular notch between the postorbital plate and the dorsal margin of suborbital plate is present in some Incisoscutoidea, such as *Torosteus*, *Harrytoombsia*, and *Mcnamaraspis*. The spiracular notch of *Mcnamaraspis* is closed by short contact between the suborbital and postorbital plates.
 
 186. Cutaneous sensory organ on suborbital plate: (0) absent; (1) present.
-> King *et al*. (2017), Character 240; Castiello (2018), Character 240; Zhu Y. *et al*. (2022), Character 83; Brazeau *et al*. (2023), Character 245; Cui *et al*. (2023), Character 83; Fitzpatrick *et al*. (2024), character 124.
+> King *et al*. (2016); King *et al*. (2017), Character 240; Castiello (2018), Character 240; Zhu Y. *et al*. (2022), Character 83; Brazeau *et al*. (2023), Character 245; Cui *et al*. (2023), Character 83; Fitzpatrick *et al*. (2024), character 124.
 >
 >  - Within arthrodires, cutaneous sensory organ pits are most commonly found on the suborbital and postsuborbital plates of eubrachythoracid arthrodires: the suborbital and postsuborbital plates of *Coccosteus* (Stensio 1963; Fig. 5B), *Watsonosteus* (Miles & Westoll 1962), *Goodradigbeeon* (White 1978), *Torosteus* (Gardiner & Miles 1990) and *Plourdosteus* (Ørvig 1960) and the postsuborbital plate of *Harrytoombsia* (Miles  &  Dennis  1979), *Mcnamaraspis* (Long 1995), *Simosteus* (Dennis & Miles 1982), *Compagopiscis* (Gardiner & Miles 1994), *Dickosteus* (Miles & Westoll 1962) and *Kimberleyichthys* (Dennis-Bryan & Miles 1983).
 
 > - **Character 81 in "early gnathostome phylogeny github".**
 
 187. Cutaneous sensory organ on postsuborbital plate: (0) absent; (1) present.
-> King *et al*. (2017), Character 241; Castiello (2018), Character 241; Zhu Y. *et al*. (2022), Character 84; Brazeau *et al*. (2023), Character 246; Cui *et al*. (2023), Character 84; Fitzpatrick *et al*. (2024), character 124.
+> King *et al*. (2016); King *et al*. (2017), Character 241; Castiello (2018), Character 241; Zhu Y. *et al*. (2022), Character 84; Brazeau *et al*. (2023), Character 246; Cui *et al*. (2023), Character 84; Fitzpatrick *et al*. (2024), character 124.
 
 > - **Character 82 in "early gnathostome phylogeny github".**
 > - 
@@ -1485,11 +1485,11 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > Dupret *et al*. (2009, 2017), Character 57.
 
 197. Transversely divided pineal plate forming anterior and posterior plates: Absent (0) Present (1). 
-> Fitzpatrick *et al*. (2024), character 123.
+> Fitzpatrick *et al*. (2024), Character 123.
 
 ### postcranial part
 198. Anterior dorsolateral plate overlapped by the posterior lateral plate: absent(0); present(1).
-> Long et al. (2014); Fitzpatrick *et al*. (2024), character 125.
+> Long et al. (2014); Fitzpatrick *et al*. (2024), Character 125.
 
 > - Fitzpatrick *et al*. (2024), character 125, "Dermal contact between the anterior dorsolateral and posterior lateral plates: absent (0), present (1)." 
 > - This character is possibly the synapomorphy of Parabuchanosteidae. This condition is also present in *Herasmius dayi*.
@@ -1653,6 +1653,8 @@ Ivanov AO. 1989. A new genus of arthrodires from the Upper Devonian of Timan. Pa
 
 Jaekel OMJ. 1911. Die Wirbeltiere. Berlin: Gebrüder Borntraeger.
 
+King B, Hu Y, Long, JA. 2018. Electroreception in early vertebrates: survey, evidence and new information. Palaeontology, 61(3): 325-58. DOI 10.1111/pala.12346
+
 Kluge AG. 1984. The relevance of parsimony to phylogenetic inference. In: Duncan T, Stuessy TF, eds. Cladistics: perspectives on the reconstruction of evolutionary history. New York: Columbia University Press, 24–38.
 
 Kluge AG, Wolf AJ. 1993. Cladistics: what’s in a word? Cladistics 9: 183–199.
@@ -1692,6 +1694,8 @@ McCoy F. 1848. On some new fossil fish of the Carboniferous period. Annals and M
 Miles RS. 1969. Features of placoderm diversification and the evolution of the Arthrodire feeding mechanism. Transactions of the Royal Society of Edinburgh 68: 123–170.
 
 Miles RS. 1971. The Holonematidae (placoderm fishes), a review based on new specimens of Holonema from the Upper Devonian of Western Australia. Philosophical Transactions of the Royal Society of London 263: 101–234.
+
+Miles RS. 1973. An actinolepid arthrodire from the lower Devonian Peel Sound formation, Prince of Wales Island. Palaeontographica Abteilung A 109-118.
 
 Miles RS, Dennis KD. 1979. A primitive eubrachythoracid arthrodire from Gogo, Western Australia. Zoological Journal of the Linnean Society 66: 31–62.
 
