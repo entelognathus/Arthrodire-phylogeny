@@ -1481,13 +1481,11 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 195. Postorbital plate in contact with the nuchal plate: absent(0); present(1).
 
-
 196. Width/length (W/L) ratio of preorbital plates: W/L > 0.5 (0); W/L <= 0.5 (1).
 > Dupret *et al*. (2009, 2017), Character 57.
 
 197. Transversely divided pineal plate forming anterior and posterior plates: Absent (0) Present (1). 
 > Fitzpatrick *et al*. (2024), character 123.
-
 
 ### postcranial part
 198. Anterior dorsolateral plate overlapped by the posterior lateral plate: absent(0); present(1).
@@ -1518,26 +1516,26 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 203. Length/height ratio (L/H) of anterior dorsolateral plate: L/H < 1 (0); L/H >= 1 (1).
 > Dupret *et al*. (2009, 2017), Character 61.
 
-204. Angle between interolateral and spinal plates: angle < 110 (0); angle > 110 (1).
+204. Angle between interolateral and spinal plates: angle < 110° (0); angle > 110° (1).
 > Dupret *et al*. (2009, 2017), Character 63. **check codings**
 
 > check state definition. an error exists in Dupret et al. (2017).
 
-205. Inverted V-shaped flexure of the posterior dorsolateral plate sensory canal: no flexure (0), weak flexure, >110° (1); strong flexure, <110° (2).  
+205. Inverted V-shaped flexure of the posterior dorsolateral plate sensory canal: no flexure (0), weak flexure, > 110° (1); strong flexure, < 110° (2).  
 > Fitzpatrick *et al*. (2024), character 126. Long (1995).
 
 > - Scored not applicable in taxa without a PDL flexuresensory canal.
 
-206. Dorsolateral ridge originating from near the condyle of the anterior dorsolateral plate: Absent (0) Present (1).
+206. Dorsolateral ridge originating from near the condyle of the anterior dorsolateral plate: absent (0), present (1).
 > Fitzpatrick *et al*. (2024), character 127. Long (1995).
 
-207. Medial contact of the dorsolateral plates under the median dorsal plate: No contact (0) anterior dorsolateral plates (1) anterior and posterior dorsolateral plates (2).
-> Fitzpatrick *et al*. (2024), character 128. Goujet(1984).
+207. Medial contact of the dorsolateral plates under the median dorsal plate: no contact (0); anterior dorsolateral plates (1); anterior and posterior dorsolateral plates (2).
+> Fitzpatrick *et al*. (2024), character 128. Goujet (1984).
 
-208. Internal annular thickening of the posterior trunk plates (‘b.cpd’, Goujet 1984, fig. 61B): Absent (0) Present (1).  
-> Fitzpatrick *et al*. (2024), character 129. Goujet(1984).
+208. Internal annular thickening of the posterior trunk plates (‘b.cpd’, Goujet 1984, fig. 61B): absent (0), present (1).  
+> Fitzpatrick *et al*. (2024), character 129. Goujet (1984).
 
-209. Distinct infraspinal lamina/process (‘pr.infsp’, Miles & Westoll 1968, fig. 40C; ‘la.spv’, Goujet 1984, fig. 66A) of the anterior ventrolateral plate: Absent (0) Present (1).
+209. Distinct infraspinal lamina/process (‘pr.infsp’, Miles & Westoll 1968, fig. 40C; ‘la.spv’, Goujet 1984, fig. 66A) of the anterior ventrolateral plate: absent (0), present (1).
 > Fitzpatrick *et al*. (2024), character 132.
 
 210. Ventral sensory canal on the anterior ventrolateral plate: absent (0), present (1).
@@ -1871,8 +1869,7 @@ Rücklin, M., Donoghue, P. C. J., Cunningham, J. A., Marone, F., and Stampanoni,
 
 Rücklin, M., Donoghue, P. C. J., Johanson, Z., Trinajstic, K., Marone, F., and Stampanoni, M. (2012). Development of teeth and jaws in the earliest jawed vertebrates. Nature 491, 748–751. doi: 10.1038/nature11555
 
-Rücklin, M., Lelièvre, H., and Klug, C. (2018). Placodermi from the Early Devonian Kess-Kess Mounds of Hamar Laghdad, Southern Morocco. Neues
-Jahrbuch für Geologie und Paläontologie, Abhandlungen 290, 301–306. doi: 10.1127/njgpa/2018/0780
+Rücklin, M., Lelièvre, H., and Klug, C. (2018). Placodermi from the Early Devonian Kess-Kess Mounds of Hamar Laghdad, Southern Morocco. Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen 290, 301–306. doi: 10.1127/njgpa/2018/0780
 
 Rücklin, M., Long, J. A., and Trinajstic, K. (2015). A new selenosteid arthrodire (‘Placodermi’) from the Late Devonian of Morocco. J. Vert. Paleontol. 35, 1–13. doi: 10.1080/02724634.2014.908896
 
@@ -1896,8 +1893,7 @@ Vaškaninová, V., Chen, D., Tafforeau, P., Johanson, Z., Ekrt, B., Blom, H., et
 
 Wendt, J. (1985). Disintegration of the continental margin of northwestern Gondwana: Late Devonian of the eastern Anti-Atlas (Morocco). Geology 13, 815–818. doi: 10.1130/0091-7613(1985)13<815:DOTCMO>2.0.CO;2
 
-Wendt, J. (1988). “Facies pattern and palaeogeography of the Middle and Late Devonian in the eastern Anti-Atlas (Morocco),” in Devonian of the World, I, eds
-N. J. Mc Millan, A. F. Embry, and D. J. Glass (Canada: Canadian Society of Petroleum Geologists), 467–480.
+Wendt, J. (1988). “Facies pattern and palaeogeography of the Middle and Late Devonian in the eastern Anti-Atlas (Morocco),” in Devonian of the World, I, eds N. J. Mc Millan, A. F. Embry, and D. J. Glass (Canada: Canadian Society of Petroleum Geologists), 467–480.
 
 Wendt, J. (2021). Middle and Late Devonian paleogeography of the eastern Anti-Atlas (Morocco). Int. J. Earth Sci. 110, 1531–1544. doi: 10.1007/s00531-021-02028-6
 
