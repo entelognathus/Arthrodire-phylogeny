@@ -880,9 +880,10 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
- 108. Anteroventral plates: absent (0); present (1).
-> Dupret *et al*. (2009), Character 50; Dupret *et al*. (2017), Character 50; Zhu *et al*. (2010), Character 50; Xue *et al*. (in review), Character 108.
+ 108. Anteroventral plate: absent (0); present (1).
+> Miles (1973); Dupret *et al*. (2009), Character 50; Dupret *et al*. (2017), Character 50; Zhu *et al*. (2010), Character 50; Xue *et al*. (in review), Character 108; Fitzpatrick *et al*. (2024), character 133.
 
+> - Also termed as the anterior ventral plate.
 > - The coding of the new Xitun actinolepid is ?.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
@@ -1522,24 +1523,27 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > check state definition. an error exists in Dupret et al. (2017).
 
 205. Inverted V-shaped flexure of the posterior dorsolateral plate sensory canal: no flexure (0), weak flexure, > 110° (1); strong flexure, < 110° (2).  
-> Fitzpatrick *et al*. (2024), character 126. Long (1995).
+> Long (1995); Fitzpatrick *et al*. (2024), character 126. 
 
 > - Scored not applicable in taxa without a PDL flexuresensory canal.
 
 206. Dorsolateral ridge originating from near the condyle of the anterior dorsolateral plate: absent (0), present (1).
-> Fitzpatrick *et al*. (2024), character 127. Long (1995).
+> Long (1995); Fitzpatrick *et al*. (2024), character 127.
 
 207. Medial contact of the dorsolateral plates under the median dorsal plate: no contact (0); anterior dorsolateral plates (1); anterior and posterior dorsolateral plates (2).
-> Fitzpatrick *et al*. (2024), character 128. Goujet (1984).
+> Goujet (1984); Fitzpatrick *et al*. (2024), character 128.
 
 208. Internal annular thickening of the posterior trunk plates (‘b.cpd’, Goujet 1984, fig. 61B): absent (0), present (1).  
-> Fitzpatrick *et al*. (2024), character 129. Goujet (1984).
+> Goujet (1984); Fitzpatrick *et al*. (2024), character 129.
 
-209. Distinct infraspinal lamina/process (‘pr.infsp’, Miles & Westoll 1968, fig. 40C; ‘la.spv’, Goujet 1984, fig. 66A) of the anterior ventrolateral plate: absent (0), present (1).
-> Fitzpatrick *et al*. (2024), character 132.
+209. Median contact of the posterior ventrolateral plate: simple overlap (0); Sigmoidal/double overlapping (1).
+> Goujet (1984); Dupret (2004); Fitzpatrick *et al*. (2024), character 13o.
 
 210. Ventral sensory canal on the anterior ventrolateral plate: absent (0), present (1).
 > Fitzpatrick *et al*. (2024), character 131.
+
+211. Distinct infraspinal lamina/process (‘pr.infsp’, Miles & Westoll 1968, fig. 40C; ‘la.spv’, Goujet 1984, fig. 66A) of the anterior ventrolateral plate: absent (0), present (1).
+> Fitzpatrick *et al*. (2024), character 132.
 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
@@ -1848,6 +1852,8 @@ Lingham-Soliar, T., and Plodowski, G. (2007). Taphonomic evidence for highspeed 
 Long, J., Trinajstic, K., Young, G., and Senden, T. (2008). Live birth in the Devonian period. Nature 453, 650–652. doi: 10.1038/nature06966
 
 Long, J. A. (1983). New Bothriolepid fish from the Late Devonian of Victoria, Australia. Palaeontol 26, 395–320.
+
+Long JA. 1995. A new groenlandaspidid arthrodire (Pisces; Placodermi) from the Middle. Records of the Western Australian Museum 17: 35-41.
 
 Long, J. A., Mark-Kurik, E., Johanson, Z., Lee, M. S. Y., Young, G. C., and Min, Z. (2015). Copulation in antiarch placoderms and the origin of gnathostome internal fertilization. Nature 517, 196–199. doi: 10.1038/nature13825
 
