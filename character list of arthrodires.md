@@ -1389,8 +1389,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 ## more additions
 ### cranial part
-175. The groove of the path of the ramus mandibularis internus VII: absent (0); present (1).
-> - In Coccosteomorhpi, on the mesial surface of the blade, a groove running subparallel to its lower edge (gr.cth) is possibly corresponding to the path of the ramus mandibularis internus VII, such as in the *Coccosteus cuspidatus*, *Xiantingosteus gracilis*, and *Camuropiscis concinnus*.
+175. The groove on the mesial surface of the infragnathal blade: absent (0); present (1).
+> - In Coccosteomorphi, on the mesial surface of the blade, a groove running subparallel to its lower edge is possibly for the path of the ramus mandibularis internus VII, such as in the *Coccosteus cuspidatus*, *Xiantingosteus gracilis*, and *Camuropiscis concinnus*.
 
 176. Middle pit-line: absent (0); present (1).
 > - In the Dunkleosteidae, the middle pit-line is absent, such as in *Gorgonichthys*, *Dunkleosteus*, and *Heterosteus ingens*. The middle pit-line is present in the majority of arthrodires, such as in *Kujdanowiaspis* and *Coccosteus*.
@@ -1441,95 +1441,106 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  
 > - The coding of the new Xitun actinolepid is 0.
 
-185. Spiracular notch: absent (0); present (1).
+185. Spiracular notch between the postorbital and suborbital plates: absent (0); present (1).
 > - The spiracular notch between the postorbital plate and the dorsal margin of suborbital plate is present in some Incisoscutoidea, such as *Torosteus*, *Harrytoombsia*, and *Mcnamaraspis*. The spiracular notch of *Mcnamaraspis* is closed by short contact between the suborbital and postorbital plates.
 
-186. Cutaneous sensory organ pit on the dermal cheek: absent (0); present(1).
-> King, Hu & Long, 2016, Fitzpatrick *et al*. (2024), character 124.
+186. Cutaneous sensory organ on suborbital plate: (0) absent; (1) present.
+> King *et al*. (2017), Character 240; Castiello (2018), Character 240; Zhu Y. *et al*. (2022), Character 83; Brazeau *et al*. (2023), Character 245; Cui *et al*. (2023), Character 83; Fitzpatrick *et al*. (2024), character 124.
+>
+>  - Within arthrodires, cutaneous sensory organ pits are most commonly found on the suborbital and postsuborbital plates of eubrachythoracid arthrodires: the suborbital and postsuborbital plates of *Coccosteus* (Stensio 1963; Fig. 5B), *Watsonosteus* (Miles & Westoll 1962), *Goodradigbeeon* (White 1978), *Torosteus* (Gardiner & Miles 1990) and *Plourdosteus* (Ørvig 1960) and the postsuborbital plate of *Harrytoombsia* (Miles  &  Dennis  1979), *Mcnamaraspis* (Long 1995), *Simosteus* (Dennis & Miles 1982), *Compagopiscis* (Gardiner & Miles 1994), *Dickosteus* (Miles & Westoll 1962) and *Kimberleyichthys* (Dennis-Bryan & Miles 1983).
 
-> - Within arthrodires, cutaneous sensory organ pits are most commonly found on the suborbital and postsuborbital plates of eubrachythoracid arthrodires: the suborbital and postsuborbital plates of Coccosteus (Stensio 1963; Fig. 5B), Watsonosteus (Miles & Westoll 1962), Goodradigbeeon (White 1978), Torosteus (Gardiner & Miles 1990) and Plourdosteus (Ørvig 1960) and the postsuborbital plate of Harrytoombsia (Miles  &  Dennis  1979), Mcnamaraspis (Long 1995), Simosteus (Dennis & Miles 1982), Compagopiscis (Gardiner & Miles 1994), Dickosteus (Miles & Westoll 1962) and Kimberleyichthyes (Dennis-Bryan & Miles 1983).
+> - **Character 81 in "early gnathostome phylogeny github".**
 
-187. Supraorbital crista: absent (0); present (1).
+187. Cutaneous sensory organ on postsuborbital plate: (0) absent; (1) present.
+> King *et al*. (2017), Character 241; Castiello (2018), Character 241; Zhu Y. *et al*. (2022), Character 84; Brazeau *et al*. (2023), Character 246; Cui *et al*. (2023), Character 84; Fitzpatrick *et al*. (2024), character 124.
+
+> - **Character 82 in "early gnathostome phylogeny github".**
+> - 
+
+188. Supraorbital crista: absent (0); present (1).
 
 > - The supraorbital crista is present in *Arenipiscus*, *Dhanguura*, and *Exutaspis*.
 
-188.  Central sensory canals: separate (0); meet posteriorly (1).
+189.  Central sensory canals: separate (0); meet posteriorly (1).
 
-> - Central sensory canals meet posterioly on central plates in *Watsonosteus* and *Dickosteus*.
+> - Central sensory canals meet posterioly on Occipital cross commissurecentral plates in *Watsonosteus* and *Dickosteus*.
 
-189. Supraorbital sensory canals extending to the rostral plate: absent (0); present (1).
+190. Supraorbital sensory canals extending to the rostral plate: absent (0); present (1).
 > Lelièvre (1995), character 43.
 
+191. Supraorbital sensory canals extending to the nuchal plate: absent (0); present (1).
 
-190. Supraorbital sensory canals extending to the nuchal plate: absent (0); present (1).
 
+192. Postmarginal canal extending to the postmarginal plate: present (0); absent (1).
+> - In most arthrodires, the postmarginal canal extends to the postmarginal plate, but in some taxa, such as *Baringaspis* and *Yujiangolepis*, the postmarginal canal is limited in the marginal plate.
 
-191. Postmarginal canal extending to the postmarginal plate: present (0); absent (1).
-> - In most arthrodires, the postmarginal canal extends to the postmarginal plate, but in some clade, such as *Baringaspis* and *Yujiangolepis*, the postmarginal canal is limited in the marginal plate.
-
-192. Number of the extrascapular: one (0); two (1).
+193. Number of the extrascapular: one (0); two (1).
 > - This character is contingent on Character 104.
->
 
-193. Occipital cross commissure: absent (0); present (1).
+194. Occipital cross commissure: absent (0); present (1).
 
-194. Postorbital plate in contact with the nuchal plate: absent(0); present(1).
+195. Postorbital plate in contact with the nuchal plate: absent(0); present(1).
 
 
-195. Width/length (W/L) ratio of preorbital plates: W/L > 0.5 (0); W/L <= 0.5 (1).
+196. Width/length (W/L) ratio of preorbital plates: W/L > 0.5 (0); W/L <= 0.5 (1).
 > Dupret *et al*. (2009, 2017), Character 57.
 
-196. Transversely divided pineal plate forming anterior and posterior plates: Absent (0) Present (1). 
+197. Transversely divided pineal plate forming anterior and posterior plates: Absent (0) Present (1). 
 > Fitzpatrick *et al*. (2024), character 123.
 
 
 ### postcranial part
-
-197. Anterior dorsolateral plate overlapped by the posterior lateral plate: absent(0); present(1).
+198. Anterior dorsolateral plate overlapped by the posterior lateral plate: absent(0); present(1).
 > Long et al. (2014); Fitzpatrick *et al*. (2024), character 125.
 
 > - Fitzpatrick *et al*. (2024), character 125, "Dermal contact between the anterior dorsolateral and posterior lateral plates: absent (0), present (1)." 
 > - This character is possibly the synapomorphy of Parabuchanosteidae. This condition is also present in *Herasmius dayi*.
 >
 
-198. Posterior dorsolateral plate: present(0); absent(1).
+199. Posterior dorsolateral plate: absent (0); present (1).
+> Giles *et al*. (2015), Character 187; Choo *et al*. (2017), Character 308; King *et al*. (2017), Character 436; Castiello (2018), Character 425; Zhu Y. *et al*. (2022), Character 586; Andreev *et al*. (2022), Character 185; Brazeau *et al*. (2023), Character 441; Cui *et al*. (2023), Character 585.
+
 > - The posterior dorsolateral plate is present in almost all arthrodires except phyllolepids. However, in phyllolepids the posterior dorsolateral is only present in *Cowralepis*.  
 
-199. Contact between anterior lateral and anterior ventrolateral plates behind pectoral fenestra: no (0); yes (1).
+> - **Character 580 in "early gnathostome phylogeny github".**
+
+200. Contact between anterior lateral and anterior ventrolateral plates behind pectoral fenestra: no (0); yes (1).
 > Dupret *et al*. (2009, 2017), Character 51.
 
-200. Posterior median dorsal plates covering the tail: absent (0); present (1).
+201. Posterior median dorsal plates covering the tail: absent (0); present (1).
 > Dupret *et al*. (2009, 2017), Character 56.
 
-201. Length/width ratio (L/W) of median dorsal plate: L/W < 1.5 (0); L/W >= 1.5 (1).
+202. Length/width ratio (L/W) of median dorsal plate: L/W < 1.5 (0); L/W >= 1.5 (1).
 > Dupret *et al*. (2009, 2017), Character 60.
 
 > - check the redundancy of this character with Charater 78,  L/W <=  OR > 1.0. They are slightly different. check codings in two matrix. 
 
-202. Length/height ratio (L/H) of anterior dorsolateral plate: L/H < 1 (0); L/H >= 1 (1).
+203. Length/height ratio (L/H) of anterior dorsolateral plate: L/H < 1 (0); L/H >= 1 (1).
 > Dupret *et al*. (2009, 2017), Character 61.
 
-203. Angle between interolateral and spinal plates: angle < 110 (0); angle > 110 (1).
+204. Angle between interolateral and spinal plates: angle < 110 (0); angle > 110 (1).
 > Dupret *et al*. (2009, 2017), Character 63. **check codings**
 
 > check state definition. an error exists in Dupret et al. (2017).
 
-204. Inverted V-shaped flexure of the posterior dorsolateral plate sensory canal. Scored not applicable in taxa without a PDL flexuresensory canal: No flexure (0) Weak flexure, >110° (1) Strong flexure, <110° (2).  
+205. Inverted V-shaped flexure of the posterior dorsolateral plate sensory canal: no flexure (0), weak flexure, >110° (1); strong flexure, <110° (2).  
 > Fitzpatrick *et al*. (2024), character 126. Long (1995).
 
-205. Dorsolateral ridge originating from near the condyle of the anterior dorsolateral plate: Absent (0) Present (1).
+> - Scored not applicable in taxa without a PDL flexuresensory canal.
+
+206. Dorsolateral ridge originating from near the condyle of the anterior dorsolateral plate: Absent (0) Present (1).
 > Fitzpatrick *et al*. (2024), character 127. Long (1995).
 
-206. Medial contact of the dorsolateral plates under the median dorsal plate: No contact (0) anterior dorsolateral plates (1) anterior and posterior dorsolateral plates (2).
+207. Medial contact of the dorsolateral plates under the median dorsal plate: No contact (0) anterior dorsolateral plates (1) anterior and posterior dorsolateral plates (2).
 > Fitzpatrick *et al*. (2024), character 128. Goujet(1984).
 
-207. Internal annular thickening of the posterior trunk plates (‘b.cpd’, Goujet 1984, fig. 61B): Absent (0) Present (1).  
+208. Internal annular thickening of the posterior trunk plates (‘b.cpd’, Goujet 1984, fig. 61B): Absent (0) Present (1).  
 > Fitzpatrick *et al*. (2024), character 129. Goujet(1984).
 
-208. Distinct infraspinal lamina/process (‘pr.infsp’, Miles & Westoll 1968, fig. 40C; ‘la.spv’, Goujet 1984, fig. 66A) of the anterior ventrolateral plate: Absent (0) Present (1).
+209. Distinct infraspinal lamina/process (‘pr.infsp’, Miles & Westoll 1968, fig. 40C; ‘la.spv’, Goujet 1984, fig. 66A) of the anterior ventrolateral plate: Absent (0) Present (1).
 > Fitzpatrick *et al*. (2024), character 132.
 
-209. Ventral sensory canal on the anterior ventrolateral plate: absent (0), present (1).
+210. Ventral sensory canal on the anterior ventrolateral plate: absent (0), present (1).
 > Fitzpatrick *et al*. (2024), character 131.
 
 ## References
@@ -1718,8 +1729,7 @@ Stensiö EA. 1944. Contributions to the knowledge of thevertebrate fauna of the 
 
 Stensiö EA. 1959. On the pectoral fin and shoulder girdle of Handlingar 8: 1–229.
 
-Stensiö EA. 1963. Anatomical studies on the arthrodiran head. Part I. Preface, geological and geographical distribution, the organisation of the head in the Dolichothoraci, Coccosteomorphi, and Pachyosteomorphi. Taxonomic appendix. Kungliga Svenska Vetenskapsakademiens Handlingar
-9: 1–19.
+Stensiö EA. 1963. Anatomical studies on the arthrodiran head. Part I. Preface, geological and geographical distribution, the organisation of the head in the Dolichothoraci, Coccosteomorphi, and Pachyosteomorphi. Taxonomic appendix. Kungliga Svenska Vetenskapsakademiens Handlingar 9: 1–19.
 
 Stensiö EA. 1969. Anatomie des arthrodires dans leur cadre systématique. Annales de Paléontologie 62: 151–186.
 
@@ -1825,95 +1835,54 @@ Klug, C., Di Silvestro, G., Hoffmann, R., Schweigert, G., Fuchs, D., Clements, T
 
 Kuratani, S. (2012). Evolution of the vertebrate jaw from developmental perspectives. Evol. Dev. 14, 76–92. doi: 10.1111/j.1525-142X.2011.00523.x
 
-Lelièvre, H., Feist, R., Goujet, D., and Blieck, A. (1987). Les vertébrés de
-la Montagne Noire (Sud de la France) et leur apport à la phylogénie des
-Pachyostéomorphes (Placodermes, Arthrodires). Palaeovertebrata 17, 1–26.
+Lelièvre, H., Feist, R., Goujet, D., and Blieck, A. (1987). Les vertébrés de la Montagne Noire (Sud de la France) et leur apport à la phylogénie des Pachyostéomorphes (Placodermes, Arthrodires). Palaeovertebrata 17, 1–26.
 
-Lindgren, J., Sjövall, P., Thiel, V., Zheng, W., Ito, S., Wakamatsu, K., et al. (2018).
-Soft-tissue evidence for homeothermy and crypsis in a Jurassic ichthyosaur. Nature
-564, 359–365. doi: 10.1038/s41586-018-0775-x
+Lindgren, J., Sjövall, P., Thiel, V., Zheng, W., Ito, S., Wakamatsu, K., et al. (2018). Soft-tissue evidence for homeothermy and crypsis in a Jurassic ichthyosaur. Nature 564, 359–365. doi: 10.1038/s41586-018-0775-x
 
-Lingham-Soliar, T. (2016). Convergence in thunniform anatomy in lamnid
-sharks and Jurassic ichthyosaurs. Integr. Comp. Biol. 56, 1323–1336. doi: 10.1093/
-icb/icw125
+Lingham-Soliar, T. (2016). Convergence in thunniform anatomy in lamnid sharks and Jurassic ichthyosaurs. Integr. Comp. Biol. 56, 1323–1336. doi: 10.1093/icb/icw125
 
-Lingham-Soliar, T., and Plodowski, G. (2007). Taphonomic evidence for highspeed adapted fins in thunniform ichthyosaurs. Naturwissenschaften 94, 65–70.
-doi: 10.1007/s00114-006-0160-8
+Lingham-Soliar, T., and Plodowski, G. (2007). Taphonomic evidence for highspeed adapted fins in thunniform ichthyosaurs. Naturwissenschaften 94, 65–70. doi: 10.1007/s00114-006-0160-8
 
-Long, J., Trinajstic, K., Young, G., and Senden, T. (2008). Live birth in the
-Devonian period. Nature 453, 650–652. doi: 10.1038/nature06966
+Long, J., Trinajstic, K., Young, G., and Senden, T. (2008). Live birth in the Devonian period. Nature 453, 650–652. doi: 10.1038/nature06966
 
-Long, J. A. (1983). New Bothriolepid fish from the Late Devonian of Victoria,
-Australia. Palaeontol 26, 395–320.
+Long, J. A. (1983). New Bothriolepid fish from the Late Devonian of Victoria, Australia. Palaeontol 26, 395–320.
 
-Long, J. A., Mark-Kurik, E., Johanson, Z., Lee, M. S. Y., Young, G. C., and Min, Z.
-(2015). Copulation in antiarch placoderms and the origin of gnathostome internal
-fertilization. Nature 517, 196–199. doi: 10.1038/nature13825
+Long, J. A., Mark-Kurik, E., Johanson, Z., Lee, M. S. Y., Young, G. C., and Min, Z. (2015). Copulation in antiarch placoderms and the origin of gnathostome internal fertilization. Nature 517, 196–199. doi: 10.1038/nature13825
 
-Long, J. A., Trinajstic, K., and Johanson, Z. (2009). Devonian arthrodire
-embryos and the origin of internal fertilization in vertebrates. Nature 457, 1124–
-1127. doi: 10.1038/nature07732
+Long, J. A., Trinajstic, K., and Johanson, Z. (2009). Devonian arthrodire embryos and the origin of internal fertilization in vertebrates. Nature 457, 1124–1127. doi: 10.1038/nature07732
 
-Maddison, W. P., and Maddison, D. R. (2021). Mesquite: a modular
-system for evolutionary analysis. Version 3.70. Available online at: http://www.
-mesquiteproject.org (accessed April 8, 2022).
+Maddison, W. P., and Maddison, D. R. (2021). Mesquite: a modular system for evolutionary analysis. Version 3.70. Available online at: http://www.mesquiteproject.org (accessed April 8, 2022).
 
-Miles, R. S., and Westoll, T. S. (1968). IX.—The Placoderm Fish Coccosteus
-cuspidatus Miller ex Agassiz from the Middle Old Red Sandstone of Scotland.
-Part I. Descriptive Morphology. T. Roy. Soc. Edin. 67, 373–476. doi: 10.1017/
-S0080456800024078
+Miles, R. S., and Westoll, T. S. (1968). IX.—The Placoderm Fish Coccosteus cuspidatus Miller ex Agassiz from the Middle Old Red Sandstone of Scotland. Part I. Descriptive Morphology. T. Roy. Soc. Edin. 67, 373–476. doi: 10.1017/S0080456800024078
 
-Ørvig, T. (1960). New Finds of Acanthodians, Arthrodires, Crossopterygians,
-Ganoids and Dipnoans in the Upper Middle Devonian Calcareous Flags
-(Oberer Plattenkalk) of the Bergisch Gladbach-Paffrath Trough. Paläontologische
-Zeitschrift 34, 295–335. doi: 10.1007/BF02986872
+Ørvig, T. (1960). New Finds of Acanthodians, Arthrodires, Crossopterygians, Ganoids and Dipnoans in the Upper Middle Devonian Calcareous Flags (Oberer Plattenkalk) of the Bergisch Gladbach-Paffrath Trough. Paläontologische Zeitschrift 34, 295–335. doi: 10.1007/BF02986872
 
 Philippe, J. (1996). Early vertebrates. Oxford: Clarendon Press.
 
-R Core Team (2020). R: A Language and Environment for Statistical Computing.
-Vienna: R Foundation for Statistical Computing.
+R Core Team (2020). R: A Language and Environment for Statistical Computing. Vienna: R Foundation for Statistical Computing.
 
-Reif, W. E. (1982). Evolution of dermal skeleton and dentition in vertebrates.
-Evol. Biol. 15, 287–368. doi: 10.1007/978-1-4615-6968-8_7
+Reif, W. E. (1982). Evolution of dermal skeleton and dentition in vertebrates. Evol. Biol. 15, 287–368. doi: 10.1007/978-1-4615-6968-8_7
 
 Rohlf, J. (2016). tpsDig2. v 2.26. New York: Stony Brook University, 523.
 
-Rücklin, M. (2011). First selenosteid placoderms from the eastern Anti-Atlas of
-Morocco; osteology, phylogeny and palaeogeographical implications. Palaeontol
-54, 25–62. doi: 10.1111/j.1475-4983.2010.01026.x
+Rücklin, M. (2011). First selenosteid placoderms from the eastern Anti-Atlas of Morocco; osteology, phylogeny and palaeogeographical implications. Palaeontol 54, 25–62. doi: 10.1111/j.1475-4983.2010.01026.x
 
-Rücklin, M., Donoghue, P. C. J., Cunningham, J. A., Marone, F., and
-Stampanoni, M. (2014). Developmental paleobiology of the vertebrate skeleton.
-J. Paleontol. 88, 676–683. doi: 10.1666/13-107
+Rücklin, M., Donoghue, P. C. J., Cunningham, J. A., Marone, F., and Stampanoni, M. (2014). Developmental paleobiology of the vertebrate skeleton. J. Paleontol. 88, 676–683. doi: 10.1666/13-107
 
-Rücklin, M., Donoghue, P. C. J., Johanson, Z., Trinajstic, K., Marone,
-F., and Stampanoni, M. (2012). Development of teeth and jaws in the
-earliest jawed vertebrates. Nature 491, 748–751. doi: 10.1038/nature1
-1555
+Rücklin, M., Donoghue, P. C. J., Johanson, Z., Trinajstic, K., Marone, F., and Stampanoni, M. (2012). Development of teeth and jaws in the earliest jawed vertebrates. Nature 491, 748–751. doi: 10.1038/nature11555
 
-Rücklin, M., Lelièvre, H., and Klug, C. (2018). Placodermi from the Early
-Devonian Kess-Kess Mounds of Hamar Laghdad, Southern Morocco. Neues
-Jahrbuch für Geologie und Paläontologie, Abhandlungen 290, 301–306. doi: 10.
-1127/njgpa/2018/0780
+Rücklin, M., Lelièvre, H., and Klug, C. (2018). Placodermi from the Early Devonian Kess-Kess Mounds of Hamar Laghdad, Southern Morocco. Neues
+Jahrbuch für Geologie und Paläontologie, Abhandlungen 290, 301–306. doi: 10.1127/njgpa/2018/0780
 
-Rücklin, M., Long, J. A., and Trinajstic, K. (2015). A new selenosteid arthrodire
-(‘Placodermi’) from the Late Devonian of Morocco. J. Vert. Paleontol. 35, 1–13.
-doi: 10.1080/02724634.2014.908896
+Rücklin, M., Long, J. A., and Trinajstic, K. (2015). A new selenosteid arthrodire (‘Placodermi’) from the Late Devonian of Morocco. J. Vert. Paleontol. 35, 1–13. doi: 10.1080/02724634.2014.908896
 
-Sansom, I. J., Wang, N. Z., and Smith, M. (2005). The histology and affinities
-of sinacanthid fishes: primitive gnathostomes from the Silurian of China. Zool. J.
-Linn. Soc. 144, 379–386. doi: 10.1111/j.1096-3642.2005.00171.x
+Sansom, I. J., Wang, N. Z., and Smith, M. (2005). The histology and affinities of sinacanthid fishes: primitive gnathostomes from the Silurian of China. Zool. J. Linn. Soc. 144, 379–386. doi: 10.1111/j.1096-3642.2005.00171.x
 
-Shadwick, R. (2005). How tunas and lamnid sharks swim: An evolutionary
-convergence. Am. Sci. 93, 524–531. doi: 10.1511/2005.56.524
+Shadwick, R. (2005). How tunas and lamnid sharks swim: An evolutionary convergence. Am. Sci. 93, 524–531. doi: 10.1511/2005.56.524
 
-Smith, M. M., and Johanson, Z. (2003). Separate evolutionary origins of teeth
-from evidence in fossil jawed vertebrates. Science 299, 1235–1236. doi: 10.1126/
-science.1079623
+Smith, M. M., and Johanson, Z. (2003). Separate evolutionary origins of teeth from evidence in fossil jawed vertebrates. Science 299, 1235–1236. doi: 10.1126/science.1079623
 
-Sternes, P. C., and Shimada, K. (2020). Body forms in sharks (Chondrichthyes:
-Elasmobranchii) and their functional, ecological, and evolutionary implications.
-Zoology 140:125799. doi: 10.1016/j.zool.2020.125799
+Sternes, P. C., and Shimada, K. (2020). Body forms in sharks (Chondrichthyes: Elasmobranchii) and their functional, ecological, and evolutionary implications. Zoology 140:125799. doi: 10.1016/j.zool.2020.125799
 
 Swofford, D. A. (2003). PAUP∗ 4.0. Sunderland: Sinauer Associates.
 
@@ -1923,46 +1892,25 @@ Trinajstic, K., Boisvert, C., Long, J., Maksimenko, A., and Johanson, Z. (2015).
 
 Trinajstic, K., Long, J., Sanchez, S., Boisvert, C., Snitting, D., and Tafforeau, P. (2022). Exceptional preservation of organs in Devonian placoderms from the Gogo lagerstätte. Science 377, 1311–1314. doi: 10.1126/science.abf3289
 
-Vaškaninová, V., Chen, D., Tafforeau, P., Johanson, Z., Ekrt, B., Blom, H.,
-et al. (2020). Marginal dentition and multiple dermal jawbones as the ancestral
-condition of jawed vertebrates. Science 369, 211–216. doi: 10.1126/science.aaz9431
+Vaškaninová, V., Chen, D., Tafforeau, P., Johanson, Z., Ekrt, B., Blom, H., et al. (2020). Marginal dentition and multiple dermal jawbones as the ancestral condition of jawed vertebrates. Science 369, 211–216. doi: 10.1126/science.aaz9431
 
-Wendt, J. (1985). Disintegration of the continental margin of northwestern
-Gondwana: Late Devonian of the eastern Anti-Atlas (Morocco). Geology 13,
-815–818. doi: 10.1130/0091-7613(1985)13<815:DOTCMO>2.0.CO;2
+Wendt, J. (1985). Disintegration of the continental margin of northwestern Gondwana: Late Devonian of the eastern Anti-Atlas (Morocco). Geology 13, 815–818. doi: 10.1130/0091-7613(1985)13<815:DOTCMO>2.0.CO;2
 
-Wendt, J. (1988). “Facies pattern and palaeogeography of the Middle and Late
-Devonian in the eastern Anti-Atlas (Morocco),” in Devonian of the World, I, eds
-N. J. Mc Millan, A. F. Embry, and D. J. Glass (Canada: Canadian Society of
-Petroleum Geologists), 467–480.
+Wendt, J. (1988). “Facies pattern and palaeogeography of the Middle and Late Devonian in the eastern Anti-Atlas (Morocco),” in Devonian of the World, I, eds
+N. J. Mc Millan, A. F. Embry, and D. J. Glass (Canada: Canadian Society of Petroleum Geologists), 467–480.
 
-Wendt, J. (2021). Middle and Late Devonian paleogeography of the eastern
-Anti-Atlas (Morocco). Int. J. Earth Sci. 110, 1531–1544. doi: 10.1007/s00531-021-
-02028-6
+Wendt, J. (2021). Middle and Late Devonian paleogeography of the eastern Anti-Atlas (Morocco). Int. J. Earth Sci. 110, 1531–1544. doi: 10.1007/s00531-021-02028-6
 
-Wickham, H. (2016). ggplot2: elegant graphics for data analysis. Germany:
-Springer. doi: 10.1007/978-3-319-24277-4
+Wickham, H. (2016). ggplot2: elegant graphics for data analysis. Germany: Springer. doi: 10.1007/978-3-319-24277-4
 
-Young, G. C. (1986). The relationships of the placoderm fishes. Zool. J. Linn.
-Soc. 88, 1–57. doi: 10.1111/j.1096-3642.1986.tb00876.x
+Young, G. C. (1986). The relationships of the placoderm fishes. Zool. J. Linn. Soc. 88, 1–57. doi: 10.1111/j.1096-3642.1986.tb00876.x
 
-Young, G. C. (2010). Placoderms (armoured fish): dominant vertebrates of
-the Devonian period. Annu. Rev. Earth Planet. Sci. 38, 523–550. doi: 10.1146/
-annurev-earth-040809-152507
+Young, G. C. (2010). Placoderms (armoured fish): dominant vertebrates of the Devonian period. Annu. Rev. Earth Planet. Sci. 38, 523–550. doi: 10.1146/annurev-earth-040809-152507
 
-Zhang, J. D., Sung, H. J., and Huang, W. X. (2020). Specialization of tuna:
-A numerical study on the function of caudal keels. Physic. Fluids 32:111902.
-doi: 10.1063/5.0029340
+Zhang, J. D., Sung, H. J., and Huang, W. X. (2020). Specialization of tuna: A numerical study on the function of caudal keels. Physic. Fluids 32:111902. doi: 10.1063/5.0029340
 
-Zhu, M., Ahlberg, P. E., Pan, Z., Zhu, Y., Qiao, T., Zhao, W., et al. (2016).
-A Silurian maxillate placoderm illuminates jaw evolution. Science 354, 334–336.
-doi: 10.1126/science.aah3764
+Zhu, M., Ahlberg, P. E., Pan, Z., Zhu, Y., Qiao, T., Zhao, W., et al. (2016). A Silurian maxillate placoderm illuminates jaw evolution. Science 354, 334–336. doi: 10.1126/science.aah3764
 
-Zhu, M., Yu, X., Ahlberg, P. E., Choo, B., Lu, J., Qiao, T., et al. (2013). A Silurian
-placoderm with osteichthyan-like marginal jaw bones. Nature 502, 188–193. doi:
-10.1038/nature12617
+Zhu, M., Yu, X., Ahlberg, P. E., Choo, B., Lu, J., Qiao, T., et al. (2013). A Silurian placoderm with osteichthyan-like marginal jaw bones. Nature 502, 188–193. doi: 10.1038/nature12617
 
-Zhu, Y., Giles, S., Young, G. C., Hu, Y., Bazzi, M., Ahlberg, P. E., et al.
-(2021). Endocast and Bony Labyrinth of a Devonian ‘Placoderm’ Challenges Stem
-Gnathostome Phylogeny. Curr. Biol 31, 1112–1118.e4. doi: 10.1016/j.cub.2020.12.
-046
+Zhu, Y., Giles, S., Young, G. C., Hu, Y., Bazzi, M., Ahlberg, P. E., et al. (2021). Endocast and Bony Labyrinth of a Devonian ‘Placoderm’ Challenges Stem Gnathostome Phylogeny. Curr. Biol 31, 1112–1118.e4. doi: 10.1016/j.cub.2020.12.046
