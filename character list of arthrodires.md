@@ -1409,10 +1409,10 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - This depression is present in many plesiomorphic arthrodires, such as *Buchansopteus*, *Dhanguura* and *Exutaspis*.
 
 179. Endolymphatic thickening on the visceral surface of skull roof: absent (0); present (1).
-> - 
+> - The endolymphatic thickening is positioned in the anterior mesial part of paranuchal plate. The endolymaphtic thickening possibly corresponding to the lateral depression on the dorsal surface of the neurocranium is present non-eubrachythoracids, such as in *Kujdanowiaspis*, *Dicksonosteus*, and *Parabuchanosteus*.
 
 180. Median nuchal thickening on the visceral surface of skull roof: long (0); short (1).
-> - The median nuchal depression on the dorsal suface of neurocranium is short in the brachythoracids and long in the plesiomorphic arthrodires.
+> - The median nuchal thickening corresponding to the median nuchal depression on the dorsal suface of neurocranium is short in the brachythoracids and long in the plesiomorphic arthrodires.
 
 181. Profundus sensory line : absent (0); present (1).
 > Modified from Johnson *et al*. (2000), Character 12.
@@ -1462,11 +1462,11 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 188. Supraorbital crista: absent (0); present (1).
 
-> - The supraorbital crista is present in *Arenipiscus*, *Dhanguura*, and *Exutaspis*.
+> - The supraorbital crista, positioned mesial to the supraorbital vault, is present in *Arenipiscus*, *Dhanguura*, and *Exutaspis*.
 
 189.  Central sensory canals: separate (0); meet posteriorly (1).
 
-> - Central sensory canals meet posterioly on Occipital cross commissurecentral plates in *Watsonosteus* and *Dickosteus*.
+> - Central sensory canals meet posterioly on central plates in *Watsonosteus* and *Dickosteus*.
 
 190. Supraorbital sensory canals extending to the rostral plate: absent (0); present (1).
 > Lelièvre (1995), character 43.
