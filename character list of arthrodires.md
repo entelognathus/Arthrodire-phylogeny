@@ -1391,10 +1391,12 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 ## more additions
 ### cranial part
 175. The groove on the mesial surface of the infragnathal blade: absent (0); present (1).
-> - In Coccosteomorphi, on the mesial surface of the blade, a groove running subparallel to its lower edge is possibly for the path of the ramus mandibularis internus VII, such as in the *Coccosteus cuspidatus*, *Xiantingosteus gracilis*, and *Camuropiscis concinnus*.
+> - In Coccosteomorphi, on the mesial surface of the blade, a groove running subparallel to its lower edge is possibly for the path of the ramus mandibularis internus VII, such as in the *Coccosteus cuspidatus* (Miles, 1979), *Xiantingosteus gracilis*, and *Camuropiscis concinnus* (Dennis and Miles, 1979).
 
 176. Middle pit-line: absent (0); present (1).
-> - In the Dunkleosteidae, the middle pit-line is absent, such as in *Gorgonichthys*, *Dunkleosteus*, and *Heterosteus ingens*. The middle pit-line is present in the majority of arthrodires, such as in *Kujdanowiaspis* and *Coccosteus*.
+> - The middle pit-line postioned is present in most arthrodires, some acanthothoracids (e.g.*Romundina stellina* and *Kolymaspis siberica*) and petalichthys (e.g.*Dindongpetalichthys* and *Quasipetalichthys*) and few ptyctodontids (e.g. *Rhampbodopis threiplandi*).
+> - **In arthrodires, the middle pit-line is always positioned on the central of the central plate, except *Potangosteus* and Wuttagoonaspids, in which the middle pit-lie extend from the central of postorbital to the nuchal plates.**
+> - In the Dunkleosteidae, the middle pit-line is absent, such as in *Gorgonichthys* (Dunkle and Bungart, 1940), *Dunkleosteus* (Heintz, 1932), and *Heterosteus ingens* . The middle pit-line is present in the majority of arthrodires, such as in *Kujdanowiaspis* and *Coccosteus*.
 
 177. Postocular crest on the visceral surface of skull roof: absent (0); present (1).
 > - The postocular crest of skull roof (Young, 1979) is present in many plesiomorphic arthrodires, such as *Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2), but is absent in eubrachythoracids. In contrast, many eubrachythoracids posssess dermal postorbital processes, but lacking the postocular crest.
