@@ -1518,7 +1518,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 203. Length/height ratio (L/H) of anterior dorsolateral plate: L/H < 1 (0); L/H ≥ 1 (1).
 > Dupret *et al*. (2009, 2017), Character 61.
 
-204. Angle between interolateral and spinal plates: angle < 110° (0); angle > 110° (1).
+204. Angle between interolateral and spinal plates: angle < 110° (0); angle ≥ 110° (1).
 > Dupret *et al*. (2009, 2017), Character 63. **check codings**
 
 > check state definition. an error exists in Dupret et al. (2017).
