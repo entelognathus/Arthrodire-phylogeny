@@ -162,7 +162,7 @@
 
 > Dupret *et al*. (2009, 2017): Pineal or rostropineal plate separates preorbital plates: no separation (0); separation (1).
 
-> - In those taxa that the pineal plate is absent, this character is scored as 'not applicable'. **Phyllolepid**
+> - In those taxa that the pineal plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
 
 > - The coding of the new Xitun actinolepid is 0.
 
@@ -189,7 +189,7 @@
  21. Length of the central plate contact with the nuchal plate: short (0); long, measured as greater than one half the length from the nuchal anteromedian point to the posterolateral corner of the nuchal plate (1).
 > Carr (1991), Character 21; Carr and Hlavin (2010), Character 21; Rücklin *et al*. (2015), Character 21; Zhu Y *et al*. (2016), Character 21; Jobbins *et al*. (2022, 2024), Character 21; Xue *et al*. (in review), Character 21.
 
-> - In those taxa that the nuchal plate seperates the central plates or the nuchal plate is absent, this character is scored as 'not applicable'. **Phyllolepid**
+> - In those taxa that the nuchal plate seperates the central plates or the nuchal plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
 
 > - The coding of the new Xitun actinolepid is 0.
 
@@ -202,7 +202,7 @@
 
 > - The coding of the new Xitun actinolepid is 0.
 
-> - **The coding of *Panjiangosteus eurycephala* is 0.**
+> - The coding of *Panjiangosteus eurycephala* is 0.
 
  23. Marginal plate in contact with the central plate: absent (0); present (1).
 > Lelièvre (1988), Character 5; Johnson *et al*. (2000), Character 5; Carr (1991), Character 23, modified; Lelièvre (1991), character 18; Carr and Hlavin (2010), Character 23; Rücklin *et al*. (2015), Character 23; Zhu Y *et al*. (2016), Character 23; Dupret *et al*. (2009, 2017), Character 22; Jobbins *et al*. (2022, 2024), Character 23; Xue *et al*. (in review), Character 23.
@@ -253,10 +253,9 @@
  29. Nuchal and paranuchal plates elongate: absent (0); present, associated with an elongation of the endolymphatic canal (1).
 > Lelièvre (1984b); Carr (1991), Character 29, modified; Lelièvre (1995), character 11, modified;  Carr and Hlavin (2010), Character 29; Rücklin *et al*. (2015), Character 29; Zhu Y *et al*. (2016), Character 29; Jobbins *et al*. (2022, 2024), Character 29; Xue *et al*. (in review), Character 29.
 
-> - Carr and Hlavin (2010): "Gardiner & Miles (1994) pointed out correctly that, in their analysis, only *Homostius* possesses this
-feature. *Buchanosteus confertituberculatus*, previously considered to have this feature by Carr (1991), is noted here to lack this character state (see also Lelièvre, 1984b). Although representing an autapomorphy of *Homostius* in the present study, this feature is potentially useful in considering other homostiids, e.g. *Tityosteus* Gross,1960 (Lelièvre, 1988, fig. 4A; refer to Denison 1978, fig. 51)."
+> - Carr and Hlavin (2010): "Gardiner & Miles (1994) pointed out correctly that, in their analysis, only *Homostius* possesses this feature. *Buchanosteus confertituberculatus*, previously considered to have this feature by Carr (1991), is noted here to lack this character state (see also Lelièvre, 1984b). Although representing an autapomorphy of *Homostius* in the present study, this feature is potentially useful in considering other homostiids, e.g. *Tityosteus* Gross,1960 (Lelièvre, 1988, fig. 4A; refer to Denison 1978, fig. 51)."
 
-> - In those taxa that the paranuchal plate is elongated but the paranuchal plate is nomral or the nuchal plate is absent, this character is scored as 'absent'. **Phyllolepid**
+> - In those taxa that the paranuchal plate is elongated but the paranuchal plate is nomral or the nuchal plate is absent such as in phyllolepids, this character is scored as 'absent'.
 
 > - In *Baringaspis dineleyi*, antarctaspids, and wuttagoonaspids, the nuchal plate is elongated and separates central plates, but the paranuchal plate is normal. **revised the character: The occipital dermal plate elongate:absent (0); present, associated with an elongation of the endolymphatic canal (1); Nuchal plate elongate: absent (0); present (1).**
 
@@ -279,7 +278,7 @@ feature. *Buchanosteus confertituberculatus*, previously considered to have this
 > Carr and Hlavin (2010): "Gardiner & Miles (1994) noted the error in the transposition of this character in Carr (1991). Only *Homostius*
 and *Buchanosteus* share character state 1, consisting of a posterior position of the triple point, and were scored as unique relative to the other analysed taxa in Carr (1991), as well as in the present study."
 
-> In those taxa that the nuchal plate is absent, this character is scored as 'absent'. **Phyllolepid**
+> In those taxa that the nuchal plate is absent such as in phyllolepids, this character is scored as 'absent'.
 
 > - The coding of the new Xitun actinolepid is 0.
 
@@ -333,7 +332,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  37. Length ratio r2 representing the extension of the anterior portion of the skull roof: r2 < 0.3 (0); 0.3 =< r2 =< 0.5 (1); r2 > 0.5 (2).
 > Zhu Y *et al*. (2016), Character 93; Xue *et al*. (in review), Character 37.
 
-> - In those taxa lacking the pineal plate, this character is scored as 'not applicable'. **Phyllolepid**
+> - In those taxa lacking the pineal plate such as phyllolepids, this character is scored as 'not applicable'.
 
 > - This ratio (r2 = d/b) is measured as the ratio of the pineal foramen–anterior sensory line junction (d) divided by the anterior sensory line junction–fossa distance (b).
 
@@ -344,7 +343,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  38. In forms with a marginal - central plate contact, position of the junction of the postorbital, marginal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 > Long (1987), Character 7, modified; Carr and Hlavin (2010), Character 94; Rücklin *et al*. (2015), Character 94; Zhu Y *et al*. (2016), Character 94; Jobbins *et al*. (2022, 2024), Character 94; Xue *et al*. (in review), Character 38.
 
-> - In those taxa that the nuchal plate is absent, this character is scored as 'not applicable'. **Phyllolepid**  
+> - In those taxa that the nuchal plate is absent such as phyllolepids, this character is scored as 'not applicable'.
 
 > - This character is contingent on Character 23.
    
@@ -355,7 +354,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  39. In forms with a marginal – central plate contact, position of the juction of the marginal, paranuchal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 > Long 1987, Character 7, modified; Carr and Hlavin (2010), Character 95; Rücklin *et al*. (2015), Character 95; Zhu Y *et al*. (2016), Character 95; Jobbins *et al*. (2022, 2024), Character 95; Xue *et al*. (in review), Character 39.
 
-> - In those taxa that the nuchal plate is absent, this character is scored as 'not applicable'. **Phyllolepid**
+> - In those taxa that the nuchal plate is absent such as phyllolepids, this character is scored as 'not applicable'. 
 
 > - This character is contingent on Character 23.
 
@@ -366,7 +365,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  40. In forms without a marginal – central plate contact, position of the junction between the postorbital, paranuchal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 > Long 1987, Character 7, modified; Carr and Hlavin (2010), Character 96; Rücklin *et al*. (2015), Character 96; Zhu Y *et al*. (2016), Character 96; Jobbins *et al*. (2022, 2024), Character 96; Xue *et al*. (in review), Character 40.
 
-> - In those taxa that the nuchal plate is absent, this character is scored as 'not applicable'. **Phyllolepid**
+> - In those taxa that the nuchal plate is absent such as phyllolepids, this character is scored as 'not applicable'. 
 
 > - This character is contingent on Character 23.
 
@@ -377,7 +376,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  41. Paired pits on the internal side of the nuchal plate separated by a median septum that is continuous with the median posterior process: absent (0); present (1).
 > Carr and Hlavin (2010), Character 97; Rücklin *et al*. (2015), Character 97; Zhu Y *et al*. (2016), Character 97; Jobbins *et al*. (2022, 2024), Character 97; Xue *et al*. (in review), Character 41.
 
-> - In those taxa that the nuchal plate is absent, this character is scored as 'not applicable'. **Phyllolepid**
+> - In those taxa that the nuchal plate is absent such as phyllolepids, this character is scored as 'not applicable'. 
 
 > - The coding of the new Xitun actinolepid is ?.
 
