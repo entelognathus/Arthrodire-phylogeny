@@ -320,7 +320,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of *Panjiangosteus eurycephala* is 0.
 
- 36. Length ratio r1 representing the position of the posterolateral corner of the skull roof,: r1 < 0.45 (0); 0.45 =< r1 =< 0.58 (1); r1 > 0.58 (2).
+ 36. Length ratio r1 representing the position of the posterolateral corner of the skull roof,: r1 < 0.45 (0); 0.45 ≤ r1 ≤ 0.58 (1); r1 > 0.58 (2).
 > Zhu Y *et al*. (2016), Character 92; Xue *et al*. (in review), Character 36.
 
 > - This ratio (r1 = c/b) is measured as the ratio of posterior sensory line junction–fossa distance (c) divided by the anterior sensory line junction–fossa distance (b)
@@ -329,7 +329,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of *Panjiangosteus eurycephala* is 2.
 
- 37. Length ratio r2 representing the extension of the anterior portion of the skull roof: r2 < 0.3 (0); 0.3 =< r2 =< 0.5 (1); r2 > 0.5 (2).
+ 37. Length ratio r2 representing the extension of the anterior portion of the skull roof: r2 < 0.3 (0); 0.3 ≤ r2 ≤ 0.5 (1); r2 > 0.5 (2).
 > Zhu Y *et al*. (2016), Character 93; Xue *et al*. (in review), Character 37.
 
 > - In those taxa lacking the pineal plate such as phyllolepids, this character is scored as 'not applicable'.
@@ -610,14 +610,14 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
- 72. Central plate length/skull roof length ratio (LC/LSR; from anterior edge of preorbital plates to posterior-most edge of skull roof): LC/LSR < 45% (0); LC/LSR => 45% (1).
+ 72. Central plate length/skull roof length ratio (LC/LSR; from anterior edge of preorbital plates to posterior-most edge of skull roof): LC/LSR < 45% (0); LC/LSR ≥ 45% (1).
 > Johnson *et al*. (2000), Character 7; Dupret *et al*. (2009), Character 58; Dupret *et al*. (2017), Character 58; Zhu *et al*. (2010), Character 58; Xue *et al*. (in review), Character 72.
 
 > - The coding of the new Xitun actinolepid is 0.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
- 73. Length/width ratio (L/W) of nuchal plate: L/W =< 1.5 (0); L/W > 1.5(1).
+ 73. Length/width ratio (L/W) of nuchal plate: L/W ≤ 1.5 (0); L/W > 1.5(1).
 > Dupret *et al*. (2009), Character 59; Dupret *et al*. (2017), Character 59; Zhu *et al*. (2010), Character 59; Xue *et al*. (in review), Character 73.
 
 > - The coding of the new Xitun actinolepid is 0.
@@ -915,17 +915,17 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
- 113. Length/width ratio (L/W) of posterior dorsolateral plate: L/W > 2 (0), L/W =< 2 (1).
+ 113. Length/width ratio (L/W) of posterior dorsolateral plate: L/W > 2 (0), L/W ≤ 2 (1).
 > Johnson *et al*. (2000), Character 36; Dupret *et al*. (2009), Character 62; Dupret *et al*. (2017), Character 62; Zhu *et al*. (2010), Character 62; Xue *et al*. (in review), Character 113.
 
-> - **check definition, typo error, check codings in the matrix?** There exist systematic typo errors from Dupret *et al*. (2009) to Zhu *et al*. (2010) "Length/width ratio (L/W) of posterior dorsolateral plate: L/H < 2 (0); L/H > 2 (1)". The original definition in Johnson et al. (2000), L/W > 2 (0), L/W =< 2 (1).
+> - **check definition, typo error, check codings in the matrix?** There exist systematic typo errors from Dupret *et al*. (2009) to Zhu *et al*. (2010) "Length/width ratio (L/W) of posterior dorsolateral plate: L/H < 2 (0); L/H > 2 (1)". The original definition in Johnson et al. (2000), L/W > 2 (0), L/W ≤ 2 (1).
 > - Johnson *et al*. (2000): "measured along the main lateral line canal (width) and posteror margin (ornamented area) equals less than 2. This ratio exceeds 2 only in *Actinolepis magna* (Mark-Kurik, 1973)."
 
 > - The coding of the new Xitun actinolepid is ?.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
- 114. RSp (=LSp borne by AVL/LSp): RSp < 60% (0); RSp => 60% (1).
+ 114. RSp (=LSp borne by AVL/LSp): RSp < 60% (0); RSp ≥ 60% (1).
 > Johnson *et al*. (2000), Character 28; Dupret *et al*. (2009), Character 64; Dupret *et al*. (2017), Character 64; Zhu *et al*. (2010), Character 64; Xue *et al*. (in review), Character 114.
 
 > - RSp represents the ratio of length proportion of the spinal plate borne by the anterior ventrolateral plate (LSp borne by AVL) over total length of the spinal plate (LSp).
@@ -934,7 +934,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
- 115. Length/width ratio (L/W) of posterior ventrolateral plates: L/W < 1.5 (0); L/W =>1.5 (1).
+ 115. Length/width ratio (L/W) of posterior ventrolateral plates: L/W < 1.5 (0); L/W ≥ 1.5 (1).
 > Dupret *et al*. (2009), Character 65; Dupret *et al*. (2017), Character 65; Zhu *et al*. (2010), Character 65; Xue *et al*. (in review), Character 115.
 
 > - The coding of the new Xitun actinolepid is ?.
@@ -1116,9 +1116,10 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
- 140. Parasphenoid anterior contact: thickened anterolateral contact facet (0); transverse articular facets (1). In taxa lacking a parasphenoid–gnathal contact, this character is scored as ‘not applicable’.
+ 140. Parasphenoid anterior contact: thickened anterolateral contact facet (0); transverse articular facets (1).
 > Carr and Hlavin (2010), Character 87; Rücklin *et al*. (2015), Character 87; Zhu Y *et al*. (2016), Character 87; Jobbins *et al*. (2022, 2024), Character 87;  Xue *et al*. (in review), Character 140.
 
+> - In taxa lacking a parasphenoid–gnathal contact, this character is scored as ‘not applicable’.
 > - The coding of the new Xitun actinolepid is ?.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
