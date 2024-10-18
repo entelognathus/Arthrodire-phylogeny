@@ -41,7 +41,7 @@
  5. Posterior development of rostral plate: not developed (0); subtriangular (1); T-shaped (2).
 > Carr (1991), Character 5; Lelièvre (1995), character 4, modified; Carr and Hlavin (2010), Character 5; Rücklin *et al*. (2015), Character 5; Zhu Y *et al*. (2016), Character 5; Jobbins *et al*. (2022, 2024), Character 5; Xue *et al*. (in review), Character 5.
 
-> - In those taxa that the rostral plate is fused with the pineal plate or the rosrtal plate is absent, this character is scored as 'not applicable'.**Phyllolepid**
+> - In those taxa that the rostral plate is fused with the pineal plate or the rosrtal plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
 
 > - The coding of the new Xitun actinolepid is 0.
 
@@ -50,7 +50,7 @@
  6. Anterior elongation of the rostrum: absent (0); present (1).
 > Long (1988), Characters 4, 12, and 16; Carr (1991), Character 6; Carr and Hlavin (2010), Character 6; Rücklin *et al*.  (2015), Character 6; Zhu Y *et al*. (2016), Character 6; Jobbins *et al*. (2022, 2024), Character 6; Xue *et al*. (in review), Character 6.
 
-> - In those taxa that the rostral plate is absent, this character is scored as 'not applicable'.**Phyllolepid**
+> - In those taxa that the rostral plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
 
 > - The coding of the new Xitun actinolepid is 0.
 
@@ -59,7 +59,7 @@
  7. Ventrally enclosed tubular rostrum: absent (0); present (1).
 > Carr (1991), Character 7; Lelièvre (1995), character 3, modified; Carr and Hlavin (2010), Character 7; Rücklin *et al*. (2015), Character 7; Zhu Y *et al*. (2016), Character 7; Jobbins *et al*. (2022, 2024), Character 7; Xue *et al*. (in review), Character 7.
 
-> - In those taxa that the rostral plate is absent, this character is scored as 'not applicable'. **Phyllolepid**
+> - In those taxa that the rostral plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
 
 > - The coding of the new Xitun actinolepid is -.
 
@@ -68,7 +68,7 @@
  8. Position of anterior edge of pineal plate: over orbit (0); anterior to orbit (1).
 > Carr (1991), Character 8; Lelièvre (1995), character 5, modified; Carr and Hlavin (2010), Character 8; Rücklin *et al*. (2015), Character 8; Zhu Y *et al*. (2016), Character 8; Jobbins *et al*. (2022, 2024), Character 8; Xue *et al*. (in review), Character 8.
 
-> - In those taxa that the rostral plate is fused with the pineal plate or the pineal plate is asbent, this character is scored as 'not applicable'. **Phyllolepid**
+> - In those taxa that the rostral plate is fused with the pineal plate or the pineal plate is asbent such as in phyllolepids, this character is scored as 'not applicable'.
 
 > - The coding of the new Xitun actinolepid is 1.
  
@@ -77,7 +77,7 @@
  9. Position of posterior edge of pineal plate: over orbit (0); posterior to orbit (1).
 > Carr (1991), Character 9; Carr and Hlavin (2010), Character 9; Rücklin *et al*. (2015), Character 9; Zhu Y *et al*. (2016), Character 9; Jobbins *et al*. (2022, 2024), Character 9; Xue *et al*. (in review), Character 9.
 
-> - In those taxa that the pineal plate is absent, this character is scored as 'not applicable'. **Phyllolepid**
+> - In those taxa that the pineal plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
 
 > - The coding of the new Xitun actinolepid is 1.
 
@@ -88,7 +88,7 @@
 
 > - Dupret *et al*. (2009, 2017): Contact suture between nuchal and central plates (external side): nuchal plate indenting central plates (0); straight contact (1).
 
-> - In those taxa that the nuchal plate is absent, this character is scored as 'not applicable'. **Phyllolepid**
+> - In those taxa that the nuchal plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
 
 > - The coding of the new Xitun actinolepid is 1.
 
@@ -97,7 +97,7 @@
  11. Shape of the posterior nuchal border: straight (0); convex (1); concave (2).
 > Carr (1991), Character 11; Carr and Hlavin (2010), Character 11; Rücklin *et al*. (2015), Character 11; Zhu Y *et al*. (2016), Character 11; Jobbins *et al*. (2022, 2024), Character 11; Xue *et al*. (in review), Character 11.
 
-> - In those taxa that the nuchal plate is absent, this character is scored as 'not applicable'. **Phyllolepid**
+> - In those taxa that the nuchal plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
 
 > - The coding of the new Xitun actinolepid is 0.
 
@@ -106,7 +106,7 @@
  12. Nuchal thickening: discontinuous with the lateral thickening associated with the cranio-thoracic dermal articulation (0); continuous thickening across the posterior skull roof (1).
 > Lelièvre (1988); Carr (1991), Character 12; Lelièvre (1995), character 10, modified; Carr and Hlavin (2010), Character 12; Rücklin *et al*. (2015), Character 12; Zhu Y *et al*. (2016), Character 12; Jobbins *et al*. (2022, 2024), Character 12; Xue *et al*. (in review), Character 12.
 
-> - In those taxa that the nuchal thickening is absent, this character is scored as 'not applicable'. 
+> - In those taxa that the nuchal thickening is absent such as in phyllolepids, this character is scored as 'not applicable'. 
 
 > - Lelièvre (1995): Posterior nuchal thickening: present only under the paranuchal visceral surface (it corresponds to the development of the dermal articulation)(0), developed under all the occipital region of the skull-roof(1).
 
