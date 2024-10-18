@@ -1605,12 +1605,23 @@ ridge is present in petalichthyids and some ptyctodontids and absent in other pl
 P8. Para-articular process ridge angles: nearly parallel to the midline of the head shield (0), oblique to the midline of the head shield (1). 
 > Pan et al. (in prep.) for *Yipetalichthys*.
 
-Zhu *et al*. (2019), Character 7: The posterior margin of the skull roof significantly overlapped by the anterior-most median plate of the trunk shield or not. The first median plate in the trunk shield was variously named the extrascapular, the posteronuchal and the first MD plate in different placoderm groups. The exact homology between these bones is not well established. However, it is possible to distinguish two types of median contact relationship between the skull roof and trunk shield: (i) no significant overlap, such as nested brachythoracid arthrodires with large nuchal gap; (ii) skull roof strongly overlapped by the trunk shield, normally with a posteriorly convex nuchal plate but not necessarily so, as in antiarchs, *Qilinyu*, *Silurolepis* and some petalichthyids and ptyctodonts. In petalichthyids such as *Eurycaraspis*, the overlapped area is well defined laterally from the rest of the skull roof and is named the posterior descending lamina."
+P9. Zhu *et al*. (2019), Character 7: The posterior margin of the skull roof significantly overlapped by the anterior-most median plate of the trunk shield or not. The first median plate in the trunk shield was variously named the extrascapular, the posteronuchal and the first MD plate in different placoderm groups. The exact homology between these bones is not well established. However, it is possible to distinguish two types of median contact relationship between the skull roof and trunk shield: (i) no significant overlap, such as nested brachythoracid arthrodires with large nuchal gap; (ii) skull roof strongly overlapped by the trunk shield, normally with a posteriorly convex nuchal plate but not necessarily so, as in antiarchs, *Qilinyu*, *Silurolepis* and some petalichthyids and ptyctodonts. In petalichthyids such as *Eurycaraspis*, the overlapped area is well defined laterally from the rest of the skull roof and is named the posterior descending lamina."
 
-Zhu *et al*. (2019), Character 9: Presence or absence of an obstanic groove on the anterolateral margin of the trunk shield, formed by an extended anterior lamina curling laterally. It is present only in *Qilinyu* and *Silurolepis*.
+P.10. Zhu *et al*. (2019), Character 9: Presence or absence of an obstanic groove on the anterolateral margin of the trunk shield, formed by an extended anterior lamina curling laterally. It is present only in *Qilinyu* and *Silurolepis*.
 
+P.11. Sensory line network: (0) preserved as open grooves; (1) pass through canals enclosed within dermal bones.
 
+> Davis *et al*. (2012), Character 16; Choo *et al*. (2017), Character 15; King *et al*. (2017), Character 283; Castiello (2018), Character 276; Zhu Y. *et al*. (2022), Character 57; Andreev *et al*. (2022), Character 30; Brazeau *et al*. (2023), Character 288; Cui *et al*. (2023), Character 57; Trinajstic *et al*. (2019), character 2.
 
+> - **Character 55 in "early gnathostome phylogeny github".**
+
+P.12. Sensory canals/grooves: (0) contained within the thickness of dermal bones; (1) contained in prominent ridges on visceral surface of bone.
+
+> Giles *et al*. (2015), Character 31; Choo *et al*. (2017), Character 266; King *et al*. (2017), Character 301; Castiello (2018), Character 292; Zhu Y. *et al*. (2022), Character 58; Andreev *et al*. (2022), Character 31; Brazeau *et al*. (2023), Character 306. Cui *et al*. (2023), Character 58.
+
+> - **Character 56 in "early gnathostome phylogeny github".**
+
+**Add those character in "early gnathostome phylogeny github" to unite or distinguish arthrodires and petalichthyids"**
 
 
 
