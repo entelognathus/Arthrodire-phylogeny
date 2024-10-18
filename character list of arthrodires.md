@@ -1394,16 +1394,18 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - In Coccosteomorphi, on the mesial surface of the blade, a groove running subparallel to its lower edge is possibly for the path of the ramus mandibularis internus VII, such as in the *Coccosteus cuspidatus* (Miles, 1979), *Xiantingosteus gracilis*, and *Camuropiscis concinnus* (Dennis and Miles, 1979).
 
 176. Middle pit-line: absent (0); present (1).
-> - The middle pit-line postioned is present in most arthrodires, some acanthothoracids (e.g.*Romundina stellina* and *Kolymaspis siberica*) and petalichthys (e.g.*Dindongpetalichthys* and *Quasipetalichthys*) and few ptyctodontids (e.g. *Rhampbodopis threiplandi*).
-> - **In arthrodires, the middle pit-line is always positioned on the central of the central plate, except *Potangosteus* and Wuttagoonaspids, in which the middle pit-lie extend from the central of postorbital to the nuchal plates.**
-> - In the Dunkleosteidae, the middle pit-line is absent, such as in *Gorgonichthys* (Dunkle and Bungart, 1940), *Dunkleosteus* (Heintz, 1932), and *Heterosteus ingens* . The middle pit-line is present in the majority of arthrodires, such as in *Kujdanowiaspis* and *Coccosteus*.
+> - The middle pit-line is present in most arthrodires, some acanthothoracids (e.g. *Romundina stellina* and *Kolymaspis siberica*) and petalichthyids (e.g. *Dindongpetalichthys* and *Quasipetalichthys*), and a few ptyctodontids (e.g. *Rhampbodopis threiplandi*).
+> - 
+> - In arthrodires, the middle pit-line is always positioned on the center of the central plate, except *Potangosteus* and wuttagoonaspids, in which the middle pit-line extends from the center of the postorbital plate to the nuchal plate.
+
+> - In the Dunkleosteidae, the middle pit-line is absent, such as in *Gorgonichthys* (Dunkle and Bungart, 1940), *Dunkleosteus* (Heintz, 1932), and *Heterosteus ingens*. The middle pit-line is present in the majority of arthrodires, such as in *Kujdanowiaspis* and *Coccosteus*.
 
 177. Postocular crest on the visceral surface of skull roof: absent (0); present (1).
 > - The postocular crest of skull roof (Young, 1979) is present in many plesiomorphic arthrodires, such as *Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2), but is absent in eubrachythoracids. In contrast, many eubrachythoracids posssess dermal postorbital processes, but lacking the postocular crest.
+
 > - The postocular crest of skull roof is positioned posterior to the supraorbital vault on the visceral surface of skull roof, e.g.*Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2).     
 
-> - The postocular crest is also present on the suborbital plate (Dennis and Miles, 1979; Rucklin, 2011). 
-> - Dennis and Miles (1979): 20. Suborbital plate with internal laminae (Figs 3, 11B). This plate (P50937) is structurally the same as that described for *Harrytoombsia*, except for the **postocular crista** which is proportionally much narrower and less robust. However, it does broaden anteriorly to form a substantial subocular crista. Also, the overlap area on the dorsal surface (PN.oa, Fig. 11B) receives the postnasal plate and not the preorbital lamina of the preorbital plate as is the case with *Harrytoombsia*. Rucklin (2011): "The visceral surface bears fused sub- and postocular crista, which form the ventral and posterior borders of the orbital vault. The subocular crista broadens anteriorly and is 5 mm wide lateromedially (Text-fig. 6C–D)."
+> - The postocular crest is also present on the suborbital plate (Dennis and Miles, 1979; Rucklin, 2011). Note the same term used for a structure of the suborbital plate. Dennis and Miles (1979): "Suborbital plate with internal laminae (Figs 3, 11B). This plate (P50937) is structurally the same as that described for *Harrytoombsia*, except for the postocular crista which is proportionally much narrower and less robust. However, it does broaden anteriorly to form a substantial subocular crista. Also, the overlap area on the dorsal surface (PN.oa, Fig. 11B) receives the postnasal plate and not the preorbital lamina of the preorbital plate as is the case with *Harrytoombsia*". Rucklin (2011): "The visceral surface bears fused sub- and postocular crista, which form the ventral and posterior borders of the orbital vault. The subocular crista broadens anteriorly and is 5 mm wide lateromedially (Text-fig. 6C–D)."
 
 178. Depression lateral to supraorbital vault: absent (0); present (1).
 > - This depression is present in many plesiomorphic arthrodires, such as *Buchansopteus*, *Dhanguura* and *Exutaspis*.
@@ -1422,7 +1424,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of the new Xitun actinolepid is 0.
 
-182. Position of Profundus sensory line: on preorbital (0), on postorbital (1), on both postorbital and preorbital plates (2). 
+182. Position of profundus sensory line: on preorbital (0), on postorbital (1), on both postorbital and preorbital plates (2). 
 > Modified from Johnson *et al*. (2000), Character 22.
 
 183. Profundus sensory line connecting with the infraorbital sensory line: absent (0); present (1).
@@ -1435,7 +1437,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of the new Xitun actinolepid is 0.
 
-184. Condition of Profundus sensory line on preorbital and postorbital plates: disconnected segments (0), a continuous line (1).
+184. Condition of profundus sensory line on preorbital and postorbital plates: disconnected segments (0), a continuous line (1).
 > Modified from Johnson *et al*. (2000), Character 23.
 
 > - Johnson *et al*. (2000): "This character is known only in *Simblaspis cachensis* (Denison, 1958)."
@@ -1458,14 +1460,11 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > King *et al*. (2016); King *et al*. (2017), Character 241; Castiello (2018), Character 241; Zhu Y. *et al*. (2022), Character 84; Brazeau *et al*. (2023), Character 246; Cui *et al*. (2023), Character 84; Fitzpatrick *et al*. (2024), character 124.
 
 > - **Character 82 in "early gnathostome phylogeny github".**
-> - 
 
 188. Supraorbital crista: absent (0); present (1).
-
 > - The supraorbital crista, positioned mesial to the supraorbital vault, is present in *Arenipiscus*, *Dhanguura*, and *Exutaspis*.
 
 189.  Central sensory canals: separate (0); meet posteriorly (1).
-
 > - Central sensory canals meet posterioly on central plates in *Watsonosteus* and *Dickosteus*.
 
 190. Supraorbital sensory canals extending to the rostral plate: absent (0); present (1).
