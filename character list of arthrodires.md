@@ -1483,7 +1483,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 195. Postorbital plate in contact with the nuchal plate: absent(0); present(1).
 
-196. Width/length (W/L) ratio of preorbital plates: W/L > 0.5 (0); W/L <= 0.5 (1).
+196. Width/length (W/L) ratio of preorbital plates: W/L > 0.5 (0); W/L ≤ 0.5 (1).
 > Dupret *et al*. (2009, 2017), Character 57.
 
 197. Transversely divided pineal plate forming anterior and posterior plates: Absent (0) Present (1). 
@@ -1510,12 +1510,12 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 201. Posterior median dorsal plates covering the tail: absent (0); present (1).
 > Dupret *et al*. (2009, 2017), Character 56.
 
-202. Length/width ratio (L/W) of median dorsal plate: L/W < 1.5 (0); L/W >= 1.5 (1).
+202. Length/width ratio (L/W) of median dorsal plate: L/W < 1.5 (0); L/W ≥ 1.5 (1).
 > Dupret *et al*. (2009, 2017), Character 60.
 
-> - check the redundancy of this character with Charater 78,  L/W <=  OR > 1.0. They are slightly different. check codings in two matrix. 
+> - check the redundancy of this character with Charater 78,  L/W ≤  OR > 1.0. They are slightly different. check codings in two matrix. 
 
-203. Length/height ratio (L/H) of anterior dorsolateral plate: L/H < 1 (0); L/H >= 1 (1).
+203. Length/height ratio (L/H) of anterior dorsolateral plate: L/H < 1 (0); L/H ≥ 1 (1).
 > Dupret *et al*. (2009, 2017), Character 61.
 
 204. Angle between interolateral and spinal plates: angle < 110° (0); angle > 110° (1).
@@ -1523,7 +1523,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > check state definition. an error exists in Dupret et al. (2017).
 
-205. Inverted V-shaped flexure of the posterior dorsolateral plate sensory canal: no flexure (0), weak flexure, > 110° (1); strong flexure, < 110° (2).  
+205. Inverted V-shaped flexure of the posterior dorsolateral plate sensory canal: no flexure (0), weak flexure, > 110° (1); strong flexure, ≤ 110° (2).  
 > Long (1995); Fitzpatrick *et al*. (2024), character 126. 
 
 > - Scored not applicable in taxa without a PDL flexuresensory canal.
