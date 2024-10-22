@@ -1280,7 +1280,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  161. Number of posterior pit lines: two pairs (0); one pair (1).
 > Dupret *et al*. (2009, 2017), Character 29; Zhu *et al*. (2010), Character 29; Xue *et al*. (in review), Character 161.
 
-> - Pair posterior pit lines is only present in the Petalithchyida and *Yinminaspis*. Dupret(2008) suggested that two pairs posterior pitline of *Yinminaspis* are homologous with Petalichthyida. In some clades of Brachythoraci, the posterior pit line is absent, sunch as in the *Homosteus sulcatus*, *Heterosteus ingens* ,*Tafilalichthys lavocati* and *Enseosteus jaekeli*.
+> - Pair posterior pit lines is only present in the Petalithchyida and *Yinminaspis*. Dupret(2008) suggested that two pairs posterior pitline of *Yinminaspis* are homologous with Petalichthyida. In some clades of Brachythoraci, the posterior pit line is absent, such as in the *Homosteus sulcatus*, *Heterosteus ingens* ,*Tafilalichthys lavocati* and *Enseosteus jaekeli*.
 
 > -*Actinolepis tuberculata* presents two pair of possterior pit lines that the first posterior pitline is limited in the central plate and the second posterior pitline is extend from the radiation centre of centeral plate to the paranuchal plate.
 
@@ -1474,7 +1474,6 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 191. Supraorbital sensory canals extending to the nuchal plate: absent (0); present (1).
 
-
 192. Postmarginal canal extending to the postmarginal plate: present (0); absent (1).
 > - In most arthrodires, the postmarginal canal extends to the postmarginal plate, but in some taxa, such as *Baringaspis* and *Yujiangolepis*, the postmarginal canal is limited in the marginal plate.
 
@@ -1491,60 +1490,63 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 197. Transversely divided pineal plate forming anterior and posterior plates: Absent (0) Present (1). 
 > Fitzpatrick *et al*. (2024), Character 123.
 
+198. Posterior pit line: present (0); absent (1).
+> - In some clades of Brachythoraci, the posterior pit line is absent, such as in the *Homosteus sulcatus*, *Heterosteus ingens* ,*Tafilalichthys lavocati* and *Enseosteus jaekeli*.
+
 ### postcranial part
-198. Anterior dorsolateral plate overlapped by the posterior lateral plate: absent(0); present(1).
+199. Anterior dorsolateral plate overlapped by the posterior lateral plate: absent(0); present(1).
 > Long et al. (2014); Fitzpatrick *et al*. (2024), Character 125.
 
 > - Fitzpatrick *et al*. (2024), character 125, "Dermal contact between the anterior dorsolateral and posterior lateral plates: absent (0), present (1)." 
 > - This character is possibly the synapomorphy of Parabuchanosteidae. This condition is also present in *Herasmius dayi*.
 
-199. Posterior dorsolateral plate: absent (0); present (1).
+200. Posterior dorsolateral plate: absent (0); present (1).
 > Giles *et al*. (2015), Character 187; Choo *et al*. (2017), Character 308; King *et al*. (2017), Character 436; Castiello (2018), Character 425; Zhu Y. *et al*. (2022), Character 586; Andreev *et al*. (2022), Character 185; Brazeau *et al*. (2023), Character 441; Cui *et al*. (2023), Character 585.
 
 > - The posterior dorsolateral plate is present in almost all arthrodires except phyllolepids. However, in phyllolepids the posterior dorsolateral is only present in *Cowralepis*.  
 
 > - **Character 580 in "early gnathostome phylogeny github".**
 
-200. Contact between anterior lateral and anterior ventrolateral plates behind pectoral fenestra: no (0); yes (1).
+201. Contact between anterior lateral and anterior ventrolateral plates behind pectoral fenestra: no (0); yes (1).
 > Dupret *et al*. (2009, 2017), Character 51.
 
-201. Posterior median dorsal plates covering the tail: absent (0); present (1).
+202. Posterior median dorsal plates covering the tail: absent (0); present (1).
 > Dupret *et al*. (2009, 2017), Character 56.
 
-202. Length/width ratio (L/W) of median dorsal plate: L/W < 1.5 (0); L/W ≥ 1.5 (1).
+203. Length/width ratio (L/W) of median dorsal plate: L/W < 1.5 (0); L/W ≥ 1.5 (1).
 > Dupret *et al*. (2009, 2017), Character 60.
 
 > - check the redundancy of this character with Charater 78,  L/W ≤  OR > 1.0. They are slightly different. check codings in two matrix. 
 
-203. Length/height ratio (L/H) of anterior dorsolateral plate: L/H < 1 (0); L/H ≥ 1 (1).
+204. Length/height ratio (L/H) of anterior dorsolateral plate: L/H < 1 (0); L/H ≥ 1 (1).
 > Dupret *et al*. (2009, 2017), Character 61.
 
-204. Angle between interolateral and spinal plates: angle < 110° (0); angle ≥ 110° (1).
+205. Angle between interolateral and spinal plates: angle < 110° (0); angle ≥ 110° (1).
 > Dupret *et al*. (2009, 2017), Character 63. **check codings**
 
 > check state definition. an error exists in Dupret et al. (2017).
 
-205. Inverted V-shaped flexure of the posterior dorsolateral plate sensory canal: no flexure (0), weak flexure, > 110° (1); strong flexure, ≤ 110° (2).  
+206. Inverted V-shaped flexure of the posterior dorsolateral plate sensory canal: no flexure (0), weak flexure, > 110° (1); strong flexure, ≤ 110° (2).  
 > Long (1995); Fitzpatrick *et al*. (2024), character 126. 
 
 > - Scored not applicable in taxa without a PDL flexuresensory canal.
 
-206. Dorsolateral ridge originating from near the condyle of the anterior dorsolateral plate: absent (0), present (1).
+207. Dorsolateral ridge originating from near the condyle of the anterior dorsolateral plate: absent (0), present (1).
 > Long (1995); Fitzpatrick *et al*. (2024), character 127.
 
-207. Medial contact of the dorsolateral plates under the median dorsal plate: no contact (0); anterior dorsolateral plates (1); anterior and posterior dorsolateral plates (2).
+208. Medial contact of the dorsolateral plates under the median dorsal plate: no contact (0); anterior dorsolateral plates (1); anterior and posterior dorsolateral plates (2).
 > Goujet (1984); Fitzpatrick *et al*. (2024), character 128.
 
-208. Internal annular thickening of the posterior trunk plates (‘b.cpd’, Goujet 1984, fig. 61B): absent (0), present (1).  
+209. Internal annular thickening of the posterior trunk plates (‘b.cpd’, Goujet 1984, fig. 61B): absent (0), present (1).  
 > Goujet (1984); Fitzpatrick *et al*. (2024), character 129.
 
-209. Median contact of the posterior ventrolateral plate: simple overlap (0); Sigmoidal/double overlapping (1).
+210. Median contact of the posterior ventrolateral plate: simple overlap (0); Sigmoidal/double overlapping (1).
 > Goujet (1984); Dupret (2004); Fitzpatrick *et al*. (2024), character 13o.
 
-210. Ventral sensory canal on the anterior ventrolateral plate: absent (0), present (1).
+211. Ventral sensory canal on the anterior ventrolateral plate: absent (0), present (1).
 > Fitzpatrick *et al*. (2024), character 131.
 
-211. Distinct infraspinal lamina/process (‘pr.infsp’, Miles & Westoll 1968, fig. 40C; ‘la.spv’, Goujet 1984, fig. 66A) of the anterior ventrolateral plate: absent (0), present (1).
+212. Distinct infraspinal lamina/process (‘pr.infsp’, Miles & Westoll 1968, fig. 40C; ‘la.spv’, Goujet 1984, fig. 66A) of the anterior ventrolateral plate: absent (0), present (1).
 > Fitzpatrick *et al*. (2024), character 132.
 
 ## More characters relating to the inclusion of petalichthyid taxa in the matrix. 
