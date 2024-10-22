@@ -1507,6 +1507,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 200. Contact between anterior lateral and anterior ventrolateral plates behind pectoral fenestra: no (0); yes (1).
 > Dupret *et al*. (2009, 2017), Character 51.
+> - This character is contingent on Character 80.
 
 201. Posterior median dorsal plates covering the tail: absent (0); present (1).
 > Dupret *et al*. (2009, 2017), Character 56.
