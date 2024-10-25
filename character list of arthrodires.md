@@ -1490,6 +1490,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 197. Transversely divided pineal plate forming anterior and posterior plates: Absent (0) Present (1). 
 > Fitzpatrick *et al*. (2024), Character 123.
+> - In those taxa without pineal plate, this character is scored as 'not applicable'.
 
 ### postcranial part
 198. Anterior dorsolateral plate overlapped by the posterior lateral plate: absent(0); present(1).
