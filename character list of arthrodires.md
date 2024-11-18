@@ -1514,8 +1514,9 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - This character is contingent on Character 80.
 
 202. Posterior median dorsal plates covering the tail: absent (0); present (1).
-> Dupret *et al*. (2009, 2017), Character 56.
-
+>  Johnson *et al*. (2000), character 26; Dupret *et al*. (2009, 2017), Character 56.
+> - Posterior median dorsal plates are absent in *Actinolepis*, but are common present in other species (Denison, 1957, 1978; Goujet, 1985; Johnson *et al*., 2000). 
+ 
 203. Length/width ratio (L/W) of median dorsal plate: L/W < 1.5 (0); L/W ≥ 1.5 (1).
 > Dupret *et al*. (2009, 2017), Character 60.
 
