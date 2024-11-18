@@ -515,7 +515,7 @@
 > - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - [Carr and Hlavin](https://academic.oup.com/zoolinnean/article/159/1/195/2608083), 2010; Stensiö, 1963.
 
-[*Panxiosteus oculus*](https://deepbone.cn/public/#/explor?s_id=2439&functionId=Deepbone_header_searchResultOpen) Wang, 1979
+[*Panxiosteus ocullus*](https://deepbone.cn/public/#/explor?s_id=2439&functionId=Deepbone_header_searchResultOpen) Wang, 1979
 > Givetian, 387.7, 382.7
 
 > - Yidade Formation, Yunnan, China
