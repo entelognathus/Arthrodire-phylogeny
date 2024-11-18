@@ -1467,6 +1467,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The supraorbital crista, positioned mesial to the supraorbital vault, is present in *Arenipiscus*, *Dhanguura*, and *Exutaspis*.
 
 189.  Central sensory canals: separate (0); meet posteriorly (1).
+>  Gardiner and Miles (1994), character 40.
 > - Central sensory canals meet posterioly on central plates in *Watsonosteus* and *Dickosteus*.
 
 190. Supraorbital sensory canals extending to the rostral plate: absent (0); present (1).
