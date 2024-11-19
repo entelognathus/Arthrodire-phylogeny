@@ -276,7 +276,7 @@
 > Carr (1991), Character 31, modified; Carr and Hlavin (2010), Character 31; Rücklin *et al*. (2015), Character 31; Zhu Y *et al*. (2016), Character 31; Jobbins *et al*. (2022, 2024), Character 31; Xue *et al*. (in review), Character 31.
 
 > Carr and Hlavin (2010): "Gardiner & Miles (1994) noted the error in the transposition of this character in Carr (1991). Only *Homostius*
-and *Buchanosteus* share character state 1, consisting of a posterior position of the triple point, and were scored as unique relative to the other analysed taxa in Carr (1991), as well as in the present study."
+and *Buchanosteus* share character state 1, consisting of a posterior position of the triple point, and were scored as unique relative to the other analysed taxa in Carr (1991), as well as in the present study." **Check codings**
 
 > In those taxa that the nuchal plate is absent such as in phyllolepids, this character is scored as 'absent'.
 
