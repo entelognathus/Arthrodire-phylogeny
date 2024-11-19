@@ -543,7 +543,7 @@
 > middle Frasnian, 379.2, 375.7
 
 > - Escuminac Formation, Quebec, Canada
-> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Miles, 1966b; Schultze and Cloutier, 1996; [Vézina, 1990](https://cdnsciencepub.com/doi/abs/10.1139/e90-065).
+> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Miles, 1966b; Schultze and Cloutier, 1996; [Vézina, 1988; 1990](https://cdnsciencepub.com/doi/abs/10.1139/e90-065).
 
 [*Potangaspis parvoculatus*](https://deepbone.cn/public/#/explor?s_id=2721&functionId=Deepbone_header_searchResultOpen) Zhu *et al* 2010
 > lower Emsian, 407.6, 400.45
