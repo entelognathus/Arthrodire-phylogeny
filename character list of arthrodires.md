@@ -1485,7 +1485,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 194. Occipital cross commissure: absent (0); present (1).
 
 195. Postorbital plate in contact with the nuchal plate: absent(0); present(1).
-
+>
 196. Width/length (W/L) ratio of preorbital plates: W/L > 0.5 (0); W/L ≤ 0.5 (1).
 > Dupret *et al*. (2009, 2017), Character 57.
 
