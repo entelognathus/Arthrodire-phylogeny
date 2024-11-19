@@ -1506,7 +1506,9 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 200. Posterior dorsolateral plate: absent (0); present (1).
 > Giles *et al*. (2015), Character 187; Choo *et al*. (2017), Character 308; King *et al*. (2017), Character 436; Castiello (2018), Character 425; Zhu Y. *et al*. (2022), Character 586; Andreev *et al*. (2022), Character 185; Brazeau *et al*. (2023), Character 441; Cui *et al*. (2023), Character 585.
 
-> - The posterior dorsolateral plate is present in almost all arthrodires except phyllolepids. However, in phyllolepids the posterior dorsolateral is only present in *Cowralepis*.  
+> - The posterior dorsolateral plate is present in almost all arthrodires except phyllolepids. However, in phyllolepids the posterior dorsolateral is only present in *Cowralepis*.
+
+> - The coding of *Rhachiosteus pterygiatus* is 0 ？ 
 
 > - **Character 580 in "early gnathostome phylogeny github".**
 
