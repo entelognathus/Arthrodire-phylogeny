@@ -1477,6 +1477,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 192. Postmarginal canal extending to the postmarginal plate: present (0); absent (1).
 > - In most arthrodires, the postmarginal canal extends to the postmarginal plate, but in some taxa, such as *Baringaspis* and *Yujiangolepis*, the postmarginal canal is limited in the marginal plate.
+> - In those taxa the postmarginal plate or postmarginal canal is absent, this character is scored as 'not applicable'.  
 
 193. Number of the extrascapular: one (0); two (1).
 > - This character is contingent on Character 104.
