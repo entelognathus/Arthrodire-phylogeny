@@ -1482,7 +1482,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 193. Number of the extrascapular: one (0); two (1).
 > - This character is contingent on Character 104.
 
-194. Occipital cross commissure: absent (0); present (1).
+194. Occipital cross commissure on the skull roof: absent (0); present (1).
 
 195. Postorbital plate in contact with the nuchal plate: absent(0); present(1).
 >
