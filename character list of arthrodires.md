@@ -1227,6 +1227,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  154. Postorbital branch of the infraorbital sensory line groove and supraoral sensory groove confluent: discontinuous (0); continuous (1).
 > Lelièvre (1984a); Carr (1991), Character 83; Lelièvre (1995), character 47; Carr and Hlavin (2010), Character 83; Rücklin *et al*. (2015), Character 83; Zhu Y *et al*. (2016), Character 83; Jobbins *et al*. (2022, 2024), Character 83; Xue *et al*. (in review), Character 154.
 
+> - In those taxa that the supraoral sensory groove is absent, this character is scored as ‘not applicable’.
+
 > - The coding of the new Xitun actinolepid is ?.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
