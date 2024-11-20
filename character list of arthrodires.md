@@ -490,6 +490,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - In those taxa that the pineal plate is fused with rostral plate, we use the rostropineal plate to represent the pineal plate.
 
+> - The coding of *Szelepis yunnanensis* is revised to 1.
+
 > - The coding of the new Xitun actinolepid is 1.
 
 > - The coding of *Panjiangosteus eurycephala* is 1.
