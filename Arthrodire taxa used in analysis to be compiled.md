@@ -796,7 +796,7 @@
 > - Water Canyon Formation, Utah, USA
 > - [Denison, 1958](https://www.biodiversitylibrary.org/bibliography/7193)
 
-[*Tiaraspis subtilis*](https://deepbone.org/public/#/explor?s_id=2593&functionId=Deepbone_header_searchResultOpen) Gross, 1933
+[*Tiaraspis subtilis*](https://deepbone.org/public/#/explor?s_id=2593&functionId=Deepbone_header_searchResultOpen) (Gross, 1933)
 > [Upper Pragian to Lower Emsian], 409.2, 400.45
 
 > - [Wahnbach Formation, Rimmert Formation, Odenspiel Formation, eastern Rheinisches Schiefergebirge, West Germany]
