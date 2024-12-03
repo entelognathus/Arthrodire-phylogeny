@@ -186,7 +186,7 @@
 
 > - The coding of *Panjiangosteus eurycephala* is 0.
 
- 21. Length of the central plate contact with the nuchal plate: short (0); long, measured as greater than one half the length from the nuchal anteromedian point to the posterolateral corner of the nuchal plate (1).
+ 21. Length of the central plate contact with the nuchal plate: short (0); long, measured as greater than half the length from the nuchal anteromedian point to the posterolateral corner of the nuchal plate (1).
 > Carr (1991), Character 21; Carr and Hlavin (2010), Character 21; Rücklin *et al*. (2015), Character 21; Zhu Y *et al*. (2016), Character 21; Jobbins *et al*. (2022, 2024), Character 21; Xue *et al*. (in review), Character 21.
 
 > - In those taxa that the nuchal plate seperates the central plates or the nuchal plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
@@ -195,7 +195,7 @@
 
 > - The coding of *Panjiangosteus eurycephala* is -.
 
- 22. Width of the central plate at its contact with the pineal plate: central plate tapers anteriorly to contact (0); central plate expanded laterally to produce a transverse anterior border (1).
+ 22. Width of the central plate at its contact with the pineal plate: central plate tapers anteriorly to contact (0); central plate expands laterally to produce a transverse anterior border (1).
 > Carr (1991), Character 22; Carr and Hlavin (2010), Character 22; Rücklin *et al*. (2015), Character 22; Zhu Y *et al*. (2016), Character 22; Jobbins *et al*. (2022, 2024), Character 22; Xue *et al*. (in review), Character 22.
 
 > - This character is determined by the anterterior margin of central plate, although the central plate is not contacted with pineal plate. 
@@ -241,7 +241,7 @@
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
- 28. Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes)/ (distance between pineal and paired condyles): small (r < 0.2)(0); intermediate (0.2 < r < 0.5) (1); large (r > 0.5)(2).
+ 28. Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes) / (distance between pineal and paired condyles): small (r < 0.2)(0); intermediate (0.2 < r < 0.5) (1); large (r > 0.5)(2).
 > Carr (1991), Character 28; Carr and Hlavin (2010), Character 28; Rücklin *et al*. (2015), Character 28; Zhu Y *et al*. (2016), Character 28; Jobbins *et al*. (2022, 2024), Character 28; Xue *et al*. (submitted), Character 28.
 
 >  - The orginal definition of this character in Carr (1991) is " Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes)/ (distance between pineal and paired condyles): small (0); intermediate (1); large (2)." However, there was no value to define these three states. Here, we complement it as "small (r < 0.2)(0); intermediate (0.2 < r < 0.5) (1); large (r > 0.5)(2)."
@@ -389,7 +389,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
- 43. Development of the crista supraethmoidalis at the visceral surface of the skull roof: underdevelped, absent, or present but not convergent in the midline (0); developed, horizontally across the visceral surface of the skull roof (1).
+ 43. Development of the crista supraethmoidalis at the visceral surface of the skull roof: underdeveloped, absent, or present but not convergent in the midline (0); developed, horizontally across the visceral surface of the skull roof (1).
 > Zhu Y *et al*. (2016), Character 99; Xue *et al*. (in review), Character 43.
 
 > - The coding of the new Xitun actinolepid is ?.
@@ -790,7 +790,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
- 95. Median dorsal plate elevated dorsally into a median crest: (0) absent; present (1).
+ 95. Median dorsal plate elevated dorsally into a median crest: absent (0); present (1).
 > Zhu Y *et al*. (2016), Character 116; Xue *et al*. (in review), Character 95.
 
 > - The coding of the new Xitun actinolepid is ?.
@@ -946,7 +946,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
 ## Cheek and palatoquadrate
- 116. Suborbital dermal lamina: absent (0); present (1).
+ 116. Suborbital dermal laminal: absent (0); present (1).
 > Dennis and Miles (1979a), Character 17; Carr (1991), Character 52; Carr and Hlavin (2010), Character 52; Rücklin *et al*. (2015), Character 52; Zhu Y *et al*. (2016), Character 52; Jobbins *et al*. (2022, 2024), Character 52; Xue *et al*. (in review), Character 116.
 
 > - The coding of the new Xitun actinolepid is ?.
@@ -1019,7 +1019,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
- 126. Development of cheek/skull roof overlap: loose contact (0); well bound contact, indicated by the interdigitation of plates or their complete fusion (1).
+ 126. Development of cheek/skull roof overlap: loose contact (0); well-bound contact, indicated by the interdigitation of plates or their complete fusion (1).
 > Carr (1991), Character 62; Carr and Hlavin (2010), Character 62; Rücklin *et al*. (2015), Character 62; Zhu Y *et al*. (2016), Character 62; Jobbins *et al*. (2022, 2024), Character 62; Xue *et al*. (in review), Character 126.
 
 > - The coding of the new Xitun actinolepid is ?.
@@ -1041,7 +1041,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
- 129. Adsymphyseal (anterior dental field) denticles: absent (0); present (1).
+ 129. Adsymphysial (anterior dental field) denticles: absent (0); present (1).
 > Carr (1991), Character 65; Carr and Hlavin (2010), Character 65; Rücklin *et al*. (2015), Character 65; Zhu Y *et al*. (2016), Character 65; Jobbins *et al*. (2022, 2024), Character 65; Xue *et al*. (in review), Character 129.
 
 > - The coding of the new Xitun actinolepid is ?.
@@ -1325,7 +1325,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
 ## Neurocranium
- 166. Breadth of the orbitotemporal neurocranium, indicated by the breadth between the two inner margins of the supraorbital vaults: wide, defined by the ratio of the breadth of the obitotemporal neurocranium/the breadth of the skull roof at the level immediately behind the supraorbital vault larger than 0.4 (0); narrow, defined by the ratio of the breadth of the orbitotemporal neurocranium/ the breadth of the skull roof less than 0.4 (1).
+ 166. Breadth of the orbitotemporal neurocranium, indicated by the breadth between the two inner margins of the supraorbital vaults: wide, defined by the ratio of the breadth of the orbitotemporal neurocranium/the breadth of the skull roof at the level immediately behind the supraorbital vault larger than 0.4 (0); narrow, defined by the ratio of the breadth of the orbitotemporal neurocranium/ the breadth of the skull roof less than 0.4 (1).
 > Zhu Y *et al*. (2016), Character 113; Xue *et al*. (in review), Character 166.
 
 > - The coding of the new Xitun actinolepid is ?.
