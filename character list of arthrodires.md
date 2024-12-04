@@ -1507,6 +1507,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 200. Posterior pit line converging towards the ossification center of nuchal plate: absent (0); present (1).
 
+201. Central sensory line converging towards the ossificarion center of nuchal plate: absent (0); present (1).
+
 ### postcranial part
 201. Anterior dorsolateral plate overlapped by the posterior lateral plate: absent(0); present(1).
 > Long et al. (2014); Fitzpatrick *et al*. (2024), Character 125.
