@@ -185,12 +185,11 @@
 > - [Young,1981](https://www.tandfonline.com/doi/abs/10.1080/03115518108566994).
 > - This OTU is not in the matrix.
 
-[*Austrophyllolepis* spp.](https://deepbone.cn/public/#/explor?s_id=2160&functionId=Deepbone_header_searchResultOpen)
+[*Austrophyllolepis ritchiei* ](https://deepbone.cn/public/#/explor?s_id=2160&functionId=Deepbone_header_searchResultOpen)
 > upper Givetian, 384.37, 382.7
 
 > - Avon River Group, Victoria, Australia. MAV8
-> - [Long,1984](https://www.researchgate.net/publication/257938652_New_phyllolepids_from_Victoria_and_the_relationships_of_the_Group); [Young and long, 2005](https://www.cambridge.org/core/journals/antarctic-science/article/abs/phyllolepid-placoderm-fish-remains-from-the-devonian-aztec-siltstone-southern-victoria-land-antarctica/353199CDD4AE271D88CEA11578ADAB71); [Young, 2005](https://search.informit.org/doi/abs/10.3316/INFORMIT.866097176771156); [Long et al,2009](https://www.nature.com/articles/nature07732).
-> - **There are four species of the genus.**
+> - [Long,1984](https://www.researchgate.net/publication/257938652_New_phyllolepids_from_Victoria_and_the_relationships_of_the_Group);.
 
 [*Baringaspis dineleyi*](https://deepbone.cn/public/#/explor?s_id=2479&functionId=Deepbone_header_searchResultOpen) Miles, 1973
 > upper Lochkovian, 415.0, 410.8
