@@ -879,6 +879,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  107. Prepectoral process of anterior ventrolateral plate: short (0); long (1).
 > Dupret *et al*. (2009), Character 49; Dupret *et al*. (2017), Character 49; Zhu *et al*. (2010), Character 49; Xue *et al*. (in review), Character 107.
 
+> - In those taxa that the prepectoral process is absent, this character is scored as 'not applicable'.
+
 > - The coding of the new Xitun actinolepid is ?.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
