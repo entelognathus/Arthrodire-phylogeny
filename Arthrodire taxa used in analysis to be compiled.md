@@ -7,6 +7,14 @@
 > - [references]
 > - **any comments on this species added here**
 
+***Hagiangella goujeti* and *Xiakeaspis* are potentially nested at an intriguing position within the matrix.**
+
+## Hagiangellidae
+[*Hagiangella goujeti*](https://deepbone.cn/public/#/explor?s_id=2132&functionId=Deepbone_header_searchResultOpen) Janvier, 2005
+> Upper Lochkovian, 415.0, 410.8
+
+> - Khao Loc Formation; Tong Vai Valley, Dong Van district, Ha Giang Province, northern Vietnam
+> - [Dupret *et al.*, 2011](https://www.tandfonline.com/doi/full/10.1080/02724634.2011.558148)
 
 ## Petalichthyid taxa
 [*Brevipetalichthys gracilis*](https://deepbone.org/public/#/explor?s_id=3255andfunctionId=Deepbone_header_searchResultOpen) Ji and Pan, 1999
@@ -133,6 +141,135 @@
 > - Pingyipu Group; Yanmenba, Jiangyou City, Sichuan Province, China
 > - [P'an and Wang, 1978]
 > - Previously Pingyipu Formation. Guanshanpo Formation after Hou et al. (1988)?
+
+
+## Ptyctodont taxa
+[*Rhamphodopsis threiplandi*](https://deepbone.org/public/#/explor?s_id=2353&functionId=Deepbone_header_searchResultOpen) Watson, 1938
+> upper Eifelian, 389.6, 387.7
+
+> - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
+> - [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf); [Miles, 1967](https://academic.oup.com/zoolinnean/article-abstract/47/311/99/2680217)
+
+*Rhamphodopsis trispinatus* Watson, 1938
+
+*Rhynchodus tetrodon* Newberry, 1873
+> Frasnian
+> - Kellwasserkalk, Germany
+> - Newberry, 1873.
+
+[*Campbellodus decipiens*](https://deepbone.org/public/#/explor?s_id=2179&functionId=Deepbone_header_searchResultOpen) Miles and Young, 1977
+> lower Frasnian, 382.7, 379.2
+
+> - Gogo Formation; Western Australia, Australia.  -17.75, 125.17
+> - [Miles and Young, 1977](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7720384310); [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf)
+
+*Ctenurella gladbachensis* Ørvig, 1960
+> upper Givetian/lower Frasnian
+> - Oberer Plattenkalk, Germany
+> - [Ørvig, 1960](https://link.springer.com/article/10.1007/BF02986872); [Miles and Young, 1977](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7720384310); [Forey and Gardiner, 1986](https://academic.oup.com/zoolinnean/article-abstract/86/1/43/2648673); [John, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf).
+
+[*Materpiscis attenboroughi*](https://deepbone.org/public/#/explor?s_id=2203&functionId=Deepbone_header_searchResultOpen) Long, et al., 2008
+> lower Frasnian, 382.7, 379.2
+
+> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
+> - [Long et al., 2008](https://www.nature.com/articles/nature06966); [Trinajstic et al., 2012](https://www.tandfonline.com/doi/abs/10.1080/02724634.2012.661379)
+
+*Chelyophorus verneuili* Agassiz, 1844
+> Famennian, 372.2, 358.9
+> - Dankov–Lebedyan beds, Russia.
+> - [Agassiz, 1844](https://books.google.co.jp/books?hl=en&lr=&id=CT1OAAAAcAAJ&oi=fnd&pg=PR5&dq=Monographie+des+poisons+fossiles+du+vieux+Gr%C3%A8s+rouge,+ou+Syst%C3%A8me+d%C3%A9vonien+des+%C3%8Eles+Britanniques+et+de+Russie&ots=XLOLrHQAOz&sig=avVzFiG8asbbibExonbXWDfe3oU&redir_esc=y#v=onepage&q=Monographie%20des%20poisons%20fossiles%20du%20vieux%20Gr%C3%A8s%20rouge%2C%20ou%20Syst%C3%A8me%20d%C3%A9vonien%20des%20%C3%8Eles%20Britanniques%20et%20de%20Russie&f=false).
+
+*Rhynchodus tetrodon* Newberry, 1873
+> Frasnian
+> - Kellwasserkalk, Germany
+> - Newberry, 1873.
+
+*Ptyctodopsis menzeli* Denison, 1985
+> upper Givetian
+> - [Denison, 1985](https://www.jstor.org/stable/1304971)
+
+> - Cedar Valley Limestone, USA
+
+[*Austroptyctodus gardineri*](https://deepbone.org/public/#/explor?s_id=4246&functionId=Deepbone_header_searchResultOpen) Miles and Young, 1977
+> lower Frasnian, 382.7, 379.2
+
+> - Gogo Formation; Western Australia, Australia.  -17.75, 125.17
+> - [Miles and Young, 1977](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7720384310); [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf)
+> - [Trinajstic and Long, 2009] "A single well-preserved and articulated specimen held in the Western Australian Museum WAM 86.9.662. The specimen, due to its delicate nature, is embedded in resin as part and counterpart. The holotype WAM 70.4.253 is incomplete. The remaining specimens are held in the Natural History Museum, London (NHM P50906, NHM P50908, NHM P50910, NHM P57654, NHM P57655)."
+
+*Meeksiella pskovensis* (Obruchev 1947)
+> lower Frasnian, 382.7, 379.2
+
+> - Snetnya Gora Beds, Pļaviņas Regional Stage; Piskovichi site, Velikaya River, Pskov, Russia
+> - [Trinajstic et al., 2019](https://researchnow.flinders.edu.au/en/publications/a-new-genus-of-ptyctodont-placodermi-from-the-late-devonian-of-ba)
+
+*Denisonodus plutonensis* Johnson & Elliott, 1996
+
+*Kimbryanodus williamburyensis* Trinajstic and Long, 2009
+> Frasnian, transitans to punctata conodont Zones
+> - type section of the Gneudna Formation (23°58 10 S, 115°12 30 E), Williambury Station, Carnarvon Basin, NW Western Australia
+> - [Trinajstic and Long, 2009](https://www.cambridge.org/core/journals/geological-magazine/article/abs/new-genus-and-species-of-ptyctodont-placodermi-from-the-late-devonian-gneudna-formation-western-australia-and-an-analysis-of-ptyctodont-phylogeny/F935B5502B3F8D5F2D919D5320DB0899)
+
+## Acanthothoraci taxa used in the analysis
+[*Kimaspis tienshanica*](https://deepbone.org/public/#/explor?s_id=2097&functionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1973
+> Lochkovian, 419.2, 410.8
+
+> - Dzhalpak Formation, South Tien Shan, North Nuratau Ridge, Uzbekistan.
+> - Mark-Kurik, 1973
+
+[*Kosoraspis peckai*](https://deepbone.org/public/#/explor?s_id=2117&functionId=Deepbone_header_searchResultOpen)  Gross, 1959
+> upper Lochkovian, 415.0, 410.8
+
+> - Radotín Limestone; Prague Basin, Czech Republic.
+> - Denison, 1978; Gross, 1959
+
+[*Tlamaspis inopinatus*](https://deepbone.org/public/#/explor?s_id=2292&functionId=Deepbone_header_searchResultOpen) Vaškaninová and Ahlberg, 2017
+> Lochkovian, 419.2, 410.8
+
+> - Lochkov Formation; Černarokle near Kosoř in Prague-Radotin, Prague Basin, Czech Republic.
+> - [Vaškaninová and Ahlberg, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174794)
+
+[*Sudaspis chlupaci*](https://deepbone.org/public/#/explor?s_id=2293&functionId=Deepbone_header_searchResultOpen) Vaškaninová and Ahlberg, 2017
+> Lochkovian, 419.2, 410.8
+
+> - Lochkov Formation, Černarokle near Kosoř in Prague-Radotin, Prague Basin, Czech Republic.
+> - [Vaškaninová and Ahlberg, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174794)
+
+[*Romundina stellina*](https://deepbone.org/public/#/explor?s_id=2375&functionId=Deepbone_header_searchResultOpen) Ørvig, 1975
+> upper Lochkovian, 415.0, 410.8
+
+> - Prince of Wales Island, Canada.
+> - [Dupret et al., 2014](https://www.nature.com/articles/nature12980); [Dupret *et al*., 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171241); Ørvig, 1975
+
+[*Radotina kosorensis*](https://deepbone.org/public/#/explor?s_id=2290&functionId=Deepbone_header_searchResultOpen) Gross, 1950
+> Lochkovian, 419.2, 410.8
+
+> -  Lochkov Formation; Černarokle quarries near Kosoř in Prague-Radotin, Prague Basin, Czech Republic
+> - [Vaškaninová and Ahlberg, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174794)
+
+[*Radotina tesselata*](https://deepbone.org/public/#/explor?s_id=2291&functionId=Deepbone_header_searchResultOpen) Gross, 1958
+> Pragian, 410.8, 407.6
+
+> - Praha Formation, Koneprusy near Beroun, south-east of Prague, probably the area of the present day Houbas Quarry, Prague Basin, Czech Republic.
+> - Gross, 1958; [Vaškaninová and Ahlberg, 2017](https://deepbone.org/public/#/explor?s_id=2291&functionId=Deepbone_header_searchResultOpen)
+
+[*Arabosteus variabilis*](https://deepbone.org/public/#/explor?s_id=73906&functionId=Deepbone_header_searchResultOpen) Olive et al., 2011
+> Pragian to lower Emsian, 410.8, 400.45
+
+> - Qasr Limestone Member, Jauf Formation; Al Huj section, Al Qalibah area, Saudi Arabia.
+> - [Olive et al., 2011](https://bioone.org/journals/Geodiversitas/volume-33/issue-3/g2011n3a1/A-new-Placoderm-fish-Acanthothoraci-from-the-Early-Devonian-Jauf/10.5252/g2011n3a1.short); [Olive et al., 2014](https://link.springer.com/article/10.1134/S003103011409010X).
+
+[*Brindabellaspis stensioi*](https://deepbone.org/public/#/explor?s_id=3060&functionId=Deepbone_header_searchResultOpen) Young, 1980
+> Emsian, 407.6, 393.3
+
+> - New South Wales, Australia
+> - [Young, 1980](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8020321285); [King *et al*., 2018](https://royalsocietypublishing.org/doi/full/10.1098/rsos.180094); [Zhu Y. et al., 2021](https://www.cell.com/current-biology/pdf/S0960-9822(20)31898-4.pdf)
+
+[*Kolymaspis sibirica*](https://deepbone.org/public/#/explor?s_id=2099&functionId=Deepbone_header_searchResultOpen) Bystrow, 1956
+> Lochkovian, 419.2, 410.8
+
+> - river Taskan, Kolyma basin, north-east Siberia.
+> - Bystrow, 1956
 
 ## Arthrodire taxa used in the analysis
 [*Actinolepis magna*](https://deepbone.org/public/#/explor?s_id=2464andfunctionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1973
