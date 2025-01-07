@@ -150,10 +150,12 @@
 > - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 > - [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf); [Miles, 1967](https://academic.oup.com/zoolinnean/article-abstract/47/311/99/2680217)
 
-*Rhamphodopsis trispinatus* Watson, 1938
+[*Rhamphodopsis trispinatus*](https://deepbone.cn/public/#/explor?s_id=2354&functionId=Deepbone_header_searchResultOpen) Watson, 1938
 
-*Rhynchodus tetrodon* Newberry, 1873
+
+[*Rhynchodus tetrodon*](https://deepbone.cn/public/#/explor?s_id=2364&functionId=Deepbone_header_searchResultOpen) Newberry, 1873
 > Frasnian
+
 > - Kellwasserkalk, Germany
 > - Newberry, 1873.
 
@@ -163,8 +165,9 @@
 > - Gogo Formation; Western Australia, Australia.  -17.75, 125.17
 > - [Miles and Young, 1977](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7720384310); [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf)
 
-*Ctenurella gladbachensis* Ørvig, 1960
+[*Ctenurella gladbachensis*](https://deepbone.cn/public/#/explor?s_id=2181&functionId=Deepbone_header_searchResultOpen) Ørvig, 1960
 > upper Givetian/lower Frasnian
+
 > - Oberer Plattenkalk, Germany
 > - [Ørvig, 1960](https://link.springer.com/article/10.1007/BF02986872); [Miles and Young, 1977](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7720384310); [Forey and Gardiner, 1986](https://academic.oup.com/zoolinnean/article-abstract/86/1/43/2648673); [John, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf).
 
@@ -174,21 +177,23 @@
 > - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
 > - [Long et al., 2008](https://www.nature.com/articles/nature06966); [Trinajstic et al., 2012](https://www.tandfonline.com/doi/abs/10.1080/02724634.2012.661379)
 
-*Chelyophorus verneuili* Agassiz, 1844
+[*Chelyophorus verneuili*](https://deepbone.cn/public/#/explor?s_id=2316&functionId=Deepbone_header_searchResultOpen) Agassiz, 1844
 > Famennian, 372.2, 358.9
+
 > - Dankov–Lebedyan beds, Russia.
 > - [Agassiz, 1844](https://books.google.co.jp/books?hl=en&lr=&id=CT1OAAAAcAAJ&oi=fnd&pg=PR5&dq=Monographie+des+poisons+fossiles+du+vieux+Gr%C3%A8s+rouge,+ou+Syst%C3%A8me+d%C3%A9vonien+des+%C3%8Eles+Britanniques+et+de+Russie&ots=XLOLrHQAOz&sig=avVzFiG8asbbibExonbXWDfe3oU&redir_esc=y#v=onepage&q=Monographie%20des%20poisons%20fossiles%20du%20vieux%20Gr%C3%A8s%20rouge%2C%20ou%20Syst%C3%A8me%20d%C3%A9vonien%20des%20%C3%8Eles%20Britanniques%20et%20de%20Russie&f=false).
 
-*Rhynchodus tetrodon* Newberry, 1873
+[*Rhynchodus tetrodon*](https://deepbone.cn/public/#/explor?s_id=2364&functionId=Deepbone_header_searchResultOpen) Newberry, 1873
 > Frasnian
+
 > - Kellwasserkalk, Germany
 > - Newberry, 1873.
 
-*Ptyctodopsis menzeli* Denison, 1985
+[*Ptyctodopsis menzeli*](https://deepbone.cn/public/#/explor?s_id=172206&functionId=Deepbone_header_searchResultOpen) Denison, 1985
 > upper Givetian
-> - [Denison, 1985](https://www.jstor.org/stable/1304971)
 
 > - Cedar Valley Limestone, USA
+> - [Denison, 1985](https://www.jstor.org/stable/1304971)
 
 [*Austroptyctodus gardineri*](https://deepbone.org/public/#/explor?s_id=4246&functionId=Deepbone_header_searchResultOpen) Miles and Young, 1977
 > lower Frasnian, 382.7, 379.2
@@ -197,16 +202,17 @@
 > - [Miles and Young, 1977](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7720384310); [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf)
 > - [Trinajstic and Long, 2009] "A single well-preserved and articulated specimen held in the Western Australian Museum WAM 86.9.662. The specimen, due to its delicate nature, is embedded in resin as part and counterpart. The holotype WAM 70.4.253 is incomplete. The remaining specimens are held in the Natural History Museum, London (NHM P50906, NHM P50908, NHM P50910, NHM P57654, NHM P57655)."
 
-*Meeksiella pskovensis* (Obruchev 1947)
+[*Meeksiella pskovensis*](https://deepbone.cn/public/#/explor?s_id=75109&functionId=Deepbone_header_searchResultOpen) (Obruchev 1947)
 > lower Frasnian, 382.7, 379.2
 
 > - Snetnya Gora Beds, Pļaviņas Regional Stage; Piskovichi site, Velikaya River, Pskov, Russia
 > - [Trinajstic et al., 2019](https://researchnow.flinders.edu.au/en/publications/a-new-genus-of-ptyctodont-placodermi-from-the-late-devonian-of-ba)
 
-*Denisonodus plutonensis* Johnson & Elliott, 1996
+[*Denisonodus plutonensis*](https://deepbone.cn/public/#/explor?s_id=164658&functionId=Deepbone_header_searchResultOpen) Johnson & Elliott, 1996
 
-*Kimbryanodus williamburyensis* Trinajstic and Long, 2009
+[*Kimbryanodus williamburyensis*](https://deepbone.cn/public/#/explor?s_id=172205&functionId=Deepbone_header_searchResultOpen) Trinajstic and Long, 2009
 > Frasnian, transitans to punctata conodont Zones
+
 > - type section of the Gneudna Formation (23°58 10 S, 115°12 30 E), Williambury Station, Carnarvon Basin, NW Western Australia
 > - [Trinajstic and Long, 2009](https://www.cambridge.org/core/journals/geological-magazine/article/abs/new-genus-and-species-of-ptyctodont-placodermi-from-the-late-devonian-gneudna-formation-western-australia-and-an-analysis-of-ptyctodont-phylogeny/F935B5502B3F8D5F2D919D5320DB0899)
 
