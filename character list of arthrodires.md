@@ -1235,8 +1235,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
- 155. Supraorbital canal extended onto central plates: absent (0); present (1).
-> Carr (1991), Character 84; Carr and Hlavin (2010), Character 84; Rücklin *et al*. (2015), Character 84; Zhu Y *et al*. (2016), Character 84; Jobbins *et al*. (2022, 2024), Character 84; Xue *et al*. (in review), Character 155.
+ 155. Supraorbital canal extending posteriorly onto central plate: absent (0); present (1).
+> Carr (1991), Character 84; Carr and Hlavin (2010), Character 84; Rücklin *et al*. (2015), Character 84; Zhu Y *et al*. (2016), Character 84; Jobbins *et al*. (2022, 2024), Character 84; Xue *et al*. (2025), Character 155.
 
 > This character possiblly consists of two conditions, i.e., the supraorbital canal is only limited to the preorbital plate or extends to the nuchal plate with out central plate.
 
