@@ -1549,28 +1549,28 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > check state definition. an error exists in Dupret et al. (2017).
 
 209. Inverted V-shaped flexure of the posterior dorsolateral plate sensory canal: no flexure (0), weak flexure, > 110° (1); strong flexure, ≤ 110° (2).  
-> Long (1995); Fitzpatrick *et al*. (2024, preprint), character 126. 
+> Long (1995); Fitzpatrick *et al*. (2024), character 126. 
 
 > - Scored not applicable in taxa without a PDL flexuresensory canal.
 
 210. Dorsolateral ridge originating from near the condyle of the anterior dorsolateral plate: absent (0), present (1).
-> Long (1995); Fitzpatrick *et al*. (2024, preprint), character 127.
+> Long (1995); Fitzpatrick *et al*. (2024), character 127.
 
 211. Medial contact of the dorsolateral plates under the median dorsal plate: no contact (0); anterior dorsolateral plates (1); anterior and posterior dorsolateral plates (2).
-> Goujet (1984); Fitzpatrick *et al*. (2024, preprint), character 128.
+> Goujet (1984); Fitzpatrick *et al*. (2024), character 128.
 
 212. Internal annular thickening of the posterior trunk plates (‘b.cpd’, Goujet 1984, fig. 61B): absent (0), present (1).  
-> Goujet (1984); Fitzpatrick *et al*. (2024, preprint), character 129.
+> Goujet (1984); Fitzpatrick *et al*. (2024), character 129.
 
 213. Median contact of the posterior ventrolateral plate: simple overlap (0); Sigmoidal/double overlapping (1).
-> Goujet (1984); Dupret (2004); Fitzpatrick *et al*. (2024, preprint), character 13o.
+> Goujet (1984); Dupret (2004); Fitzpatrick *et al*. (2024), character 13o.
 > - This character is contingent on Character 110.
 
 214. Ventral sensory canal on the anterior ventrolateral plate: absent (0), present (1).
-> Fitzpatrick *et al*. (2024, preprint), character 131.
+> Fitzpatrick *et al*. (2024), character 131.
 
 215. Distinct infraspinal lamina/process (‘pr.infsp’, Miles & Westoll 1968, fig. 40C; ‘la.spv’, Goujet 1984, fig. 66A) of the anterior ventrolateral plate: absent (0), present (1).
-> Fitzpatrick *et al*. (2024, preprint), character 132.
+> Fitzpatrick *et al*. (2024), character 132.
 
 
 ## More characters relating to the inclusion of petalichthyid taxa in the matrix. 
