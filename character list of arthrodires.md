@@ -1284,9 +1284,9 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  161. Number of posterior pit lines: two pairs (0); one pair (1).
 > Dupret *et al*. (2009, 2017), Character 29; Zhu *et al*. (2010), Character 29; Xue *et al*. (2025), Character 161.
 
-> - Pair posterior pit lines is only present in the Petalithchyida and *Yinminaspis*. Dupret(2008) suggested that two pairs posterior pitline of *Yinminaspis* are homologous with Petalichthyida. In some clades of Brachythoraci, the posterior pit line is absent, such as in the *Homosteus sulcatus*, *Heterosteus ingens* ,*Tafilalichthys lavocati* and *Enseosteus jaekeli*.
+> - Pair posterior pit lines is only present in the Petalithchyida and *Yiminaspis*. Dupret(2008) suggested that two pairs posterior pitline of *Yiminaspis* are homologous with those of Petalichthyida. In some clades of Brachythoraci, the posterior pit line is absent, such as in the *Homostius sulcatus*, *Heterostius ingens* ,*Tafilalichthys lavocati* and *Enseosteus jaekeli*.
 
-> -*Actinolepis tuberculata* presents two pair of possterior pit lines that the first posterior pitline is limited in the central plate and the second posterior pitline is extend from the radiation centre of centeral plate to the paranuchal plate.
+> -*Actinolepis tuberculata* presents two pair of possterior pit lines: the first posterior pitline is limited in the central plate and the second posterior pitline is extend from the radiation centre of centeral plate to the paranuchal plate.
 
 > - The coding of *Cuanyu* is 1.
 
