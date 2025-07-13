@@ -1501,7 +1501,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 196. Width/length (W/L) ratio of preorbital plates: W/L > 0.5 (0); W/L ≤ 0.5 (1).
 > Dupret *et al*. (2009, 2017), Character 57.
 
-197. Transversely divided pineal plate forming anterior and posterior plates: Absent (0) Present (1). 
+197. Transversely divided pineal plate forming anterior and posterior plates: absent (0); present (1). 
 > Fitzpatrick *et al*. (2024), Character 123.
 > - In those taxa without pineal plate, this character is scored as 'not applicable'.
 
