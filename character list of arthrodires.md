@@ -1682,8 +1682,6 @@ P.12. Sensory canals/grooves: (0) contained within the thickness of dermal bones
 p. 13 Pineal plate occupies a notch in the anterior end of the nuchal plate: (0)absent; (1)present
 > Young (1985). This character is present in some antarctaspids and petalichthys, such as *Lunaspis*, *Shearsbyaspis*, and *Eurycaraspis*.
 
-p. 14 Ventral ridge on the visceral surface of skull roof formed by sensory line: (0)absent; (1) present
- This character is present in ptyctondotids, petalichthyids, and certain actinolepidoids (e.g., *Panjiangosteus* and *Actinolepis*).
 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
