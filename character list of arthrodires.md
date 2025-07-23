@@ -674,7 +674,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  80. Anterior lateral plate/anterior ventrolateral plate contact: absent (0); present (1).
 > Carr (1991), Character 38; Carr and Hlavin (2010), Character 38; Rücklin *et al*. (2015), Character 38; Zhu Y *et al*. (2016), Character 38; Dupret *et al*. (2009, 2017), Character 51 modified; Jobbins *et al*. (2022, 2024), Character 38； Xue *et al*. (2025), Character 80.
 
-> - Dupret *et al*. (2009, 2017), Character 51: Contact between anterior lateral and anterior ventrolateral plates behind pectoral fenestra: no (0); yes (1)
+> Dupret *et al*. (2009, 2017), Character 51: Contact between anterior lateral and anterior ventrolateral plates behind pectoral fenestra: no (0); yes (1)
 
 > - The coding of *Cuanyu* is ?.
 
