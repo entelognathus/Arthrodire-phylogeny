@@ -1407,25 +1407,25 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 175. Profundus sensory line: absent (0); present (1).
 > Modified from Johnson *et al*. (2000), Character 12.
 
-> - Johnson *et al*. (2000): "A short segment of the profundus sensory line on the anterior part of the Preorbital has been recorded in *Heightingtonaspis anglica* and *Kujdanowiaspis* sp. (White, 1969; Denison, 1958, 1978)."
+> Johnson *et al*. (2000): "A short segment of the profundus sensory line on the anterior part of the Preorbital has been recorded in *Heightingtonaspis anglica* and *Kujdanowiaspis* sp. (White, 1969; Denison, 1958, 1978)."
 
 176. Position of profundus sensory line: on preorbital (0); on postorbital (1), on both postorbital and preorbital plates (2). 
 > Modified from Johnson *et al*. (2000), Character 22.
 
-> - The profundus sensory canal of *Bryantolepis* extends from preorbital to the postorbital plates. 
+> The profundus sensory canal of *Bryantolepis* extends from preorbital to the postorbital plates. 
 
-> - Johnson *et al*. (2000): "In *Bryantolepis brachycephala* the profundus sensory line is present as a continuous line from the central sensory line on the Postorbital to the centre of the Preorbital terminating near the supraorbital sensory line (Denison, 1958)."
+> Johnson *et al*. (2000): "In *Bryantolepis brachycephala* the profundus sensory line is present as a continuous line from the central sensory line on the Postorbital to the centre of the Preorbital terminating near the supraorbital sensory line (Denison, 1958)."
 
 177. 	Profundus sensory line connecting with the infraorbital sensory line: absent (0); present (1).
 > Modified from Johnson *et al*. (2000), Character 24.
 
-> - In *Kujdanowisaspis podolica*, the short profundus sensory line is not connecting with the optic branch of infraorbital or central sensory lines.
-> - Johnson *et al*. (2000): "A small segment of the profundus sensory line branches off the intersection of the central sensory line and the infraorbital sensory line (postorbital branch) in *Aleosteus eganensis*, an arrangement not recorded in any other actinolepid."
+> In *Kujdanowisaspis podolica*, the short profundus sensory line is not connecting with the optic branch of infraorbital or central sensory lines.
+> Johnson *et al*. (2000): "A small segment of the profundus sensory line branches off the intersection of the central sensory line and the infraorbital sensory line (postorbital branch) in *Aleosteus eganensis*, an arrangement not recorded in any other actinolepid."
 
 178. Condition of profundus sensory line on preorbital and postorbital plates: disconnected segments (0), a continuous line (1).
 > Modified from Johnson *et al*. (2000), Character 23.
 
-> - Johnson *et al*. (2000): "This character is known only in *Simblaspis cachensis* (Denison, 1958)."
+> Johnson *et al*. (2000): "This character is known only in *Simblaspis cachensis* (Denison, 1958)."
 
 179.  Width/length (W/L) ratio of preorbital plates: W/L > 0.5 (0); W/L ≤ 0.5 (1).
 > Dupret *et al*. (2009, 2017), Character 57.
@@ -1437,7 +1437,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 181.  Posterior dorsolateral plate: absent (0); present (1).
 > Giles *et al*. (2015), Character 187; Choo *et al*. (2017), Character 308; King *et al*. (2017), Character 436; Castiello (2018), Character 425; Zhu Y. *et al*. (2022), Character 586; Andreev *et al*. (2022), Character 185; Brazeau *et al*. (2023), Character 441; Cui *et al*. (2023), Character 585.
 
-> - The posterior dorsolateral plate is present in almost all arthrodires except phyllolepids. However, in phyllolepids the posterior dorsolateral is only present in *Cowralepis*.
+> The posterior dorsolateral plate is present in almost all arthrodires except phyllolepids. However, in phyllolepids the posterior dorsolateral is only present in *Cowralepis*.
 
 > - The coding of *Rhachiosteus pterygiatus* is 0 ？ 
 
@@ -1445,7 +1445,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 182. Posterior median dorsal plates covering the tail: absent (0); present (1).
 >  Johnson *et al*. (2000), character 26; Dupret *et al*. (2009, 2017), Character 56.
-> - Posterior median dorsal plates are absent in *Actinolepis*, but are common present in other species (Denison, 1957, 1978; Goujet, 1985; Johnson *et al*., 2000).
+> Posterior median dorsal plates are absent in *Actinolepis*, but are common present in other species (Denison, 1957, 1978; Goujet, 1985; Johnson *et al*., 2000).
 
 183. Length/height ratio (L/H) of anterior dorsolateral plate: L/H < 1 (0); L/H ≥ 1 (1).
 > Dupret *et al*. (2009, 2017), Character 61.
@@ -1469,14 +1469,14 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > Fitzpatrick *et al*. (2024), character 132.
 
 189.Long middle pit-line converging towards the ossification center of nuchal plate: absent (0); present (1).
- > - Zhu *et al.*(2010), character 66.
+ >  Zhu *et al.*(2010), character 66.
 
 190. Supraorbital sensory canals extending to the rostral plate: absent (0); present (1).
 > Lelièvre (1995), character 43.
 
 191. Postmarginal canal extending to the postmarginal plate: present (0); absent (1).
-> - In most arthrodires, the postmarginal canal extends to the postmarginal plate, but in some taxa, such as *Baringaspis* and *Yujiangolepis*, the postmarginal canal is limited in the marginal plate.
-> - In those taxa the postmarginal plate or postmarginal canal is absent, this character is scored as 'not applicable'.  
+> In most arthrodires, the postmarginal canal extends to the postmarginal plate, but in some taxa, such as *Baringaspis* and *Yujiangolepis*, the postmarginal canal is limited in the marginal plate.
+> In those taxa the postmarginal plate or postmarginal canal is absent, this character is scored as 'not applicable'.  
 
 192. Central sensory line converging towards the ossificarion center of nuchal plate: absent (0); present (1).
 
@@ -1498,8 +1498,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 198. Cutaneous sensory organ on suborbital plate: (0) absent; (1) present.
 > King *et al*. (2016); King *et al*. (2017), Character 240; Castiello (2018), Character 240; Zhu Y. *et al*. (2022), Character 83; Brazeau *et al*. (2023), Character 245; Cui *et al*. (2023), Character 83; Fitzpatrick *et al*. (2024), character 124.
->
->  - Within arthrodires, cutaneous sensory organ pits are most commonly found on the suborbital and postsuborbital plates of eubrachythoracid arthrodires: the suborbital and postsuborbital plates of *Coccosteus* (Stensio 1963; Fig. 5B), *Watsonosteus* (Miles & Westoll 1962), *Goodradigbeeon* (White 1978), *Torosteus* (Gardiner & Miles 1990) and *Plourdosteus* (Ørvig 1960) and the postsuborbital plate of *Harrytoombsia* (Miles  &  Dennis  1979), *Mcnamaraspis* (Long 1995), *Simosteus* (Dennis & Miles 1982), *Compagopiscis* (Gardiner & Miles 1994), *Dickosteus* (Miles & Westoll 1962) and *Kimberleyichthys* (Dennis-Bryan & Miles 1983).
+
+> Within arthrodires, cutaneous sensory organ pits are most commonly found on the suborbital and postsuborbital plates of eubrachythoracid arthrodires: the suborbital and postsuborbital plates of *Coccosteus* (Stensio 1963; Fig. 5B), *Watsonosteus* (Miles & Westoll 1962), *Goodradigbeeon* (White 1978), *Torosteus* (Gardiner & Miles 1990) and *Plourdosteus* (Ørvig 1960) and the postsuborbital plate of *Harrytoombsia* (Miles  &  Dennis  1979), *Mcnamaraspis* (Long 1995), *Simosteus* (Dennis & Miles 1982), *Compagopiscis* (Gardiner & Miles 1994), *Dickosteus* (Miles & Westoll 1962) and *Kimberleyichthys* (Dennis-Bryan & Miles 1983).
 
 > - **Character 81 in "early gnathostome phylogeny github".**
 
@@ -1509,16 +1509,16 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - **Character 82 in "early gnathostome phylogeny github".**
 
 200. Supraorbital crista: absent (0); present (1).
-> - The supraorbital crista, positioned mesial to the supraorbital vault, is present in *Arenipiscus*, *Dhanguura*, and *Exutaspis*.
+> The supraorbital crista, positioned mesial to the supraorbital vault, is present in *Arenipiscus*, *Dhanguura*, and *Exutaspis*.
 
 201.  Central sensory canals: separate (0); meet posteriorly (1).
 >  Gardiner and Miles (1994), character 40.
-> - Central sensory canals meet posterioly on central plates in *Watsonosteus* and *Dickosteus*.
+> Central sensory canals meet posterioly on central plates in *Watsonosteus* and *Dickosteus*.
 
 202. Supraorbital sensory canals extending to the nuchal plate: absent (0); present (1).
 
 203. Number of the extrascapular: one (0); two (1).
-> - This character is contingent on Character 104.
+> This character is contingent on Character 104.
 
 204. Occipital cross commissure on the skull roof: absent (0); present (1). 
 
@@ -1527,36 +1527,36 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 206. Middle pit-line: absent (0); present (1).
 > - The middle pit-line is present in most arthrodires, some acanthothoracids (e.g. *Romundina stellina* and *Kolymaspis siberica*) and petalichthyids (e.g. *Dindongpetalichthys* and *Quasipetalichthys*), and a few ptyctodontids (e.g. *Rhampbodopis threiplandi*).
-> - 
-> - In arthrodires, the middle pit-line is always positioned on the center of the central plate, except *Potangosteus* and wuttagoonaspids, in which the middle pit-line extends from the center of the postorbital plate to the nuchal plate.
 
-> - In the Dunkleosteidae, the middle pit-line is absent, such as in *Gorgonichthys* (Dunkle and Bungart, 1940), *Dunkleosteus* (Heintz, 1932), and *Heterosteus ingens*. The middle pit-line is present in the majority of arthrodires, such as in *Kujdanowiaspis* and *Coccosteus*.
+>   In arthrodires, the middle pit-line is always positioned on the center of the central plate, except *Potangosteus* and wuttagoonaspids, in which the middle pit-line extends from the center of the postorbital plate to the nuchal plate.
+
+>  In the Dunkleosteidae, the middle pit-line is absent, such as in *Gorgonichthys* (Dunkle and Bungart, 1940), *Dunkleosteus* (Heintz, 1932), and *Heterosteus ingens*. The middle pit-line is present in the majority of arthrodires, such as in *Kujdanowiaspis* and *Coccosteus*.
 
 207. The groove on the mesial surface of the infragnathal blade: absent (0); present (1).
-> - In Coccosteomorphi, on the mesial surface of the blade, a groove running subparallel to its lower edge is possibly for the path of the ramus mandibularis internus VII, such as in the *Coccosteus cuspidatus* (Miles, 1979), *Xiantingosteus gracilis*, and *Camuropiscis concinnus* (Dennis and Miles, 1979).
+> In Coccosteomorphi, on the mesial surface of the blade, a groove running subparallel to its lower edge is possibly for the path of the ramus mandibularis internus VII, such as in the *Coccosteus cuspidatus* (Miles, 1979), *Xiantingosteus gracilis*, and *Camuropiscis concinnus* (Dennis and Miles, 1979).
 
 208. Postocular crest on the visceral surface of skull roof: absent (0); present (1).
-> - The postocular crest of skull roof (Young, 1979) is present in many plesiomorphic arthrodires, such as *Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2), but is absent in eubrachythoracids. In contrast, many eubrachythoracids posssess dermal postorbital processes, but lacking the postocular crest.
+> The postocular crest of skull roof (Young, 1979) is present in many plesiomorphic arthrodires, such as *Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2), but is absent in eubrachythoracids. In contrast, many eubrachythoracids posssess dermal postorbital processes, but lacking the postocular crest.
 
-> - The postocular crest of skull roof is positioned posterior to the supraorbital vault on the visceral surface of skull roof, e.g.*Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2).     
+> The postocular crest of skull roof is positioned posterior to the supraorbital vault on the visceral surface of skull roof, e.g.*Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2).     
 
-> - The postocular crest is also present on the suborbital plate (Dennis and Miles, 1979; Rucklin, 2011). Note the same term used for a structure of the suborbital plate. Dennis and Miles (1979): "Suborbital plate with internal laminae (Figs 3, 11B). This plate (P50937) is structurally the same as that described for *Harrytoombsia*, except for the postocular crista which is proportionally much narrower and less robust. However, it does broaden anteriorly to form a substantial subocular crista. Also, the overlap area on the dorsal surface (PN.oa, Fig. 11B) receives the postnasal plate and not the preorbital lamina of the preorbital plate as is the case with *Harrytoombsia*". Rucklin (2011): "The visceral surface bears fused sub- and postocular crista, which form the ventral and posterior borders of the orbital vault. The subocular crista broadens anteriorly and is 5 mm wide lateromedially (Text-fig. 6C–D)."
+> The postocular crest is also present on the suborbital plate (Dennis and Miles, 1979; Rucklin, 2011). Note the same term used for a structure of the suborbital plate. Dennis and Miles (1979): "Suborbital plate with internal laminae (Figs 3, 11B). This plate (P50937) is structurally the same as that described for *Harrytoombsia*, except for the postocular crista which is proportionally much narrower and less robust. However, it does broaden anteriorly to form a substantial subocular crista. Also, the overlap area on the dorsal surface (PN.oa, Fig. 11B) receives the postnasal plate and not the preorbital lamina of the preorbital plate as is the case with *Harrytoombsia*". Rucklin (2011): "The visceral surface bears fused sub- and postocular crista, which form the ventral and posterior borders of the orbital vault. The subocular crista broadens anteriorly and is 5 mm wide lateromedially (Text-fig. 6C–D)."
 
 209. Depression lateral to supraorbital vault: absent (0); present (1).
-> - This depression is present in many plesiomorphic arthrodires, such as *Buchansopteus*, *Dhanguura* and *Exutaspis*.
+> This depression is present in many plesiomorphic arthrodires, such as *Buchansopteus*, *Dhanguura* and *Exutaspis*.
 
 210. Endolymphatic thickening on the visceral surface of skull roof: absent (0); present (1).
-> - The endolymphatic thickening is positioned in the anterior mesial part of paranuchal plate. The endolymaphtic thickening possibly corresponding to the lateral depression on the dorsal surface of the neurocranium is present non-eubrachythoracids, such as in *Kujdanowiaspis*, *Dicksonosteus*, and *Parabuchanosteus*.
+>  The endolymphatic thickening is positioned in the anterior mesial part of paranuchal plate. The endolymaphtic thickening possibly corresponding to the lateral depression on the dorsal surface of the neurocranium is present non-eubrachythoracids, such as in *Kujdanowiaspis*, *Dicksonosteus*, and *Parabuchanosteus*.
 
 211. Median nuchal thickening on the visceral surface of skull roof: long (0); short (1).
-> - The median nuchal thickening corresponding to the median nuchal depression on the dorsal suface of neurocranium is short in the brachythoracids and long in the plesiomorphic arthrodires.
+> The median nuchal thickening corresponding to the median nuchal depression on the dorsal suface of neurocranium is short in the brachythoracids and long in the plesiomorphic arthrodires.
 
 ### postcranial part
 212. Anterior dorsolateral plate overlapped by the posterior lateral plate: absent(0); present(1).
 > Long et al. (2014); Fitzpatrick *et al*. (2024), Character 125.
 
-> - Fitzpatrick *et al*. (2024), character 125, "Dermal contact between the anterior dorsolateral and posterior lateral plates: absent (0), present (1)." 
-> - This character is possibly the synapomorphy of Parabuchanosteidae. This condition is also present in *Herasmius dayi*.
+> Fitzpatrick *et al*. (2024), character 125, "Dermal contact between the anterior dorsolateral and posterior lateral plates: absent (0), present (1)." 
+> This character is possibly the synapomorphy of Parabuchanosteidae. This condition is also present in *Herasmius dayi*.
 
 213. Dorsolateral ridge originating from near the condyle of the anterior dorsolateral plate: absent (0), present (1).
 > Long (1995); Fitzpatrick *et al*. (2024, preprint), character 127.
@@ -1578,7 +1578,7 @@ P2. Dorsal articular lamina on trunk armour: (0) absent; (1) present.
 
 > Zhu *et al*. (2019), Character 3; Zhu Y. *et al*. (2021), Character 356; Zhu Y. *et al*. (2022), Character 561; Cui *et al*. (2023), Character 560; Zhu Y. *et al*. (2019), Character 373; Trinajstic *et al*. (2019), Character 16.
 
-> - Zhu *et al*. (2019): "The dorsal lamina is present in antiarchs, *Qilinyu* and *Silurolepis*; absent in all other taxa. Together with the ventral lamina shared in most other placoderms, it defines the slot-shaped articular fossa for the ‘reverse ginglymoid’ on the trunk shield."
+>  Zhu *et al*. (2019): "The dorsal lamina is present in antiarchs, *Qilinyu* and *Silurolepis*; absent in all other taxa. Together with the ventral lamina shared in most other placoderms, it defines the slot-shaped articular fossa for the ‘reverse ginglymoid’ on the trunk shield."
 
 > - **Character 555 in "early gnathostome phylogeny github".**
 
@@ -1586,7 +1586,7 @@ P3. Cranial fossa receiving the ventral articular lamina of the trunk: (0) absen
 
 > Zhu *et al*. (2019), Character 4; Zhu Y. *et al*. (2021), Character 357; Zhu Y. *et al*. (2022), Character 562; Cui *et al*. (2023), Character 561; Zhu Y. *et al*. (2019), Character 374; Trinajstic *et al*. (2019), Character 16.
 
-> - Zhu *et al*. (2019): "It is present in the Qilinyu with the dual articulation, and those placoderms in which the neck joints are categorized as ‘ginglymoid’ type; absent in antiarchs and those taxa with sliding neck joints."
+> Zhu *et al*. (2019): "It is present in the Qilinyu with the dual articulation, and those placoderms in which the neck joints are categorized as ‘ginglymoid’ type; absent in antiarchs and those taxa with sliding neck joints."
 > 
 > - **Character 556 in "early gnathostome phylogeny github".**
 
@@ -1594,7 +1594,7 @@ P4. Trunk ventral articular lamina develops into flange or condyle: (0) absent, 
 
 > Zhu *et al*. (2019), Character 5; Zhu Y. *et al*. (2021), Character 358; Zhu Y. *et al*. (2022), Character 563; Cui *et al*. (2023), Character 562; Zhu Y. *et al*. (2019), Character 375; Trinajstic *et al*. (2019), Character 16.
 
-> - Zhu *et al*. (2019): "Ventral articular lamina on the trunk shield develops into flange or condyle distinct from the rest of the anterior margin of ADL. The well-defined flange or condyle is present in *Qilinyu*, *Eurycaraspis*,
+> Zhu *et al*. (2019): "Ventral articular lamina on the trunk shield develops into flange or condyle distinct from the rest of the anterior margin of ADL. The well-defined flange or condyle is present in *Qilinyu*, *Eurycaraspis*,
 ptyctodonts and many arthrodires and absent in *Entelognathus* and basal arthrodire *Bryantolepis*."
 
 > - **Character 557 in "early gnathostome phylogeny github".**
@@ -1604,20 +1604,20 @@ P5. Rotatory contact of the dermal neck articulation: (0) absent; (1) present.
 > Zhu *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 359; Zhu Y. *et al*. (2022), Character 564; Cui *et al*. (2023), Character 563; Zhu Y. *et al*. (2019), Character 376; Trinajstic *et al*. (2019), Character 16.
 
 
-> - Zhu *et al*. (2019): "It is only present in arthrodires above phlyctaenids (including brachythoracids)."
+>  Zhu *et al*. (2019): "It is only present in arthrodires above phlyctaenids (including brachythoracids)."
  
 > - **Character 558 in "early gnathostome phylogeny github".**
 
 P6. Sliding contact of the dermal neck articulation: (0) absent; (1) present
 
-> - It is present in actinolepidoids, petalichthyids and some ptyctodonts.
+> It is present in actinolepidoids, petalichthyids and some ptyctodonts.
 
 P7. Type of sliding neck joint: horizontal or actinolepid type (0), vertical (1).
 > Young (1978); Zhu *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 360; Zhu Y. *et al*. (2022), Character 565; Brazeau *et al*. (2023), Character 179. Cui *et al*. (2023), Character 564.
 
-> - The vertical sliding joint relates to the para-articular process of dermal neck joint.
+> The vertical sliding joint relates to the para-articular process of dermal neck joint.
 
-> - Zhu *et al*. (2019): " Presence or absence of a lateral ridge or process defines the mesial boundary of the visceral contact face for the articular lamina on the paranuchal plate. The lateral
+>  Zhu *et al*. (2019): " Presence or absence of a lateral ridge or process defines the mesial boundary of the visceral contact face for the articular lamina on the paranuchal plate. The lateral
 ridge is present in petalichthyids and some ptyctodontids and absent in other placoderms." 
 
 > - **Character 559 in "early gnathostome phylogeny github".**
