@@ -1647,9 +1647,11 @@ P.13. Dermal skull roof: (0) includes large dermal plates; (1) consists of undif
 
 P.14. Unpaired median skull roofing bone in contact with unpaired plate bearing pineal eminence or foramen: (0) absent; (1) present.
 > Castiello (2018), Character 189; Zhu Y. et al. (2022), Character 62. Cui et al. (2023), Character 62; Lu et al. (in review), Character 60; Zhu Y. et al. (in review), Character 60.
+
 > Castiello (2018): This character is a new formulation of Dupret et al. (2009) character 34. It is about the condition presents in many placoderms where a median impaired
-bone (nuchal plate) is in contact with the unpaired bone bearing the pineal foramen or eminence. This is opposed to some other placoderms and osteichthyans where the median impaired bone (extrascapular in osteichthyans) is not in contact with the pineal plate so that the preorbitals (parietals in sarcopterygian,frontal in actinopterygian) are in contact.
-> This character possibly include the character 76.
+bone (nuchal plate) is in contact with the unpaired bone bearing the pineal foramen or eminence. This is opposed to some other placoderms and osteichthyans where the median impaired bone (extrascapular in osteichthyans) is not in contact with the pineal plate so that the preorbitals (parietals in sarcopterygian,frontal in actinopterygian) are in contact.
+
+> This character possibly includes the character 76.
 
 **Add those character in "early gnathostome phylogeny github" to unite or distinguish arthrodires and petalichthyids"**
 
