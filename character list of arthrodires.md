@@ -1377,7 +1377,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of *Cuanyu* is 1.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - The coding of *Panjiangosteus eurycephala* is 1.
+> - Dermal ornamentation: (0) smooth; (1) parallel, vermiform ridges; (2) concentric ridges; (3) tuberculate.  **Character 556 in "early gnathostome phylogeny github".**
 
 ## Additionary characters in Xue *et al*. (2025)
 173. Inframarginal crista: absent(0); present (1).
