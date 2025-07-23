@@ -1257,6 +1257,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of *Cuanyu* is 1.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
+> - Sensory line network: (0) preserved as open grooves; (1) pass through canals enclosed within dermal bones. **Character 55 in "early gnathostome phylogeny github".**
 
  158. Supraorbital sensory lines: separate (0); meet posteriorly (1).
 > Dupret *et al*. (2009, 2017), Character 15; Zhu *et al*. (2010), Character 15; Xue *et al*. (2025), Character 158.
@@ -1378,7 +1379,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of *Cuanyu* is 1.
 
 > - The coding of *Panjiangosteus eurycephala* is 1.
-> - Dermal ornamentation: (0) smooth; (1) parallel, vermiform ridges; (2) concentric ridges; (3) tuberculate.  **Character 556 in "early gnathostome phylogeny github".**
+> - Dermal ornamentation: (0) smooth; (1) parallel, vermiform ridges; (2) concentric ridges; (3) tuberculate.  **Character 54 in "early gnathostome phylogeny github".**
 
 ## Additionary characters in Xue *et al*. (2025)
 173. Inframarginal crista: absent(0); present (1).
