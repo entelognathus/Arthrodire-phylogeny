@@ -1431,33 +1431,23 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - Johnson *et al*. (2000): "A short segment of the profundus sensory line on the anterior part of the Preorbital has been recorded in *Heightingtonaspis anglica* and *Kujdanowiaspis* sp. (White, 1969; Denison, 1958, 1978)."
 
-> - In *Kujdanowisaspis podolica*, the short profundus sensory line is not connecting with the optic branch of infraorbital or central sensory lines.
-
-> - The coding of Cuanyu is 0.
-
 182. Position of profundus sensory line: on preorbital (0); on postorbital (1), on both postorbital and preorbital plates (2). 
 > Modified from Johnson *et al*. (2000), Character 22.
 
-> - The profundus sensory canal extends from preorbital to the postorbital plates. This character is present in *Bryantolepis*.
+> - The profundus sensory canal of *Bryantolepis* extends from preorbital to the postorbital plates. 
 
 > - Johnson *et al*. (2000): "In *Bryantolepis brachycephala* the profundus sensory line is present as a continuous line from the central sensory line on the Postorbital to the centre of the Preorbital terminating near the supraorbital sensory line (Denison, 1958)."
 
 183. 	Profundus sensory line connecting with the infraorbital sensory line: absent (0); present (1).
 > Modified from Johnson *et al*. (2000), Character 24.
 
-> - Johnson *et al*. (2000): "This character is known only in *Simblaspis cachensis* (Denison, 1958)."
-
-> - In *Simblaspis cachensis*, the profundus sensory line comprises of short groove and pits anterior to the infraorbtial sensory cana lon the postorbital plate and scattered pits posterolateral to the end of the supraorbital sensory canal on the preobital (Denison 1958).  
-
-> - The coding of *Cuanyu* is 0.
+> - In *Kujdanowisaspis podolica*, the short profundus sensory line is not connecting with the optic branch of infraorbital or central sensory lines.
+> - Johnson *et al*. (2000): "A small segment of the profundus sensory line branches off the intersection of the central sensory line and the infraorbital sensory line (postorbital branch) in *Aleosteus eganensis*, an arrangement not recorded in any other actinolepid."
 
 184. Condition of profundus sensory line on preorbital and postorbital plates: disconnected segments (0), a continuous line (1).
 > Modified from Johnson *et al*. (2000), Character 23.
 
-
-185. Profundus sensory line on postorbital plate and outside the infraorbital sensory line: absent (0); present (1).
-
-> - Johnson *et al*. (2000): "A small segment of the profundus sensory line branches off the intersection of the central sensory line and the infraorbital sensory line (postorbital branch) in *Aleosteus eganensis*, an arrangement not recorded in any other actinolepid."
+> - Johnson *et al*. (2000): "This character is known only in *Simblaspis cachensis* (Denison, 1958)."
 
 186. Spiracular notch between the postorbital and suborbital plates: absent (0); present (1).
 > - The spiracular notch between the postorbital plate and the dorsal margin of suborbital plate is present in some Incisoscutoidea, such as *Torosteus*, *Harrytoombsia*, and *Mcnamaraspis*. The spiracular notch of *Mcnamaraspis* is closed by short contact between the suborbital and postorbital plates.
