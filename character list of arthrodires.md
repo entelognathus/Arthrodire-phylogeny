@@ -657,11 +657,10 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
- 78. Median dorsal plate shape: short and broad to equidimensional (0); body of plate long and narrow, not including a posteriorly produced spine (1).
+ 78. Median dorsal plate shape (L/W ≤  OR > 1.0): short and broad to equidimensional (0); body of plate long and narrow, not including a posteriorly produced spine (1).
 > Carr (1991), Character 36; Lelièvre (1995), character 38, modified; Carr and Hlavin (2010), Character 36; Rücklin *et al*. (2015), Character 36; Zhu Y *et al*. (2016), Character 36; Jobbins *et al*. (2022, 2024), Character 36； Xue *et al*. (2025), Character 78.
-> Dupret *et al*. (2009, 2017), Character 60：Length/width ratio (L/W) of median dorsal plate: L/W < 1.5 (0); L/W ≥ 1.5 (1)..
 
-> - check the redundancy of this character with Charater 78,  L/W ≤  OR > 1.0. They are slightly different. check codings in two matrix. 
+> Dupret *et al*. (2009, 2017), Character 60：Length/width ratio (L/W) of median dorsal plate: L/W < 1.5 (0); L/W ≥ 1.5 (1).
 
 > - The coding of *Cuanyu* is ?.
 
