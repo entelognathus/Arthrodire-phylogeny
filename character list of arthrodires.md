@@ -541,6 +541,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of *Cuanyu* is 1.
 
 > - The coding of *Panjiangosteus eurycephala* is 1.
+> - **Character 79 in "early gnathostome phylogeny github".** 79. Single median element carrying the central, middle and posterior pit line: (0) absent; (1) present.
 
  62. Midline contact between paired central plates: straight (0); sinuous (1).
 > Dupret *et al*. (2009), Character 18; Dupret *et al*. (2017), Character 18; Zhu *et al*. (2010), Character 18; Xue *et al*. (2025), Character 62.
@@ -859,6 +860,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
  104. Extrascapular plate: absent (0); present (1).
 > Dupret *et al*. (2009), Character 45; Dupret *et al*. (2017), Character 45; Zhu *et al*. (2010), Character 45;  Xue *et al*. (2025), Character 104.
+
+> - **Character 80 in "early gnathostome phylogeny github".** 80. Postnuchal plates: (0) absent; (1) present.
 
 > - The coding of *Cuanyu* is ?.
 
@@ -1645,6 +1648,8 @@ P.13. Dermal skull roof: (0) includes large dermal plates; (1) consists of undif
 
 > Davis et al. (2012), Character 18; Choo et al. (2017), Character 17; King et al. (2017), Character 151; Castiello (2018), Character 150; Zhu Y. et al. (2022), Character 59; Andreev et al. (2022), Character 33; Brazeau et al. (2023), Character 155. Cui et al. (2023), Character 59.
 
+> - **Character 57 in "early gnathostome phylogeny github".**
+
 P.14. Unpaired median skull roofing bone in contact with unpaired plate bearing pineal eminence or foramen: (0) absent; (1) present.
 > Castiello (2018), Character 189; Zhu Y. et al. (2022), Character 62. Cui et al. (2023), Character 62; Lu et al. (in review), Character 60; Zhu Y. et al. (in review), Character 60.
 
@@ -1653,10 +1658,47 @@ bone (nuchal plate) is in contact with the unpaired bone bearing the pineal fora
 
 > This character possibly includes the character 76.
 
+> - **Character 60 in "early gnathostome phylogeny github".**
+
+P.15. T-shaped rostral plate: (0) absent; (1) present.
+> King et al. (2017), Character 237; Castiello (2018), Character 237; Zhu Y. et al. (2022), Character 80; Brazeau et al. (2023), Character 242. Cui et al. (2023), Character 80; Lu et al. (in review), Character 78; Zhu Y. et al. (in review), Character 78.
+
+> This character is part of character 5.
+
+> - **Character 78 in "early gnathostome phylogeny github".**
+
+P.16. Cutaneous sensory organ on skull roof posterior to orbits: (0) absent; (1) present.
+> King et al. (2017), Character 242; Castiello (2018), Character 242; Zhu Y. et al. (2022), Character 85; Brazeau et al. (2023), Character 247. Cui et al. (2023), Character 85; Lu et al. (in review), Character 83; Zhu Y. et al. (in review), Character 83.
+
+> King et al. (2007): The Cu.s.o in *Romundina* (Ørvig 1975). A much smaller cu.s.o was described in a similar position in *Brindabellaspis* (Young 1980), but these are variably developed, and are no wider than the sensory line canals. Since the sensory lines are variably developed as canals or grooves in *Brindabellaspis* it is not clear that these ‘cutaneous sensory organs’ are not continuations of the sensory lines, so this character is scored as unknown in *Brindabellaspis*. A cluster of Cu.s.o pits is also labelled in a posterior region in *Eurycaraspis* (Liu 1991). Since these are a cluster in an unusual position *Eurycaraspis* is currently scored as unknown for this character.
+
+> - This character is only present in *Romundina* and *Kolymaspis*.
+
+> - **Character 83 in "early gnathostome phylogeny github".**
+
+P.17. Sclerotic ring incorporated into skull roof: (0) absent; (1) present.
+> King et al. (2017), Character 244; Castiello (2018), Character 243; Zhu Y. et al. (2022), Character 86; Brazeau et al. (2023), Character 249. Cui et al. (2023), Character 86; Lu et al. (in review), Character 84; Zhu Y. et al. (in review), Character 84.
+
+> - **Character 84 in "early gnathostome phylogeny github".**
+
+> - This character is only present in *Entelognathus*.
+
+P. 18. Posterior descending lamina of skull roof: (0) absent; (1) present.
+> King et al. (2017), Character 252; Castiello (2018), Character 251; Zhu Y. et al. (2019), Character 7; Zhu Y. et al. (2022), Character 93; Brazeau et al. (2023), Character 257. Cui et al. (2023), Character 93; Lu et al. (in review), Character 91; Zhu Y. et al. (in review), Character 91.
+
+> - **Character 91 in "early gnathostome phylogeny github".**
+
+> - This character is present in some petalichthyids and antiarchs. A similar lamina is found in *Materpiscis* and Austroptyctodus.
+
 **Add those character in "early gnathostome phylogeny github" to unite or distinguish arthrodires and petalichthyids"**
 
 
 
+##Additionary character#
+A.1. Paraorbital plate separating suborbital from orbit: 0) absent; 1) present.
+> King et al. (2017), Character 252
+
+> - A dermal plate that is not associated with the palatoquadrate and runs lateral to the orbit is present in *Wuttagoonaspis*, and possibly *Brindabellaspis*.
 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
