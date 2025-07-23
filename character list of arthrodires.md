@@ -1424,7 +1424,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 180. Median nuchal thickening on the visceral surface of skull roof: long (0); short (1).
 > - The median nuchal thickening corresponding to the median nuchal depression on the dorsal suface of neurocranium is short in the brachythoracids and long in the plesiomorphic arthrodires.
 
-181. Profundus sensory line on preorbital: absent (0); present (1).
+181. Profundus sensory line: absent (0); present (1).
 > Modified from Johnson *et al*. (2000), Character 12.
 
 > - Johnson *et al*. (2000): "A short segment of the profundus sensory line on the anterior part of the Preorbital has been recorded in *Heightingtonaspis anglica* and *Kujdanowiaspis* sp. (White, 1969; Denison, 1958, 1978)."
@@ -1433,14 +1433,14 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of Cuanyu is 0.
 
-182. Continuous profundus sensory line on preorbital and postorbital: absent (0); present (1). 
+182. Position of profundus sensory line: on preorbital (0); on postorbital (1), on both postorbital and preorbital plates (2). 
 > Modified from Johnson *et al*. (2000), Character 22.
 
 > - The profundus sensory canal extends from preorbital to the postorbital plates. This character is present in *Bryantolepis*.
 
 > - Johnson *et al*. (2000): "In *Bryantolepis brachycephala* the profundus sensory line is present as a continuous line from the central sensory line on the Postorbital to the centre of the Preorbital terminating near the supraorbital sensory line (Denison, 1958)."
 
-183. Disconnected segments of profundus sensory line on preorbital and postorbital: absent (0); present (1).
+183. 	Profundus sensory line connecting with the infraorbital sensory line: absent (0); present (1).
 > Modified from Johnson *et al*. (2000), Character 24.
 
 > - Johnson *et al*. (2000): "This character is known only in *Simblaspis cachensis* (Denison, 1958)."
@@ -1449,12 +1449,9 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of *Cuanyu* is 0.
 
-184. Profundus sensory line on postorbital plate and inside the infraorbital sensory line: absent (0); present (1).
+184. Condition of profundus sensory line on preorbital and postorbital plates: disconnected segments (0), a continuous line (1).
 > Modified from Johnson *et al*. (2000), Character 23.
 
-> - The coding of Szelepis is 1.
-> - The coding of Gavinaspis is 1.
-> - The coding of Cuanyu is 1.
 
 185. Profundus sensory line on postorbital plate and outside the infraorbital sensory line: absent (0); present (1).
 
