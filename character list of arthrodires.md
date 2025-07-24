@@ -1715,7 +1715,24 @@ P.21. Pineal and rostral: (0) contact; (1) separated.
 
 > - This character is present in some petalichthyids, including *Lunaspis*, *Notopetalichthys*, and *Sinopetalichthys*.
 
-P.21.
+P.21. Postsuborbital plate (Quadratojugal): (0) present; (1) absent.
+> King et al. (2017), Character 276; Castiello (2018), Character 270; Zhu Y. et al. (2022), Character 106; Brazeau et al. (2023), Character 281. Cui et al. (2023), Character 106; Lu et al. (in review), Character 104; Zhu Y. et al. (in review), Character 104.
+
+> - **Character 104 in "early gnathostome phylogeny github".**
+
+P. 22. Posterior nostril: (0) associated with orbit; (1) not associated with orbit.
+> Zhu et al. (2009, Character 8), and references therein; Zhu et al. (2013), Character 152; Giles et al. (2015), Character 116; Choo et al. (2017), Character 142; King et al. (2017), Character 171; Castiello (2018), Character 169; Zhu Y. et al. (2022), Character 112; Brazeau et al. (2023), Character 175. Cui et al. (2023), Character 112.
+
+> - **Character 110 in "early gnathostome phylogeny github".**
+
+> - Posterior nostril not associated with orbit is widely present in arthordires, *Macropetalichthys*, and *Romundina*.
+
+P. 23. Extended preorbital region between eyes and nasal capsule: (0) absent; (1) present.
+> King et al. (2017), Character 22; , Character 22; Zhu Y. et al. (2022), Character 122; Brazeau et al. (2023), Character 25. Cui et al. (2023), Character 122.
+
+> - **Character 120 in "early gnathostome phylogeny github".**
+
+> - This character is present in macropetalichthyids, *Wuttagoonaspis*, and *Kolymaspis*.
 
 **Add those character in "early gnathostome phylogeny github" to unite or distinguish arthrodires and petalichthyids"**
 
