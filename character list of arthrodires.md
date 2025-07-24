@@ -209,6 +209,8 @@
 
 > - This character seems redundant with Character 23 of Dupret *et al*. (2009, 2017) 'Contact between postorbital and paranuchal plates: present (0); absent (1)'. **Check codings in the matrix.**
 
+> - **Character 102 in "early gnathostome phylogeny github".**
+
 > - The coding of *Cuanyu* is 1.
 
 > - The coding of *Panjiangosteus eurycephala* is 1.
@@ -642,6 +644,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of *Cuanyu* is 1.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
+
+> - **Character 98 in "early gnathostome phylogeny github".**  Series of bones lateral to supratemporal (placoderm marginal): (0) absent; (1) single bone; (2) two bones. 
 
  76. Contact between pineal and nuchal plates: absent (0); present (1).
 > Dupret *et al*. (2009), Character 34; Dupret *et al*. (2017), Character 34; Zhu *et al*. (2010), Character 34；Xue *et al*. (2025), Character 76.
@@ -1651,7 +1655,7 @@ P.13. Dermal skull roof: (0) includes large dermal plates; (1) consists of undif
 > - **Character 57 in "early gnathostome phylogeny github".**
 
 P.14. Unpaired median skull roofing bone in contact with unpaired plate bearing pineal eminence or foramen: (0) absent; (1) present.
-> Castiello (2018), Character 189; Zhu Y. et al. (2022), Character 62. Cui et al. (2023), Character 62; Lu et al. (in review), Character 60; Zhu Y. et al. (in review), Character 60.
+> Castiello (2018), Character 189; Zhu Y. et al. (2022), Character 62. Cui et al. (2023), Character 62.
 
 > Castiello (2018): This character is a new formulation of Dupret et al. (2009) character 34. It is about the condition presents in many placoderms where a median impaired
 bone (nuchal plate) is in contact with the unpaired bone bearing the pineal foramen or eminence. This is opposed to some other placoderms and osteichthyans where the median impaired bone (extrascapular in osteichthyans) is not in contact with the pineal plate so that the preorbitals (parietals in sarcopterygian,frontal in actinopterygian) are in contact.
@@ -1661,14 +1665,14 @@ bone (nuchal plate) is in contact with the unpaired bone bearing the pineal fora
 > - **Character 60 in "early gnathostome phylogeny github".**
 
 P.15. T-shaped rostral plate: (0) absent; (1) present.
-> King et al. (2017), Character 237; Castiello (2018), Character 237; Zhu Y. et al. (2022), Character 80; Brazeau et al. (2023), Character 242. Cui et al. (2023), Character 80; Lu et al. (in review), Character 78; Zhu Y. et al. (in review), Character 78.
+> King et al. (2017), Character 237; Castiello (2018), Character 237; Zhu Y. et al. (2022), Character 80; Brazeau et al. (2023), Character 242. Cui et al. (2023), Character 80.
 
 > This character is part of character 5.
 
 > - **Character 78 in "early gnathostome phylogeny github".**
 
 P.16. Cutaneous sensory organ on skull roof posterior to orbits: (0) absent; (1) present.
-> King et al. (2017), Character 242; Castiello (2018), Character 242; Zhu Y. et al. (2022), Character 85; Brazeau et al. (2023), Character 247. Cui et al. (2023), Character 85; Lu et al. (in review), Character 83; Zhu Y. et al. (in review), Character 83.
+> King et al. (2017), Character 242; Castiello (2018), Character 242; Zhu Y. et al. (2022), Character 85; Brazeau et al. (2023), Character 247. Cui et al. (2023), Character 85.
 
 > King et al. (2007): The Cu.s.o in *Romundina* (Ørvig 1975). A much smaller cu.s.o was described in a similar position in *Brindabellaspis* (Young 1980), but these are variably developed, and are no wider than the sensory line canals. Since the sensory lines are variably developed as canals or grooves in *Brindabellaspis* it is not clear that these ‘cutaneous sensory organs’ are not continuations of the sensory lines, so this character is scored as unknown in *Brindabellaspis*. A cluster of Cu.s.o pits is also labelled in a posterior region in *Eurycaraspis* (Liu 1991). Since these are a cluster in an unusual position *Eurycaraspis* is currently scored as unknown for this character.
 
@@ -1677,18 +1681,41 @@ P.16. Cutaneous sensory organ on skull roof posterior to orbits: (0) absent; (1)
 > - **Character 83 in "early gnathostome phylogeny github".**
 
 P.17. Sclerotic ring incorporated into skull roof: (0) absent; (1) present.
-> King et al. (2017), Character 244; Castiello (2018), Character 243; Zhu Y. et al. (2022), Character 86; Brazeau et al. (2023), Character 249. Cui et al. (2023), Character 86; Lu et al. (in review), Character 84; Zhu Y. et al. (in review), Character 84.
+> King et al. (2017), Character 244; Castiello (2018), Character 243; Zhu Y. et al. (2022), Character 86; Brazeau et al. (2023), Character 249. Cui et al. (2023), Character 86.
 
 > - **Character 84 in "early gnathostome phylogeny github".**
 
 > - This character is only present in *Entelognathus*.
 
 P. 18. Posterior descending lamina of skull roof: (0) absent; (1) present.
-> King et al. (2017), Character 252; Castiello (2018), Character 251; Zhu Y. et al. (2019), Character 7; Zhu Y. et al. (2022), Character 93; Brazeau et al. (2023), Character 257. Cui et al. (2023), Character 93; Lu et al. (in review), Character 91; Zhu Y. et al. (in review), Character 91.
+> King et al. (2017), Character 252; Castiello (2018), Character 251; Zhu Y. et al. (2019), Character 7; Zhu Y. et al. (2022), Character 93; Brazeau et al. (2023), Character 257. Cui et al. (2023), Character 93.
 
 > - **Character 91 in "early gnathostome phylogeny github".**
 
-> - This character is present in some petalichthyids and antiarchs. A similar lamina is found in *Materpiscis* and Austroptyctodus.
+> - This character is present in some petalichthyids and antiarchs. A similar lamina is found in *Materpiscis* and *Austroptyctodus*.
+
+P. 19. Mesial lamina on the internal surface of marginal plate: (0) absent; (1) present.
+> King et al. (2017), Character 254; Castiello (2018), Character 252; Zhu Y. et al. (2022), Character 94; Brazeau et al. (2023), Character 259. Cui et al. (2023), Character 94.
+
+> - **Character 92 in "early gnathostome phylogeny github".**
+
+> - King et al. (2017): A pair of laminae on the internal surface of the marginal plate, presumably for contact with the braincase, is present in ptyctodonts with suitable preservation. See e.g. Long (1997 fig. 4, mes.lam).
+
+P. 20. Nostrils enclosed in dermal skull roof: (0) yes; (1) no.
+> King et al. (2017), Character 255; Castiello (2018), Character 253; Zhu Y. et al. (2022), Character 95; Brazeau et al. (2023), Character 261. Cui et al. (2023), Character 95.
+
+> - **Character 93 in "early gnathostome phylogeny github".**
+
+> - King et al. (2017): In eubrachythoracid arthrodires, the snout is assumed to continue in soft tissue, so that the nostrils are not enclosed within dermal bone. Where only the posterior nostril is enclosed, taxa are scored as yes, as are taxa with dorsal nostrils (acanthothoracids, antiarchs etc.)
+
+P.21. Pineal and rostral: (0) contact; (1) separated.
+> Castiello (2018), Character 255; Zhu Y. et al. (2022), Character 97. Cui et al. (2023), Character 97.
+
+> - **Character 95 in "early gnathostome phylogeny github".**
+
+> - This character is present in some petalichthyids, including *Lunaspis*, *Notopetalichthys*, and *Sinopetalichthys*.
+
+P.21.
 
 **Add those character in "early gnathostome phylogeny github" to unite or distinguish arthrodires and petalichthyids"**
 
@@ -1696,10 +1723,15 @@ P. 18. Posterior descending lamina of skull roof: (0) absent; (1) present.
 
 ##Additionary character##
 
-A.1. Paraorbital plate separating suborbital from orbit: 0) absent; 1) present.
+A.1. Paraorbital plate separating suborbital from orbit: (0) absent; (1) present.
 > King et al. (2017), Character 252
 
 > - A dermal plate that is not associated with the palatoquadrate and runs lateral to the orbit is present in *Wuttagoonaspis*, and possibly *Brindabellaspis*.
+
+A.2. Transverse external groove behind pineal opening: (0) absent; (1) present.
+> King et al. (2017), Character 255
+
+> - A character of *Dicksonosteus* and *Diandongpetalichthys*. See e.g. Zhu (1991, fig. 1: srcp).
 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
