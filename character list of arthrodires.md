@@ -421,6 +421,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - In those taxa without supraorbital vault, this character is scored as 'not applicable'.
 
+> - **Character 133 in "early gnathostome phylogeny github".**  Skull roof with broad supraorbital vaults: (0) absent; (1) present.
+
 > - The coding of *Cuanyu* is ?.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
@@ -1733,6 +1735,38 @@ P. 23. Extended preorbital region between eyes and nasal capsule: (0) absent; (1
 > - **Character 120 in "early gnathostome phylogeny github".**
 
 > - This character is present in macropetalichthyids, *Wuttagoonaspis*, and *Kolymaspis*.
+
+P. 24. Orbit dorsal or facing dorsolaterally: (0) present; (1) absent.
+> Castiello (2018), Character 29; Zhu Y. et al. (2022), Character 123; Brazeau et al. (2023), Character 33. Cui et al. (2023), Character 123.
+
+> - **Character 121 in "early gnathostome phylogeny github".**
+
+> - This character is absent in the majority of arthrodires (with the exception of Wuttagoonaspis), as well as in quasipetalichthyids and ptyctodonts.
+> - *Diandongpetalichthy* is coded as "0" .
+
+P. 25. Orbits, surrounded laterally by endocranium: (0) absent; (1) partially surrounded; (2) surrounded.
+> Castiello (2018), Character 30; Zhu Y. et al. (2022), Character 124; Brazeau et al. (2023), Character 33. Cui et al. (2023), Character 124.
+
+> - **Character 122 in "early gnathostome phylogeny github".**
+
+> - In arthrodires, quasipetalichthyids, and *Diandongpetalichthys*, this character are coded as "0".
+
+P. 26. Pineal opening perforation in dermal skull roof: (0) present; (1) absent.
+> Davis et al. (2012), Character 25; Choo et al. (2017), Character 24; King et al. (2017), Character 159; Castiello (2018), Character 117; Zhu Y. et al. (2022), Character 130; Andreev et al. (2022), Character 42; Brazeau et al. (2023), Character 162. Cui et al. (2023), Character 130.
+
+> - **Character 128 in "early gnathostome phylogeny github".**
+
+P.27. Pineal eminence (in taxa lacking pineal foramen): (0) absent; (1) present.
+> Zhu Y. et al. (2021), Character 233; Zhu Y. et al. (2022), Character 131; Andreev et al. (2022), Character 237. Cui et al. (2023), Character 131.
+
+> - **Character 128 in "early gnathostome phylogeny github".**
+
+P. 28. Dermal plate associated with pineal eminence or foramen: (0) contributes to orbital margin; (1) plate bordered laterally by skull roofing bones. 
+> Giles et al. (2015), Character 42; Choo et al. (2017), Character 270; King et al. (2017), Character 208; Castiello (2018), Character 207; Zhu Y. et al. (2021), Character 41; Zhu Y. et al. (2022), Character 134; Andreev et al. (2022), Character 43; Brazeau et al. (2023), Character 213. Cui et al. (2023), Character 134
+
+> - **Character 128 in "early gnathostome phylogeny github".**
+> - Giles et al. (2015): "Among taxa sampled in this analysis, osteostracans, antiarchs, *Brindabellaspis*, and *Romundina* bear pineal plates that contribute to the margin of the orbit, corresponding to state '0'. We consider taxa where the pineal foramen is bounded by rectilinear skull roofing bones but which lack separate pineal ossifications (e.g., *Mimipiscis*) as showing state '1'. Taxa lacking macromeric cranial skeletons are coded as inapplicable for this character."
+
 
 **Add those character in "early gnathostome phylogeny github" to unite or distinguish arthrodires and petalichthyids"**
 
