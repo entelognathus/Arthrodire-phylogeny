@@ -1783,7 +1783,15 @@ P. 31. Centrals (Postparietals of placoderms): (0) absent; (1) present.
 > Clement et al. (2018), Character 277; Zhu Y. et al. (2022), Character 139; Andreev et al. (2022), Character 277. Cui et al. (2023), Character 139
 
 >  - **Character 137 in "early gnathostome phylogeny github".**
->  - 
+>  - Central plates possibly absent in antiarchs.
+
+P. 32. Condition of centrals (postparietals): (0) do not meet in midline; (1) meet in midline; (2) single midline bone.
+> Clement et al. (2018), Character 278; Zhu Y. et al. (2022), Character 140; Andreev et al. (2022), Character 278. Cui et al. (2023), Character 140
+
+>  - **Character 138 in "early gnathostome phylogeny github".**
+>  -  Single midline bone is present in *Entelognathus*, *Wuttagoonaspis*, and phyllolepida.
+
+P. 33. 
 **Add those character in "early gnathostome phylogeny github" to unite or distinguish arthrodires and petalichthyids"**
 
 
