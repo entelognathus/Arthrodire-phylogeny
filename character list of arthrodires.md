@@ -1781,18 +1781,19 @@ P. 30. Condition of preorbitals (parietals): (0) do not meet in midline; (1) mee
 >  - This character is related to Character 18, which is contingent upon it and has been modified as follows: Preorbital plates with a median contact — contact posterior to the pineal plate (0); contact anterior to the pineal plate (1). 
 
 P. 31. Centrals (Postparietals of placoderms): (0) absent; (1) present.
-> Clement et al. (2018), Character 277; Zhu Y. et al. (2022), Character 139; Andreev et al. (2022), Character 277. Cui et al. (2023), Character 139
+> Clement et al. (2018), Character 277; Zhu Y. et al. (2022), Character 139; Andreev et al. (2022), Character 277. Cui et al. (2023), Character 139.
 
 >  - **Character 137 in "early gnathostome phylogeny github".**
 >  - Central plates possibly absent in antiarchs.
 
 P. 32. Condition of centrals (postparietals): (0) do not meet in midline; (1) meet in midline; (2) single midline bone.
-> Clement et al. (2018), Character 278; Zhu Y. et al. (2022), Character 140; Andreev et al. (2022), Character 278. Cui et al. (2023), Character 140
+> Clement et al. (2018), Character 278; Zhu Y. et al. (2022), Character 140; Andreev et al. (2022), Character 278. Cui et al. (2023), Character 140.
 
 >  - **Character 138 in "early gnathostome phylogeny github".**
 >  -  Single midline bone is present in *Entelognathus*, *Wuttagoonaspis*, and phyllolepida.
 
-P. 33. 
+P. 33. premedian plate (Large unpaired median skull roofing bone anterior to the level of nasal capsules): (0) absent; (1) present.
+> Zhu et al. (2013), Character 148; Choo et al. (2017), Character 159; King et al. (2017), Character 177; Castiello (2018), Character 174; Zhu Y. et al. (2022), Character 142; Brazeau et al. (2023), Character 183. Cui et al. (2023), Character 142.
 **Add those character in "early gnathostome phylogeny github" to unite or distinguish arthrodires and petalichthyids"**
 
 
