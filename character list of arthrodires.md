@@ -551,6 +551,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > Dupret *et al*. (2009), Character 18; Dupret *et al*. (2017), Character 18; Zhu *et al*. (2010), Character 18; Xue *et al*. (2025), Character 62.
 
 > - In those taxa that the central plates are separated by nuchal plate, this character is scored as 'not applicable'.
+> - **Character 139 in "early gnathostome phylogeny github".**  Suture between paired skull roofing bones (centrals of placoderms postparietals of osteichthyans): (0) straight; (1) sinusoidal. 
 
 > - The coding of *Cuanyu* is 0.
 
