@@ -1794,6 +1794,29 @@ P. 32. Condition of centrals (postparietals): (0) do not meet in midline; (1) me
 
 P. 33. premedian plate (Large unpaired median skull roofing bone anterior to the level of nasal capsules): (0) absent; (1) present.
 > Zhu et al. (2013), Character 148; Choo et al. (2017), Character 159; King et al. (2017), Character 177; Castiello (2018), Character 174; Zhu Y. et al. (2022), Character 142; Brazeau et al. (2023), Character 183. Cui et al. (2023), Character 142.
+
+>  - **Character 140 in "early gnathostome phylogeny github".**
+>  - Premedian plate is present in acanthoracids, antiarchs, and maxillate placoderms.
+
+P. 34. Position of premedian plate: (0) dorsal; (1) ventral.
+> Zhu Y. et al. (2022), Character 143. Cui et al. (2023), Character 143.
+
+>  - **Character 141 in "early gnathostome phylogeny github".**
+>  - In maxillate placoderms, the premedian plate is positioned ventrally. 
+
+P. 35. Postnasal plate: (0) absent; (1) present.
+> Zhu et al. (2016), Character 341; Zhu Y. et al. (2021), Character 310; Zhu Y. et al. (2022), Character 144. Cui et al. (2023), Character 144.
+
+>  - **Character 142 in "early gnathostome phylogeny github".**
+>  - In petalichthyids and ptyctodonts, the postnasal plate is absent.
+
+P. 36. Obstantic margin of skull roof: (0) long; (1) short.
+> Zhu et al. (2016), Character 347; Zhu Y. et al. (2021), Character 314; Zhu Y. et al. (2022), Character 146. Cui et al. (2023), Character 146.
+
+>  - **Character 143 in "early gnathostome phylogeny github".**
+>  - In some acanthoracids, *Brindabellaspis*, and *Xiushanosteus*, the obstantic margin is short.
+
+P. 37.
 **Add those character in "early gnathostome phylogeny github" to unite or distinguish arthrodires and petalichthyids"**
 
 
