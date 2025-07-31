@@ -270,6 +270,8 @@
 
 > Dupret *et al*. (2009, 2017): Posterior process of paranuchal plate behind nuchal plate (external side): absent (0); present (1).
 
+>  - **Character 144 in "early gnathostome phylogeny github".**
+
 > - The coding of *Cuanyu* is 1.
 
 > - The coding of *Panjiangosteus eurycephala* is 0.
@@ -596,6 +598,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
  68. Number of paranuchal plates: one pair (0); two pairs (1).
 > Dupret *et al*. (2009), Character 35; Dupret *et al*. (2017), Character 35; Zhu *et al*. (2010), Character 35; Xue *et al*. (2025), Character 68.
+
+> - **Character 78 in "early gnathostome phylogeny github".**
 
 > - The coding of *Cuanyu* is 0.
 
@@ -1263,6 +1267,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  156. Postmarginal canal: absent (0); present (1).
 > Carr (1991), Character 85; Carr and Hlavin (2010), Character 85; Rücklin *et al*. (2015), Character 85; Zhu Y *et al*. (2016), Character 85; Jobbins *et al*. (2022, 2024), Character 85; Xue *et al*. (2025), Character 156.
 
+> - **Character 168 in "early gnathostome phylogeny github".** 
+
 > - The coding of *Cuanyu* is 1.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
@@ -1322,6 +1328,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
  163. Central sensory line: absent (0); present (1).
 > Dupret *et al*. (2009), Character 31; Dupret *et al*. (2017), Character 31; Zhu *et al*. (2010), Character 31; Xue *et al*. (2025), Character 163.
+
+>  - **Character 170 in "early gnathostome phylogeny github".**
 
 > - The coding of *Cuanyu* is 1.
 
@@ -1495,8 +1503,10 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 193. Posterior pit line converging towards the ossification center of nuchal plate: absent (0); present (1).
 
 194. Contact between preorbital plate and nuchal plate: absent (0); present (1).
+
+> - **Character 81 in "early gnathostome phylogeny github".** Contact of nuchal or centronuchal or median extrascapular plate with paired preorbital or parietal plates: (0) absent; (1) present.
      
-195.	Pineal plate occupies a notch in the anterior end of the nuchal plate (Young, 1985): (0)absent; (1)present
+196.	Pineal plate occupies a notch in the anterior end of the nuchal plate (Young, 1985): (0)absent; (1)present
 > Young (1985). This character is present in some antarctaspids and petalichthys, such as *Lunaspis*, *Shearsbyaspis*, and *Eurycaraspis*.
 
 196. Postorbital plate in contact with the nuchal plate: absent(0); present(1).
@@ -1528,6 +1538,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > Central sensory canals meet posterioly on central plates in *Watsonosteus* and *Dickosteus*.
 
 202. Supraorbital sensory canals extending to the nuchal plate: absent (0); present (1).
+
+> - **Character 175 in "early gnathostome phylogeny github".** Posteriorly converging supraorbital canals: (0) absent; (1) present.
 
 203. Number of the extrascapular: one (0); two (1).
 > This character is contingent on Character 104.
@@ -1818,11 +1830,79 @@ P. 36. Obstantic margin of skull roof: (0) long; (1) short.
 >  - **Character 143 in "early gnathostome phylogeny github".**
 >  - In some acanthoracids, *Brindabellaspis*, and *Xiushanosteus*, the obstantic margin is short.
 
-P. 37.
+P. 37. Nuchal plate contributing to posterior margin of skull roof: (0) absent; (1) present.
+> Zhu et al. (2013), Character 163; Choo et al. (2017), Character 172; Zhu Y. et al. (2022), Character 147. Cui et al. (2023), Character 147
+
+>  - **Character 144 in "early gnathostome phylogeny github".**
+>  - In *Campbellodus* and *Austroptyctodus*, the nuchal plate does not contribute to the posterior margin of the skull roof.
+
+P. 38. Median paranuchal plate: (0) absent; (1) present.
+> Zhu Y. et al. (2022), Character 155. Cui et al. (2023), Character 155.
+
+>  - **Character 152 in "early gnathostome phylogeny github".**
+>  - Zhu Y. et al. (2022): "Paired median paranuchals are present in some acanthothoracids, e.g., *Romundina*, *Arabosteus* (Olive et al., 2011) and *Sudaspis* (Vaškaninová and Ahlberg, 2017).
+
+P. 39. Posterior projection on posterior paranuchal plate: (0) absent; (1) present.
+> Castiello (2018), Character 188; Castiello (2018), Character 188; Zhu Y. et al. (2022), Character 158. Cui et al. (2023), Character 158.
+
+>  - **Character 155 in "early gnathostome phylogeny github".**
+>  - Castiello (2018):"Posterior projections are present on the posterior paranuchal plates on certain ’acanthothoracids’ (*Romundina* (Ørvig, 1975), *Arabosteus*, *Kimaspis*, *Kosoraspis*
+and *Tlamaspis*."
+
+P. 40. Middle and posterior pit-lines on central plate (postparietal): (0) posteriorly situated; (1) mesially situated.
+> Zhu et al. (2009, Character 107), and references therein; Zhu et al. (2013), Character 185; Choo et al. (2017), Character 190; King et al. (2017), Character 288; Castiello (2018), Character 280; Zhu Y. et al. (2022), Character 165; Brazeau et al. (2023), Character 293. Cui et al. (2023), Character 165.
+
+>  - **Character 161 in "early gnathostome phylogeny github".**
+
+P. 41. Position of middle and posterior pit lines: (0) close to midline; (1) near the central portion of each postparietal.
+> Zhu et al. (2009, Character 108), and references therein; Zhu et al. (2013), Character 186; Choo et al. (2017), Character 191; King et al. (2017), Character 289; Castiello (2018), Character 281; Zhu Y. et al. (2022), Character 166; Brazeau et al. (2023), Character 294. Cui et al. (2023), Character 166.
+
+>  - **Character 162 in "early gnathostome phylogeny github".**
+
+>  - In *Gavinaspis*, the middle and posterior pit lines positioned close to the midline of centronuchal plate.
+>  - Castiello (2018) changed Score to ? to 1 for Eurycaraspis (Liu, 1991).
+
+P. 42. Junction of posterior pitline and main lateral line: (0) far in front of posterior margin of skull roof; (1) close to posterior margin of skull roof.
+> Zhu et al. (2013), Character 166; Choo et al. (2017), Character 175; Zhu Y. et al. (2022), Character 167; Brazeau et al. (2023), Character 290. Cui et al. (2023), Character 167.
+
+>  - **Character 163 in "early gnathostome phylogeny github".**
+>  - This character can be modified as ：Junction of posterior pitline and main lateral line: (0) far in front of posterior margin of skull roof or on anterior paranuchal plate for Petalichthyida; (1) close to posterior margin of skull roof.
+
+P. 43. Ethmoid commissure: (0) absent; (1) present.
+> Castiello (2018), Character 311; Zhu Y. et al. (2022), Character 168; Brazeau et al. (2023), Character 325. Cui et al. (2023), Character 168.
+
+> - **Character 164 in "early gnathostome phylogeny github".**
+> - Ethmoid commissure is present in antiarchs, acanthoracids, and *Brindabellaspis*.
+
+P. 44. Postmarginal line issued from main lateral line: (0) on marginal (supratemporal); (1) on anterior paranuchal (tabular).
+> Zhu et al. (2016), Character 349; Zhu Y. et al. (2021), Character 315; Zhu Y. et al. (2022), Character 173. Cui et al. (2023), Character 173.
+
+> - **Character 169 in "early gnathostome phylogeny github".**
+> - In *Arabosteus* and *Entelognathus*, postmarginal line branches off from the main lateral line on anterior paranuchal plate.
+
+P. 45. Supraorbital sensory canals: (0) absent; (1) present.
+> King et al. (2017), Character 307; Castiello (2018), Character 299; Zhu Y. et al. (2022), Character 175; Brazeau et al. (2023), Character 312. Cui et al. (2023), Character 175.
+
+> - **Character 171 in "early gnathostome phylogeny github".**
+> - The supraorbital sensory canal is absent in maxillate placoderms, such as *Qilinyu*, *Entelognathus*, and *Bianchengichthys*.
+
+P. 45. Course of supraorbital canal: (0) straight; (1) lyre-shaped.
+> Zhu et al. (2009, Character 110), and references therein; Zhu et al. (2013), Character 188; Choo et al. (2017), Character 193; King et al. (2017), Character 291; Castiello (2018), Character 283; Zhu Y. et al. (2022), Character 177; Brazeau et al. (2023), Character 296. Cui et al. (2023), Character 177.
+
+> - **Character 173 in "early gnathostome phylogeny github".**
+> - Lyre-sheped supraorbital canal is present in antarctaspids and wuttagoonaspids.
+
+P. 46. Posterior end of supraorbital canal: (0) in central (postparietal); (1) in preorbital (parietal); (2) in intertemporal; (3) in nuchal plate; (4) in postpineal plate.
+> Zhu et al. (2009, Character 111), and references therein; Zhu et al. (2013), Character 189; Choo et al. (2017), Character 194; Zhu Y. et al. (2022), Character 178; Brazeau et al. (2023), Character 297. Cui et al. (2023), Character 178.
+
+> - **Character 174 in "early gnathostome phylogeny github".**
+> -  Character state 2 is not applicable to placoderms.
+
+P. 47. Supraorbital canals and posterior pitlines convergence: (0) absent; (1) converge without contact; (2) converge with contact.
+> Long et al. (2015), Character 256; Choo et al. (2017), Character 248; King et al. (2017), Character 300; Castiello (2018), Character 291; Zhu Y. et al. (2022), Character 180; Brazeau et al. (2023), Character 305. Cui et al. (2023), Character 180.
+
+
 **Add those character in "early gnathostome phylogeny github" to unite or distinguish arthrodires and petalichthyids"**
-
-
-
 ##Additionary character##
 
 A.1. Paraorbital plate separating suborbital from orbit: (0) absent; (1) present.
