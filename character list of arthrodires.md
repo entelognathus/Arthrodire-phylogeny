@@ -767,6 +767,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  121. Palatoquadrate ossification: ossified as a single unit (0); autopalatine and quadrate ossifications (1).
 > Dennis and Miles (1979a), Character 21; Carr (1991), Character 57; Lelièvre (1991), character 15; Carr and Hlavin (2010), Character 57; Rücklin *et al*. (2015), Character 57; Zhu Y *et al*. (2016), Character 57; Jobbins *et al*. (2022, 2024), Character 57; Xue *et al*. (2025), Character 121.
 
+> - **Character 332 in "early gnathostome phylogeny github".**  Autopalatine and quadrate: (0) comineralized; (1) separate mineralizations.
+
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  122. Detent process on quadrate: absent (0); present (1).
@@ -1052,6 +1054,10 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > Dupret *et al*. (2009), Character 1; Dupret *et al*. (2017), Character 1; Zhu *et al*. (2010), Character 1; Xue *et al*. (2025), Character 168.
 
 >- Same as "Optic fissure: present (0): absent (1)".
+
+> - **Character 82 in "early gnathostome phylogeny github".** Discrete division of the ethmoid and more posterior braincase at the level of the optic tract canal (optic fissure): (0) absent; (1) present.
+
+> - Brazeau et al. (2023) "Optic fissure: (0) present; (1) absent."
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
@@ -1648,7 +1654,7 @@ P. 60. Pair of tooth plates (anterior supragnathals or vomers) on ethmoidal plat
 > Giles et al. (2015), Character 91; Choo et al. (2017), Character 287; King et al. (2017), Character 367; Castiello (2018), Character 357; Zhu Y. et al. (2022), Character 274; Andreev et al. (2022), Character 91; Brazeau et al. (2023), Character 372. Cui et al. (2023), Character 274.
 
 >  - **Character 270 in "early gnathostome phylogeny github".**
->  - shared by arthrodires and *Romundina*.
+>  - Stated 1 is shared by arthrodires and *Romundina*.
 
 P. 61. Fused anterior supragnathals: (0) absent; (1) present.
 > King et al. (2017), Character 372; Castiello (2018), Character 361; Zhu Y. et al. (2022), Character 275; Brazeau et al. (2023), Character 377. Cui et al. (2023), Character 275.
@@ -1679,8 +1685,55 @@ P. 65. Position of mandibular arch articulations: (0) terminal; (1) subterminal.
 >  - **Character 321 in "early gnathostome phylogeny github".**
 >  - State 1 is present in arthrodires and maxillate placoderms.
 
+P. 66. Nasal opening(s): (0) dorsal, placed between orbits; (1) ventral and anterior to orbits.
+> Friedman (2007); Brazeau (2009); Davis et al. (2012), Character 56; Choo et al. (2017), Character 55. King et al. (2017), Character 20; Castiello (2018), Character 20; Zhu Y. et al. (2022), Character 376; Andreev et al. (2022), Character 114; Brazeau et al. (2023), Character 23. Cui et al. (2023), Character 376.
 
- 
+>  - **Character 372 in "early gnathostome phylogeny github".**
+
+P. 67. Ventral face of nasal capsule in taxa with mineralized ethmoid: (0) complete; (1) fenestra ventrolateralis; (2) entire floor unmineralized.
+> Choo et al. (2017), Character 172; Zhu Y. et al. (2021), Character 258; Zhu Y. et al. (2022), Character 382; Andreev et al. (2022), Character 262. Cui et al. (2023), Character 382.
+
+>  - **Character 378 in "early gnathostome phylogeny github".**
+>  - State 0 is present in acanthothoracids and *Brindabellaspis*. 
+>  - State 1 is present in sarcopterygians, not applicabled in placoderms. 
+
+P. 68. Olfactory tracts: (0) short, with olfactory capsules situated close to telencephalon cavity; (1) elongate and tubular (much longer than wide).
+> Zhu et al. (2009); Brazeau (2009); Friedman & Brazeau (2010); Davis et al. (2012), Character 57; Choo et al. (2017), Character 56. King et al. (2017), Character 21; Castiello (2018), Character 21; Zhu Y. et al. (2022), Character 385; Andreev et al. (2022), Character 116; Brazeau et al. (2023), Character 24. Cui et al. (2023), Character 385.
+
+>  - **Character 381 in "early gnathostome phylogeny github".**
+>  - In placoderms, enlongated olfactory tract is only present in Macropetalichthyids, including *Macropetalichthys* and *Shearsbyaspis*.
+
+P. 69. Olfactory tracts: (0) parallel or near-parallel; (1) significantly diverged.
+> Zhu Y. et al. (2021), Character 342; Zhu Y. et al. (2022), Character 386. Cui et al. (2023), Character 386.
+
+>  - **Character 382 in "early gnathostome phylogeny github".**
+>  - The score for *Macropetalichthys* should possibly be revised from 0 to 1.
+>  - The score for *Romundina* should possibly be revised from 0 to 1.
+
+P. 70. Prominent pre-orbital rostral expansion of the neurocranium: (0) present; (1) absent.
+> Brazeau (2009); Davis et al. (2012), Character 58; Choo et al. (2017), Character 57; Zhu Y. et al. (2022), Character 387; Andreev et al. (2022), Character 117. Cui et al. (2023), Character 387.
+
+>  - **Character 383 in "early gnathostome phylogeny github".**
+>  - This character is present in *Romundina*, *Brindabellaspis*, and antiarchs.
+
+P. 71. Narrow interorbital septum: (0) absent; (1) present.
+> Brazeau (2009); Davis et al. (2012), Character 68; Choo et al. (2017), Character 67. King et al. (2017), Character 32; Castiello (2018), Character 32; Zhu Y. et al. (2022), Character 393; Andreev et al. (2022), Character 135; Brazeau et al. (2023), Character 35. Cui et al. (2023), Character 393.
+
+>  - **Character 389 in "early gnathostome phylogeny github".**
+>  - This character is present in *Austroptyctodus* and antiarchs.
+
+P. 72. Anteriormost articulation for the mandibular arch: (0) located anterior to the nasal capsules, terminal; (1) immediately below or posterior to nasal capsules, subterminal.
+> Zhu et al. (2016), Character 326; Coates et al. (2018), Character 123; Zhu Y. et al. (2021), Character 307; Zhu Y. et al. (2022), Character 397. Cui et al. (2023), Character 397.
+
+>  - **Character 393 in "early gnathostome phylogeny github".**
+>  - This character is shared by arthrodires and *Entelognathus*.
+
+P. 73. Close association of pineal organ and nasal cavities: (0) absent; (1) present.
+> Zhu et al. (2016), Character 328; Zhu Y. et al. (2021), Character 309; Zhu Y. et al. (2022), Character 399. Cui et al. (2023), Character 399.
+
+>  - **Character 395 in "early gnathostome phylogeny github".**
+>  - This character is present in acanthoracids and antiarchs.
+
 **Add those character in "early gnathostome phylogeny github" to unite or distinguish arthrodires and petalichthyids"**
 ##Additionary character##
 
