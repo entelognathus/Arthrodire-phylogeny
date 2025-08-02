@@ -833,6 +833,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
+> - >  - **Character 274 in "early gnathostome phylogeny github".**
+
  133. Dorsal process of the anterior supragnathal plate forms an open ring: ring open, measured as greater than 90° (0); ring forms a ~90° angle (1); ring closed, measured angle less than 90° (2).
 > Lelièvre *et al*. (1981), Character 4; Carr (1991), Character 69; Carr and Hlavin (2010), Character 69; Rücklin *et al*. (2015), Character 69; Zhu Y *et al*. (2016), Character 69; Jobbins *et al*. (2022, 2024), Character 69;  Xue *et al*. (2025), Character 133.
 
@@ -1578,7 +1580,7 @@ P. 49. Supraorbital canal joins infraorbital canal: (0) anterior to supraoral ca
 > King et al. (2017), Character 322; Castiello (2018), Character 314; Zhu Y. et al. (2022), Character 200; Brazeau et al. (2023), Character 327. Cui et al. (2023), Character 200.
 
 >  - **Character 196 in "early gnathostome phylogeny github".**
->  - This character is only present in *wuttagoonaspis*.
+>  - This character is only present in *Wuttagoonaspis*.
 
 P. 50. Endolymphatic ducts open in dermal skull roof: (0) present; (1) absent.
 > Janvier (1996); Brazeau (2009); Davis et al. (2012), Character 21; Choo et al. (2017), Character 20; King et al. (2017), Character 154; Castiello (2018), Character 153; Zhu Y. et al. (2022), Character 203; Andreev et al. (2022), Character 39; Brazeau et al. (2023), Character 158. Cui et al. (2023), Character 203.
@@ -1603,10 +1605,61 @@ P. 52. Endolymphatic duct relationship to median skull roof bone: (0) within med
 P. 53. Consolidated cheek plates: (0) absent; (1) present.
 > Davis (2002); Brazeau (2009); Davis et al. (2012), Character 24; Choo et al. (2017), Character 23; King et al. (2017), Character 157; Castiello (2018), Character 156; Zhu Y. et al. (2022), Character 211; Andreev et al. (2022), Character 53; Brazeau et al. (2023), Character 161. Cui et al. (2023), Character 211.
 
->  - **Character 202 in "early gnathostome phylogeny github".**
+>  - **Character 207 in "early gnathostome phylogeny github".**
 >  - In ptyctodonts, consolidated cheek plates are absent.
 
-P. 54. 
+P. 54. Ventral lamina of submarginal (opercular) ossification: (0) absent; (1) present.
+> Zhu et al. (2016), Character 355; Zhu Y. et al. (2021), Character 317; Zhu Y. et al. (2022), Character 232. Cui et al. (2023), Character 232.
+
+>  - **Character 228 in "early gnathostome phylogeny github".**
+>  - This character is present in antiarcha and *Qilinyu*.
+
+P. 55. Ventral lamina of suborbital (jugal): (0) absent; (1) present.
+> Zhu et al. (2016), Character 356) Zhu Y. et al. (2021), Character 318; Zhu Y. et al. (2022), Character 233. Cui et al. (2023), Character 233.
+
+>  - **Character 229 in "early gnathostome phylogeny github".**
+>  - This character is present in antiarcha and *Qilinyu*.
+
+P. 56. Anterodorsal process of opercular (submarginal) ossification attaching onto skull: (0) absent; (1) present.
+> Zhu et al. (2016), Character 357; Zhu Y. et al. (2021), Character 319; Zhu Y. et al. (2022), Character 235. Cui et al. (2023), Character 235.
+
+>  - **Character 231 in "early gnathostome phylogeny github".**
+>  - This character is present in antiarcha and *Qilinyu*.
+
+P. 57. Deep, high supragnathal bone with durophagous occlusal surface: (0) absent; (1) present.
+> Long et al. (2015), Character 257; Choo et al. (2017), Character 249; Castiello (2018), Character 354. King et al. (2017), Character 364; Zhu Y. et al. (2022), Character 247; Brazeau et al. (2023), Character 369; Cui et al. (2023), Character 247; Trinajstic et al. (2019), character 6.
+
+>  - **Character 243 in "early gnathostome phylogeny github".**
+>  - This character is a synapomorphy of ptyctodontids.
+
+P. 58. Posterior supragnathal with vertical pipe-like ridges: (0) absent; (1) present.
+> King et al. (2017), Character 373; Castiello (2018), Character 362; Zhu Y. et al. (2022), Character 248; Brazeau et al. (2023), Character 378; Cui et al. (2023), Character 248; Trinajstic et al. (2019), character 6.
+
+>  - **Character 244 in "early gnathostome phylogeny github".**
+>  - This character is only present in *Holonema*. See Miles (1971).
+
+P. 59. Maxilla and premaxilla sensu lato (upper gnathal plates lateral to jaw cartilage): (0) absent; (1) present.
+> Zhu et al. (2016), Character 331; Coates et al. (2018), Character 92; Zhu Y. et al. (2022), Character 262. Cui et al. (2023), Character 262.
+
+>  - **Character 258 in "early gnathostome phylogeny github".**  
+>  - This character is shared by maxillate placoderms and crownward gnathostomes.
+
+P. 60. Pair of tooth plates (anterior supragnathals or vomers) on ethmoidal plate: (0) absent; (1) present.
+> Giles et al. (2015), Character 91; Choo et al. (2017), Character 287; King et al. (2017), Character 367; Castiello (2018), Character 357; Zhu Y. et al. (2022), Character 274; Andreev et al. (2022), Character 91; Brazeau et al. (2023), Character 372. Cui et al. (2023), Character 274.
+
+>  - **Character 270 in "early gnathostome phylogeny github".**
+>  - shared by arthrodires and *Romundina*.
+
+P. 61. Fused anterior supragnathals: (0) absent; (1) present.
+> King et al. (2017), Character 372; Castiello (2018), Character 361; Zhu Y. et al. (2022), Character 275; Brazeau et al. (2023), Character 377. Cui et al. (2023), Character 275.
+
+>  - **Character 271 in "early gnathostome phylogeny github".**
+>  - This character is only present in groenlandaspids.
+
+P. 62. Parasphenoid (Median dermal bone of palate): (0) absent; (1) present.
+> Gardiner (1984); Brazeau (2009); Davis et al. (2012), Character 55; Choo et al. (2017), Character 54; King et al. (2017), Character 131; Castiello (2018), Character 130; Zhu Y. et al. (2022), Character 279; Andreev et al. (2022), Character 109; Brazeau et al. (2023), Character 135.
+
+>  - **Character 275 in "early gnathostome phylogeny github".**
  
 **Add those character in "early gnathostome phylogeny github" to unite or distinguish arthrodires and petalichthyids"**
 ##Additionary character##
