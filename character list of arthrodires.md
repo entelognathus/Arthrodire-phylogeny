@@ -1660,6 +1660,26 @@ P. 62. Parasphenoid (Median dermal bone of palate): (0) absent; (1) present.
 > Gardiner (1984); Brazeau (2009); Davis et al. (2012), Character 55; Choo et al. (2017), Character 54; King et al. (2017), Character 131; Castiello (2018), Character 130; Zhu Y. et al. (2022), Character 279; Andreev et al. (2022), Character 109; Brazeau et al. (2023), Character 135.
 
 >  - **Character 275 in "early gnathostome phylogeny github".**
+>  - In placoderms, parasphenoid is present in arthrodires and *Shearsbyaspis*.
+
+P. 63. Buccohypophysial canal in parasphenoid: (0) single; (1) paired.
+> Giles et al. (2015), Character 114; Choo et al. (2017), Character 292; King et al. (2017), Character 74; Castiello (2018), Character 76; Zhu Y. et al. (2022), Character 280; Andreev et al. (2022), Character 113; Brazeau et al. (2023), Character 78. Cui et al. (2023), Character 280.
+
+>  - **Character 275 in "early gnathostome phylogeny github".**
+>  - This character is widely present in eubrachythoracids.
+
+P. 64. Anterior portion of parasphenoid (pre-buccohypophyseal foramen) of greater length than posterior portion (post-foramen): (0) absent; (1) present.
+> Coates et al. (2018), Character 99; Zhu Y. et al. (2022), Character 289. Cui et al. (2023), Character 289.
+
+>  - **Character 275 in "early gnathostome phylogeny github".**
+
+P. 65. Position of mandibular arch articulations: (0) terminal; (1) subterminal.
+> Zhu Y. et al. (2021), Character 93; Zhu Y. et al. (2022), Character 325; Andreev et al. (2022), Character 96. Cui et al. (2023), Character 325.
+
+>  - **Character 321 in "early gnathostome phylogeny github".**
+>  - State 1 is present in arthrodires and maxillate placoderms.
+
+
  
 **Add those character in "early gnathostome phylogeny github" to unite or distinguish arthrodires and petalichthyids"**
 ##Additionary character##
@@ -1673,6 +1693,12 @@ A.2. Transverse external groove behind pineal opening: (0) absent; (1) present.
 > King et al. (2017), Character 255
 
 > - A character of *Dicksonosteus* and *Diandongpetalichthys*. See e.g. Zhu (1991, fig. 1: srcp).
+
+A.3. Laterally extending palatoquadrate: (0) absent; (1) present.
+> Zhu et al. (2016), Character 327; Zhu Y. et al. (2021), Character 308; Zhu Y. et al. (2022), Character 330. Cui et al. (2023), Character 330.
+
+> - **Character 326 in "early gnathostome phylogeny github".**
+> - This character is only present in *Gemuendina* and *Jagorina*.
 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
