@@ -1734,6 +1734,30 @@ P. 73. Close association of pineal organ and nasal cavities: (0) absent; (1) pre
 >  - **Character 395 in "early gnathostome phylogeny github".**
 >  - This character is present in acanthoracids and antiarchs.
 
+P. 74. Eye stalk position: (0) positioned laterally on the orbital wall; (1) positioned ventrally on the subocular shelf wall.
+> Castiello (2018), Character 64; Zhu Y. et al. (2022), Character 403. Cui et al. (2023), Character 403.
+
+>  - **Character 399 in "early gnathostome phylogeny github".**
+>  - Castiello (2018): "Character states have been created to highlight the difference between an eye stalk positioned ventrally on the subocular shelf as opposed to on the lateral wall of the orbit. This is an important distinction between taxa that possess similar orientation fo the orbit that have a different position for the eyestalk. As an example, *Brindabellaspis* and *Shearsbyaspis* both possess dorsolaterally placed eyes but the eye stalk in placed laterally or ventrally on the orbital wall, respectively."
+
+P. 75. Orbit directed mostly laterally and free of flanking endocranial cartilage or bone: (0) absent; (1) present.
+> Coates et al. (2018), Character 128; Zhu Y. et al. (2022), Character 405. Cui et al. (2023), Character 405
+
+>  - **Character 401 in "early gnathostome phylogeny github".**
+>  - This character may be redundant with P. 25.
+
+P. 76. Developed postorbital cavity: (0) absent; (1) present.
+> Zhu et al. (2013), Character 223; Choo et al. (2017), Character 220; Zhu Y. et al. (2022), Character 410. Cui et al. (2023), Character 410
+
+>  - **Character 405 in "early gnathostome phylogeny github".**
+>  - This character is present in arthrodires, *Diandongpetalichthyids*, and *Entelognathus*.
+
+P. 77. Subpituitary fenestra: (0) absent; (1) present.
+> Goujet & Young (1995); Brazeau (2009); Davis et al. (2012), Character 64; Choo et al. (2017), Character 63; King et al. (2017), Character 28; Castiello (2018), Character 94; Zhu Y. et al. (2022), Character 431; Andreev et al. (2022), Character 127; Brazeau et al. (2023), Character 31. Cui et al. (2023), Character 431.
+
+>  - **Character 426 in "early gnathostome phylogeny github".**
+>  - This character is a synapomorphy of arthrodires.
+
 **Add those character in "early gnathostome phylogeny github" to unite or distinguish arthrodires and petalichthyids"**
 ##Additionary character##
 
