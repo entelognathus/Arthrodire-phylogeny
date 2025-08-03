@@ -1266,81 +1266,65 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > Long (1995); Fitzpatrick *et al*. (2024), character 127.
 
 ## More characters relating to the inclusion of petalichthyid taxa in the matrix. 
-
 P1. Dermal neck-joint between paired main-lateral-line-bearing bones of skull and shoulder girdle: (0) absent; (1) present.
-> Young (2010, Character 15); Zhu *et al*. (2013), Character 168; Choo *et al*. (2017), Character 177; King *et al*. (2017), Character 192; Castiello (2018), Character 191; Zhu Y. *et al*. (2019b), character 372; Zhu Y. *et al*. (2022), Character 560; Brazeau *et al*. (2023), Character 177. Cui *et al*. (2023), Character 559.
-
+> Young (2010, Character 15); Zhu *et al*. (2013), Character 168; Choo *et al*. (2017), Character 177; King *et al*. (2017), Character 192; Castiello (2018), Character 191; Zhu Y. *et al*. (2019b), character 372; Zhu Y. *et al*. (2022), Character 560; Brazeau *et al*. (2023), Character 177; Cui *et al*. (2023), Character 559.
 > - **Character 554 in "early gnathostome phylogeny github".**
 
 P2. Dorsal articular lamina on trunk armour: (0) absent; (1) present.
-
 > Zhu *et al*. (2019), Character 3; Zhu Y. *et al*. (2021), Character 356; Zhu Y. *et al*. (2022), Character 561; Cui *et al*. (2023), Character 560; Zhu Y. *et al*. (2019), Character 373; Trinajstic *et al*. (2019), Character 16.
-
->  Zhu *et al*. (2019): "The dorsal lamina is present in antiarchs, *Qilinyu* and *Silurolepis*; absent in all other taxa. Together with the ventral lamina shared in most other placoderms, it defines the slot-shaped articular fossa for the ‘reverse ginglymoid’ on the trunk shield."
-
+> - Zhu *et al*. (2019): "The dorsal lamina is present in antiarchs, *Qilinyu* and *Silurolepis*; absent in all other taxa. Together with the ventral lamina shared in most other placoderms, it defines the slot-shaped articular fossa for the ‘reverse ginglymoid’ on the trunk shield."
 > - **Character 555 in "early gnathostome phylogeny github".**
 
 P3. Cranial fossa receiving the ventral articular lamina of the trunk: (0) absent; (1) present.
-
 > Zhu *et al*. (2019), Character 4; Zhu Y. *et al*. (2021), Character 357; Zhu Y. *et al*. (2022), Character 562; Cui *et al*. (2023), Character 561; Zhu Y. *et al*. (2019), Character 374; Trinajstic *et al*. (2019), Character 16.
 
-> Zhu *et al*. (2019): "It is present in the Qilinyu with the dual articulation, and those placoderms in which the neck joints are categorized as ‘ginglymoid’ type; absent in antiarchs and those taxa with sliding neck joints."
-> 
+> - Zhu *et al*. (2019): "It is present in the *Qilinyu* with the dual articulation, and those placoderms in which the neck joints are categorized as ‘ginglymoid’ type; absent in antiarchs and those taxa with sliding neck joints."
 > - **Character 556 in "early gnathostome phylogeny github".**
 
 P4. Trunk ventral articular lamina develops into flange or condyle: (0) absent, continuous along the articular lamina of the anterior dorsolateral plate; (1) present, the articular lamina develops into distinctive flange or condyle.
-
 > Zhu *et al*. (2019), Character 5; Zhu Y. *et al*. (2021), Character 358; Zhu Y. *et al*. (2022), Character 563; Cui *et al*. (2023), Character 562; Zhu Y. *et al*. (2019), Character 375; Trinajstic *et al*. (2019), Character 16.
-
-> Zhu *et al*. (2019): "Ventral articular lamina on the trunk shield develops into flange or condyle distinct from the rest of the anterior margin of ADL. The well-defined flange or condyle is present in *Qilinyu*, *Eurycaraspis*,
+> - Zhu *et al*. (2019): "Ventral articular lamina on the trunk shield develops into flange or condyle distinct from the rest of the anterior margin of ADL. The well-defined flange or condyle is present in *Qilinyu*, *Eurycaraspis*,
 ptyctodonts and many arthrodires and absent in *Entelognathus* and basal arthrodire *Bryantolepis*."
-
 > - **Character 557 in "early gnathostome phylogeny github".**
 
 P5. Rotatory contact of the dermal neck articulation: (0) absent; (1) present.
-
 > Zhu *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 359; Zhu Y. *et al*. (2022), Character 564; Cui *et al*. (2023), Character 563; Zhu Y. *et al*. (2019), Character 376; Trinajstic *et al*. (2019), Character 16.
-
-
->  Zhu *et al*. (2019): "It is only present in arthrodires above phlyctaenids (including brachythoracids)."
- 
+>  - Zhu *et al*. (2019): "It is only present in arthrodires above phlyctaenids (including brachythoracids)."
 > - **Character 558 in "early gnathostome phylogeny github".**
 
 P6. Sliding contact of the dermal neck articulation: (0) absent; (1) present
-
-> It is present in actinolepidoids, petalichthyids and some ptyctodonts.
+> - It is present in actinolepidoids, petalichthyids and some ptyctodonts.
 
 P7. Type of sliding neck joint: horizontal or actinolepid type (0), vertical (1).
 > Young (1978); Zhu *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 360; Zhu Y. *et al*. (2022), Character 565; Brazeau *et al*. (2023), Character 179. Cui *et al*. (2023), Character 564.
-
-> The vertical sliding joint relates to the para-articular process of dermal neck joint.
-
->  Zhu *et al*. (2019): " Presence or absence of a lateral ridge or process defines the mesial boundary of the visceral contact face for the articular lamina on the paranuchal plate. The lateral
+> - The vertical sliding joint relates to the para-articular process of dermal neck joint.
+> - Zhu *et al*. (2019): "Presence or absence of a lateral ridge or process defines the mesial boundary of the visceral contact face for the articular lamina on the paranuchal plate. The lateral
 ridge is present in petalichthyids and some ptyctodontids and absent in other placoderms." 
-
 > - **Character 559 in "early gnathostome phylogeny github".**
 
 P8. Para-articular process ridge angles: nearly parallel to the midline of the head shield (0), oblique to the midline of the head shield (1). 
 > Pan et al. (in prep.) for *Yipetalichthys*.
 
-P9. Zhu *et al*. (2019), Character 7: The posterior margin of the skull roof significantly overlapped by the anterior-most median plate of the trunk shield or not. The first median plate in the trunk shield was variously named the extrascapular, the posteronuchal and the first MD plate in different placoderm groups. The exact homology between these bones is not well established. However, it is possible to distinguish two types of median contact relationship between the skull roof and trunk shield: (i) no significant overlap, such as nested brachythoracid arthrodires with large nuchal gap; (ii) skull roof strongly overlapped by the trunk shield, normally with a posteriorly convex nuchal plate but not necessarily so, as in antiarchs, *Qilinyu*, *Silurolepis* and some petalichthyids and ptyctodonts. In petalichthyids such as *Eurycaraspis*, the overlapped area is well defined laterally from the rest of the skull roof and is named the posterior descending lamina."
+P9. The posterior margin of the skull roof significantly overlapped by the anterior-most median plate of the trunk shield: present (0), absent (1). 
+> Zhu *et al*. (2019), Character 7.
 
-P.10. Zhu *et al*. (2019), Character 9: Presence or absence of an obstanic groove on the anterolateral margin of the trunk shield, formed by an extended anterior lamina curling laterally. It is present only in *Qilinyu* and *Silurolepis*.
+> - Zhu *et al*. (2019): "The exact homology between these bones is not well established. However, it is possible to distinguish two types of median contact relationship between the skull roof and trunk shield: (i) no significant overlap, such as nested brachythoracid arthrodires with large nuchal gap; (ii) skull roof strongly overlapped by the trunk shield, normally with a posteriorly convex nuchal plate but not necessarily so, as in antiarchs, *Qilinyu*, *Silurolepis* and some petalichthyids and ptyctodonts. In petalichthyids such as *Eurycaraspis*, the overlapped area is well defined laterally from the rest of the skull roof and is named the posterior descending lamina."
+
+P.10. Obstanic groove on the anterolateral margin of the trunk shield, formed by an extended anterior lamina curling laterally: absent (0), present (1). 
+> Zhu *et al*. (2019), Character 7.
+> - It is present only in *Qilinyu* and *Silurolepis*.
 
 P.11. Sensory line network: (0) preserved as open grooves; (1) pass through canals enclosed within dermal bones.
-
 > Davis *et al*. (2012), Character 16; Choo *et al*. (2017), Character 15; King *et al*. (2017), Character 283; Castiello (2018), Character 276; Zhu Y. *et al*. (2022), Character 57; Andreev *et al*. (2022), Character 30; Brazeau *et al*. (2023), Character 288; Cui *et al*. (2023), Character 57; Trinajstic *et al*. (2019), character 2.
 
 > - **Character 55 in "early gnathostome phylogeny github".**
 
 P.12. Sensory canals/grooves: (0) contained within the thickness of dermal bones; (1) contained in prominent ridges on visceral surface of bone.
-
 > Giles *et al*. (2015), Character 31; Choo *et al*. (2017), Character 266; King *et al*. (2017), Character 301; Castiello (2018), Character 292; Zhu Y. *et al*. (2022), Character 58; Andreev *et al*. (2022), Character 31; Brazeau *et al*. (2023), Character 306. Cui *et al*. (2023), Character 58.
 
 > - **Character 56 in "early gnathostome phylogeny github".**
 
 P.13. Dermal skull roof: (0) includes large dermal plates; (1) consists of undifferentiated plates or tesserae; (2) include both large dermal plates and tesserae.
-
 > Davis et al. (2012), Character 18; Choo et al. (2017), Character 17; King et al. (2017), Character 151; Castiello (2018), Character 150; Zhu Y. et al. (2022), Character 59; Andreev et al. (2022), Character 33; Brazeau et al. (2023), Character 155. Cui et al. (2023), Character 59.
 
 > - **Character 57 in "early gnathostome phylogeny github".**
@@ -1348,10 +1332,9 @@ P.13. Dermal skull roof: (0) includes large dermal plates; (1) consists of undif
 P.14. Unpaired median skull roofing bone in contact with unpaired plate bearing pineal eminence or foramen: (0) absent; (1) present.
 > Castiello (2018), Character 189; Zhu Y. et al. (2022), Character 62. Cui et al. (2023), Character 62.
 
-> Castiello (2018): This character is a new formulation of Dupret et al. (2009) character 34. It is about the condition presents in many placoderms where a median impaired
-bone (nuchal plate) is in contact with the unpaired bone bearing the pineal foramen or eminence. This is opposed to some other placoderms and osteichthyans where the median impaired bone (extrascapular in osteichthyans) is not in contact with the pineal plate so that the preorbitals (parietals in sarcopterygian,frontal in actinopterygian) are in contact.
+> Castiello (2018): This character is a new formulation of Dupret et al. (2009) character 34. It is about the condition presents in many placoderms where a median impaired bone (nuchal plate) is in contact with the unpaired bone bearing the pineal foramen or eminence. This is opposed to some other placoderms and osteichthyans where the median impaired bone (extrascapular in osteichthyans) is not in contact with the pineal plate so that the preorbitals (parietals in sarcopterygian,frontal in actinopterygian) are in contact.
 
-> This character possibly includes the character 76.
+> This character possibly includes character 76.
 
 > - **Character 60 in "early gnathostome phylogeny github".**
 
