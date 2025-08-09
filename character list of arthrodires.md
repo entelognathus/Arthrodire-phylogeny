@@ -1744,7 +1744,7 @@ P. 78. Nerve VIII bifurcates before entering the labyrinth cavity: (0) bifurcate
 P. 79. Main trunk of facial nerve (N. VII): (0) elongate and passes anterolaterally through orbital floor; (1) stout and divides within otic capsule at the level of the postorbital process.
 > Brazeau (2009); Davis et al. (2012), Character 71; Choo et al. (2017), Character 68; Zhu Y. et al. (2022), Character 437; Andreev et al. (2022), Character 136. Cui et al. (2023), Character 437.
 
->  - **Character 428 in "early gnathostome phylogeny github".**
+>  - **Character 432 in "early gnathostome phylogeny github".**
 >  - Brazeau (2009): "In *osteostracans*, *Macropetalichthy*, and *Brindabellaspis*, the canal for the facial nerve follows an anterolaterally trending course. In these forms, it opens ventrolateral to the orbit. In chondrichthyans, osteichthyans, and arthrodires, the hyomandibular branch of the facial nerve exits the braincase in a position through or below the post orbital process."
 
 P. 80. Canal for efferent pseudobranchial artery within basicranial cartilage: (0) absent; (1) present.
@@ -1752,6 +1752,11 @@ P. 80. Canal for efferent pseudobranchial artery within basicranial cartilage: (
 
 >  - **Character 435 in "early gnathostome phylogeny github".**
 >  - This character is present in macropetalichthyids and *Brindabellaspis*.
+
+P. 81. Pituitary vein in a transverse canal connecting the orbit: (0) absent; (1) present.
+> Castiello (2018), Character 93; Zhu Y. et al. (2022), Character 446. Cui et al. (2023), Character 446.
+
+> -  **Character 441 in "early gnathostome phylogeny github".**
 **Add those character in "early gnathostome phylogeny github" to unite or distinguish arthrodires and petalichthyids"**
 ##Additionary character##
 
