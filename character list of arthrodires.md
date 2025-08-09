@@ -1735,6 +1735,23 @@ P. 77. Subpituitary fenestra: (0) absent; (1) present.
 >  - **Character 426 in "early gnathostome phylogeny github".**
 >  - This character is a synapomorphy of arthrodires.
 
+P. 78. Nerve VIII bifurcates before entering the labyrinth cavity: (0) bifurcates; (1) does not bifurcate.
+> Zhu Y. et al. (2021), Character 341; Zhu Y. et al. (2022), Character 433. Cui et al. (2023), Character 433.
+
+>  - **Character 428 in "early gnathostome phylogeny github".**
+>  - Bifuracted nerve VIII is present only in *Brindabellaspis*
+
+P. 79. Main trunk of facial nerve (N. VII): (0) elongate and passes anterolaterally through orbital floor; (1) stout and divides within otic capsule at the level of the postorbital process.
+> Brazeau (2009); Davis et al. (2012), Character 71; Choo et al. (2017), Character 68; Zhu Y. et al. (2022), Character 437; Andreev et al. (2022), Character 136. Cui et al. (2023), Character 437.
+
+>  - **Character 428 in "early gnathostome phylogeny github".**
+>  - Brazeau (2009): "In *osteostracans*, *Macropetalichthy*, and *Brindabellaspis*, the canal for the facial nerve follows an anterolaterally trending course. In these forms, it opens ventrolateral to the orbit. In chondrichthyans, osteichthyans, and arthrodires, the hyomandibular branch of the facial nerve exits the braincase in a position through or below the post orbital process."
+
+P. 80. Canal for efferent pseudobranchial artery within basicranial cartilage: (0) absent; (1) present.
+> Brazeau (2009); Davis et al. (2012), Character 79; Choo et al. (2017), Character 75; King et al. (2017), Character 39; Castiello (2018), Character 39; Zhu Y. et al. (2022), Character 440; Andreev et al. (2022), Character 144; Brazeau et al. (2023), Character 42. Cui et al. (2023), Character 440.
+
+>  - **Character 435 in "early gnathostome phylogeny github".**
+>  - This character is present in macropetalichthyids and *Brindabellaspis*.
 **Add those character in "early gnathostome phylogeny github" to unite or distinguish arthrodires and petalichthyids"**
 ##Additionary character##
 
