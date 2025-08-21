@@ -1757,7 +1757,13 @@ P. 81. Pituitary vein in a transverse canal connecting the orbit: (0) absent; (1
 > Castiello (2018), Character 93; Zhu Y. et al. (2022), Character 446. Cui et al. (2023), Character 446.
 
 > -  **Character 441 in "early gnathostome phylogeny github".**
+>  - This character is present in arthrodires and acanthoracids.
+
+P. 82. 
+> 
+
 **Add those character in "early gnathostome phylogeny github" to unite or distinguish arthrodires and petalichthyids"**
+
 ##Additionary character##
 
 A.1. Paraorbital plate separating suborbital from orbit: (0) absent; (1) present.
