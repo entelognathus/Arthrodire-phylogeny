@@ -1757,10 +1757,56 @@ P. 81. Pituitary vein in a transverse canal connecting the orbit: (0) absent; (1
 > Castiello (2018), Character 93; Zhu Y. et al. (2022), Character 446. Cui et al. (2023), Character 446.
 
 > -  **Character 441 in "early gnathostome phylogeny github".**
->  - This character is present in arthrodires and acanthoracids.
+> - This character is present in arthrodires and acanthoracids.
 
-P. 82. 
-> 
+P. 82. Position of hyomandibula articulation on neurocranium: (0) below or anterior to orbit, on ventrolateral angle of braincase; (1) posterior to orbit.
+> Coates & Sequeira (2001a, b); Brazeau (2009); Friedman & Brazeau (2010); Davis et al. (2012), Character 95; Choo et al. (2017), Character 76; Zhu Y. et al. (2021), Character 157; Zhu Y. et al. (2022), Character 448; Andreev et al. (2022), Character 161; Brazeau et al. (2023), Character 374. Cui et al. (2023), Character 44.
+
+> -  **Character 443 in "early gnathostome phylogeny github".**
+> -  Davis et al. (2012): "State (1) includes articular surfaces on the postorbital process, the lateral commissure, the otic capsule wall and lateral otic process." Coding errors in Choo et al. (2017), Character 76; Zhu Y. et al. (2022), Character 448.
+> -  In arthrodires, the articulation of hyomandibula is positioned posterior to orbit on the neurocranium. State 0 is present in macropetalichthyids and ptyctodontids.
+
+P. 83. Cucullaris fossa (trapezius fossa): (0) open posteriorly; (1) constrained posteriorly.
+> Zhu et al. (2016), Character 324; Zhu Y. et al. (2021), Character 306; Zhu Y. et al. (2022), Character 457. Cui et al. (2023), Character 456.
+
+> -  **Character 451 in "early gnathostome phylogeny github".**
+> - State 1 is present in acanthoracids, *Brindabellaspis* and *Jagorina*. In other placoderms, such as arthrodires, petalichthyids, and *Microbrachius*, cucullaris fossa opens posteriorly.
+
+P. 84. External (horizontal) semicircular canal: (0) joins the vestibular region dorsal to posterior ampulla; (1) joins level with posterior ampulla.
+> Davis et al. (2012), Character 87; Choo et al. (2017), Character 86; King et al. (2017), Character 49; Castiello (2018), Character 49; Zhu Y. et al. (2022), Character 461; Andreev et al. (2022), Character 152; Brazeau et al. (2023), Character 53. Cui et al. (2023), Character 460.
+
+> -  **Character 455 in "early gnathostome phylogeny github".**
+> -  In placoderms, state 1 is only present in *Romundina*.
+
+P. 85. Ampullary ends of anterior semicircular canal and external semicircular canal: (0) separated by the bulbous utricular chamber; (1) join before entering utricular chamber.
+> Maisey (2001), Character 25; Zhu Y. et al. (2021), Character 333; Zhu Y. et al. (2022), Character 474. Cui et al. (2023), Character 473.
+
+> -  **Character 468 in "early gnathostome phylogeny github".**
+> -  State 1 only present in *Romundina* and *Brindabellaspis*.
+
+P. 86. Sacculus position: (0) restricted ventral to external semicircular canal; (1) extends dorsal to semicircular canal.
+> Zhu Y. et al. (2021), Character 335; Zhu Y. et al. (2022), Character 476. Cui et al. (2023), Character 475.
+
+> -  **Character 470 in "early gnathostome phylogeny github".**
+> -  State 0 is only present in *Brindabellaspis*.
+
+P. 87. Vestibular cavity of the bony labyrinth shape: (0) drum-shaped; (1) irregularly shaped.
+> Zhu Y. et al. (2021), Character 336; Zhu Y. et al. (2022), Character 477. Cui et al. (2023), Character 476.
+
+> -  **Character 471 in "early gnathostome phylogeny github".**
+> -  State 1 only present in *Romundina* and *Brindabellaspis*.
+> -  Zhu Y. et al. (2021): "In taxa such as Jagorina ([S32]: fig. 65), Kujdanowiaspis ([S32]: fig. 61A) and osteostracans ([S229]: figs. 18 & 19), the saccular cavity resembles a drum, or a flat cylinder, in that it is rounded in lateral view and compressed laterally. This contrasts with the condition in some ‘placoderms’ and crown gnathostomes, where the saccular cavity is bag-like and much more irregular in shape. It is unclear whether in Romundina the posteroventral bulge of the vestibular cavity is homologous to the lagena in crown gnathostomes, but even when this part is omitted, the saccular cavity in Romundina is still irregularly shaped in lateral view and does not resemble a drum."
+
+P. 88. Endolymphatic duct distal direction in coronal view: (0) parallelled directed; (1) mesially directed; (2) laterally directed.
+> Zhu Y. et al. (2021), Character 340; Zhu Y. et al. (2022), Character 481. Cui et al. (2023), Character 480.
+
+>  -  **Character 475 in "early gnathostome phylogeny github".**
+>  -  State 2 is present in arthrodires and petalichthyids.
+
+P. 89. Endolymphatic sacs: (0) absent; (1) present.
+> Castiello (2018), Character 54; Zhu Y. et al. (2022), Character 483. Cui et al. (2023), Character 482.
+
+>  -  **Character 476 in "early gnathostome phylogeny github".**
 
 **Add those character in "early gnathostome phylogeny github" to unite or distinguish arthrodires and petalichthyids"**
 
