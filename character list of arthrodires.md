@@ -1806,8 +1806,15 @@ P. 88. Endolymphatic duct distal direction in coronal view: (0) parallelled dire
 P. 89. Endolymphatic sacs: (0) absent; (1) present.
 > Castiello (2018), Character 54; Zhu Y. et al. (2022), Character 483. Cui et al. (2023), Character 482.
 
->  -  **Character 476 in "early gnathostome phylogeny github".**
+>  -  **Character 477 in "early gnathostome phylogeny github".**
+>  - In arthrodires, endolymphatic sacs is absent.
 
+P. 90. Channel for dorsal aorta and/or lateral dorsal aortae: (0) passes through basicranium: (1) external to basicranium.
+> Schaeffer (1981); Coates & Sequeira (1998); Brazeau (2009), Character 78; Pradel et al. (2011); Brazeau & Friedman (2014); Coates et al. (2017); Coates et al. (2018), Character 201; Choo et al. (2017), Character 77; King et al. (2017), Character 40; Castiello (2018), Character 40; Zhu Y. et al. (2022), Character 498; Andreev et al. (2022), Character 142; Brazeau et al. (2023), Character 43. Cui et al. (2023), Character 497.
+
+>  -  **Character 492 in "early gnathostome phylogeny github".**
+
+P. 91.
 **Add those character in "early gnathostome phylogeny github" to unite or distinguish arthrodires and petalichthyids"**
 
 ##Additionary character##
