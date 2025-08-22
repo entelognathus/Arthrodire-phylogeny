@@ -521,6 +521,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  77. Median dorsal plate with a ventral ridge: a ventral thickening or ridge (0); posterior ridge with a posterior process, not spatulate (1); posterior process posterodorsally spatulate (2).
 > Dennis and Miles (1979a), Characters 4 and 18, modified; Carr (1991), Character 35; Lelièvre (1995), character  40, modified; Carr and Hlavin (2010), Character 35; Rücklin *et al*. (2015), Character 35; Zhu Y *et al*. (2016), Character 35; Jobbins *et al*. (2022, 2024), Character 35； Xue *et al*. (2025), Character 77.
 
+> - **Character 562 in "early gnathostome phylogeny github** Pronounced internal crista (keel) on median dorsal surface of shoulder girdle: (0) absent; (1) present.
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  78. Median dorsal plate shape (L/W ≤  OR > 1.0): short and broad to equidimensional (0); body of plate long and narrow, not including a posteriorly produced spine (1).
@@ -551,6 +552,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  83. Pectoral dermal enclosure: fenestra (0); embayment open posteriorly (1).
 > Carr (1991), Character 41; Lelièvre (1995), character 34;  Carr and Hlavin (2010), Character 41; Rücklin *et al*. (2015), Character 41; Zhu Y *et al*. (2016), Character 41; Jobbins *et al*. (2022, 2024), Character 41； Xue *et al*. (2025), Character 83.
 
+> - **Character 562 in "early gnathostome phylogeny github** Pectoral fenestra completely encircled by dermal shoulder armour: (0) present; (1) absent.
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  84. Posterior lateral plate and posterior dorsolateral plate overlap: simple overlap (0); insertion (1).
@@ -699,6 +701,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > Miles (1973); Dupret *et al*. (2009), Character 50; Dupret *et al*. (2017), Character 50; Zhu *et al*. (2010), Character 50; Xue *et al*. (2025), Character 108; Fitzpatrick *et al*. (2024), character 133.
 
 > - Also termed as the anterior ventral plate.
+
+> - **Character 571 in "early gnathostome phylogeny github"**  
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
@@ -1795,7 +1799,7 @@ P. 87. Vestibular cavity of the bony labyrinth shape: (0) drum-shaped; (1) irreg
 
 > -  **Character 471 in "early gnathostome phylogeny github".**
 > -  State 1 only present in *Romundina* and *Brindabellaspis*.
-> -  Zhu Y. et al. (2021): "In taxa such as Jagorina ([S32]: fig. 65), Kujdanowiaspis ([S32]: fig. 61A) and osteostracans ([S229]: figs. 18 & 19), the saccular cavity resembles a drum, or a flat cylinder, in that it is rounded in lateral view and compressed laterally. This contrasts with the condition in some ‘placoderms’ and crown gnathostomes, where the saccular cavity is bag-like and much more irregular in shape. It is unclear whether in Romundina the posteroventral bulge of the vestibular cavity is homologous to the lagena in crown gnathostomes, but even when this part is omitted, the saccular cavity in Romundina is still irregularly shaped in lateral view and does not resemble a drum."
+> -  Zhu Y. et al. (2021): "In taxa such as *Jagorina*, *Kujdanowiaspis*, and *osteostracans*, the saccular cavity resembles a drum, or a flat cylinder, in that it is rounded in lateral view and compressed laterally. This contrasts with the condition in some ‘placoderms’ and crown gnathostomes, where the saccular cavity is bag-like and much more irregular in shape. It is unclear whether in *Romundina* the posteroventral bulge of the vestibular cavity is homologous to the lagena in crown gnathostomes, but even when this part is omitted, the saccular cavity in *Romundina* is still irregularly shaped in lateral view and does not resemble a drum."
 
 P. 88. Endolymphatic duct distal direction in coronal view: (0) parallelled directed; (1) mesially directed; (2) laterally directed.
 > Zhu Y. et al. (2021), Character 340; Zhu Y. et al. (2022), Character 481. Cui et al. (2023), Character 480.
@@ -1814,7 +1818,70 @@ P. 90. Channel for dorsal aorta and/or lateral dorsal aortae: (0) passes through
 
 >  -  **Character 492 in "early gnathostome phylogeny github".**
 
-P. 91.
+P. 91. Medial recess of the posteroventral mydome: (0) absent; (1) present.
+> King et al. (2017), Character 89; Castiello (2018), Character 91; Zhu Y. et al. (2022), Character 504; Brazeau et al. (2023), Character 94. Cui et al. (2023), Character 503.
+
+>  -  **Character 498 in "early gnathostome phylogeny github".**
+>  -  This character is only present in petalichthyids, such as *Ellopetalichthys*,*Macropetalichthys*, and *Shearsbyaspis*.
+
+P. 92. Abducens, trigeminal nerves and pituitary vein: (0) opening via different foramina on the orbital wall; (1) sharing the same foramen on the orbital wall.
+> Castiello (2018), Character 92; Zhu Y. et al. (2022), Character 505. Cui et al. (2023), Character 504.
+
+>  -  **Character 499 in "early gnathostome phylogeny github".**
+>  -  This character is only present in *Macropetalichthys* and *Shearsbyaspis*.
+
+P. 93. Profundus nerve: (0) emerges from the cranial cavity separately from the trigeminal nerve; (1) emerges together with the trigeminal nerve.
+> Young (1980); King et al. (2017), Character 94; Castiello (2018), Character 98; Zhu Y. et al. (2022), Character 509; Brazeau et al. (2023), Character 98. Cui et al. (2023), Character 508.
+
+>  -  **Character 503 in "early gnathostome phylogeny github".**
+>  -  This character is only present in arthrodires, such as *Kujdanowiaspis*, *Dicksonosteus*, and *Parabuchanosteus*.
+
+P. 94. Nasal capsules in anterolateral corners of orbit: (0) no; (1) yes. 
+> King et al. (2017), Character 96; Castiello (2018), Character 100; Zhu Y. et al. (2022), Character 511; Brazeau et al. (2023), Character 100. Cui et al. (2023), Character 510.
+
+>  -  **Character 505 in "early gnathostome phylogeny github".**
+>  -  This character is shared by antiarchs and acanthoracids.
+
+P. 95. Posterior Postorbital process (Vagal process in Giles et al., 2015): (0) forked; (1) unforked.
+> King et al. (2017), Character 97; Castiello (2018), Character 101; Zhu Y. et al. (2022), Character 512; Brazeau et al. (2023), Character 101. Cui et al. (2023), Character 511.
+
+>  -  **Character 506 in "early gnathostome phylogeny github".**
+
+P. 96. Rostral processes: (0) absent; (1) present.
+> King et al. (2017), Character 99; Castiello (2018), Character 102; Zhu Y. et al. (2022), Character 513; Brazeau et al. (2023), Character 103. Cui et al. (2023), Character 512.
+
+>  -  **Character 507 in "early gnathostome phylogeny github".**
+>  -  This character is only present in ptyctodontids.
+
+P. 97. Hypophysial opening in braincase: (0) absent; (1) present.
+> King et al. (2017), Character 114; Castiello (2018), Character 114; Zhu Y. et al. (2022), Character 523; Brazeau et al. (2023), Character 118. Cui et al. (2023), Character 522.
+
+>  -  **Character 517 in "early gnathostome phylogeny github".**
+>  -  State 0 only present in *Romundina* and *Brindabellaspis*.
+
+P. 98. Stalk-shaped parachordal/occipital region: (0) absent; (1) present.
+> Giles et al. (2015), Character 176; Choo et al. (2017), Character 304; King et al. (2017), Character 86; Castiello (2018), Character 88; Zhu Y. et al. (2022), Character 554; Andreev et al. (2022), Character 174; Brazeau et al. (2023), Character 90. Cui et al. (2023), Character 553.
+
+>  -  **Character 548 in "early gnathostome phylogeny github".**
+>  -  This character is present in *Cowralepis*, *Macropetalichthys*, and *Lunaspis*.
+
+P. 99. Paired occipital condyles: (0) absent; (1) present.
+> Choo et al. (2017), Character 305; Coates et al. (2018), Character 206; King et al. (2017), Character 87; Castiello (2018), Character 89; Andreev et al. (2022), Character 175; Zhu Y. et al. (2022), Character 558. Cui et al. (2023), Character 557.
+
+>  -  **Character 552 in "early gnathostome phylogeny github".**
+>  -   State 0 is only present in *Entelognathus*.
+
+P. 100. Anterior median dorsal plate: (0) absent; (1) present.
+> Zhu et al. (2016), Character 358; Zhu Y. et al. (2021), Character 320; Zhu Y. et al. (2022), Character 571. Cui et al. (2023), Character 570.
+
+>  -  **Character 565 in "early gnathostome phylogeny github".**
+
+P. 101. Anterior ventrolateral plates of both sides: (0) in contact; (1) separated. 
+> Zhu et al. (2016), Character 368; Zhu Y. et al. (2021), Character 328; Zhu Y. et al. (2022), Character 580. Cui et al. (2023), Character 579.
+
+>  -  **Character 574 in "early gnathostome phylogeny github".**
+
+**585 early gnathostome phylogeny github**
 **Add those character in "early gnathostome phylogeny github" to unite or distinguish arthrodires and petalichthyids"**
 
 ##Additionary character##
