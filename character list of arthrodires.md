@@ -534,6 +534,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  79. Posterior border of the median dorsal plate: rounded (0); spinous or convex (1); depression or concave (2).
 > Jobbins *et al*. (2022, 2024), Character 37; Modified from Dennis and Miles (1979a), Character 18; Carr (1991), Character 37; Lelièvre (1995), character 39; Carr and Hlavin (2010), Character 37; Rücklin *et al*. (2015), Character 37; Zhu Y *et al*. (2016), Character 37; Xue *et al*. (2025), Character 79.
 
+> - **Character 588 in "early gnathostome phylogeny github".** Posteriorly produced spine on MD plate: (0) absent; (1) present.
+
  80. Anterior lateral plate/anterior ventrolateral plate contact: absent (0); present (1).
 > Carr (1991), Character 38; Carr and Hlavin (2010), Character 38; Rücklin *et al*. (2015), Character 38; Zhu Y *et al*. (2016), Character 38; Dupret *et al*. (2009, 2017), Character 51 modified; Jobbins *et al*. (2022, 2024), Character 38； Xue *et al*. (2025), Character 80.
 
@@ -560,6 +562,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - In those taxa that the posterior lateral plate or posterior dorsolateral plate is absent, this character is scored as 'not applicable'.
 
+> - **Character 55 in "early gnathostome phylogeny github".**
+
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  85. Posterior lateral plate forms part of closed pectoral fenestra: absent (0); present (1).
@@ -584,7 +588,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  88. Spinal pit of the spinal plate : absent (0); present (1).
 > Gardiner and Miles (1990), Character 22.32; Carr (1991), Character 46; Carr and Hlavin (2010), Character 46; Rücklin *et al*. (2015), Character 46; Zhu Y *et al*. (2016), Character 46; Jobbins *et al*. (2022, 2024), Character 46； Xue *et al*. (2025), Character 88.
 
-> - Gardiner and Miles (1990): "Three subgroups of ‘coccosteids’ may be defined on spinal structure: (1) Watsonosteus, Dickosteus, Coccosteus, Millerosteus, Plourdosteus, Harytoombsia and Torosteus in which the spinal plate cavity is filled by the lateral prepectoral process. This is presumed to be the primitive condition. (2) Camuropiscis and Holonema both with long spinal plates without an internal cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) Eastmanosteus, Dunkleosteus, Bullerichthys, Kendrickichthys and Homosteus in which the spinal plate is very short and without any trace of an internal cavity. This type is termed ‘short pseudospinal’."
+> - Gardiner and Miles (1990): "Three subgroups of ‘coccosteids’ may be defined on spinal structure: (1) *Watsonosteus*, *Dickosteus*, *Coccosteus*, *Millerosteus*, *Plourdosteus*, *Harytoombsia* and *Torosteus* in which the spinal plate cavity is filled by the lateral prepectoral process. This is presumed to be the primitive condition. (2) *Camuropiscis* and *Holonema* both with long spinal plates without an internal cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) *Eastmanosteus*, *Dunkleosteus*, *Bullerichthys*, *Kendrickichthys* and *Homosteus* in which the spinal plate is very short and without any trace of an internal cavity. This type is termed ‘short pseudospinal’."
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
@@ -935,6 +939,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  149. Dorsal groove of the main lateral line on the posterior dorsolateral plate: absent (0); present (1), distinguished from the main lateral line groove by its dorsal trajectory or its continuation onto the median dorsal plate.
 > Carr (1991), Character 78; Carr and Hlavin (2010), Character 78; Rücklin *et al*. (2015), Character 78; Zhu Y *et al*. (2016), Character 78; Jobbins *et al*. (2022, 2023), Character 78; Xue *et al*. (2025), Character 149.
 
+> - **Character 81 in "early gnathostome phylogeny github**
+
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  150. Main lateral line groove on the posterior dorsolateral plate: absent 0); present (1).
@@ -1166,8 +1172,12 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > Long (1995); Fitzpatrick *et al*. (2024), Character 126.
 > - Scored not applicable in taxa without a PDL flexure sensory canal.
 
+> - **Character 599 in "early gnathostome phylogeny github".** Sharp downward bend in posterior dorsolateral plate sensory line: (0) absent; (1) present.
+
 186. Medial contact of the dorsolateral plates under the median dorsal plate: no contact (0); anterior dorsolateral plates (1); anterior and posterior dorsolateral plates (2).
 > Goujet (1984); Fitzpatrick *et al*. (2024), Character 128.
+
+> - **Character 586 in "early gnathostome phylogeny github".** Left and right posterior dorsolateral plates contact below the median dorsal plate: (0) absent; (1) present.
 
 187. Ventral sensory canal on the anterior ventrolateral plate: absent (0), present (1).
 > Fitzpatrick *et al*. (2024), Character 131.
@@ -1881,7 +1891,42 @@ P. 101. Anterior ventrolateral plates of both sides: (0) in contact; (1) separat
 
 >  -  **Character 574 in "early gnathostome phylogeny github".**
 
-**585 early gnathostome phylogeny github**
+P. 102. PDL plate visible externally: (0) present; (1) absent.
+> King et al. (2017), Character 439; Castiello (2018), Character 428; Zhu Y. et al. (2022), Character 593; Brazeau et al. (2023), Character 444. Cui et al. (2023), Character 592
+
+>  -  **Character 574 in "early gnathostome phylogeny github".**
+>  -  State 1 is only present in *Cowralepis*. This is is an autapomorphy for *Cowralepis*.
+
+P. 103. Number of median dorsal plates: (0) one; (1) two; (2) three.
+> King et al. (2017), Character 445; Castiello (2018), Character 434; Zhu Y. et al. (2022), Character 599; Brazeau et al. (2023), Character 450; Cui et al. (2023), Character 598; Trinajstic et al. (2019), character 3.
+
+>  -  **Character 593 in "early gnathostome phylogeny github".**
+> - Three median dorsal plates are present in *Campbellodus decipiens*, *Qilinyu*, and *Bianchengichthys*. Two median dorsal plate are present in *Rhamphodopsis*, *Xiushanosteus* and antiarchs. 
+
+P. 104. Median ventral plates: (0) absent; (1) present.
+> King et al. (2017), Character 447; Castiello (2018), Character 436; Zhu Y. et al. (2022), Character 601; Andreev et al. (2022), Character 289; Brazeau et al. (2023), Character 452. Cui et al. (2023), Character 600.
+
+>  -  **Character 593 in "early gnathostome phylogeny github".**
+>  -  In some Ptyctodontids, including *Cambellodus*, *Austroptyctodus*, and *Rhamphodopsis*, median ventral plates are absent.
+
+P. 105. Endoskeletal supports in pectoral fin: (0) multiple elements articulating with girdle; (1) single element ("humerus") articulating with girdle.
+> Zhu et al. (2009, Character 130), and references therein; Zhu et al., (2013), Character 250; Giles et al. (2015), Character 201; Choo et al. (2017), Character 233; King et al. (2017), Character 409; Castiello (2018), Character 398; Zhu Y. et al. (2022), Character 614; Brazeau et al. (2023), Character 414. Cui et al. (2023), Character 613.
+
+>  -  **Character 608 in "early gnathostome phylogeny github".**
+>  -  In placoderm, state 1 is only present in *Romundina*.
+
+P. 106. Scapular process of shoulder endoskeleton: (0) absent; (1) present.
+> Coates & Sequeira (2001a, b); Zhu & Schultze (2001); Davis (2002); Brazeau (2009); Davis et al. (2012), Character 110; Choo et al. (2017), Character 106; King et al. (2017), Character 398; Castiello (2018), Character 387; Zhu Y. et al. (2022), Character 619; Andreev et al. (2022), Character 189; Brazeau et al. (2023), Character 403. Cui et al. (2023), Character 618.
+
+>  -  **Character 613 in "early gnathostome phylogeny github".**
+
+P. 107. Endoskeletal postbranchial lamina on scapular process: (0) present; (1) absent.
+> Brazeau (2009); Davis et al. (2012), Character 115; Choo et al. (2017), Character 111; King et al. (2017), Character 403; Castiello (2018), Character 392; Zhu Y. et al. (2022), Character 624; Andreev et al. (2022), Character 194; Brazeau et al. (2023), Character 408. Cui et al. (2023), Character 623.
+
+>  -  **Character 618 in "early gnathostome phylogeny github".**
+
+P. 108. 
+
 **Add those character in "early gnathostome phylogeny github" to unite or distinguish arthrodires and petalichthyids"**
 
 ##Additionary character##
