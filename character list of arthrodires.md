@@ -1931,22 +1931,30 @@ P. 108.
 
 ##Additionary character##
 
-A.1. Paraorbital plate separating suborbital from orbit: (0) absent; (1) present.
+A. 1. Paraorbital plate separating suborbital from orbit: (0) absent; (1) present.
 > King et al. (2017), Character 252
 
 > - A dermal plate that is not associated with the palatoquadrate and runs lateral to the orbit is present in *Wuttagoonaspis*, and possibly *Brindabellaspis*.
 
-A.2. Transverse external groove behind pineal opening: (0) absent; (1) present.
+A. 2. Transverse external groove behind pineal opening: (0) absent; (1) present.
 > King et al. (2017), Character 255
 
 > - A character of *Dicksonosteus* and *Diandongpetalichthys*. See e.g. Zhu (1991, fig. 1: srcp).
 
-A.3. Laterally extending palatoquadrate: (0) absent; (1) present.
+A. 3. Laterally extending palatoquadrate: (0) absent; (1) present.
 > Zhu et al. (2016), Character 327; Zhu Y. et al. (2021), Character 308; Zhu Y. et al. (2022), Character 330. Cui et al. (2023), Character 330.
 
 > - **Character 326 in "early gnathostome phylogeny github".**
 > - This character is only present in *Gemuendina* and *Jagorina*.
 
+A. 4. Central plates meet posterior to the nuchal plate: (0) absent (do not meet); (1) present (meet).
+> Trinajstic et al. (2019), character 7.
+
+> - This character is present in some ptyctodonts, such as *Ctenurella*.
+
+A. 5. Central plates form the posterior margin of the skull roof: (0) absent; (1) present.
+
+> - This character is widely present in ptyctodonts.
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
