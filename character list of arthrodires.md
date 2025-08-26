@@ -1925,7 +1925,6 @@ P. 107. Endoskeletal postbranchial lamina on scapular process: (0) present; (1) 
 
 >  -  **Character 618 in "early gnathostome phylogeny github".**
 
-P. 108. 
 
 **Add those character in "early gnathostome phylogeny github" to unite or distinguish arthrodires and petalichthyids"**
 
@@ -1955,6 +1954,14 @@ A. 4. Central plates meet posterior to the nuchal plate: (0) absent (do not meet
 A. 5. Central plates form the posterior margin of the skull roof: (0) absent; (1) present.
 
 > - This character is widely present in ptyctodonts.
+
+A. 6. Pectoral fins covered in macromeric dermal armour: (0) absent; (1) present.
+> Brazeau (2009); Davis et al. (2012), Character 124; Choo et al. (2017), Character 120; Zhu Y. et al. (2022), Character 629; Andreev et al. (2022), Character 209; Brazeau et al. (2023), Character 433. Cui et al. (2023), Character 628.
+
+> - **Character 426 in "early gnathostome phylogeny github".**
+> - A synapomorphy of antiarchs.
+
+A. 7. 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
