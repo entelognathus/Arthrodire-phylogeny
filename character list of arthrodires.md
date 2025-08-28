@@ -1925,6 +1925,73 @@ P. 107. Endoskeletal postbranchial lamina on scapular process: (0) present; (1) 
 
 >  -  **Character 618 in "early gnathostome phylogeny github".**
 
+P. 108. Fin base articulation on scapulocoracoid: (0) deeper than wide (stenobasal); (1) wider than deep (eurybasal).
+> Choo et al. (2017), Character 115; King et al. (2017), Character 407; Castiello (2018), Character 396; Zhu Y. et al. (2022), Character 633; Andreev et al. (2022), Character 198; Brazeau et al. (2023), Character 412. Cui et al. (2023), Character 632
+
+>  -  **Character 627 in "early gnathostome phylogeny github".**
+>  -  An eurybasal articulation of the scapulocoracoid is widespread among arthrodires, whereas other placoderm groups typically exhibit a stenobasal articulation.
+
+P. 109. Pelvic girdle with substantial dermal component: (0) yes; (1) no.
+> Zhu et al. (2012b); Zhu et al. (2013), Character 252; Choo et al. (2017), Character 239; King et al. (2017), Character 433; Castiello (2018), Character 422; Zhu Y. et al. (2022), Character 643; Andreev et al. (2022), Character 274; Brazeau et al. (2023), Character 438. Cui et al. (2023), Character 642; Trinajstic et al. (2019), character 28
+
+>  -  **Character 637 in "early gnathostome phylogeny github".**
+
+P. 110. Dermal pelvic clasper ossifications: (0) absent; (1) present.
+> Brazeau (2009); Davis et al. (2012), Character 123; Choo et al. (2017), Character 119; King et al. (2017), Character 396; Castiello (2018), Character 386; Andreev et al. (2022), Character 208; Zhu Y. et al. (2022), Character 644. Cui et al. (2023), Character 643.
+
+>  -  **Character 638 in "early gnathostome phylogeny github".**
+
+P. 111. Number of dorsal fins, if present: (0) one; (1) two.
+> Coates & Sequeira (2001a, b); Brazeau (2009); Davis et al. (2012), Character 136; Choo et al. (2017), Character 132; King et al. (2017), Character 450; Castiello (2018), Character 439; Zhu Y. et al. (2022), Character 652; Andreev et al. (2022), Character 226; Brazeau et al. (2023), Character 455. Cui et al. (2023), Character 651.
+
+>  -  **Character 638 in "early gnathostome phylogeny github".**
+>  -  *Austroptyctodus*, *Rhamphodopsis*, and *Xiushanosteus* possess two dorsal fins.
+
+P. 112. Anal fin: (0) absent; (1) present.
+> Coates & Sequeira (2001a, b); Brazeau (2009); Davis et al. (2012), Character 137; Choo et al. (2017), Character 133; King et al. (2017), Character 466; Castiello (2018), Character 455; Andreev et al. (2022), Character 230; Zhu Y. et al. (2022), Character 659. Cui et al. (2023), Character 658.
+
+>  -  **Character 653 in "early gnathostome phylogeny github".**
+
+P. 113. Dorsal fin spine: (0) absent; (1) present.
+> Zhu et al. (2001); Zhu & Yu (2002); Friedman (2007); Brazeau (2009); Davis et al. (2012), Character 126; Choo et al. (2017), Character 122; King et al. (2017), Character 457; Castiello (2018), Character 446; Zhu Y. et al. (2022), Character 671; Andreev et al. (2022), Character 211; Brazeau et al. (2023), Character 462. Cui et al. (2023), Character 670.
+
+>  -  **Character 665 in "early gnathostome phylogeny github".**
+
+P. 114. Shape of trunk scales: (0) rhombic; (1) small/round; (2) cycloid.
+> Cui et al. (2023), Character 691.
+
+>  -  **Character 686 in "early gnathostome phylogeny github".**
+
+P. 114. Dermal ornament with tubercles on trunk scales: (0) absent; (1) present.
+> Cui et al. (2023), Character 694.
+
+>  -  **Character 689 in "early gnathostome phylogeny github".**
+
+P. 115. Dentinous external layer: (0) absent; (1) present.
+> Brazeau et al. (2023), Character 9
+
+>  -  **Character 699 in "early gnathostome phylogeny github".**
+>  -  *Materpiscis*, *Campbellodus*, and *Austroptyctodus* lack the dentious external layer.
+
+P. 116. Endoskeletal craniothoracic (sixth branchial) facet: (0) absent; (1) present.
+> Brazeau et al. (2023), Character 180.
+
+>  -  **Character 703 in "early gnathostome phylogeny github".**
+>  -  This character is shared by *Diandongpetalichthys* and *Dicksonosteus*.
+>  -  Castiello (2018): "A transverse groove behind the pineal opening is present in *Dicksonosteus* (Goujet 1984a) and *Diandongpetalichthys* (Zhu 1991), but it is difficult to assess if this feature represents an anatomical or taphonomic groove".
+
+P. 117. Transverse external groove behind pineal opening: (0) absent; (1) present.
+> King et al. (2016), Character 255; Brazeau et al. (2023), Character 260.
+
+>  -  **Character 701 in "early gnathostome phylogeny github".**
+
+P. 118. Large median bone directly anterior to parietals and pineal: (0) absent; (1) present.
+> Brazeau et al. (2023), Character 263.
+
+>  -  **Character 704 in "early gnathostome phylogeny github".**
+>  -  This character is shared by phyllolepids and ptyctodontids.
+
+
 
 **Add those character in "early gnathostome phylogeny github" to unite or distinguish arthrodires and petalichthyids"**
 
@@ -1958,10 +2025,17 @@ A. 5. Central plates form the posterior margin of the skull roof: (0) absent; (1
 A. 6. Pectoral fins covered in macromeric dermal armour: (0) absent; (1) present.
 > Brazeau (2009); Davis et al. (2012), Character 124; Choo et al. (2017), Character 120; Zhu Y. et al. (2022), Character 629; Andreev et al. (2022), Character 209; Brazeau et al. (2023), Character 433. Cui et al. (2023), Character 628.
 
-> - **Character 426 in "early gnathostome phylogeny github".**
+> - **Character 623 in "early gnathostome phylogeny github".**
 > - A synapomorphy of antiarchs.
 
-A. 7. 
+A. 7. Pelvic fins: (0) absent; (1) present.
+> Janvier (1996); Davis et al. (2012), Character 121; Choo et al. (2017), Character 117; King et al. (2017), Character 394; Castiello (2018), Character 384; Zhu Y. et al. (2022), Character 642; Andreev et al. (2022), Character 206; Brazeau et al. (2023), Character 399. Cui et al. (2023), Character 641.
+
+> - **Character 636 in "early gnathostome phylogeny github".**
+> - Pelvic fins are absent in major antiarchs except *Parayunnanolepis*.
+
+A. 8. 
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
