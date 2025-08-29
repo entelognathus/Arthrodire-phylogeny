@@ -457,8 +457,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of *Panjiangosteus eurycephala* is 1.
 
- 67. Contact between orbits and central plates: absent (0); present (1).
-> Dupret *et al*. (2009), Character 26; Dupret *et al*. (2017), Character 26; Zhu *et al*. (2010), Character 26; Xue *et al*. (2025), Character 67.
+ 67. Central plate forms part of the orbital margin: absent (0); present (1).
+> Modified from Dupret *et al*. (2009), Character 26; Dupret *et al*. (2017), Character 26; Zhu *et al*. (2010), Character 26; Xue *et al*. (2025), Character 67; Pan *et al*. (2015), Character 13.
 
 > - The coding of *Panjiangosteus eurycephala* is 0.
 
@@ -2034,7 +2034,10 @@ A. 7. Pelvic fins: (0) absent; (1) present.
 > - **Character 636 in "early gnathostome phylogeny github".**
 > - Pelvic fins are absent in major antiarchs except *Parayunnanolepis*.
 
-A. 8. 
+A. 8. Posterior pit line:(0)separate; (1)meet posteriorly.
+> Pan et al. (2015), Character 4.
+
+
 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
