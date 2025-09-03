@@ -987,7 +987,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  157. External morphology of sensory line system: canals with external pores (0); grooves (1).
-> Dupret *et al*. (2009, 2017), Character 14; Zhu *et al*. (2010), Character 14; Xue *et al*. (2025), Character 157.
+> Dupret *et al*. (2009, 2017), Character 14; Zhu *et al*. (2010), Character 14; Xue *et al*. (2025), Character 157; Modified from Trinajstic et al. (2019), character2.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
@@ -1563,7 +1563,7 @@ P. 46. Posterior end of supraorbital canal: (0) in central (postparietal); (1) i
 > -  Character state 2 is not applicable to placoderms.
 
 P. 47. Supraorbital canals and posterior pitlines convergence: (0) absent; (1) converge without contact; (2) converge with contact.
-> Long et al. (2015), Character 256; Choo et al. (2017), Character 248; King et al. (2017), Character 300; Castiello (2018), Character 291; Zhu Y. et al. (2022), Character 180; Brazeau et al. (2023), Character 305. Cui et al. (2023), Character 180.
+> Long et al. (2015), Character 256; Choo et al. (2017), Character 248; King et al. (2017), Character 300; Castiello (2018), Character 291; Zhu Y. et al. (2022), Character 180; Brazeau et al. (2023), Character 305. Cui et al. (2023), Character 180; Trinajstic et al. (2019), character 1.
 
 > - **Character 176 in "early gnathostome phylogeny github".**
 
