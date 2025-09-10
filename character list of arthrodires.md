@@ -2041,7 +2041,36 @@ A. 9. Pineal plate is part of anterior margin of skull roof: (0) absent, rostral
 > Trinajstic et al. (2019), character 9.
 
 A. 10. Upper tooth plates have an anterior dorsal process (state 2 is here defined as when the dorsal process is more than twice the height of the median height of the tooth plate): (0) absent; (1) present short and thick; (2) present high.
-> Trinajstic et al. (2019), character 10.
+> Modified from character 13 of Johnson and Elliott (1996); Trinajstic et al. (2019), character 10.
+
+A. 11. Tritural lower tooth plates: (0) present; (1) absent.
+> Trinajstic et al. (2019), character 11.
+
+A. 12. Contact between anterior lateral and anterior dorsolateral plates a simple inverted V-shape: (0) present; (1) absent and has an M-shape.
+> Trinajstic et al. (2019), character 14.
+
+A. 13. Elongated anterior median ventral plate: (0) present; (1) absent.
+> Trinajstic et al. (2019), character 15.
+
+A. 14. Median dorsal plate has a straight or concave anterior margin: (0) present; (1) absent, has a median point.
+> Trinajstic et al. (2019), character 17.
+
+A. 15. Relative size of the posterior division of the marginal plate: (0) larger than the orbital division; (1) smaller than the orbital division (marginal plate crescent-shaped).
+> Trinajstic et al. (2019), character 21.
+
+A. 16. Ventral process present on the marginal plate: (0) absent; (1) present.
+> Trinajstic et al. (2019), character 26.
+> This character is present in *Ctenurella*, *Austroptyctodu*, *Kimbryanodus*, and *Meeksiella*.
+
+A. 17.  Ventral process on the lower toothplate: (0) absent; (1) present.
+> Trinajstic et al. (2019), character 27.
+> This character is present in *Ctenurella*, *Austroptyctodu*, *Kimbryanodus*, and *Meeksiella*.
+
+A. 18.  Postorbital fenestra: (0) absent; (1) present.
+> Trinajstic et al. (2019), character 30.
+
+A. 19. Sensory lines of the nuchal plate: (0) extend to the posterior margin; (1) do not extend.
+> Trinajstic et al. (2019), character 32.
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
