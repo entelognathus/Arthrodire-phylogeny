@@ -2071,6 +2071,13 @@ A. 18.  Postorbital fenestra: (0) absent; (1) present.
 
 A. 19. Sensory lines of the nuchal plate: (0) extend to the posterior margin; (1) do not extend.
 > Trinajstic et al. (2019), character 32.
+
+A. 20. Skull roof posteriroly bears a significant overlap area: (0) absent; (1) present.
+> Zhu Y. et al. (2019), character 377.
+
+A. 21. lateral processes (mesial articular process in Liu, 1991) flank the articular fossas mesially on the visceral surface of the skull roof: (0) absent; (1) present.
+> Zhu Y. et al. (2019), character 378.
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
