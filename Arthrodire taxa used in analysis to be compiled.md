@@ -7,12 +7,11 @@
 > - [references]
 > - **any comments on this species added here**
 
-***Hagiangella goujeti* and *Xiakeaspis* are potentially nested at an intriguing position within the matrix.**
-
 ## Hagiangellidae
 [*Hagiangella goujeti*](https://deepbone.cn/public/#/explor?s_id=2132&functionId=Deepbone_header_searchResultOpen) Janvier, 2005
 > Upper Lochkovian, 415.0, 410.8
 
+> *Hagiangella goujeti* and *Xiakeaspis* are potentially nested at an intriguing position within the matrix.
 > - Khao Loc Formation; Tong Vai Valley, Dong Van district, Ha Giang Province, northern Vietnam
 > - [Dupret *et al.*, 2011](https://www.tandfonline.com/doi/full/10.1080/02724634.2011.558148)
 
@@ -1187,5 +1186,6 @@
 ## References
 
 Andrews, S. M. (1978). A possible occurrence of *Remigolepis* in the topmost Old Red Sandstone of Berwickshire. *Scottish Journal of Geology*, **14**(4), 311-315. 
+
 
 
