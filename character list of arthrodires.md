@@ -2040,6 +2040,8 @@ A. 8. Posterior pit line:(0)separate; (1)meet posteriorly.
 A. 9. Pineal plate is part of anterior margin of skull roof: (0) absent, rostral plate forms the anterior margin; (1) present, pineal plate forms anterior margin of skull; (2) absent, preorbital plates form the anterior margin of the skull.
 > Trinajstic et al. (2019), character 9.
 
+A. 10. Upper tooth plates have an anterior dorsal process (state 2 is here defined as when the dorsal process is more than twice the height of the median height of the tooth plate): (0) absent; (1) present short and thick; (2) present high.
+> Trinajstic et al. (2019), character 10.
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
