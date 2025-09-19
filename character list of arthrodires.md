@@ -1240,7 +1240,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 203. Occipital cross commissure on the skull roof: absent (0); present (1). 
 
-204. Posterior pit line: present (0); absent (1).
+204. Posterior pit line: absent (0); present (1).
 > - In some clades of Brachythoraci, the posterior pit line is absent, such as in the *Homosteus sulcatus*, *Heterosteus ingens*, *Tafilalichthys lavocati* and *Enseosteus jaekeli*.
 
 205. Middle pit-line: absent (0); present (1).
