@@ -1324,22 +1324,17 @@ P.8. Obstanic groove on the anterolateral margin of the trunk shield, formed by 
 > Zhu *et al*. (2019), Character 7.
 > - It is present only in *Qilinyu* and *Silurolepis*.
 
-P.9. Sensory line network: (0) preserved as open grooves; (1) pass through canals enclosed within dermal bones.
-> Davis *et al*. (2012), Character 16; Choo *et al*. (2017), Character 15; King *et al*. (2017), Character 283; Castiello (2018), Character 276; Zhu Y. *et al*. (2022), Character 57; Andreev *et al*. (2022), Character 30; Brazeau *et al*. (2023), Character 288; Cui *et al*. (2023), Character 57; Trinajstic *et al*. (2019), character 2.
-
-> - **Character 55 in "early gnathostome phylogeny github".**
-
-P.10. Sensory canals/grooves: (0) contained within the thickness of dermal bones; (1) contained in prominent ridges on visceral surface of bone.
+P.9. Sensory canals/grooves: (0) contained within the thickness of dermal bones; (1) contained in prominent ridges on visceral surface of bone.
 > Giles *et al*. (2015), Character 31; Choo *et al*. (2017), Character 266; King *et al*. (2017), Character 301; Castiello (2018), Character 292; Zhu Y. *et al*. (2022), Character 58; Andreev *et al*. (2022), Character 31; Brazeau *et al*. (2023), Character 306. Cui *et al*. (2023), Character 58.
 
 > - **Character 56 in "early gnathostome phylogeny github".**
 
-P.11. Dermal skull roof: (0) includes large dermal plates; (1) consists of undifferentiated plates or tesserae; (2) include both large dermal plates and tesserae.
+P.10. Dermal skull roof: (0) includes large dermal plates; (1) consists of undifferentiated plates or tesserae; (2) include both large dermal plates and tesserae.
 > Davis et al. (2012), Character 18; Choo et al. (2017), Character 17; King et al. (2017), Character 151; Castiello (2018), Character 150; Zhu Y. et al. (2022), Character 59; Andreev et al. (2022), Character 33; Brazeau et al. (2023), Character 155. Cui et al. (2023), Character 59.
 
 > - **Character 57 in "early gnathostome phylogeny github".**
 
-P.12. Cutaneous sensory organ on skull roof posterior to orbits: (0) absent; (1) present.
+P.11. Cutaneous sensory organ on skull roof posterior to orbits: (0) absent; (1) present.
 > King et al. (2017), Character 242; Castiello (2018), Character 242; Zhu Y. et al. (2022), Character 85; Brazeau et al. (2023), Character 247. Cui et al. (2023), Character 85.
 
 > King et al. (2007): The Cu.s.o in *Romundina* (Ørvig 1975). A much smaller cu.s.o was described in a similar position in *Brindabellaspis* (Young 1980), but these are variably developed, and are no wider than the sensory line canals. Since the sensory lines are variably developed as canals or grooves in *Brindabellaspis* it is not clear that these ‘cutaneous sensory organs’ are not continuations of the sensory lines, so this character is scored as unknown in *Brindabellaspis*. A cluster of Cu.s.o pits is also labelled in a posterior region in *Eurycaraspis* (Liu 1991). Since these are a cluster in an unusual position *Eurycaraspis* is currently scored as unknown for this character.
@@ -1348,61 +1343,61 @@ P.12. Cutaneous sensory organ on skull roof posterior to orbits: (0) absent; (1)
 
 > - **Character 83 in "early gnathostome phylogeny github".**
 
-P. 13. Sclerotic ring incorporated into skull roof: (0) absent; (1) present.
+P. 12. Sclerotic ring incorporated into skull roof: (0) absent; (1) present.
 > King et al. (2017), Character 244; Castiello (2018), Character 243; Zhu Y. et al. (2022), Character 86; Brazeau et al. (2023), Character 249. Cui et al. (2023), Character 86.
 
 > - **Character 84 in "early gnathostome phylogeny github".**
 
 > - This character is only present in *Entelognathus*.
 
-P. 14. Posterior descending lamina of skull roof: (0) absent; (1) present.
+P. 13. Posterior descending lamina of skull roof: (0) absent; (1) present.
 > King et al. (2017), Character 252; Castiello (2018), Character 251; Zhu Y. et al. (2019), Character 7; Zhu Y. et al. (2022), Character 93; Brazeau et al. (2023), Character 257. Cui et al. (2023), Character 93.
 
 > - **Character 91 in "early gnathostome phylogeny github".**
 
 > - This character is present in some petalichthyids and antiarchs. A similar lamina is found in *Materpiscis* and *Austroptyctodus*.
 
-P. 15. Mesial lamina on the internal surface of marginal plate: (0) absent; (1) present.
+P. 14. Mesial lamina on the internal surface of marginal plate: (0) absent; (1) present.
 > King et al. (2017), Character 254; Castiello (2018), Character 252; Zhu Y. et al. (2022), Character 94; Brazeau et al. (2023), Character 259. Cui et al. (2023), Character 94.
 
 > - **Character 92 in "early gnathostome phylogeny github".**
 
 > - King et al. (2017): A pair of laminae on the internal surface of the marginal plate, presumably for contact with the braincase, is present in ptyctodonts with suitable preservation. See e.g. Long (1997 fig. 4, mes.lam).
 
-P. 16. Nostrils enclosed in dermal skull roof: (0) yes; (1) no.
+P. 15. Nostrils enclosed in dermal skull roof: (0) yes; (1) no.
 > King et al. (2017), Character 255; Castiello (2018), Character 253; Zhu Y. et al. (2022), Character 95; Brazeau et al. (2023), Character 261. Cui et al. (2023), Character 95.
 
 > - **Character 93 in "early gnathostome phylogeny github".**
 
 > - King et al. (2017): In eubrachythoracid arthrodires, the snout is assumed to continue in soft tissue, so that the nostrils are not enclosed within dermal bone. Where only the posterior nostril is enclosed, taxa are scored as yes, as are taxa with dorsal nostrils (acanthothoracids, antiarchs etc.)
 
-P.17. Pineal and rostral: (0) contact; (1) separated.
+P.16. Pineal and rostral: (0) contact; (1) separated.
 > Castiello (2018), Character 255; Zhu Y. et al. (2022), Character 97. Cui et al. (2023), Character 97.
 
 > - **Character 95 in "early gnathostome phylogeny github".**
 
 > - This character is present in some petalichthyids, including *Lunaspis*, *Notopetalichthys*, and *Sinopetalichthys*.
 
-P. 18. Postsuborbital plate (Quadratojugal): (0) present; (1) absent.
+P. 17. Postsuborbital plate (Quadratojugal): (0) present; (1) absent.
 > King et al. (2017), Character 276; Castiello (2018), Character 270; Zhu Y. et al. (2022), Character 106; Brazeau et al. (2023), Character 281. Cui et al. (2023), Character 106; Lu et al. (in review), Character 104; Zhu Y. et al. (in review), Character 104.
 
 > - **Character 104 in "early gnathostome phylogeny github".**
 
-P. 19. Posterior nostril: (0) associated with orbit; (1) not associated with orbit.
+P. 18. Posterior nostril: (0) associated with orbit; (1) not associated with orbit.
 > Zhu et al. (2009, Character 8), and references therein; Zhu et al. (2013), Character 152; Giles et al. (2015), Character 116; Choo et al. (2017), Character 142; King et al. (2017), Character 171; Castiello (2018), Character 169; Zhu Y. et al. (2022), Character 112; Brazeau et al. (2023), Character 175. Cui et al. (2023), Character 112.
 
 > - **Character 110 in "early gnathostome phylogeny github".**
 
 > - Posterior nostril not associated with orbit is widely present in arthordires, *Macropetalichthys*, and *Romundina*.
 
-P. 20. Extended preorbital region between eyes and nasal capsule: (0) absent; (1) present.
+P. 19. Extended preorbital region between eyes and nasal capsule: (0) absent; (1) present.
 > King et al. (2017), Character 22; , Character 22; Zhu Y. et al. (2022), Character 122; Brazeau et al. (2023), Character 25. Cui et al. (2023), Character 122.
 
 > - **Character 120 in "early gnathostome phylogeny github".**
 
 > - This character is present in macropetalichthyids, *Wuttagoonaspis*, and *Kolymaspis*.
 
-P. 21. Orbit dorsal or facing dorsolaterally: (0) present; (1) absent.
+P. 20. Orbit dorsal or facing dorsolaterally: (0) present; (1) absent.
 > Castiello (2018), Character 29; Zhu Y. et al. (2022), Character 123; Brazeau et al. (2023), Character 33. Cui et al. (2023), Character 123.
 
 > - **Character 121 in "early gnathostome phylogeny github".**
@@ -1410,101 +1405,101 @@ P. 21. Orbit dorsal or facing dorsolaterally: (0) present; (1) absent.
 > - This character is absent in the majority of arthrodires (with the exception of Wuttagoonaspis), as well as in quasipetalichthyids and ptyctodonts.
 > - *Diandongpetalichthy* is coded as "0" .
 
-P. 22. Orbits, surrounded laterally by endocranium: (0) absent; (1) partially surrounded; (2) surrounded.
+P. 21. Orbits, surrounded laterally by endocranium: (0) absent; (1) partially surrounded; (2) surrounded.
 > Castiello (2018), Character 30; Zhu Y. et al. (2022), Character 124; Brazeau et al. (2023), Character 33. Cui et al. (2023), Character 124.
 
 > - **Character 122 in "early gnathostome phylogeny github".**
 
 > - In arthrodires, quasipetalichthyids, and *Diandongpetalichthys*, this character are coded as "0".
 
-P. 23. Pineal opening perforation in dermal skull roof: (0) present; (1) absent.
+P. 22. Pineal opening perforation in dermal skull roof: (0) present; (1) absent.
 > Davis et al. (2012), Character 25; Choo et al. (2017), Character 24; King et al. (2017), Character 159; Castiello (2018), Character 117; Zhu Y. et al. (2022), Character 130; Andreev et al. (2022), Character 42; Brazeau et al. (2023), Character 162. Cui et al. (2023), Character 130.
 
 > - **Character 128 in "early gnathostome phylogeny github".**
 
-P. 24. Pineal eminence (in taxa lacking pineal foramen): (0) absent; (1) present.
+P. 23. Pineal eminence (in taxa lacking pineal foramen): (0) absent; (1) present.
 > Zhu Y. et al. (2021), Character 233; Zhu Y. et al. (2022), Character 131; Andreev et al. (2022), Character 237. Cui et al. (2023), Character 131.
 
 > - **Character 129 in "early gnathostome phylogeny github".**
 
-P. 25. Dermal plate associated with pineal eminence or foramen: (0) contributes to orbital margin; (1) plate bordered laterally by skull roofing bones. 
+P. 24. Dermal plate associated with pineal eminence or foramen: (0) contributes to orbital margin; (1) plate bordered laterally by skull roofing bones. 
 > Giles et al. (2015), Character 42; Choo et al. (2017), Character 270; King et al. (2017), Character 208; Castiello (2018), Character 207; Zhu Y. et al. (2021), Character 41; Zhu Y. et al. (2022), Character 134; Andreev et al. (2022), Character 43; Brazeau et al. (2023), Character 213. Cui et al. (2023), Character 134
 
 > - **Character 132 in "early gnathostome phylogeny github".**
 > - Giles et al. (2015): "Among taxa sampled in this analysis, osteostracans, antiarchs, *Brindabellaspis*, and *Romundina* bear pineal plates that contribute to the margin of the orbit, corresponding to state '0'. We consider taxa where the pineal foramen is bounded by rectilinear skull roofing bones but which lack separate pineal ossifications (e.g., *Mimipiscis*) as showing state '1'. Taxa lacking macromeric cranial skeletons are coded as inapplicable for this character."
 
-P. 26. Preorbitals (Parietals): (0) absent; (1) present.
+P. 25. Preorbitals (Parietals): (0) absent; (1) present.
 > Choo et al. (2017), Character 169; Clement et al. (2018), Character 279; Zhu Y. et al. (2022), Character 136; Andreev et al. (2022), Character 279. Cui et al. (2023), Character 136.
 
 > - **Character 134 in "early gnathostome phylogeny github".**
 > - Preorbital plate is absent in antiarchs, Rhenanids, and maxillate placoderms (with the exception of *Bianchengichthys*).
 
-P. 27. Condition of preorbitals (parietals): (0) do not meet in midline; (1) meet in midline.
+P. 26. Condition of preorbitals (parietals): (0) do not meet in midline; (1) meet in midline.
 > Clement et al. (2018), Character 280; Zhu Y. et al. (2022), Character 137; Andreev et al. (2022), Character 280. Cui et al. (2023), Character 137.
 
 >  - **Character 135 in "early gnathostome phylogeny github".**
 >  - This character is related to Character 18, which is contingent upon it and has been modified as follows: Preorbital plates with a median contact — contact posterior to the pineal plate (0); contact anterior to the pineal plate (1). 
 
-P. 28. Centrals (Postparietals of placoderms): (0) absent; (1) present.
+P. 27. Centrals (Postparietals of placoderms): (0) absent; (1) present.
 > Clement et al. (2018), Character 277; Zhu Y. et al. (2022), Character 139; Andreev et al. (2022), Character 277. Cui et al. (2023), Character 139.
 
 >  - **Character 137 in "early gnathostome phylogeny github".**
 >  - Central plates possibly absent in antiarchs.
 
-P. 29. Condition of centrals (postparietals): (0) do not meet in midline; (1) meet in midline; (2) single midline bone.
+P. 28. Condition of centrals (postparietals): (0) do not meet in midline; (1) meet in midline; (2) single midline bone.
 > Clement et al. (2018), Character 278; Zhu Y. et al. (2022), Character 140; Andreev et al. (2022), Character 278. Cui et al. (2023), Character 140.
 
 >  - **Character 138 in "early gnathostome phylogeny github".**
 >  -  Single midline bone is present in *Entelognathus*, *Wuttagoonaspis*, and phyllolepida.
 
-P. 30. premedian plate (Large unpaired median skull roofing bone anterior to the level of nasal capsules): (0) absent; (1) present.
+P. 29. premedian plate (Large unpaired median skull roofing bone anterior to the level of nasal capsules): (0) absent; (1) present.
 > Zhu et al. (2013), Character 148; Choo et al. (2017), Character 159; King et al. (2017), Character 177; Castiello (2018), Character 174; Zhu Y. et al. (2022), Character 142; Brazeau et al. (2023), Character 183. Cui et al. (2023), Character 142.
 
 >  - **Character 140 in "early gnathostome phylogeny github".**
 >  - Premedian plate is present in acanthoracids, antiarchs, and maxillate placoderms.
 
-P. 31. Position of premedian plate: (0) dorsal; (1) ventral.
+P. 30. Position of premedian plate: (0) dorsal; (1) ventral.
 > Zhu Y. et al. (2022), Character 143. Cui et al. (2023), Character 143.
 
 >  - **Character 141 in "early gnathostome phylogeny github".**
 >  - In maxillate placoderms, the premedian plate is positioned ventrally. 
 
-P. 32. Postnasal plate: (0) absent; (1) present.
+P. 31. Postnasal plate: (0) absent; (1) present.
 > Zhu et al. (2016), Character 341; Zhu Y. et al. (2021), Character 310; Zhu Y. et al. (2022), Character 144. Cui et al. (2023), Character 144.
 
 >  - **Character 142 in "early gnathostome phylogeny github".**
 >  - In petalichthyids and ptyctodonts, the postnasal plate is absent.
 
-P. 33. Obstantic margin of skull roof: (0) long; (1) short.
+P. 32. Obstantic margin of skull roof: (0) long; (1) short.
 > Zhu et al. (2016), Character 347; Zhu Y. et al. (2021), Character 314; Zhu Y. et al. (2022), Character 146. Cui et al. (2023), Character 146.
 
 >  - **Character 143 in "early gnathostome phylogeny github".**
 >  - In some acanthoracids, *Brindabellaspis*, and *Xiushanosteus*, the obstantic margin is short.
 
-P. 34. Nuchal plate contributing to posterior margin of skull roof: (0) absent; (1) present.
+P. 33. Nuchal plate contributing to posterior margin of skull roof: (0) absent; (1) present.
 > Zhu et al. (2013), Character 163; Choo et al. (2017), Character 172; Zhu Y. et al. (2022), Character 147. Cui et al. (2023), Character 147
 
 >  - **Character 144 in "early gnathostome phylogeny github".**
 >  - In *Campbellodus* and *Austroptyctodus*, the nuchal plate does not contribute to the posterior margin of the skull roof.
 
-P. 35. Median paranuchal plate: (0) absent; (1) present.
+P. 34. Median paranuchal plate: (0) absent; (1) present.
 > Zhu Y. et al. (2022), Character 155. Cui et al. (2023), Character 155.
 
 >  - **Character 152 in "early gnathostome phylogeny github".**
 >  - Zhu Y. et al. (2022): "Paired median paranuchals are present in some acanthothoracids, e.g., *Romundina*, *Arabosteus* (Olive et al., 2011) and *Sudaspis* (Vaškaninová and Ahlberg, 2017).
 
-P. 36. Posterior projection on posterior paranuchal plate: (0) absent; (1) present.
+P. 35. Posterior projection on posterior paranuchal plate: (0) absent; (1) present.
 > Castiello (2018), Character 188; Castiello (2018), Character 188; Zhu Y. et al. (2022), Character 158. Cui et al. (2023), Character 158.
 
 >  - **Character 155 in "early gnathostome phylogeny github".**
 >  - Castiello (2018):"Posterior projections are present on the posterior paranuchal plates on certain ’acanthothoracids’ (*Romundina* (Ørvig, 1975), *Arabosteus*, *Kimaspis*, *Kosoraspis*, and *Tlamaspis*."
 
-P. 37. Middle and posterior pit-lines on central plate (postparietal): (0) posteriorly situated; (1) mesially situated.
+P. 36. Middle and posterior pit-lines on central plate (postparietal): (0) posteriorly situated; (1) mesially situated.
 > Zhu et al. (2009, Character 107), and references therein; Zhu et al. (2013), Character 185; Choo et al. (2017), Character 190; King et al. (2017), Character 288; Castiello (2018), Character 280; Zhu Y. et al. (2022), Character 165; Brazeau et al. (2023), Character 293. Cui et al. (2023), Character 165.
 
 >  - **Character 161 in "early gnathostome phylogeny github".**
 
-P. 38. Position of middle and posterior pit lines: (0) close to midline; (1) near the central portion of each postparietal.
+P. 37. Position of middle and posterior pit lines: (0) close to midline; (1) near the central portion of each postparietal.
 > Zhu et al. (2009, Character 108), and references therein; Zhu et al. (2013), Character 186; Choo et al. (2017), Character 191; King et al. (2017), Character 289; Castiello (2018), Character 281; Zhu Y. et al. (2022), Character 166; Brazeau et al. (2023), Character 294. Cui et al. (2023), Character 166.
 
 >  - **Character 162 in "early gnathostome phylogeny github".**
@@ -1512,466 +1507,466 @@ P. 38. Position of middle and posterior pit lines: (0) close to midline; (1) nea
 >  - In *Gavinaspis*, the middle and posterior pit lines positioned close to the midline of centronuchal plate.
 >  - Castiello (2018) changed Score to ? to 1 for *Eurycaraspis* (Liu, 1991).
 
-P. 39. Junction of posterior pitline and main lateral line: (0) far in front of posterior margin of skull roof; (1) close to posterior margin of skull roof.
+P. 38. Junction of posterior pitline and main lateral line: (0) far in front of posterior margin of skull roof; (1) close to posterior margin of skull roof.
 > Zhu et al. (2013), Character 166; Choo et al. (2017), Character 175; Zhu Y. et al. (2022), Character 167; Brazeau et al. (2023), Character 290. Cui et al. (2023), Character 167.
 
 >  - **Character 163 in "early gnathostome phylogeny github".**
 >  - This character can be modified as ：Junction of posterior pitline and main lateral line: (0) far in front of posterior margin of skull roof or on anterior paranuchal plate for Petalichthyida; (1) close to posterior margin of skull roof.
 
-P. 40. Ethmoid commissure: (0) absent; (1) present.
+P. 39. Ethmoid commissure: (0) absent; (1) present.
 > Castiello (2018), Character 311; Zhu Y. et al. (2022), Character 168; Brazeau et al. (2023), Character 325. Cui et al. (2023), Character 168.
 
 > - **Character 164 in "early gnathostome phylogeny github".**
 > - Ethmoid commissure is present in antiarchs, acanthoracids, and *Brindabellaspis*.
 
-P. 41. Postmarginal line issued from main lateral line: (0) on marginal (supratemporal); (1) on anterior paranuchal (tabular).
+P. 40. Postmarginal line issued from main lateral line: (0) on marginal (supratemporal); (1) on anterior paranuchal (tabular).
 > Zhu et al. (2016), Character 349; Zhu Y. et al. (2021), Character 315; Zhu Y. et al. (2022), Character 173. Cui et al. (2023), Character 173.
 
 > - **Character 169 in "early gnathostome phylogeny github".**
 > - In *Arabosteus* and *Entelognathus*, postmarginal line branches off from the main lateral line on anterior paranuchal plate.
 
-P. 42. Supraorbital sensory canals: (0) absent; (1) present.
+P. 41. Supraorbital sensory canals: (0) absent; (1) present.
 > King et al. (2017), Character 307; Castiello (2018), Character 299; Zhu Y. et al. (2022), Character 175; Brazeau et al. (2023), Character 312. Cui et al. (2023), Character 175.
 
 > - **Character 171 in "early gnathostome phylogeny github".**
 > - The supraorbital sensory canal is absent in maxillate placoderms, such as *Qilinyu*, *Entelognathus*, and *Bianchengichthys*.
 
-P. 43. Course of supraorbital canal: (0) straight; (1) lyre-shaped.
+P. 42. Course of supraorbital canal: (0) straight; (1) lyre-shaped.
 > Zhu et al. (2009, Character 110), and references therein; Zhu et al. (2013), Character 188; Choo et al. (2017), Character 193; King et al. (2017), Character 291; Castiello (2018), Character 283; Zhu Y. et al. (2022), Character 177; Brazeau et al. (2023), Character 296. Cui et al. (2023), Character 177.
 
 > - **Character 173 in "early gnathostome phylogeny github".**
 > - Lyre-sheped supraorbital canal is present in some antarctaspids and wuttagoonaspids.
 
-P. 44. Posterior end of supraorbital canal: (0) in central (postparietal); (1) in preorbital (parietal); (2) in intertemporal; (3) in nuchal plate; (4) in postpineal plate.
+P. 43. Posterior end of supraorbital canal: (0) in central (postparietal); (1) in preorbital (parietal); (2) in intertemporal; (3) in nuchal plate; (4) in postpineal plate.
 > Zhu et al. (2009, Character 111), and references therein; Zhu et al. (2013), Character 189; Choo et al. (2017), Character 194; Zhu Y. et al. (2022), Character 178; Brazeau et al. (2023), Character 297. Cui et al. (2023), Character 178.
 
 > - **Character 174 in "early gnathostome phylogeny github".**
 > -  Character state 2 is not applicable to placoderms.
 
-P. 45. Supraorbital canals and posterior pitlines convergence: (0) absent; (1) converge without contact; (2) converge with contact.
+P. 44. Supraorbital canals and posterior pitlines convergence: (0) absent; (1) converge without contact; (2) converge with contact.
 > Long et al. (2015), Character 256; Choo et al. (2017), Character 248; King et al. (2017), Character 300; Castiello (2018), Character 291; Zhu Y. et al. (2022), Character 180; Brazeau et al. (2023), Character 305. Cui et al. (2023), Character 180; Trinajstic et al. (2019), character 1.
 
 > - **Character 176 in "early gnathostome phylogeny github".**
 
-P. 46. Posterior pitline and postmarginal canal in contact: (0) absent; (1) present.
+P. 45. Posterior pitline and postmarginal canal in contact: (0) absent; (1) present.
 > King et al. (2017), Character 321; Castiello (2018), Character 313; Zhu Y. et al. (2022), Character 199; Brazeau et al. (2023), Character 326. Cui et al. (2023), Character 199.
 
 > - **Character 195 in "early gnathostome phylogeny github".**
 > - This character is only present in *Entelognathus*.
 
-P. 47. Supraorbital canal joins infraorbital canal: (0) anterior to supraoral canal; (1) posterior to supraoral canal.
+P. 46. Supraorbital canal joins infraorbital canal: (0) anterior to supraoral canal; (1) posterior to supraoral canal.
 > King et al. (2017), Character 322; Castiello (2018), Character 314; Zhu Y. et al. (2022), Character 200; Brazeau et al. (2023), Character 327. Cui et al. (2023), Character 200.
 
 >  - **Character 196 in "early gnathostome phylogeny github".**
 >  - This character is only present in *Wuttagoonaspis*.
 
-P. 48. Endolymphatic ducts open in dermal skull roof: (0) present; (1) absent.
+P. 47. Endolymphatic ducts open in dermal skull roof: (0) present; (1) absent.
 > Janvier (1996); Brazeau (2009); Davis et al. (2012), Character 21; Choo et al. (2017), Character 20; King et al. (2017), Character 154; Castiello (2018), Character 153; Zhu Y. et al. (2022), Character 203; Andreev et al. (2022), Character 39; Brazeau et al. (2023), Character 158. Cui et al. (2023), Character 203.
 
 >  - **Character 199 in "early gnathostome phylogeny github".**
 >  - In some ptyctodonts, endolymaphatic ducts does not open in dermal skull roof.
 >  - The score for *Eurycaraspis* should possibly be revised from 1 to 0.
 
-P. 49. Endolymphatic ducts with oblique course through dermal skull bones: (0) absent; (1) present.
+P. 48. Endolymphatic ducts with oblique course through dermal skull bones: (0) absent; (1) present.
 > Goujet & Young (1995); Brazeau (2009); Davis et al. (2012), Character 22; Choo et al. (2017), Character 21; King et al. (2017), Character 155; Castiello (2018), Character 154; Zhu Y. et al. (2022), Character 205; Andreev et al. (2022), Character 40; Brazeau et al. (2023), Character 159. Cui et al. (2023), Character 205.
 
 >  - **Character 201 in "early gnathostome phylogeny github".**
 >  - This character is a synapomorphy of arthrodires.
 >  - In actinolepids, this character is possbily absent.
 
-P. 50. Endolymphatic duct relationship to median skull roof bone: (0) within median bone (i.e. nuchal plate); (1) on bones flanking the median bone (e.g. paranuchals).
+P. 49. Endolymphatic duct relationship to median skull roof bone: (0) within median bone (i.e. nuchal plate); (1) on bones flanking the median bone (e.g. paranuchals).
 > Giles et al. (2015), Character 40; Choo et al. (2017), Character 269; King et al. (2017), Character 207; Castiello (2018), Character 206; Zhu Y. et al. (2022), Character 206; Andreev et al. (2022), Character 41; Brazeau et al. (2023), Character 212. Cui et al. (2023), Character 206
 
 >  - **Character 202 in "early gnathostome phylogeny github".**
 >  - State 1 is widely present in some acanthothoracids, arthrodires, and petalichthyids. However, in acanthothoracids, the opening of endolymphatic duct is positioned on the median paranuchal plate. Zhu Y. et al. (2022): "We exclude the median paranuchal plate from the paranuchal series (Character 154), which runs along the main lateral line. Paired median paranuchals are present in some acanthothoracids, e.g., *Romundina*, *Arabosteus* (Olive et al., 2011) and *Sudaspis* (Vaškaninová and Ahlberg, 2017)."
 
-P. 51. Consolidated cheek plates: (0) absent; (1) present.
+P. 50. Consolidated cheek plates: (0) absent; (1) present.
 > Davis (2002); Brazeau (2009); Davis et al. (2012), Character 24; Choo et al. (2017), Character 23; King et al. (2017), Character 157; Castiello (2018), Character 156; Zhu Y. et al. (2022), Character 211; Andreev et al. (2022), Character 53; Brazeau et al. (2023), Character 161. Cui et al. (2023), Character 211.
 
 >  - **Character 207 in "early gnathostome phylogeny github".**
 >  - In ptyctodonts, consolidated cheek plates are absent.
 
-P. 52. Ventral lamina of submarginal (opercular) ossification: (0) absent; (1) present.
+P. 51. Ventral lamina of submarginal (opercular) ossification: (0) absent; (1) present.
 > Zhu et al. (2016), Character 355; Zhu Y. et al. (2021), Character 317; Zhu Y. et al. (2022), Character 232. Cui et al. (2023), Character 232.
 
 >  - **Character 228 in "early gnathostome phylogeny github".**
 >  - This character is present in antiarcha and *Qilinyu*.
 
-P. 53. Ventral lamina of suborbital (jugal): (0) absent; (1) present.
+P. 52. Ventral lamina of suborbital (jugal): (0) absent; (1) present.
 > Zhu et al. (2016), Character 356) Zhu Y. et al. (2021), Character 318; Zhu Y. et al. (2022), Character 233. Cui et al. (2023), Character 233.
 
 >  - **Character 229 in "early gnathostome phylogeny github".**
 >  - This character is present in antiarcha and *Qilinyu*.
 
-P. 54. Anterodorsal process of opercular (submarginal) ossification attaching onto skull: (0) absent; (1) present.
+P. 53. Anterodorsal process of opercular (submarginal) ossification attaching onto skull: (0) absent; (1) present.
 > Zhu et al. (2016), Character 357; Zhu Y. et al. (2021), Character 319; Zhu Y. et al. (2022), Character 235. Cui et al. (2023), Character 235.
 
 >  - **Character 231 in "early gnathostome phylogeny github".**
 >  - This character is present in antiarcha and *Qilinyu*.
 
-P. 55. Deep, high supragnathal bone with durophagous occlusal surface: (0) absent; (1) present.
+P. 54. Deep, high supragnathal bone with durophagous occlusal surface: (0) absent; (1) present.
 > Long et al. (2015), Character 257; Choo et al. (2017), Character 249; Castiello (2018), Character 354. King et al. (2017), Character 364; Zhu Y. et al. (2022), Character 247; Brazeau et al. (2023), Character 369; Cui et al. (2023), Character 247; Trinajstic et al. (2019), character 6.
 
 >  - **Character 243 in "early gnathostome phylogeny github".**
 >  - This character is a synapomorphy of ptyctodontids.
 
-P. 56. Posterior supragnathal with vertical pipe-like ridges: (0) absent; (1) present.
+P. 55. Posterior supragnathal with vertical pipe-like ridges: (0) absent; (1) present.
 > King et al. (2017), Character 373; Castiello (2018), Character 362; Zhu Y. et al. (2022), Character 248; Brazeau et al. (2023), Character 378; Cui et al. (2023), Character 248; Trinajstic et al. (2019), character 6.
 
 >  - **Character 244 in "early gnathostome phylogeny github".**
 >  - This character is only present in *Holonema*. See Miles (1971).
 
-P. 57. Maxilla and premaxilla sensu lato (upper gnathal plates lateral to jaw cartilage): (0) absent; (1) present.
+P. 56. Maxilla and premaxilla sensu lato (upper gnathal plates lateral to jaw cartilage): (0) absent; (1) present.
 > Zhu et al. (2016), Character 331; Coates et al. (2018), Character 92; Zhu Y. et al. (2022), Character 262. Cui et al. (2023), Character 262.
 
 >  - **Character 258 in "early gnathostome phylogeny github".**  
 >  - This character is shared by maxillate placoderms and crownward gnathostomes.
 
-P. 58. Pair of tooth plates (anterior supragnathals or vomers) on ethmoidal plate: (0) absent; (1) present.
+P. 57. Pair of tooth plates (anterior supragnathals or vomers) on ethmoidal plate: (0) absent; (1) present.
 > Giles et al. (2015), Character 91; Choo et al. (2017), Character 287; King et al. (2017), Character 367; Castiello (2018), Character 357; Zhu Y. et al. (2022), Character 274; Andreev et al. (2022), Character 91; Brazeau et al. (2023), Character 372. Cui et al. (2023), Character 274.
 
 >  - **Character 270 in "early gnathostome phylogeny github".**
 >  - Stated 1 is shared by arthrodires and *Romundina*.
 
-P. 59. Fused anterior supragnathals: (0) absent; (1) present.
+P. 58. Fused anterior supragnathals: (0) absent; (1) present.
 > King et al. (2017), Character 372; Castiello (2018), Character 361; Zhu Y. et al. (2022), Character 275; Brazeau et al. (2023), Character 377. Cui et al. (2023), Character 275.
 
 >  - **Character 271 in "early gnathostome phylogeny github".**
 >  - This character is only present in groenlandaspids.
 
-P. 60. Parasphenoid (Median dermal bone of palate): (0) absent; (1) present.
+P. 59. Parasphenoid (Median dermal bone of palate): (0) absent; (1) present.
 > Gardiner (1984); Brazeau (2009); Davis et al. (2012), Character 55; Choo et al. (2017), Character 54; King et al. (2017), Character 131; Castiello (2018), Character 130; Zhu Y. et al. (2022), Character 279; Andreev et al. (2022), Character 109; Brazeau et al. (2023), Character 135.
 
 >  - **Character 275 in "early gnathostome phylogeny github".**
 >  - In placoderms, parasphenoid is present in arthrodires and *Shearsbyaspis*.
 
-P. 61. Buccohypophysial canal in parasphenoid: (0) single; (1) paired.
+P. 60. Buccohypophysial canal in parasphenoid: (0) single; (1) paired.
 > Giles et al. (2015), Character 114; Choo et al. (2017), Character 292; King et al. (2017), Character 74; Castiello (2018), Character 76; Zhu Y. et al. (2022), Character 280; Andreev et al. (2022), Character 113; Brazeau et al. (2023), Character 78. Cui et al. (2023), Character 280.
 
 >  - **Character 275 in "early gnathostome phylogeny github".**
 >  - This character is widely present in eubrachythoracids.
 
-P. 62. Anterior portion of parasphenoid (pre-buccohypophyseal foramen) of greater length than posterior portion (post-foramen): (0) absent; (1) present.
+P. 61. Anterior portion of parasphenoid (pre-buccohypophyseal foramen) of greater length than posterior portion (post-foramen): (0) absent; (1) present.
 > Coates et al. (2018), Character 99; Zhu Y. et al. (2022), Character 289. Cui et al. (2023), Character 289.
 
 >  - **Character 275 in "early gnathostome phylogeny github".**
 
-P. 63. Position of mandibular arch articulations: (0) terminal; (1) subterminal.
+P. 62. Position of mandibular arch articulations: (0) terminal; (1) subterminal.
 > Zhu Y. et al. (2021), Character 93; Zhu Y. et al. (2022), Character 325; Andreev et al. (2022), Character 96. Cui et al. (2023), Character 325.
 
 >  - **Character 321 in "early gnathostome phylogeny github".**
 >  - State 1 is present in arthrodires and maxillate placoderms.
 
-P. 64. Nasal opening(s): (0) dorsal, placed between orbits; (1) ventral and anterior to orbits.
+P. 63. Nasal opening(s): (0) dorsal, placed between orbits; (1) ventral and anterior to orbits.
 > Friedman (2007); Brazeau (2009); Davis et al. (2012), Character 56; Choo et al. (2017), Character 55. King et al. (2017), Character 20; Castiello (2018), Character 20; Zhu Y. et al. (2022), Character 376; Andreev et al. (2022), Character 114; Brazeau et al. (2023), Character 23. Cui et al. (2023), Character 376.
 
 >  - **Character 372 in "early gnathostome phylogeny github".**
 
-P. 65. Ventral face of nasal capsule in taxa with mineralized ethmoid: (0) complete; (1) fenestra ventrolateralis; (2) entire floor unmineralized.
+P. 64. Ventral face of nasal capsule in taxa with mineralized ethmoid: (0) complete; (1) fenestra ventrolateralis; (2) entire floor unmineralized.
 > Choo et al. (2017), Character 172; Zhu Y. et al. (2021), Character 258; Zhu Y. et al. (2022), Character 382; Andreev et al. (2022), Character 262. Cui et al. (2023), Character 382.
 
 >  - **Character 378 in "early gnathostome phylogeny github".**
 >  - State 0 is present in acanthothoracids and *Brindabellaspis*. 
 >  - State 1 is present in sarcopterygians, not applicabled in placoderms. 
 
-P. 66. Olfactory tracts: (0) short, with olfactory capsules situated close to telencephalon cavity; (1) elongate and tubular (much longer than wide).
+P. 65. Olfactory tracts: (0) short, with olfactory capsules situated close to telencephalon cavity; (1) elongate and tubular (much longer than wide).
 > Zhu et al. (2009); Brazeau (2009); Friedman & Brazeau (2010); Davis et al. (2012), Character 57; Choo et al. (2017), Character 56. King et al. (2017), Character 21; Castiello (2018), Character 21; Zhu Y. et al. (2022), Character 385; Andreev et al. (2022), Character 116; Brazeau et al. (2023), Character 24. Cui et al. (2023), Character 385.
 
 >  - **Character 381 in "early gnathostome phylogeny github".**
 >  - In placoderms, enlongated olfactory tract is only present in Macropetalichthyids, including *Macropetalichthys* and *Shearsbyaspis*.
 
-P. 67. Olfactory tracts: (0) parallel or near-parallel; (1) significantly diverged.
+P. 66. Olfactory tracts: (0) parallel or near-parallel; (1) significantly diverged.
 > Zhu Y. et al. (2021), Character 342; Zhu Y. et al. (2022), Character 386. Cui et al. (2023), Character 386.
 
 >  - **Character 382 in "early gnathostome phylogeny github".**
 >  - The score for *Macropetalichthys* should possibly be revised from 0 to 1.
 >  - The score for *Romundina* should possibly be revised from 0 to 1.
 
-P. 68. Prominent pre-orbital rostral expansion of the neurocranium: (0) present; (1) absent.
+P. 67. Prominent pre-orbital rostral expansion of the neurocranium: (0) present; (1) absent.
 > Brazeau (2009); Davis et al. (2012), Character 58; Choo et al. (2017), Character 57; Zhu Y. et al. (2022), Character 387; Andreev et al. (2022), Character 117. Cui et al. (2023), Character 387.
 
 >  - **Character 383 in "early gnathostome phylogeny github".**
 >  - This character is present in *Romundina*, *Brindabellaspis*, and antiarchs.
 
-P. 69. Narrow interorbital septum: (0) absent; (1) present.
+P. 68. Narrow interorbital septum: (0) absent; (1) present.
 > Brazeau (2009); Davis et al. (2012), Character 68; Choo et al. (2017), Character 67. King et al. (2017), Character 32; Castiello (2018), Character 32; Zhu Y. et al. (2022), Character 393; Andreev et al. (2022), Character 135; Brazeau et al. (2023), Character 35. Cui et al. (2023), Character 393.
 
 >  - **Character 389 in "early gnathostome phylogeny github".**
 >  - This character is present in *Austroptyctodus* and antiarchs.
 
-P. 70. Anteriormost articulation for the mandibular arch: (0) located anterior to the nasal capsules, terminal; (1) immediately below or posterior to nasal capsules, subterminal.
+P. 69. Anteriormost articulation for the mandibular arch: (0) located anterior to the nasal capsules, terminal; (1) immediately below or posterior to nasal capsules, subterminal.
 > Zhu et al. (2016), Character 326; Coates et al. (2018), Character 123; Zhu Y. et al. (2021), Character 307; Zhu Y. et al. (2022), Character 397. Cui et al. (2023), Character 397.
 
 >  - **Character 393 in "early gnathostome phylogeny github".**
 >  - This character is shared by arthrodires and *Entelognathus*.
 
-P. 71. Close association of pineal organ and nasal cavities: (0) absent; (1) present.
+P. 70. Close association of pineal organ and nasal cavities: (0) absent; (1) present.
 > Zhu et al. (2016), Character 328; Zhu Y. et al. (2021), Character 309; Zhu Y. et al. (2022), Character 399. Cui et al. (2023), Character 399.
 
 >  - **Character 395 in "early gnathostome phylogeny github".**
 >  - This character is present in acanthoracids and antiarchs.
 
-P. 72. Eye stalk position: (0) positioned laterally on the orbital wall; (1) positioned ventrally on the subocular shelf wall.
+P. 71. Eye stalk position: (0) positioned laterally on the orbital wall; (1) positioned ventrally on the subocular shelf wall.
 > Castiello (2018), Character 64; Zhu Y. et al. (2022), Character 403. Cui et al. (2023), Character 403.
 
 >  - **Character 399 in "early gnathostome phylogeny github".**
 >  - Castiello (2018): "Character states have been created to highlight the difference between an eye stalk positioned ventrally on the subocular shelf as opposed to on the lateral wall of the orbit. This is an important distinction between taxa that possess similar orientation fo the orbit that have a different position for the eyestalk. As an example, *Brindabellaspis* and *Shearsbyaspis* both possess dorsolaterally placed eyes but the eye stalk in placed laterally or ventrally on the orbital wall, respectively."
 
-P. 73. Orbit directed mostly laterally and free of flanking endocranial cartilage or bone: (0) absent; (1) present.
+P. 72. Orbit directed mostly laterally and free of flanking endocranial cartilage or bone: (0) absent; (1) present.
 > Coates et al. (2018), Character 128; Zhu Y. et al. (2022), Character 405. Cui et al. (2023), Character 405
 
 >  - **Character 401 in "early gnathostome phylogeny github".**
 >  - This character may be redundant with P. 25.
 
-P. 74. Developed postorbital cavity: (0) absent; (1) present.
+P. 73. Developed postorbital cavity: (0) absent; (1) present.
 > Zhu et al. (2013), Character 223; Choo et al. (2017), Character 220; Zhu Y. et al. (2022), Character 410. Cui et al. (2023), Character 410
 
 >  - **Character 405 in "early gnathostome phylogeny github".**
 >  - This character is present in arthrodires, *Diandongpetalichthyids*, and *Entelognathus*.
 
-P. 75. Subpituitary fenestra: (0) absent; (1) present.
+P. 74. Subpituitary fenestra: (0) absent; (1) present.
 > Goujet & Young (1995); Brazeau (2009); Davis et al. (2012), Character 64; Choo et al. (2017), Character 63; King et al. (2017), Character 28; Castiello (2018), Character 94; Zhu Y. et al. (2022), Character 431; Andreev et al. (2022), Character 127; Brazeau et al. (2023), Character 31. Cui et al. (2023), Character 431.
 
 >  - **Character 426 in "early gnathostome phylogeny github".**
 >  - This character is a synapomorphy of arthrodires.
 
-P. 76. Nerve VIII bifurcates before entering the labyrinth cavity: (0) bifurcates; (1) does not bifurcate.
+P. 75. Nerve VIII bifurcates before entering the labyrinth cavity: (0) bifurcates; (1) does not bifurcate.
 > Zhu Y. et al. (2021), Character 341; Zhu Y. et al. (2022), Character 433. Cui et al. (2023), Character 433.
 
 >  - **Character 428 in "early gnathostome phylogeny github".**
 >  - Bifuracted nerve VIII is present only in *Brindabellaspis*
 
-P. 77. Main trunk of facial nerve (N. VII): (0) elongate and passes anterolaterally through orbital floor; (1) stout and divides within otic capsule at the level of the postorbital process.
+P. 76. Main trunk of facial nerve (N. VII): (0) elongate and passes anterolaterally through orbital floor; (1) stout and divides within otic capsule at the level of the postorbital process.
 > Brazeau (2009); Davis et al. (2012), Character 71; Choo et al. (2017), Character 68; Zhu Y. et al. (2022), Character 437; Andreev et al. (2022), Character 136. Cui et al. (2023), Character 437.
 
 >  - **Character 432 in "early gnathostome phylogeny github".**
 >  - Brazeau (2009): "In *osteostracans*, *Macropetalichthy*, and *Brindabellaspis*, the canal for the facial nerve follows an anterolaterally trending course. In these forms, it opens ventrolateral to the orbit. In chondrichthyans, osteichthyans, and arthrodires, the hyomandibular branch of the facial nerve exits the braincase in a position through or below the post orbital process."
 
-P. 78. Canal for efferent pseudobranchial artery within basicranial cartilage: (0) absent; (1) present.
+P. 77. Canal for efferent pseudobranchial artery within basicranial cartilage: (0) absent; (1) present.
 > Brazeau (2009); Davis et al. (2012), Character 79; Choo et al. (2017), Character 75; King et al. (2017), Character 39; Castiello (2018), Character 39; Zhu Y. et al. (2022), Character 440; Andreev et al. (2022), Character 144; Brazeau et al. (2023), Character 42. Cui et al. (2023), Character 440.
 
 >  - **Character 435 in "early gnathostome phylogeny github".**
 >  - This character is present in macropetalichthyids and *Brindabellaspis*.
 
-P. 79. Pituitary vein in a transverse canal connecting the orbit: (0) absent; (1) present.
+P. 78. Pituitary vein in a transverse canal connecting the orbit: (0) absent; (1) present.
 > Castiello (2018), Character 93; Zhu Y. et al. (2022), Character 446. Cui et al. (2023), Character 446.
 
 > -  **Character 441 in "early gnathostome phylogeny github".**
 > - This character is present in arthrodires and acanthoracids.
 
-P. 80. Position of hyomandibula articulation on neurocranium: (0) below or anterior to orbit, on ventrolateral angle of braincase; (1) posterior to orbit.
+P. 79. Position of hyomandibula articulation on neurocranium: (0) below or anterior to orbit, on ventrolateral angle of braincase; (1) posterior to orbit.
 > Coates & Sequeira (2001a, b); Brazeau (2009); Friedman & Brazeau (2010); Davis et al. (2012), Character 95; Choo et al. (2017), Character 76; Zhu Y. et al. (2021), Character 157; Zhu Y. et al. (2022), Character 448; Andreev et al. (2022), Character 161; Brazeau et al. (2023), Character 374. Cui et al. (2023), Character 44.
 
 > -  **Character 443 in "early gnathostome phylogeny github".**
 > -  Davis et al. (2012): "State (1) includes articular surfaces on the postorbital process, the lateral commissure, the otic capsule wall and lateral otic process." Coding errors in Choo et al. (2017), Character 76; Zhu Y. et al. (2022), Character 448.
 > -  In arthrodires, the articulation of hyomandibula is positioned posterior to orbit on the neurocranium. State 0 is present in macropetalichthyids and ptyctodontids.
 
-P. 81. Cucullaris fossa (trapezius fossa): (0) open posteriorly; (1) constrained posteriorly.
+P. 80. Cucullaris fossa (trapezius fossa): (0) open posteriorly; (1) constrained posteriorly.
 > Zhu et al. (2016), Character 324; Zhu Y. et al. (2021), Character 306; Zhu Y. et al. (2022), Character 457. Cui et al. (2023), Character 456.
 
 > -  **Character 451 in "early gnathostome phylogeny github".**
 > - State 1 is present in acanthoracids, *Brindabellaspis* and *Jagorina*. In other placoderms, such as arthrodires, petalichthyids, and *Microbrachius*, cucullaris fossa opens posteriorly.
 
-P. 82. External (horizontal) semicircular canal: (0) joins the vestibular region dorsal to posterior ampulla; (1) joins level with posterior ampulla.
+P. 81. External (horizontal) semicircular canal: (0) joins the vestibular region dorsal to posterior ampulla; (1) joins level with posterior ampulla.
 > Davis et al. (2012), Character 87; Choo et al. (2017), Character 86; King et al. (2017), Character 49; Castiello (2018), Character 49; Zhu Y. et al. (2022), Character 461; Andreev et al. (2022), Character 152; Brazeau et al. (2023), Character 53. Cui et al. (2023), Character 460.
 
 > -  **Character 455 in "early gnathostome phylogeny github".**
 > -  In placoderms, state 1 is only present in *Romundina*.
 
-P. 83. Ampullary ends of anterior semicircular canal and external semicircular canal: (0) separated by the bulbous utricular chamber; (1) join before entering utricular chamber.
+P. 82. Ampullary ends of anterior semicircular canal and external semicircular canal: (0) separated by the bulbous utricular chamber; (1) join before entering utricular chamber.
 > Maisey (2001), Character 25; Zhu Y. et al. (2021), Character 333; Zhu Y. et al. (2022), Character 474. Cui et al. (2023), Character 473.
 
 > -  **Character 468 in "early gnathostome phylogeny github".**
 > -  State 1 only present in *Romundina* and *Brindabellaspis*.
 
-P. 84. Sacculus position: (0) restricted ventral to external semicircular canal; (1) extends dorsal to semicircular canal.
+P. 83. Sacculus position: (0) restricted ventral to external semicircular canal; (1) extends dorsal to semicircular canal.
 > Zhu Y. et al. (2021), Character 335; Zhu Y. et al. (2022), Character 476. Cui et al. (2023), Character 475.
 
 > -  **Character 470 in "early gnathostome phylogeny github".**
 > -  State 0 is only present in *Brindabellaspis*.
 
-P. 85. Vestibular cavity of the bony labyrinth shape: (0) drum-shaped; (1) irregularly shaped.
+P. 84. Vestibular cavity of the bony labyrinth shape: (0) drum-shaped; (1) irregularly shaped.
 > Zhu Y. et al. (2021), Character 336; Zhu Y. et al. (2022), Character 477. Cui et al. (2023), Character 476.
 
 > -  **Character 471 in "early gnathostome phylogeny github".**
 > -  State 1 only present in *Romundina* and *Brindabellaspis*.
 > -  Zhu Y. et al. (2021): "In taxa such as *Jagorina*, *Kujdanowiaspis*, and *osteostracans*, the saccular cavity resembles a drum, or a flat cylinder, in that it is rounded in lateral view and compressed laterally. This contrasts with the condition in some ‘placoderms’ and crown gnathostomes, where the saccular cavity is bag-like and much more irregular in shape. It is unclear whether in *Romundina* the posteroventral bulge of the vestibular cavity is homologous to the lagena in crown gnathostomes, but even when this part is omitted, the saccular cavity in *Romundina* is still irregularly shaped in lateral view and does not resemble a drum."
 
-P. 86. Endolymphatic duct distal direction in coronal view: (0) parallelled directed; (1) mesially directed; (2) laterally directed.
+P. 85. Endolymphatic duct distal direction in coronal view: (0) parallelled directed; (1) mesially directed; (2) laterally directed.
 > Zhu Y. et al. (2021), Character 340; Zhu Y. et al. (2022), Character 481. Cui et al. (2023), Character 480.
 
 >  -  **Character 475 in "early gnathostome phylogeny github".**
 >  -  State 2 is present in arthrodires and petalichthyids.
 
-P. 87. Endolymphatic sacs: (0) absent; (1) present.
+P. 86. Endolymphatic sacs: (0) absent; (1) present.
 > Castiello (2018), Character 54; Zhu Y. et al. (2022), Character 483. Cui et al. (2023), Character 482.
 
 >  -  **Character 477 in "early gnathostome phylogeny github".**
 >  - In arthrodires, endolymphatic sacs is absent.
 
-P. 88. Channel for dorsal aorta and/or lateral dorsal aortae: (0) passes through basicranium: (1) external to basicranium.
+P. 87. Channel for dorsal aorta and/or lateral dorsal aortae: (0) passes through basicranium: (1) external to basicranium.
 > Schaeffer (1981); Coates & Sequeira (1998); Brazeau (2009), Character 78; Pradel et al. (2011); Brazeau & Friedman (2014); Coates et al. (2017); Coates et al. (2018), Character 201; Choo et al. (2017), Character 77; King et al. (2017), Character 40; Castiello (2018), Character 40; Zhu Y. et al. (2022), Character 498; Andreev et al. (2022), Character 142; Brazeau et al. (2023), Character 43. Cui et al. (2023), Character 497.
 
 >  -  **Character 492 in "early gnathostome phylogeny github".**
 
-P. 89. Medial recess of the posteroventral mydome: (0) absent; (1) present.
+P. 88. Medial recess of the posteroventral mydome: (0) absent; (1) present.
 > King et al. (2017), Character 89; Castiello (2018), Character 91; Zhu Y. et al. (2022), Character 504; Brazeau et al. (2023), Character 94. Cui et al. (2023), Character 503.
 
 >  -  **Character 498 in "early gnathostome phylogeny github".**
 >  -  This character is only present in petalichthyids, such as *Ellopetalichthys*,*Macropetalichthys*, and *Shearsbyaspis*.
 
-P. 90. Abducens, trigeminal nerves and pituitary vein: (0) opening via different foramina on the orbital wall; (1) sharing the same foramen on the orbital wall.
+P. 89. Abducens, trigeminal nerves and pituitary vein: (0) opening via different foramina on the orbital wall; (1) sharing the same foramen on the orbital wall.
 > Castiello (2018), Character 92; Zhu Y. et al. (2022), Character 505. Cui et al. (2023), Character 504.
 
 >  -  **Character 499 in "early gnathostome phylogeny github".**
 >  -  This character is only present in *Macropetalichthys* and *Shearsbyaspis*.
 
-P. 91. Profundus nerve: (0) emerges from the cranial cavity separately from the trigeminal nerve; (1) emerges together with the trigeminal nerve.
+P. 90. Profundus nerve: (0) emerges from the cranial cavity separately from the trigeminal nerve; (1) emerges together with the trigeminal nerve.
 > Young (1980); King et al. (2017), Character 94; Castiello (2018), Character 98; Zhu Y. et al. (2022), Character 509; Brazeau et al. (2023), Character 98. Cui et al. (2023), Character 508.
 
 >  -  **Character 503 in "early gnathostome phylogeny github".**
 >  -  This character is only present in arthrodires, such as *Kujdanowiaspis*, *Dicksonosteus*, and *Parabuchanosteus*.
 
-P. 92. Nasal capsules in anterolateral corners of orbit: (0) no; (1) yes. 
+P. 91. Nasal capsules in anterolateral corners of orbit: (0) no; (1) yes. 
 > King et al. (2017), Character 96; Castiello (2018), Character 100; Zhu Y. et al. (2022), Character 511; Brazeau et al. (2023), Character 100. Cui et al. (2023), Character 510.
 
 >  -  **Character 505 in "early gnathostome phylogeny github".**
 >  -  This character is shared by antiarchs and acanthoracids.
 
-P. 93. Posterior Postorbital process (Vagal process in Giles et al., 2015): (0) forked; (1) unforked.
+P. 92. Posterior Postorbital process (Vagal process in Giles et al., 2015): (0) forked; (1) unforked.
 > King et al. (2017), Character 97; Castiello (2018), Character 101; Zhu Y. et al. (2022), Character 512; Brazeau et al. (2023), Character 101. Cui et al. (2023), Character 511.
 
 >  -  **Character 506 in "early gnathostome phylogeny github".**
 
-P. 94. Rostral processes: (0) absent; (1) present.
+P. 93. Rostral processes: (0) absent; (1) present.
 > King et al. (2017), Character 99; Castiello (2018), Character 102; Zhu Y. et al. (2022), Character 513; Brazeau et al. (2023), Character 103. Cui et al. (2023), Character 512.
 
 >  -  **Character 507 in "early gnathostome phylogeny github".**
 >  -  This character is only present in ptyctodontids.
 
-P. 95. Hypophysial opening in braincase: (0) absent; (1) present.
+P. 94. Hypophysial opening in braincase: (0) absent; (1) present.
 > King et al. (2017), Character 114; Castiello (2018), Character 114; Zhu Y. et al. (2022), Character 523; Brazeau et al. (2023), Character 118. Cui et al. (2023), Character 522.
 
 >  -  **Character 517 in "early gnathostome phylogeny github".**
 >  -  State 0 only present in *Romundina* and *Brindabellaspis*.
 
-P. 96. Stalk-shaped parachordal/occipital region: (0) absent; (1) present.
+P. 95. Stalk-shaped parachordal/occipital region: (0) absent; (1) present.
 > Giles et al. (2015), Character 176; Choo et al. (2017), Character 304; King et al. (2017), Character 86; Castiello (2018), Character 88; Zhu Y. et al. (2022), Character 554; Andreev et al. (2022), Character 174; Brazeau et al. (2023), Character 90. Cui et al. (2023), Character 553.
 
 >  -  **Character 548 in "early gnathostome phylogeny github".**
 >  -  This character is present in *Cowralepis*, *Macropetalichthys*, and *Lunaspis*.
 
-P. 97. Paired occipital condyles: (0) absent; (1) present.
+P. 96. Paired occipital condyles: (0) absent; (1) present.
 > Choo et al. (2017), Character 305; Coates et al. (2018), Character 206; King et al. (2017), Character 87; Castiello (2018), Character 89; Andreev et al. (2022), Character 175; Zhu Y. et al. (2022), Character 558. Cui et al. (2023), Character 557.
 
 >  -  **Character 552 in "early gnathostome phylogeny github".**
 >  -   State 0 is only present in *Entelognathus*.
 
-P. 98. Anterior median dorsal plate: (0) absent; (1) present.
+P. 97. Anterior median dorsal plate: (0) absent; (1) present.
 > Zhu et al. (2016), Character 358; Zhu Y. et al. (2021), Character 320; Zhu Y. et al. (2022), Character 571. Cui et al. (2023), Character 570.
 
 >  -  **Character 565 in "early gnathostome phylogeny github".**
 
-P. 99. Anterior ventrolateral plates of both sides: (0) in contact; (1) separated. 
+P. 98. Anterior ventrolateral plates of both sides: (0) in contact; (1) separated. 
 > Zhu et al. (2016), Character 368; Zhu Y. et al. (2021), Character 328; Zhu Y. et al. (2022), Character 580. Cui et al. (2023), Character 579.
 
 >  -  **Character 574 in "early gnathostome phylogeny github".**
 
-P. 100. PDL plate visible externally: (0) present; (1) absent.
+P. 99. PDL plate visible externally: (0) present; (1) absent.
 > King et al. (2017), Character 439; Castiello (2018), Character 428; Zhu Y. et al. (2022), Character 593; Brazeau et al. (2023), Character 444. Cui et al. (2023), Character 592
 
 >  -  **Character 574 in "early gnathostome phylogeny github".**
 >  -  State 1 is only present in *Cowralepis*. This is is an autapomorphy for *Cowralepis*.
 
-P. 101. Number of median dorsal plates: (0) one; (1) two; (2) three.
+P. 100. Number of median dorsal plates: (0) one; (1) two; (2) three.
 > King et al. (2017), Character 445; Castiello (2018), Character 434; Zhu Y. et al. (2022), Character 599; Brazeau et al. (2023), Character 450; Cui et al. (2023), Character 598; Trinajstic et al. (2019), character 3.
 
 >  -  **Character 593 in "early gnathostome phylogeny github".**
 > - Three median dorsal plates are present in *Campbellodus decipiens*, *Qilinyu*, and *Bianchengichthys*. Two median dorsal plate are present in *Rhamphodopsis*, *Xiushanosteus* and antiarchs. 
 
-P. 102. Median ventral plates: (0) absent; (1) present.
+P. 101. Median ventral plates: (0) absent; (1) present.
 > King et al. (2017), Character 447; Castiello (2018), Character 436; Zhu Y. et al. (2022), Character 601; Andreev et al. (2022), Character 289; Brazeau et al. (2023), Character 452. Cui et al. (2023), Character 600.
 
 >  -  **Character 593 in "early gnathostome phylogeny github".**
 >  -  In some Ptyctodontids, including *Cambellodus*, *Austroptyctodus*, and *Rhamphodopsis*, median ventral plates are absent.
 
-P. 103. Endoskeletal supports in pectoral fin: (0) multiple elements articulating with girdle; (1) single element ("humerus") articulating with girdle.
+P. 102. Endoskeletal supports in pectoral fin: (0) multiple elements articulating with girdle; (1) single element ("humerus") articulating with girdle.
 > Zhu et al. (2009, Character 130), and references therein; Zhu et al., (2013), Character 250; Giles et al. (2015), Character 201; Choo et al. (2017), Character 233; King et al. (2017), Character 409; Castiello (2018), Character 398; Zhu Y. et al. (2022), Character 614; Brazeau et al. (2023), Character 414. Cui et al. (2023), Character 613.
 
 >  -  **Character 608 in "early gnathostome phylogeny github".**
 >  -  In placoderm, state 1 is only present in *Romundina*.
 
-P. 104. Scapular process of shoulder endoskeleton: (0) absent; (1) present.
+P. 103. Scapular process of shoulder endoskeleton: (0) absent; (1) present.
 > Coates & Sequeira (2001a, b); Zhu & Schultze (2001); Davis (2002); Brazeau (2009); Davis et al. (2012), Character 110; Choo et al. (2017), Character 106; King et al. (2017), Character 398; Castiello (2018), Character 387; Zhu Y. et al. (2022), Character 619; Andreev et al. (2022), Character 189; Brazeau et al. (2023), Character 403. Cui et al. (2023), Character 618.
 
 >  -  **Character 613 in "early gnathostome phylogeny github".**
 
-P. 105. Endoskeletal postbranchial lamina on scapular process: (0) present; (1) absent.
+P. 104. Endoskeletal postbranchial lamina on scapular process: (0) present; (1) absent.
 > Brazeau (2009); Davis et al. (2012), Character 115; Choo et al. (2017), Character 111; King et al. (2017), Character 403; Castiello (2018), Character 392; Zhu Y. et al. (2022), Character 624; Andreev et al. (2022), Character 194; Brazeau et al. (2023), Character 408. Cui et al. (2023), Character 623.
 
 >  -  **Character 618 in "early gnathostome phylogeny github".**
 
-P. 106. Fin base articulation on scapulocoracoid: (0) deeper than wide (stenobasal); (1) wider than deep (eurybasal).
+P. 105. Fin base articulation on scapulocoracoid: (0) deeper than wide (stenobasal); (1) wider than deep (eurybasal).
 > Choo et al. (2017), Character 115; King et al. (2017), Character 407; Castiello (2018), Character 396; Zhu Y. et al. (2022), Character 633; Andreev et al. (2022), Character 198; Brazeau et al. (2023), Character 412. Cui et al. (2023), Character 632
 
 >  -  **Character 627 in "early gnathostome phylogeny github".**
 >  -  An eurybasal articulation of the scapulocoracoid is widespread among arthrodires, whereas other placoderm groups typically exhibit a stenobasal articulation.
 
-P. 107. Pelvic girdle with substantial dermal component: (0) yes; (1) no.
+P. 106. Pelvic girdle with substantial dermal component: (0) yes; (1) no.
 > Zhu et al. (2012b); Zhu et al. (2013), Character 252; Choo et al. (2017), Character 239; King et al. (2017), Character 433; Castiello (2018), Character 422; Zhu Y. et al. (2022), Character 643; Andreev et al. (2022), Character 274; Brazeau et al. (2023), Character 438. Cui et al. (2023), Character 642; Trinajstic et al. (2019), character 28
 
 >  -  **Character 637 in "early gnathostome phylogeny github".**
 
-P. 108. Dermal pelvic clasper ossifications: (0) absent; (1) present.
+P. 107. Dermal pelvic clasper ossifications: (0) absent; (1) present.
 > Brazeau (2009); Davis et al. (2012), Character 123; Choo et al. (2017), Character 119; King et al. (2017), Character 396; Castiello (2018), Character 386; Andreev et al. (2022), Character 208; Zhu Y. et al. (2022), Character 644. Cui et al. (2023), Character 643.
 
 >  -  **Character 638 in "early gnathostome phylogeny github".**
 
-P. 109. Number of dorsal fins, if present: (0) one; (1) two.
+P. 108. Number of dorsal fins, if present: (0) one; (1) two.
 > Coates & Sequeira (2001a, b); Brazeau (2009); Davis et al. (2012), Character 136; Choo et al. (2017), Character 132; King et al. (2017), Character 450; Castiello (2018), Character 439; Zhu Y. et al. (2022), Character 652; Andreev et al. (2022), Character 226; Brazeau et al. (2023), Character 455. Cui et al. (2023), Character 651.
 
 >  -  **Character 638 in "early gnathostome phylogeny github".**
 >  -  *Austroptyctodus*, *Rhamphodopsis*, and *Xiushanosteus* possess two dorsal fins.
 
-P. 110. Anal fin: (0) absent; (1) present.
+P. 109. Anal fin: (0) absent; (1) present.
 > Coates & Sequeira (2001a, b); Brazeau (2009); Davis et al. (2012), Character 137; Choo et al. (2017), Character 133; King et al. (2017), Character 466; Castiello (2018), Character 455; Andreev et al. (2022), Character 230; Zhu Y. et al. (2022), Character 659. Cui et al. (2023), Character 658.
 
 >  -  **Character 653 in "early gnathostome phylogeny github".**
 
-P. 111. Dorsal fin spine: (0) absent; (1) present.
+P. 110. Dorsal fin spine: (0) absent; (1) present.
 > Zhu et al. (2001); Zhu & Yu (2002); Friedman (2007); Brazeau (2009); Davis et al. (2012), Character 126; Choo et al. (2017), Character 122; King et al. (2017), Character 457; Castiello (2018), Character 446; Zhu Y. et al. (2022), Character 671; Andreev et al. (2022), Character 211; Brazeau et al. (2023), Character 462. Cui et al. (2023), Character 670.
 
 >  -  **Character 665 in "early gnathostome phylogeny github".**
 
-P. 112. Shape of trunk scales: (0) rhombic; (1) small/round; (2) cycloid.
+P. 111. Shape of trunk scales: (0) rhombic; (1) small/round; (2) cycloid.
 > Cui et al. (2023), Character 691.
 
 >  -  **Character 686 in "early gnathostome phylogeny github".**
 
-P. 113. Dermal ornament with tubercles on trunk scales: (0) absent; (1) present.
+P. 112. Dermal ornament with tubercles on trunk scales: (0) absent; (1) present.
 > Cui et al. (2023), Character 694.
 
 >  -  **Character 689 in "early gnathostome phylogeny github".**
 
-P. 114. Dentinous external layer: (0) absent; (1) present.
+P. 113. Dentinous external layer: (0) absent; (1) present.
 > Brazeau et al. (2023), Character 9
 
 >  -  **Character 699 in "early gnathostome phylogeny github".**
 >  -  *Materpiscis*, *Campbellodus*, and *Austroptyctodus* lack the dentious external layer.
 
-P. 115. Endoskeletal craniothoracic (sixth branchial) facet: (0) absent; (1) present.
+P. 114. Endoskeletal craniothoracic (sixth branchial) facet: (0) absent; (1) present.
 > Brazeau et al. (2023), Character 180.
 
 >  -  **Character 703 in "early gnathostome phylogeny github".**
 >  -  This character is shared by *Diandongpetalichthys* and *Dicksonosteus*.
 >  -  Castiello (2018): "A transverse groove behind the pineal opening is present in *Dicksonosteus* (Goujet 1984a) and *Diandongpetalichthys* (Zhu 1991), but it is difficult to assess if this feature represents an anatomical or taphonomic groove".
 
-P. 116. Transverse external groove behind pineal opening: (0) absent; (1) present.
+P. 115. Transverse external groove behind pineal opening: (0) absent; (1) present.
 > King et al. (2016), Character 255; Brazeau et al. (2023), Character 260.
 
 >  -  **Character 701 in "early gnathostome phylogeny github".**
 
-P. 117. Large median bone directly anterior to parietals and pineal: (0) absent; (1) present.
+P. 116. Large median bone directly anterior to parietals and pineal: (0) absent; (1) present.
 > Brazeau et al. (2023), Character 263.
 
 >  -  **Character 704 in "early gnathostome phylogeny github".**
