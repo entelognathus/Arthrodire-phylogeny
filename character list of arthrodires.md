@@ -1525,13 +1525,7 @@ P. 40. Supraorbital sensory canals: (0) absent; (1) present.
 > - **Character 171 in "early gnathostome phylogeny github".**
 > - The supraorbital sensory canal is absent in maxillate placoderms, such as *Qilinyu*, *Entelognathus*, and *Bianchengichthys*.
 
-P. 41. Posterior end of supraorbital canal: (0) in central (postparietal); (1) in preorbital (parietal); (2) in intertemporal; (3) in nuchal plate; (4) in postpineal plate.
-> Zhu et al. (2009, Character 111), and references therein; Zhu et al. (2013), Character 189; Choo et al. (2017), Character 194; Zhu Y. et al. (2022), Character 178; Brazeau et al. (2023), Character 297. Cui et al. (2023), Character 178.
-
-> - **Character 174 in "early gnathostome phylogeny github".**
-> -  Character state 2 is not applicable to placoderms.
-
-P. 42. Supraorbital canals and posterior pitlines convergence: (0) absent; (1) converge without contact; (2) converge with contact.
+P. 41. Supraorbital canals and posterior pitlines convergence: (0) absent; (1) converge without contact; (2) converge with contact.
 > Long et al. (2015), Character 256; Choo et al. (2017), Character 248; King et al. (2017), Character 300; Castiello (2018), Character 291; Zhu Y. et al. (2022), Character 180; Brazeau et al. (2023), Character 305. Cui et al. (2023), Character 180; Trinajstic et al. (2019), character 1.
 
 > - **Character 176 in "early gnathostome phylogeny github".**
@@ -1961,7 +1955,6 @@ P. 114. Large median bone directly anterior to parietals and pineal: (0) absent;
 >  -  This character is shared by phyllolepids and ptyctodontids.
 
 
-
 **Add those character in "early gnathostome phylogeny github" to unite or distinguish arthrodires and petalichthyids"**
 
 ##Additionary character##
@@ -2061,6 +2054,10 @@ P. 23. Centrals (Postparietals of placoderms): (0) absent; (1) present.
 
 P. 41. Anterior end of supraorbital canal: (0) straight; (1) lateral inflection .
 > - State 1 is present in some antarctaspids and wuttagoonaspids.
+
+P. 42. Supraorbit sensory canal extends to postpineal plate: (0) absent; (1) present.
+> - State 1 is present in acanthoracids.
+
 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
