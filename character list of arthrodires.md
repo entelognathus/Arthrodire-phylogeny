@@ -1271,19 +1271,18 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 ### postcranial part
 212. Anterior dorsolateral plate overlapped by the posterior lateral plate: absent(0); present(1).
-> Long et al. (2014); Fitzpatrick *et al*. (2024), Character 125.
+> Long et al. (2014).
 
-> Fitzpatrick *et al*. (2024), character 125, "Dermal contact between the anterior dorsolateral and posterior lateral plates: absent (0), present (1)." 
 > - This character is possibly the synapomorphy of Parabuchanosteidae. This condition is also present in *Herasmius dayi*.
 
-213. Dorsolateral ridge originating from near the condyle of the anterior dorsolateral plate: absent (0), present (1).
-> Long (1995); Fitzpatrick *et al*. (2024, preprint), character 127.
+213. Dermal contact between the anterior dorsolateral and posterior lateral plates: absent (0), present (1).
+> Fitzpatrick *et al*. (2025), character 125.
+
+214. Dorsolateral ridge originating from near the condyle of the anterior dorsolateral plate: absent (0), present (1).
+> Long (1995); Fitzpatrick *et al*. (2025), character 127.
 
 214. Internal annular thickening of the posterior trunk plates (‘b.cpd’, Goujet 1984, fig. 61B): absent (0), present (1).  
-> Goujet (1984); Fitzpatrick *et al*. (2024, preprint), character 129.
-
-215. Dorsolateral ridge originating from near the condyle of the anterior dorsolateral plate: absent (0), present (1).
-> Long (1995); Fitzpatrick *et al*. (2024), character 127.
+> Goujet (1984); Fitzpatrick *et al*. (2025), character 129.
 
 ## More characters relating to the inclusion of petalichthyid taxa in the matrix. 
 P1. Dermal neck-joint between paired main-lateral-line-bearing bones of skull and shoulder girdle: (0) absent; (1) present.
