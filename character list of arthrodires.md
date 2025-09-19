@@ -428,6 +428,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of *Panjiangosteus eurycephala* is 1.
 > - **Character 79 in "early gnathostome phylogeny github".** 79. Single median element carrying the central, middle and posterior pit line: (0) absent; (1) present.
+>  -  Single midline bone is present in *Entelognathus*, *Wuttagoonaspis*, and phyllolepida.
 
  62. Midline contact between paired central plates: straight (0); sinuous (1).
 > Dupret *et al*. (2009), Character 18; Dupret *et al*. (2017), Character 18; Zhu *et al*. (2010), Character 18; Xue *et al*. (2025), Character 62.
@@ -1440,11 +1441,10 @@ P. 26. Condition of preorbitals (parietals): (0) do not meet in midline; (1) mee
 >  - **Character 135 in "early gnathostome phylogeny github".**
 >  - This character is related to Character 18, which is contingent upon it and has been modified as follows: Preorbital plates with a median contact — contact posterior to the pineal plate (0); contact anterior to the pineal plate (1). 
 
-P. 27. Condition of centrals (postparietals): (0) do not meet in midline; (1) meet in midline; (2) single midline bone.
+P. 27. Condition of centrals (postparietals): (0) do not meet in midline; (1) meet in midline.
 > Clement et al. (2018), Character 278; Zhu Y. et al. (2022), Character 140; Andreev et al. (2022), Character 278. Cui et al. (2023), Character 140.
 
 >  - **Character 138 in "early gnathostome phylogeny github".**
->  -  Single midline bone is present in *Entelognathus*, *Wuttagoonaspis*, and phyllolepida.
 
 P. 28. premedian plate (Large unpaired median skull roofing bone anterior to the level of nasal capsules): (0) absent; (1) present.
 > Zhu et al. (2013), Character 148; Choo et al. (2017), Character 159; King et al. (2017), Character 177; Castiello (2018), Character 174; Zhu Y. et al. (2022), Character 142; Brazeau et al. (2023), Character 183. Cui et al. (2023), Character 142.
