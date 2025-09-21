@@ -1694,12 +1694,6 @@ P. 69. Eye stalk position: (0) positioned laterally on the orbital wall; (1) pos
 >  - **Character 399 in "early gnathostome phylogeny github".**
 >  - Castiello (2018): "Character states have been created to highlight the difference between an eye stalk positioned ventrally on the subocular shelf as opposed to on the lateral wall of the orbit. This is an important distinction between taxa that possess similar orientation fo the orbit that have a different position for the eyestalk. As an example, *Brindabellaspis* and *Shearsbyaspis* both possess dorsolaterally placed eyes but the eye stalk in placed laterally or ventrally on the orbital wall, respectively."
 
-P. 70. Orbit directed mostly laterally and free of flanking endocranial cartilage or bone: (0) absent; (1) present.
-> Coates et al. (2018), Character 128; Zhu Y. et al. (2022), Character 405. Cui et al. (2023), Character 405
-
->  - **Character 401 in "early gnathostome phylogeny github".**
->  - This character may be redundant with P. 25.
-
 P. 71. Developed postorbital cavity: (0) absent; (1) present.
 > Zhu et al. (2013), Character 223; Choo et al. (2017), Character 220; Zhu Y. et al. (2022), Character 410. Cui et al. (2023), Character 410
 
@@ -2045,18 +2039,24 @@ A. 22. Dorsal articular lamina on trunk armour: (0) absent; (1) present.
 > - Zhu *et al*. (2019): "The dorsal lamina is present in antiarchs, *Qilinyu* and *Silurolepis*; absent in all other taxa. Together with the ventral lamina shared in most other placoderms, it defines the slot-shaped articular fossa for the ‘reverse ginglymoid’ on the trunk shield."
 > - **Character 555 in "early gnathostome phylogeny github".**
 
-P. 23. Centrals (Postparietals of placoderms): (0) absent; (1) present.
+A. 23. Centrals (Postparietals of placoderms): (0) absent; (1) present.
 > Clement et al. (2018), Character 277; Zhu Y. et al. (2022), Character 139; Andreev et al. (2022), Character 277. Cui et al. (2023), Character 139.
 
 >  - **Character 137 in "early gnathostome phylogeny github".**
 >  - Central plates possibly absent in antiarchs.
 
 
-P. 41. Anterior end of supraorbital canal: (0) straight; (1) lateral inflection .
+A. 41. Anterior end of supraorbital canal: (0) straight; (1) lateral inflection .
 > - State 1 is present in some antarctaspids and wuttagoonaspids.
 
-P. 42. Supraorbit sensory canal extends to postpineal plate: (0) absent; (1) present.
+A. 42. Supraorbit sensory canal extends to postpineal plate: (0) absent; (1) present.
 > - State 1 is present in acanthoracids.
+
+A. 70. Orbit directed mostly laterally and free of flanking endocranial cartilage or bone: (0) absent; (1) present.
+> Coates et al. (2018), Character 128; Zhu Y. et al. (2022), Character 405. Cui et al. (2023), Character 405
+
+>  - **Character 401 in "early gnathostome phylogeny github".**
+>  - This character may be redundant with P. 25.
 
 
 ## References
