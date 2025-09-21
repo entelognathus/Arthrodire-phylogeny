@@ -1935,12 +1935,12 @@ P. 112. Endoskeletal craniothoracic (sixth branchial) facet: (0) absent; (1) pre
 
 >  -  **Character 703 in "early gnathostome phylogeny github".**
 >  -  This character is shared by *Diandongpetalichthys* and *Dicksonosteus*.
->  -  Castiello (2018): "A transverse groove behind the pineal opening is present in *Dicksonosteus* (Goujet 1984a) and *Diandongpetalichthys* (Zhu 1991), but it is difficult to assess if this feature represents an anatomical or taphonomic groove".
 
 P. 113. Transverse external groove behind pineal opening: (0) absent; (1) present.
 > King et al. (2016), Character 255; Brazeau et al. (2023), Character 260.
 
 >  -  **Character 701 in "early gnathostome phylogeny github".**
+>  -  Castiello (2018): "A transverse groove behind the pineal opening is present in *Dicksonosteus* (Goujet 1984a) and *Diandongpetalichthys* (Zhu 1991), but it is difficult to assess if this feature represents an anatomical or taphonomic groove".
 
 P. 114. Large median bone directly anterior to parietals and pineal: (0) absent; (1) present.
 > Brazeau et al. (2023), Character 263.
