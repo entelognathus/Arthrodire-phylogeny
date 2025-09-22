@@ -1109,7 +1109,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - Dermal ornamentation: (0) smooth; (1) parallel, vermiform ridges; (2) concentric ridges; (3) tuberculate.  **Character 54 in "early gnathostome phylogeny github".**
 
 ## Additional characters in Xue *et al*. (2025)
-173. Inframarginal crista: absent(0); present (1).
+173. Inframarginal crista: absent (0); present (1).
 > Xue *et al*. (2025), Character 173.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
