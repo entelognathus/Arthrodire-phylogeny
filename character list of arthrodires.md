@@ -542,6 +542,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  79. Posterior border of the median dorsal plate: rounded (0); spinous or convex (1); depression or concave (2).
 > Jobbins *et al*. (2022, 2024), Character 37; Modified from Dennis and Miles (1979a), Character 18; Carr (1991), Character 37; Lelièvre (1995), character 39; Carr and Hlavin (2010), Character 37; Rücklin *et al*. (2015), Character 37; Zhu Y *et al*. (2016), Character 37; Xue *et al*. (2025), Character 79.
 
+> - Concave posterior border of the meidan dorsal plate is only present in *Amazichthys*.
 > - **Character 588 in "early gnathostome phylogeny github".** Posteriorly produced spine on MD plate: (0) absent; (1) present.
 
  80. Anterior lateral plate/anterior ventrolateral plate contact: absent (0); present (1).
