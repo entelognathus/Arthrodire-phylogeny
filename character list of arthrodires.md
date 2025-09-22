@@ -2045,19 +2045,19 @@ A. 23. Centrals (Postparietals of placoderms): (0) absent; (1) present.
 >  - **Character 137 in "early gnathostome phylogeny github".**
 >  - Central plates possibly absent in antiarchs.
 
-
-A. 41. Anterior end of supraorbital canal: (0) straight; (1) lateral inflection .
+A. 24. Anterior end of supraorbital canal: (0) straight; (1) lateral inflection .
 > - State 1 is present in some antarctaspids and wuttagoonaspids.
 
-A. 42. Supraorbit sensory canal extends to postpineal plate: (0) absent; (1) present.
+A. 25. Supraorbit sensory canal extends to postpineal plate: (0) absent; (1) present.
 > - State 1 is present in acanthoracids.
 
-A. 70. Orbit directed mostly laterally and free of flanking endocranial cartilage or bone: (0) absent; (1) present.
+A. 26. Orbit directed mostly laterally and free of flanking endocranial cartilage or bone: (0) absent; (1) present.
 > Coates et al. (2018), Character 128; Zhu Y. et al. (2022), Character 405. Cui et al. (2023), Character 405
 
 >  - **Character 401 in "early gnathostome phylogeny github".**
 >  - This character may be redundant with P. 25.
 
+A. 27. Central plate forms the margin of orbit: (0)absent; (1)present. 
 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
