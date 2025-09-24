@@ -1237,53 +1237,50 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - **Character 82 in "early gnathostome phylogeny github".**
 
-200. Supraorbital crista: absent (0); present (1).
-> - The supraorbital crista, positioned mesial to the supraorbital vault, is present in *Arenipiscus*, *Dhanguura*, and *Exutaspis*.
-
-201.  Central sensory canals: separate (0); meet posteriorly (1).
+200.  Central sensory canals: separate (0); meet posteriorly (1).
 >  Gardiner and Miles (1994), Character 40.
 > - Central sensory canals meet posterioly on central plates in *Watsonosteus* and *Dickosteus*.
 
-202. Number of the extrascapular: one (0); two (1).
+201. Number of the extrascapular: one (0); two (1).
 > - This character is contingent on Character 104.
 
-203. Occipital cross commissure on the skull roof: absent (0); present (1). 
+202. Occipital cross commissure on the skull roof: absent (0); present (1). 
 
-204. Posterior pit line: absent (0); present (1).
+203. Posterior pit line: absent (0); present (1).
 > - In some clades of Brachythoraci, the posterior pit line is absent, such as in the *Homosteus sulcatus*, *Heterosteus ingens*, *Tafilalichthys lavocati* and *Enseosteus jaekeli*.
 
-205. Middle pit-line: absent (0); present (1).
+204. Middle pit-line: absent (0); present (1).
 > - The middle pit-line is present in most arthrodires, some acanthothoracids (e.g. *Romundina stellina* and *Kolymaspis siberica*) and petalichthyids (e.g. *Dindongpetalichthys* and *Quasipetalichthys*), and a few ptyctodontids (e.g. *Rhampbodopis threiplandi*).
 
 > - In arthrodires, the middle pit-line is always positioned on the center of the central plate, except *Potangosteus* and wuttagoonaspids, in which the middle pit-line extends from the center of the postorbital plate to the nuchal plate.
 
 > - In the Dunkleosteidae, the middle pit-line is absent, such as in *Gorgonichthys* (Dunkle and Bungart, 1940), *Dunkleosteus* (Heintz, 1932), and *Heterosteus ingens*. The middle pit-line is present in the majority of arthrodires, such as in *Kujdanowiaspis* and *Coccosteus*.
 
-206. The groove on the mesial surface of the infragnathal blade: absent (0); present (1).
+205. The groove on the mesial surface of the infragnathal blade: absent (0); present (1).
 > - In Coccosteomorphi, on the mesial surface of the blade, a groove running subparallel to its lower edge is possibly for the path of the ramus mandibularis internus VII, such as in the *Coccosteus cuspidatus* (Miles, 1979), *Xiantingosteus gracilis*, and *Camuropiscis concinnus* (Dennis and Miles, 1979).
 
-208. Depression lateral to supraorbital vault: absent (0); present (1).
+206. Depression lateral to supraorbital vault: absent (0); present (1).
 > - This depression is present in many plesiomorphic arthrodires, such as *Buchansopteus*, *Dhanguura* and *Exutaspis*.
 
-209. Endolymphatic thickening on the visceral surface of skull roof: absent (0); present (1).
+207. Endolymphatic thickening on the visceral surface of skull roof: absent (0); present (1).
 > - The endolymphatic thickening is positioned in the anterior mesial part of paranuchal plate. The endolymaphtic thickening possibly corresponding to the lateral depression on the dorsal surface of the neurocranium is present non-eubrachythoracids, such as in *Kujdanowiaspis*, *Dicksonosteus*, and *Parabuchanosteus*.
 
-210. Median nuchal thickening on the visceral surface of skull roof: long (0); short (1).
+208. Median nuchal thickening on the visceral surface of skull roof: long (0); short (1).
 > - The median nuchal thickening corresponding to the median nuchal depression on the dorsal suface of neurocranium is short in the brachythoracids and long in the plesiomorphic arthrodires.
 
 ### postcranial part
-212. Anterior dorsolateral plate overlapped by the posterior lateral plate: absent(0); present(1).
+209. Anterior dorsolateral plate overlapped by the posterior lateral plate: absent(0); present(1).
 > Long et al. (2014).
 
 > - This character is possibly the synapomorphy of Parabuchanosteidae. This condition is also present in *Herasmius dayi*.
 
-213. Dermal contact between the anterior dorsolateral and posterior lateral plates: absent (0), present (1).
+210. Dermal contact between the anterior dorsolateral and posterior lateral plates: absent (0), present (1).
 > Fitzpatrick *et al*. (2025), character 125.
 
-214. Dorsolateral ridge originating from near the condyle of the anterior dorsolateral plate: absent (0), present (1).
+211. Dorsolateral ridge originating from near the condyle of the anterior dorsolateral plate: absent (0), present (1).
 > Long (1995); Fitzpatrick *et al*. (2025), character 127.
 
-214. Internal annular thickening of the posterior trunk plates (‘b.cpd’, Goujet 1984, fig. 61B): absent (0), present (1).  
+212. Internal annular thickening of the posterior trunk plates (‘b.cpd’, Goujet 1984, fig. 61B): absent (0), present (1).  
 > Goujet (1984); Fitzpatrick *et al*. (2025), character 129.
 
 ## More characters relating to the inclusion of petalichthyid taxa in the matrix. 
