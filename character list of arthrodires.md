@@ -1290,7 +1290,7 @@ P1. Cranial fossa receiving the ventral articular lamina of the trunk: (0) absen
 > - Zhu *et al*. (2019): "It is present in the *Qilinyu* with the dual articulation, and those placoderms in which the neck joints are categorized as ‘ginglymoid’ type; absent in antiarchs and those taxa with sliding neck joints."
 > - **Character 556 in "early gnathostome phylogeny github".**
 
-P2. Trunk ventral articular lamina develops into condyle: (0) absent, continuous along the articular lamina of the anterior dorsolateral plate; (1) present, the articular lamina develops into distinctive condyle.
+P2. Trunk ventral articular lamina develops into flange or condyle: (0) absent, continuous along the articular lamina of the anterior dorsolateral plate; (1) present, the articular lamina develops into distinctive flange or condyle.
 > Zhu *et al*. (2019), Character 5; Zhu Y. *et al*. (2021), Character 358; Zhu Y. *et al*. (2022), Character 563; Cui *et al*. (2023), Character 562; Zhu Y. *et al*. (2019), Character 375; Trinajstic *et al*. (2019), Character 16.
 > - Zhu *et al*. (2019): "Ventral articular lamina on the trunk shield develops into flange or condyle distinct from the rest of the anterior margin of ADL. The well-defined flange or condyle is present in *Qilinyu*, *Eurycaraspis*, ptyctodonts and many arthrodires and absent in *Entelognathus* and basal arthrodire *Bryantolepis*."
 > - **Character 557 in "early gnathostome phylogeny github".**
