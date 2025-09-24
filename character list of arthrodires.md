@@ -1313,26 +1313,21 @@ ridge is present in petalichthyids and some ptyctodontids and absent in other pl
 P6. Para-articular process ridge angles: nearly parallel to the midline of the head shield (0), oblique to the midline of the head shield (1). 
 > Pan et al. (in prep.) for *Yipetalichthys*.
 
-P7. The posterior margin of the skull roof significantly overlapped by the anterior-most median plate of the trunk shield: present (0), absent (1). 
-> Zhu *et al*. (2019), Character 7.
-
-> - Zhu *et al*. (2019): "The exact homology between these bones is not well established. However, it is possible to distinguish two types of median contact relationship between the skull roof and trunk shield: (i) no significant overlap, such as nested brachythoracid arthrodires with large nuchal gap; (ii) skull roof strongly overlapped by the trunk shield, normally with a posteriorly convex nuchal plate but not necessarily so, as in antiarchs, *Qilinyu*, *Silurolepis* and some petalichthyids and ptyctodonts. In petalichthyids such as *Eurycaraspis*, the overlapped area is well defined laterally from the rest of the skull roof and is named the posterior descending lamina."
-
-P.8. Obstanic groove on the anterolateral margin of the trunk shield, formed by an extended anterior lamina curling laterally: absent (0), present (1). 
+P.7. Obstanic groove on the anterolateral margin of the trunk shield, formed by an extended anterior lamina curling laterally: absent (0), present (1). 
 > Zhu *et al*. (2019), Character 7.
 > - It is present only in *Qilinyu* and *Silurolepis*.
 
-P.9. Sensory canals/grooves: (0) contained within the thickness of dermal bones; (1) contained in prominent ridges on visceral surface of bone.
+P.8. Sensory canals/grooves: (0) contained within the thickness of dermal bones; (1) contained in prominent ridges on visceral surface of bone.
 > Giles *et al*. (2015), Character 31; Choo *et al*. (2017), Character 266; King *et al*. (2017), Character 301; Castiello (2018), Character 292; Zhu Y. *et al*. (2022), Character 58; Andreev *et al*. (2022), Character 31; Brazeau *et al*. (2023), Character 306. Cui *et al*. (2023), Character 58.
 
 > - **Character 56 in "early gnathostome phylogeny github".**
 
-P.10. Dermal skull roof: (0) includes large dermal plates; (1) consists of undifferentiated plates or tesserae; (2) include both large dermal plates and tesserae.
+P.9. Dermal skull roof: (0) includes large dermal plates; (1) consists of undifferentiated plates or tesserae; (2) include both large dermal plates and tesserae.
 > Davis et al. (2012), Character 18; Choo et al. (2017), Character 17; King et al. (2017), Character 151; Castiello (2018), Character 150; Zhu Y. et al. (2022), Character 59; Andreev et al. (2022), Character 33; Brazeau et al. (2023), Character 155. Cui et al. (2023), Character 59.
 
 > - **Character 57 in "early gnathostome phylogeny github".**
 
-P.11. Cutaneous sensory organ on skull roof posterior to orbits: (0) absent; (1) present.
+P.10. Cutaneous sensory organ on skull roof posterior to orbits: (0) absent; (1) present.
 > King et al. (2017), Character 242; Castiello (2018), Character 242; Zhu Y. et al. (2022), Character 85; Brazeau et al. (2023), Character 247. Cui et al. (2023), Character 85.
 
 > King et al. (2007): The Cu.s.o in *Romundina* (Ørvig 1975). A much smaller cu.s.o was described in a similar position in *Brindabellaspis* (Young 1980), but these are variably developed, and are no wider than the sensory line canals. Since the sensory lines are variably developed as canals or grooves in *Brindabellaspis* it is not clear that these ‘cutaneous sensory organs’ are not continuations of the sensory lines, so this character is scored as unknown in *Brindabellaspis*. A cluster of Cu.s.o pits is also labelled in a posterior region in *Eurycaraspis* (Liu 1991). Since these are a cluster in an unusual position *Eurycaraspis* is currently scored as unknown for this character.
@@ -2056,6 +2051,11 @@ A. 26. Orbit directed mostly laterally and free of flanking endocranial cartilag
 
 A. 27. Central plate forms the margin of orbit: (0)absent; (1)present. 
 
+
+A. 28. The posterior margin of the skull roof significantly overlapped by the anterior-most median plate of the trunk shield: present (0), absent (1). 
+> Zhu *et al*. (2019), Character 7.
+
+> - Zhu *et al*. (2019): "The exact homology between these bones is not well established. However, it is possible to distinguish two types of median contact relationship between the skull roof and trunk shield: (i) no significant overlap, such as nested brachythoracid arthrodires with large nuchal gap; (ii) skull roof strongly overlapped by the trunk shield, normally with a posteriorly convex nuchal plate but not necessarily so, as in antiarchs, *Qilinyu*, *Silurolepis* and some petalichthyids and ptyctodonts. In petalichthyids such as *Eurycaraspis*, the overlapped area is well defined laterally from the rest of the skull roof and is named the posterior descending lamina."
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
