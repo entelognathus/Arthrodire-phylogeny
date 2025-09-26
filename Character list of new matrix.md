@@ -1,5 +1,4 @@
-# Character list of arthrodires and petalichthyids
-> Characters 1-85 of Carr and Hlavin (2010) are from Carr (1991).
+# Character list of arthrodires, petalichthyids ,and ptyctodontids.
 
 ## Skull roof
  1. Posterior development of rostral plate: not developed (0); subtriangular (1); T-shaped (2).
@@ -9,89 +8,88 @@
 
 > - **Character 78 in "early gnathostome phylogeny github".** T-shaped rostral plate: (0) absent; (1) present.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
  2. Anterior elongation of the rostrum: absent (0); present (1).
 > Long (1988), Characters 4, 12, and 16; Carr (1991), Character 6; Carr and Hlavin (2010), Character 6; Rücklin *et al*.  (2015), Character 6; Zhu Y *et al*. (2016), Character 6; Jobbins *et al*. (2022, 2024), Character 6; Xue *et al*. (2025), Character 6.
 
 > - In those taxa that the rostral plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
-
-> - The coding of *Panjiangosteus eurycephala* is 0.
 
  3. Ventrally enclosed tubular rostrum: absent (0); present (1).
 > Carr (1991), Character 7; Lelièvre (1995), character 3, modified; Carr and Hlavin (2010), Character 7; Rücklin *et al*. (2015), Character 7; Zhu Y *et al*. (2016), Character 7; Jobbins *et al*. (2022, 2024), Character 7; Xue *et al*. (2025), Character 7.
 
 > - In those taxa that the rostral plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
 
-> - The coding of *Panjiangosteus eurycephala* is -.
-
-  5. Rostral, pineal, or rostropineal plates: absent (0); present (1).
-> Dupret *et al*. (2009), Character 5; Dupret *et al*. (2017), Character 5; Zhu *et al*. (2010), Character 5; Xue *et al*. (2025), Character 54.
-
-> - The coding of *Panjiangosteus eurycephala* is 1.
-
-  7. Pineal and rostral: (0) contact; (1) separated.
-> Castiello (2018), Character 255; Zhu Y. et al. (2022), Character 97. Cui et al. (2023), Character 97.
-
-> - **Character 95 in "early gnathostome phylogeny github".**
-
-> - This character is present in some petalichthyids, including *Lunaspis*, *Notopetalichthys*, and *Sinopetalichthys*.
-
-  8. Rostral and pineal plates fused into one plate: absent (0); present (1).
+ 4. Rostral and pineal plates fused into one plate: absent (0); present (1).
 > Zhu Y *et al*. (2016), Character 100; Dupret *et al*. (2009), Character 8; Dupret *et al*. (2017), Character 8; Xue *et al*. (2025), Character 44.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+ 5. Rostral, pineal, or rostropineal plates: absent (0); present (1).
+> Dupret *et al*. (2009), Character 5; Dupret *et al*. (2017), Character 5; Zhu *et al*. (2010), Character 5; Xue *et al*. (2025), Character 54.
 
- 4. Shape of the pineal plate on the external surface of the skull roof: short and broad (0); long and narrow (1).
-> Zhu Y *et al*. (2016), Character 101; Xue *et al*. (2025), Character 45.
+ 6. Pineal or rostropineal plate fused to skull roof: no fusion (0); fusion (1).
+> Johnson *et al*. (2000), Character 2; Dupret *et al*. (2009), Character 10; Dupret *et al*. (2017), Character 10; Zhu *et al*. (2010), Character 10; Xue *et al*. (2025), Character 57.
 
-> - In those taxa that the rostral plate fused with the pineal plate, this character is scored as 'not applicable'.
-
-> - The coding of *Panjiangosteus eurycephala* is 1.
-
- 6. Position of pineal plate: further anteriorly from orbits (0); same level as orbits (1).
+ 7. Position of pineal plate: further anteriorly from orbits (0); same level as orbits (1).
 > Dupret *et al*. (2009), Character 6; Dupret *et al*. (2017), Character 6; Zhu *et al*. (2010), Character 6; Xue *et al*. (2025), Character 55.
 
 > - In those taxa that the pineal plate is fused with rostral plate, we use the rostropineal plate to represent the pineal plate.
 
-> - The coding of *Panjiangosteus eurycephala* is 1.
+ 8. Shape of the pineal plate on the external surface of the skull roof: short and broad (0); long and narrow (1).
+> Zhu Y *et al*. (2016), Character 101; Xue *et al*. (2025), Character 45.
 
- 9. Pineal plate is part of anterior margin of skull roof: (0) absent, rostral plate forms the anterior margin; (1) present, pineal plate forms anterior margin of skull; (2) absent, preorbital plates form the anterior margin of the skull.
-> Trinajstic et al. (2019), character 9.
+> - In those taxa that the rostral plate fused with the pineal plate, this character is scored as 'not applicable'.
 
-   16. Infrafenestral process of postnasal plate : absent (0); present (1).
+ 9. Position of anterior edge of pineal plate: over orbit (0); anterior to orbit (1).
+> Carr (1991), Character 8; Lelièvre (1995), character 5, modified; Carr and Hlavin (2010), Character 8; Rücklin *et al*. (2015), Character 8; Zhu Y *et al*. (2016), Character 8; Jobbins *et al*. (2022, 2024), Character 8; Xue *et al*. (2025), Character 8.
+
+> - In those taxa that the rostral plate is fused with the pineal plate or the pineal plate is asbent such as in phyllolepids, this character is scored as 'not applicable'.
+
+ 10. Position of posterior edge of pineal plate: over orbit (0); posterior to orbit (1).
+> Carr (1991), Character 9; Carr and Hlavin (2010), Character 9; Rücklin *et al*. (2015), Character 9; Zhu Y *et al*. (2016), Character 9; Jobbins *et al*. (2022, 2024), Character 9; Xue *et al*. (2025), Character 9.
+
+> - In those taxa that the pineal plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
+
+ 11. Infrafenestral process of postnasal plate : absent (0); present (1).
 > Gardiner and Miles (1990), Character 22.18; Carr (1991), Character 16; Carr and Hlavin (2010), Character 16; Rücklin *et al*. (2016), Character 16; Zhu Y *et al*. (2016), Character 16; Jobbins *et al*. (2022, 2024), Character 16; Xue *et al*. (2025), Character 16.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
-  26. Postnasal plate forms part of the orbit border: absent (0); present (1).
+ 12. Postnasal plate forms part of the orbit border: absent (0); present (1).
 > Dennis and Miles (1979b), Character 1; Carr (1991), Character 26; Lelièvre (1995), character 22, modified; Carr and Hlavin (2010), Character 26; Rücklin *et al*. (2015), Character 26; Zhu Y *et al*. (2016), Character 26; Jobbins *et al*. (2022, 2024), Character 26; Xue *et al*. (2025), Character 26.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 27. Extent of postnasal involvement in the orbit border: minimal (0); developed (1).
+ 13. Extent of postnasal involvement in the orbit border: minimal (0); developed (1).
 > Carr (1991), Character 27; Carr and Hlavin (2010), Character 27; Rücklin *et al*. (2015), Character 27; Zhu Y *et al*. (2016), Character 27; Jobbins *et al*. (2022, 2024), Character 27; Xue *et al*. (2025), Character 27.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+ 14. Postnasal plates fused or not to preorbital plates: fusion (0); no fusion (1).
+> Johnson *et al*. (2000), Character 4; Dupret *et al*. (2009), Character 11; Dupret *et al*. (2017), Character 11; Zhu *et al*. (2010), Character 11; Xue *et al*. (2025), Character 58.
 
- 
- 17. Preorbital plate with a dermal preorbital lamina or process: absent (0); present (1).
+ 15. Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes) / (distance between pineal and paired condyles): small (r < 0.2)(0); intermediate (0.2 < r < 0.5) (1); large (r > 0.5)(2).
+> Carr (1991), Character 28; Carr and Hlavin (2010), Character 28; Rücklin *et al*. (2015), Character 28; Zhu Y *et al*. (2016), Character 28; Jobbins *et al*. (2022, 2024), Character 28; Xue *et al*. (submitted), Character 28.
+
+>  - The orginal definition of this character in Carr (1991) is " Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes)/ (distance between pineal and paired condyles): small (0); intermediate (1); large (2)." However, there was no value to define these three states. Here, we complement it as "small (r < 0.2)(0); intermediate (0.2 < r < 0.5) (1); large (r > 0.5)(2)."
+
+ 16. Position of orbits on skull roof: dorsal (0); lateral (1).
+> Lelièvre (1995), character 23, modified; Dupret *et al*. (2009), Character 12; Dupret *et al*. (2017), Character 12; Zhu *et al*. (2010), Character 12; Xue *et al*. (2025), Character 59.
+
+> - Lelièvre (1995): Position and size of the orbits: samall and anteriorly placed (0); small and laterally placed (1); enlarged and lateral (2).
+
+ 17. Position of the PrO/PtO/C triple point relative to the orbit: posterior to orbit (0); over the orbit (1).
+> Carr (1991), Character 33; Carr and Hlavin (2010), Character 33; Rücklin *et al*. (2015), Character 33; Zhu Y *et al*. (2016), Character 33; Jobbins *et al*. (2022, 2024), Character 33; Xue *et al*. (2025), Character 33.
+
+> - In those taxa that the central plate is not contacted with the preorbital plate, this character is scored as 'not applicable'.
+
+ 18. Preorbital plates: separate (0); fused (1).
+> Johnson *et al*. (2000), Character 3; Dupret *et al*. (2009), Character 13; Dupret *et al*. (2017), Character 13; Zhu *et al*. (2010), Character 13; Xue *et al*. (2025), Character 60.
+
+ 19. Preorbital plate with a dermal preorbital lamina or process: absent (0); present (1).
 > Dennis and Miles (1979b), Character 19; Young (1981), Character 19; Carr (1991), Character 17; Lelièvre (1995), character 20; Carr and Hlavin (2010), Character 17; Rücklin *et al*. (2015), Character 17; Zhu Y *et al*. (2016), Character 17; Jobbins *et al*. (2022, 2024), Character 17; Xue *et al*. (2025), Character 17.
 
 > - In those taxa that the preorbital does not form the orbital margin, this character is scored as 'not applicable'.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 18. Preorbital plates with a median contact: contact posterior to pineal plate (0); contact anterior to pineal plate (1); pineal plate separating preorbital plates (2).
+ 20. Preorbital plates with a median contact: contact posterior to pineal plate (0); contact anterior to pineal plate (1); pineal plate separating preorbital plates (2).
 > Young (1981), Character 19a, modified; Carr (1991), Character 18; Lelièvre (1995), character 19, modified; Carr and Hlavin (2010), Character 18; Rücklin *et al*. (2015), Character 18; Zhu Y *et al*. (2016), Character 18; Dupret *et al*. (2009, 2017), Character 7, modified; Jobbins *et al*. (2022, 2024), Character 18; Xue *et al*. (2025), Character 18.
 
 > Dupret *et al*. (2009, 2017): Pineal or rostropineal plate separates preorbital plates: no separation (0); separation (1).
 
 > - In those taxa that the pineal plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
 
-> - The coding of *Panjiangosteus eurycephala* is 2.
-
- 19. Extent of median preorbital plate contact: short (0); long, measured as the ratio of (contact length)/ (PrO parasagittal length) > 0.5 (1).
+ 21. Extent of median preorbital plate contact: short (0); long, measured as the ratio of (contact length)/ (PrO parasagittal length) > 0.5 (1).
 > Carr (1991), Character 19; Carr and Hlavin (2010), Character 19; Rücklin *et al*. (2015), Character 19; Zhu Y *et al*. (2016), Character 19; Jobbins *et al*. (2022, 2024), Character 19; Xue *et al*. (2025), Character 19.
 
 > - In those taxa that the preorbital plates are seperated, this character is scored as 'not applicable'.
@@ -100,106 +98,130 @@
 
 > - The coding of *Panjiangosteus eurycephala* is -.
 
- 34. Postorbital dermal process; negligible or absent (0); present (1).
+ 22. Preorbital plates show an embayment for insertion of pineal or rostropineal plate: no, or very shallow (0); yes, very deep (1).
+> Johnson *et al*. (2000), Character 1; Dupret *et al*. (2009), Character 9; Dupret *et al*. (2017), Character 9; Zhu *et al*. (2010), Character 9; Xue *et al*. (2025), Character 56.
+
+> - In those taxa that the preorbital plates are sperated by pineal of rostropineal plate, this character is scored "as yes, very deep (1)".
+
+ 23. Preorbital plates forming part of orbital margin: yes (0); no (1).
+> Dupret *et al*. (2009), Character 27; Dupret *et al*. (2017), Character 27; Zhu *et al*. (2010), Character 27; Xue *et al*. (2025), Character 74.
+
+ 24. Postorbital dermal process; negligible or absent (0); present (1).
 > Carr (1991), Character 34; Lelièvre (1995), character 21, modified; Carr and Hlavin (2010), Character 34; Rücklin *et al*. (2015), Character 34; Zhu Y *et al*. (2016), Character 34; Jobbins *et al*. (2022, 2024), Character 34; Xue *et al*. (2025), Character 34.
 
-> - The coding of *Panjiangosteus eurycephala* is 0.
+ 25. Development of the postorbital process of the postorbital plate: moderately developed (0); highly developed, defined as the postorbital process composing one-quarter of the orbit (1).
+> Zhu Y *et al*. (2016), Character 103; Xue *et al*. (2025), Character 47.
 
+> - In those taxa that the postorbital plate is asbent, this character is scored as 'not applicable'.
 
-  
- 28. Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes) / (distance between pineal and paired condyles): small (r < 0.2)(0); intermediate (0.2 < r < 0.5) (1); large (r > 0.5)(2).
-> Carr (1991), Character 28; Carr and Hlavin (2010), Character 28; Rücklin *et al*. (2015), Character 28; Zhu Y *et al*. (2016), Character 28; Jobbins *et al*. (2022, 2024), Character 28; Xue *et al*. (submitted), Character 28.
+ 26. Length ratio for the external longitudinal of the preorbital and central plates (r = PrO/C): subequal, i.e. 0.75 < r < 1.25 (0); preorbital plate longer, i.e. r > 1.25 (1); central plate longer, i.e. r < 0.75 (2).
+> Carr (1991), Character 15; Carr and Hlavin (2010), Character 15; Rücklin *et al*. (2015), Character 15; Zhu Y *et al*. (2016), Character 15; Jobbins *et al*. (2022, 2024), Character 15; Xue *et al*. (2025), Character 15.
 
->  - The orginal definition of this character in Carr (1991) is " Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes)/ (distance between pineal and paired condyles): small (0); intermediate (1); large (2)." However, there was no value to define these three states. Here, we complement it as "small (r < 0.2)(0); intermediate (0.2 < r < 0.5) (1); large (r > 0.5)(2)."
+ 27. Width of the central plate at its contact with the pineal plate: central plate tapers anteriorly to contact (0); central plate expands laterally to produce a transverse anterior border (1).
+> Carr (1991), Character 22; Carr and Hlavin (2010), Character 22; Rücklin *et al*. (2015), Character 22; Zhu Y *et al*. (2016), Character 22; Jobbins *et al*. (2022, 2024), Character 22; Xue *et al*. (2025), Character 22.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+> - This character is determined by the anterterior margin of central plate, although the central plate is not contacted with pineal plate. 
 
+ 28. Postorbital plate embayment of central plate: absent (0); shallow (1); developed (2).
+> Carr (1991), Character 20; Carr and Hlavin (2010), Character 20; Rücklin *et al*. (2015), Character 20; Zhu Y *et al*. (2016), Character 20; Jobbins *et al*. (2022, 2024), Character 20; Xue *et al*. (2025), Character 20.
 
-  13. Preorbital plate embayment of central plate: absent (0); shallow (1); developed (2).
+ 29. Preorbital plate embayment of central plate: absent (0); shallow (1); developed (2).
 > Carr (1991), Character 13; Lelièvre (1991), character 16; Carr and Hlavin (2010), Character 13; Rücklin *et al*. (2015), Character 13; Zhu Y *et al*. (2016), Character 13; Jobbins *et al*. (2022, 2024), Character 13; Dupret *et al*. (2009, 2017), Character 20, modified; Xue *et al*. (2025), Character 13.
 
 > - Dupret *et al*. (2009, 2017)：Indentation of posterior edge of preorbital plates on anterior edge of central plates: absent (0); present (1).
 
 > - In those taxa that the preorbital plate is not contacted with the central plate, this character is scored as 'not applicable'.
 
-> - The coding of *Panjiangosteus eurycephala* is 0.
-
-  20. Postorbital plate embayment of central plate: absent (0); shallow (1); developed (2).
-> Carr (1991), Character 20; Carr and Hlavin (2010), Character 20; Rücklin *et al*. (2015), Character 20; Zhu Y *et al*. (2016), Character 20; Jobbins *et al*. (2022, 2024), Character 20; Xue *et al*. (2025), Character 20.
-
-> - The coding of *Panjiangosteus eurycephala* is 0.
- 
- 14. Paranuchal plate embayment of central plate: absent (0); shallow (1); developed (2).
+ 30. Paranuchal plate embayment of central plate: absent (0); shallow (1); developed (2).
 > Carr (1991), Character 14; Carr and Hlavin (2010), Character 14; Rücklin *et al*. (2015), Character 14; Zhu Y *et al*. (2016), Character 14; Jobbins *et al*. (2022, 2024), Characters 14; Xue *et al*. (2025), Character 14. 
 
 > - The paranuchal plate embayment is determined by formation of the lateral lobe of the central plate, and not the posterior lobe.
 
+ 31. Central plates: fused into ‘centronuchal’ plate (0); individulized paired elements (1).
+> Dupret *et al*. (2009), Character 17; Dupret *et al*. (2017), Character 17; Zhu *et al*. (2010), Character 17; Xue *et al*. (2025), Character 61.
+
+> - **Character 79 in "early gnathostome phylogeny github".** 79. Single median element carrying the central, middle and posterior pit line: (0) absent; (1) present.
+>  -  Single midline bone is present in *Entelognathus*, *Wuttagoonaspis*, and phyllolepida.
+
+ 32. Nuchal plate separating central plates: no (0); yes (1).
+> Johnson *et al*. (2000), Character 6; Dupret *et al*. (2009), Character 25; Dupret *et al*. (2017), Character 25; Zhu *et al*. (2010), Character 25; Xue *et al*. (2025), Character 66.
+
+ 33. Midline contact between paired central plates: straight (0); sinuous (1).
+> Dupret *et al*. (2009), Character 18; Dupret *et al*. (2017), Character 18; Zhu *et al*. (2010), Character 18; Xue *et al*. (2025), Character 62.
+
+> - In those taxa that the central plates are separated by nuchal plate, this character is scored as 'not applicable'.
+> - **Character 139 in "early gnathostome phylogeny github".**  Suture between paired skull roofing bones (centrals of placoderms postparietals of osteichthyans): (0) straight; (1) sinusoidal. 
+
+ 34. Contact between pineal (or rostropineal) and central plates: absent (0); present (1).
+> Dupret *et al*. (2009), Character 19; Dupret *et al*. (2017), Character 19; Zhu *et al*. (2010), Character 19; Xue *et al*. (2025), Character 63.
+
+ 35. Contact between central and preorbital plates: present (0); absent (1).
+> Johnson *et al*. (2000), Character 20; Dupret *et al*. (2009), Character 21; Dupret *et al*. (2017), Character 21; Zhu *et al*. (2010), Character 21; Xue *et al*. (2025), Character 64.
+
+ 36. Central plate forms part of the orbital margin: absent (0); present (1).
+> Modified from Dupret *et al*. (2009), Character 26; Dupret *et al*. (2017), Character 26; Zhu *et al*. (2010), Character 26; Xue *et al*. (2025), Character 67; Pan *et al*. (2015), Character 13.
+
 > - The coding of *Panjiangosteus eurycephala* is 0.
 
- 15. Length ratio for the external longitudinal of the preorbital and central plates (r = PrO/C): subequal, i.e. 0.75 < r < 1.25 (0); preorbital plate longer, i.e. r > 1.25 (1); central plate longer, i.e. r < 0.75 (2).
-> Carr (1991), Character 15; Carr and Hlavin (2010), Character 15; Rücklin *et al*. (2015), Character 15; Zhu Y *et al*. (2016), Character 15; Jobbins *et al*. (2022, 2024), Character 15; Xue *et al*. (2025), Character 15.
+ 37. Central plate length/skull roof length ratio (LC/LSR; from anterior edge of preorbital plates to posterior-most edge of skull roof): LC/LSR < 45% (0); LC/LSR ≥ 45% (1).
+> Johnson *et al*. (2000), Character 7; Dupret *et al*. (2009), Character 58; Dupret *et al*. (2017), Character 58; Zhu *et al*. (2010), Character 58; Xue *et al*. (2025), Character 72.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 21. Length of the central plate contact with the nuchal plate: short (0); long, measured as greater than half the length from the nuchal anteromedian point to the posterolateral corner of the nuchal plate (1).
-> Carr (1991), Character 21; Carr and Hlavin (2010), Character 21; Rücklin *et al*. (2015), Character 21; Zhu Y *et al*. (2016), Character 21; Jobbins *et al*. (2022, 2024), Character 21; Xue *et al*. (2025), Character 21.
-
-> - In those taxa that the nuchal plate seperates the central plates or the nuchal plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
-
-> - The coding of *Panjiangosteus eurycephala* is -.
-
- 22. Width of the central plate at its contact with the pineal plate: central plate tapers anteriorly to contact (0); central plate expands laterally to produce a transverse anterior border (1).
-> Carr (1991), Character 22; Carr and Hlavin (2010), Character 22; Rücklin *et al*. (2015), Character 22; Zhu Y *et al*. (2016), Character 22; Jobbins *et al*. (2022, 2024), Character 22; Xue *et al*. (2025), Character 22.
-
-> - This character is determined by the anterterior margin of central plate, although the central plate is not contacted with pineal plate. 
-
-> - The coding of *Panjiangosteus eurycephala* is 0.
-
- 23. Marginal plate in contact with the central plate: absent (0); present (1).
+ 38. Marginal plate in contact with the central plate: absent (0); present (1).
 > Lelièvre (1988), Character 5; Johnson *et al*. (2000), Character 5; Carr (1991), Character 23, modified; Lelièvre (1991), character 18; Carr and Hlavin (2010), Character 23; Rücklin *et al*. (2015), Character 23; Zhu Y *et al*. (2016), Character 23; Dupret *et al*. (2009, 2017), Character 22; Jobbins *et al*. (2022, 2024), Character 23; Xue *et al*. (2025), Character 23.
 
 > - This character seems redundant with Character 23 of Dupret *et al*. (2009, 2017) 'Contact between postorbital and paranuchal plates: present (0); absent (1)'. **Check codings in the matrix.**
 
 > - **Character 102 in "early gnathostome phylogeny github".**
 
-> - The coding of *Panjiangosteus eurycephala* is 1.
-
- 24. Extent of marginal plate along the lateral border of the skull roof: less than half the length from the postorbital process to the posterolateral corner of the skull roof (0); greater than half the length (1).
+ 39. Extent of marginal plate along the lateral border of the skull roof: less than half the length from the postorbital process to the posterolateral corner of the skull roof (0); greater than half the length (1).
 > Carr (1991), Character 24; Carr and Hlavin (2010), Character 24; Rücklin *et al*. (2015), Character 24; Zhu Y *et al*. (2016), Character 24; Jobbins *et al*. (2022, 2024), Character 24; Xue *et al*. (2025), Character 24.
 
 > - The coding of *Panjiangosteus eurycephala* is 0.
 
- 25. Marginal plate forms part of orbit border: absent (0); present (1).
+ 40. Marginal plate forms part of orbit border: absent (0); present (1).
 > Dennis and Miles (1979b), Character 26; Carr (1991), Character 25; Carr and Hlavin (2010), Character 25; Rücklin *et al*. (2015), Character 25; Zhu Y *et al*. (2016), Character 25; Jobbins *et al*. (2022, 2024), Character 25; Xue *et al*. (2025), Character 25.
 
-> - The coding of *Panjiangosteus eurycephala* is 0.  
-  
- 10. Shape of the external anterior nuchal border: straight (0); convex (1); concave (2).
+> - The coding of *Panjiangosteus eurycephala* is 0.
+
+ 41. Length of the central plate contact with the nuchal plate: short (0); long, measured as greater than half the length from the nuchal anteromedian point to the posterolateral corner of the nuchal plate (1).
+> Carr (1991), Character 21; Carr and Hlavin (2010), Character 21; Rücklin *et al*. (2015), Character 21; Zhu Y *et al*. (2016), Character 21; Jobbins *et al*. (2022, 2024), Character 21; Xue *et al*. (2025), Character 21.
+
+> - In those taxa that the nuchal plate seperates the central plates or the nuchal plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
+
+ 42. Postmarginal plate: absent (0); present (1).
+> Dupret *et al*. (2009), Character 32; Dupret *et al*. (2017), Character 32; Zhu *et al*. (2010), Character 32； Xue *et al*. (2025), Character 75.
+
+> - **Character 98 in "early gnathostome phylogeny github".**  Series of bones lateral to supratemporal (placoderm marginal): (0) absent; (1) single bone; (2) two bones. 
+
+ 43. Nuchal plate: absent (0); present (1).
+> Dupret *et al*. (2009), Character 24; Dupret *et al*. (2017), Character 24; Zhu *et al*. (2010), Character 24; Xue *et al*. (2025), Character 65.
+
+ 44. Contact between pineal and nuchal plates: absent (0); present (1).
+> Dupret *et al*. (2009), Character 34; Dupret *et al*. (2017), Character 34; Zhu *et al*. (2010), Character 34；Xue *et al*. (2025), Character 76.
+
+> - **Character 60 in "early gnathostome phylogeny github".** Unpaired median skull roofing bone in contact with unpaired plate bearing pineal eminence or foramen: (0) absent; (1) present.
+
+> - Castiello (2018): This character is a new formulation of Dupret et al. (2009) character 34. It is about the condition presents in many placoderms where a median impaired bone (nuchal plate) is in contact with the unpaired bone bearing the pineal foramen or eminence. This is opposed to some other placoderms and osteichthyans where the median impaired bone (extrascapular in osteichthyans) is not in contact with the pineal plate so that the preorbitals (parietals in sarcopterygian,frontal in actinopterygian) are in contact.
+
+ 45. Length/width ratio (L/W) of nuchal plate: L/W ≤ 1.5 (0); L/W > 1.5(1).
+> Dupret *et al*. (2009), Character 59; Dupret *et al*. (2017), Character 59; Zhu *et al*. (2010), Character 59; Xue *et al*. (2025), Character 73.
+
+ 46. Shape of the external anterior nuchal border: straight (0); convex (1); concave (2).
 > Carr (1991), Character 10; Lelièvre (1995), character 9, modified; Carr and Hlavin (2010), Character 10; Rücklin *et al*. (2015), Character 10; Zhu Y *et al*. (2016), Character 10; Dupret *et al*. (2009, 2017), Character 33, modified; Jobbins *et al*. (2022, 2024), Character 10; Xue *et al*. (2025), Character 10.
 
 > - Dupret *et al*. (2009, 2017): Contact suture between nuchal and central plates (external side): nuchal plate indenting central plates (0); straight contact (1).
 
 > - In those taxa that the nuchal plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
-
-> - The coding of *Panjiangosteus eurycephala* is 1.
  
- 11. Shape of the posterior nuchal border: straight (0); convex (1); concave (2).
+ 47. Shape of the posterior nuchal border: straight (0); convex (1); concave (2).
 > Carr (1991), Character 11; Carr and Hlavin (2010), Character 11; Rücklin *et al*. (2015), Character 11; Zhu Y *et al*. (2016), Character 11; Jobbins *et al*. (2022, 2024), Character 11; Xue *et al*. (2025), Character 11.
 
 > - In those taxa that the nuchal plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
 
-> - The coding of *Panjiangosteus eurycephala* is 2.
-   
-  1. Nuchal plate with posterodorsally placed paired pits: absent (0), present (1).
-> Carr (1991), Character 1; Lelièvre (1995), character 7, modified; Carr and Hlavin (2010), Character 1; Rücklin *et al*. (2015), Character 1; Zhu Y *et al*. (2016), Character 1; Jobbins *et al*. (2022, 2024), Character 1; Xue *et al*. (2025), Character 1.
+ 48. Posterior lateral shape of the nuchal plate: nuchal straight, not expanded laterally (0); nuchal trapezoid, expanded laterally (1).
+> Gardiner and Miles (1990), Character 22.36, modified; Zhu Y *et al*. (2016), Character, 105; Xue *et al*. (2025), Character 49.
 
-> - Lelièvre (1995): Position of the levator muscle pits on the nuchal plate: posterdorsal (0); posterventral (1); ventral (2).
-> - f.lv (fossa on the nuchal plate for levator muscles of the head) of Goujet (1984).
-> - present on the paranuchal plate in *Holonema*.
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 29. Nuchal and paranuchal plates elongate: absent (0); present, associated with an elongation of the endolymphatic canal (1).
+ 49. Nuchal and paranuchal plates elongate: absent (0); present, associated with an elongation of the endolymphatic canal (1).
 > Lelièvre (1984b); Carr (1991), Character 29, modified; Lelièvre (1995), character 11, modified;  Carr and Hlavin (2010), Character 29; Rücklin *et al*. (2015), Character 29; Zhu Y *et al*. (2016), Character 29; Jobbins *et al*. (2022, 2024), Character 29; Xue *et al*. (2025), Character 29.
 
 > - Carr and Hlavin (2010): "Gardiner & Miles (1994) pointed out correctly that, in their analysis, only *Homostius* possesses this feature. *Buchanosteus confertituberculatus*, previously considered to have this feature by Carr (1991), is noted here to lack this character state (see also Lelièvre, 1984b). Although representing an autapomorphy of *Homostius* in the present study, this feature is potentially useful in considering other homostiids, e.g. *Tityosteus* Gross,1960 (Lelièvre, 1988, fig. 4A; refer to Denison 1978, fig. 51)."
@@ -208,18 +230,25 @@
 
 > - In *Baringaspis dineleyi*, antarctaspids, and wuttagoonaspids, the nuchal plate is elongated and separates central plates, but the paranuchal plate is normal. **revised the character: The occipital dermal plate elongate:absent (0); present, associated with an elongation of the endolymphatic canal (1); Nuchal plate elongate: absent (0); present (1).**
 
-> - The coding of *Panjiangosteus eurycephala* is 0.
-
-   30. Postnuchal process of paranuchal plate on dermal surface: absent (0); present (1), indicated by the presence of a postnuchal process on the dermal surface of the skull roof.
+ 50. Postnuchal process of paranuchal plate on dermal surface: absent (0); present (1), indicated by the presence of a postnuchal process on the dermal surface of the skull roof.
 > Dennis and Miles (1979b), Character 8, modified; Carr (1991), Character 30; Lelièvre (1995), character 6, modified; Carr and Hlavin (2010), Character 30; Rücklin *et al*. (2015), Character 30; Zhu Y *et al*. (2016), Character 30; Dupret *et al*. (2009, 2017), Character 38, modified; Jobbins *et al*. (2022, 2024), Character 30; Xue *et al*. (2025), Character 30.
 
 > Dupret *et al*. (2009, 2017): Posterior process of paranuchal plate behind nuchal plate (external side): absent (0); present (1).
 
 >  - **Character 144 in "early gnathostome phylogeny github".**
 
-> - The coding of *Panjiangosteus eurycephala* is 0.
+ 51. Number of paranuchal plates: one pair (0); two pairs (1).
+> Dupret *et al*. (2009), Character 35; Dupret *et al*. (2017), Character 35; Zhu *et al*. (2010), Character 35; Xue *et al*. (2025), Character 68.
 
- 31. Position of the central/paranuchal/marginal or postorbital triple point (plate junction) relative to the paranuchal/central/nuchal triple point: C/PNu/M or PtO triple point anterior to PNu/C/Nu (0); posterior to PNu/C/Nu (1).
+> - **Character 78 in "early gnathostome phylogeny github".**
+
+ 52. Posterolateral edge of paranuchal plates: convex (0); concave (1).
+> Dupret *et al*. (2009), Character 37; Dupret *et al*. (2017), Character 37; Zhu *et al*. (2010), Character 37; Xue *et al*. (2025), Character 69.
+
+ 53. Position of external foramen for endolymphatic duct: very forwardly positioned from posterior edge of paranuchal plate, or on anterior paranuchal plate for Petalichthyida (0); near the posterior edge of paranuchal plate (1).
+> Dupret *et al*. (2009), Character 39; Dupret *et al*. (2017), Character 39; Zhu *et al*. (2010), Character 39; Xue *et al*. (2025), Character 70.
+
+ 54. Position of the central/paranuchal/marginal or postorbital triple point (plate junction) relative to the paranuchal/central/nuchal triple point: C/PNu/M or PtO triple point anterior to PNu/C/Nu (0); posterior to PNu/C/Nu (1).
 > Carr (1991), Character 31, modified; Carr and Hlavin (2010), Character 31; Rücklin *et al*. (2015), Character 31; Zhu Y *et al*. (2016), Character 31; Jobbins *et al*. (2022, 2024), Character 31; Xue *et al*. (2025), Character 31.
 
 > Carr and Hlavin (2010): "Gardiner & Miles (1994) noted the error in the transposition of this character in Carr (1991). Only *Homostius*
@@ -227,9 +256,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > In those taxa that the nuchal plate is absent such as in phyllolepids, this character is scored as 'absent'.
 
-> - The coding of *Panjiangosteus eurycephala* is 0.
-
- 32. Position of preorbital/postorbital/central triple point relative to posterior triple point (PtO/M/C or PtO/PNu/C): parallels the midline or with the anterior point lateral (0); posterior point lateral to anterior point (1).
+ 55. Position of preorbital/postorbital/central triple point relative to posterior triple point (PtO/M/C or PtO/PNu/C): parallels the midline or with the anterior point lateral (0); posterior point lateral to anterior point (1).
 > Carr (1991), Character 32;  Lelièvre (1991), character 12, modified; Carr and Hlavin (2010), Character 32; Rücklin *et al*. (2015), Character 32; Zhu Y *et al*. (2016), Character 32; Jobbins *et al*. (2022, 2024), Character 32; Xue *et al*. (2025), Character 32.
 
 > - In those taxa that the central plate is not contacted with the preorbital plate, this character is scored as 'not applicable'. 
@@ -237,66 +264,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > - Lelièvre (1991) suggested that the definition of the character 32 of Carr (1991) is complex. The simply definition is Paranuchal plate process onto the central plate determing a lateral lobe: absent (0); present (1).
 
 > - The coding of *Panjiangosteus eurycephala* is -.
-  
- 2. Lateral consolidated arch: absent or greatly reduced (0); present, forming a prominent crest (1).
->  Carr (1991), Character 2; Carr and Hlavin (2010), Character 2; Rücklin *et al*. (2015), Character 2; Zhu Y *et al*. (2016), Character 2; Jobbins *et al*. (2022, 2024), Character 2; Xue *et al*. (2025), Character 2.
- 
-> - The previous definition 'Posterolateral extension of the lateral consolidated arch extends as a distinct ridge or thickening onto the postmarginal plate, or to the skull roof edge if the postmarginal plate is absent: absent (0); present (1)' did not summarize the condition in plesiomorphic brachythoracids well, in which the lateral consolidated arch is separated from the inframarginal crista, exemplified in *Exutaspis*. or the lateral consolidated arch is absent but the inframarginal crista is present, as in *Holonema*. 
 
-> - Xue et al. (2025) revise the definition of this character to cover all situations, together with the two additional characters (Characters 173 and 174).
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 3. Triangular depression posterior to supraorbital vault: absent (0); present (1).
-> Dennis and Miles (1979b), Character 14, in part; Carr (1991), Character 3; Lelièvre (1995), character 24; Carr and Hlavin (2010), Character 3; Rücklin *et al*. (2016), Character 3; Zhu Y *et al*. (2016), Character 3; Jobbins *et al*. (2022, 2024), Character 3; Xue *et al*. (2025), Character 3.
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 4. Neurocranial process or thickening: absent (0); thickening (1); distinct process (2).
-> Dennis and Miles (1979b), Character 16, in part; Carr (1991), Character 4; Carr and Hlavin (2010), Character 4; Rücklin *et al*. (2016), Character 4; Zhu Y *et al*. (2016), Character 4; Jobbins *et al*. (2022, 2024), Character 4; Xue *et al*. (2025), Character 4.
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-> - In some paper, neurocranial process is also referred to as the ventral postocular process or postocular crest.
-
-> - The postocular crest of skull roof (Young, 1979) is present in many plesiomorphic arthrodires, such as *Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2), but is absent in eubrachythoracids. In contrast, many eubrachythoracids posssess dermal postorbital processes, but lacking the postocular crest.
-
-> - The postocular crest of skull roof is positioned posterior to the supraorbital vault on the visceral surface of skull roof, e.g.*Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2).     
-
-> - The postocular crest is also present on the suborbital plate (Dennis and Miles, 1979; Rucklin, 2011). Note the same term used for a structure of the suborbital plate. Dennis and Miles (1979): "Suborbital plate with internal laminae (Figs 3, 11B). This plate (P50937) is structurally the same as that described for *Harrytoombsia*, except for the postocular crista which is proportionally much narrower and less robust. However, it does broaden anteriorly to form a substantial subocular crista. Also, the overlap area on the dorsal surface (PN.oa, Fig. 11B) receives the postnasal plate and not the preorbital lamina of the preorbital plate as is the case with *Harrytoombsia*". Rucklin (2011): "The visceral surface bears fused sub- and postocular crista, which form the ventral and posterior borders of the orbital vault. The subocular crista broadens anteriorly and is 5 mm wide lateromedially (Text-fig. 6C–D)."
-
- 12. Nuchal thickening: discontinuous with the lateral thickening associated with the cranio-thoracic dermal articulation (0); continuous thickening across the posterior skull roof (1).
-> Lelièvre (1988); Carr (1991), Character 12; Lelièvre (1995), character 10, modified; Carr and Hlavin (2010), Character 12; Rücklin *et al*. (2015), Character 12; Zhu Y *et al*. (2016), Character 12; Jobbins *et al*. (2022, 2024), Character 12; Xue *et al*. (2025), Character 12.
-
-> - In those taxa that the nuchal thickening is absent such as in phyllolepids, this character is scored as 'not applicable'. 
-
-> - Lelièvre (1995): Posterior nuchal thickening: present only under the paranuchal visceral surface (it corresponds to the development of the dermal articulation)(0), developed under all the occipital region of the skull-roof(1).
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
-  35. Skull roof and thoracic armour articulation: articulation medial (0); articulation laterally displaced (1). 
->  Goujet (1984); Carr and Hlavin (2010), Character 90; Rücklin *et al*. (2015), Character 90; Zhu Y *et al*. (2016), Character 90; Dupret *et al*. (2009, 2017), Character 41; Jobbins *et al*. (2022, 2024), Character 90; Xue *et al*. (2025), Character 35.
-
-> Dupret *et al*. (2009, 2017): Articular dermal condyle of anterior dorsolateral plates:close together (0); further apart (1).
-
-> - The coding of *Panjiangosteus eurycephala* is 0.
-
- 36. Length ratio r1 representing the position of the posterolateral corner of the skull roof,: r1 < 0.45 (0); 0.45 ≤ r1 ≤ 0.58 (1); r1 > 0.58 (2).
-> Zhu Y *et al*. (2016), Character 92; Xue *et al*. (2025), Character 36.
-
-> - This ratio (r1 = c/b) is measured as the ratio of posterior sensory line junction–fossa distance (c) divided by the anterior sensory line junction–fossa distance (b)
-
-> - The coding of *Panjiangosteus eurycephala* is 2.
-
- 37. Length ratio r2 representing the extension of the anterior portion of the skull roof: r2 < 0.3 (0); 0.3 ≤ r2 ≤ 0.5 (1); r2 > 0.5 (2).
-> Zhu Y *et al*. (2016), Character 93; Xue *et al*. (2025), Character 37.
-
-> - In those taxa lacking the pineal plate such as phyllolepids, this character is scored as 'not applicable'.
-
-> - This ratio (r2 = d/b) is measured as the ratio of the pineal foramen–anterior sensory line junction (d) divided by the anterior sensory line junction–fossa distance (b).
-
-> - The coding of *Panjiangosteus eurycephala* is 0.
-
- 38. In forms with a marginal - central plate contact, position of the junction of the postorbital, marginal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
+ 56. In forms with a marginal - central plate contact, position of the junction of the postorbital, marginal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 > Long (1987), Character 7, modified; Carr and Hlavin (2010), Character 94; Rücklin *et al*. (2015), Character 94; Zhu Y *et al*. (2016), Character 94; Jobbins *et al*. (2022, 2024), Character 94; Xue *et al*. (2025), Character 38.
 
 > - In those taxa that the nuchal plate is absent such as phyllolepids, this character is scored as 'not applicable'.
@@ -305,44 +274,92 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of *Panjiangosteus eurycephala* is 1.
 
- 39. In forms with a marginal – central plate contact, position of the juction of the marginal, paranuchal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
+ 57. In forms with a marginal – central plate contact, position of the juction of the marginal, paranuchal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 > Long 1987, Character 7, modified; Carr and Hlavin (2010), Character 95; Rücklin *et al*. (2015), Character 95; Zhu Y *et al*. (2016), Character 95; Jobbins *et al*. (2022, 2024), Character 95; Xue *et al*. (2025), Character 39.
 
 > - In those taxa that the nuchal plate is absent such as phyllolepids, this character is scored as 'not applicable'. 
 
-> - This character is contingent on Character 23.
+> - This character is contingent on Character .
 
-> - The coding of *Panjiangosteus eurycephala* is 1.
-
- 40. In forms without a marginal – central plate contact, position of the junction between the postorbital, paranuchal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
+ 58. In forms without a marginal – central plate contact, position of the junction between the postorbital, paranuchal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 > Long 1987, Character 7, modified; Carr and Hlavin (2010), Character 96; Rücklin *et al*. (2015), Character 96; Zhu Y *et al*. (2016), Character 96; Jobbins *et al*. (2022, 2024), Character 96; Xue *et al*. (2025), Character 40.
 
 > - In those taxa that the nuchal plate is absent such as phyllolepids, this character is scored as 'not applicable'. 
 
-> - This character is contingent on Character 23.
+> - This character is contingent on Character .
 
-> - The coding of *Panjiangosteus eurycephala* is -.
-
- 41. Paired pits on the internal side of the nuchal plate separated by a median septum that is continuous with the median posterior process: absent (0); present (1).
+ 59. Paired pits on the internal side of the nuchal plate separated by a median septum that is continuous with the median posterior process: absent (0); present (1).
 > Miles & Dennis (1979), Character 11; Dennis & Miles (1981), Character 10； Carr and Hlavin (2010), Character 97; Rücklin *et al*. (2015), Character 97; Zhu Y *et al*. (2016), Character 97; Jobbins *et al*. (2022, 2024), Character 97; Xue *et al*. (2025), Character 41.
 
 > - In those taxa that the nuchal plate is absent such as phyllolepids, this character is scored as 'not applicable'. 
 
 >  - **Character 147 in "early gnathostome phylogeny github".**  Paired pits on ventral surface of nuchal or median extrascapular plate: (0) absent; (1) present. 
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
+ 60. Nuchal plate with posterodorsally placed paired pits: absent (0), present (1).
+> Carr (1991), Character 1; Lelièvre (1995), character 7, modified; Carr and Hlavin (2010), Character 1; Rücklin *et al*. (2015), Character 1; Zhu Y *et al*. (2016), Character 1; Jobbins *et al*. (2022, 2024), Character 1; Xue *et al*. (2025), Character 1.
 
- 42. Presence of a supraorbital vault intimately associated with the lateral consolidated arch: absent (0); present (1).
+> - Lelièvre (1995): Position of the levator muscle pits on the nuchal plate: posterdorsal (0); posterventral (1); ventral (2).
+> - f.lv (fossa on the nuchal plate for levator muscles of the head) of Goujet (1984).
+> - present on the paranuchal plate in *Holonema*.
+
+ 61. Median ridge on the visceral surface of the nuchal plate, corresponding to the median depression on the occipital region of the neurocranium: absent (0); present (1).
+> Zhu Y *et al*. (2016), Character 106; Xue *et al*. (2025), Character 50.
+
+ 62. Position of the paired nuchal pits: anteriorly positioned, defined by position anterior to or on the transverse nuchal thickening (0); posteriorly positioned, defined by position posterior to the transverse nuchal thickening (1).
+> Zhu Y *et al*. (2016), Character 107; Xue *et al*. (2025), Character 51.
+
+> - This character is contingent on Character 41.
+
+ 63. Skull roof fenestra: absent (0); present (1).
+> Zhu Y *et al*. (2016), Character 109; Xue *et al*. (2025), Character 53.
+
+ 64. Length ratio r1 representing the position of the posterolateral corner of the skull roof,: r1 < 0.45 (0); 0.45 ≤ r1 ≤ 0.58 (1); r1 > 0.58 (2).
+> Zhu Y *et al*. (2016), Character 92; Xue *et al*. (2025), Character 36.
+
+> - This ratio (r1 = c/b) is measured as the ratio of posterior sensory line junction–fossa distance (c) divided by the anterior sensory line junction–fossa distance (b)
+
+ 65. Length ratio r2 representing the extension of the anterior portion of the skull roof: r2 < 0.3 (0); 0.3 ≤ r2 ≤ 0.5 (1); r2 > 0.5 (2).
+> Zhu Y *et al*. (2016), Character 93; Xue *et al*. (2025), Character 37.
+
+> - In those taxa lacking the pineal plate such as phyllolepids, this character is scored as 'not applicable'.
+
+> - This ratio (r2 = d/b) is measured as the ratio of the pineal foramen–anterior sensory line junction (d) divided by the anterior sensory line junction–fossa distance (b).
+
+ 66. Lateral consolidated arch: absent or greatly reduced (0); present, forming a prominent crest (1).
+>  Carr (1991), Character 2; Carr and Hlavin (2010), Character 2; Rücklin *et al*. (2015), Character 2; Zhu Y *et al*. (2016), Character 2; Jobbins *et al*. (2022, 2024), Character 2; Xue *et al*. (2025), Character 2.
+ 
+> - The previous definition 'Posterolateral extension of the lateral consolidated arch extends as a distinct ridge or thickening onto the postmarginal plate, or to the skull roof edge if the postmarginal plate is absent: absent (0); present (1)' did not summarize the condition in plesiomorphic brachythoracids well, in which the lateral consolidated arch is separated from the inframarginal crista, exemplified in *Exutaspis*. or the lateral consolidated arch is absent but the inframarginal crista is present, as in *Holonema*. 
+
+> - Xue et al. (2025) revise the definition of this character to cover all situations, together with the two additional characters (Characters 173 and 174).
+
+ 67. Triangular depression posterior to supraorbital vault: absent (0); present (1).
+> Dennis and Miles (1979b), Character 14, in part; Carr (1991), Character 3; Lelièvre (1995), character 24; Carr and Hlavin (2010), Character 3; Rücklin *et al*. (2016), Character 3; Zhu Y *et al*. (2016), Character 3; Jobbins *et al*. (2022, 2024), Character 3; Xue *et al*. (2025), Character 3.
+
+ 68. Neurocranial process or thickening: absent (0); thickening (1); distinct process (2).
+> Dennis and Miles (1979b), Character 16, in part; Carr (1991), Character 4; Carr and Hlavin (2010), Character 4; Rücklin *et al*. (2016), Character 4; Zhu Y *et al*. (2016), Character 4; Jobbins *et al*. (2022, 2024), Character 4; Xue *et al*. (2025), Character 4.
+
+> - In some paper, neurocranial process is also referred to as the ventral postocular process or postocular crest.
+
+> - The postocular crest of skull roof (Young, 1979) is present in many plesiomorphic arthrodires, such as *Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2), but is absent in eubrachythoracids. In contrast, many eubrachythoracids posssess dermal postorbital processes, but lacking the postocular crest.
+
+> - The postocular crest of skull roof is positioned posterior to the supraorbital vault on the visceral surface of skull roof, e.g.*Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2).     
+
+> - The postocular crest is also present on the suborbital plate (Dennis and Miles, 1979; Rucklin, 2011). Note the same term used for a structure of the suborbital plate. Dennis and Miles (1979): "Suborbital plate with internal laminae (Figs 3, 11B). This plate (P50937) is structurally the same as that described for *Harrytoombsia*, except for the postocular crista which is proportionally much narrower and less robust. However, it does broaden anteriorly to form a substantial subocular crista. Also, the overlap area on the dorsal surface (PN.oa, Fig. 11B) receives the postnasal plate and not the preorbital lamina of the preorbital plate as is the case with *Harrytoombsia*". Rucklin (2011): "The visceral surface bears fused sub- and postocular crista, which form the ventral and posterior borders of the orbital vault. The subocular crista broadens anteriorly and is 5 mm wide lateromedially (Text-fig. 6C–D)."
+
+ 69. Nuchal thickening: discontinuous with the lateral thickening associated with the cranio-thoracic dermal articulation (0); continuous thickening across the posterior skull roof (1).
+> Lelièvre (1988); Carr (1991), Character 12; Lelièvre (1995), character 10, modified; Carr and Hlavin (2010), Character 12; Rücklin *et al*. (2015), Character 12; Zhu Y *et al*. (2016), Character 12; Jobbins *et al*. (2022, 2024), Character 12; Xue *et al*. (2025), Character 12.
+
+> - In those taxa that the nuchal thickening is absent such as in phyllolepids, this character is scored as 'not applicable'. 
+
+> - Lelièvre (1995): Posterior nuchal thickening: present only under the paranuchal visceral surface (it corresponds to the development of the dermal articulation)(0), developed under all the occipital region of the skull-roof(1).
+
+ 70. Presence of a supraorbital vault intimately associated with the lateral consolidated arch: absent (0); present (1).
 > Carr and Hlavin (1991); Carr (2010), Character 98; Rücklin *et al*. (2015), Character 98; Zhu Y *et al*. (2016), Character 98; Jobbins *et al*. (2022, 2024), Character 98; Xue *et al*. (2025), Character 42.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 43. Development of the crista supraethmoidalis at the visceral surface of the skull roof: underdeveloped, absent, or present but not convergent in the midline (0); developed, horizontally across the visceral surface of the skull roof (1).
+ 71. Development of the crista supraethmoidalis at the visceral surface of the skull roof: underdeveloped, absent, or present but not convergent in the midline (0); developed, horizontally across the visceral surface of the skull roof (1).
 > Zhu Y *et al*. (2016), Character 99; Xue *et al*. (2025), Character 43.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 46. Lateral development of the supraorbital vault compared with the breadth of the skull roof at the level immediately behind the supraorbital vault: under developed, indicated by the ratio of the breadth of both sides of the lateral expansion of the supraorbital vaults/the breadth of the skull roof at the level immediately behind the supraorbital vault less than 0.3 (0); developed, indicated by the ratio of the breadth of the lateral expansion of the supraorbital vaults/the breadth of the skull oof larger than 0.3 (1).
+ 72. Lateral development of the supraorbital vault compared with the breadth of the skull roof at the level immediately behind the supraorbital vault: under developed, indicated by the ratio of the breadth of both sides of the lateral expansion of the supraorbital vaults/the breadth of the skull roof at the level immediately behind the supraorbital vault less than 0.3 (0); developed, indicated by the ratio of the breadth of the lateral expansion of the supraorbital vaults/the breadth of the skull oof larger than 0.3 (1).
 > Zhu Y *et al*. (2016), Character 102; Xue *et al*. (2025), Character 46.
 
 > - This definition of the skull roof breadth is to make this character independent of Character 113 (Zhu Y et al. 2016).
@@ -351,172 +368,27 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - **Character 133 in "early gnathostome phylogeny github".**  Skull roof with broad supraorbital vaults: (0) absent; (1) present.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 47. Development of the postorbital process of the postorbital plate: moderately developed (0); highly developed, defined as the postorbital process composing one-quarter of the orbit (1).
-> Zhu Y *et al*. (2016), Character 103; Xue *et al*. (2025), Character 47.
-
-> - In those taxa that the postorbital plate is asbent, this character is scored as 'not applicable'.
-
-> - The coding of *Panjiangosteus eurycephala* is 0.
-
- 48. Position of the anterior end of the endolymphatic duct on the visceral surface of the skull roof, indicating the neurocranial aperture of the endolymphatic duct: anteriorly positioned, defined as positioned anterior to the nuchal thickening (0); posteriorly positioned, on the nuchal thickening (1).
+ 73. Position of the anterior end of the endolymphatic duct on the visceral surface of the skull roof, indicating the neurocranial aperture of the endolymphatic duct: anteriorly positioned, defined as positioned anterior to the nuchal thickening (0); posteriorly positioned, on the nuchal thickening (1).
 > Zhu Y *et al*. (2016), Character 104; Xue *et al*. (2025), Character 48.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
  
- 49. Posterior lateral shape of the nuchal plate: nuchal straight, not expanded laterally (0); nuchal trapezoid, expanded laterally (1).
-> Gardiner and Miles (1990), Character 22.36, modified; Zhu Y *et al*. (2016), Character, 105; Xue *et al*. (2025), Character 49.
+## Neck joint
+ 74. Skull roof and thoracic armour articulation: articulation medial (0); articulation laterally displaced (1). 
+>  Goujet (1984); Carr and Hlavin (2010), Character 90; Rücklin *et al*. (2015), Character 90; Zhu Y *et al*. (2016), Character 90; Dupret *et al*. (2009, 2017), Character 41; Jobbins *et al*. (2022, 2024), Character 90; Xue *et al*. (2025), Character 35.
 
-> - The coding of *Panjiangosteus eurycephala* is 0.
+> Dupret *et al*. (2009, 2017): Articular dermal condyle of anterior dorsolateral plates:close together (0); further apart (1).
 
- 50. Median ridge on the visceral surface of the nuchal plate, corresponding to the median depression on the occipital region of the neurocranium: absent (0); present (1).
-> Zhu Y *et al*. (2016), Character 106; Xue *et al*. (2025), Character 50.
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 51. Position of the paired nuchal pits: anteriorly positioned, defined by position anterior to or on the transverse nuchal thickening (0); posteriorly positioned, defined by position posterior to the transverse nuchal thickening (1).
-> Zhu Y *et al*. (2016), Character 107; Xue *et al*. (2025), Character 51.
-
-> - This character is contingent on Character 41.
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 52. Position of the skull roof and thoracic armour articulation: not close to posterolateral corner of the skull roof (0); close to posterolateral corner of the skull roof (1).
+ 75. Position of the skull roof and thoracic armour articulation: not close to posterolateral corner of the skull roof (0); close to posterolateral corner of the skull roof (1).
 > Zhu Y *et al*. (2016), Character 108; Xue *et al*. (2025), Character 52.
 
 > - This character is contingent on the state 1 of Character 35.
 
-> - The coding of *Panjiangosteus eurycephala* is 0.
 
- 53. Skull roof fenestra: absent (0); present (1).
-> Zhu Y *et al*. (2016), Character 109; Xue *et al*. (2025), Character 53.
-
-> - The coding of *Panjiangosteus eurycephala* is 0.
-
- 56. Preorbital plates show an embayment for insertion of pineal or rostropineal plate: no, or very shallow (0); yes, very deep (1).
-> Johnson *et al*. (2000), Character 1; Dupret *et al*. (2009), Character 9; Dupret *et al*. (2017), Character 9; Zhu *et al*. (2010), Character 9; Xue *et al*. (2025), Character 56.
-
-> - In those taxa that the preorbital plates are sperated by pineal of rostropineal plate, this character is scored "as yes, very deep (1)".
-
-> - The coding of *Panjiangosteus eurycephala* is 1.
-
- 57. Pineal or rostropineal plate fused to skull roof: no fusion (0); fusion (1).
-> Johnson *et al*. (2000), Character 2; Dupret *et al*. (2009), Character 10; Dupret *et al*. (2017), Character 10; Zhu *et al*. (2010), Character 10; Xue *et al*. (2025), Character 57.
-
-> - The coding of *Panjiangosteus eurycephala* is 1.
-
- 58. Postnasal plates fused or not to preorbital plates: fusion (0); no fusion (1).
-> Johnson *et al*. (2000), Character 4; Dupret *et al*. (2009), Character 11; Dupret *et al*. (2017), Character 11; Zhu *et al*. (2010), Character 11; Xue *et al*. (2025), Character 58.
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 59. Position of orbits on skull roof: dorsal (0); lateral (1).
-> Lelièvre (1995), character 23, modified; Dupret *et al*. (2009), Character 12; Dupret *et al*. (2017), Character 12; Zhu *et al*. (2010), Character 12; Xue *et al*. (2025), Character 59.
-
-> - Lelièvre (1995): Position and size of the orbits: samall and anteriorly placed (0); small and laterally placed (1); enlarged and lateral (2).
-
-> - The coding of *Panjiangosteus eurycephala* is 1.
-
- 60. Preorbital plates: separate (0); fused (1).
-> Johnson *et al*. (2000), Character 3; Dupret *et al*. (2009), Character 13; Dupret *et al*. (2017), Character 13; Zhu *et al*. (2010), Character 13; Xue *et al*. (2025), Character 60.
-
-> - The coding of *Panjiangosteus eurycephala* is 0.
-
- 61. Central plates: fused into ‘centronuchal’ plate (0); individulized paired elements (1).
-> Dupret *et al*. (2009), Character 17; Dupret *et al*. (2017), Character 17; Zhu *et al*. (2010), Character 17; Xue *et al*. (2025), Character 61.
-
-> - The coding of *Panjiangosteus eurycephala* is 1.
-> - **Character 79 in "early gnathostome phylogeny github".** 79. Single median element carrying the central, middle and posterior pit line: (0) absent; (1) present.
->  -  Single midline bone is present in *Entelognathus*, *Wuttagoonaspis*, and phyllolepida.
-
- 62. Midline contact between paired central plates: straight (0); sinuous (1).
-> Dupret *et al*. (2009), Character 18; Dupret *et al*. (2017), Character 18; Zhu *et al*. (2010), Character 18; Xue *et al*. (2025), Character 62.
-
-> - In those taxa that the central plates are separated by nuchal plate, this character is scored as 'not applicable'.
-> - **Character 139 in "early gnathostome phylogeny github".**  Suture between paired skull roofing bones (centrals of placoderms postparietals of osteichthyans): (0) straight; (1) sinusoidal. 
-
-> - The coding of *Panjiangosteus eurycephala* is -.
-
- 63. Contact between pineal (or rostropineal) and central plates: absent (0); present (1).
-> Dupret *et al*. (2009), Character 19; Dupret *et al*. (2017), Character 19; Zhu *et al*. (2010), Character 19; Xue *et al*. (2025), Character 63.
-
-> - The coding of *Panjiangosteus eurycephala* is 0.
-
- 64. Contact between central and preorbital plates: present (0); absent (1).
-> Johnson *et al*. (2000), Character 20; Dupret *et al*. (2009), Character 21; Dupret *et al*. (2017), Character 21; Zhu *et al*. (2010), Character 21; Xue *et al*. (2025), Character 64.
-
-> - The coding of *Panjiangosteus eurycephala* is 0.
-
- 65. Nuchal plate: absent (0); present (1).
-> Dupret *et al*. (2009), Character 24; Dupret *et al*. (2017), Character 24; Zhu *et al*. (2010), Character 24; Xue *et al*. (2025), Character 65.
-
-> - The coding of *Panjiangosteus eurycephala* is 1.
-
- 66. Nuchal plate separating central plates: no (0); yes (1).
-> Johnson *et al*. (2000), Character 6; Dupret *et al*. (2009), Character 25; Dupret *et al*. (2017), Character 25; Zhu *et al*. (2010), Character 25; Xue *et al*. (2025), Character 66.
-
-> - The coding of *Panjiangosteus eurycephala* is 1.
-
- 67. Central plate forms part of the orbital margin: absent (0); present (1).
-> Modified from Dupret *et al*. (2009), Character 26; Dupret *et al*. (2017), Character 26; Zhu *et al*. (2010), Character 26; Xue *et al*. (2025), Character 67; Pan *et al*. (2015), Character 13.
-
-> - The coding of *Panjiangosteus eurycephala* is 0.
-
- 68. Number of paranuchal plates: one pair (0); two pairs (1).
-> Dupret *et al*. (2009), Character 35; Dupret *et al*. (2017), Character 35; Zhu *et al*. (2010), Character 35; Xue *et al*. (2025), Character 68.
-
-> - **Character 78 in "early gnathostome phylogeny github".**
-
-> - The coding of *Panjiangosteus eurycephala* is 0.
-
- 69. Posterolateral edge of paranuchal plates: convex (0); concave (1).
-> Dupret *et al*. (2009), Character 37; Dupret *et al*. (2017), Character 37; Zhu *et al*. (2010), Character 37; Xue *et al*. (2025), Character 69.
-
-> - The coding of *Panjiangosteus eurycephala* is 0.
-
- 70. Position of external foramen for endolymphatic duct: very forwardly positioned from posterior edge of paranuchal plate, or on anterior paranuchal plate for Petalichthyida (0); near the posterior edge of paranuchal plate (1).
-> Dupret *et al*. (2009), Character 39; Dupret *et al*. (2017), Character 39; Zhu *et al*. (2010), Character 39; Xue *et al*. (2025), Character 70.
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
-71. Type of exoskeletal dermal craniothoracic articulatuion: actinolepid sliding neck joint (0); ginglymoid phlyctaenioid type (1); ‘spoon-like’ petalichthyid type (2).
+ 76. Type of exoskeletal dermal craniothoracic articulatuion: actinolepid sliding neck joint (0); ginglymoid phlyctaenioid type (1); ‘spoon-like’ petalichthyid type (2).
 > Miles (1973), in part; Dupret *et al*. (2009, 2017), Character 40; Zhu *et al*. (2010), Character 40; Xue *et al*. (2025), Character 71; Fitzpatrick *et al*. (2024), character 122.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
 >
 > - **This character will be replaced by the characters P1 -.**
-
- 72. Central plate length/skull roof length ratio (LC/LSR; from anterior edge of preorbital plates to posterior-most edge of skull roof): LC/LSR < 45% (0); LC/LSR ≥ 45% (1).
-> Johnson *et al*. (2000), Character 7; Dupret *et al*. (2009), Character 58; Dupret *et al*. (2017), Character 58; Zhu *et al*. (2010), Character 58; Xue *et al*. (2025), Character 72.
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 73. Length/width ratio (L/W) of nuchal plate: L/W ≤ 1.5 (0); L/W > 1.5(1).
-> Dupret *et al*. (2009), Character 59; Dupret *et al*. (2017), Character 59; Zhu *et al*. (2010), Character 59; Xue *et al*. (2025), Character 73.
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 74. Preorbital plates forming part of orbital margin: yes (0); no (1).
-> Dupret *et al*. (2009), Character 27; Dupret *et al*. (2017), Character 27; Zhu *et al*. (2010), Character 27; Xue *et al*. (2025), Character 74.
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 75. Postmarginal plate: absent (0); present (1).
-> Dupret *et al*. (2009), Character 32; Dupret *et al*. (2017), Character 32; Zhu *et al*. (2010), Character 32； Xue *et al*. (2025), Character 75.
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
-> - **Character 98 in "early gnathostome phylogeny github".**  Series of bones lateral to supratemporal (placoderm marginal): (0) absent; (1) single bone; (2) two bones. 
-
- 76. Contact between pineal and nuchal plates: absent (0); present (1).
-> Dupret *et al*. (2009), Character 34; Dupret *et al*. (2017), Character 34; Zhu *et al*. (2010), Character 34；Xue *et al*. (2025), Character 76.
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
-> - **Character 60 in "early gnathostome phylogeny github".** Unpaired median skull roofing bone in contact with unpaired plate bearing pineal eminence or foramen: (0) absent; (1) present.
-
-> - Castiello (2018): This character is a new formulation of Dupret et al. (2009) character 34. It is about the condition presents in many placoderms where a median impaired bone (nuchal plate) is in contact with the unpaired bone bearing the pineal foramen or eminence. This is opposed to some other placoderms and osteichthyans where the median impaired bone (extrascapular in osteichthyans) is not in contact with the pineal plate so that the preorbitals (parietals in sarcopterygian,frontal in actinopterygian) are in contact.
 
 ## Thoracic armour
  77. Median dorsal plate with a ventral ridge: a ventral thickening or ridge (0); posterior ridge with a posterior process, not spatulate (1); posterior process posterodorsally spatulate (2).
@@ -1357,6 +1229,13 @@ P. 15. Nostrils enclosed in dermal skull roof: (0) yes; (1) no.
 
 > - King et al. (2017): In eubrachythoracid arthrodires, the snout is assumed to continue in soft tissue, so that the nostrils are not enclosed within dermal bone. Where only the posterior nostril is enclosed, taxa are scored as yes, as are taxa with dorsal nostrils (acanthothoracids, antiarchs etc.)
 
+P.16. Pineal and rostral: (0) contact; (1) separated.
+> Castiello (2018), Character 255; Zhu Y. et al. (2022), Character 97. Cui et al. (2023), Character 97.
+
+> - **Character 95 in "early gnathostome phylogeny github".**
+
+> - This character is present in some petalichthyids, including *Lunaspis*, *Notopetalichthys*, and *Sinopetalichthys*.
+
 P. 17. Postsuborbital plate (Quadratojugal): (0) present; (1) absent.
 > King et al. (2017), Character 276; Castiello (2018), Character 270; Zhu Y. et al. (2022), Character 106; Brazeau et al. (2023), Character 281. Cui et al. (2023), Character 106; Lu et al. (in review), Character 104; Zhu Y. et al. (in review), Character 104.
 
@@ -1970,6 +1849,9 @@ A. 7. Pelvic fins: (0) absent; (1) present.
 
 A. 8. Posterior pit line:(0)separate; (1)meet posteriorly.
 > Pan et al. (2015), Character 4.
+
+A. 9. Pineal plate is part of anterior margin of skull roof: (0) absent, rostral plate forms the anterior margin; (1) present, pineal plate forms anterior margin of skull; (2) absent, preorbital plates form the anterior margin of the skull.
+> Trinajstic et al. (2019), character 9.
 
 A. 10. Upper tooth plates have an anterior dorsal process (state 2 is here defined as when the dorsal process is more than twice the height of the median height of the tooth plate): (0) absent; (1) present short and thick; (2) present high.
 > Modified from character 13 of Johnson and Elliott (1996); Trinajstic et al. (2019), character 10.
