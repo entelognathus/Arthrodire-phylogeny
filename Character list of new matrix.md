@@ -27,6 +27,10 @@ Rostral plate: absent(0); present (1).
  5. Pineal, or rostropineal plates: absent (0); present (1).
 > Modified from Dupret *et al*. (2009), Character 5; Dupret *et al*. (2017), Character 5; Zhu *et al*. (2010), Character 5; Xue *et al*. (2025), Character 54.
 
+ 180.  Transversely divided pineal plate forming anterior and posterior plates: absent (0); present (1). 
+> Fitzpatrick *et al*. (2024), Character 123.
+> - In those taxa without pineal plate, this character is scored as 'not applicable'.
+
  6. Pineal or rostropineal plate fused to skull roof: no fusion (0); fusion (1).
 > Johnson *et al*. (2000), Character 2; Dupret *et al*. (2009), Character 10; Dupret *et al*. (2017), Character 10; Zhu *et al*. (2010), Character 10; Xue *et al*. (2025), Character 57.
 
@@ -79,6 +83,9 @@ Rostral plate: absent(0); present (1).
 
  18. Preorbital plates: separate (0); fused (1).
 > Johnson *et al*. (2000), Character 3; Dupret *et al*. (2009), Character 13; Dupret *et al*. (2017), Character 13; Zhu *et al*. (2010), Character 13; Xue *et al*. (2025), Character 60.
+
+ 179.  Width/length (W/L) ratio of preorbital plates: W/L > 0.5 (0); W/L ≤ 0.5 (1).
+> Dupret *et al*. (2009, 2017), Character 57.
 
  19. Preorbital plate with a dermal preorbital lamina or process: absent (0); present (1).
 > Dennis and Miles (1979b), Character 19; Young (1981), Character 19; Carr (1991), Character 17; Lelièvre (1995), character 20; Carr and Hlavin (2010), Character 17; Rücklin *et al*. (2015), Character 17; Zhu Y *et al*. (2016), Character 17; Jobbins *et al*. (2022, 2024), Character 17; Xue *et al*. (2025), Character 17.
@@ -473,6 +480,15 @@ ridge is present in petalichthyids and some ptyctodontids and absent in other pl
  96. Anterior dorsolateral plate and anterior lateral plate fused into one complex: not fused (0); fused (1).
 > Zhu Y *et al*. (2016), Character 117; Xue *et al*. (2025), Character 96.
 
+181.  Posterior dorsolateral plate: absent (0); present (1).
+> Giles *et al*. (2015), Character 187; Choo *et al*. (2017), Character 308; King *et al*. (2017), Character 436; Castiello (2018), Character 425; Zhu Y. *et al*. (2022), Character 586; Andreev *et al*. (2022), Character 185; Brazeau *et al*. (2023), Character 441; Cui *et al*. (2023), Character 585.
+
+> - The posterior dorsolateral plate is present in almost all arthrodires except most phyllolepids. In phyllolepids, the posterior dorsolateral is only present in *Cowralepis*.
+
+> - The coding of *Rhachiosteus pterygiatus* is 0 ？ 
+
+> - **Character 580 in "early gnathostome phylogeny github".**
+
  113. Length/width ratio (L/W) of posterior dorsolateral plate: L/W > 2 (0), L/W ≤ 2 (1).
 > Johnson *et al*. (2000), Character 36; Dupret *et al*. (2009), Character 62; Dupret *et al*. (2017), Character 62; Zhu *et al*. (2010), Character 62; Xue *et al*. (2025), Character 113.
 
@@ -723,6 +739,32 @@ ridge is present in petalichthyids and some ptyctodontids and absent in other pl
  147. Central canal groove meets supraorbital groove: absent (0); present (1).
 > Carr (1991), Character 76; Carr and Hlavin (2010), Character 76; Rücklin *et al*. (2015), Character 76; Zhu Y *et al*. (2016), Character 76; Jobbins *et al*. (2022, 2024), Character 76; Xue *et al*. (2025), Character 147.
 
+175. Profundus sensory line: absent (0); present (1).
+> Modified from Johnson *et al*. (2000), Character 12.
+
+> - Johnson *et al*. (2000): "A short segment of the profundus sensory line on the anterior part of the preorbital has been recorded in *Heightingtonaspis anglica* and *Kujdanowiaspis* sp. (White, 1969; Denison, 1958, 1978)."
+
+176. Position of profundus sensory line: on preorbital (0); on postorbital (1), on both postorbital and preorbital plates (2). 
+> Modified from Johnson *et al*. (2000), Character 22.
+
+> - Character 176 is contingent on Character 175.
+> - The profundus sensory canal of *Bryantolepis* extends from the preorbital plate to the postorbital plate. 
+
+> Johnson *et al*. (2000): "In *Bryantolepis brachycephala* the profundus sensory line is present as a continuous line from the central sensory line on the postorbital to the centre of the preorbital terminating near the supraorbital sensory line (Denison, 1958)."
+
+177. 	Profundus sensory line connecting with the infraorbital sensory line: absent (0); present (1).
+> Modified from Johnson *et al*. (2000), Character 24.
+
+> - Character 177 is contingent on Character 175.
+> - In *Kujdanowisaspis podolica*, the short profundus sensory line is not connecting with the optic branch of infraorbital or central sensory lines.
+> Johnson *et al*. (2000): "A small segment of the profundus sensory line branches off the intersection of the central sensory line and the infraorbital sensory line (postorbital branch) in *Aleosteus eganensis*, an arrangement not recorded in any other actinolepid."
+
+178. Condition of profundus sensory line on preorbital and postorbital plates: disconnected segments (0), a continuous line (1).
+> Modified from Johnson *et al*. (2000), Character 23.
+
+> - Character 178 is contingent on Character 176.
+> - Johnson *et al*. (2000): "This character is known only in *Simblaspis cachensis* (Denison, 1958)."
+
  161. Number of posterior pit lines: two pairs (0); one pair (1).
 > Dupret *et al*. (2009, 2017), Character 29; Zhu *et al*. (2010), Character 29; Xue *et al*. (2025), Character 161.
 
@@ -825,48 +867,6 @@ ridge is present in petalichthyids and some ptyctodontids and absent in other pl
 > Carr and Hlavin (2010), Character 91; Rücklin *et al*. (2015), Character 91; Zhu Y *et al*. (2016), Character 91; Jobbins *et al*. (2022, 2024), Character 91;  Xue *et al*. (2025), Character 172.
 
 > - Dermal ornamentation: (0) smooth; (1) parallel, vermiform ridges; (2) concentric ridges; (3) tuberculate.  **Character 54 in "early gnathostome phylogeny github".**
-
-175. Profundus sensory line: absent (0); present (1).
-> Modified from Johnson *et al*. (2000), Character 12.
-
-> - Johnson *et al*. (2000): "A short segment of the profundus sensory line on the anterior part of the preorbital has been recorded in *Heightingtonaspis anglica* and *Kujdanowiaspis* sp. (White, 1969; Denison, 1958, 1978)."
-
-176. Position of profundus sensory line: on preorbital (0); on postorbital (1), on both postorbital and preorbital plates (2). 
-> Modified from Johnson *et al*. (2000), Character 22.
-
-> - Character 176 is contingent on Character 175.
-> - The profundus sensory canal of *Bryantolepis* extends from the preorbital plate to the postorbital plate. 
-
-> Johnson *et al*. (2000): "In *Bryantolepis brachycephala* the profundus sensory line is present as a continuous line from the central sensory line on the postorbital to the centre of the preorbital terminating near the supraorbital sensory line (Denison, 1958)."
-
-177. 	Profundus sensory line connecting with the infraorbital sensory line: absent (0); present (1).
-> Modified from Johnson *et al*. (2000), Character 24.
-
-> - Character 177 is contingent on Character 175.
-> - In *Kujdanowisaspis podolica*, the short profundus sensory line is not connecting with the optic branch of infraorbital or central sensory lines.
-> Johnson *et al*. (2000): "A small segment of the profundus sensory line branches off the intersection of the central sensory line and the infraorbital sensory line (postorbital branch) in *Aleosteus eganensis*, an arrangement not recorded in any other actinolepid."
-
-178. Condition of profundus sensory line on preorbital and postorbital plates: disconnected segments (0), a continuous line (1).
-> Modified from Johnson *et al*. (2000), Character 23.
-
-> - Character 178 is contingent on Character 176.
-> - Johnson *et al*. (2000): "This character is known only in *Simblaspis cachensis* (Denison, 1958)."
-
-179.  Width/length (W/L) ratio of preorbital plates: W/L > 0.5 (0); W/L ≤ 0.5 (1).
-> Dupret *et al*. (2009, 2017), Character 57.
-
-180.  Transversely divided pineal plate forming anterior and posterior plates: absent (0); present (1). 
-> Fitzpatrick *et al*. (2024), Character 123.
-> - In those taxa without pineal plate, this character is scored as 'not applicable'.
-
-181.  Posterior dorsolateral plate: absent (0); present (1).
-> Giles *et al*. (2015), Character 187; Choo *et al*. (2017), Character 308; King *et al*. (2017), Character 436; Castiello (2018), Character 425; Zhu Y. *et al*. (2022), Character 586; Andreev *et al*. (2022), Character 185; Brazeau *et al*. (2023), Character 441; Cui *et al*. (2023), Character 585.
-
-> - The posterior dorsolateral plate is present in almost all arthrodires except most phyllolepids. In phyllolepids, the posterior dorsolateral is only present in *Cowralepis*.
-
-> - The coding of *Rhachiosteus pterygiatus* is 0 ？ 
-
-> - **Character 580 in "early gnathostome phylogeny github".**
 
 182. Posterior median dorsal plates covering the tail: absent (0); present (1).
 >  Johnson *et al*. (2000), character 26; Dupret *et al*. (2009, 2017), Character 56.
