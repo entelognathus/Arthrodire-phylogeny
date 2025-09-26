@@ -1,6 +1,9 @@
 # Character list of arthrodires, petalichthyids ,and ptyctodontids.
 
 ## Skull roof
+Rostral plate: absent(0); present (1).
+> - Rostral plate is absent in ptycodontids and phyllolepids.
+
  1. Posterior development of rostral plate: not developed (0); subtriangular (1); T-shaped (2).
 > Carr (1991), Character 5; Lelièvre (1995), character 4, modified; Carr and Hlavin (2010), Character 5; Rücklin *et al*. (2015), Character 5; Zhu Y *et al*. (2016), Character 5; Jobbins *et al*. (2022, 2024), Character 5; Xue *et al*. (2025), Character 5.
 
@@ -21,8 +24,8 @@
  4. Rostral and pineal plates fused into one plate: absent (0); present (1).
 > Zhu Y *et al*. (2016), Character 100; Dupret *et al*. (2009), Character 8; Dupret *et al*. (2017), Character 8; Xue *et al*. (2025), Character 44.
 
- 5. Rostral, pineal, or rostropineal plates: absent (0); present (1).
-> Dupret *et al*. (2009), Character 5; Dupret *et al*. (2017), Character 5; Zhu *et al*. (2010), Character 5; Xue *et al*. (2025), Character 54.
+ 5. Pineal, or rostropineal plates: absent (0); present (1).
+> Modified from Dupret *et al*. (2009), Character 5; Dupret *et al*. (2017), Character 5; Zhu *et al*. (2010), Character 5; Xue *et al*. (2025), Character 54.
 
  6. Pineal or rostropineal plate fused to skull roof: no fusion (0); fusion (1).
 > Johnson *et al*. (2000), Character 2; Dupret *et al*. (2009), Character 10; Dupret *et al*. (2017), Character 10; Zhu *et al*. (2010), Character 10; Xue *et al*. (2025), Character 57.
@@ -371,7 +374,6 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  73. Position of the anterior end of the endolymphatic duct on the visceral surface of the skull roof, indicating the neurocranial aperture of the endolymphatic duct: anteriorly positioned, defined as positioned anterior to the nuchal thickening (0); posteriorly positioned, on the nuchal thickening (1).
 > Zhu Y *et al*. (2016), Character 104; Xue *et al*. (2025), Character 48.
 
- 
 ## Neck joint
  74. Skull roof and thoracic armour articulation: articulation medial (0); articulation laterally displaced (1). 
 >  Goujet (1984); Carr and Hlavin (2010), Character 90; Rücklin *et al*. (2015), Character 90; Zhu Y *et al*. (2016), Character 90; Dupret *et al*. (2009, 2017), Character 41; Jobbins *et al*. (2022, 2024), Character 90; Xue *et al*. (2025), Character 35.
@@ -383,14 +385,47 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - This character is contingent on the state 1 of Character 35.
 
+213. Cranial fossa receiving the ventral articular lamina of the trunk: (0) absent; (1) present.
+> Zhu *et al*. (2019), Character 4; Zhu Y. *et al*. (2021), Character 357; Zhu Y. *et al*. (2022), Character 562; Cui *et al*. (2023), Character 561; Zhu Y. *et al*. (2019), Character 374; Trinajstic *et al*. (2019), Character 16.
 
- 76. Type of exoskeletal dermal craniothoracic articulatuion: actinolepid sliding neck joint (0); ginglymoid phlyctaenioid type (1); ‘spoon-like’ petalichthyid type (2).
-> Miles (1973), in part; Dupret *et al*. (2009, 2017), Character 40; Zhu *et al*. (2010), Character 40; Xue *et al*. (2025), Character 71; Fitzpatrick *et al*. (2024), character 122.
+> - Zhu *et al*. (2019): "It is present in the *Qilinyu* with the dual articulation, and those placoderms in which the neck joints are categorized as ‘ginglymoid’ type; absent in antiarchs and those taxa with sliding neck joints."
+> - **Character 556 in "early gnathostome phylogeny github".**
 
->
-> - **This character will be replaced by the characters P1 -.**
+214. Trunk ventral articular lamina develops into flange or condyle: (0) absent, continuous along the articular lamina of the anterior dorsolateral plate; (1) present, the articular lamina develops into distinctive flange or condyle.
+> Zhu *et al*. (2019), Character 5; Zhu Y. *et al*. (2021), Character 358; Zhu Y. *et al*. (2022), Character 563; Cui *et al*. (2023), Character 562; Zhu Y. *et al*. (2019), Character 375; Trinajstic *et al*. (2019), Character 16.
+> - Zhu *et al*. (2019): "Ventral articular lamina on the trunk shield develops into flange or condyle distinct from the rest of the anterior margin of ADL. The well-defined flange or condyle is present in *Qilinyu*, *Eurycaraspis*, ptyctodonts and many arthrodires and absent in *Entelognathus* and basal arthrodire *Bryantolepis*."
+> - **Character 557 in "early gnathostome phylogeny github".**
+
+215. Rotatory contact of the dermal neck articulation: (0) absent; (1) present.
+> Zhu *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 359; Zhu Y. *et al*. (2022), Character 564; Cui *et al*. (2023), Character 563; Zhu Y. *et al*. (2019), Character 376; Trinajstic *et al*. (2019), Character 16.
+>  - Zhu *et al*. (2019): "It is only present in arthrodires above phlyctaenids (including brachythoracids)."
+> - **Character 558 in "early gnathostome phylogeny github".**
+
+216. Sliding contact of the dermal neck articulation: (0) absent; (1) present
+> - It is present in actinolepidoids, petalichthyids and some ptyctodonts.
+
+217. Type of sliding neck joint: horizontal or actinolepid type (0), vertical (1).
+> Young (1978); Zhu *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 360; Zhu Y. *et al*. (2022), Character 565; Brazeau *et al*. (2023), Character 179. Cui *et al*. (2023), Character 564.
+> - The vertical sliding joint relates to the para-articular process of dermal neck joint.
+> - Zhu *et al*. (2019): "Presence or absence of a lateral ridge or process defines the mesial boundary of the visceral contact face for the articular lamina on the paranuchal plate. The lateral
+ridge is present in petalichthyids and some ptyctodontids and absent in other placoderms." 
+> - **Character 559 in "early gnathostome phylogeny github".**
+
+218. Para-articular process ridge angles: nearly parallel to the midline of the head shield (0), oblique to the midline of the head shield (1). 
+> Pan et al. (in prep.) for *Yipetalichthys*.
+
+219. Obstanic groove on the anterolateral margin of the trunk shield, formed by an extended anterior lamina curling laterally: absent (0), present (1). 
+> Zhu *et al*. (2019), Character 7.
+> - It is present only in *Qilinyu* and *Silurolepis*.
 
 ## Thoracic armour
+ 104. Extrascapular plate: absent (0); present (1).
+> Dupret *et al*. (2009), Character 45; Dupret *et al*. (2017), Character 45; Zhu *et al*. (2010), Character 45;  Xue *et al*. (2025), Character 104.
+
+> - **Character 80 in "early gnathostome phylogeny github".** 80. Postnuchal plates: (0) absent; (1) present.
+
+> - The coding of *Panjiangosteus eurycephala* is ?.
+
  77. Median dorsal plate with a ventral ridge: a ventral thickening or ridge (0); posterior ridge with a posterior process, not spatulate (1); posterior process posterodorsally spatulate (2).
 > Dennis and Miles (1979a), Characters 4 and 18, modified; Carr (1991), Character 35; Lelièvre (1995), character  40, modified; Carr and Hlavin (2010), Character 35; Rücklin *et al*. (2015), Character 35; Zhu Y *et al*. (2016), Character 35; Jobbins *et al*. (2022, 2024), Character 35； Xue *et al*. (2025), Character 77.
 
@@ -409,6 +444,55 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - Concave posterior border of the meidan dorsal plate is only present in *Amazichthys*.
 > - **Character 588 in "early gnathostome phylogeny github".** Posteriorly produced spine on MD plate: (0) absent; (1) present.
+
+ 94. Posterior development of the posterior carinal process of the keel on the visceral surface of the median dorsal plate: posteriorly developed, beyond the posterior margin of the median dorsal plate in dorsal view (0); not posteriorly developed, not beyond the posterior margin of the median dorsal plate in dorsal view (1).
+> Zhu Y *et al*. (2016), Character 115; Xue *et al*. (2025), Character 94.
+
+> - In those taxa that the posterior carinal process is absent, this character is scored as 'not applicable'.
+
+> - The coding of *Panjiangosteus eurycephala* is ?.
+
+ 101. Ventral keel on internal side of median dorsal plate: absent (0); present (1).
+> Dupret *et al*. (2009), Character 42; Dupret *et al*. (2017), Character 42; Zhu *et al*. (2010), Character 42;  Xue *et al*. (2025), Character 101.
+
+> - The coding of *Panjiangosteus eurycephala* is ?.
+
+ 102. Unornamented (overlapped) area on anterior edge of median dorsal plate: absent (0); present (1).
+> Johnson *et al*. (2000), Character 25; Dupret *et al*. (2009), Character 43; Dupret *et al*. (2017), Character 43; Zhu *et al*. (2010), Character 43;  Xue *et al*. (2025), Character 102.
+
+> - The coding of *Panjiangosteus eurycephala* is ?.
+
+ 103. Condition of unornamented (overlapped) area on anterior edge of median dorsal plate: simple (0); double (1).
+> Dupret *et al*. (2009), Character 44; Dupret *et al*. (2017), Character 44; Zhu *et al*. (2010), Character 44;  Xue *et al*. (2025), Character 103.
+
+> - The coding of *Panjiangosteus eurycephala* is ?.
+
+ 95. Median dorsal plate elevated dorsally into a median crest: absent (0); present (1).
+> Zhu Y *et al*. (2016), Character 116; Xue *et al*. (2025), Character 95.
+
+> - The coding of *Panjiangosteus eurycephala* is ?.
+
+ 96. Anterior dorsolateral plate and anterior lateral plate fused into one complex: not fused (0); fused (1).
+> Zhu Y *et al*. (2016), Character 117; Xue *et al*. (2025), Character 96.
+
+> - The coding of *Panjiangosteus eurycephala* is ?.
+
+ 97. Anterior ventral corner or anterior ventral wing (sensu Carr, 1996) of the anterior lateral plate extends anterolaterally: not extending anterolaterally, the lateral profile of the anterior lateral plate is sub-triangular or rhomboid (0); extending anterolaterally, making the lateral profile of the anterior lateral plate ‘boomerang’-shaped (1).
+> Zhu Y *et al*. (2016), Character 118; Xue *et al*. (2025), Character 97.
+
+> - The coding of *Panjiangosteus eurycephala* is ?.
+
+ 98. In those taxa that possess an anterolaterally extended anterior lateral plate, the extent of the extension: extended normally (0); extended into a rod-like structure (1).
+> Zhu Y *et al*. (2016), Character 119; Xue *et al*. (2025), Character 98.
+
+>  - In those taxa that do not possess an anterolaterally extended anterior lateral plate, this character is scored as 'not applicable'.
+
+> - The coding of *Panjiangosteus eurycephala* is ?.
+
+ 99. External surface of the anterior lateral plate quadrated by four ridges radiating from the ossification center of the plate: absent (0); present (1).
+> Zhu Y *et al*. (2016), Character 120; Xue *et al*. (2025), Character 99.
+
+> - The coding of *Panjiangosteus eurycephala* is ?.
 
  80. Anterior lateral plate/anterior ventrolateral plate contact: absent (0); present (1).
 > Carr (1991), Character 38; Carr and Hlavin (2010), Character 38; Rücklin *et al*. (2015), Character 38; Zhu Y *et al*. (2016), Character 38; Dupret *et al*. (2009, 2017), Character 51 modified; Jobbins *et al*. (2022, 2024), Character 38； Xue *et al*. (2025), Character 80.
@@ -429,6 +513,11 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > Carr (1991), Character 41; Lelièvre (1995), character 34;  Carr and Hlavin (2010), Character 41; Rücklin *et al*. (2015), Character 41; Zhu Y *et al*. (2016), Character 41; Jobbins *et al*. (2022, 2024), Character 41； Xue *et al*. (2025), Character 83.
 
 > - **Character 562 in "early gnathostome phylogeny github** Pectoral fenestra completely encircled by dermal shoulder armour: (0) present; (1) absent.
+> - The coding of *Panjiangosteus eurycephala* is ?.
+
+ 105. Posterior lateral plate: absent (0); present (1).
+> Johnson *et al*. (2000), Character 38; Dupret *et al*. (2009), Character 47; Dupret *et al*. (2017), Character 47; Zhu *et al*. (2010), Character 47;  Xue *et al*. (2025), Character 105.
+
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
  84. Posterior lateral plate and posterior dorsolateral plate overlap: simple overlap (0); insertion (1).
@@ -466,6 +555,11 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
+ 112. Spinelets on mesial side of spinal plate: absent (0); present (1).
+> Johnson *et al*. (2000), Character 29; Dupret *et al*. (2009), Character 55; Dupret *et al*. (2017), Character 55; Zhu *et al*. (2010), Character 55; Xue *et al*. (2025), Character 112.
+
+> - The coding of *Panjiangosteus eurycephala* is ?.
+
  89. Branchial lamina of the interolateral plate : absent (0); present (1).
 > Carr (1991), Character 47; Carr and Hlavin (2010), Character 47; Rücklin *et al*. (2015), Character 47; Zhu Y *et al*. (2016), Character 47; Jobbins *et al*. (2022, 2024), Character 47；Xue *et al*. (2025), Character 89.
 
@@ -485,81 +579,12 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
- 92. Posterior ventrolateral plate dorsolateral contact with the lateral thoracic armour: posterior lateral plate only (0); posterior lateral and anterior lateral plates (1).
-> Carr (1991), Character 50; Carr and Hlavin (2010), Character 50; Rücklin *et al*. (2015), Character 50; Zhu Y *et al*. (2016), Character 50; Jobbins *et al*. (2022, 2024), Character 50； Xue *et al*. (2025), Character 92.
+ 108. Anteroventral plate: absent (0); present (1).
+> Miles (1973); Dupret *et al*. (2009), Character 50; Dupret *et al*. (2017), Character 50; Zhu *et al*. (2010), Character 50; Xue *et al*. (2025), Character 108; Fitzpatrick *et al*. (2024), character 133.
 
-> - In those taxa that the posterior lateral plate is absent, this character is scored as 'not applicable'.
+> - Also termed as the anterior ventral plate.
 
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 93. Postpectoral lamina of the posterior ventrolateral plate: absent (0); small (1); large (2).
-> Gardiner and Miles (1990), Character 22.8; Carr (1991), Character 51; Carr and Hlavin (2010), Character 51; Rücklin *et al*. (2015), Character 51; Zhu Y *et al*. (2016), Character 51; Jobbins *et al*. (2022, 2024), Character 51; Xue *et al*. (2025), Character 93.
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 94. Posterior development of the posterior carinal process of the keel on the visceral surface of the median dorsal plate: posteriorly developed, beyond the posterior margin of the median dorsal plate in dorsal view (0); not posteriorly developed, not beyond the posterior margin of the median dorsal plate in dorsal view (1).
-> Zhu Y *et al*. (2016), Character 115; Xue *et al*. (2025), Character 94.
-
-> - In those taxa that the posterior carinal process is absent, this character is scored as 'not applicable'.
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 95. Median dorsal plate elevated dorsally into a median crest: absent (0); present (1).
-> Zhu Y *et al*. (2016), Character 116; Xue *et al*. (2025), Character 95.
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 96. Anterior dorsolateral plate and anterior lateral plate fused into one complex: not fused (0); fused (1).
-> Zhu Y *et al*. (2016), Character 117; Xue *et al*. (2025), Character 96.
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 97. Anterior ventral corner or anterior ventral wing (sensu Carr, 1996) of the anterior lateral plate extends anterolaterally: not extending anterolaterally, the lateral profile of the anterior lateral plate is sub-triangular or rhomboid (0); extending anterolaterally, making the lateral profile of the anterior lateral plate ‘boomerang’-shaped (1).
-> Zhu Y *et al*. (2016), Character 118; Xue *et al*. (2025), Character 97.
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 98. In those taxa that possess an anterolaterally extended anterior lateral plate, the extent of the extension: extended normally (0); extended into a rod-like structure (1).
-> Zhu Y *et al*. (2016), Character 119; Xue *et al*. (2025), Character 98.
-
->  - In those taxa that do not possess an anterolaterally extended anterior lateral plate, this character is scored as 'not applicable'.
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 99. External surface of the anterior lateral plate quadrated by four ridges radiating from the ossification center of the plate: absent (0); present (1).
-> Zhu Y *et al*. (2016), Character 120; Xue *et al*. (2025), Character 99.
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
-100. Anteroventral groove on the ventral surface of the interolateral plate: absent (0); present (1).
-> Zhu Y *et al*. (2016), Character 121; Xue *et al*. (2025), Character 100.
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 101. Ventral keel on internal side of median dorsal plate: absent (0); present (1).
-> Dupret *et al*. (2009), Character 42; Dupret *et al*. (2017), Character 42; Zhu *et al*. (2010), Character 42;  Xue *et al*. (2025), Character 101.
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 102. Unornamented (overlapped) area on anterior edge of median dorsal plate: absent (0); present (1).
-> Johnson *et al*. (2000), Character 25; Dupret *et al*. (2009), Character 43; Dupret *et al*. (2017), Character 43; Zhu *et al*. (2010), Character 43;  Xue *et al*. (2025), Character 102.
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 103. Condition of unornamented (overlapped) area on anterior edge of median dorsal plate: simple (0); double (1).
-> Dupret *et al*. (2009), Character 44; Dupret *et al*. (2017), Character 44; Zhu *et al*. (2010), Character 44;  Xue *et al*. (2025), Character 103.
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 104. Extrascapular plate: absent (0); present (1).
-> Dupret *et al*. (2009), Character 45; Dupret *et al*. (2017), Character 45; Zhu *et al*. (2010), Character 45;  Xue *et al*. (2025), Character 104.
-
-> - **Character 80 in "early gnathostome phylogeny github".** 80. Postnuchal plates: (0) absent; (1) present.
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 105. Posterior lateral plate: absent (0); present (1).
-> Johnson *et al*. (2000), Character 38; Dupret *et al*. (2009), Character 47; Dupret *et al*. (2017), Character 47; Zhu *et al*. (2010), Character 47;  Xue *et al*. (2025), Character 105.
+> - **Character 571 in "early gnathostome phylogeny github"**  
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
@@ -575,12 +600,22 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
- 108. Anteroventral plate: absent (0); present (1).
-> Miles (1973); Dupret *et al*. (2009), Character 50; Dupret *et al*. (2017), Character 50; Zhu *et al*. (2010), Character 50; Xue *et al*. (2025), Character 108; Fitzpatrick *et al*. (2024), character 133.
+ 111. Posterior ventrolateral plates mutually overlapping: simple overlapping (0); sinusoidal/double overlapping (1).
+> Goujet (1984); Dupret (2004); Dupret *et al*. (2009), Character 54; Dupret *et al*. (2017), Character 54; Zhu *et al*. (2010), Character 54; Xue *et al*. (2025), Character 111.
 
-> - Also termed as the anterior ventral plate.
+>  Fitzpatrick *et al*. (2024，, character 130）：  Median contact of the posterior ventrolateral plate: simple overlap (0); Sigmoidal/double overlapping (1).
 
-> - **Character 571 in "early gnathostome phylogeny github"**  
+> - The coding of *Panjiangosteus eurycephala* is ?.
+
+ 92. Posterior ventrolateral plate dorsolateral contact with the lateral thoracic armour: posterior lateral plate only (0); posterior lateral and anterior lateral plates (1).
+> Carr (1991), Character 50; Carr and Hlavin (2010), Character 50; Rücklin *et al*. (2015), Character 50; Zhu Y *et al*. (2016), Character 50; Jobbins *et al*. (2022, 2024), Character 50； Xue *et al*. (2025), Character 92.
+
+> - In those taxa that the posterior lateral plate is absent, this character is scored as 'not applicable'.
+
+> - The coding of *Panjiangosteus eurycephala* is ?.
+
+ 93. Postpectoral lamina of the posterior ventrolateral plate: absent (0); small (1); large (2).
+> Gardiner and Miles (1990), Character 22.8; Carr (1991), Character 51; Carr and Hlavin (2010), Character 51; Rücklin *et al*. (2015), Character 51; Zhu Y *et al*. (2016), Character 51; Jobbins *et al*. (2022, 2024), Character 51; Xue *et al*. (2025), Character 93.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
@@ -591,18 +626,6 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
  110. Posterior medioventral plate: absent (0); present (1).
 > Johnson *et al*. (2000), Character 39, modified; Dupret *et al*. (2009), Character 53; Dupret *et al*. (2017), Character 53; Zhu *et al*. (2010), Character 53;  Xue *et al*. (2025), Character 110.
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 111. Posterior ventrolateral plates mutually overlapping: simple overlapping (0); sinusoidal/double overlapping (1).
-> Goujet (1984); Dupret (2004); Dupret *et al*. (2009), Character 54; Dupret *et al*. (2017), Character 54; Zhu *et al*. (2010), Character 54; Xue *et al*. (2025), Character 111.
-
->  Fitzpatrick *et al*. (2024，, character 130）：  Median contact of the posterior ventrolateral plate: simple overlap (0); Sigmoidal/double overlapping (1).
-
-> - The coding of *Panjiangosteus eurycephala* is ?.
-
- 112. Spinelets on mesial side of spinal plate: absent (0); present (1).
-> Johnson *et al*. (2000), Character 29; Dupret *et al*. (2009), Character 55; Dupret *et al*. (2017), Character 55; Zhu *et al*. (2010), Character 55; Xue *et al*. (2025), Character 112.
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
@@ -929,6 +952,11 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
 
+100. Anteroventral groove on the ventral surface of the interolateral plate: absent (0); present (1).
+> Zhu Y *et al*. (2016), Character 121; Xue *et al*. (2025), Character 100.
+
+> - The coding of *Panjiangosteus eurycephala* is ?.
+
 ## Neurocranium
  166. Breadth of the orbitotemporal neurocranium, indicated by the breadth between the two inner margins of the supraorbital vaults: wide, defined by the ratio of the breadth of the orbitotemporal neurocranium/the breadth of the skull roof at the level immediately behind the supraorbital vault larger than 0.4 (0); narrow, defined by the ratio of the breadth of the orbitotemporal neurocranium/ the breadth of the skull roof less than 0.4 (1).
 > Zhu Y *et al*. (2016), Character 113; Xue *et al*. (2025), Character 166.
@@ -1149,39 +1177,6 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > Goujet (1984); Fitzpatrick *et al*. (2025), character 129.
 
 ## More characters relating to the inclusion of petalichthyid taxa in the matrix. 
-213. Cranial fossa receiving the ventral articular lamina of the trunk: (0) absent; (1) present.
-> Zhu *et al*. (2019), Character 4; Zhu Y. *et al*. (2021), Character 357; Zhu Y. *et al*. (2022), Character 562; Cui *et al*. (2023), Character 561; Zhu Y. *et al*. (2019), Character 374; Trinajstic *et al*. (2019), Character 16.
-
-> - Zhu *et al*. (2019): "It is present in the *Qilinyu* with the dual articulation, and those placoderms in which the neck joints are categorized as ‘ginglymoid’ type; absent in antiarchs and those taxa with sliding neck joints."
-> - **Character 556 in "early gnathostome phylogeny github".**
-
-214. Trunk ventral articular lamina develops into flange or condyle: (0) absent, continuous along the articular lamina of the anterior dorsolateral plate; (1) present, the articular lamina develops into distinctive flange or condyle.
-> Zhu *et al*. (2019), Character 5; Zhu Y. *et al*. (2021), Character 358; Zhu Y. *et al*. (2022), Character 563; Cui *et al*. (2023), Character 562; Zhu Y. *et al*. (2019), Character 375; Trinajstic *et al*. (2019), Character 16.
-> - Zhu *et al*. (2019): "Ventral articular lamina on the trunk shield develops into flange or condyle distinct from the rest of the anterior margin of ADL. The well-defined flange or condyle is present in *Qilinyu*, *Eurycaraspis*, ptyctodonts and many arthrodires and absent in *Entelognathus* and basal arthrodire *Bryantolepis*."
-> - **Character 557 in "early gnathostome phylogeny github".**
-
-215. Rotatory contact of the dermal neck articulation: (0) absent; (1) present.
-> Zhu *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 359; Zhu Y. *et al*. (2022), Character 564; Cui *et al*. (2023), Character 563; Zhu Y. *et al*. (2019), Character 376; Trinajstic *et al*. (2019), Character 16.
->  - Zhu *et al*. (2019): "It is only present in arthrodires above phlyctaenids (including brachythoracids)."
-> - **Character 558 in "early gnathostome phylogeny github".**
-
-216. Sliding contact of the dermal neck articulation: (0) absent; (1) present
-> - It is present in actinolepidoids, petalichthyids and some ptyctodonts.
-
-217. Type of sliding neck joint: horizontal or actinolepid type (0), vertical (1).
-> Young (1978); Zhu *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 360; Zhu Y. *et al*. (2022), Character 565; Brazeau *et al*. (2023), Character 179. Cui *et al*. (2023), Character 564.
-> - The vertical sliding joint relates to the para-articular process of dermal neck joint.
-> - Zhu *et al*. (2019): "Presence or absence of a lateral ridge or process defines the mesial boundary of the visceral contact face for the articular lamina on the paranuchal plate. The lateral
-ridge is present in petalichthyids and some ptyctodontids and absent in other placoderms." 
-> - **Character 559 in "early gnathostome phylogeny github".**
-
-218. Para-articular process ridge angles: nearly parallel to the midline of the head shield (0), oblique to the midline of the head shield (1). 
-> Pan et al. (in prep.) for *Yipetalichthys*.
-
-219. Obstanic groove on the anterolateral margin of the trunk shield, formed by an extended anterior lamina curling laterally: absent (0), present (1). 
-> Zhu *et al*. (2019), Character 7.
-> - It is present only in *Qilinyu* and *Silurolepis*.
-
 220. Sensory canals/grooves: (0) contained within the thickness of dermal bones; (1) contained in prominent ridges on visceral surface of bone.
 > Giles *et al*. (2015), Character 31; Choo *et al*. (2017), Character 266; King *et al*. (2017), Character 301; Castiello (2018), Character 292; Zhu Y. *et al*. (2022), Character 58; Andreev *et al*. (2022), Character 31; Brazeau *et al*. (2023), Character 306. Cui *et al*. (2023), Character 58.
 
