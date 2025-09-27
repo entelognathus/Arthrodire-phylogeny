@@ -1,7 +1,45 @@
 # Character list of arthrodires, petalichthyids ,and ptyctodontids.
 
 ## Skull roof
-Rostral plate: absent(0); present (1).
+221. Dermal skull roof: (0) includes large dermal plates; (1) consists of undifferentiated plates or tesserae; (2) include both large dermal plates and tesserae.
+> Davis et al. (2012), Character 18; Choo et al. (2017), Character 17; King et al. (2017), Character 151; Castiello (2018), Character 150; Zhu Y. et al. (2022), Character 59; Andreev et al. (2022), Character 33; Brazeau et al. (2023), Character 155. Cui et al. (2023), Character 59.
+
+> - **Character 57 in "early gnathostome phylogeny github".**
+
+239. premedian plate (Large unpaired median skull roofing bone anterior to the level of nasal capsules): (0) absent; (1) present.
+> Zhu et al. (2013), Character 148; Choo et al. (2017), Character 159; King et al. (2017), Character 177; Castiello (2018), Character 174; Zhu Y. et al. (2022), Character 142; Brazeau et al. (2023), Character 183. Cui et al. (2023), Character 142.
+
+>  - **Character 140 in "early gnathostome phylogeny github".**
+>  - Premedian plate is present in acanthoracids, antiarchs, and maxillate placoderms.
+
+240. Position of premedian plate: (0) dorsal; (1) ventral.
+> Zhu Y. et al. (2022), Character 143. Cui et al. (2023), Character 143.
+
+>  - **Character 141 in "early gnathostome phylogeny github".**
+>  - In maxillate placoderms, the premedian plate is positioned ventrally. 
+
+223. Sclerotic ring incorporated into skull roof: (0) absent; (1) present.
+> King et al. (2017), Character 244; Castiello (2018), Character 243; Zhu Y. et al. (2022), Character 86; Brazeau et al. (2023), Character 249. Cui et al. (2023), Character 86.
+
+> - **Character 84 in "early gnathostome phylogeny github".**
+
+> - This character is only present in *Entelognathus*.
+
+226. Nostrils enclosed in dermal skull roof: (0) yes; (1) no.
+> King et al. (2017), Character 255; Castiello (2018), Character 253; Zhu Y. et al. (2022), Character 95; Brazeau et al. (2023), Character 261. Cui et al. (2023), Character 95.
+
+> - **Character 93 in "early gnathostome phylogeny github".**
+
+> - King et al. (2017): In eubrachythoracid arthrodires, the snout is assumed to continue in soft tissue, so that the nostrils are not enclosed within dermal bone. Where only the posterior nostril is enclosed, taxa are scored as yes, as are taxa with dorsal nostrils (acanthothoracids, antiarchs etc.)
+
+229. Posterior nostril: (0) associated with orbit; (1) not associated with orbit.
+> Zhu et al. (2009, Character 8), and references therein; Zhu et al. (2013), Character 152; Giles et al. (2015), Character 116; Choo et al. (2017), Character 142; King et al. (2017), Character 171; Castiello (2018), Character 169; Zhu Y. et al. (2022), Character 112; Brazeau et al. (2023), Character 175. Cui et al. (2023), Character 112.
+
+> - **Character 110 in "early gnathostome phylogeny github".**
+
+> - Posterior nostril not associated with orbit is widely present in arthordires, *Macropetalichthys*, and *Romundina*.
+
+ Rostral plate: absent(0); present (1).
 > - Rostral plate is absent in ptycodontids and phyllolepids.
 
  1. Posterior development of rostral plate: not developed (0); subtriangular (1); T-shaped (2).
@@ -20,6 +58,13 @@ Rostral plate: absent(0); present (1).
 > Carr (1991), Character 7; Lelièvre (1995), character 3, modified; Carr and Hlavin (2010), Character 7; Rücklin *et al*. (2015), Character 7; Zhu Y *et al*. (2016), Character 7; Jobbins *et al*. (2022, 2024), Character 7; Xue *et al*. (2025), Character 7.
 
 > - In those taxa that the rostral plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
+
+227. Pineal and rostral: (0) contact; (1) separated.
+> Castiello (2018), Character 255; Zhu Y. et al. (2022), Character 97. Cui et al. (2023), Character 97.
+
+> - **Character 95 in "early gnathostome phylogeny github".**
+
+> - This character is present in some petalichthyids, including *Lunaspis*, *Notopetalichthys*, and *Sinopetalichthys*.
 
  4. Rostral and pineal plates fused into one plate: absent (0); present (1).
 > Zhu Y *et al*. (2016), Character 100; Dupret *et al*. (2009), Character 8; Dupret *et al*. (2017), Character 8; Xue *et al*. (2025), Character 44.
@@ -54,6 +99,28 @@ Rostral plate: absent(0); present (1).
 
 > - In those taxa that the pineal plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
 
+233. Pineal opening perforation in dermal skull roof: (0) present; (1) absent.
+> Davis et al. (2012), Character 25; Choo et al. (2017), Character 24; King et al. (2017), Character 159; Castiello (2018), Character 117; Zhu Y. et al. (2022), Character 130; Andreev et al. (2022), Character 42; Brazeau et al. (2023), Character 162. Cui et al. (2023), Character 130.
+
+> - **Character 128 in "early gnathostome phylogeny github".**
+
+234. Pineal eminence (in taxa lacking pineal foramen): (0) absent; (1) present.
+> Zhu Y. et al. (2021), Character 233; Zhu Y. et al. (2022), Character 131; Andreev et al. (2022), Character 237. Cui et al. (2023), Character 131.
+
+> - **Character 129 in "early gnathostome phylogeny github".**
+
+235. Dermal plate associated with pineal eminence or foramen: (0) contributes to orbital margin; (1) plate bordered laterally by skull roofing bones. 
+> Giles et al. (2015), Character 42; Choo et al. (2017), Character 270; King et al. (2017), Character 208; Castiello (2018), Character 207; Zhu Y. et al. (2021), Character 41; Zhu Y. et al. (2022), Character 134; Andreev et al. (2022), Character 43; Brazeau et al. (2023), Character 213. Cui et al. (2023), Character 134
+
+> - **Character 132 in "early gnathostome phylogeny github".**
+> - Giles et al. (2015): "Among taxa sampled in this analysis, osteostracans, antiarchs, *Brindabellaspis*, and *Romundina* bear pineal plates that contribute to the margin of the orbit, corresponding to state '0'. We consider taxa where the pineal foramen is bounded by rectilinear skull roofing bones but which lack separate pineal ossifications (e.g., *Mimipiscis*) as showing state '1'. Taxa lacking macromeric cranial skeletons are coded as inapplicable for this character."
+
+ 241. Postnasal plate: (0) absent; (1) present.
+> Zhu et al. (2016), Character 341; Zhu Y. et al. (2021), Character 310; Zhu Y. et al. (2022), Character 144. Cui et al. (2023), Character 144.
+
+>  - **Character 142 in "early gnathostome phylogeny github".**
+>  - In petalichthyids and ptyctodonts, the postnasal plate is absent.
+
  11. Infrafenestral process of postnasal plate : absent (0); present (1).
 > Gardiner and Miles (1990), Character 22.18; Carr (1991), Character 16; Carr and Hlavin (2010), Character 16; Rücklin *et al*. (2016), Character 16; Zhu Y *et al*. (2016), Character 16; Jobbins *et al*. (2022, 2024), Character 16; Xue *et al*. (2025), Character 16.
 
@@ -66,10 +133,32 @@ Rostral plate: absent(0); present (1).
  14. Postnasal plates fused or not to preorbital plates: fusion (0); no fusion (1).
 > Johnson *et al*. (2000), Character 4; Dupret *et al*. (2009), Character 11; Dupret *et al*. (2017), Character 11; Zhu *et al*. (2010), Character 11; Xue *et al*. (2025), Character 58.
 
+230. Extended preorbital region between eyes and nasal capsule: (0) absent; (1) present.
+> King et al. (2017), Character 22; , Character 22; Zhu Y. et al. (2022), Character 122; Brazeau et al. (2023), Character 25. Cui et al. (2023), Character 122.
+
+> - **Character 120 in "early gnathostome phylogeny github".**
+
+> - This character is present in macropetalichthyids, *Wuttagoonaspis*, and *Kolymaspis*.
+
  15. Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes) / (distance between pineal and paired condyles): small (r < 0.2)(0); intermediate (0.2 < r < 0.5) (1); large (r > 0.5)(2).
 > Carr (1991), Character 28; Carr and Hlavin (2010), Character 28; Rücklin *et al*. (2015), Character 28; Zhu Y *et al*. (2016), Character 28; Jobbins *et al*. (2022, 2024), Character 28; Xue *et al*. (submitted), Character 28.
 
 >  - The orginal definition of this character in Carr (1991) is " Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes)/ (distance between pineal and paired condyles): small (0); intermediate (1); large (2)." However, there was no value to define these three states. Here, we complement it as "small (r < 0.2)(0); intermediate (0.2 < r < 0.5) (1); large (r > 0.5)(2)."
+
+231. Orbit dorsal or facing dorsolaterally: (0) present; (1) absent.
+> Castiello (2018), Character 29; Zhu Y. et al. (2022), Character 123; Brazeau et al. (2023), Character 33. Cui et al. (2023), Character 123.
+
+> - **Character 121 in "early gnathostome phylogeny github".**
+
+> - This character is absent in the majority of arthrodires (with the exception of Wuttagoonaspis), as well as in quasipetalichthyids and ptyctodonts.
+> - *Diandongpetalichthy* is coded as "0" .
+
+232. Orbits, surrounded laterally by endocranium: (0) absent; (1) partially surrounded; (2) surrounded.
+> Castiello (2018), Character 30; Zhu Y. et al. (2022), Character 124; Brazeau et al. (2023), Character 33. Cui et al. (2023), Character 124.
+
+> - **Character 122 in "early gnathostome phylogeny github".**
+
+> - In arthrodires, quasipetalichthyids, and *Diandongpetalichthys*, this character are coded as "0".
 
  16. Position of orbits on skull roof: dorsal (0); lateral (1).
 > Lelièvre (1995), character 23, modified; Dupret *et al*. (2009), Character 12; Dupret *et al*. (2017), Character 12; Zhu *et al*. (2010), Character 12; Xue *et al*. (2025), Character 59.
@@ -92,7 +181,19 @@ Rostral plate: absent(0); present (1).
 
 > - In those taxa that the preorbital does not form the orbital margin, this character is scored as 'not applicable'.
 
- 20. Preorbital plates with a median contact: contact posterior to pineal plate (0); contact anterior to pineal plate (1); pineal plate separating preorbital plates (2).
+236. Preorbitals (Parietals): (0) absent; (1) present.
+> Choo et al. (2017), Character 169; Clement et al. (2018), Character 279; Zhu Y. et al. (2022), Character 136; Andreev et al. (2022), Character 279. Cui et al. (2023), Character 136.
+
+> - **Character 134 in "early gnathostome phylogeny github".**
+> - Preorbital plate is absent in antiarchs, Rhenanids, and maxillate placoderms (with the exception of *Bianchengichthys*).
+
+237. Condition of preorbitals (parietals): (0) do not meet in midline; (1) meet in midline.
+> Clement et al. (2018), Character 280; Zhu Y. et al. (2022), Character 137; Andreev et al. (2022), Character 280. Cui et al. (2023), Character 137.
+
+>  - **Character 135 in "early gnathostome phylogeny github".**
+>  - This character is related to Character 18, which is contingent upon it and has been modified as follows: Preorbital plates with a median contact — contact posterior to the pineal plate (0); contact anterior to the pineal plate (1). 
+
+ 20. Preorbital plates with a median contact: meet posterior to pineal plate (0); meet anterior to pineal plate (1).
 > Young (1981), Character 19a, modified; Carr (1991), Character 18; Lelièvre (1995), character 19, modified; Carr and Hlavin (2010), Character 18; Rücklin *et al*. (2015), Character 18; Zhu Y *et al*. (2016), Character 18; Dupret *et al*. (2009, 2017), Character 7, modified; Jobbins *et al*. (2022, 2024), Character 18; Xue *et al*. (2025), Character 18.
 
 > Dupret *et al*. (2009, 2017): Pineal or rostropineal plate separates preorbital plates: no separation (0); separation (1).
@@ -116,6 +217,9 @@ Rostral plate: absent(0); present (1).
  23. Preorbital plates forming part of orbital margin: yes (0); no (1).
 > Dupret *et al*. (2009), Character 27; Dupret *et al*. (2017), Character 27; Zhu *et al*. (2010), Character 27; Xue *et al*. (2025), Character 74.
 
+ 194. Contact between preorbital plate and nuchal plate: absent (0); present (1).
+> - **Character 81 in "early gnathostome phylogeny github".** Contact of nuchal or centronuchal or median extrascapular plate with paired preorbital or parietal plates: absent (0); present (1).
+ 
  24. Postorbital dermal process; negligible or absent (0); present (1).
 > Carr (1991), Character 34; Lelièvre (1995), character 21, modified; Carr and Hlavin (2010), Character 34; Rücklin *et al*. (2015), Character 34; Zhu Y *et al*. (2016), Character 34; Jobbins *et al*. (2022, 2024), Character 34; Xue *et al*. (2025), Character 34.
 
@@ -123,6 +227,8 @@ Rostral plate: absent(0); present (1).
 > Zhu Y *et al*. (2016), Character 103; Xue *et al*. (2025), Character 47.
 
 > - In those taxa that the postorbital plate is asbent, this character is scored as 'not applicable'.
+
+196. Postorbital plate in contact with the nuchal plate: absent(0); present(1).
 
  26. Length ratio for the external longitudinal of the preorbital and central plates (r = PrO/C): subequal, i.e. 0.75 < r < 1.25 (0); preorbital plate longer, i.e. r > 1.25 (1); central plate longer, i.e. r < 0.75 (2).
 > Carr (1991), Character 15; Carr and Hlavin (2010), Character 15; Rücklin *et al*. (2015), Character 15; Zhu Y *et al*. (2016), Character 15; Jobbins *et al*. (2022, 2024), Character 15; Xue *et al*. (2025), Character 15.
@@ -155,6 +261,11 @@ Rostral plate: absent(0); present (1).
 
  32. Nuchal plate separating central plates: no (0); yes (1).
 > Johnson *et al*. (2000), Character 6; Dupret *et al*. (2009), Character 25; Dupret *et al*. (2017), Character 25; Zhu *et al*. (2010), Character 25; Xue *et al*. (2025), Character 66.
+
+238. Condition of centrals (postparietals): (0) do not meet in midline; (1) meet in midline.
+> Clement et al. (2018), Character 278; Zhu Y. et al. (2022), Character 140; Andreev et al. (2022), Character 278. Cui et al. (2023), Character 140.
+
+>  - **Character 138 in "early gnathostome phylogeny github".**
 
  33. Midline contact between paired central plates: straight (0); sinuous (1).
 > Dupret *et al*. (2009), Character 18; Dupret *et al*. (2017), Character 18; Zhu *et al*. (2010), Character 18; Xue *et al*. (2025), Character 62.
@@ -193,6 +304,13 @@ Rostral plate: absent(0); present (1).
 
 > - The coding of *Panjiangosteus eurycephala* is 0.
 
+225. Mesial lamina on the internal surface of marginal plate: (0) absent; (1) present.
+> King et al. (2017), Character 254; Castiello (2018), Character 252; Zhu Y. et al. (2022), Character 94; Brazeau et al. (2023), Character 259. Cui et al. (2023), Character 94.
+
+> - **Character 92 in "early gnathostome phylogeny github".**
+
+> - King et al. (2017): A pair of laminae on the internal surface of the marginal plate, presumably for contact with the braincase, is present in ptyctodonts with suitable preservation. See e.g. Long (1997 fig. 4, mes.lam).
+
  41. Length of the central plate contact with the nuchal plate: short (0); long, measured as greater than half the length from the nuchal anteromedian point to the posterolateral corner of the nuchal plate (1).
 > Carr (1991), Character 21; Carr and Hlavin (2010), Character 21; Rücklin *et al*. (2015), Character 21; Zhu Y *et al*. (2016), Character 21; Jobbins *et al*. (2022, 2024), Character 21; Xue *et al*. (2025), Character 21.
 
@@ -212,6 +330,10 @@ Rostral plate: absent(0); present (1).
 > - **Character 60 in "early gnathostome phylogeny github".** Unpaired median skull roofing bone in contact with unpaired plate bearing pineal eminence or foramen: (0) absent; (1) present.
 
 > - Castiello (2018): This character is a new formulation of Dupret et al. (2009) character 34. It is about the condition presents in many placoderms where a median impaired bone (nuchal plate) is in contact with the unpaired bone bearing the pineal foramen or eminence. This is opposed to some other placoderms and osteichthyans where the median impaired bone (extrascapular in osteichthyans) is not in contact with the pineal plate so that the preorbitals (parietals in sarcopterygian,frontal in actinopterygian) are in contact.
+
+195.	Pineal plate occupies a notch in the anterior end of the nuchal plate: absent (0); present (1).
+> Young (1985).
+> - This character is present in some antarctaspids and petalichthys, such as *Lunaspis*, *Shearsbyaspis*, and *Eurycaraspis*.
 
  45. Length/width ratio (L/W) of nuchal plate: L/W ≤ 1.5 (0); L/W > 1.5(1).
 > Dupret *et al*. (2009), Character 59; Dupret *et al*. (2017), Character 59; Zhu *et al*. (2010), Character 59; Xue *et al*. (2025), Character 73.
@@ -320,6 +442,31 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - This character is contingent on Character 41.
 
+243. Nuchal plate contributing to posterior margin of skull roof: (0) absent; (1) present.
+> Zhu et al. (2013), Character 163; Choo et al. (2017), Character 172; Zhu Y. et al. (2022), Character 147. Cui et al. (2023), Character 147
+
+>  - **Character 144 in "early gnathostome phylogeny github".**
+>  - In *Campbellodus* and *Austroptyctodus*, the nuchal plate does not contribute to the posterior margin of the skull roof.
+
+244. Median paranuchal plate: (0) absent; (1) present.
+> Zhu Y. et al. (2022), Character 155. Cui et al. (2023), Character 155.
+
+>  - **Character 152 in "early gnathostome phylogeny github".**
+>  - Zhu Y. et al. (2022): "Paired median paranuchals are present in some acanthothoracids, e.g., *Romundina*, *Arabosteus* (Olive et al., 2011) and *Sudaspis* (Vaškaninová and Ahlberg, 2017).
+
+245. Posterior projection on posterior paranuchal plate: (0) absent; (1) present.
+> Castiello (2018), Character 188; Castiello (2018), Character 188; Zhu Y. et al. (2022), Character 158. Cui et al. (2023), Character 158.
+
+>  - **Character 155 in "early gnathostome phylogeny github".**
+>  - Castiello (2018):"Posterior projections are present on the posterior paranuchal plates on certain ’acanthothoracids’ (*Romundina* (Ørvig, 1975), *Arabosteus*, *Kimaspis*, *Kosoraspis*, and *Tlamaspis*."
+
+224. Posterior descending lamina of skull roof: (0) absent; (1) present.
+> King et al. (2017), Character 252; Castiello (2018), Character 251; Zhu Y. et al. (2019), Character 7; Zhu Y. et al. (2022), Character 93; Brazeau et al. (2023), Character 257. Cui et al. (2023), Character 93.
+
+> - **Character 91 in "early gnathostome phylogeny github".**
+
+> - This character is present in some petalichthyids and antiarchs. A similar lamina is found in *Materpiscis* and *Austroptyctodus*.
+
  63. Skull roof fenestra: absent (0); present (1).
 > Zhu Y *et al*. (2016), Character 109; Xue *et al*. (2025), Character 53.
 
@@ -344,6 +491,9 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
  67. Triangular depression posterior to supraorbital vault: absent (0); present (1).
 > Dennis and Miles (1979b), Character 14, in part; Carr (1991), Character 3; Lelièvre (1995), character 24; Carr and Hlavin (2010), Character 3; Rücklin *et al*. (2016), Character 3; Zhu Y *et al*. (2016), Character 3; Jobbins *et al*. (2022, 2024), Character 3; Xue *et al*. (2025), Character 3.
+
+206. Depression mesial to supraorbital vault: absent (0); present (1).
+> - This depression is present in many plesiomorphic arthrodires, such as *Buchansopteus*, *Dhanguura* and *Exutaspis*.
 
  68. Neurocranial process or thickening: absent (0); thickening (1); distinct process (2).
 > Dennis and Miles (1979b), Character 16, in part; Carr (1991), Character 4; Carr and Hlavin (2010), Character 4; Rücklin *et al*. (2016), Character 4; Zhu Y *et al*. (2016), Character 4; Jobbins *et al*. (2022, 2024), Character 4; Xue *et al*. (2025), Character 4.
@@ -389,6 +539,12 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - Character 174 is contingent on Character 173.
 
+207. Endolymphatic thickening on the visceral surface of skull roof: absent (0); present (1).
+> - The endolymphatic thickening is positioned in the anterior mesial part of paranuchal plate. The endolymaphtic thickening possibly corresponding to the lateral depression on the dorsal surface of the neurocranium is present non-eubrachythoracids, such as in *Kujdanowiaspis*, *Dicksonosteus*, and *Parabuchanosteus*.
+
+208. Median nuchal thickening on the visceral surface of skull roof: long (0); short (1).
+> - The median nuchal thickening corresponding to the median nuchal depression on the dorsal suface of neurocranium is short in the brachythoracids and long in the plesiomorphic arthrodires.
+
 ## Neck joint
  74. Skull roof and thoracic armour articulation: articulation medial (0); articulation laterally displaced (1). 
 >  Goujet (1984); Carr and Hlavin (2010), Character 90; Rücklin *et al*. (2015), Character 90; Zhu Y *et al*. (2016), Character 90; Dupret *et al*. (2009, 2017), Character 41; Jobbins *et al*. (2022, 2024), Character 90; Xue *et al*. (2025), Character 35.
@@ -433,11 +589,20 @@ ridge is present in petalichthyids and some ptyctodontids and absent in other pl
 > Zhu *et al*. (2019), Character 7.
 > - It is present only in *Qilinyu* and *Silurolepis*.
 
+242. Obstantic margin of skull roof: (0) long; (1) short.
+> Zhu et al. (2016), Character 347; Zhu Y. et al. (2021), Character 314; Zhu Y. et al. (2022), Character 146. Cui et al. (2023), Character 146.
+
+>  - **Character 143 in "early gnathostome phylogeny github".**
+>  - In some acanthoracids, *Brindabellaspis*, and *Xiushanosteus*, the obstantic margin is short.
+
 ## Thoracic armour
  104. Extrascapular plate: absent (0); present (1).
 > Dupret *et al*. (2009), Character 45; Dupret *et al*. (2017), Character 45; Zhu *et al*. (2010), Character 45;  Xue *et al*. (2025), Character 104.
 
 > - **Character 80 in "early gnathostome phylogeny github".** 80. Postnuchal plates: (0) absent; (1) present.
+
+201. Number of the extrascapular: one (0); two (1).
+> - This character is contingent on Character 104.
 
  77. Median dorsal plate with a ventral ridge: a ventral thickening or ridge (0); posterior ridge with a posterior process, not spatulate (1); posterior process posterodorsally spatulate (2).
 > Dennis and Miles (1979a), Characters 4 and 18, modified; Carr (1991), Character 35; Lelièvre (1995), character  40, modified; Carr and Hlavin (2010), Character 35; Rücklin *et al*. (2015), Character 35; Zhu Y *et al*. (2016), Character 35; Jobbins *et al*. (2022, 2024), Character 35； Xue *et al*. (2025), Character 77.
@@ -480,6 +645,9 @@ ridge is present in petalichthyids and some ptyctodontids and absent in other pl
  96. Anterior dorsolateral plate and anterior lateral plate fused into one complex: not fused (0); fused (1).
 > Zhu Y *et al*. (2016), Character 117; Xue *et al*. (2025), Character 96.
 
+211. Dorsolateral ridge originating from near the condyle of the anterior dorsolateral plate: absent (0), present (1).
+> Long (1995); Fitzpatrick *et al*. (2025), character 127.
+
 181.  Posterior dorsolateral plate: absent (0); present (1).
 > Giles *et al*. (2015), Character 187; Choo *et al*. (2017), Character 308; King *et al*. (2017), Character 436; Castiello (2018), Character 425; Zhu Y. *et al*. (2022), Character 586; Andreev *et al*. (2022), Character 185; Brazeau *et al*. (2023), Character 441; Cui *et al*. (2023), Character 585.
 
@@ -494,6 +662,22 @@ ridge is present in petalichthyids and some ptyctodontids and absent in other pl
 
 > - **check definition, typo error, check codings in the matrix?** There exist systematic typo errors from Dupret *et al*. (2009) to Zhu *et al*. (2010) "Length/width ratio (L/W) of posterior dorsolateral plate: L/H < 2 (0); L/H > 2 (1)". The original definition in Johnson et al. (2000), L/W > 2 (0), L/W ≤ 2 (1).
 > - Johnson *et al*. (2000): "measured along the main lateral line canal (width) and posteror margin (ornamented area) equals less than 2. This ratio exceeds 2 only in *Actinolepis magna* (Mark-Kurik, 1973)."
+
+212. Internal annular thickening of the posterior trunk plates (‘b.cpd’, Goujet 1984, fig. 61B): absent (0), present (1).  
+> Goujet (1984); Fitzpatrick *et al*. (2025), character 129.
+
+209. Anterior dorsolateral plate overlapped by the posterior lateral plate: absent(0); present(1).
+> Long et al. (2014).
+
+> - This character is possibly the synapomorphy of Parabuchanosteidae. This condition is also present in *Herasmius dayi*.
+
+210. Dermal contact between the anterior dorsolateral and posterior lateral plates: absent (0), present (1).
+> Fitzpatrick *et al*. (2025), character 125.
+
+186. Medial contact of the dorsolateral plates under the median dorsal plate: no contact (0); anterior dorsolateral plates (1); anterior and posterior dorsolateral plates (2).
+> Goujet (1984); Fitzpatrick *et al*. (2024), Character 128.
+
+> - **Character 586 in "early gnathostome phylogeny github".** Left and right posterior dorsolateral plates contact below the median dorsal plate: (0) absent; (1) present.
 
  97. Anterior ventral corner or anterior ventral wing (sensu Carr, 1996) of the anterior lateral plate extends anterolaterally: not extending anterolaterally, the lateral profile of the anterior lateral plate is sub-triangular or rhomboid (0); extending anterolaterally, making the lateral profile of the anterior lateral plate ‘boomerang’-shaped (1).
 > Zhu Y *et al*. (2016), Character 118; Xue *et al*. (2025), Character 97.
@@ -516,6 +700,11 @@ ridge is present in petalichthyids and some ptyctodontids and absent in other pl
 
  82. Lateral contact between interolateral plate and spinal plate: absent (0); present (1).
 > Carr (1991), Character 40; Carr and Hlavin (2010), Character 40; Rücklin *et al*. (2015), Character 40; Zhu Y *et al*. (2016), Character 40; Jobbins *et al*. (2022, 2024), Character 40； Xue *et al*. (2025), Character 82.
+
+184. Angle between interolateral and spinal plates: angle < 110° (0); angle ≥ 110° (1).
+> Dupret *et al*. (2009, 2017), Character 63. **check codings**
+
+> - check state definition. an error exists in Dupret et al. (2017).
 
  83. Pectoral dermal enclosure: fenestra (0); embayment open posteriorly (1).
 > Carr (1991), Character 41; Lelièvre (1995), character 34;  Carr and Hlavin (2010), Character 41; Rücklin *et al*. (2015), Character 41; Zhu Y *et al*. (2016), Character 41; Jobbins *et al*. (2022, 2024), Character 41； Xue *et al*. (2025), Character 83.
@@ -557,6 +746,9 @@ ridge is present in petalichthyids and some ptyctodontids and absent in other pl
 
  112. Spinelets on mesial side of spinal plate: absent (0); present (1).
 > Johnson *et al*. (2000), Character 29; Dupret *et al*. (2009), Character 55; Dupret *et al*. (2017), Character 55; Zhu *et al*. (2010), Character 55; Xue *et al*. (2025), Character 112.
+
+188. Distinct infraspinal lamina/process (‘pr.infsp’, Miles & Westoll 1968, fig. 40C; ‘la.spv’, Goujet 1984, fig. 66A) of the anterior ventrolateral plate: absent (0), present (1).
+> Fitzpatrick *et al*. (2024), Character 132.
 
  89. Branchial lamina of the interolateral plate : absent (0); present (1).
 > Carr (1991), Character 47; Carr and Hlavin (2010), Character 47; Rücklin *et al*. (2015), Character 47; Zhu Y *et al*. (2016), Character 47; Jobbins *et al*. (2022, 2024), Character 47；Xue *et al*. (2025), Character 89.
@@ -621,6 +813,10 @@ ridge is present in petalichthyids and some ptyctodontids and absent in other pl
  119. Suborbital and marginal plates in contact: absent (0); present (1).
 > Gariner and Miles (1990), Character 22.28; Carr (1991), Character 55; Carr and Hlavin (2010), Character 55; Rücklin *et al*. (2015), Character 55; Zhu Y *et al*. (2016), Character 55; Jobbins *et al*. (2022, 2024), Character 55; Xue *et al*. (2025), Character 119.
 
+197. Spiracular notch between the postorbital and suborbital plates: absent (0); present (1).
+     
+> - The spiracular notch between the postorbital plate and the dorsal margin of suborbital plate is present in some Incisoscutoidea, such as *Torosteus*, *Harrytoombsia*, and *Mcnamaraspis*. The spiracular notch of *Mcnamaraspis* is closed by short contact between the suborbital and postorbital plates.
+
  120. Suborbital plate with a contact face for the PSG on the linguiform process: absent (0); present (1).
 > Carr (1991), Character 56; Carr and Hlavin (2010), Character 56; Rücklin *et al*. (2015), Character 56; Zhu Y *et al*. (2016), Character 56; Jobbins *et al*. (2022, 2024), Character 56; Xue *et al*. (2025), Character 120.
 
@@ -631,6 +827,11 @@ ridge is present in petalichthyids and some ptyctodontids and absent in other pl
 
  122. Detent process on quadrate: absent (0); present (1).
 > Gardiner and Miles (1990), Character 22.1; Carr (1991), Character 58; Carr and Hlavin (2010), Character 58; Rücklin *et al*. (2015), Character 58; Zhu Y *et al*. (2016), Character 58; Jobbins *et al*. (2022, 2024), Character 58; Xue *et al*. (2025), Character 122.
+
+228. Postsuborbital plate (Quadratojugal): (0) present; (1) absent.
+> King et al. (2017), Character 276; Castiello (2018), Character 270; Zhu Y. et al. (2022), Character 106; Brazeau et al. (2023), Character 281. Cui et al. (2023), Character 106; Lu et al. (in review), Character 104; Zhu Y. et al. (in review), Character 104.
+
+> - **Character 104 in "early gnathostome phylogeny github".**
 
  123. Submarginal plate closely associated with the hyomandibular: absent (0); present, indicated by the presence of perichondral bone or the presence of an internal depression (1).
 > Carr (1991), Character 59; Carr and Hlavin (2010), Character 59; Rücklin *et al*. (2015), Character 59; Zhu Y *et al*. (2016), Character 59; Jobbins *et al*. (2022, 2024), Character 59; Xue *et al*. (2025), Character 123.
@@ -656,6 +857,9 @@ ridge is present in petalichthyids and some ptyctodontids and absent in other pl
 
  128. Infragnathal anterior dental field developed anteriorly of the cusp region: absent (0); present (1), indicated by a projection of the infragnathal anterior to the dorsal functional region.
 > Carr (1991), Character 64; Carr and Hlavin (2010), Character 64; Rücklin *et al*. (2015), Character 64; Zhu Y *et al*. (2016), Character 64; Jobbins *et al*. (2022, 2024), Character 64; Xue *et al*. (2025), Character 128.
+
+205. The groove on the mesial surface of the infragnathal blade: absent (0); present (1).
+> - In Coccosteomorphi, on the mesial surface of the blade, a groove running subparallel to its lower edge is possibly for the path of the ramus mandibularis internus VII, such as in the *Coccosteus cuspidatus* (Miles, 1979), *Xiantingosteus gracilis*, and *Camuropiscis concinnus* (Dennis and Miles, 1979).
 
  129. Adsymphysial (anterior dental field) denticles: absent (0); present (1).
 > Carr (1991), Character 65; Carr and Hlavin (2010), Character 65; Rücklin *et al*. (2015), Character 65; Zhu Y *et al*. (2016), Character 65; Jobbins *et al*. (2022, 2024), Character 65; Xue *et al*. (2025), Character 129.
@@ -715,10 +919,24 @@ ridge is present in petalichthyids and some ptyctodontids and absent in other pl
 > Zhu Y *et al*. (2016), Character 112; Xue *et al*. (2025), Character 145.
 
 ## Sensory canal system
+ 220. Sensory canals/grooves: (0) contained within the thickness of dermal bones; (1) contained in prominent ridges on visceral surface of bone.
+> Giles *et al*. (2015), Character 31; Choo *et al*. (2017), Character 266; King *et al*. (2017), Character 301; Castiello (2018), Character 292; Zhu Y. *et al*. (2022), Character 58; Andreev *et al*. (2022), Character 31; Brazeau *et al*. (2023), Character 306. Cui *et al*. (2023), Character 58.
+
+> - **Character 56 in "early gnathostome phylogeny github".**
+
  157. External morphology of sensory line system: canals with external pores (0); grooves (1).
 > Dupret *et al*. (2009, 2017), Character 14; Zhu *et al*. (2010), Character 14; Xue *et al*. (2025), Character 157; Modified from Trinajstic et al. (2019), character2.
 
 > - Sensory line network: (0) preserved as open grooves; (1) pass through canals enclosed within dermal bones. **Character 55 in "early gnathostome phylogeny github".**
+
+222. Cutaneous sensory organ on skull roof posterior to orbits: (0) absent; (1) present.
+> King et al. (2017), Character 242; Castiello (2018), Character 242; Zhu Y. et al. (2022), Character 85; Brazeau et al. (2023), Character 247. Cui et al. (2023), Character 85.
+
+> King et al. (2007): The Cu.s.o in *Romundina* (Ørvig 1975). A much smaller cu.s.o was described in a similar position in *Brindabellaspis* (Young 1980), but these are variably developed, and are no wider than the sensory line canals. Since the sensory lines are variably developed as canals or grooves in *Brindabellaspis* it is not clear that these ‘cutaneous sensory organs’ are not continuations of the sensory lines, so this character is scored as unknown in *Brindabellaspis*. A cluster of Cu.s.o pits is also labelled in a posterior region in *Eurycaraspis* (Liu 1991). Since these are a cluster in an unusual position *Eurycaraspis* is currently scored as unknown for this character.
+
+> - This character is only present in *Romundina* and *Kolymaspis*.
+
+> - **Character 83 in "early gnathostome phylogeny github".**
 
  158. Supraorbital sensory lines: separate (0); meet posteriorly (1).
 > Dupret *et al*. (2009, 2017), Character 15; Zhu *et al*. (2010), Character 15; Xue *et al*. (2025), Character 158.
@@ -728,16 +946,25 @@ ridge is present in petalichthyids and some ptyctodontids and absent in other pl
 
 > This character possiblly consists of two conditions, i.e., the supraorbital canal is only limited to the preorbital plate or extends to the nuchal plate with out central plate.
 
+ 190. Supraorbital sensory canals extending to the rostral plate: absent (0); present (1).
+> Lelièvre (1995), Character 43.
+
  163. Central sensory line: absent (0); present (1).
 > Dupret *et al*. (2009), Character 31; Dupret *et al*. (2017), Character 31; Zhu *et al*. (2010), Character 31; Xue *et al*. (2025), Character 163.
 
 >  - **Character 170 in "early gnathostome phylogeny github".**
+
+200.  Central sensory canals: separate (0); meet posteriorly (1).
+>  Gardiner and Miles (1994), Character 40.
+> - Central sensory canals meet posterioly on central plates in *Watsonosteus* and *Dickosteus*.
 
  160. Central sensory line leaves postorbital plate until radiation center of central plates: no (0); yes (1).
 > Johnson *et al*. (2000), Character 11; Dupret *et al*. (2009, 2017), Character 28; Zhu *et al*. (2010), Character 28; Xue *et al*. (2025), Character 160.
 
  147. Central canal groove meets supraorbital groove: absent (0); present (1).
 > Carr (1991), Character 76; Carr and Hlavin (2010), Character 76; Rücklin *et al*. (2015), Character 76; Zhu Y *et al*. (2016), Character 76; Jobbins *et al*. (2022, 2024), Character 76; Xue *et al*. (2025), Character 147.
+
+192. Central sensory line converging towards the ossificarion center of nuchal plate: absent (0); present (1).
 
 175. Profundus sensory line: absent (0); present (1).
 > Modified from Johnson *et al*. (2000), Character 12.
@@ -765,6 +992,19 @@ ridge is present in petalichthyids and some ptyctodontids and absent in other pl
 > - Character 178 is contingent on Character 176.
 > - Johnson *et al*. (2000): "This character is known only in *Simblaspis cachensis* (Denison, 1958)."
 
+204. Middle pit-line: absent (0); present (1).
+> - The middle pit-line is present in most arthrodires, some acanthothoracids (e.g. *Romundina stellina* and *Kolymaspis siberica*) and petalichthyids (e.g. *Dindongpetalichthys* and *Quasipetalichthys*), and a few ptyctodontids (e.g. *Rhampbodopis threiplandi*).
+
+> - In arthrodires, the middle pit-line is always positioned on the center of the central plate, except *Potangosteus* and wuttagoonaspids, in which the middle pit-line extends from the center of the postorbital plate to the nuchal plate.
+
+> - In the Dunkleosteidae, the middle pit-line is absent, such as in *Gorgonichthys* (Dunkle and Bungart, 1940), *Dunkleosteus* (Heintz, 1932), and *Heterosteus ingens*. The middle pit-line is present in the majority of arthrodires, such as in *Kujdanowiaspis* and *Coccosteus*.
+
+189.Long middle pit-line converging towards the ossification center of nuchal plate: absent (0); present (1).
+ >  Zhu *et al.*(2010), Character 66.
+
+203. Posterior pit line: absent (0); present (1).
+> - In some clades of Brachythoraci, the posterior pit line is absent, such as in the *Homosteus sulcatus*, *Heterosteus ingens*, *Tafilalichthys lavocati* and *Enseosteus jaekeli*.
+
  161. Number of posterior pit lines: two pairs (0); one pair (1).
 > Dupret *et al*. (2009, 2017), Character 29; Zhu *et al*. (2010), Character 29; Xue *et al*. (2025), Character 161.
 
@@ -779,6 +1019,8 @@ ridge is present in petalichthyids and some ptyctodontids and absent in other pl
 
 > - In antarctaspidae and *Yujiangosteus*, the posterior pit line extends from the paranuchal plate to the nuchal plate. This condition differs from other arthrodires in which the posterior pit line extends from paranuchal plate to the central plate. In matrix of Dupret *et al.*, this character of antarctaspids is coded as 1.
 
+193. Posterior pit line converging towards the ossification center of nuchal plate: absent (0); present (1).
+
  146. Angle between the postorbital and otic branches of the infraorbital sensory line groove: open posteriorly (i.e. the formed angle is greater than 90°) (0); partially closed (i.e. the formed angle is between 45° and 90°) (1); closed (i.e. the formed angle is less than 45°) (2).
 > Lelièvre *et al*. (1987), Character 5, modified; Carr (1991), Character 75, modified; Carr and Hlavin (2010), Character 75; Rücklin *et al*. (2015), Character 75; Zhu Y *et al*. (2016), Character 75; Jobbins *et al*. (2022, 2024), Character 75; Xue *et al*. (2025), Character 146.
 
@@ -791,7 +1033,25 @@ ridge is present in petalichthyids and some ptyctodontids and absent in other pl
 
 > - **Character 188 in "early gnathostome phylogeny github".**
 
- 152. Postsuborbital sensory line groove on suborbital plate: absent (0); present (1).
+156. Postmarginal canal: absent (0); present (1).
+> Carr (1991), Character 85; Carr and Hlavin (2010), Character 85; Rücklin *et al*. (2015), Character 85; Zhu Y *et al*. (2016), Character 85; Jobbins *et al*. (2022, 2024), Character 85; Xue *et al*. (2025), Character 156.
+
+> - **Character 168 in "early gnathostome phylogeny github".** 
+
+191. Postmarginal canal extending to the postmarginal plate: present (0); absent (1).
+> - In most arthrodires, the postmarginal canal extends to the postmarginal plate, but in some taxa, such as *Baringaspis* and *Yujiangolepis*, the postmarginal canal is limited in the marginal plate.
+> - In those taxa the postmarginal plate or postmarginal canal is absent, this character is scored as 'not applicable'.  
+
+ 164. Occipital cross commissure: on both nuchal and paranuchal plates (0); only on paranuchal plates (1).
+> Lelièvre (1995), character 48, modified; Johnson *et al*. (2000), Characters 8 and 9, modified; Dupret *et al*. (2009), Character 36; Dupret *et al*. (2017), Character 36; Zhu *et al*. (2010), Character 36; Xue *et al*. (2025), Character 164.
+
+> - Lelièvre (1995): Orientation of the occipital cross-comissure: directed towards or reaching the nuchal plate (0), directed onto the nuchal gap, and extending on the extrascapular plates, if preserved (1); absent(0).
+
+> - **Character 175 in "early gnathostome phylogeny github".** Sensory line commissure across extrascapular bones (nuchal and paranuchal): (0) absent; (1) present.
+
+202. Occipital cross commissure on the skull roof: absent (0); present (1). 
+
+152. Postsuborbital sensory line groove on suborbital plate: absent (0); present (1).
 > Lelièvre (1988), Character 1; Carr (1991), Character 81; Carr and Hlavin (2010), Character 81; Rücklin *et al*. (2015), Character 81; Zhu Y *et al*. (2016), Character 81; Jobbins *et al*. (2022), Character 81; Xue *et al*. (2025), Character 152.
 
  153. Angle between the suborbital and postorbital branches of the infraorbital sensory line groove (Lelièvre, 1984a): opened (0); closed, measured as less than 90° (1).
@@ -804,17 +1064,17 @@ ridge is present in petalichthyids and some ptyctodontids and absent in other pl
 
 > - In those taxa that the supraoral sensory groove is absent, this character is scored as ‘not applicable’.
 
-156. Postmarginal canal: absent (0); present (1).
-> Carr (1991), Character 85; Carr and Hlavin (2010), Character 85; Rücklin *et al*. (2015), Character 85; Zhu Y *et al*. (2016), Character 85; Jobbins *et al*. (2022, 2024), Character 85; Xue *et al*. (2025), Character 156.
+198. Cutaneous sensory organ on suborbital plate: (0) absent; (1) present.
+> King *et al*. (2016); King *et al*. (2017), Character 240; Castiello (2018), Character 240; Zhu Y. *et al*. (2022), Character 83; Brazeau *et al*. (2023), Character 245; Cui *et al*. (2023), Character 83; Fitzpatrick *et al*. (2024), character 124.
 
-> - **Character 168 in "early gnathostome phylogeny github".** 
+> - Within arthrodires, cutaneous sensory organ pits are most commonly found on the suborbital and postsuborbital plates of eubrachythoracid arthrodires: the suborbital and postsuborbital plates of *Coccosteus* (Stensio 1963; Fig. 5B), *Watsonosteus* (Miles & Westoll 1962), *Goodradigbeeon* (White 1978), *Torosteus* (Gardiner & Miles 1990) and *Plourdosteus* (Ørvig 1960) and the postsuborbital plate of *Harrytoombsia* (Miles  &  Dennis  1979), *Mcnamaraspis* (Long 1995), *Simosteus* (Dennis & Miles 1982), *Compagopiscis* (Gardiner & Miles 1994), *Dickosteus* (Miles & Westoll 1962) and *Kimberleyichthys* (Dennis-Bryan & Miles 1983).
 
- 164. Occipital cross commissure: on both nuchal and paranuchal plates (0); only on paranuchal plates (1).
-> Lelièvre (1995), character 48, modified; Johnson *et al*. (2000), Characters 8 and 9, modified; Dupret *et al*. (2009), Character 36; Dupret *et al*. (2017), Character 36; Zhu *et al*. (2010), Character 36; Xue *et al*. (2025), Character 164.
+> - **Character 81 in "early gnathostome phylogeny github".**
 
-> - Lelièvre (1995): Orientation of the occipital cross-comissure: directed towards or reaching the nuchal plate (0), directed onto the nuchal gap, and extending on the extrascapular plates, if preserved (1); absent(0).
+199. Cutaneous sensory organ on postsuborbital plate: (0) absent; (1) present.
+> King *et al*. (2016); King *et al*. (2017), Character 241; Castiello (2018), Character 241; Zhu Y. *et al*. (2022), Character 84; Brazeau *et al*. (2023), Character 246; Cui *et al*. (2023), Character 84; Fitzpatrick *et al*. (2024), character 124.
 
-> - **Character 175 in "early gnathostome phylogeny github".** Sensory line commissure across extrascapular bones (nuchal and paranuchal): (0) absent; (1) present.
+> - **Character 82 in "early gnathostome phylogeny github".**
 
 165. Dorsolateral groove (for accessory line) on anterior dorsolateral plate: absent (0); present (1).
 > Dupret *et al*. (2009), Character 46; Dupret *et al*. (2017), Character 46; Zhu *et al*. (2010), Character 46; Xue *et al*. (2025), Character 165.
@@ -835,6 +1095,15 @@ ridge is present in petalichthyids and some ptyctodontids and absent in other pl
 
 100. Anteroventral groove on the ventral surface of the interolateral plate: absent (0); present (1).
 > Zhu Y *et al*. (2016), Character 121; Xue *et al*. (2025), Character 100.
+
+187. Ventral sensory canal on the anterior ventrolateral plate: absent (0), present (1).
+> Fitzpatrick *et al*. (2024), Character 131.
+
+185. Inverted V-shaped flexure of the posterior dorsolateral plate sensory canal: no flexure (0), weak flexure, > 110° (1); strong flexure, ≤ 110° (2).  
+> Long (1995); Fitzpatrick *et al*. (2024), Character 126.
+> - Scored not applicable in taxa without a PDL flexure sensory canal.
+
+> - **Character 599 in "early gnathostome phylogeny github".** Sharp downward bend in posterior dorsolateral plate sensory line: (0) absent; (1) present.
 
 ## Neurocranium
  168. Link between the two neurocranium components (ethmoid and postethmoid parts): no link (‘loose nose’ fishes) (0); fusion (by osseous trabecles or total fusion) (1).
@@ -871,282 +1140,12 @@ ridge is present in petalichthyids and some ptyctodontids and absent in other pl
 182. Posterior median dorsal plates covering the tail: absent (0); present (1).
 >  Johnson *et al*. (2000), character 26; Dupret *et al*. (2009, 2017), Character 56.
 > - Posterior median dorsal plates are absent in *Actinolepis*, but are common present in other species (Denison, 1957, 1978; Goujet, 1985; Johnson *et al*., 2000).
-
-184. Angle between interolateral and spinal plates: angle < 110° (0); angle ≥ 110° (1).
-> Dupret *et al*. (2009, 2017), Character 63. **check codings**
-
-> - check state definition. an error exists in Dupret et al. (2017).
-
-185. Inverted V-shaped flexure of the posterior dorsolateral plate sensory canal: no flexure (0), weak flexure, > 110° (1); strong flexure, ≤ 110° (2).  
-> Long (1995); Fitzpatrick *et al*. (2024), Character 126.
-> - Scored not applicable in taxa without a PDL flexure sensory canal.
-
-> - **Character 599 in "early gnathostome phylogeny github".** Sharp downward bend in posterior dorsolateral plate sensory line: (0) absent; (1) present.
-
-186. Medial contact of the dorsolateral plates under the median dorsal plate: no contact (0); anterior dorsolateral plates (1); anterior and posterior dorsolateral plates (2).
-> Goujet (1984); Fitzpatrick *et al*. (2024), Character 128.
-
-> - **Character 586 in "early gnathostome phylogeny github".** Left and right posterior dorsolateral plates contact below the median dorsal plate: (0) absent; (1) present.
-
-187. Ventral sensory canal on the anterior ventrolateral plate: absent (0), present (1).
-> Fitzpatrick *et al*. (2024), Character 131.
-
-188. Distinct infraspinal lamina/process (‘pr.infsp’, Miles & Westoll 1968, fig. 40C; ‘la.spv’, Goujet 1984, fig. 66A) of the anterior ventrolateral plate: absent (0), present (1).
-> Fitzpatrick *et al*. (2024), Character 132.
-
-189.Long middle pit-line converging towards the ossification center of nuchal plate: absent (0); present (1).
- >  Zhu *et al.*(2010), Character 66.
-
-190. Supraorbital sensory canals extending to the rostral plate: absent (0); present (1).
-> Lelièvre (1995), Character 43.
-
-191. Postmarginal canal extending to the postmarginal plate: present (0); absent (1).
-> - In most arthrodires, the postmarginal canal extends to the postmarginal plate, but in some taxa, such as *Baringaspis* and *Yujiangolepis*, the postmarginal canal is limited in the marginal plate.
-> - In those taxa the postmarginal plate or postmarginal canal is absent, this character is scored as 'not applicable'.  
-
-192. Central sensory line converging towards the ossificarion center of nuchal plate: absent (0); present (1).
-
-193. Posterior pit line converging towards the ossification center of nuchal plate: absent (0); present (1).
-
-194. Contact between preorbital plate and nuchal plate: absent (0); present (1).
-
-> - **Character 81 in "early gnathostome phylogeny github".** Contact of nuchal or centronuchal or median extrascapular plate with paired preorbital or parietal plates: absent (0); present (1).
-     
-195.	Pineal plate occupies a notch in the anterior end of the nuchal plate: absent (0); present (1).
-> Young (1985).
-> - This character is present in some antarctaspids and petalichthys, such as *Lunaspis*, *Shearsbyaspis*, and *Eurycaraspis*.
-
-196. Postorbital plate in contact with the nuchal plate: absent(0); present(1).
-
+    
 ## more additions
 ### cranial part
 
-197. Spiracular notch between the postorbital and suborbital plates: absent (0); present (1).
-     
-> - The spiracular notch between the postorbital plate and the dorsal margin of suborbital plate is present in some Incisoscutoidea, such as *Torosteus*, *Harrytoombsia*, and *Mcnamaraspis*. The spiracular notch of *Mcnamaraspis* is closed by short contact between the suborbital and postorbital plates.
-
-198. Cutaneous sensory organ on suborbital plate: (0) absent; (1) present.
-> King *et al*. (2016); King *et al*. (2017), Character 240; Castiello (2018), Character 240; Zhu Y. *et al*. (2022), Character 83; Brazeau *et al*. (2023), Character 245; Cui *et al*. (2023), Character 83; Fitzpatrick *et al*. (2024), character 124.
-
-> - Within arthrodires, cutaneous sensory organ pits are most commonly found on the suborbital and postsuborbital plates of eubrachythoracid arthrodires: the suborbital and postsuborbital plates of *Coccosteus* (Stensio 1963; Fig. 5B), *Watsonosteus* (Miles & Westoll 1962), *Goodradigbeeon* (White 1978), *Torosteus* (Gardiner & Miles 1990) and *Plourdosteus* (Ørvig 1960) and the postsuborbital plate of *Harrytoombsia* (Miles  &  Dennis  1979), *Mcnamaraspis* (Long 1995), *Simosteus* (Dennis & Miles 1982), *Compagopiscis* (Gardiner & Miles 1994), *Dickosteus* (Miles & Westoll 1962) and *Kimberleyichthys* (Dennis-Bryan & Miles 1983).
-
-> - **Character 81 in "early gnathostome phylogeny github".**
-
-199. Cutaneous sensory organ on postsuborbital plate: (0) absent; (1) present.
-> King *et al*. (2016); King *et al*. (2017), Character 241; Castiello (2018), Character 241; Zhu Y. *et al*. (2022), Character 84; Brazeau *et al*. (2023), Character 246; Cui *et al*. (2023), Character 84; Fitzpatrick *et al*. (2024), character 124.
-
-> - **Character 82 in "early gnathostome phylogeny github".**
-
-200.  Central sensory canals: separate (0); meet posteriorly (1).
->  Gardiner and Miles (1994), Character 40.
-> - Central sensory canals meet posterioly on central plates in *Watsonosteus* and *Dickosteus*.
-
-201. Number of the extrascapular: one (0); two (1).
-> - This character is contingent on Character 104.
-
-202. Occipital cross commissure on the skull roof: absent (0); present (1). 
-
-203. Posterior pit line: absent (0); present (1).
-> - In some clades of Brachythoraci, the posterior pit line is absent, such as in the *Homosteus sulcatus*, *Heterosteus ingens*, *Tafilalichthys lavocati* and *Enseosteus jaekeli*.
-
-204. Middle pit-line: absent (0); present (1).
-> - The middle pit-line is present in most arthrodires, some acanthothoracids (e.g. *Romundina stellina* and *Kolymaspis siberica*) and petalichthyids (e.g. *Dindongpetalichthys* and *Quasipetalichthys*), and a few ptyctodontids (e.g. *Rhampbodopis threiplandi*).
-
-> - In arthrodires, the middle pit-line is always positioned on the center of the central plate, except *Potangosteus* and wuttagoonaspids, in which the middle pit-line extends from the center of the postorbital plate to the nuchal plate.
-
-> - In the Dunkleosteidae, the middle pit-line is absent, such as in *Gorgonichthys* (Dunkle and Bungart, 1940), *Dunkleosteus* (Heintz, 1932), and *Heterosteus ingens*. The middle pit-line is present in the majority of arthrodires, such as in *Kujdanowiaspis* and *Coccosteus*.
-
-205. The groove on the mesial surface of the infragnathal blade: absent (0); present (1).
-> - In Coccosteomorphi, on the mesial surface of the blade, a groove running subparallel to its lower edge is possibly for the path of the ramus mandibularis internus VII, such as in the *Coccosteus cuspidatus* (Miles, 1979), *Xiantingosteus gracilis*, and *Camuropiscis concinnus* (Dennis and Miles, 1979).
-
-206. Depression lateral to supraorbital vault: absent (0); present (1).
-> - This depression is present in many plesiomorphic arthrodires, such as *Buchansopteus*, *Dhanguura* and *Exutaspis*.
-
-207. Endolymphatic thickening on the visceral surface of skull roof: absent (0); present (1).
-> - The endolymphatic thickening is positioned in the anterior mesial part of paranuchal plate. The endolymaphtic thickening possibly corresponding to the lateral depression on the dorsal surface of the neurocranium is present non-eubrachythoracids, such as in *Kujdanowiaspis*, *Dicksonosteus*, and *Parabuchanosteus*.
-
-208. Median nuchal thickening on the visceral surface of skull roof: long (0); short (1).
-> - The median nuchal thickening corresponding to the median nuchal depression on the dorsal suface of neurocranium is short in the brachythoracids and long in the plesiomorphic arthrodires.
-
 ### postcranial part
-209. Anterior dorsolateral plate overlapped by the posterior lateral plate: absent(0); present(1).
-> Long et al. (2014).
-
-> - This character is possibly the synapomorphy of Parabuchanosteidae. This condition is also present in *Herasmius dayi*.
-
-210. Dermal contact between the anterior dorsolateral and posterior lateral plates: absent (0), present (1).
-> Fitzpatrick *et al*. (2025), character 125.
-
-211. Dorsolateral ridge originating from near the condyle of the anterior dorsolateral plate: absent (0), present (1).
-> Long (1995); Fitzpatrick *et al*. (2025), character 127.
-
-212. Internal annular thickening of the posterior trunk plates (‘b.cpd’, Goujet 1984, fig. 61B): absent (0), present (1).  
-> Goujet (1984); Fitzpatrick *et al*. (2025), character 129.
-
 ## More characters relating to the inclusion of petalichthyid taxa in the matrix. 
-220. Sensory canals/grooves: (0) contained within the thickness of dermal bones; (1) contained in prominent ridges on visceral surface of bone.
-> Giles *et al*. (2015), Character 31; Choo *et al*. (2017), Character 266; King *et al*. (2017), Character 301; Castiello (2018), Character 292; Zhu Y. *et al*. (2022), Character 58; Andreev *et al*. (2022), Character 31; Brazeau *et al*. (2023), Character 306. Cui *et al*. (2023), Character 58.
-
-> - **Character 56 in "early gnathostome phylogeny github".**
-
-221. Dermal skull roof: (0) includes large dermal plates; (1) consists of undifferentiated plates or tesserae; (2) include both large dermal plates and tesserae.
-> Davis et al. (2012), Character 18; Choo et al. (2017), Character 17; King et al. (2017), Character 151; Castiello (2018), Character 150; Zhu Y. et al. (2022), Character 59; Andreev et al. (2022), Character 33; Brazeau et al. (2023), Character 155. Cui et al. (2023), Character 59.
-
-> - **Character 57 in "early gnathostome phylogeny github".**
-
-222. Cutaneous sensory organ on skull roof posterior to orbits: (0) absent; (1) present.
-> King et al. (2017), Character 242; Castiello (2018), Character 242; Zhu Y. et al. (2022), Character 85; Brazeau et al. (2023), Character 247. Cui et al. (2023), Character 85.
-
-> King et al. (2007): The Cu.s.o in *Romundina* (Ørvig 1975). A much smaller cu.s.o was described in a similar position in *Brindabellaspis* (Young 1980), but these are variably developed, and are no wider than the sensory line canals. Since the sensory lines are variably developed as canals or grooves in *Brindabellaspis* it is not clear that these ‘cutaneous sensory organs’ are not continuations of the sensory lines, so this character is scored as unknown in *Brindabellaspis*. A cluster of Cu.s.o pits is also labelled in a posterior region in *Eurycaraspis* (Liu 1991). Since these are a cluster in an unusual position *Eurycaraspis* is currently scored as unknown for this character.
-
-> - This character is only present in *Romundina* and *Kolymaspis*.
-
-> - **Character 83 in "early gnathostome phylogeny github".**
-
-223. Sclerotic ring incorporated into skull roof: (0) absent; (1) present.
-> King et al. (2017), Character 244; Castiello (2018), Character 243; Zhu Y. et al. (2022), Character 86; Brazeau et al. (2023), Character 249. Cui et al. (2023), Character 86.
-
-> - **Character 84 in "early gnathostome phylogeny github".**
-
-> - This character is only present in *Entelognathus*.
-
-224. Posterior descending lamina of skull roof: (0) absent; (1) present.
-> King et al. (2017), Character 252; Castiello (2018), Character 251; Zhu Y. et al. (2019), Character 7; Zhu Y. et al. (2022), Character 93; Brazeau et al. (2023), Character 257. Cui et al. (2023), Character 93.
-
-> - **Character 91 in "early gnathostome phylogeny github".**
-
-> - This character is present in some petalichthyids and antiarchs. A similar lamina is found in *Materpiscis* and *Austroptyctodus*.
-
-225. Mesial lamina on the internal surface of marginal plate: (0) absent; (1) present.
-> King et al. (2017), Character 254; Castiello (2018), Character 252; Zhu Y. et al. (2022), Character 94; Brazeau et al. (2023), Character 259. Cui et al. (2023), Character 94.
-
-> - **Character 92 in "early gnathostome phylogeny github".**
-
-> - King et al. (2017): A pair of laminae on the internal surface of the marginal plate, presumably for contact with the braincase, is present in ptyctodonts with suitable preservation. See e.g. Long (1997 fig. 4, mes.lam).
-
-226. Nostrils enclosed in dermal skull roof: (0) yes; (1) no.
-> King et al. (2017), Character 255; Castiello (2018), Character 253; Zhu Y. et al. (2022), Character 95; Brazeau et al. (2023), Character 261. Cui et al. (2023), Character 95.
-
-> - **Character 93 in "early gnathostome phylogeny github".**
-
-> - King et al. (2017): In eubrachythoracid arthrodires, the snout is assumed to continue in soft tissue, so that the nostrils are not enclosed within dermal bone. Where only the posterior nostril is enclosed, taxa are scored as yes, as are taxa with dorsal nostrils (acanthothoracids, antiarchs etc.)
-
-227. Pineal and rostral: (0) contact; (1) separated.
-> Castiello (2018), Character 255; Zhu Y. et al. (2022), Character 97. Cui et al. (2023), Character 97.
-
-> - **Character 95 in "early gnathostome phylogeny github".**
-
-> - This character is present in some petalichthyids, including *Lunaspis*, *Notopetalichthys*, and *Sinopetalichthys*.
-
-228. Postsuborbital plate (Quadratojugal): (0) present; (1) absent.
-> King et al. (2017), Character 276; Castiello (2018), Character 270; Zhu Y. et al. (2022), Character 106; Brazeau et al. (2023), Character 281. Cui et al. (2023), Character 106; Lu et al. (in review), Character 104; Zhu Y. et al. (in review), Character 104.
-
-> - **Character 104 in "early gnathostome phylogeny github".**
-
-229. Posterior nostril: (0) associated with orbit; (1) not associated with orbit.
-> Zhu et al. (2009, Character 8), and references therein; Zhu et al. (2013), Character 152; Giles et al. (2015), Character 116; Choo et al. (2017), Character 142; King et al. (2017), Character 171; Castiello (2018), Character 169; Zhu Y. et al. (2022), Character 112; Brazeau et al. (2023), Character 175. Cui et al. (2023), Character 112.
-
-> - **Character 110 in "early gnathostome phylogeny github".**
-
-> - Posterior nostril not associated with orbit is widely present in arthordires, *Macropetalichthys*, and *Romundina*.
-
-230. Extended preorbital region between eyes and nasal capsule: (0) absent; (1) present.
-> King et al. (2017), Character 22; , Character 22; Zhu Y. et al. (2022), Character 122; Brazeau et al. (2023), Character 25. Cui et al. (2023), Character 122.
-
-> - **Character 120 in "early gnathostome phylogeny github".**
-
-> - This character is present in macropetalichthyids, *Wuttagoonaspis*, and *Kolymaspis*.
-
-231. Orbit dorsal or facing dorsolaterally: (0) present; (1) absent.
-> Castiello (2018), Character 29; Zhu Y. et al. (2022), Character 123; Brazeau et al. (2023), Character 33. Cui et al. (2023), Character 123.
-
-> - **Character 121 in "early gnathostome phylogeny github".**
-
-> - This character is absent in the majority of arthrodires (with the exception of Wuttagoonaspis), as well as in quasipetalichthyids and ptyctodonts.
-> - *Diandongpetalichthy* is coded as "0" .
-
-232. Orbits, surrounded laterally by endocranium: (0) absent; (1) partially surrounded; (2) surrounded.
-> Castiello (2018), Character 30; Zhu Y. et al. (2022), Character 124; Brazeau et al. (2023), Character 33. Cui et al. (2023), Character 124.
-
-> - **Character 122 in "early gnathostome phylogeny github".**
-
-> - In arthrodires, quasipetalichthyids, and *Diandongpetalichthys*, this character are coded as "0".
-
-233. Pineal opening perforation in dermal skull roof: (0) present; (1) absent.
-> Davis et al. (2012), Character 25; Choo et al. (2017), Character 24; King et al. (2017), Character 159; Castiello (2018), Character 117; Zhu Y. et al. (2022), Character 130; Andreev et al. (2022), Character 42; Brazeau et al. (2023), Character 162. Cui et al. (2023), Character 130.
-
-> - **Character 128 in "early gnathostome phylogeny github".**
-
-234. Pineal eminence (in taxa lacking pineal foramen): (0) absent; (1) present.
-> Zhu Y. et al. (2021), Character 233; Zhu Y. et al. (2022), Character 131; Andreev et al. (2022), Character 237. Cui et al. (2023), Character 131.
-
-> - **Character 129 in "early gnathostome phylogeny github".**
-
-235. Dermal plate associated with pineal eminence or foramen: (0) contributes to orbital margin; (1) plate bordered laterally by skull roofing bones. 
-> Giles et al. (2015), Character 42; Choo et al. (2017), Character 270; King et al. (2017), Character 208; Castiello (2018), Character 207; Zhu Y. et al. (2021), Character 41; Zhu Y. et al. (2022), Character 134; Andreev et al. (2022), Character 43; Brazeau et al. (2023), Character 213. Cui et al. (2023), Character 134
-
-> - **Character 132 in "early gnathostome phylogeny github".**
-> - Giles et al. (2015): "Among taxa sampled in this analysis, osteostracans, antiarchs, *Brindabellaspis*, and *Romundina* bear pineal plates that contribute to the margin of the orbit, corresponding to state '0'. We consider taxa where the pineal foramen is bounded by rectilinear skull roofing bones but which lack separate pineal ossifications (e.g., *Mimipiscis*) as showing state '1'. Taxa lacking macromeric cranial skeletons are coded as inapplicable for this character."
-
-236. Preorbitals (Parietals): (0) absent; (1) present.
-> Choo et al. (2017), Character 169; Clement et al. (2018), Character 279; Zhu Y. et al. (2022), Character 136; Andreev et al. (2022), Character 279. Cui et al. (2023), Character 136.
-
-> - **Character 134 in "early gnathostome phylogeny github".**
-> - Preorbital plate is absent in antiarchs, Rhenanids, and maxillate placoderms (with the exception of *Bianchengichthys*).
-
-237. Condition of preorbitals (parietals): (0) do not meet in midline; (1) meet in midline.
-> Clement et al. (2018), Character 280; Zhu Y. et al. (2022), Character 137; Andreev et al. (2022), Character 280. Cui et al. (2023), Character 137.
-
->  - **Character 135 in "early gnathostome phylogeny github".**
->  - This character is related to Character 18, which is contingent upon it and has been modified as follows: Preorbital plates with a median contact — contact posterior to the pineal plate (0); contact anterior to the pineal plate (1). 
-
-238. Condition of centrals (postparietals): (0) do not meet in midline; (1) meet in midline.
-> Clement et al. (2018), Character 278; Zhu Y. et al. (2022), Character 140; Andreev et al. (2022), Character 278. Cui et al. (2023), Character 140.
-
->  - **Character 138 in "early gnathostome phylogeny github".**
-
-239. premedian plate (Large unpaired median skull roofing bone anterior to the level of nasal capsules): (0) absent; (1) present.
-> Zhu et al. (2013), Character 148; Choo et al. (2017), Character 159; King et al. (2017), Character 177; Castiello (2018), Character 174; Zhu Y. et al. (2022), Character 142; Brazeau et al. (2023), Character 183. Cui et al. (2023), Character 142.
-
->  - **Character 140 in "early gnathostome phylogeny github".**
->  - Premedian plate is present in acanthoracids, antiarchs, and maxillate placoderms.
-
-240. Position of premedian plate: (0) dorsal; (1) ventral.
-> Zhu Y. et al. (2022), Character 143. Cui et al. (2023), Character 143.
-
->  - **Character 141 in "early gnathostome phylogeny github".**
->  - In maxillate placoderms, the premedian plate is positioned ventrally. 
-
-241. Postnasal plate: (0) absent; (1) present.
-> Zhu et al. (2016), Character 341; Zhu Y. et al. (2021), Character 310; Zhu Y. et al. (2022), Character 144. Cui et al. (2023), Character 144.
-
->  - **Character 142 in "early gnathostome phylogeny github".**
->  - In petalichthyids and ptyctodonts, the postnasal plate is absent.
-
-242. Obstantic margin of skull roof: (0) long; (1) short.
-> Zhu et al. (2016), Character 347; Zhu Y. et al. (2021), Character 314; Zhu Y. et al. (2022), Character 146. Cui et al. (2023), Character 146.
-
->  - **Character 143 in "early gnathostome phylogeny github".**
->  - In some acanthoracids, *Brindabellaspis*, and *Xiushanosteus*, the obstantic margin is short.
-
-243. Nuchal plate contributing to posterior margin of skull roof: (0) absent; (1) present.
-> Zhu et al. (2013), Character 163; Choo et al. (2017), Character 172; Zhu Y. et al. (2022), Character 147. Cui et al. (2023), Character 147
-
->  - **Character 144 in "early gnathostome phylogeny github".**
->  - In *Campbellodus* and *Austroptyctodus*, the nuchal plate does not contribute to the posterior margin of the skull roof.
-
-244. Median paranuchal plate: (0) absent; (1) present.
-> Zhu Y. et al. (2022), Character 155. Cui et al. (2023), Character 155.
-
->  - **Character 152 in "early gnathostome phylogeny github".**
->  - Zhu Y. et al. (2022): "Paired median paranuchals are present in some acanthothoracids, e.g., *Romundina*, *Arabosteus* (Olive et al., 2011) and *Sudaspis* (Vaškaninová and Ahlberg, 2017).
-
-245. Posterior projection on posterior paranuchal plate: (0) absent; (1) present.
-> Castiello (2018), Character 188; Castiello (2018), Character 188; Zhu Y. et al. (2022), Character 158. Cui et al. (2023), Character 158.
-
->  - **Character 155 in "early gnathostome phylogeny github".**
->  - Castiello (2018):"Posterior projections are present on the posterior paranuchal plates on certain ’acanthothoracids’ (*Romundina* (Ørvig, 1975), *Arabosteus*, *Kimaspis*, *Kosoraspis*, and *Tlamaspis*."
-
 246. Middle and posterior pit-lines on central plate (postparietal): (0) posteriorly situated; (1) mesially situated.
 > Zhu et al. (2009, Character 107), and references therein; Zhu et al. (2013), Character 185; Choo et al. (2017), Character 190; King et al. (2017), Character 288; Castiello (2018), Character 280; Zhu Y. et al. (2022), Character 165; Brazeau et al. (2023), Character 293. Cui et al. (2023), Character 165.
 
