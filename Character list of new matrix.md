@@ -117,34 +117,42 @@
 
  180.  Transversely divided pineal plate forming anterior and posterior plates: absent (0); present (1). 
 > Fitzpatrick *et al*. (2024), Character 123.
+
 > - In those taxa without pineal plate, this character is scored as 'not applicable'.
 
  6. Pineal or rostropineal plate fused to skull roof: no fusion (0); fusion (1).
 > Johnson *et al*. (2000), Character 2; Dupret *et al*. (2009), Character 10; Dupret *et al*. (2017), Character 10; Zhu *et al*. (2010), Character 10; Xue *et al*. (2025), Character 57.
 
+> - In those taxa without pineal plate, this character is scored as 'not applicable'.
+
  7. Position of pineal plate: further anteriorly from orbits (0); same level as orbits (1).
 > Dupret *et al*. (2009), Character 6; Dupret *et al*. (2017), Character 6; Zhu *et al*. (2010), Character 6; Xue *et al*. (2025), Character 55.
 
+> - In those taxa without pineal plate, this character is scored as 'not applicable'.
 > - In those taxa that the pineal plate is fused with rostral plate, we use the rostropineal plate to represent the pineal plate.
 
  8. Shape of the pineal plate on the external surface of the skull roof: short and broad (0); long and narrow (1).
 > Zhu Y *et al*. (2016), Character 101; Xue *et al*. (2025), Character 45.
 
+> - In those taxa without pineal plate, this character is scored as 'not applicable'.
 > - In those taxa that the rostral plate fused with the pineal plate, this character is scored as 'not applicable'.
 
  9. Position of anterior edge of pineal plate: over orbit (0); anterior to orbit (1).
 > Carr (1991), Character 8; Lelièvre (1995), character 5, modified; Carr and Hlavin (2010), Character 8; Rücklin *et al*. (2015), Character 8; Zhu Y *et al*. (2016), Character 8; Jobbins *et al*. (2022, 2024), Character 8; Xue *et al*. (2025), Character 8.
 
+> - In those taxa without pineal plate, this character is scored as 'not applicable'.
 > - In those taxa that the rostral plate is fused with the pineal plate or the pineal plate is asbent such as in phyllolepids, this character is scored as 'not applicable'.
 
  10. Position of posterior edge of pineal plate: over orbit (0); posterior to orbit (1).
 > Carr (1991), Character 9; Carr and Hlavin (2010), Character 9; Rücklin *et al*. (2015), Character 9; Zhu Y *et al*. (2016), Character 9; Jobbins *et al*. (2022, 2024), Character 9; Xue *et al*. (2025), Character 9.
 
+> - In those taxa without pineal plate, this character is scored as 'not applicable'.
 > - In those taxa that the pineal plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
 
 233. Pineal opening perforation in dermal skull roof: (0) present; (1) absent.
 > Davis et al. (2012), Character 25; Choo et al. (2017), Character 24; King et al. (2017), Character 159; Castiello (2018), Character 117; Zhu Y. et al. (2022), Character 130; Andreev et al. (2022), Character 42; Brazeau et al. (2023), Character 162. Cui et al. (2023), Character 130.
 
+> - In those taxa without pineal plate, this character is scored as 'not applicable'.
 > - **Character 128 in "early gnathostome phylogeny github".**
 
 234. Pineal eminence (in taxa lacking pineal foramen): (0) absent; (1) present.
@@ -185,7 +193,7 @@
  18. Preorbital plates: separate (0); fused (1).
 > Johnson *et al*. (2000), Character 3; Dupret *et al*. (2009), Character 13; Dupret *et al*. (2017), Character 13; Zhu *et al*. (2010), Character 13; Xue *et al*. (2025), Character 60.
 
- 179.  Width/length (W/L) ratio of preorbital plates: W/L > 0.5 (0); W/L ≤ 0.5 (1).
+ 179. Width/length (W/L) ratio of preorbital plates: W/L > 0.5 (0); W/L ≤ 0.5 (1).
 > Dupret *et al*. (2009, 2017), Character 57.
 
  23. Preorbital plates forming part of orbital margin: yes (0); no (1).
@@ -199,15 +207,11 @@
 237. Condition of preorbitals (parietals): (0) do not meet in midline; (1) meet in midline.
 > Clement et al. (2018), Character 280; Zhu Y. et al. (2022), Character 137; Andreev et al. (2022), Character 280. Cui et al. (2023), Character 137.
 
->  - **Character 135 in "early gnathostome phylogeny github".**
->  - This character is related to Character 18, which is contingent upon it and has been modified as follows: Preorbital plates with a median contact — contact posterior to the pineal plate (0); contact anterior to the pineal plate (1). 
+> - **Character 135 in "early gnathostome phylogeny github".**
+> -  Dupret *et al*. (2009, 2017): Pineal or rostropineal plate separates preorbital plates: no separation (0); separation (1).
 
  20. Preorbital plates with a median contact: meet posterior to pineal plate (0); meet anterior to pineal plate (1).
 > Young (1981), Character 19a, modified; Carr (1991), Character 18; Lelièvre (1995), character 19, modified; Carr and Hlavin (2010), Character 18; Rücklin *et al*. (2015), Character 18; Zhu Y *et al*. (2016), Character 18; Dupret *et al*. (2009, 2017), Character 7, modified; Jobbins *et al*. (2022, 2024), Character 18; Xue *et al*. (2025), Character 18.
-
-> Dupret *et al*. (2009, 2017): Pineal or rostropineal plate separates preorbital plates: no separation (0); separation (1).
-
-> - In those taxa that the pineal plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
 
  21. Extent of median preorbital plate contact: short (0); long, measured as the ratio of (contact length)/ (PrO parasagittal length) > 0.5 (1).
 > Carr (1991), Character 19; Carr and Hlavin (2010), Character 19; Rücklin *et al*. (2015), Character 19; Zhu Y *et al*. (2016), Character 19; Jobbins *et al*. (2022, 2024), Character 19; Xue *et al*. (2025), Character 19.
@@ -223,10 +227,7 @@
 
 > - In those taxa that the preorbital plates are sperated by pineal of rostropineal plate, this character is scored "as yes, very deep (1)".
 
- 194. Contact between preorbital plate and nuchal plate: absent (0); present (1).
-> - **Character 81 in "early gnathostome phylogeny github".** Contact of nuchal or centronuchal or median extrascapular plate with paired preorbital or parietal plates: absent (0); present (1).
- 
- 24. Postorbital dermal process; negligible or absent (0); present (1).
+ 24. Postorbital dermal process: negligible or absent (0); present (1).
 > Carr (1991), Character 34; Lelièvre (1995), character 21, modified; Carr and Hlavin (2010), Character 34; Rücklin *et al*. (2015), Character 34; Zhu Y *et al*. (2016), Character 34; Jobbins *et al*. (2022, 2024), Character 34; Xue *et al*. (2025), Character 34.
 
  25. Development of the postorbital process of the postorbital plate: moderately developed (0); highly developed, defined as the postorbital process composing one-quarter of the orbit (1).
@@ -234,21 +235,27 @@
 
 > - In those taxa that the postorbital plate is asbent, this character is scored as 'not applicable'.
 
+Postorbital plate forms the posterolateral margin of orbit: absent (0); present (1).
+> - This character is shared by macropetalichthyids and *Brindabellaspis*.
+
 337.  Postorbital fenestra: (0) absent; (1) present.
 > Trinajstic et al. (2019), character 30.
 
-196. Postorbital plate in contact with the nuchal plate: absent(0); present(1).
+ 31. Central plates: fused into ‘centronuchal’ plate (0); individulized paired elements (1).
+> Dupret *et al*. (2009), Character 17; Dupret *et al*. (2017), Character 17; Zhu *et al*. (2010), Character 17; Xue *et al*. (2025), Character 61.
+
+> - **Character 79 in "early gnathostome phylogeny github".** 79. Single median element carrying the central, middle and posterior pit line: (0) absent; (1) present.
+>  -  Single midline bone is present in *Entelognathus*, *Wuttagoonaspis*, and phyllolepida.
 
  26. Length ratio for the external longitudinal of the preorbital and central plates (r = PrO/C): subequal, i.e. 0.75 < r < 1.25 (0); preorbital plate longer, i.e. r > 1.25 (1); central plate longer, i.e. r < 0.75 (2).
 > Carr (1991), Character 15; Carr and Hlavin (2010), Character 15; Rücklin *et al*. (2015), Character 15; Zhu Y *et al*. (2016), Character 15; Jobbins *et al*. (2022, 2024), Character 15; Xue *et al*. (2025), Character 15.
+
+> - In those taxa that the preorbital plate is asbent, this character is scored as 'not applicable'.
 
  27. Width of the central plate at its contact with the pineal plate: central plate tapers anteriorly to contact (0); central plate expands laterally to produce a transverse anterior border (1).
 > Carr (1991), Character 22; Carr and Hlavin (2010), Character 22; Rücklin *et al*. (2015), Character 22; Zhu Y *et al*. (2016), Character 22; Jobbins *et al*. (2022, 2024), Character 22; Xue *et al*. (2025), Character 22.
 
 > - This character is determined by the anterterior margin of central plate, although the central plate is not contacted with pineal plate. 
-
- 28. Postorbital plate embayment of central plate: absent (0); shallow (1); developed (2).
-> Carr (1991), Character 20; Carr and Hlavin (2010), Character 20; Rücklin *et al*. (2015), Character 20; Zhu Y *et al*. (2016), Character 20; Jobbins *et al*. (2022, 2024), Character 20; Xue *et al*. (2025), Character 20.
 
  29. Preorbital plate embayment of central plate: absent (0); shallow (1); developed (2).
 > Carr (1991), Character 13; Lelièvre (1991), character 16; Carr and Hlavin (2010), Character 13; Rücklin *et al*. (2015), Character 13; Zhu Y *et al*. (2016), Character 13; Jobbins *et al*. (2022, 2024), Character 13; Dupret *et al*. (2009, 2017), Character 20, modified; Xue *et al*. (2025), Character 13.
@@ -257,16 +264,13 @@
 
 > - In those taxa that the preorbital plate is not contacted with the central plate, this character is scored as 'not applicable'.
 
+ 28. Postorbital plate embayment of central plate: absent (0); shallow (1); developed (2).
+> Carr (1991), Character 20; Carr and Hlavin (2010), Character 20; Rücklin *et al*. (2015), Character 20; Zhu Y *et al*. (2016), Character 20; Jobbins *et al*. (2022, 2024), Character 20; Xue *et al*. (2025), Character 20.
+
  30. Paranuchal plate embayment of central plate: absent (0); shallow (1); developed (2).
 > Carr (1991), Character 14; Carr and Hlavin (2010), Character 14; Rücklin *et al*. (2015), Character 14; Zhu Y *et al*. (2016), Character 14; Jobbins *et al*. (2022, 2024), Characters 14; Xue *et al*. (2025), Character 14. 
 
 > - The paranuchal plate embayment is determined by formation of the lateral lobe of the central plate, and not the posterior lobe.
-
- 31. Central plates: fused into ‘centronuchal’ plate (0); individulized paired elements (1).
-> Dupret *et al*. (2009), Character 17; Dupret *et al*. (2017), Character 17; Zhu *et al*. (2010), Character 17; Xue *et al*. (2025), Character 61.
-
-> - **Character 79 in "early gnathostome phylogeny github".** 79. Single median element carrying the central, middle and posterior pit line: (0) absent; (1) present.
->  -  Single midline bone is present in *Entelognathus*, *Wuttagoonaspis*, and phyllolepida.
 
  32. Nuchal plate separating central plates: no (0); yes (1).
 > Johnson *et al*. (2000), Character 6; Dupret *et al*. (2009), Character 25; Dupret *et al*. (2017), Character 25; Zhu *et al*. (2010), Character 25; Xue *et al*. (2025), Character 66.
@@ -301,7 +305,7 @@
 
 > - This character is present in some ptyctodonts, such as *Ctenurella*.
 
-326. Central plates form the posterior margin of the skull roof: (0) absent; (1) present.
+326. Central plate forms the posterior margin of the skull roof: (0) absent; (1) present.
 
 > - This character is widely present in ptyctodonts.
 
@@ -349,8 +353,14 @@
 
 > - Castiello (2018): This character is a new formulation of Dupret et al. (2009) character 34. It is about the condition presents in many placoderms where a median impaired bone (nuchal plate) is in contact with the unpaired bone bearing the pineal foramen or eminence. This is opposed to some other placoderms and osteichthyans where the median impaired bone (extrascapular in osteichthyans) is not in contact with the pineal plate so that the preorbitals (parietals in sarcopterygian,frontal in actinopterygian) are in contact.
 
-195.	Pineal plate occupies a notch in the anterior end of the nuchal plate: absent (0); present (1).
-> Young (1985).
+ 194. Contact between preorbital plate and nuchal plate: absent (0); present (1).
+> - **Character 81 in "early gnathostome phylogeny github".** Contact of nuchal or centronuchal or median extrascapular plate with paired preorbital or parietal plates: absent (0); present (1).
+ 
+196. Postorbital plate in contact with the nuchal plate: absent(0); present(1).
+> Xue *et al.* (2025, in pre)
+
+195.	Pineal plate occupies a notch in the anterior end of the nuchal plate (Young, 1985): absent (0); present (1).
+> Xue *et al.* (2025, in pre)
 > - This character is present in some antarctaspids and petalichthys, such as *Lunaspis*, *Shearsbyaspis*, and *Eurycaraspis*.
 
  45. Length/width ratio (L/W) of nuchal plate: L/W ≤ 1.5 (0); L/W > 1.5(1).
@@ -394,6 +404,7 @@
 
  52. Posterolateral edge of paranuchal plates: convex (0); concave (1).
 > Dupret *et al*. (2009), Character 37; Dupret *et al*. (2017), Character 37; Zhu *et al*. (2010), Character 37; Xue *et al*. (2025), Character 69.
+> In those taxa have two pairs paranuchal plate, this character 
 
  53. Position of external foramen for endolymphatic duct: very forwardly positioned from posterior edge of paranuchal plate, or on anterior paranuchal plate for Petalichthyida (0); near the posterior edge of paranuchal plate (1).
 > Dupret *et al*. (2009), Character 39; Dupret *et al*. (2017), Character 39; Zhu *et al*. (2010), Character 39; Xue *et al*. (2025), Character 70.
