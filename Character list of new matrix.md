@@ -1035,144 +1035,144 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  211. Infragnathal with a developed blade portion: absent (0); present (1).
 > Dennis and Miles (1979a), Character 13; Carr (1991), Character 63; Lelièvre (1995), character 31; Carr and Hlavin (2010), Character 63; Rücklin *et al*. (2015), Character 63; Zhu Y *et al*. (2016), Character 63; Jobbins *et al*. (2022, 2024), Character 63; Xue *et al*. (2025), Character 127.
 
- 212. Infragnathal anterior dental field developed anteriorly of the cusp region: absent (0); present (1), indicated by a projection of the infragnathal anterior to the dorsal functional region.
-> Carr (1991), Character 64; Carr and Hlavin (2010), Character 64; Rücklin *et al*. (2015), Character 64; Zhu Y *et al*. (2016), Character 64; Jobbins *et al*. (2022, 2024), Character 64; Xue *et al*. (2025), Character 128.
-
  213. The groove on the mesial surface of the infragnathal blade: absent (0); present (1).
 > - In Coccosteomorphi, on the mesial surface of the blade, a groove running subparallel to its lower edge is possibly for the path of the ramus mandibularis internus VII, such as in the *Coccosteus cuspidatus* (Miles, 1979), *Xiantingosteus gracilis*, and *Camuropiscis concinnus* (Dennis and Miles, 1979).
+
+ 212. Infragnathal anterior dental field developed anteriorly of the cusp region: absent (0); present (1), indicated by a projection of the infragnathal anterior to the dorsal functional region.
+> Carr (1991), Character 64; Carr and Hlavin (2010), Character 64; Rücklin *et al*. (2015), Character 64; Zhu Y *et al*. (2016), Character 64; Jobbins *et al*. (2022, 2024), Character 64; Xue *et al*. (2025), Character 128.
 
  214. Adsymphysial (anterior dental field) denticles: absent (0); present (1).
 > Carr (1991), Character 65; Carr and Hlavin (2010), Character 65; Rücklin *et al*. (2015), Character 65; Zhu Y *et al*. (2016), Character 65; Jobbins *et al*. (2022, 2024), Character 65; Xue *et al*. (2025), Character 129.
 
- 142. Infragnathal with a secondary thickened ridge in the occlusal region, which may be associated with a secondary cusp: absent (0); present (1).
+ 215. Infragnathal with a secondary thickened ridge in the occlusal region, which may be associated with a secondary cusp: absent (0); present (1).
 > Carr and Hlavin (2010), Character 89; Rücklin *et al*. (2015), Character 89; Zhu Y *et al*. (2016), Character 89; Jobbins *et al*. (2022, 2024), Character 89; Xue *et al*. (2025), Character 141.
 
- 143. Shape of the infragnathal plate, defined by the depth of the occlusal portion and posterior blade portion, respectively: blade portion significantly deeper (0); occlusal portion deeper, or nearly equal between these two parts of the infragnathal plate (1).
+ 216. Shape of the infragnathal plate, defined by the depth of the occlusal portion and posterior blade portion, respectively: blade portion significantly deeper (0); occlusal portion deeper, or nearly equal between these two parts of the infragnathal plate (1).
 > Zhu Y *et al*. (2016), Character 110; Xue *et al*. (2025), Character 143.
 
-330. Tritural lower tooth plates: (0) present; (1) absent.
+ 217. Tritural lower tooth plates: (0) present; (1) absent.
 > Trinajstic et al. (2019), character 11.
 
-336. Ventral process on the lower toothplate: (0) absent; (1) present.
+ 218. Ventral process on the lower toothplate: (0) absent; (1) present.
 > Trinajstic et al. (2019), character 27.
 > This character is present in *Ctenurella*, *Austroptyctodu*, *Kimbryanodus*, and *Meeksiella*.
 
- 265. Pair of tooth plates (anterior supragnathals or vomers) on ethmoidal plate: (0) absent; (1) present.
+ 219. Pair of tooth plates (anterior supragnathals or vomers) on ethmoidal plate: (0) absent; (1) present.
 > Giles et al. (2015), Character 91; Choo et al. (2017), Character 287; King et al. (2017), Character 367; Castiello (2018), Character 357; Zhu Y. et al. (2022), Character 274; Andreev et al. (2022), Character 91; Brazeau et al. (2023), Character 372. Cui et al. (2023), Character 274.
 
 >  - **Character 270 in "early gnathostome phylogeny github".**
 >  - Stated 1 is shared by arthrodires and *Romundina*.
 
- 266. Fused anterior supragnathals: (0) absent; (1) present.
+ 220. Fused anterior supragnathals: (0) absent; (1) present.
 > King et al. (2017), Character 372; Castiello (2018), Character 361; Zhu Y. et al. (2022), Character 275; Brazeau et al. (2023), Character 377. Cui et al. (2023), Character 275.
 
 >  - **Character 271 in "early gnathostome phylogeny github".**
 >  - This character is only present in groenlandaspids.
 
- 262. Deep, high supragnathal bone with durophagous occlusal surface: (0) absent; (1) present.
+ 221. Deep, high supragnathal bone with durophagous occlusal surface: (0) absent; (1) present.
 > Long et al. (2015), Character 257; Choo et al. (2017), Character 249; Castiello (2018), Character 354. King et al. (2017), Character 364; Zhu Y. et al. (2022), Character 247; Brazeau et al. (2023), Character 369; Cui et al. (2023), Character 247; Trinajstic et al. (2019), character 6.
 
 >  - **Character 243 in "early gnathostome phylogeny github".**
 >  - This character is a synapomorphy of ptyctodontids.
 
- 130. Anterior supragnathal cusps: none (0); lateral (1); lateral and anterior (2).
+ 222. Anterior supragnathal cusps: none (0); lateral (1); lateral and anterior (2).
 > Carr (1991), Character 66; Lelièvre (1995), character 29, modified; Carr and Hlavin (2010), Character 66; Rücklin *et al*. (2015), Character 66; Zhu Y *et al*. (2016), Character 66; Jobbins *et al*. (2022, 2024), Character 66; Xue *et al*. (2025), Character 130.
 
 > - Lelièvre (1995): "Teeth" developed on the occlusal surface of the anterior superognathal:absent (0); present on anterior margin (1); present on anterior and lateral margins (2). 
 
- 131. Anterior supragnathal plate with an enclosed lateral face: absent (0); present (1).
+ 223. Anterior supragnathal plate with an enclosed lateral face: absent (0); present (1).
 > Carr (1991), Character 67 Carr and Hlavin (2010), Character 67; Rücklin *et al*. (2015), Character 67; Zhu Y *et al*. (2016), Character 67; Jobbins *et al*. (2022, 2024), Character 67; Xue *et al*. (2025), Character 131.
 
- 132. Anterior supragnathal plate with a dorsal process: absent (0); present (1).
+ 224. Anterior supragnathal plate with a dorsal process: absent (0); present (1).
 > Dennis and Miles (1979a), Character 22; Carr (1991), Character 68; Lelièvre (1995), character 28; Carr and Hlavin (2010), Character 68; Rücklin *et al*. (2015), Character 68; Zhu Y *et al*. (2016), Character 68; Jobbins *et al*. (2022, 2024), Character 68; Xue *et al*. (2025), Character 132.
 
 > -  **Character 274 in "early gnathostome phylogeny github".**
 
- 133. Dorsal process of the anterior supragnathal plate forms an open ring: ring open, measured as greater than 90° (0); ring forms a ~90° angle (1); ring closed, measured angle less than 90° (2).
+ 225. Dorsal process of the anterior supragnathal plate forms an open ring: ring open, measured as greater than 90° (0); ring forms a ~90° angle (1); ring closed, measured angle less than 90° (2).
 > Lelièvre *et al*. (1981), Character 4; Carr (1991), Character 69; Carr and Hlavin (2010), Character 69; Rücklin *et al*. (2015), Character 69; Zhu Y *et al*. (2016), Character 69; Jobbins *et al*. (2022, 2024), Character 69;  Xue *et al*. (2025), Character 133.
 
- 141. Lateral face of anterior supragnathal with an occlusal shelf posterior to the lateral cusp: absent (0); present (1).
+ 226. Lateral face of anterior supragnathal with an occlusal shelf posterior to the lateral cusp: absent (0); present (1).
 > Carr and Hlavin (2010), Character 88; Rücklin *et al*. (2015), Character 88; Zhu Y *et al*. (2016), Character 88; Jobbins *et al*. (2022, 2024), Character 88;  Xue *et al*. (2025), Character 141.
 
-263. Posterior supragnathal with vertical pipe-like ridges: (0) absent; (1) present.
+ 227. Posterior supragnathal with vertical pipe-like ridges: (0) absent; (1) present.
 > King et al. (2017), Character 373; Castiello (2018), Character 362; Zhu Y. et al. (2022), Character 248; Brazeau et al. (2023), Character 378; Cui et al. (2023), Character 248; Trinajstic et al. (2019), character 6.
 
 >  - **Character 244 in "early gnathostome phylogeny github".**
 >  - This character is only present in *Holonema*. See Miles (1971).
 
- 134. Posterior supragnathal plate with a dorsal proces: absent (0); large (1); small (2).
+ 228. Posterior supragnathal plate with a dorsal proces: absent (0); large (1); small (2).
 > Dennis and Miles (1979a), Character 22; Carr (1991), Character 70; Carr and Hlavin (2010), Character 70; Rücklin *et al*. (2015), Character 70; Zhu Y *et al*. (2016), Character 70; Jobbins *et al*. (2022, 2024), Character 70;  Xue *et al*. (2025), Character 134.
 
-329. Upper tooth plates have an anterior dorsal process (state 2 is here defined as when the dorsal process is more than twice the height of the median height of the tooth plate): (0) absent; (1) present short and thick; (2) present high.
+ 229. Upper tooth plates have an anterior dorsal process (state 2 is here defined as when the dorsal process is more than twice the height of the median height of the tooth plate): (0) absent; (1) present short and thick; (2) present high.
 > Modified from character 13 of Johnson and Elliott (1996); Trinajstic et al. (2019), character 10.
 
- 135. Width/length ratio for the parasphenoid pre- and posthypophysial shelf: prehypophysial shelf width greater than length, posthypophysial shelf width greater than length (0); prehypophysial shelf width less than length, posthypophysial shelf width greater than length (1); prehypophyial shelf width greater than length, posthypopysial shelf width less than length (2); pehypophysial shelf width less than length, posthyophysial shelf width less than length (3).
+ 230. Width/length ratio for the parasphenoid pre- and posthypophysial shelf: prehypophysial shelf width greater than length, posthypophysial shelf width greater than length (0); prehypophysial shelf width less than length, posthypophysial shelf width greater than length (1); prehypophyial shelf width greater than length, posthypopysial shelf width less than length (2); pehypophysial shelf width less than length, posthyophysial shelf width less than length (3).
 > Carr (1991), Character 71; Carr and Hlavin (2010), Character 71; Rücklin *et al*. (2015), Character 71; Zhu Y *et al*. (2016), Character 71; Jobbins *et al*. (2022, 2024), Character 71;  Xue *et al*. (2025), Character 135.
 
- 136. Parasphenoid posterolateral process: absent (0); present (1).
+ 231. Parasphenoid posterolateral process: absent (0); present (1).
 > Gardiner and Miles (1990), Character 22.36; Carr (1991), Character 72; Carr and Hlavin (2010), Character 72; Rücklin *et al*. (2015), Character 72; Zhu Y *et al*. (2016), Character 72; Jobbins *et al*. (2022, 2024), Character 72; Xue *et al*. (2025), Character 136.
 
- 137. Median hypophysial vein foramen: absent (0); present (1).
+ 232. Median hypophysial vein foramen: absent (0); present (1).
 > Gardiner and Miles (1990), Character 22.7; Carr (1991), Character 73; Carr and Hlavin (2010), Character 73; Rücklin *et al*. (2015), Character 73; Zhu Y *et al*. (2016), Character 73; Jobbins *et al*. (2022, 2024), Character 73; Xue *et al*. (2025), Character 137.
 
- 138. Parasphenoid ventromedian crest: absent (0); present (1).
+ 233. Parasphenoid ventromedian crest: absent (0); present (1).
 > Gardiner and Miles (1990), Character 22.27; Carr (1991), Character 74; Carr and Hlavin (2010), Character 74; Rücklin *et al*. (2015), Character 74; Zhu Y *et al*. (2016), Character 74; Jobbins *et al*. (2022, 2024), Character 74; Xue *et al*. (2025), Character 138.
 
- 139. Anterior supragnathal articulation with parashenoid: absent (0); present, indicated by either articular facets or a thickened contact face (1).
+ 234. Anterior supragnathal articulation with parashenoid: absent (0); present, indicated by either articular facets or a thickened contact face (1).
 > Dunkle and Bungart (1946); Carr and Hlavin (2010), Character 86; Rücklin *et al*. (2015), Character 86; Zhu Y *et al*. (2016), Character 86; Jobbins *et al*. (2022, 2024), Character 86; Xue *et al*. (2025), Character 139.
 
- 140. Parasphenoid anterior contact: thickened anterolateral contact facet (0); transverse articular facets (1).
+ 235. Parasphenoid anterior contact: thickened anterolateral contact facet (0); transverse articular facets (1).
 > Carr and Hlavin (2010), Character 87; Rücklin *et al*. (2015), Character 87; Zhu Y *et al*. (2016), Character 87; Jobbins *et al*. (2022, 2024), Character 87;  Xue *et al*. (2025), Character 140.
 
 > - In taxa lacking a parasphenoid–gnathal contact, this character is scored as ‘not applicable’.
 
- 144. Parasphenoid thickened around the buccohypophysial foramen: absent (0); present (1).
+ 236. Parasphenoid thickened around the buccohypophysial foramen: absent (0); present (1).
 > Zhu Y *et al*. (2016), Character 111; Xue *et al*. (2025), Character 144.
 
- 145. Stem-like prehypophysial region of the parasphenoid: absent (0); present (1).
+ 237. Stem-like prehypophysial region of the parasphenoid: absent (0); present (1).
 > Zhu Y *et al*. (2016), Character 112; Xue *et al*. (2025), Character 145.
 
- 267. Parasphenoid (Median dermal bone of palate): (0) absent; (1) present.
+ 238. Parasphenoid (Median dermal bone of palate): (0) absent; (1) present.
 > Gardiner (1984); Brazeau (2009); Davis et al. (2012), Character 55; Choo et al. (2017), Character 54; King et al. (2017), Character 131; Castiello (2018), Character 130; Zhu Y. et al. (2022), Character 279; Andreev et al. (2022), Character 109; Brazeau et al. (2023), Character 135.
 
 >  - **Character 275 in "early gnathostome phylogeny github".**
 >  - In placoderms, parasphenoid is present in arthrodires and *Shearsbyaspis*.
 
- 268. Buccohypophysial canal in parasphenoid: (0) single; (1) paired.
+ 239. Buccohypophysial canal in parasphenoid: (0) single; (1) paired.
 > Giles et al. (2015), Character 114; Choo et al. (2017), Character 292; King et al. (2017), Character 74; Castiello (2018), Character 76; Zhu Y. et al. (2022), Character 280; Andreev et al. (2022), Character 113; Brazeau et al. (2023), Character 78. Cui et al. (2023), Character 280.
 
 >  - **Character 275 in "early gnathostome phylogeny github".**
 >  - This character is widely present in eubrachythoracids.
 
- 269. Anterior portion of parasphenoid (pre-buccohypophyseal foramen) of greater length than posterior portion (post-foramen): (0) absent; (1) present.
+ 240. Anterior portion of parasphenoid (pre-buccohypophyseal foramen) of greater length than posterior portion (post-foramen): (0) absent; (1) present.
 > Coates et al. (2018), Character 99; Zhu Y. et al. (2022), Character 289. Cui et al. (2023), Character 289.
 
 >  - **Character 275 in "early gnathostome phylogeny github".**
 
- 264. Maxilla and premaxilla sensu lato (upper gnathal plates lateral to jaw cartilage): (0) absent; (1) present.
+ 241. Maxilla and premaxilla sensu lato (upper gnathal plates lateral to jaw cartilage): (0) absent; (1) present.
 > Zhu et al. (2016), Character 331; Coates et al. (2018), Character 92; Zhu Y. et al. (2022), Character 262. Cui et al. (2023), Character 262.
 
 >  - **Character 258 in "early gnathostome phylogeny github".**  
 >  - This character is shared by maxillate placoderms and crownward gnathostomes.
 
 ## Sensory canal system
- 220. Sensory canals/grooves: (0) contained within the thickness of dermal bones; (1) contained in prominent ridges on visceral surface of bone.
-> Giles *et al*. (2015), Character 31; Choo *et al*. (2017), Character 266; King *et al*. (2017), Character 301; Castiello (2018), Character 292; Zhu Y. *et al*. (2022), Character 58; Andreev *et al*. (2022), Character 31; Brazeau *et al*. (2023), Character 306. Cui *et al*. (2023), Character 58.
-
-> - **Character 56 in "early gnathostome phylogeny github".**
-
- 157. External morphology of sensory line system: canals with external pores (0); grooves (1).
+ 242. External morphology of sensory line system: canals with external pores (0); grooves (1).
 > Dupret *et al*. (2009, 2017), Character 14; Zhu *et al*. (2010), Character 14; Xue *et al*. (2025), Character 157; Modified from Trinajstic et al. (2019), character2.
 
 > - Sensory line network: (0) preserved as open grooves; (1) pass through canals enclosed within dermal bones. **Character 55 in "early gnathostome phylogeny github".**
 
-322. Transverse external groove behind pineal opening: (0) absent; (1) present.
+ 243. Sensory canals/grooves: (0) contained within the thickness of dermal bones; (1) contained in prominent ridges on visceral surface of bone.
+> Giles *et al*. (2015), Character 31; Choo *et al*. (2017), Character 266; King *et al*. (2017), Character 301; Castiello (2018), Character 292; Zhu Y. *et al*. (2022), Character 58; Andreev *et al*. (2022), Character 31; Brazeau *et al*. (2023), Character 306. Cui *et al*. (2023), Character 58.
+
+> - **Character 56 in "early gnathostome phylogeny github".**
+
+ 244. Transverse external groove behind pineal opening: (0) absent; (1) present.
 > King et al. (2016), Character 255; Brazeau et al. (2023), Character 260.
 
 >  -  **Character 701 in "early gnathostome phylogeny github".**
 >  -  Castiello (2018): "A transverse groove behind the pineal opening is present in *Dicksonosteus* (Goujet 1984a) and *Diandongpetalichthys* (Zhu 1991), but it is difficult to assess if this feature represents an anatomical or taphonomic groove".
 
-222. Cutaneous sensory organ on skull roof posterior to orbits: (0) absent; (1) present.
+ 245. Cutaneous sensory organ on skull roof posterior to orbits: (0) absent; (1) present.
 > King et al. (2017), Character 242; Castiello (2018), Character 242; Zhu Y. et al. (2022), Character 85; Brazeau et al. (2023), Character 247. Cui et al. (2023), Character 85.
 
 > King et al. (2007): The Cu.s.o in *Romundina* (Ørvig 1975). A much smaller cu.s.o was described in a similar position in *Brindabellaspis* (Young 1980), but these are variably developed, and are no wider than the sensory line canals. Since the sensory lines are variably developed as canals or grooves in *Brindabellaspis* it is not clear that these ‘cutaneous sensory organs’ are not continuations of the sensory lines, so this character is scored as unknown in *Brindabellaspis*. A cluster of Cu.s.o pits is also labelled in a posterior region in *Eurycaraspis* (Liu 1991). Since these are a cluster in an unusual position *Eurycaraspis* is currently scored as unknown for this character.
@@ -1181,41 +1181,41 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - **Character 83 in "early gnathostome phylogeny github".**
 
-249. Ethmoid commissure: (0) absent; (1) present.
+ 246. Ethmoid commissure: (0) absent; (1) present.
 > Castiello (2018), Character 311; Zhu Y. et al. (2022), Character 168; Brazeau et al. (2023), Character 325. Cui et al. (2023), Character 168.
 
 > - **Character 164 in "early gnathostome phylogeny github".**
 > - Ethmoid commissure is present in antiarchs, acanthoracids, and *Brindabellaspis*.
 
-251. Supraorbital sensory canals: (0) absent; (1) present.
+ 247. Supraorbital sensory canals: (0) absent; (1) present.
 > King et al. (2017), Character 307; Castiello (2018), Character 299; Zhu Y. et al. (2022), Character 175; Brazeau et al. (2023), Character 312. Cui et al. (2023), Character 175.
 
 > - **Character 171 in "early gnathostome phylogeny github".**
 > - The supraorbital sensory canal is absent in maxillate placoderms, such as *Qilinyu*, *Entelognathus*, and *Bianchengichthys*.
 
- 158. Supraorbital sensory lines: separate (0); meet posteriorly (1).
+ 248. Supraorbital sensory lines: separate (0); meet posteriorly (1).
 > Dupret *et al*. (2009, 2017), Character 15; Zhu *et al*. (2010), Character 15; Xue *et al*. (2025), Character 158.
 
- 155. Supraorbital canal extending posteriorly onto central plate: absent (0); present (1).
+ 249. Supraorbital canal extending posteriorly onto central plate: absent (0); present (1).
 > Carr (1991), Character 84; Carr and Hlavin (2010), Character 84; Rücklin *et al*. (2015), Character 84; Zhu Y *et al*. (2016), Character 84; Jobbins *et al*. (2022, 2024), Character 84; Xue *et al*. (2025), Character 155.
 
-> This character possiblly consists of two conditions, i.e., the supraorbital canal is only limited to the preorbital plate or extends to the nuchal plate with out central plate.
+> This character is defined by the supraorbital canal being restricted to the preorbital plate.
 
- 190. Supraorbital sensory canals extending to the rostral plate: absent (0); present (1).
+ 250. Supraorbital sensory canals extending to the rostral plate: absent (0); present (1).
 > Lelièvre (1995), Character 43.
 
-252. Supraorbital canals and posterior pitlines convergence: (0) absent; (1) converge without contact; (2) converge with contact.
+ 251. Supraorbital canals and posterior pitlines convergence: (0) absent; (1) converge without contact; (2) converge with contact.
 > Long et al. (2015), Character 256; Choo et al. (2017), Character 248; King et al. (2017), Character 300; Castiello (2018), Character 291; Zhu Y. et al. (2022), Character 180; Brazeau et al. (2023), Character 305. Cui et al. (2023), Character 180; Trinajstic et al. (2019), character 1.
 
 > - **Character 176 in "early gnathostome phylogeny github".**
 
- 254. Supraorbital canal joins infraorbital canal: (0) anterior to supraoral canal; (1) posterior to supraoral canal.
+ 252. Supraorbital canal joins infraorbital canal: (0) anterior to supraoral canal; (1) posterior to supraoral canal.
 > King et al. (2017), Character 322; Castiello (2018), Character 314; Zhu Y. et al. (2022), Character 200; Brazeau et al. (2023), Character 327. Cui et al. (2023), Character 200.
 
 >  - **Character 196 in "early gnathostome phylogeny github".**
 >  - This character is only present in *Wuttagoonaspis*.
 
- 163. Central sensory line: absent (0); present (1).
+ 253. Central sensory line: absent (0); present (1).
 > Dupret *et al*. (2009), Character 31; Dupret *et al*. (2017), Character 31; Zhu *et al*. (2010), Character 31; Xue *et al*. (2025), Character 163.
 
 >  - **Character 170 in "early gnathostome phylogeny github".**
