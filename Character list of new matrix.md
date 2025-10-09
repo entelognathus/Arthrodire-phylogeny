@@ -1,17 +1,17 @@
 # Character list of arthrodires, petalichthyids ,and ptyctodontids.
 
 ## Skull roof
-1. Dermal skull roof: (0) includes large dermal plates; (1) consists of undifferentiated plates or tesserae; (2) include both large dermal plates and tesserae.
+ 1. Dermal skull roof: (0) includes large dermal plates; (1) consists of undifferentiated plates or tesserae; (2) include both large dermal plates and tesserae.
 > Davis et al. (2012), Character 18; Choo et al. (2017), Character 17; King et al. (2017), Character 151; Castiello (2018), Character 150; Zhu Y. et al. (2022), Character 59; Andreev et al. (2022), Character 33; Brazeau et al. (2023), Character 155. Cui et al. (2023), Character 59.
 
 > - **Character 57 in "early gnathostome phylogeny github".**
 
-2. Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes) / (distance between pineal and paired condyles): small (r < 0.2)(0); intermediate (0.2 < r < 0.5) (1); large (r > 0.5)(2).
+ 2. Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes) / (distance between pineal and paired condyles): small (r < 0.2)(0); intermediate (0.2 < r < 0.5) (1); large (r > 0.5)(2).
 > Carr (1991), Character 28; Carr and Hlavin (2010), Character 28; Rücklin *et al*. (2015), Character 28; Zhu Y *et al*. (2016), Character 28; Jobbins *et al*. (2022, 2024), Character 28; Xue *et al*. (submitted), Character 28.
 
 >  - The orginal definition of this character in Carr (1991) is " Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes)/ (distance between pineal and paired condyles): small (0); intermediate (1); large (2)." However, there was no value to define these three states. Here, we complement it as "small (r < 0.2)(0); intermediate (0.2 < r < 0.5) (1); large (r > 0.5)(2)."
 
-3. Orbit dorsal or facing dorsolaterally: (0) present; (1) absent.
+ 3. Orbit dorsal or facing dorsolaterally: (0) present; (1) absent.
 > Castiello (2018), Character 29; Zhu Y. et al. (2022), Character 123; Brazeau et al. (2023), Character 33. Cui et al. (2023), Character 123.
 
 > - **Character 121 in "early gnathostome phylogeny github".**
@@ -19,14 +19,14 @@
 > - This character is absent in the majority of arthrodires (with the exception of Wuttagoonaspis), as well as in quasipetalichthyids and ptyctodonts.
 > - *Diandongpetalichthy* is coded as "0" .
 
-4. Orbits, surrounded laterally by endocranium: (0) absent; (1) partially surrounded; (2) surrounded.
+ 4. Orbits, surrounded laterally by endocranium: (0) absent; (1) partially surrounded; (2) surrounded.
 > Castiello (2018), Character 30; Zhu Y. et al. (2022), Character 124; Brazeau et al. (2023), Character 33. Cui et al. (2023), Character 124.
 
 > - **Character 122 in "early gnathostome phylogeny github".**
 
 > - In arthrodires, quasipetalichthyids, and *Diandongpetalichthys*, this character are coded as "0".
 
-5. Sclerotic ring incorporated into skull roof: (0) absent; (1) present.
+ 5. Sclerotic ring incorporated into skull roof: (0) absent; (1) present.
 > King et al. (2017), Character 244; Castiello (2018), Character 243; Zhu Y. et al. (2022), Character 86; Brazeau et al. (2023), Character 249. Cui et al. (2023), Character 86.
 
 > - **Character 84 in "early gnathostome phylogeny github".**
