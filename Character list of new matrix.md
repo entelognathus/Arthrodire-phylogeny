@@ -727,292 +727,296 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
  142. Anterior dorsolateral plate and anterior lateral plate fused into one complex: not fused (0); fused (1).
 > Zhu Y *et al*. (2016), Character 117; Xue *et al*. (2025), Character 96.
 
- 145. Dorsolateral ridge originating from near the condyle of the anterior dorsolateral plate: absent (0), present (1).
+ 143. Dorsolateral ridge originating from near the condyle of the anterior dorsolateral plate: absent (0), present (1).
 > Long (1995); Fitzpatrick *et al*. (2025), character 127.
 
- 146. Dermal contact between the anterior dorsolateral and posterior lateral plates: absent (0), present (1).
+ 144. Dermal contact between the anterior dorsolateral and posterior lateral plates: absent (0), present (1).
 > Fitzpatrick *et al*. (2025), character 125.
 
- 147. Anterior dorsolateral plate overlapped by the posterior lateral plate: absent(0); present(1).
+ 145. Anterior dorsolateral plate overlapped by the posterior lateral plate: absent(0); present(1).
 > Long et al. (2014).
 
 > - This character is possibly the synapomorphy of Parabuchanosteidae. This condition is also present in *Herasmius dayi*.
 
- 148.  Posterior dorsolateral plate: absent (0); present (1).
+ 146. Posterior dorsolateral plate: absent (0); present (1).
 > Giles *et al*. (2015), Character 187; Choo *et al*. (2017), Character 308; King *et al*. (2017), Character 436; Castiello (2018), Character 425; Zhu Y. *et al*. (2022), Character 586; Andreev *et al*. (2022), Character 185; Brazeau *et al*. (2023), Character 441; Cui *et al*. (2023), Character 585.
 
 > - The posterior dorsolateral plate is present in almost all arthrodires except most phyllolepids. In phyllolepids, the posterior dorsolateral is only present in *Cowralepis*.
 > - The coding of *Rhachiosteus pterygiatus* is 0 ？ 
 > - **Character 580 in "early gnathostome phylogeny github".**
 
- 149. PDL plate visible externally: (0) present; (1) absent.
+ 147. PDL plate visible externally: (0) present; (1) absent.
 > King et al. (2017), Character 439; Castiello (2018), Character 428; Zhu Y. et al. (2022), Character 593; Brazeau et al. (2023), Character 444. Cui et al. (2023), Character 592
 
 >  -  **Character 574 in "early gnathostome phylogeny github".**
 >  -  State 1 is only present in *Cowralepis*. This is is an autapomorphy for *Cowralepis*.
 
- 150. Length/width ratio (L/W) of posterior dorsolateral plate: L/W > 2 (0), L/W ≤ 2 (1).
+ 148. Length/width ratio (L/W) of posterior dorsolateral plate: L/W > 2 (0), L/W ≤ 2 (1).
 > Johnson *et al*. (2000), Character 36; Dupret *et al*. (2009), Character 62; Dupret *et al*. (2017), Character 62; Zhu *et al*. (2010), Character 62; Xue *et al*. (2025), Character 113.
 
 > - **check definition, typo error, check codings in the matrix?** There exist systematic typo errors from Dupret *et al*. (2009) to Zhu *et al*. (2010) "Length/width ratio (L/W) of posterior dorsolateral plate: L/H < 2 (0); L/H > 2 (1)". The original definition in Johnson et al. (2000), L/W > 2 (0), L/W ≤ 2 (1).
 > - Johnson *et al*. (2000): "measured along the main lateral line canal (width) and posteror margin (ornamented area) equals less than 2. This ratio exceeds 2 only in *Actinolepis magna* (Mark-Kurik, 1973)."
 
- 151. Internal annular thickening of the posterior trunk plates (‘b.cpd’, Goujet 1984, fig. 61B): absent (0), present (1).  
+ 149. Internal annular thickening of the posterior trunk plates (‘b.cpd’, Goujet 1984, fig. 61B): absent (0), present (1).  
 > Goujet (1984); Fitzpatrick *et al*. (2025), character 129.
 
- 152. Medial contact of the dorsolateral plates under the median dorsal plate: no contact (0); anterior dorsolateral plates (1); anterior and posterior dorsolateral plates (2).
+ 150. Medial contact of the dorsolateral plates under the median dorsal plate: no contact (0); anterior dorsolateral plates (1); anterior and posterior dorsolateral plates (2).
 > Goujet (1984); Fitzpatrick *et al*. (2024), Character 128.
 
 > - **Character 586 in "early gnathostome phylogeny github".** Left and right posterior dorsolateral plates contact below the median dorsal plate: (0) absent; (1) present.
 
- 153. Anterior ventral corner or anterior ventral wing (sensu Carr, 1996) of the anterior lateral plate extends anterolaterally: not extending anterolaterally, the lateral profile of the anterior lateral plate is sub-triangular or rhomboid (0); extending anterolaterally, making the lateral profile of the anterior lateral plate ‘boomerang’-shaped (1).
+ 151. Anterior ventral corner or anterior ventral wing (sensu Carr, 1996) of the anterior lateral plate extends anterolaterally: not extending anterolaterally, the lateral profile of the anterior lateral plate is sub-triangular or rhomboid (0); extending anterolaterally, making the lateral profile of the anterior lateral plate ‘boomerang’-shaped (1).
 > Zhu Y *et al*. (2016), Character 118; Xue *et al*. (2025), Character 97.
 
- 154. In those taxa that possess an anterolaterally extended anterior lateral plate, the extent of the extension: extended normally (0); extended into a rod-like structure (1).
+ 152. In those taxa that possess an anterolaterally extended anterior lateral plate, the extent of the extension: extended normally (0); extended into a rod-like structure (1).
 > Zhu Y *et al*. (2016), Character 119; Xue *et al*. (2025), Character 98.
 
 >  - In those taxa that do not possess an anterolaterally extended anterior lateral plate, this character is scored as 'not applicable'.
 
- 155. External surface of the anterior lateral plate quadrated by four ridges radiating from the ossification center of the plate: absent (0); present (1).
+ 153. External surface of the anterior lateral plate quadrated by four ridges radiating from the ossification center of the plate: absent (0); present (1).
 > Zhu Y *et al*. (2016), Character 120; Xue *et al*. (2025), Character 99.
 
- 156. Anterior lateral plate/anterior ventrolateral plate contact: absent (0); present (1).
+ 154. Anterior lateral plate/anterior ventrolateral plate contact: absent (0); present (1).
 > Carr (1991), Character 38; Carr and Hlavin (2010), Character 38; Rücklin *et al*. (2015), Character 38; Zhu Y *et al*. (2016), Character 38; Dupret *et al*. (2009, 2017), Character 51 modified; Jobbins *et al*. (2022, 2024), Character 38； Xue *et al*. (2025), Character 80.
 
 > Dupret *et al*. (2009, 2017), Character 51: Contact between anterior lateral and anterior ventrolateral plates behind pectoral fenestra: no (0); yes (1)
 
- 157. External contact between anterior lateral plate and interolateral plate: absent (0); present (1).
+ 155. External contact between anterior lateral plate and interolateral plate: absent (0); present (1).
 > Carr (1991), Character 39; Carr and Hlavin (2010), Character 39; Rücklin *et al*. (2015), Character 39; Zhu Y *et al*. (2016), Character 39; Jobbins *et al*. (2022, 2024), Character 39； Xue *et al*. (2025), Character 81.
 
- 158. Posterior lateral plate: absent (0); present (1).
+ 156. Posterior lateral plate: absent (0); present (1).
 > Johnson *et al*. (2000), Character 38; Dupret *et al*. (2009), Character 47; Dupret *et al*. (2017), Character 47; Zhu *et al*. (2010), Character 47;  Xue *et al*. (2025), Character 105.
 
- 159. Posterior lateral plate and posterior dorsolateral plate overlap: simple overlap (0); insertion (1).
+ 157. Posterior lateral plate and posterior dorsolateral plate overlap: simple overlap (0); insertion (1).
 >  Vézina (1988); Carr (1991), Character 42; Carr and Hlavin (2010), Character 42; Rücklin *et al*. (2015), Character 42; Zhu Y *et al*. (2016), Character 42; Jobbins *et al*. (2022, 2024), Character 42； Xue *et al*. (2025), Character 84.
 
 > - In those taxa that the posterior lateral plate or posterior dorsolateral plate is absent, this character is scored as 'not applicable'.
 
 > - **Character 55 in "early gnathostome phylogeny github".**
 
- 160. Posterior lateral plate forms part of closed pectoral fenestra: absent (0); present (1).
+ 158. Posterior lateral plate forms part of closed pectoral fenestra: absent (0); present (1).
 > Carr (1991), Character 43; Carr and Hlavin (2010), Character 43; Rücklin *et al*. (2015), Character 43; Zhu Y *et al*. (2016), Character 43; Jobbins *et al*. (2022, 2024), Character 43； Xue *et al*. (2025), Character 85.
 
 > - In those taxa that the posterior lateral plate is absent, this character is scored as 'not applicable'.
 
- 161. Ventral lamina of the posterior lateral plate: absent (0); present (1).
+ 159. Ventral lamina of the posterior lateral plate: absent (0); present (1).
 > Gardiner & Miles (1990), Character 22.13; Carr (1991), Character ?; Carr and Hlavin (2010), Character 44; Rücklin *et al*. (2015), Character 44; Zhu Y *et al*. (2016), Character 44; Jobbins *et al*. (2022, 2024), Character 44； Xue *et al*. (2025), Character 86.
 
 > - In those taxa that the posterior lateral plate is absent, this character is scored as 'not applicable'.
 
- 162. Angle between interolateral and spinal plates: angle < 110° (0); angle ≥ 110° (1).
-> Dupret *et al*. (2009, 2017), Character 63. **check codings**
-
-> - check state definition. an error exists in Dupret et al. (2017).
-
- 163. Pectoral dermal enclosure: fenestra (0); embayment open posteriorly (1).
+ 160. Pectoral dermal enclosure: fenestra (0); embayment open posteriorly (1).
 > Carr (1991), Character 41; Lelièvre (1995), character 34;  Carr and Hlavin (2010), Character 41; Rücklin *et al*. (2015), Character 41; Zhu Y *et al*. (2016), Character 41; Jobbins *et al*. (2022, 2024), Character 41； Xue *et al*. (2025), Character 83.
 
 > - **Character 562 in "early gnathostome phylogeny github** Pectoral fenestra completely encircled by dermal shoulder armour: (0) present; (1) absent.
 
- 164. Spinal plate : absent (0); present (1).
+ 161. Spinal plate : absent (0); present (1).
 > Stensiö (1959); Carr (1991), Character 44; Carr and Hlavin (2010), Character 45; Rücklin *et al*. (2015), Character 45; Zhu Y *et al*. (2016), Character 45; Jobbins *et al*. (2022, 2024), Character 45； Xue *et al*. (2025), Character 87.
 
- 165. RSp (=LSp borne by AVL/LSp): RSp < 60% (0); RSp ≥ 60% (1).
+ 162. RSp (=LSp borne by AVL/LSp): RSp < 60% (0); RSp ≥ 60% (1).
 > Johnson *et al*. (2000), Character 28; Dupret *et al*. (2009), Character 64; Dupret *et al*. (2017), Character 64; Zhu *et al*. (2010), Character 64; Xue *et al*. (2025), Character 114.
 
 > - RSp represents the ratio of length proportion of the spinal plate borne by the anterior ventrolateral plate (LSp borne by AVL) over total length of the spinal plate (LSp).
 
- 166. Spinal pit of the spinal plate : absent (0); present (1).
+ 163. Spinal pit of the spinal plate : absent (0); present (1).
 > Gardiner and Miles (1990), Character 22.32; Carr (1991), Character 46; Carr and Hlavin (2010), Character 46; Rücklin *et al*. (2015), Character 46; Zhu Y *et al*. (2016), Character 46; Jobbins *et al*. (2022, 2024), Character 46； Xue *et al*. (2025), Character 88.
 
 > - Gardiner and Miles (1990): "Three subgroups of ‘coccosteids’ may be defined on spinal structure: (1) *Watsonosteus*, *Dickosteus*, *Coccosteus*, *Millerosteus*, *Plourdosteus*, *Harytoombsia* and *Torosteus* in which the spinal plate cavity is filled by the lateral prepectoral process. This is presumed to be the primitive condition. (2) *Camuropiscis* and *Holonema* both with long spinal plates without an internal cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) *Eastmanosteus*, *Dunkleosteus*, *Bullerichthys*, *Kendrickichthys* and *Homosteus* in which the spinal plate is very short and without any trace of an internal cavity. This type is termed ‘short pseudospinal’."
 
- 167. Spinelets on mesial side of spinal plate: absent (0); present (1).
+ 164. Spinelets on mesial side of spinal plate: absent (0); present (1).
 > Johnson *et al*. (2000), Character 29; Dupret *et al*. (2009), Character 55; Dupret *et al*. (2017), Character 55; Zhu *et al*. (2010), Character 55; Xue *et al*. (2025), Character 112.
 
- 168. Distinct infraspinal lamina/process (‘pr.infsp’, Miles & Westoll 1968, fig. 40C; ‘la.spv’, Goujet 1984, fig. 66A) of the anterior ventrolateral plate: absent (0), present (1).
+ 165. Distinct infraspinal lamina/process (‘pr.infsp’, Miles & Westoll 1968, fig. 40C; ‘la.spv’, Goujet 1984, fig. 66A) of the anterior ventrolateral plate: absent (0), present (1).
 > Fitzpatrick *et al*. (2024), Character 132.
 
- 169. Lateral contact between interolateral plate and spinal plate: absent (0); present (1).
+ 166. Lateral contact between interolateral plate and spinal plate: absent (0); present (1).
 > Carr (1991), Character 40; Carr and Hlavin (2010), Character 40; Rücklin *et al*. (2015), Character 40; Zhu Y *et al*. (2016), Character 40; Jobbins *et al*. (2022, 2024), Character 40； Xue *et al*. (2025), Character 82.
 
- 170. Branchial lamina of the interolateral plate : absent (0); present (1).
+ 167. Angle between interolateral and spinal plates: angle < 110° (0); angle ≥ 110° (1).
+> Dupret *et al*. (2009, 2017), Character 63. **check codings**
+
+> - check state definition. an error exists in Dupret et al. (2017).
+
+ 168. Branchial lamina of the interolateral plate : absent (0); present (1).
 > Carr (1991), Character 47; Carr and Hlavin (2010), Character 47; Rücklin *et al*. (2015), Character 47; Zhu Y *et al*. (2016), Character 47; Jobbins *et al*. (2022, 2024), Character 47；Xue *et al*. (2025), Character 89.
 
 > - Also named as the postbranchial lamina. 
 
- 90. Ventral lamina of the interolateral plate: small or absent (0); developed with either an enlarged contact with the anterior median ventral plate, or an enlarged overlap with the anterior ventrolateral plate (1).
+ 169. Ventral lamina of the interolateral plate: small or absent (0); developed with either an enlarged contact with the anterior median ventral plate, or an enlarged overlap with the anterior ventrolateral plate (1).
 > Carr (1991), Character 48; Carr and Hlavin (2010), Character 48; Rücklin *et al*. (2015), Character 48; Zhu Y *et al*. (2016), Character 48; Jobbins *et al*. (2022, 2024), Character 48；Xue *et al*. (2025), Character 90.
 
- 91. Ormantation of branchial lamina of interolateral plate: absent (0); present (1).
+ 170. Ormantation of branchial lamina of interolateral plate: absent (0); present (1).
 > Carr (1991), Character 49; Lelièvre (1995), character 41, modified; Carr and Hlavin (2010), Character 49; Rücklin *et al*. (2015), Character 49; Zhu Y *et al*. (2016), Character 49; Jobbins *et al*. (2022, 2024), Character 49；Xue *et al*. (2025), Character 91.
 
 > - Also named as the postbranchial lamina. This character is contingent on Character 89.
 
- 108. Anteroventral plate: absent (0); present (1).
+ 171. Anteroventral plate: absent (0); present (1).
 > Miles (1973); Dupret *et al*. (2009), Character 50; Dupret *et al*. (2017), Character 50; Zhu *et al*. (2010), Character 50; Xue *et al*. (2025), Character 108; Fitzpatrick *et al*. (2024), character 133.
 
 > - Also termed as the anterior ventral plate.
 
 > - **Character 571 in "early gnathostome phylogeny github"**  
 
-305. Anterior ventrolateral plates of both sides: (0) in contact; (1) separated. 
+ 172. Anterior ventrolateral plates of both sides: (0) in contact; (1) separated. 
 > Zhu et al. (2016), Character 368; Zhu Y. et al. (2021), Character 328; Zhu Y. et al. (2022), Character 580. Cui et al. (2023), Character 579.
 
 >  -  **Character 574 in "early gnathostome phylogeny github".**
 
- 106. Pectoral notch of anterior ventrolateral plate: shallow (0); deep (1).
+ 173. Pectoral notch of anterior ventrolateral plate: shallow (0); deep (1).
 > Johnson *et al*. (2000), Character 31; Dupret *et al*. (2009), Character 48; Dupret *et al*. (2017), Character 48; Zhu *et al*. (2010), Character 48;  Xue *et al*. (2025), Character 106.
 
- 107. Prepectoral process of anterior ventrolateral plate: short (0); long (1).
+ 174. Prepectoral process of anterior ventrolateral plate: short (0); long (1).
 > Dupret *et al*. (2009), Character 49; Dupret *et al*. (2017), Character 49; Zhu *et al*. (2010), Character 49; Xue *et al*. (2025), Character 107.
 
 > - In those taxa that the prepectoral process is absent, this character is scored as 'not applicable'.
 
- 115. Length/width ratio (L/W) of posterior ventrolateral plates: L/W < 1.5 (0); L/W ≥ 1.5 (1).
+ 175. Posterior ventrolateral plate: absent (0); present (1).
+
+ 176.  Length/width ratio (L/W) of posterior ventrolateral plates: L/W < 1.5 (0); L/W ≥ 1.5 (1).
 > Dupret *et al*. (2009), Character 65; Dupret *et al*. (2017), Character 65; Zhu *et al*. (2010), Character 65; Xue *et al*. (2025), Character 115.
 
- 111. Posterior ventrolateral plates mutually overlapping: simple overlapping (0); sinusoidal/double overlapping (1).
+ 177. Posterior ventrolateral plates mutually overlapping: simple overlapping (0); sinusoidal/double overlapping (1).
 > Goujet (1984); Dupret (2004); Dupret *et al*. (2009), Character 54; Dupret *et al*. (2017), Character 54; Zhu *et al*. (2010), Character 54; Xue *et al*. (2025), Character 111.
 
 >  Fitzpatrick *et al*. (2024，, character 130）：  Median contact of the posterior ventrolateral plate: simple overlap (0); Sigmoidal/double overlapping (1).
 
- 92. Posterior ventrolateral plate dorsolateral contact with the lateral thoracic armour: posterior lateral plate only (0); posterior lateral and anterior lateral plates (1).
+ 178. Posterior ventrolateral plate dorsolateral contact with the lateral thoracic armour: posterior lateral plate only (0); posterior lateral and anterior lateral plates (1).
 > Carr (1991), Character 50; Carr and Hlavin (2010), Character 50; Rücklin *et al*. (2015), Character 50; Zhu Y *et al*. (2016), Character 50; Jobbins *et al*. (2022, 2024), Character 50； Xue *et al*. (2025), Character 92.
 
 > - In those taxa that the posterior lateral plate is absent, this character is scored as 'not applicable'.
 
- 93. Postpectoral lamina of the posterior ventrolateral plate: absent (0); small (1); large (2).
+ 179. Postpectoral lamina of the posterior ventrolateral plate: absent (0); small (1); large (2).
 > Gardiner and Miles (1990), Character 22.8; Carr (1991), Character 51; Carr and Hlavin (2010), Character 51; Rücklin *et al*. (2015), Character 51; Zhu Y *et al*. (2016), Character 51; Jobbins *et al*. (2022, 2024), Character 51; Xue *et al*. (2025), Character 93.
 
-308. Median ventral plates: (0) absent; (1) present.
+ 180. Median ventral plates: (0) absent; (1) present.
 > King et al. (2017), Character 447; Castiello (2018), Character 436; Zhu Y. et al. (2022), Character 601; Andreev et al. (2022), Character 289; Brazeau et al. (2023), Character 452. Cui et al. (2023), Character 600.
 
 >  -  **Character 593 in "early gnathostome phylogeny github".**
 >  -  In some Ptyctodontids, including *Cambellodus*, *Austroptyctodus*, and *Rhamphodopsis*, median ventral plates are absent.
 
- 109. Anterior medioventral plate: absent (0); present (1).
+ 181. Anterior medioventral plate: absent (0); present (1).
 > Johnson *et al*. (2000), Character 39, modified; Dupret *et al*. (2009), Character 52; Dupret *et al*. (2017), Character 52; Zhu *et al*. (2010), Character 52;  Xue *et al*. (2025), Character 109.
 
-332. Elongated anterior median ventral plate: (0) present; (1) absent.
+ 182. Elongated anterior median ventral plate: (0) present; (1) absent.
 > Trinajstic et al. (2019), character 15.
 
- 110. Posterior medioventral plate: absent (0); present (1).
+> - Elongated anterior median ventral plate is present in some ptyctodonts, including  *Ctenurella*, *Austroptyctodus*, *Kimbryanodus*, and *Materpiscis*.
+
+ 183. Posterior medioventral plate: absent (0); present (1).
 > Johnson *et al*. (2000), Character 39, modified; Dupret *et al*. (2009), Character 53; Dupret *et al*. (2017), Character 53; Zhu *et al*. (2010), Character 53;  Xue *et al*. (2025), Character 110.
 
-309. Endoskeletal supports in pectoral fin: (0) multiple elements articulating with girdle; (1) single element ("humerus") articulating with girdle.
+ 184. Endoskeletal supports in pectoral fin: (0) multiple elements articulating with girdle; (1) single element ("humerus") articulating with girdle.
 > Zhu et al. (2009, Character 130), and references therein; Zhu et al., (2013), Character 250; Giles et al. (2015), Character 201; Choo et al. (2017), Character 233; King et al. (2017), Character 409; Castiello (2018), Character 398; Zhu Y. et al. (2022), Character 614; Brazeau et al. (2023), Character 414. Cui et al. (2023), Character 613.
 
 >  -  **Character 608 in "early gnathostome phylogeny github".**
 >  -  In placoderm, state 1 is only present in *Romundina*.
 
-310. Scapular process of shoulder endoskeleton: (0) absent; (1) present.
+ 185. Scapular process of shoulder endoskeleton: (0) absent; (1) present.
 > Coates & Sequeira (2001a, b); Zhu & Schultze (2001); Davis (2002); Brazeau (2009); Davis et al. (2012), Character 110; Choo et al. (2017), Character 106; King et al. (2017), Character 398; Castiello (2018), Character 387; Zhu Y. et al. (2022), Character 619; Andreev et al. (2022), Character 189; Brazeau et al. (2023), Character 403. Cui et al. (2023), Character 618.
 
 >  -  **Character 613 in "early gnathostome phylogeny github".**
 
-311. Endoskeletal postbranchial lamina on scapular process: (0) present; (1) absent.
+ 186. Endoskeletal postbranchial lamina on scapular process: (0) present; (1) absent.
 > Brazeau (2009); Davis et al. (2012), Character 115; Choo et al. (2017), Character 111; King et al. (2017), Character 403; Castiello (2018), Character 392; Zhu Y. et al. (2022), Character 624; Andreev et al. (2022), Character 194; Brazeau et al. (2023), Character 408. Cui et al. (2023), Character 623.
 
 >  -  **Character 618 in "early gnathostome phylogeny github".**
 
-312. Fin base articulation on scapulocoracoid: (0) deeper than wide (stenobasal); (1) wider than deep (eurybasal).
+ 187. Fin base articulation on scapulocoracoid: (0) deeper than wide (stenobasal); (1) wider than deep (eurybasal).
 > Choo et al. (2017), Character 115; King et al. (2017), Character 407; Castiello (2018), Character 396; Zhu Y. et al. (2022), Character 633; Andreev et al. (2022), Character 198; Brazeau et al. (2023), Character 412. Cui et al. (2023), Character 632
 
 >  -  **Character 627 in "early gnathostome phylogeny github".**
 >  -  An eurybasal articulation of the scapulocoracoid is widespread among arthrodires, whereas other placoderm groups typically exhibit a stenobasal articulation.
 
-313. Pelvic girdle with substantial dermal component: (0) yes; (1) no.
+ 188. Pelvic girdle with substantial dermal component: (0) yes; (1) no.
 > Zhu et al. (2012b); Zhu et al. (2013), Character 252; Choo et al. (2017), Character 239; King et al. (2017), Character 433; Castiello (2018), Character 422; Zhu Y. et al. (2022), Character 643; Andreev et al. (2022), Character 274; Brazeau et al. (2023), Character 438. Cui et al. (2023), Character 642; Trinajstic et al. (2019), character 28
 
 >  -  **Character 637 in "early gnathostome phylogeny github".**
 
-314. Dermal pelvic clasper ossifications: (0) absent; (1) present.
+ 189. Dermal pelvic clasper ossifications: (0) absent; (1) present.
 > Brazeau (2009); Davis et al. (2012), Character 123; Choo et al. (2017), Character 119; King et al. (2017), Character 396; Castiello (2018), Character 386; Andreev et al. (2022), Character 208; Zhu Y. et al. (2022), Character 644. Cui et al. (2023), Character 643.
 
 >  -  **Character 638 in "early gnathostome phylogeny github".**
 
-315. Number of dorsal fins, if present: (0) one; (1) two.
+ 190. Number of dorsal fins, if present: (0) one; (1) two.
 > Coates & Sequeira (2001a, b); Brazeau (2009); Davis et al. (2012), Character 136; Choo et al. (2017), Character 132; King et al. (2017), Character 450; Castiello (2018), Character 439; Zhu Y. et al. (2022), Character 652; Andreev et al. (2022), Character 226; Brazeau et al. (2023), Character 455. Cui et al. (2023), Character 651.
 
 >  -  **Character 638 in "early gnathostome phylogeny github".**
 >  -  *Austroptyctodus*, *Rhamphodopsis*, and *Xiushanosteus* possess two dorsal fins.
 
-316. Anal fin: (0) absent; (1) present.
+ 191. Anal fin: (0) absent; (1) present.
 > Coates & Sequeira (2001a, b); Brazeau (2009); Davis et al. (2012), Character 137; Choo et al. (2017), Character 133; King et al. (2017), Character 466; Castiello (2018), Character 455; Andreev et al. (2022), Character 230; Zhu Y. et al. (2022), Character 659. Cui et al. (2023), Character 658.
 
 >  -  **Character 653 in "early gnathostome phylogeny github".**
 
-317. Dorsal fin spine: (0) absent; (1) present.
+ 192. Dorsal fin spine: (0) absent; (1) present.
 > Zhu et al. (2001); Zhu & Yu (2002); Friedman (2007); Brazeau (2009); Davis et al. (2012), Character 126; Choo et al. (2017), Character 122; King et al. (2017), Character 457; Castiello (2018), Character 446; Zhu Y. et al. (2022), Character 671; Andreev et al. (2022), Character 211; Brazeau et al. (2023), Character 462. Cui et al. (2023), Character 670.
 
 >  -  **Character 665 in "early gnathostome phylogeny github".**
 
-318. Shape of trunk scales: (0) rhombic; (1) small/round; (2) cycloid.
+ 193. Shape of trunk scales: (0) rhombic; (1) small/round; (2) cycloid.
 > Cui et al. (2023), Character 691.
 
 >  -  **Character 686 in "early gnathostome phylogeny github".**
 
-319. Dermal ornament with tubercles on trunk scales: (0) absent; (1) present.
+ 194. Dermal ornament with tubercles on trunk scales: (0) absent; (1) present.
 > Cui et al. (2023), Character 694.
 
 >  -  **Character 689 in "early gnathostome phylogeny github".**
 
-320. Dentinous external layer: (0) absent; (1) present.
+ 195. Dentinous external layer: (0) absent; (1) present.
 > Brazeau et al. (2023), Character 9
 
 >  -  **Character 699 in "early gnathostome phylogeny github".**
 >  -  *Materpiscis*, *Campbellodus*, and *Austroptyctodus* lack the dentious external layer.
 
-321. Endoskeletal craniothoracic (sixth branchial) facet: (0) absent; (1) present.
+ 196. Endoskeletal craniothoracic (sixth branchial) facet: (0) absent; (1) present.
 > Brazeau et al. (2023), Character 180.
 
 >  -  **Character 703 in "early gnathostome phylogeny github".**
 >  -  This character is shared by *Diandongpetalichthys* and *Dicksonosteus*.
 
 ## Cheek and palatoquadrate
-258. Consolidated cheek plates: (0) absent; (1) present.
+ 197. Consolidated cheek plates: (0) absent; (1) present.
 > Davis (2002); Brazeau (2009); Davis et al. (2012), Character 24; Choo et al. (2017), Character 23; King et al. (2017), Character 157; Castiello (2018), Character 156; Zhu Y. et al. (2022), Character 211; Andreev et al. (2022), Character 53; Brazeau et al. (2023), Character 161. Cui et al. (2023), Character 211.
 
 >  - **Character 207 in "early gnathostome phylogeny github".**
 >  - In ptyctodonts, consolidated cheek plates are absent.
 
- 116. Suborbital dermal laminal: absent (0); present (1).
+ 198. Suborbital dermal laminal: absent (0); present (1).
 > Dennis and Miles (1979a), Character 17; Carr (1991), Character 52; Carr and Hlavin (2010), Character 52; Rücklin *et al*. (2015), Character 52; Zhu Y *et al*. (2016), Character 52; Jobbins *et al*. (2022, 2024), Character 52; Xue *et al*. (2025), Character 116.
 
- 117. Suborbital plate overlaps postorbital plate: absent (0); resent (1).
+ 199. Suborbital plate overlaps postorbital plate: absent (0); resent (1).
 > Gariner and Miles (1990), Character 22.9; Carr (1991), Character 53; Lelièvre (1995), character 27; Carr and Hlavin (2010), Character 53; Rücklin *et al*. (2015), Character 53; Zhu Y *et al*. (2016), Character 53; Jobbins *et al*. (2022, 2024), Character 53; Xue *et al*. (2025), Character 117.
 
- 118. Suborbital contact with preorbital: absent (0); lateral contact (1).
+ 200. Suborbital contact with preorbital: absent (0); lateral contact (1).
 > Carr (1991), Character 54; Carr and Hlavin (2010), Character 54; Rücklin *et al*. (2015), Character 54; Zhu Y *et al*. (2016), Character 54; Jobbins *et al*. (2022, 2024), Character 54; Xue *et al*. (2025), Character 118.
 
- 119. Suborbital and marginal plates in contact: absent (0); present (1).
+ 201. Suborbital and marginal plates in contact: absent (0); present (1).
 > Gariner and Miles (1990), Character 22.28; Carr (1991), Character 55; Carr and Hlavin (2010), Character 55; Rücklin *et al*. (2015), Character 55; Zhu Y *et al*. (2016), Character 55; Jobbins *et al*. (2022, 2024), Character 55; Xue *et al*. (2025), Character 119.
 
-197. Spiracular notch between the postorbital and suborbital plates: absent (0); present (1).
+ 202. Spiracular notch between the postorbital and suborbital plates: absent (0); present (1).
      
 > - The spiracular notch between the postorbital plate and the dorsal margin of suborbital plate is present in some Incisoscutoidea, such as *Torosteus*, *Harrytoombsia*, and *Mcnamaraspis*. The spiracular notch of *Mcnamaraspis* is closed by short contact between the suborbital and postorbital plates.
 
- 120. Suborbital plate with a contact face for the PSG on the linguiform process: absent (0); present (1).
+ 203. Suborbital plate with a contact face for the PSG on the linguiform process: absent (0); present (1).
 > Carr (1991), Character 56; Carr and Hlavin (2010), Character 56; Rücklin *et al*. (2015), Character 56; Zhu Y *et al*. (2016), Character 56; Jobbins *et al*. (2022, 2024), Character 56; Xue *et al*. (2025), Character 120.
 
- 121. Palatoquadrate ossification: ossified as a single unit (0); autopalatine and quadrate ossifications (1).
+ 204. Palatoquadrate ossification: ossified as a single unit (0); autopalatine and quadrate ossifications (1).
 > Dennis and Miles (1979a), Character 21; Carr (1991), Character 57; Lelièvre (1991), character 15; Carr and Hlavin (2010), Character 57; Rücklin *et al*. (2015), Character 57; Zhu Y *et al*. (2016), Character 57; Jobbins *et al*. (2022, 2024), Character 57; Xue *et al*. (2025), Character 121.
 
 > - **Character 332 in "early gnathostome phylogeny github".**  Autopalatine and quadrate: (0) comineralized; (1) separate mineralizations.
 
- 122. Detent process on quadrate: absent (0); present (1).
+ 205. Detent process on quadrate: absent (0); present (1).
 > Gardiner and Miles (1990), Character 22.1; Carr (1991), Character 58; Carr and Hlavin (2010), Character 58; Rücklin *et al*. (2015), Character 58; Zhu Y *et al*. (2016), Character 58; Jobbins *et al*. (2022, 2024), Character 58; Xue *et al*. (2025), Character 122.
 
-228. Postsuborbital plate (Quadratojugal): (0) present; (1) absent.
+ 206. Postsuborbital plate (Quadratojugal): (0) present; (1) absent.
 > King et al. (2017), Character 276; Castiello (2018), Character 270; Zhu Y. et al. (2022), Character 106; Brazeau et al. (2023), Character 281. Cui et al. (2023), Character 106; Lu et al. (in review), Character 104; Zhu Y. et al. (in review), Character 104.
 
 > - **Character 104 in "early gnathostome phylogeny github".**
 
- 123. Submarginal plate closely associated with the hyomandibular: absent (0); present, indicated by the presence of perichondral bone or the presence of an internal depression (1).
+ 207. Submarginal plate closely associated with the hyomandibular: absent (0); present, indicated by the presence of perichondral bone or the presence of an internal depression (1).
 > Carr (1991), Character 59; Carr and Hlavin (2010), Character 59; Rücklin *et al*. (2015), Character 59; Zhu Y *et al*. (2016), Character 59; Jobbins *et al*. (2022, 2024), Character 59; Xue *et al*. (2025), Character 123.
 
- 124. Shape of submarginal plate: broad (0); elongate (1).
+ 208. Shape of submarginal plate: broad (0); elongate (1).
 > Carr (1991), Character 60; Lelièvre (1995), character 26, modified; Carr and Hlavin (2010), Character 60; Rücklin *et al*. (2015), Character 60; Zhu Y *et al*. (2016), Character 60; Jobbins *et al*. (2022, 2024), Character 60; Xue *et al*. (2025), Character 124.
 
 > - Lelièvre (1995): Shape of submarginal plate: large (0); enlongated; small and square (2).
@@ -1021,23 +1025,23 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - The narrow, rob-shaped submarginal plate is present in some barchythoracids and ptyctodontids (e.g. *Rhampbodopis threiplandi* and *Austroptyctodus gardineri*). 
 
- 125. Length of cheek and skull roof contact: long (0); short, measured as the contact being less than one third of the length measured from the anterior suborbital plate to the posterior cheek/skull roof contact (1).
+ 209. Length of cheek and skull roof contact: long (0); short, measured as the contact being less than one third of the length measured from the anterior suborbital plate to the posterior cheek/skull roof contact (1).
 > Carr (1991), Character 61; Lelièvre (1995), character 25; Carr and Hlavin (2010), Character 61; Rücklin *et al*. (2015), Character 61; Zhu Y *et al*. (2016), Character 61; Jobbins *et al*. (2022, 2024), Character 61; Xue *et al*. (2025), Character 125.
 
- 126. Development of cheek/skull roof overlap: loose contact (0); well-bound contact, indicated by the interdigitation of plates or their complete fusion (1).
+ 210. Development of cheek/skull roof overlap: loose contact (0); well-bound contact, indicated by the interdigitation of plates or their complete fusion (1).
 > Carr (1991), Character 62; Carr and Hlavin (2010), Character 62; Rücklin *et al*. (2015), Character 62; Zhu Y *et al*. (2016), Character 62; Jobbins *et al*. (2022, 2024), Character 62; Xue *et al*. (2025), Character 126.
 
 ## Parasphenoid and gnathal elements
- 127. Infragnathal with a developed blade portion: absent (0); present (1).
+ 211. Infragnathal with a developed blade portion: absent (0); present (1).
 > Dennis and Miles (1979a), Character 13; Carr (1991), Character 63; Lelièvre (1995), character 31; Carr and Hlavin (2010), Character 63; Rücklin *et al*. (2015), Character 63; Zhu Y *et al*. (2016), Character 63; Jobbins *et al*. (2022, 2024), Character 63; Xue *et al*. (2025), Character 127.
 
- 128. Infragnathal anterior dental field developed anteriorly of the cusp region: absent (0); present (1), indicated by a projection of the infragnathal anterior to the dorsal functional region.
+ 212. Infragnathal anterior dental field developed anteriorly of the cusp region: absent (0); present (1), indicated by a projection of the infragnathal anterior to the dorsal functional region.
 > Carr (1991), Character 64; Carr and Hlavin (2010), Character 64; Rücklin *et al*. (2015), Character 64; Zhu Y *et al*. (2016), Character 64; Jobbins *et al*. (2022, 2024), Character 64; Xue *et al*. (2025), Character 128.
 
-205. The groove on the mesial surface of the infragnathal blade: absent (0); present (1).
+ 213. The groove on the mesial surface of the infragnathal blade: absent (0); present (1).
 > - In Coccosteomorphi, on the mesial surface of the blade, a groove running subparallel to its lower edge is possibly for the path of the ramus mandibularis internus VII, such as in the *Coccosteus cuspidatus* (Miles, 1979), *Xiantingosteus gracilis*, and *Camuropiscis concinnus* (Dennis and Miles, 1979).
 
- 129. Adsymphysial (anterior dental field) denticles: absent (0); present (1).
+ 214. Adsymphysial (anterior dental field) denticles: absent (0); present (1).
 > Carr (1991), Character 65; Carr and Hlavin (2010), Character 65; Rücklin *et al*. (2015), Character 65; Zhu Y *et al*. (2016), Character 65; Jobbins *et al*. (2022, 2024), Character 65; Xue *et al*. (2025), Character 129.
 
  142. Infragnathal with a secondary thickened ridge in the occlusal region, which may be associated with a secondary cusp: absent (0); present (1).
