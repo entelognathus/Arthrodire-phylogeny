@@ -1296,15 +1296,17 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
  270. Posterior pit line converging towards the ossification center of nuchal plate: absent (0); present (1).
 
- 271. Posterior pit line: separate (0); meet posteriorly (1).
+ 271. Orientation of the posterior pitline when supraorbital canals and posterior pitlines converge: posterior pitline extends horizontally (0); posterior pitline extends anteriorly (1); posterior pitline extends posteriorly (2).
+
+ 272. Posterior pit line: separate (0); meet posteriorly (1).
 > Pan et al. (2015), Character 4.
 
- 272. Middle and posterior pit-lines on central plate (postparietal): (0) posteriorly situated; (1) mesially situated.
+ 273. Middle and posterior pit-lines on central plate (postparietal): (0) posteriorly situated; (1) mesially situated.
 > Zhu et al. (2009, Character 107), and references therein; Zhu et al. (2013), Character 185; Choo et al. (2017), Character 190; King et al. (2017), Character 288; Castiello (2018), Character 280; Zhu Y. et al. (2022), Character 165; Brazeau et al. (2023), Character 293. Cui et al. (2023), Character 165.
 
 >  - **Character 161 in "early gnathostome phylogeny github".**
 
- 273. Position of middle and posterior pit lines: (0) close to midline; (1) near the central portion of each postparietal.
+ 274. Position of middle and posterior pit lines: (0) close to midline; (1) near the central portion of each postparietal.
 > Zhu et al. (2009, Character 108), and references therein; Zhu et al. (2013), Character 186; Choo et al. (2017), Character 191; King et al. (2017), Character 289; Castiello (2018), Character 281; Zhu Y. et al. (2022), Character 166; Brazeau et al. (2023), Character 294. Cui et al. (2023), Character 166.
 
 >  - **Character 162 in "early gnathostome phylogeny github".**
@@ -1312,123 +1314,123 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 >  - In *Gavinaspis*, the middle and posterior pit lines positioned close to the midline of centronuchal plate.
 >  - Castiello (2018) changed Score to ? to 1 for *Eurycaraspis* (Liu, 1991).
 
- 274. Junction of posterior pitline and main lateral line: (0) far in front of posterior margin of skull roof; (1) close to posterior margin of skull roof.
+ 275. Junction of posterior pitline and main lateral line: (0) far in front of posterior margin of skull roof; (1) close to posterior margin of skull roof.
 > Zhu et al. (2013), Character 166; Choo et al. (2017), Character 175; Zhu Y. et al. (2022), Character 167; Brazeau et al. (2023), Character 290. Cui et al. (2023), Character 167.
 
 >  - **Character 163 in "early gnathostome phylogeny github".**
 >  - This character can be modified as ：Junction of posterior pitline and main lateral line: (0) far in front of posterior margin of skull roof or on anterior paranuchal plate for Petalichthyida; (1) close to posterior margin of skull roof.
 
- 275. Posterior pitline and postmarginal canal in contact: (0) absent; (1) present.
+ 276. Posterior pitline and postmarginal canal in contact: (0) absent; (1) present.
 > King et al. (2017), Character 321; Castiello (2018), Character 313; Zhu Y. et al. (2022), Character 199; Brazeau et al. (2023), Character 326. Cui et al. (2023), Character 199.
 
 > - **Character 195 in "early gnathostome phylogeny github".**
 > - This character is only present in *Entelognathus*.
 
- 276. Angle between the postorbital and otic branches of the infraorbital sensory line groove: open posteriorly (i.e. the formed angle is greater than 90°) (0); partially closed (i.e. the formed angle is between 45° and 90°) (1); closed (i.e. the formed angle is less than 45°) (2).
+ 277. Angle between the postorbital and otic branches of the infraorbital sensory line groove: open posteriorly (i.e. the formed angle is greater than 90°) (0); partially closed (i.e. the formed angle is between 45° and 90°) (1); closed (i.e. the formed angle is less than 45°) (2).
 > Lelièvre *et al*. (1987), Character 5, modified; Carr (1991), Character 75, modified; Carr and Hlavin (2010), Character 75; Rücklin *et al*. (2015), Character 75; Zhu Y *et al*. (2016), Character 75; Jobbins *et al*. (2022, 2024), Character 75; Xue *et al*. (2025), Character 146.
 
 > - Carr and Hlavin (2010): "Carr (1991) noted some uncertainty over whether the closure of the sensory angle (correlated with enlarged orbits) is plesiomorphic or independently derived among several groups within the Aspinothoracidi. Gardiner & Miles (1994) argued that selenosteids clearly share a condition of an angle less than 45° (a synapomorphy of the Selenosteidae, as noted by Lelièvre et al. 1987). However, Lelièvre et al. (1987), Carr (1991), and Gardiner & Miles (1994) concurred that Gy. hydei is the sister group of the Selenosteidae. In a redescription of Gy. hydei, Carr (1994) showed that the angle was smaller than 40°, and, based on other characters, placed this genus as a higher nested member within the Selenosteidae. Carr (1996) corroborated that placement of Gy. hydei within the Selenosteidae in an analysis of Selenosteus Dean, 1901a and Stenosteus Dean, 1901a."
  
- 277. Infraorbital and cephalic main lateral sensory lines run along mesial margin of the marginal plate: no (0); yes (1).
+ 278. Infraorbital and cephalic main lateral sensory lines run along mesial margin of the marginal plate: no (0); yes (1).
 > Lelièvre (1995), character 45, modified; Dupret *et al*. (2009, 2017), Character 16; Zhu *et al*. (2010), Character 16; Xue *et al*. (2025), Character 159.
 
 > - Lelièvre (1995): Position of the otic branch of the infraorbital sensory line on the marginal plate: near the lateral margin of the plate (0), near the medial  margin of the plate (1).
 
 > - **Character 188 in "early gnathostome phylogeny github".**
 
- 278. Postmarginal canal: absent (0); present (1).
+ 279. Postmarginal canal: absent (0); present (1).
 > Carr (1991), Character 85; Carr and Hlavin (2010), Character 85; Rücklin *et al*. (2015), Character 85; Zhu Y *et al*. (2016), Character 85; Jobbins *et al*. (2022, 2024), Character 85; Xue *et al*. (2025), Character 156.
 
 > - **Character 168 in "early gnathostome phylogeny github".** 
 
- 279. Postmarginal line issued from main lateral line: (0) on marginal (supratemporal); (1) on anterior paranuchal (tabular).
+ 280. Postmarginal line issued from main lateral line: (0) on marginal (supratemporal); (1) on anterior paranuchal (tabular).
 > Zhu et al. (2016), Character 349; Zhu Y. et al. (2021), Character 315; Zhu Y. et al. (2022), Character 173. Cui et al. (2023), Character 173.
 
 > - **Character 169 in "early gnathostome phylogeny github".**
 > - In *Arabosteus* and *Entelognathus*, postmarginal line branches off from the main lateral line on anterior paranuchal plate.
 
- 280. Postmarginal canal extending to the postmarginal plate: present (0); absent (1).
+ 281. Postmarginal canal extending to the postmarginal plate: present (0); absent (1).
 > - In most arthrodires, the postmarginal canal extends to the postmarginal plate, but in some taxa, such as *Baringaspis* and *Yujiangolepis*, the postmarginal canal is limited in the marginal plate.
 > - In those taxa the postmarginal plate or postmarginal canal is absent, this character is scored as 'not applicable'.  
 
- 281. Occipital cross commissure on the skull roof: absent (0); present (1). 
+ 282. Occipital cross commissure on the skull roof: absent (0); present (1). 
 
- 282. Occipital cross commissure: on both nuchal and paranuchal plates (0); only on paranuchal plates (1).
+ 283. Occipital cross commissure: on both nuchal and paranuchal plates (0); only on paranuchal plates (1).
 > Lelièvre (1995), character 48, modified; Johnson *et al*. (2000), Characters 8 and 9, modified; Dupret *et al*. (2009), Character 36; Dupret *et al*. (2017), Character 36; Zhu *et al*. (2010), Character 36; Xue *et al*. (2025), Character 164.
 
 > - Lelièvre (1995): Orientation of the occipital cross-comissure: directed towards or reaching the nuchal plate (0), directed onto the nuchal gap, and extending on the extrascapular plates, if preserved (1); absent(0).
 
 > - **Character 175 in "early gnathostome phylogeny github".** Sensory line commissure across extrascapular bones (nuchal and paranuchal): (0) absent; (1) present.
 
- 283. Postsuborbital sensory line groove on suborbital plate: absent (0); present (1).
+ 284. Postsuborbital sensory line groove on suborbital plate: absent (0); present (1).
 > Lelièvre (1988), Character 1; Carr (1991), Character 81; Carr and Hlavin (2010), Character 81; Rücklin *et al*. (2015), Character 81; Zhu Y *et al*. (2016), Character 81; Jobbins *et al*. (2022), Character 81; Xue *et al*. (2025), Character 152.
 
- 284. Angle between the suborbital and postorbital branches of the infraorbital sensory line groove (Lelièvre, 1984a): opened (0); closed, measured as less than 90° (1).
+ 285. Angle between the suborbital and postorbital branches of the infraorbital sensory line groove (Lelièvre, 1984a): opened (0); closed, measured as less than 90° (1).
 > Carr (1991), Character 82, modified; Lelièvre (1995), Character 53;  Carr and Hlavin (2010), Character 82; Rücklin *et al*. (2015), Character 82; Zhu Y *et al*. (2016), Character 82; Jobbins *et al*. (2022, 2024), Character 82; Xue *et al*. (2025), Character 153.
 
 > - Carr and Hlavin (2010): "Gardiner & Miles (1994) argued that the angle between these grooves in *Homostius* and *Buchanosteus* is opened, in contrast to the interpretations of Lelièvre (in part, 1984a) and Carr (1991). We assume that this discrepancy was based on differing interpretations of the terms open and closed. As originally used by Lelièvre (1984a), and followed by Carr (1991), the angle in consideration was the anterior or anterodorsal-facing angle formed by the postorbital and suborbital branches of the infraorbital sensory line groove (Lelièvre, 1984a, angle formed by sio and sio.sb, fig. 2A). This feature is considered here to be closed in Homostius (Heintz, 1934, fig. 22), polymorphic in *Buchanosteus* (sensu Young, 1979); opened in *B. confertituberculatus* (Young, 1979: fig. 13, pl. 3), and closed in *B. ‘murrumbidgeensis’* (White, 1952) (White &Toombs, 1972: fig. 24; pl. 8, fig. 3), and opened in the other taxa."
 
- 285. Postorbital branch of the infraorbital sensory line groove and supraoral sensory groove confluent: discontinuous (0); continuous (1).
+ 286. Postorbital branch of the infraorbital sensory line groove and supraoral sensory groove confluent: discontinuous (0); continuous (1).
 > Lelièvre (1984a); Carr (1991), Character 83; Lelièvre (1995), character 47; Carr and Hlavin (2010), Character 83; Rücklin *et al*. (2015), Character 83; Zhu Y *et al*. (2016), Character 83; Jobbins *et al*. (2022, 2024), Character 83; Xue *et al*. (2025), Character 154.
 
 > - In those taxa that the supraoral sensory groove is absent, this character is scored as ‘not applicable’.
 
- 286. Cutaneous sensory organ on suborbital plate: (0) absent; (1) present.
+ 287. Cutaneous sensory organ on suborbital plate: (0) absent; (1) present.
 > King *et al*. (2016); King *et al*. (2017), Character 240; Castiello (2018), Character 240; Zhu Y. *et al*. (2022), Character 83; Brazeau *et al*. (2023), Character 245; Cui *et al*. (2023), Character 83; Fitzpatrick *et al*. (2024), character 124.
 
 > - Within arthrodires, cutaneous sensory organ pits are most commonly found on the suborbital and postsuborbital plates of eubrachythoracid arthrodires: the suborbital and postsuborbital plates of *Coccosteus* (Stensio 1963; Fig. 5B), *Watsonosteus* (Miles & Westoll 1962), *Goodradigbeeon* (White 1978), *Torosteus* (Gardiner & Miles 1990) and *Plourdosteus* (Ørvig 1960) and the postsuborbital plate of *Harrytoombsia* (Miles  &  Dennis  1979), *Mcnamaraspis* (Long 1995), *Simosteus* (Dennis & Miles 1982), *Compagopiscis* (Gardiner & Miles 1994), *Dickosteus* (Miles & Westoll 1962) and *Kimberleyichthys* (Dennis-Bryan & Miles 1983).
 
 > - **Character 81 in "early gnathostome phylogeny github".**
 
- 287. Cutaneous sensory organ on postsuborbital plate: (0) absent; (1) present.
+ 288. Cutaneous sensory organ on postsuborbital plate: (0) absent; (1) present.
 > King *et al*. (2016); King *et al*. (2017), Character 241; Castiello (2018), Character 241; Zhu Y. *et al*. (2022), Character 84; Brazeau *et al*. (2023), Character 246; Cui *et al*. (2023), Character 84; Fitzpatrick *et al*. (2024), character 124.
 
 > - **Character 82 in "early gnathostome phylogeny github".**
 
- 288. Dorsolateral groove (for accessory line) on anterior dorsolateral plate: absent (0); present (1).
+ 289. Dorsolateral groove (for accessory line) on anterior dorsolateral plate: absent (0); present (1).
 > Dupret *et al*. (2009), Character 46; Dupret *et al*. (2017), Character 46; Zhu *et al*. (2010), Character 46; Xue *et al*. (2025), Character 165.
 
- 289. Ventral groove of the main lateral line on the anterior dorsolateral plate: absent (0); present (1).
+ 290. Ventral groove of the main lateral line on the anterior dorsolateral plate: absent (0); present (1).
 > Carr (1991), Character 77; Carr and Hlavin (2010), Character 77; Rücklin *et al*. (2015), Character 77; Zhu Y *et al*. (2016), Character 77; Jobbins *et al*. (2022, 2023), Character 77; Xue *et al*. (2025), Character 148.
 
- 290. Main lateral line groove on the posterior dorsolateral plate: absent 0); present (1).
+ 291. Main lateral line groove on the posterior dorsolateral plate: absent 0); present (1).
 > Carr (1991), Character 79, modified; Lelièvre (1995), Character 50. Johnson *et al*. (2000), Character 15; Carr and Hlavin (2010), Character 79; Rücklin *et al*. (2015), Character 79; Zhu Y *et al*. (2016), Character 79; Jobbins *et al*. (2022, 2024), Character 79; Xue *et al*. (2025), Character 150.
 
- 291. Dorsal groove of the main lateral line on the posterior dorsolateral plate: absent (0); present (1), distinguished from the main lateral line groove by its dorsal trajectory or its continuation onto the median dorsal plate.
+ 292. Dorsal groove of the main lateral line on the posterior dorsolateral plate: absent (0); present (1), distinguished from the main lateral line groove by its dorsal trajectory or its continuation onto the median dorsal plate.
 > Carr (1991), Character 78; Carr and Hlavin (2010), Character 78; Rücklin *et al*. (2015), Character 78; Zhu Y *et al*. (2016), Character 78; Jobbins *et al*. (2022, 2023), Character 78; Xue *et al*. (2025), Character 149.
 
 > - **Character 81 in "early gnathostome phylogeny github**
 
- 292. Dorsal groove of the main lateral line on the median dorsal plate: absent (0); present (1).
+ 293. Dorsal groove of the main lateral line on the median dorsal plate: absent (0); present (1).
 > Carr (1991), Character 80; Lelièvre (1995), Character 51; Carr and Hlavin (2010), Character 80; Rücklin *et al*. (2015), Character 80; Zhu Y *et al*. (2016), Character 80; Jobbins *et al*. (2022, 2024), Character 80; Xue *et al*. (2025), Character 151.
 
- 293. Anteroventral groove on the ventral surface of the interolateral plate: absent (0); present (1).
+ 294. Anteroventral groove on the ventral surface of the interolateral plate: absent (0); present (1).
 > Zhu Y *et al*. (2016), Character 121; Xue *et al*. (2025), Character 100.
 
- 294. Ventral sensory canal on the anterior ventrolateral plate: absent (0), present (1).
+ 295. Ventral sensory canal on the anterior ventrolateral plate: absent (0), present (1).
 > Fitzpatrick *et al*. (2024), Character 131.
 
- 295. Inverted V-shaped flexure of the posterior dorsolateral plate sensory canal: no flexure (0), weak flexure, > 110° (1); strong flexure, ≤ 110° (2).  
+ 296. Inverted V-shaped flexure of the posterior dorsolateral plate sensory canal: no flexure (0), weak flexure, > 110° (1); strong flexure, ≤ 110° (2).  
 > Long (1995); Fitzpatrick *et al*. (2024), Character 126.
 > - Scored not applicable in taxa without a PDL flexure sensory canal.
 
 > - **Character 599 in "early gnathostome phylogeny github".** Sharp downward bend in posterior dorsolateral plate sensory line: (0) absent; (1) present.
 
 ## Neurocranium
- 296. Olfactory tracts: (0) short, with olfactory capsules situated close to telencephalon cavity; (1) elongate and tubular (much longer than wide).
+ 297. Olfactory tracts: (0) short, with olfactory capsules situated close to telencephalon cavity; (1) elongate and tubular (much longer than wide).
 > Zhu et al. (2009); Brazeau (2009); Friedman & Brazeau (2010); Davis et al. (2012), Character 57; Choo et al. (2017), Character 56. King et al. (2017), Character 21; Castiello (2018), Character 21; Zhu Y. et al. (2022), Character 385; Andreev et al. (2022), Character 116; Brazeau et al. (2023), Character 24. Cui et al. (2023), Character 385.
 
 >  - **Character 381 in "early gnathostome phylogeny github".**
 >  - In placoderms, enlongated olfactory tract is only present in Macropetalichthyids, including *Macropetalichthys* and *Shearsbyaspis*.
 
- 297. Olfactory tracts: (0) parallel or near-parallel; (1) significantly diverged.
+ 298. Olfactory tracts: (0) parallel or near-parallel; (1) significantly diverged.
 > Zhu Y. et al. (2021), Character 342; Zhu Y. et al. (2022), Character 386. Cui et al. (2023), Character 386.
 
 >  - **Character 382 in "early gnathostome phylogeny github".**
 >  - The score for *Macropetalichthys* should possibly be revised from 0 to 1.
 >  - The score for *Romundina* should possibly be revised from 0 to 1.
 
- 298. Link between the two neurocranium components (ethmoid and postethmoid parts): no link (‘loose nose’ fishes) (0); fusion (by osseous trabecles or total fusion) (1).
+ 299. Link between the two neurocranium components (ethmoid and postethmoid parts): no link (‘loose nose’ fishes) (0); fusion (by osseous trabecles or total fusion) (1).
 > Dupret *et al*. (2009), Character 1; Dupret *et al*. (2017), Character 1; Zhu *et al*. (2010), Character 1; Xue *et al*. (2025), Character 168.
 
 >- Same as "Optic fissure: present (0): absent (1)".
@@ -1437,209 +1439,209 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - Brazeau et al. (2023) "Optic fissure: (0) present; (1) absent."
 
- 299. Extended preorbital region between eyes and nasal capsule: (0) absent; (1) present.
+ 300. Extended preorbital region between eyes and nasal capsule: (0) absent; (1) present.
 > King et al. (2017), Character 22; , Character 22; Zhu Y. et al. (2022), Character 122; Brazeau et al. (2023), Character 25. Cui et al. (2023), Character 122.
 
 > - **Character 120 in "early gnathostome phylogeny github".**
 
 > - This character is present in macropetalichthyids, *Wuttagoonaspis*, and *Kolymaspis*.
 
- 300. Breadth of the orbitotemporal neurocranium, indicated by the breadth between the two inner margins of the supraorbital vaults: wide, defined by the ratio of the breadth of the orbitotemporal neurocranium/the breadth of the skull roof at the level immediately behind the supraorbital vault larger than 0.4 (0); narrow, defined by the ratio of the breadth of the orbitotemporal neurocranium/ the breadth of the skull roof less than 0.4 (1).
+ 301. Breadth of the orbitotemporal neurocranium, indicated by the breadth between the two inner margins of the supraorbital vaults: wide, defined by the ratio of the breadth of the orbitotemporal neurocranium/the breadth of the skull roof at the level immediately behind the supraorbital vault larger than 0.4 (0); narrow, defined by the ratio of the breadth of the orbitotemporal neurocranium/ the breadth of the skull roof less than 0.4 (1).
 > Zhu Y *et al*. (2016), Character 113; Xue *et al*. (2025), Character 166.
 
- 301. Neurocranial supraorbital process: absent (0); present (1).
+ 302. Neurocranial supraorbital process: absent (0); present (1).
 > Dupret *et al*. (2009), Character 3; Dupret *et al*. (2017), Character 3; Zhu *et al*. (2010), Character 3; Xue *et al*. (2025), Character 170.
 
- 302. Position of foramen for hyomandibular branch of facial nerve in relation to anterior postorbital process: foramen in distal part of the anterior postorbital process (0); foramen in proximoposterior position (1).
+ 303. Position of foramen for hyomandibular branch of facial nerve in relation to anterior postorbital process: foramen in distal part of the anterior postorbital process (0); foramen in proximoposterior position (1).
 > Dupret *et al*. (2009), Character 2; Dupret *et al*. (2017), Character 2; Zhu *et al*. (2010), Character 2; Xue *et al*. (2025), Character 169.
 
- 303. Neurocranial basal process: absent (0); present (1).
+ 304. Neurocranial basal process: absent (0); present (1).
 > Dupret *et al*. (2009), Character 4; Dupret *et al*. (2017), Character 4; Zhu *et al*. (2010), Character 4; Xue *et al*. (2025), Character 171.
 
- 304. Shape of the supravagal process of the neurocranium, indicated by the impression of the channel left by the supravagal process on the visceral surface of the skull roof when the neurocranium is not preserved: near right angled (0); developed laterally to form an acute angle (1).
+ 305. Shape of the supravagal process of the neurocranium, indicated by the impression of the channel left by the supravagal process on the visceral surface of the skull roof when the neurocranium is not preserved: near right angled (0); developed laterally to form an acute angle (1).
 > Zhu Y *et al*. (2016), Character 114; Xue *et al*. (2025), Character 167.
 
- 305. Prominent pre-orbital rostral expansion of the neurocranium: (0) present; (1) absent.
+ 306. Prominent pre-orbital rostral expansion of the neurocranium: (0) present; (1) absent.
 > Brazeau (2009); Davis et al. (2012), Character 58; Choo et al. (2017), Character 57; Zhu Y. et al. (2022), Character 387; Andreev et al. (2022), Character 117. Cui et al. (2023), Character 387.
 
 >  - **Character 383 in "early gnathostome phylogeny github".**
 >  - This character is present in *Romundina*, *Brindabellaspis*, and antiarchs.
 
- 306. Narrow interorbital septum: (0) absent; (1) present.
+ 307. Narrow interorbital septum: (0) absent; (1) present.
 > Brazeau (2009); Davis et al. (2012), Character 68; Choo et al. (2017), Character 67. King et al. (2017), Character 32; Castiello (2018), Character 32; Zhu Y. et al. (2022), Character 393; Andreev et al. (2022), Character 135; Brazeau et al. (2023), Character 35. Cui et al. (2023), Character 393.
 
 >  - **Character 389 in "early gnathostome phylogeny github".**
 >  - This character is present in *Austroptyctodus* and antiarchs.
 
- 307. Anteriormost articulation for the mandibular arch: (0) located anterior to the nasal capsules, terminal; (1) immediately below or posterior to nasal capsules, subterminal.
+ 308. Anteriormost articulation for the mandibular arch: (0) located anterior to the nasal capsules, terminal; (1) immediately below or posterior to nasal capsules, subterminal.
 > Zhu et al. (2016), Character 326; Coates et al. (2018), Character 123; Zhu Y. et al. (2021), Character 307; Zhu Y. et al. (2022), Character 397. Cui et al. (2023), Character 397.
 
 >  - **Character 393 in "early gnathostome phylogeny github".**
 >  - This character is shared by arthrodires and *Entelognathus*.
 
- 308. Close association of pineal organ and nasal cavities: (0) absent; (1) present.
+ 309. Close association of pineal organ and nasal cavities: (0) absent; (1) present.
 > Zhu et al. (2016), Character 328; Zhu Y. et al. (2021), Character 309; Zhu Y. et al. (2022), Character 399. Cui et al. (2023), Character 399.
 
 >  - **Character 395 in "early gnathostome phylogeny github".**
 >  - This character is present in acanthoracids and antiarchs.
 
- 309. Eye stalk position: (0) positioned laterally on the orbital wall; (1) positioned ventrally on the subocular shelf wall.
+ 310. Eye stalk position: (0) positioned laterally on the orbital wall; (1) positioned ventrally on the subocular shelf wall.
 > Castiello (2018), Character 64; Zhu Y. et al. (2022), Character 403. Cui et al. (2023), Character 403.
 
 >  - **Character 399 in "early gnathostome phylogeny github".**
 >  - Castiello (2018): "Character states have been created to highlight the difference between an eye stalk positioned ventrally on the subocular shelf as opposed to on the lateral wall of the orbit. This is an important distinction between taxa that possess similar orientation fo the orbit that have a different position for the eyestalk. As an example, *Brindabellaspis* and *Shearsbyaspis* both possess dorsolaterally placed eyes but the eye stalk in placed laterally or ventrally on the orbital wall, respectively."
 
- 310. Developed postorbital cavity: (0) absent; (1) present.
+ 311. Developed postorbital cavity: (0) absent; (1) present.
 > Zhu et al. (2013), Character 223; Choo et al. (2017), Character 220; Zhu Y. et al. (2022), Character 410. Cui et al. (2023), Character 410
 
 >  - **Character 405 in "early gnathostome phylogeny github".**
 >  - This character is present in arthrodires, *Diandongpetalichthyids*, and *Entelognathus*.
 
- 311. Subpituitary fenestra: (0) absent; (1) present.
+ 312. Subpituitary fenestra: (0) absent; (1) present.
 > Goujet & Young (1995); Brazeau (2009); Davis et al. (2012), Character 64; Choo et al. (2017), Character 63; King et al. (2017), Character 28; Castiello (2018), Character 94; Zhu Y. et al. (2022), Character 431; Andreev et al. (2022), Character 127; Brazeau et al. (2023), Character 31. Cui et al. (2023), Character 431.
 
 >  - **Character 426 in "early gnathostome phylogeny github".**
 >  - This character is a synapomorphy of arthrodires.
 
- 312. Nerve VIII bifurcates before entering the labyrinth cavity: (0) bifurcates; (1) does not bifurcate.
+ 313. Nerve VIII bifurcates before entering the labyrinth cavity: (0) bifurcates; (1) does not bifurcate.
 > Zhu Y. et al. (2021), Character 341; Zhu Y. et al. (2022), Character 433. Cui et al. (2023), Character 433.
 
 >  - **Character 428 in "early gnathostome phylogeny github".**
 >  - Bifuracted nerve VIII is present only in *Brindabellaspis*
 
- 313. Main trunk of facial nerve (N. VII): (0) elongate and passes anterolaterally through orbital floor; (1) stout and divides within otic capsule at the level of the postorbital process.
+ 314. Main trunk of facial nerve (N. VII): (0) elongate and passes anterolaterally through orbital floor; (1) stout and divides within otic capsule at the level of the postorbital process.
 > Brazeau (2009); Davis et al. (2012), Character 71; Choo et al. (2017), Character 68; Zhu Y. et al. (2022), Character 437; Andreev et al. (2022), Character 136. Cui et al. (2023), Character 437.
 
 >  - **Character 432 in "early gnathostome phylogeny github".**
 >  - Brazeau (2009): "In *osteostracans*, *Macropetalichthy*, and *Brindabellaspis*, the canal for the facial nerve follows an anterolaterally trending course. In these forms, it opens ventrolateral to the orbit. In chondrichthyans, osteichthyans, and arthrodires, the hyomandibular branch of the facial nerve exits the braincase in a position through or below the post orbital process."
 
- 314. Canal for efferent pseudobranchial artery within basicranial cartilage: (0) absent; (1) present.
+ 315. Canal for efferent pseudobranchial artery within basicranial cartilage: (0) absent; (1) present.
 > Brazeau (2009); Davis et al. (2012), Character 79; Choo et al. (2017), Character 75; King et al. (2017), Character 39; Castiello (2018), Character 39; Zhu Y. et al. (2022), Character 440; Andreev et al. (2022), Character 144; Brazeau et al. (2023), Character 42. Cui et al. (2023), Character 440.
 
 >  - **Character 435 in "early gnathostome phylogeny github".**
 >  - This character is present in macropetalichthyids and *Brindabellaspis*.
 
- 315. Pituitary vein in a transverse canal connecting the orbit: (0) absent; (1) present.
+ 316. Pituitary vein in a transverse canal connecting the orbit: (0) absent; (1) present.
 > Castiello (2018), Character 93; Zhu Y. et al. (2022), Character 446. Cui et al. (2023), Character 446.
 
 > -  **Character 441 in "early gnathostome phylogeny github".**
 > - This character is present in arthrodires and acanthoracids.
 
- 316. Position of hyomandibula articulation on neurocranium: (0) below or anterior to orbit, on ventrolateral angle of braincase; (1) posterior to orbit.
+ 317. Position of hyomandibula articulation on neurocranium: (0) below or anterior to orbit, on ventrolateral angle of braincase; (1) posterior to orbit.
 > Coates & Sequeira (2001a, b); Brazeau (2009); Friedman & Brazeau (2010); Davis et al. (2012), Character 95; Choo et al. (2017), Character 76; Zhu Y. et al. (2021), Character 157; Zhu Y. et al. (2022), Character 448; Andreev et al. (2022), Character 161; Brazeau et al. (2023), Character 374. Cui et al. (2023), Character 44.
 
 > -  **Character 443 in "early gnathostome phylogeny github".**
 > -  Davis et al. (2012): "State (1) includes articular surfaces on the postorbital process, the lateral commissure, the otic capsule wall and lateral otic process." Coding errors in Choo et al. (2017), Character 76; Zhu Y. et al. (2022), Character 448.
 > -  In arthrodires, the articulation of hyomandibula is positioned posterior to orbit on the neurocranium. State 0 is present in macropetalichthyids and ptyctodontids.
 
- 317. Cucullaris fossa (trapezius fossa): (0) open posteriorly; (1) constrained posteriorly.
+ 318. Cucullaris fossa (trapezius fossa): (0) open posteriorly; (1) constrained posteriorly.
 > Zhu et al. (2016), Character 324; Zhu Y. et al. (2021), Character 306; Zhu Y. et al. (2022), Character 457. Cui et al. (2023), Character 456.
 
 > -  **Character 451 in "early gnathostome phylogeny github".**
 > - State 1 is present in acanthoracids, *Brindabellaspis* and *Jagorina*. In other placoderms, such as arthrodires, petalichthyids, and *Microbrachius*, cucullaris fossa opens posteriorly.
 
- 318. External (horizontal) semicircular canal: (0) joins the vestibular region dorsal to posterior ampulla; (1) joins level with posterior ampulla.
+ 319. External (horizontal) semicircular canal: (0) joins the vestibular region dorsal to posterior ampulla; (1) joins level with posterior ampulla.
 > Davis et al. (2012), Character 87; Choo et al. (2017), Character 86; King et al. (2017), Character 49; Castiello (2018), Character 49; Zhu Y. et al. (2022), Character 461; Andreev et al. (2022), Character 152; Brazeau et al. (2023), Character 53. Cui et al. (2023), Character 460.
 
 > -  **Character 455 in "early gnathostome phylogeny github".**
 > -  In placoderms, state 1 is only present in *Romundina*.
 
- 319. Ampullary ends of anterior semicircular canal and external semicircular canal: (0) separated by the bulbous utricular chamber; (1) join before entering utricular chamber.
+ 320. Ampullary ends of anterior semicircular canal and external semicircular canal: (0) separated by the bulbous utricular chamber; (1) join before entering utricular chamber.
 > Maisey (2001), Character 25; Zhu Y. et al. (2021), Character 333; Zhu Y. et al. (2022), Character 474. Cui et al. (2023), Character 473.
 
 > -  **Character 468 in "early gnathostome phylogeny github".**
 > -  State 1 only present in *Romundina* and *Brindabellaspis*.
 
- 320. Sacculus position: (0) restricted ventral to external semicircular canal; (1) extends dorsal to semicircular canal.
+ 321. Sacculus position: (0) restricted ventral to external semicircular canal; (1) extends dorsal to semicircular canal.
 > Zhu Y. et al. (2021), Character 335; Zhu Y. et al. (2022), Character 476. Cui et al. (2023), Character 475.
 
 > -  **Character 470 in "early gnathostome phylogeny github".**
 > -  State 0 is only present in *Brindabellaspis*.
 
- 321. Vestibular cavity of the bony labyrinth shape: (0) drum-shaped; (1) irregularly shaped.
+ 322. Vestibular cavity of the bony labyrinth shape: (0) drum-shaped; (1) irregularly shaped.
 > Zhu Y. et al. (2021), Character 336; Zhu Y. et al. (2022), Character 477. Cui et al. (2023), Character 476.
 
 > -  **Character 471 in "early gnathostome phylogeny github".**
 > -  State 1 only present in *Romundina* and *Brindabellaspis*.
 > -  Zhu Y. et al. (2021): "In taxa such as *Jagorina*, *Kujdanowiaspis*, and *osteostracans*, the saccular cavity resembles a drum, or a flat cylinder, in that it is rounded in lateral view and compressed laterally. This contrasts with the condition in some ‘placoderms’ and crown gnathostomes, where the saccular cavity is bag-like and much more irregular in shape. It is unclear whether in *Romundina* the posteroventral bulge of the vestibular cavity is homologous to the lagena in crown gnathostomes, but even when this part is omitted, the saccular cavity in *Romundina* is still irregularly shaped in lateral view and does not resemble a drum."
 
- 322. Endolymphatic duct distal direction in coronal view: (0) parallelled directed; (1) mesially directed; (2) laterally directed.
+ 323. Endolymphatic duct distal direction in coronal view: (0) parallelled directed; (1) mesially directed; (2) laterally directed.
 > Zhu Y. et al. (2021), Character 340; Zhu Y. et al. (2022), Character 481. Cui et al. (2023), Character 480.
 
 >  -  **Character 475 in "early gnathostome phylogeny github".**
 >  -  State 2 is present in arthrodires and petalichthyids.
 
- 323. Endolymphatic sacs: (0) absent; (1) present.
+ 324. Endolymphatic sacs: (0) absent; (1) present.
 > Castiello (2018), Character 54; Zhu Y. et al. (2022), Character 483. Cui et al. (2023), Character 482.
 
 >  -  **Character 477 in "early gnathostome phylogeny github".**
 >  - In arthrodires, endolymphatic sacs is absent.
 
- 324. Channel for dorsal aorta and/or lateral dorsal aortae: (0) passes through basicranium: (1) external to basicranium.
+ 325. Channel for dorsal aorta and/or lateral dorsal aortae: (0) passes through basicranium: (1) external to basicranium.
 > Schaeffer (1981); Coates & Sequeira (1998); Brazeau (2009), Character 78; Pradel et al. (2011); Brazeau & Friedman (2014); Coates et al. (2017); Coates et al. (2018), Character 201; Choo et al. (2017), Character 77; King et al. (2017), Character 40; Castiello (2018), Character 40; Zhu Y. et al. (2022), Character 498; Andreev et al. (2022), Character 142; Brazeau et al. (2023), Character 43. Cui et al. (2023), Character 497.
 
 >  -  **Character 492 in "early gnathostome phylogeny github".**
 
- 325. Medial recess of the posteroventral mydome: (0) absent; (1) present.
+ 326. Medial recess of the posteroventral mydome: (0) absent; (1) present.
 > King et al. (2017), Character 89; Castiello (2018), Character 91; Zhu Y. et al. (2022), Character 504; Brazeau et al. (2023), Character 94. Cui et al. (2023), Character 503.
 
 >  -  **Character 498 in "early gnathostome phylogeny github".**
 >  -  This character is only present in petalichthyids, such as *Ellopetalichthys*,*Macropetalichthys*, and *Shearsbyaspis*.
 
- 326. Abducens, trigeminal nerves and pituitary vein: (0) opening via different foramina on the orbital wall; (1) sharing the same foramen on the orbital wall.
+ 327. Abducens, trigeminal nerves and pituitary vein: (0) opening via different foramina on the orbital wall; (1) sharing the same foramen on the orbital wall.
 > Castiello (2018), Character 92; Zhu Y. et al. (2022), Character 505. Cui et al. (2023), Character 504.
 
 >  -  **Character 499 in "early gnathostome phylogeny github".**
 >  -  This character is only present in *Macropetalichthys* and *Shearsbyaspis*.
 
- 327. Profundus nerve: (0) emerges from the cranial cavity separately from the trigeminal nerve; (1) emerges together with the trigeminal nerve.
+ 328. Profundus nerve: (0) emerges from the cranial cavity separately from the trigeminal nerve; (1) emerges together with the trigeminal nerve.
 > Young (1980); King et al. (2017), Character 94; Castiello (2018), Character 98; Zhu Y. et al. (2022), Character 509; Brazeau et al. (2023), Character 98. Cui et al. (2023), Character 508.
 
 >  -  **Character 503 in "early gnathostome phylogeny github".**
 >  -  This character is only present in arthrodires, such as *Kujdanowiaspis*, *Dicksonosteus*, and *Parabuchanosteus*.
 
- 328. Nasal capsules in anterolateral corners of orbit: (0) no; (1) yes. 
+ 329. Nasal capsules in anterolateral corners of orbit: (0) no; (1) yes. 
 > King et al. (2017), Character 96; Castiello (2018), Character 100; Zhu Y. et al. (2022), Character 511; Brazeau et al. (2023), Character 100. Cui et al. (2023), Character 510.
 
 >  -  **Character 505 in "early gnathostome phylogeny github".**
 >  -  This character is shared by antiarchs and acanthoracids.
 
- 329. Posterior Postorbital process (Vagal process in Giles et al., 2015): (0) forked; (1) unforked.
+ 330. Posterior Postorbital process (Vagal process in Giles et al., 2015): (0) forked; (1) unforked.
 > King et al. (2017), Character 97; Castiello (2018), Character 101; Zhu Y. et al. (2022), Character 512; Brazeau et al. (2023), Character 101. Cui et al. (2023), Character 511.
 
 >  -  **Character 506 in "early gnathostome phylogeny github".**
 
- 330. Rostral processes: (0) absent; (1) present.
+ 331. Rostral processes: (0) absent; (1) present.
 > King et al. (2017), Character 99; Castiello (2018), Character 102; Zhu Y. et al. (2022), Character 513; Brazeau et al. (2023), Character 103. Cui et al. (2023), Character 512.
 
 >  -  **Character 507 in "early gnathostome phylogeny github".**
 >  -  This character is only present in ptyctodontids.
 
- 331. Hypophysial opening in braincase: (0) absent; (1) present.
+ 332. Hypophysial opening in braincase: (0) absent; (1) present.
 > King et al. (2017), Character 114; Castiello (2018), Character 114; Zhu Y. et al. (2022), Character 523; Brazeau et al. (2023), Character 118. Cui et al. (2023), Character 522.
 
 >  -  **Character 517 in "early gnathostome phylogeny github".**
 >  -  State 0 only present in *Romundina* and *Brindabellaspis*.
 
- 332. Stalk-shaped parachordal/occipital region: (0) absent; (1) present.
+ 333. Stalk-shaped parachordal/occipital region: (0) absent; (1) present.
 > Giles et al. (2015), Character 176; Choo et al. (2017), Character 304; King et al. (2017), Character 86; Castiello (2018), Character 88; Zhu Y. et al. (2022), Character 554; Andreev et al. (2022), Character 174; Brazeau et al. (2023), Character 90. Cui et al. (2023), Character 553.
 
 >  -  **Character 548 in "early gnathostome phylogeny github".**
 >  -  This character is present in *Cowralepis*, *Macropetalichthys*, and *Lunaspis*.
 
- 333. Paired occipital condyles: (0) absent; (1) present.
+ 334. Paired occipital condyles: (0) absent; (1) present.
 > Choo et al. (2017), Character 305; Coates et al. (2018), Character 206; King et al. (2017), Character 87; Castiello (2018), Character 89; Andreev et al. (2022), Character 175; Zhu Y. et al. (2022), Character 558. Cui et al. (2023), Character 557.
 
 >  -  **Character 552 in "early gnathostome phylogeny github".**
 >  -   State 0 is only present in *Entelognathus*.
 
 ## Ornamentation
- 334. Dermal ornamentation: absent (0); present (1).
+ 335. Dermal ornamentation: absent (0); present (1).
 > Carr and Hlavin (2010), Character 91; Rücklin *et al*. (2015), Character 91; Zhu Y *et al*. (2016), Character 91; Jobbins *et al*. (2022, 2024), Character 91;  Xue *et al*. (2025), Character 172.
 
 > - Dermal ornamentation: (0) smooth; (1) parallel, vermiform ridges; (2) concentric ridges; (3) tuberculate.  **Character 54 in "early gnathostome phylogeny github".**
 
- 335. Posterior median dorsal plates covering the tail: absent (0); present (1).
+ 336. Posterior median dorsal plates covering the tail: absent (0); present (1).
 >  Johnson *et al*. (2000), character 26; Dupret *et al*. (2009, 2017), Character 56.
 > - Posterior median dorsal plates are absent in *Actinolepis*, but are common present in other species (Denison, 1957, 1978; Goujet, 1985; Johnson *et al*., 2000).
     
