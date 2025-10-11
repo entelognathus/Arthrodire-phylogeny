@@ -1647,29 +1647,32 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
     
 
 ##Additionary character##
-338.  Sensory lines of the nuchal plate: (0) extend to the posterior margin; (1) do not extend.
+337.  Sensory lines of the nuchal plate: (0) extend to the posterior margin; (1) do not extend.
 > Trinajstic et al. (2019), character 32.
 
-339.  Skull roof posteriroly bears a significant overlap area: (0) absent; (1) present.
+338.  Skull roof posteriroly bears a significant overlap area: (0) absent; (1) present.
 > Zhu Y. et al. (2019), character 377.
 
-259.  Ventral lamina of submarginal (opercular) ossification: (0) absent; (1) present.
+339.  Ventral lamina of submarginal (opercular) ossification: (0) absent; (1) present.
 > Zhu et al. (2016), Character 355; Zhu Y. et al. (2021), Character 317; Zhu Y. et al. (2022), Character 232. Cui et al. (2023), Character 232.
 
 >  - **Character 228 in "early gnathostome phylogeny github".**
 >  - This character is present in antiarcha and *Qilinyu*.
 
-260.  Ventral lamina of suborbital (jugal): (0) absent; (1) present.
+340.  Ventral lamina of suborbital (jugal): (0) absent; (1) present.
 > Zhu et al. (2016), Character 356) Zhu Y. et al. (2021), Character 318; Zhu Y. et al. (2022), Character 233. Cui et al. (2023), Character 233.
 
 >  - **Character 229 in "early gnathostome phylogeny github".**
 >  - This character is present in antiarcha and *Qilinyu*.
 
-261.  Anterodorsal process of opercular (submarginal) ossification attaching onto skull: (0) absent; (1) present.
+341.  Anterodorsal process of opercular (submarginal) ossification attaching onto skull: (0) absent; (1) present.
 > Zhu et al. (2016), Character 357; Zhu Y. et al. (2021), Character 319; Zhu Y. et al. (2022), Character 235. Cui et al. (2023), Character 235.
 
 >  - **Character 231 in "early gnathostome phylogeny github".**
 >  - This character is present in antiarcha and *Qilinyu*.
+
+342.  Sub-median-dorsal plate: absent (0); present (1).
+>  - Sub-median-dorsal plate is present in some coccosteomorph arthrodires, such as *Harrytoombsia*, *Camuropiscis*, and *Rolfosteus*.
 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
