@@ -1672,7 +1672,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 >  - This character is present in antiarcha and *Qilinyu*.
 
 342.  Sub-median-dorsal plate: absent (0); present (1).
->  - Sub-median-dorsal plate is present in some coccosteomorph arthrodires, such as *Harrytoombsia*, *Camuropiscis*, and *Rolfosteus*.
+>  - The sub-median-dorsal plate is present in some coccosteomorph arthrodires, such as *Harrytoombsia*, *Camuropiscis*, and *Rolfosteus*. It articulates with the carinal process of median dorsal plate.
 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
