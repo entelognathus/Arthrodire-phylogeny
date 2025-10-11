@@ -1685,6 +1685,7 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 345.  Median posterior process: single (0); bicuspid (1).
 >  - Dennis and Miles 1979b: "Posterior to these lies the median posterior process, single in P50976 and bicuspid in P50937 (both C. concinnus, Figs 2, 7)."
 
+346. Internasal plate: absent (0); present (1).
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
