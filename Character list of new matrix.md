@@ -1689,6 +1689,9 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 
 347.  supraorbital sensoy canals/grooves extend to the postnasal plate: absent (0); present (1).
 
+348.  Preorbital plate bearing a well-developed descending lamina: absent (0); present (1).
+>  - Elongated preorbital plates with broad descending laminae are present in some derived incisoscutoids, such as *Bullerichthys*, *Camuropiscis*, and *Rolfosteus*.
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
