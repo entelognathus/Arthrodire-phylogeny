@@ -62,7 +62,7 @@
 >  - State 0 is present in acanthothoracids and *Brindabellaspis*. 
 >  - State 1 is present in sarcopterygians, not applicabled in placoderms. 
 
-10.  premedian plate (Large unpaired median skull roofing bone anterior to the level of nasal capsules): (0) absent; (1) present.
+10.  Premedian plate (Large unpaired median skull roofing bone anterior to the level of nasal capsules): (0) absent; (1) present.
 > Zhu et al. (2013), Character 148; Choo et al. (2017), Character 159; King et al. (2017), Character 177; Castiello (2018), Character 174; Zhu Y. et al. (2022), Character 142; Brazeau et al. (2023), Character 183. Cui et al. (2023), Character 142.
 
 >  - **Character 140 in "early gnathostome phylogeny github".**
@@ -74,10 +74,10 @@
 >  - **Character 141 in "early gnathostome phylogeny github".**
 >  - In maxillate placoderms, the premedian plate is positioned ventrally. 
 
-12.  Large median bone (rostral plate) directly anterior to parietals and pineal: (0) absent; (1) present.
-> Brazeau et al. (2023), Character 263.
+12.  Rostral plate: (0) absent; (1) present.
+> Modified from Brazeau et al. (2023), Character 263.
 
->  -  **Character 704 in "early gnathostome phylogeny github".**
+>  -  **Character 704 in "early gnathostome phylogeny github".** Large median bone directly anterior to parietals and pineal: (0) absent; (1) present.
 >  -  Rostral plate is absent in ptycodontids and phyllolepids.
 
 13.  Posterior development of rostral plate: not developed (0); subtriangular (1); T-shaped (2).
