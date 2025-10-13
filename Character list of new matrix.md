@@ -74,28 +74,25 @@
 >  - **Character 141 in "early gnathostome phylogeny github".**
 >  - In maxillate placoderms, the premedian plate is positioned ventrally. 
 
-12.  Large median bone directly anterior to parietals and pineal: (0) absent; (1) present.
+12.  Large median bone (rostral plate) directly anterior to parietals and pineal: (0) absent; (1) present.
 > Brazeau et al. (2023), Character 263.
 
 >  -  **Character 704 in "early gnathostome phylogeny github".**
->  -  This character is shared by phyllolepids and ptyctodontids.
+>  -  Rostral plate is absent in ptycodontids and phyllolepids.
 
-13.  Rostral plate: absent(0); present (1).
-> - Rostral plate is absent in ptycodontids and phyllolepids.
-
-14.  Posterior development of rostral plate: not developed (0); subtriangular (1); T-shaped (2).
+13.  Posterior development of rostral plate: not developed (0); subtriangular (1); T-shaped (2).
 > Carr (1991), Character 5; Lelièvre (1995), character 4, modified; Carr and Hlavin (2010), Character 5; Rücklin *et al*. (2015), Character 5; Zhu Y *et al*. (2016), Character 5; Jobbins *et al*. (2022, 2024), Character 5; Xue *et al*. (2025), Character 5.
 
 > - In those taxa that the rostral plate is fused with the pineal plate or the rosrtal plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
 
 > - **Character 78 in "early gnathostome phylogeny github".** T-shaped rostral plate: (0) absent; (1) present.
 
-15.  Anterior elongation of the rostrum: absent (0); present (1).
+14.  Anterior elongation of the rostrum: absent (0); present (1).
 > Long (1988), Characters 4, 12, and 16; Carr (1991), Character 6; Carr and Hlavin (2010), Character 6; Rücklin *et al*.  (2015), Character 6; Zhu Y *et al*. (2016), Character 6; Jobbins *et al*. (2022, 2024), Character 6; Xue *et al*. (2025), Character 6.
 
 > - In those taxa that the rostral plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
 
-16.  Ventrally enclosed tubular rostrum: absent (0); present (1).
+15  Ventrally enclosed tubular rostrum: absent (0); present (1).
 > Carr (1991), Character 7; Lelièvre (1995), character 3, modified; Carr and Hlavin (2010), Character 7; Rücklin *et al*. (2015), Character 7; Zhu Y *et al*. (2016), Character 7; Jobbins *et al*. (2022, 2024), Character 7; Xue *et al*. (2025), Character 7.
 
 > - In those taxa that the rostral plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
