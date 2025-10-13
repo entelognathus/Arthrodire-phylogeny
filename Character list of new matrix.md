@@ -104,10 +104,10 @@
 
 > - This character is present in some petalichthyids, including *Lunaspis*, *Notopetalichthys*, and *Sinopetalichthys*.
 
-18.  Rostral and pineal plates fused into one plate: absent (0); present (1).
+18.  Rostral and pineal plates fused into one plate: absent (0); present (1).
 > Zhu Y *et al*. (2016), Character 100; Dupret *et al*. (2009), Character 8; Dupret *et al*. (2017), Character 8; Xue *et al*. (2025), Character 44.
 
-19.  Pineal, or rostropineal plates: absent (0); present (1).
+19.  Pineal, or rostropineal plates: absent (0); present (1).
 > Modified from Dupret *et al*. (2009), Character 5; Dupret *et al*. (2017), Character 5; Zhu *et al*. (2010), Character 5; Xue *et al*. (2025), Character 54.
 
 20.  Transversely divided pineal plate forming anterior and posterior plates: absent (0); present (1). 
