@@ -1692,6 +1692,9 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 348.  Preorbital plate bearing a well-developed descending lamina: absent (0); present (1).
 >  - Elongated preorbital plates with broad descending laminae are present in some derived incisoscutoids, such as *Bullerichthys*, *Camuropiscis*, and *Rolfosteus*.
 
+349. Dermal contact between submarginal and suborbital plates： absent (0); present (1).
+>  - In *Tubonasus*, *Camuropiscis*, and *Fallacosteus*, the postsuborbital plate sutures with the marginal plate and separates the suborbital from the submarginal plate.
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
