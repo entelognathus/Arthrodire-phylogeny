@@ -92,7 +92,7 @@
 
 > - In those taxa that the rostral plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
 
-15  Ventrally enclosed tubular rostrum: absent (0); present (1).
+15.  Ventrally enclosed tubular rostrum: absent (0); present (1).
 > Carr (1991), Character 7; Lelièvre (1995), character 3, modified; Carr and Hlavin (2010), Character 7; Rücklin *et al*. (2015), Character 7; Zhu Y *et al*. (2016), Character 7; Jobbins *et al*. (2022, 2024), Character 7; Xue *et al*. (2025), Character 7.
 
 > - In those taxa that the rostral plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
