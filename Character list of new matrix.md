@@ -19,16 +19,15 @@
 > - This character is absent in the majority of arthrodires (with the exception of Wuttagoonaspis), as well as in quasipetalichthyids and ptyctodonts.
 > - *Diandongpetalichthy* is coded as "0" .
 
+> - Xue *et al*. (2025), Character 59: Position of orbits on skull roof: dorsal (0); lateral (1).
+> - Lelièvre (1995): Position and size of the orbits: samall and anteriorly placed (0); small and laterally placed (1); enlarged and lateral (2).
+
 4.  Orbits, surrounded laterally by endocranium: (0) absent; (1) partially surrounded; (2) surrounded.
 > Castiello (2018), Character 30; Zhu Y. et al. (2022), Character 124; Brazeau et al. (2023), Character 33. Cui et al. (2023), Character 124; Lelièvre (1995), character 23, modified; Dupret *et al*. (2009), Character 12; Dupret *et al*. (2017), Character 12; Zhu *et al*. (2010), Character 12; Xue *et al*. (2025), Character 59.
 
 > - **Character 122 in "early gnathostome phylogeny github".**
 
-> - Xue *et al*. (2025), Character 59: Position of orbits on skull roof: dorsal (0); lateral (1).
-
 > - In arthrodires, quasipetalichthyids, and *Diandongpetalichthys*, this character are coded as "0".
-
-> - Lelièvre (1995): Position and size of the orbits: samall and anteriorly placed (0); small and laterally placed (1); enlarged and lateral (2).
 
 5.  Sclerotic ring incorporated into skull roof: (0) absent; (1) present.
 > King et al. (2017), Character 244; Castiello (2018), Character 243; Zhu Y. et al. (2022), Character 86; Brazeau et al. (2023), Character 249. Cui et al. (2023), Character 86.
