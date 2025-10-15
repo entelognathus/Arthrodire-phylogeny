@@ -1690,6 +1690,10 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 348. Dermal contact between submarginal and suborbital plates： absent (0); present (1).
 >  - In *Tubonasus*, *Camuropiscis*, *Rolfosteus*, and *Fallacosteus*, the postsuborbital plate sutures with the marginal plate and separates the suborbital from the submarginal plate.
 
+349. Pre-endolymphatic thickening: absent (0); present (1).
+>  - Pre-endolymphatic thickening is present in brachthoracids, such as in *Harrytoombsia*.
+
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
