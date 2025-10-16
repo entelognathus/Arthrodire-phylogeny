@@ -1197,17 +1197,22 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 > This character is defined by the supraorbital canal being restricted to the preorbital plate.
 
 249.  Supraorbital canals/grooves extending posteriorly onto nuchal plate: absent (0); present (1).
+> Xue *et al.* (2025, in pre), Character 190.
 
 250.  Supraorbital sensory canals/grooves extending to the rostral plate: absent (0); present (1).
 > Lelièvre (1995), Character 43.
+
+251.  Posteriorly converging supraorbital canals: (0) absent; (1) present.
+> Zhu Y. *et al.* (2022), Character 179. Cui *et al.* (2023), Character 179.
+> - **Character 175 in "early gnathostome phylogeny github".** 
 
 251.  Supraorbital canals/grooves and posterior pitlines convergence: absent (0); converge without contact (1); converge with contact (2).
 > Long et al. (2015), Character 256; Choo et al. (2017), Character 248; King et al. (2017), Character 300; Castiello (2018), Character 291; Zhu Y. et al. (2022), Character 180; Brazeau et al. (2023), Character 305. Cui et al. (2023), Character 180; Trinajstic et al. (2019), character 1.
 
 > - **Character 176 in "early gnathostome phylogeny github".**
 
-252.  Supraorbital canal/groove joins infraorbital canal: anterior to supraoral canal (0); posterior to supraoral canal (1).
-> King et al. (2017), Character 322; Castiello (2018), Character 314; Zhu Y. et al. (2022), Character 200; Brazeau et al. (2023), Character 327. Cui et al. (2023), Character 200.
+252.  Supraorbital canal/groove joins infraorbital canal: absent (0); present (1).
+> Modified from King et al. (2017), Character 322; Castiello (2018), Character 314; Zhu Y. et al. (2022), Character 200; Brazeau et al. (2023), Character 327. Cui et al. (2023), Character 200.
 
 >  - **Character 196 in "early gnathostome phylogeny github".**
 >  - This character is only present in *Wuttagoonaspis*.
