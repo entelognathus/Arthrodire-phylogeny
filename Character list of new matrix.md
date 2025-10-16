@@ -1698,7 +1698,7 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 349. Pre-endolymphatic thickening: absent (0); present (1).
 >  - Pre-endolymphatic thickening is present in brachthoracids, such as in *Harrytoombsia*.
 
-350. Anterior lateral plate with high, shallow postbranchial embayment (Dennis and Miles. 1979): absent (0); present (1).
+350. Postbranchial embayment formed by Anterior lateral plate: absent (0); present (1).
 >  - This character is widely present in coccosteomorph arthrodires. In basally branching arthrodires, this character is missing.
 
 ## References
