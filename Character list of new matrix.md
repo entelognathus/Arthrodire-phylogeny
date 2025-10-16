@@ -1647,6 +1647,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
     
 
 ##Additionary character##
+
 336.  Sensory lines of the nuchal plate: (0) extend to the posterior margin; (1) do not extend.
 > Trinajstic et al. (2019), character 32.
 
@@ -1700,6 +1701,9 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 
 350. Postbranchial embayment formed by Anterior lateral plate: absent (0); present (1).
 >  - This character is widely present in coccosteomorph arthrodires. In basally branching arthrodires, this character is missing.
+
+351. Reduced postmarginal plate: absent (0); present (1).
+>  - In coccosteomorph arthrodires, such as *Coccosteus*, *Rolfosteus*, and *Xiantingosteus*, the postmarginal plate is reduced to a small element, which forms the acute posterolateral corner of the skull roof. In other arthrodires, the postmarginal plate is broad.
 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
