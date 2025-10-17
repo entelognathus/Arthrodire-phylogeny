@@ -1705,6 +1705,7 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 351. Reduced postmarginal plate: absent (0); present (1).
 >  - In coccosteomorph arthrodires, such as *Coccosteus*, *Rolfosteus*, and *Xiantingosteus*, the postmarginal plate is reduced to a small element, which forms the acute posterolateral corner of the skull roof. In other arthrodires, the postmarginal plate is broad.
 
+352.  Supraoral sensory groove: absent (0); present (1).
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
