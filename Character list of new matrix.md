@@ -1693,19 +1693,21 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 347.  Preorbital plate bearing a well-developed descending lamina: absent (0); present (1).
 >  - Elongated preorbital plates with broad descending laminae are present in some derived incisoscutoids, such as *Bullerichthys*, *Camuropiscis*, and *Rolfosteus*.
 
-348. Dermal contact between submarginal and suborbital plates： absent (0); present (1).
+348.  Dermal contact between submarginal and suborbital plates： absent (0); present (1).
 >  - In *Tubonasus*, *Camuropiscis*, *Rolfosteus*, and *Fallacosteus*, the postsuborbital plate sutures with the marginal plate and separates the suborbital from the submarginal plate.
 
-349. Pre-endolymphatic thickening: absent (0); present (1).
+349.  Pre-endolymphatic thickening: absent (0); present (1).
 >  - Pre-endolymphatic thickening is present in brachthoracids, such as in *Harrytoombsia*.
 
-350. Postbranchial embayment formed by Anterior lateral plate: absent (0); present (1).
+350.  Postbranchial embayment formed by Anterior lateral plate: absent (0); present (1).
 >  - This character is widely present in coccosteomorph arthrodires. In basally branching arthrodires, this character is missing.
 
-351. Reduced postmarginal plate: absent (0); present (1).
+351.  Reduced postmarginal plate: absent (0); present (1).
 >  - In coccosteomorph arthrodires, such as *Coccosteus*, *Rolfosteus*, and *Xiantingosteus*, the postmarginal plate is reduced to a small element, which forms the acute posterolateral corner of the skull roof. In other arthrodires, the postmarginal plate is broad.
 
-352.  Supraoral sensory groove: absent (0); present (1).
+352.   Supraoral sensory groove: absent (0); present (1).
+
+353.   Sub-median-dorsal plate tapers posterior: absent (0); present (1).
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
