@@ -1713,6 +1713,8 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 >  -  Separated postnasal and rostral plates is present in some incisoscutoids, including *Rolfosteus* and *Incisoscutum ritchiei*. 
 >  -  In *Incisoscutum ritchiei*, a small gap is present between postnasal and rostral plate. Dennis and Miles (1981) interpreted this gap representing the largar incurrent opening. Dennis and Miles (1981): "There is no contact between the rostral and postnasal plates due to the large incurrent nasal openings. In *Rolfosteus*, the descending lamina of preorbital plate separates the rostral and postnasal plates.
 
+355. Posterdorsal process of articular: absent (0); present (1).
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
