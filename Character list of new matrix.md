@@ -1708,6 +1708,10 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 352.   Supraoral sensory groove: absent (0); present (1).
 
 353.   Sub-median-dorsal plate tapers posterior: absent (0); present (1).
+
+354.   Dermal contact between postnasal and rostral plates: absent (0); present (1).
+>  -  Separated postnasal and rostral plates is present in some incisoscutoids, including *Rolfosteus* and *Incisoscutum*. 
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
