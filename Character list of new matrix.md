@@ -1715,6 +1715,10 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 
 355. Posterdorsal process of articular: absent (0); present (1).
 
+356. Postocular crista of suborbital plate： absent (0); present (1).
+
+357. Subocular crista of suborbital plate：absent (0); present (1).
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
