@@ -713,8 +713,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 138.  Median dorsal plate elevated dorsally into a median crest: absent (0); present (1).
 > Zhu Y *et al*. (2016), Character 116; Xue *et al*. (2025), Character 95.
 
-139.  Length/height ratio (L/H) of anterior dorsolateral plate: L/H < 1 (0); L/H ≥ 1 (1).
-> Dupret *et al*. (2009, 2017), Character 61.
+139.  Length/height ratio (L/H) of anterior dorsolateral plate: length distinctly greater than height (0); subequal (1).
+> Modified from Dupret *et al*. (2009, 2017), Character 61.
 
 140.  Contact between anterior lateral and anterior dorsolateral plates a simple inverted V-shape: (0) present; (1) absent and has an M-shape.
 > Trinajstic et al. (2019), character 14.
