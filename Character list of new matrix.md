@@ -1727,6 +1727,9 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 
 361.  Anterior descending lamina of rostral plate: absent (0); present (1).
 
+362. Lateral teeth on the posterior superognathal: absent (0); present (1).
+>  - This character is present in coccosteomorph arthrodires, such as *Harrytoombsia*, *Torosteus*, and *Xiantingosteus*.    
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
