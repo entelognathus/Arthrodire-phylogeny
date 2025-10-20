@@ -1721,8 +1721,10 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 
 358.  Dorsal crista of quadrate: absent (0); present (1).
 
-359. Denticle on ventral surface of parasphenoid: absent (0); present (1).
-     
+359.  Denticle on ventral surface of parasphenoid: absent (0); present (1).
+
+360.  Supraorbital sensory canal terminating on postnasal plate: absent (0); present (1). 
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
