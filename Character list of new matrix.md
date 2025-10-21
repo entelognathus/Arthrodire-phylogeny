@@ -1731,7 +1731,10 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 >  - This character is present in coccosteomorph arthrodires, such as *Harrytoombsia*, *Torosteus*, and *Xiantingosteus*.    
 
 363. Unossified supraglenoid area of articular: absent (0); present (1).
->  - In some incisoscutoids, such as *Torosteus*, *Harrytoombsia*, *Camuropiscis*, *Rolfosteus*, and *Incisoscutum*, there is a samll unossified, supraglenoid area present anterodorsally on the lateral surface of articular. Gardiner and Miles 1990 suggested that this area articulates with the detent process of quadrate.   
+>  - In some incisoscutoids, such as *Torosteus*, *Harrytoombsia*, *Camuropiscis*, *Rolfosteus*, and *Incisoscutum*, there is a samll unossified, supraglenoid area present anterodorsally on the lateral surface of articular. Gardiner and Miles 1990 suggested that this area articulates with the detent process of quadrate.
+
+364. Marginal plate embayment of postorbial plate: absent (0); present (1).
+>  - This character is present in some coccosteomorph arthrodires, such as *Harrytoombsia*, *Torosteus*, and *Coccosteus*.
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
