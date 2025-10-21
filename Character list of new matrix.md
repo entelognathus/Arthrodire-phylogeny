@@ -1298,8 +1298,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 270.  Orientation of the posterior pitline when supraorbital canals and posterior pitlines converge: posterior pitline extends horizontally (0); posterior pitline extends anteriorly (1); posterior pitline extends posteriorly (2).
 
-271.  Posterior pit line: separate (0); meet posteriorly (1).
-> Pan et al. (2015), Character 4.
+271.  Posterior pit line: separate (0); meet in midline of skull roof  (1).
+> Modified from Pan et al. (2015), Character 4.
 
 272.  Middle and posterior pit-lines on central plate (postparietal): (0) posteriorly situated; (1) mesially situated.
 > Zhu et al. (2009, Character 107), and references therein; Zhu et al. (2013), Character 185; Choo et al. (2017), Character 190; King et al. (2017), Character 288; Castiello (2018), Character 280; Zhu Y. et al. (2022), Character 165; Brazeau et al. (2023), Character 293. Cui et al. (2023), Character 165.
