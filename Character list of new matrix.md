@@ -1735,6 +1735,10 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 
 364. Marginal plate embayment of postorbial plate: absent (0); present (1).
 >  - This character is present in some coccosteomorph arthrodires, such as *Harrytoombsia*, *Torosteus*, and *Coccosteus*.
+
+365. Postsuborbital sensory line groove on postsuborbital plate: absent (0); present (1).
+
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
