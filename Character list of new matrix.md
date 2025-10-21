@@ -1730,6 +1730,8 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 362. Lateral teeth on the posterior superognathal: absent (0); present (1).
 >  - This character is present in coccosteomorph arthrodires, such as *Harrytoombsia*, *Torosteus*, and *Xiantingosteus*.    
 
+363. Unossified supraglenoid area of articular: absent (0); present (1).
+>  - In some incisoscutoids, such as *Torosteus*, *Harrytoombsia*, *Camuropiscis*, *Rolfosteus*, and *Incisoscutum*, there is a samll unossified, supraglenoid area present anterodorsally on the lateral surface of articular. Gardiner and Miles 1990 suggested that this area articulates with the detent process of quadrate.   
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
