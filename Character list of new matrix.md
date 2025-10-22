@@ -1746,6 +1746,9 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 
 370.  Postocular process on the visceral surface of skull roof: single (0); bifurcate.
 >  - The bifurcate postocular process is present in *Hanytoombsia*, *Torosteus*, *Compagopiscis*, *Gogopiscis*, *Plourdosteus*, *Dunkleosteus*.
+
+371.  Rostrocaudal canal on the parasphenoid: asbent (0); present (1).
+>  - Gardiner and Miles, 1994: "Primitively the arthrodiran parasphenoid consisted of a short dermal tooth plate perforated by the paired opening for the buccohypophysial foramen (*Kujdanowiasps*, *Dicksonosteus*, *Pholidosteus*). In *Buchanosteus* and the cladistically less derived Gogo arthrodires the parasphenoid has a well-developed ventral groove and a rostrocaudal canal which reaches from the hind margin to the hypophysial fossa. In the more derived forms such as *Bullerichthys* (Dennis & Miles, 1980: fig. 9A), *Dunkleosteus*, *Heintzichthys* (Stensio, 1963: figs 114B, D) this canal is missing. It is also missing in *Eastmanosteus calliaspis* Dennis-Bryan.   
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
