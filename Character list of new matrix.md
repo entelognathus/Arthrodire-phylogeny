@@ -1743,6 +1743,9 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 368.  Obstantic process of anterior lateral plate: absent (0); present (1).
 
 369.  Obstantic process of anterior lateral plate：undeveloped (0); developed (1).
+
+370.  Postocular process on the visceral surface of skull roof: single (0); bifurcate.
+>  - The bifurcate postocular process is present in *Hanytoombsia*, *Torosteus*, *Compagopiscis*, *Gogopiscis*, *Plourdosteus*, *Dunkleosteus*.
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
