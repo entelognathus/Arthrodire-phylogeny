@@ -1760,6 +1760,8 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 >  - Long, 1995.
 
 376.  Anterior margin of the rostral plate: straight (0); round (1); strongly point (2). Ordered.
+
+377.  Midline contact between paired preorbital plates: straight (0); sinuous (1).
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
