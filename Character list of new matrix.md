@@ -1766,6 +1766,8 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 378.   Nuchal plate embayment of central plate: absent (0); shallow (1); developed (2).
 
 379.  Sublingual process of the suborbital plate: absent (0); present (1).
+
+380.  Postpineal plate: absent (0); present (1).
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
