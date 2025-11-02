@@ -934,7 +934,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 189.  Number of dorsal fins, if present: (0) one; (1) two.
 > Coates & Sequeira (2001a, b); Brazeau (2009); Davis et al. (2012), Character 136; Choo et al. (2017), Character 132; King et al. (2017), Character 450; Castiello (2018), Character 439; Zhu Y. et al. (2022), Character 652; Andreev et al. (2022), Character 226; Brazeau et al. (2023), Character 455. Cui et al. (2023), Character 651.
 
->  -  **Character 638 in "early gnathostome phylogeny github".**
+>  -  **Character 646 in "early gnathostome phylogeny github".**
 >  -  *Austroptyctodus*, *Rhamphodopsis*, and *Xiushanosteus* possess two dorsal fins.
 
 190.  Anal fin: (0) absent; (1) present.
