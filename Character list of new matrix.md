@@ -1780,8 +1780,12 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 385.  Sclerotic plate: four (0); three (1).
 
 386.  Sclerotic plate: narrow (0); broad (1).
-
+    
 387.  Occipital cross commisural sensory canal/groove runs cross the extrascapular: absent (0); present (1).
+>  -  This character is present in some coccosteoids
+
+388.  Posterior ventrolateral plate with posteriorly directed lateral spines： absent (0); present (1).
+>  -  This character is present in some coccosteoids, such as *Coccosteus* and *Millerosteus*.
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
