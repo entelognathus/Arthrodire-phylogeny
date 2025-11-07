@@ -595,7 +595,7 @@
 > - Gogo Formation, Western Australia, Australia。 -17.75, 125.17
 > - [Dennis and Miles, 1981](https://academic.oup.com/zoolinnean/article-abstract/73/3/213/2658833); [Giles et al., 2013](https://onlinelibrary.wiley.com/doi/full/10.1002/jmor.20119)
 
-[*Incisoscutum sarahae*](https://deepbone.cn/public/#/explor?s_id=2446&functionId=Deepbone_header_searchResultOpen) Long, 1994
+[*Incisoscutum sarahae*](https://deepbone.cn/public/#/explor?s_id=2446&functionId=Deepbone_header_searchResultOpen) (Long, 1994)
 > > lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation, Canning Basin, Australia. -17.75, 125.17
@@ -1204,6 +1204,7 @@
 ## References
 
 Andrews, S. M. (1978). A possible occurrence of *Remigolepis* in the topmost Old Red Sandstone of Berwickshire. *Scottish Journal of Geology*, **14**(4), 311-315. 
+
 
 
 
