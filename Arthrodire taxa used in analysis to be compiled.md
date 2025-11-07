@@ -283,6 +283,12 @@
 > - Burtnieki Beds of Karksi and Joosu, Estonia; Gauja River, Latvia.
 > - [Mark-Kurik, 1973].
 
+[*Actinolepis spinosa*] Mark-Kurik, 1985
+> Pragian, 410.8, 407.6
+
+> - Kemeri Regional Stage, Ventspils, Latvia.
+> - [Mark-Kurik, 1985]
+
 [*Actinolepis tuberculata*](https://deepbone.org/public/#/explor?s_id=2463andfunctionId=Deepbone_header_searchResultOpen) Agassiz, 1844
 > Eifelian, 393.3, 387.7
 
@@ -1186,6 +1192,7 @@
 ## References
 
 Andrews, S. M. (1978). A possible occurrence of *Remigolepis* in the topmost Old Red Sandstone of Berwickshire. *Scottish Journal of Geology*, **14**(4), 311-315. 
+
 
 
 
