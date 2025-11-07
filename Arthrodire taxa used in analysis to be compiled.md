@@ -398,7 +398,7 @@
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation, Canning Basin, Australia. -17.75, 125.17
-> [Dennis and Miles, 1979](https://academic.oup.com/zoolinnean/article-abstract/67/1/1/2664252); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
+> - [Dennis and Miles, 1979](https://academic.oup.com/zoolinnean/article-abstract/67/1/1/2664252); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Coccosteus cuspidatus*](https://deepbone.org/public/#/explor?s_id=2148andfunctionId=Deepbone_header_searchResultOpen) Miller, 1841
 > upper Eifelian, 389.6, 387.7
@@ -1204,6 +1204,7 @@
 ## References
 
 Andrews, S. M. (1978). A possible occurrence of *Remigolepis* in the topmost Old Red Sandstone of Berwickshire. *Scottish Journal of Geology*, **14**(4), 311-315. 
+
 
 
 
