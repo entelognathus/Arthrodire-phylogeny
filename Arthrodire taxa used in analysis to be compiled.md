@@ -283,7 +283,7 @@
 > - Burtnieki Beds of Karksi and Joosu, Estonia; Gauja River, Latvia.
 > - [Mark-Kurik, 1973].
 
-[*Actinolepis spinosa*] Mark-Kurik, 1985
+[*Actinolepis spinosa*](https://deepbone.cn/public/#/explor?s_id=2465&functionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1985
 > Pragian, 410.8, 407.6
 
 > - Kemeri Regional Stage, Ventspils, Latvia.
@@ -301,7 +301,7 @@
 > - Water Canyon Formation; Cache County, Utah, USA.
 > - [Denison, 1958].
 
-[*Aethaspis major*] Denison, 1958
+[*Aethaspis major*](https://deepbone.cn/public/#/explor?s_id=2492&functionId=Deepbone_header_searchResultOpen) Denison, 1958
 > Emsian, 407.6, 393.3
 
 > - Water Canyon Formation; Cache County, Utah, USA.
@@ -313,6 +313,12 @@
 > - Sandy Member of Sevy Dolomite, Nevada, USA. 
 > - [Johnson *et al*., 2000](https://academic.oup.com/zoolinnean/article/129/2/241/2682485).
 > - For the late Emsian age, see Johnson et al. (2000). 
+
+[*Anarthraspis chamberlini*](https://deepbone.cn/public/#/explor?s_id=2169&functionId=Deepbone_header_searchResultOpen) (Bryant, 1934)
+> Pragian, 410.8, 407.6
+
+> - Beartooth Butte Formation; Beartooth Butte, Wyoming, USA.
+> - [Bryant, 1934].
 
 [*Antarctaspis mcmurdoensis*](https://deepbone.cn/public/#/explor?s_id=2169&functionId=Deepbone_header_searchResultOpen) White, 1968
 > Givetian, 387.7, 382.7
@@ -1198,6 +1204,7 @@
 ## References
 
 Andrews, S. M. (1978). A possible occurrence of *Remigolepis* in the topmost Old Red Sandstone of Berwickshire. *Scottish Journal of Geology*, **14**(4), 311-315. 
+
 
 
 
