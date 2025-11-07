@@ -301,6 +301,12 @@
 > - Water Canyon Formation; Cache County, Utah, USA.
 > - [Denison, 1958].
 
+[*Aethaspis major*] Denison, 1958
+> Emsian, 407.6, 393.3
+
+> - Water Canyon Formation; Cache County, Utah, USA.
+> - [Denison, 1958].
+
 [*Aleosteus eganensis*](https://deepbone.org/public/#/explor?s_id=2487andfunctionId=Deepbone_header_searchResultOpen) Johnson et al, 2000
 > upper Emsian, 400.45, 393.3
  
@@ -1192,6 +1198,7 @@
 ## References
 
 Andrews, S. M. (1978). A possible occurrence of *Remigolepis* in the topmost Old Red Sandstone of Berwickshire. *Scottish Journal of Geology*, **14**(4), 311-315. 
+
 
 
 
