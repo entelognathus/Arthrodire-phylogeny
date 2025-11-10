@@ -1750,18 +1750,18 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 371.  Rostrocaudal canal on the parasphenoid: asbent (0); present (1).
 >  - Gardiner and Miles, 1994: "Primitively the arthrodiran parasphenoid consisted of a short dermal tooth plate perforated by the paired opening for the buccohypophysial foramen (*Kujdanowiasps*, *Dicksonosteus*, *Pholidosteus*). In *Buchanosteus* and the cladistically less derived Gogo arthrodires the parasphenoid has a well-developed ventral groove and a rostrocaudal canal which reaches from the hind margin to the hypophysial fossa. In the more derived forms such as *Bullerichthys* (Dennis & Miles, 1980: fig. 9A), *Dunkleosteus*, *Heintzichthys* (Stensio, 1963: figs 114B, D) this canal is missing. It is also missing in *Eastmanosteus calliaspis* Dennis-Bryan.   
 
-372.  Spinal plate with a posterior notch: absent (0); present (1).
+372.   Spinal plate with a posterior notch: absent (0); present (1).
 
-373.  Prehypophysial shelf on the parasphenoid: absent (0); present (1).
+373.   Prehypophysial shelf on the parasphenoid: absent (0); present (1).
 
-374.  Interolateral plates anteromesially extend: absent (0); present (1).
+374.   Interolateral plates anteromesially extend: absent (0); present (1).
 
-375.  Orbtial autopalatine process：absent (0); present (1).
+375.   Orbtial autopalatine process：absent (0); present (1).
 >  - Long, 1995.
 
-376.  Anterior margin of the rostral plate: straight (0); round (1); strongly point (2). Ordered.
+376.   Anterior margin of the rostral plate: straight (0); round (1); strongly point (2). Ordered.
 
-377.  Midline contact between paired preorbital plates: straight (0); sinuous (1).
+377.   Midline contact between paired preorbital plates: straight (0); sinuous (1).
 
 378.   Nuchal plate embayment of central plate: absent (0); shallow (1); developed (2).
 
@@ -1792,6 +1792,8 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 390.  Paired pits on the internal side of the nuchal plate separated by a median septum：absent (0); present (1).
 
 391.  Median posterior process of nuchal plate：absent (0); present (1).
+
+392.  Pre-endolymphatic thickening: normal or weakly developed (0); strongly developed (1).  
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
