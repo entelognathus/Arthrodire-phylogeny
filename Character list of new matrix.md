@@ -1788,6 +1788,8 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 >  -  This character is present in some coccosteoids, such as *Coccosteus* and *Millerosteus*.
 
 389.  Path of central canal onto central plate: direct (0); with anterior projection before entering central plate (1).
+
+390.  Paired pits on the internal side of the nuchal plate separated by a median septum：absent (0); present (1).
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
