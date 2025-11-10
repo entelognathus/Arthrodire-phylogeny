@@ -1786,6 +1786,8 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 
 388.  Posterior ventrolateral plate with posteriorly directed lateral spines： absent (0); present (1).
 >  -  This character is present in some coccosteoids, such as *Coccosteus* and *Millerosteus*.
+
+389.  Path of central canal onto central plate: direct (0); with anterior projection before entering central plate (1).
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
