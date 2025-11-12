@@ -1110,6 +1110,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 231.  Median hypophysial vein foramen: absent (0); present (1).
 > Gardiner and Miles (1990), Character 22.7; Carr (1991), Character 73; Carr and Hlavin (2010), Character 73; Rücklin *et al*. (2015), Character 73; Zhu Y *et al*. (2016), Character 73; Jobbins *et al*. (2022, 2024), Character 73; Xue *et al*. (2025), Character 137.
 
+>  - Gardiner and Miles, 1994: "Primitively the arthrodiran parasphenoid consisted of a short dermal tooth plate perforated by the paired opening for the buccohypophysial foramen (*Kujdanowiasps*, *Dicksonosteus*, *Pholidosteus*). In *Buchanosteus* and the cladistically less derived Gogo arthrodires the parasphenoid has a well-developed ventral groove and a rostrocaudal canal which reaches from the hind margin to the hypophysial fossa. In the more derived forms such as *Bullerichthys* (Dennis & Miles, 1980: fig. 9A), *Dunkleosteus*, *Heintzichthys* (Stensio, 1963: figs 114B, D) this canal is missing. It is also missing in *Eastmanosteus calliaspis* Dennis-Bryan.
+
 232.  Parasphenoid ventromedian crest: absent (0); present (1).
 > Gardiner and Miles (1990), Character 22.27; Carr (1991), Character 74; Carr and Hlavin (2010), Character 74; Rücklin *et al*. (2015), Character 74; Zhu Y *et al*. (2016), Character 74; Jobbins *et al*. (2022, 2024), Character 74; Xue *et al*. (2025), Character 138.
 
@@ -1747,8 +1749,7 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 370.  Postocular process on the visceral surface of skull roof: single (0); bifurcate.
 >  - The bifurcate postocular process is present in *Hanytoombsia*, *Torosteus*, *Compagopiscis*, *Gogopiscis*, *Plourdosteus*, *Dunkleosteus*.
 
-371.  Rostrocaudal canal on the parasphenoid: asbent (0); present (1).
->  - Gardiner and Miles, 1994: "Primitively the arthrodiran parasphenoid consisted of a short dermal tooth plate perforated by the paired opening for the buccohypophysial foramen (*Kujdanowiasps*, *Dicksonosteus*, *Pholidosteus*). In *Buchanosteus* and the cladistically less derived Gogo arthrodires the parasphenoid has a well-developed ventral groove and a rostrocaudal canal which reaches from the hind margin to the hypophysial fossa. In the more derived forms such as *Bullerichthys* (Dennis & Miles, 1980: fig. 9A), *Dunkleosteus*, *Heintzichthys* (Stensio, 1963: figs 114B, D) this canal is missing. It is also missing in *Eastmanosteus calliaspis* Dennis-Bryan.   
+371.   Prehypophysial shelf on the parasphenoid: absent (0); present (1).
 
 372.   Spinal plate with a posterior notch: absent (0); present (1).
 
