@@ -1752,52 +1752,51 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 
 372.   Spinal plate with a posterior notch: absent (0); present (1).
 
-373.   Prehypophysial shelf on the parasphenoid: absent (0); present (1).
+373.   Interolateral plates anteromesially extend: absent (0); present (1).
 
-374.   Interolateral plates anteromesially extend: absent (0); present (1).
-
-375.   Orbtial autopalatine process：absent (0); present (1).
+374.   Orbtial autopalatine process：absent (0); present (1).
 >  - Long, 1995.
 
-376.   Anterior margin of the rostral plate: straight (0); round (1); strongly point (2). Ordered.
+375.  Anterior margin of the rostral plate: straight (0); round (1); strongly point (2). Ordered.
 
-377.   Midline contact between paired preorbital plates: straight (0); sinuous (1).
+376.  Midline contact between paired preorbital plates: straight (0); sinuous (1).
 
-378.   Nuchal plate embayment of central plate: absent (0); shallow (1); developed (2).
+377.  Nuchal plate embayment of central plate: absent (0); shallow (1); developed (2).
 
-379.  Sublingual process of the suborbital plate: absent (0); present (1).
+378.  Sublingual process of the suborbital plate: absent (0); present (1).
 
-380.  Postpineal plate: absent (0); present (1).
+379.  Postpineal plate: absent (0); present (1).
 
-381.  Central plate bears a small anteriorly projecting process where the infra orbital sensory groove or canal passes on to the preorbital plate: absent (0); present (1).
+380.  Central plate bears a small anteriorly projecting process where the infra orbital sensory groove or canal passes on to the preorbital plate: absent (0); present (1).
 
-382.  Postorbital plate bears a posterirly projecting process where the infraorbital sensory line passes on the marginal plate; absent (0); present (1).
+381.  Postorbital plate bears a posterirly projecting process where the infraorbital sensory line passes on the marginal plate; absent (0); present (1).
 
-383.  Incision of subocular ridge: absent (0); present (1).
+382.  Incision of subocular ridge: absent (0); present (1).
 
-384.  Sclerotic plate: absent (0); present (1).
+383.  Sclerotic plate: absent (0); present (1).
 
-385.  Sclerotic plate: four (0); three (1).
+384.  Sclerotic plate: four (0); three (1).
 
-386.  Sclerotic plate: narrow (0); broad (1).
+385.  Sclerotic plate: narrow (0); broad (1).
     
-387.  Occipital cross commisural sensory canal/groove runs cross the extrascapular: absent (0); present (1).
+386.  Occipital cross commisural sensory canal/groove runs cross the extrascapular: absent (0); present (1).
 >  -  This character is present in some coccosteoids
 
-388.  Posterior ventrolateral plate with posteriorly directed lateral spines： absent (0); present (1).
+387.  Posterior ventrolateral plate with posteriorly directed lateral spines： absent (0); present (1).
 >  -  This character is present in some coccosteoids, such as *Coccosteus* and *Millerosteus*.
 
-389.  Path of central canal onto central plate: direct (0); with anterior projection before entering central plate (1).
+388.  Path of central canal onto central plate: direct (0); with anterior projection before entering central plate (1).
 
-390.  Paired pits on the internal side of the nuchal plate separated by a median septum：absent (0); present (1).
+389.  Paired pits on the internal side of the nuchal plate separated by a median septum：absent (0); present (1).
 
-391.  Median posterior process of nuchal plate：absent (0); present (1).
+390.  Median posterior process of nuchal plate：absent (0); present (1).
 
-392.  Pre-endolymphatic thickening: normal or weakly developed (0); strongly developed (1).
+391.  Pre-endolymphatic thickening: normal or weakly developed (0); strongly developed (1).
 
-393.  T-shaped thickening on the visceral surface of anterior median ventral plate: absent (0); present (1).
+392.  T-shaped thickening on the visceral surface of anterior median ventral plate: absent (0); present (1).
 >  - This character is present in *Dunkleosteus* and *Panxiosteus*.
-394.  
+
+393.  
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
