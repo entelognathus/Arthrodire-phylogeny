@@ -1793,7 +1793,11 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 
 391.  Median posterior process of nuchal plate：absent (0); present (1).
 
-392.  Pre-endolymphatic thickening: normal or weakly developed (0); strongly developed (1).  
+392.  Pre-endolymphatic thickening: normal or weakly developed (0); strongly developed (1).
+
+393.  T-shaped thickening on the visceral surface of anterior median ventral plate: absent (0); present (1).
+>  - This character is present in *Dunkleosteus* and *Panxiosteus*.
+394.  
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
