@@ -1797,7 +1797,8 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 392.  T-shaped thickening on the visceral surface of anterior median ventral plate: absent (0); present (1).
 >  - This character is present in *Dunkleosteus* and *Panxiosteus*.
 
-393.  
+393.  Postnuchal process: small (0); large (1).
+>  -  Weakly developed postnuchal plate is present in some dunkleosteus, such as *Dunkleosteus*, *Westralichthys*, and *Golshanichthys*.
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
