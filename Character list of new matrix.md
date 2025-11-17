@@ -1768,7 +1768,7 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 
 379.  Postpineal plate: absent (0); present (1).
 
-380.  Central plate bears a small anteriorly projecting process where the infra orbital sensory groove or canal passes on to the preorbital plate: absent (0); present (1).
+380.  Central plate bears a small anteriorly projecting process where the suparorbital sensory groove or canal passes on to the preorbital plate: absent (0); present (1).
 
 381.  Postorbital plate bears a posterirly projecting process where the infraorbital sensory line passes on the marginal plate; absent (0); present (1).
 
