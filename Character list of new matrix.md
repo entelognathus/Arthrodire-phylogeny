@@ -1799,6 +1799,8 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 
 393.  Postnuchal process: small (0); large (1).
 >  -  Weakly developed postnuchal plate is present in some dunkleosteus, such as *Dunkleosteus*, *Westralichthys*, and *Golshanichthys*.
+
+394.  Broad overlaps between dermal plates: absent (0); present (1).
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
