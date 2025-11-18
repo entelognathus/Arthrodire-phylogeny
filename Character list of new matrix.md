@@ -1809,6 +1809,8 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 396.  Semicircular ridge bound posteriorly to the pineal pit on the visceral surface of the pineal plate: absent (0); present (1),
 >  -  This character is present in some pachyosteomorph arthrodires, such as *Dunklesoteus*, *Eastmanosteus*, and *Titanichthys*.
 
+397.  Posterior teeth on the posterior superognathal: absent (0); present (1).
+>  -  This character is present in dunkleosteus, such as *Dunkleosteus* and *Eastmanosteus*.
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
