@@ -1811,6 +1811,14 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 
 397.  Posterior teeth on the posterior superognathal: absent (0); present (1).
 >  -  This character is present in dunkleosteus, such as *Dunkleosteus* and *Eastmanosteus*.
+
+398.  Inner arcade of dorsal teeth on the lingual surface of the bitting region of inferognathal: absent (0); present (1).
+>  -  The lingual surface of the biting region bears some inner arcade of dorsal teeth near the dorsal margin, as in *Camuropiscis*, *Xiantingosteus*, and the juvenile specimen of *Incisoscutum ritchiei*.
+
+399.  Downward process beneath the symphysisal toothrows: absent (0); present (1).
+>  -  The lingual surface of the biting region in *Xiantingosteus* bears some inner arcade of dorsal teeth near the dorsal margin, as in *Camuropiscis* and the juvenile specimen of *Incisoscutum ritchiei*.
+
+400.  
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
