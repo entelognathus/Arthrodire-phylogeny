@@ -1818,7 +1818,8 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 399.  Downward process beneath the symphysisal toothrows: absent (0); present (1).
 >  -  The lingual surface of the biting region in *Xiantingosteus* bears some inner arcade of dorsal teeth near the dorsal margin, as in *Camuropiscis* and the juvenile specimen of *Incisoscutum ritchiei*.
 
-400.  
+400.   Dorsal branch of the main lateral line on the median dorsal plate: medial position (0); posterior position (1).
+>  -  In incisoscutoids, dorsal branch of the main lateral line runs along the posterior margin of the median dorsal plate. In coccosteoids, dorsal branch of the main lateral line is positioned median on the median dorsal plate.
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
