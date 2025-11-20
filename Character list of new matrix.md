@@ -1823,6 +1823,9 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 
 401.   Subglenoid process: absent or negligible (0); present (1).
 >  -  In incisoscutoids, subglenoid process is absent or negligible
+
+402.   Roughly circular depression surround the buccohypophysial foramen: absent (0); present (1).
+>  -  This character is present in *Eastmanosteus*. Dennis-Bryan (1987): Lateral to the foramen, at either side, the ventral groove is deeper and wider than elsewhere and forms a roughly circular depression (c.dep). Kulczycki (1956: pl. 1C) also noticed this feature in Dinichthys cf. pustulosus though it is unlabelled in his drawing.
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
