@@ -1656,6 +1656,12 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 337.  Skull roof posteriroly bears a significant overlap area: (0) absent; (1) present.
 > Zhu Y. et al. (2019), character 377.
 
+Lateral plate: absent (0); present (1).
+>  - Zhu et al. (2013), Character 157; Choo et al. (2017), Character 167; King et al. (2017), Character 185; Castiello (2018), Character 182; Zhu Y. et al. (2022), Character 153; Brazeau et al. (2023), Character 191. Cui et al. (2023), Character 153.
+
+>  - >  - **Character 150 in "early gnathostome phylogeny github".**
+>  - The lateral plate is a syanpomorphy of antiarchs with a unique topology with neighboring plates. The lateral plate should be homgologous to the postorbital plate of other placoderms (equivalent of the sarcopterygian intertemporal, the actinopterygian dermosphenotic).
+
 338.  Ventral lamina of submarginal (opercular) ossification: (0) absent; (1) present.
 > Zhu et al. (2016), Character 355; Zhu Y. et al. (2021), Character 317; Zhu Y. et al. (2022), Character 232. Cui et al. (2023), Character 232.
 
