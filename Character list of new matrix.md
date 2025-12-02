@@ -1832,6 +1832,10 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 
 402.   Roughly circular depression surround the buccohypophysial foramen: absent (0); present (1).
 >  -  This character is present in *Eastmanosteus*. Dennis-Bryan (1987): Lateral to the foramen, at either side, the ventral groove is deeper and wider than elsewhere and forms a roughly circular depression (c.dep). Kulczycki (1956: pl. 1C) also noticed this feature in Dinichthys cf. pustulosus though it is unlabelled in his drawing.
+
+403.   Ventral groove of the main lateral line terminates on the anterior dorsolateral plate: absent (0); present (1).
+![Fig  8](https://github.com/user-attachments/assets/e385a893-f7b4-4697-ac4e-269fa86c0b8b)
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
