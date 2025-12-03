@@ -1836,6 +1836,9 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 403.   Ventral groove of the main lateral line terminates on the anterior dorsolateral plate: absent (0); present (1).
 ![Fig  8](https://github.com/user-attachments/assets/e385a893-f7b4-4697-ac4e-269fa86c0b8b)
 
+404.   Posterior spine of median dorsal plate: absent (0); present (1).
+<img width="609" height="577" alt="image" src="https://github.com/user-attachments/assets/047106f7-904d-4546-ab1b-b3663a81e4f9" />
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
