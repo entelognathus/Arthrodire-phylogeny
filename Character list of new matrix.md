@@ -1852,6 +1852,10 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 >  -  In some  aspinothoracids, such as *Titanichthys*, *Gymnotrachelus*, and *Bungartius*, the submarginal and suborbital plates are separate by the postsuborbital plate.
 <img width="539" height="194" alt="image" src="https://github.com/user-attachments/assets/b3d78ab8-51fd-469a-8680-b9d283ad7a89" />
 
+408.   The anterior portion of the inferognathal curves ventromedially: absent (0); present (1).
+>  -  This character is present in *Bungartius* and *Titanichthys*, and possibly correlated with their suspension-feeding adaptation.
+<img width="546" height="270" alt="image" src="https://github.com/user-attachments/assets/b59bdfc0-3f81-41bb-ba60-0f462c602aba" />
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
