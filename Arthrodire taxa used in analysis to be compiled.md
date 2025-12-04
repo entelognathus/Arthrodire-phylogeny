@@ -1198,12 +1198,18 @@
 > - South China
 > - [Liu, 1973](http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200905/t20090512_2386681.html)
 
+[*Titanichthys clarki*](https://deepbone.cn/public/#/explor?s_id=3591&functionId=Deepbone_header_searchResultOpen) Newberry, 1987
+> upper Famennian, 363.3, 358.9
 
-
+> - Cleveland Shale Member, Ohio Shale Formation, Ohio, USA.
+> - [Boyle and Ryan, 2017](https://www.cambridge.org/core/journals/journal-of-paleontology/article/new-information-on-titanichthys-placodermi-arthrodira-from-the-cleveland-shale-upper-devonian-of-ohio-usa/F9C6D35916E95652B86894AAF33D8DDF)
+> - In Boyle and Ryan (2017), the structures identified as the subglenoid process and the glenoid condyle appear to have been reversed in their description.
+> - Some automorphy of *Titianchthys* is list in **Character list of new matrix.md**。
 
 ## References
 
 Andrews, S. M. (1978). A possible occurrence of *Remigolepis* in the topmost Old Red Sandstone of Berwickshire. *Scottish Journal of Geology*, **14**(4), 311-315. 
+
 
 
 
