@@ -1843,6 +1843,11 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 >  -  This character is present in *Gymnotrachelus*, *Titanichthys*, and *Homostius*.
 <img width="1199" height="438" alt="image" src="https://github.com/user-attachments/assets/ca4c89fb-3944-47b0-b6e5-eb35c5635578" />
 
+406.   Anteroventral notch of postsuborbital plate: absent (0); present (1).
+>  -  Boyle and Ryan (2017): "There is an anteroventral notch that creates a gap between the postsuborbital and suborbital plates, which has also been noted in at least one specimen of *Gymnotrachelus*".
+>  -  This character is also present in  *Bungartius*.
+<img width="557" height="313" alt="image" src="https://github.com/user-attachments/assets/6be3532f-addf-4f73-b266-6fa61f6d3738" />
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
