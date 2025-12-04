@@ -1848,6 +1848,10 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 >  -  This character is also present in  *Bungartius*.
 <img width="557" height="313" alt="image" src="https://github.com/user-attachments/assets/6be3532f-addf-4f73-b266-6fa61f6d3738" />
 
+407.   Dermal contact between submarginal and suborbital plates: absent (0); present (1).
+>  -  In some  aspinothoracids, such as *Titanichthys*, *Gymnotrachelus*, and *Bungartius*, the submarginal and suborbital plates are separate by the postsuborbital plate.
+<img width="539" height="194" alt="image" src="https://github.com/user-attachments/assets/b3d78ab8-51fd-469a-8680-b9d283ad7a89" />
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
