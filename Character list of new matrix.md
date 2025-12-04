@@ -1856,6 +1856,13 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 >  -  This character is present in *Bungartius* and *Titanichthys*, and possibly correlated with their suspension-feeding adaptation.
 <img width="546" height="270" alt="image" src="https://github.com/user-attachments/assets/b59bdfc0-3f81-41bb-ba60-0f462c602aba" />
 
+409.   Lateral embayment of median dorsal plate: absent (0); present (1).
+>  -  This character is present in *Bungartius*, *Titanichthys*, and *Bungartius*.
+<img width="329" height="383" alt="image" src="https://github.com/user-attachments/assets/439bed9a-45b4-4a89-a477-3b6d4aa1467b" />
+
+410.   Median process of median dorsal plate: absent (0); present (1).
+<img width="326" height="387" alt="image" src="https://github.com/user-attachments/assets/2d7bc06c-5b3f-48c8-81c2-581a31773767" />
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
