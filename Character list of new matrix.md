@@ -1863,6 +1863,9 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 410.   Median process of median dorsal plate: absent (0); present (1).
 <img width="326" height="387" alt="image" src="https://github.com/user-attachments/assets/2d7bc06c-5b3f-48c8-81c2-581a31773767" />
 
+411.   Posterior lateral plate and median dorsal plate overlap: simple overlap (0); insertion (1).
+>  -  Boyle and Ryan (2017): "Unlike any other arthrodires that have a simple overlap with the median dorsal plate, CMNH 50319 has an insertion for the median dorsal plate on the posterior dorsal lateral plate."
+>  -  A synapomorph of *Titanichthys*.
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
