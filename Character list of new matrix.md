@@ -1839,6 +1839,9 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 404.   Posterior spine of median dorsal plate: absent (0); present (1).
 <img width="393" height="391" alt="image" src="https://github.com/user-attachments/assets/0e21220e-d9e4-4507-9185-31360525637c" />
 
+405.   The supraoral and infraorbital sensory grooves are parallel before diverging: absent (0); present (1).
+>  -  This character is present in *Gymnotrachelus*, *Titanichthys*, and *Homostius*.
+<img width="1199" height="438" alt="image" src="https://github.com/user-attachments/assets/ca4c89fb-3944-47b0-b6e5-eb35c5635578" />
 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
