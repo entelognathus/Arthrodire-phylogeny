@@ -1872,6 +1872,7 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 
 413.   Rostral plate lacksing contacts with the skull roof: absent (0); present (1).
 >  -  Possible a synapomorphy of *Titanichthys*.
+>  -  Boyle and Ryan (2017): "However, a lack of contact between the rostral and preorbital plates is known for other species (Rücklin, 2011; Rücklin et al., 2015) and, in general, placoderms have a weak suture between the rostral plate and the head shield (Goujet, 2001)."
 
 414.   Occlusal surface of posterior supragnathal plate: absent (0); present (1).
 >  -  Possible a synapomorphy of *Titanichthys*.
