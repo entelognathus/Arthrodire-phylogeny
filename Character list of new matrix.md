@@ -319,6 +319,8 @@ Postorbital plate forms the posterolateral margin of orbit: absent (0); present 
 
 > - This character seems redundant with Character 23 of Dupret *et al*. (2009, 2017) 'Contact between postorbital and paranuchal plates: present (0); absent (1)'. **Check codings in the matrix.**
 
+> - In taxa such as *Titanichthys*, where a fenestra is present between the postorbital and central plates, this character is coded as “not applicable.”
+
 > - **Character 102 in "early gnathostome phylogeny github".**
 
 64.  Extent of marginal plate along the lateral border of the skull roof: less than half the length from the postorbital process to the posterolateral corner of the skull roof (0); greater than half the length (1).
