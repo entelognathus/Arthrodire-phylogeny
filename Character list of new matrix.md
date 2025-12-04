@@ -1879,6 +1879,10 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 414.   Occlusal surface of posterior supragnathal plate: absent (0); present (1).
 >  -  Possible a synapomorphy of *Titanichthys*.
 
+415.   Position of skull roof fenestra: between central plates (0); between central and marginal plates (1).
+<img width="699" height="687" alt="image" src="https://github.com/user-attachments/assets/0cfe4377-7aaf-4d90-8fcd-023559075045" />
+<img width="534" height="263" alt="image" src="https://github.com/user-attachments/assets/e2183370-2891-4218-84de-da15f0e18fa4" />
+
 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
