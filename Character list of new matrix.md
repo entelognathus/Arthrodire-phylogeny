@@ -1883,6 +1883,9 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 <img width="416" height="410" alt="image" src="https://github.com/user-attachments/assets/6dd3e910-4540-41f3-88a2-5aeab1401b5f" />
 <img width="534" height="263" alt="image" src="https://github.com/user-attachments/assets/e2183370-2891-4218-84de-da15f0e18fa4" />
 
+416.   Ventral sensory groove/canal on anterior median ventral plate: absent (0); present (1).
+>  -  In *Xiantingosteus*, the ventral sensory groove terminates medially on the anterior ventrolateral plate, indicating that it does not extend to the anterior median ventral plate, as in other incioscutoids, such as *Harrytoombsia*, *Mcnamaraspis*, and *Torosteus*. This condition contrasts with that in coccosteoids, such as *Coccosteus* and *Millerosteus*, in which the groove extends from the anterior ventrolateral plate to the anterior median ventral plate.
+<img width="234" height="252" alt="5e033a96-6c96-404c-9377-d281ed752b72" src="https://github.com/user-attachments/assets/c62bea18-02e1-4325-b825-5bc4a471fdb0" />
 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
