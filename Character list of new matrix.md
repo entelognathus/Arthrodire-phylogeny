@@ -1888,6 +1888,8 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 <img width="234" height="252" alt="5e033a96-6c96-404c-9377-d281ed752b72" src="https://github.com/user-attachments/assets/c62bea18-02e1-4325-b825-5bc4a471fdb0" />
 <img width="291" height="279" alt="image" src="https://github.com/user-attachments/assets/722af5d3-a4dc-4532-8155-6bf9f2e2be37" />
 
+417.   Dorsal groove of main lateral line on the median dorsal plate: continous (0); segmental (1).
+>  -  Character shared by *Gogopiscis* and *Compagopiscis*.
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
