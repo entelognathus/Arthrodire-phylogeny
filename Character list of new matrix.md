@@ -1,4 +1,4 @@
-<img width="747" height="727" alt="image" src="https://github.com/user-attachments/assets/34237ea1-5866-4794-8518-e31511b9a55e" /><img width="768" height="737" alt="image" src="https://github.com/user-attachments/assets/0cb569cf-e3c8-431e-bbbb-72de9a937805" /># Character list of arthrodires, petalichthyids ,and ptyctodontids.
+# Character list of arthrodires, petalichthyids ,and ptyctodontids.
 
 ## Skull roof
 1.  Dermal skull roof: (0) includes large dermal plates; (1) consists of undifferentiated plates or tesserae; (2) include both large dermal plates and tesserae.
@@ -1893,7 +1893,7 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 
 418.   Overlapped area of extrascapular plate on the posterior margin of skull roof (pdl, Posterior descending lamina in Miles and Dennis, 1997): absent (0); present (1).
 >  - This character is widely present in coccosteomorph arthrodires.
-<img width="747" height="727" alt="image" src="https://github.com/user-attachments/assets/a68d2945-abfa-45f6-ad80-5a6fbe013c94" />
+<img width="234" height="234" alt="image" src="https://github.com/user-attachments/assets/a68d2945-abfa-45f6-ad80-5a6fbe013c94" />
 
 
 
