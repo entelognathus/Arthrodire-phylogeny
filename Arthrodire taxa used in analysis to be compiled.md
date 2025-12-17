@@ -675,7 +675,7 @@
 > - [Carr and Hlavin](https://academic.oup.com/zoolinnean/article/159/1/195/2608083), 2010; Stensiö, 1963.
 
 [*Panxiosteus ocullus*](https://deepbone.cn/public/#/explor?s_id=2439&functionId=Deepbone_header_searchResultOpen) Wang, 1979
-> Givetian, 387.7, 382.7
+> Upper Givetian, 384.4, 382.7
 
 > - Yidade Formation, Yunnan, China
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Wang, 1979.
@@ -1203,6 +1203,7 @@
 ## References
 
 Andrews, S. M. (1978). A possible occurrence of *Remigolepis* in the topmost Old Red Sandstone of Berwickshire. *Scottish Journal of Geology*, **14**(4), 311-315. 
+
 
 
 
