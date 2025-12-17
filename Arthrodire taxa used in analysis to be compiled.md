@@ -889,12 +889,6 @@
 > - [Rücklin, 2011](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2010.01026.x).
 
 ### To be added from Dupret et al., 2017
-[*Actinolepis spinosa*](https://deepbone.cn/public/#/explor?s_id=2465&functionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1985
-> Pragian to lower Emsian, 410.8, 400.45
-
-> - Kemeri Regional Stage; Ventspils, Latvia.
-> - [Mark-Kurik, 1985](https://www.jstor.org/stable/4523057)
-
 [*Aethaspis major*](https://deepbone.cn/public/#/explor?s_id=2492&functionId=Deepbone_header_searchResultOpen) Denison, 1958
 > Emsian, 407.6, 393.3
 
@@ -1209,6 +1203,7 @@
 ## References
 
 Andrews, S. M. (1978). A possible occurrence of *Remigolepis* in the topmost Old Red Sandstone of Berwickshire. *Scottish Journal of Geology*, **14**(4), 311-315. 
+
 
 
 
