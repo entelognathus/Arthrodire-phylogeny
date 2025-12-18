@@ -462,7 +462,7 @@
 > - The type species of *Eastmanosteus* Obruchev 1964 is *E. pustulosus* (Eastman) 1897. 
 
 [*Eastmanosteus pustulosus*](https://deepbone.org/public/#/explor?s_id=2448&functionId=Deepbone_header_searchResultOpen) Eastman, 1897
-> Givetian to Famennian, 387.8, 358.9
+> Upper Givetian, 384.37, 382.7
 
 > - Milwaukee Formation, Wisconsin; Cebar Valley limestone, Iowa and Illinois; Mineola Limestone, Missouri, USA.
 > - [Miller, 1980](https://www.nhbs.com/handbook-of-paleoichthyology-volume-2-placodermi-book)
@@ -1203,6 +1203,7 @@
 ## References
 
 Andrews, S. M. (1978). A possible occurrence of *Remigolepis* in the topmost Old Red Sandstone of Berwickshire. *Scottish Journal of Geology*, **14**(4), 311-315. 
+
 
 
 
