@@ -1895,6 +1895,9 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 >  - This character is widely present in coccosteomorph arthrodires.
 <img width="234" height="234" alt="image" src="https://github.com/user-attachments/assets/a68d2945-abfa-45f6-ad80-5a6fbe013c94" />
 
+419.   Postorbital branch of the infraorbital sensory groove ends on the postorbital plate: absent(0); present (1).
+>  -  This character is present in *Titanichthys*, and *Tafilalichthys lavocati*.
+<img width="683" height="351" alt="image" src="https://github.com/user-attachments/assets/de53b269-9f59-4472-99ac-4617d9df13dc" />
 
 
 ## References
