@@ -11,7 +11,7 @@
 [*Hagiangella goujeti*](https://deepbone.cn/public/#/explor?s_id=2132&functionId=Deepbone_header_searchResultOpen) Janvier, 2005
 > Upper Lochkovian, 415.0, 410.8
 
-> *Hagiangella goujeti* and *Xiakeaspis* are potentially nested at an intriguing position within the matrix.
+> *Hagiangella goujeti* and *Xiakeaspis* are potentially nested at an intriguing position within the matrix. South China block
 > - Khao Loc Formation; Tong Vai Valley, Dong Van district, Ha Giang Province, northern Vietnam
 > - [Dupret *et al.*, 2011](https://www.tandfonline.com/doi/full/10.1080/02724634.2011.558148)
 
@@ -19,13 +19,13 @@
 [*Brevipetalichthys gracilis*](https://deepbone.org/public/#/explor?s_id=3255andfunctionId=Deepbone_header_searchResultOpen) Ji and Pan, 1999
 > Pragian, 410.8, 407.6
 
-> - Posongchong Formation; Zhaotong City, Yunnan Province, China
+> - Posongchong Formation; Zhaotong City, Yunnan Province, China South China block
 > - [Ji and Pan, 1999]
 
 [*Diandongpetalichthys liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=3251andfunctionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > lower Lochkovian, 419.2, 415.0
 
-> - Xishancun Formation, Qujing, Yunnan, China
+> - Xishancun Formation, Qujing, Yunnan, China. South China block 
 > - [Zhu, 1991]
 
 [*Ellopetalichthys scheii*](https://deepbone.org/public/#/explor?s_id=2382&functionId=Deepbone_header_searchResultOpen) (Kiaer, 1915)
@@ -43,19 +43,19 @@
 [*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257andfunctionId=Deepbone_header_searchResultOpen) Liu, 1991
 > Givetian, 387.7, 382.7
 
-> - Xichong Formation; Zhanyi & Qujing, Yunnan, China.
+> - Xichong Formation; Zhanyi & Qujing, Yunnan, China. South China block
 > - [Liu, 1991](https://bionames.org/references/9f65a1579e030b0425866545640f7f27)
 
 [*Guangxipetalichthys bobeiensis*](https://deepbone.org/public/#/explor?s_id=3261&functionId=Deepbone_header_searchResultOpen) Ji and Pan, 1997
 > Eifelian, 393.3, 387.7
 
-> -  ‘Xindu Formation’; Bobai, Guangxi, China
+> -  ‘Xindu Formation’; Bobai, Guangxi, China. South China block
 > - [Ji and Pan, 1997](https://www.vertpala.ac.cn/EN/Y1997/V35/I01/18)
 
 [*Guangxipetalichthys tiaomajianensis*](https://deepbone.org/public/#/explor?s_id=3262&functionId=Deepbone_header_searchResultOpen) Ji and Pan, 1997
 > Eifelian, 393.3, 387.7
 
-> - Tiaomajian Formation; Changsha, Hunan, China
+> - Tiaomajian Formation; Changsha, Hunan, China. South China block
 > - [Ji and Pan, 1997](https://www.vertpala.ac.cn/EN/Y1997/V35/I01/18)
 
 [*Lunaspis broilii*](https://deepbone.org/public/#/explor?s_id=2134&functionId=Deepbone_header_searchResultOpen) Gross, 1937
@@ -74,51 +74,51 @@
 [*Neopetalichthys yenmenpaensis*](https://deepbone.org/public/#/explor?s_id=3253andfunctionId=Deepbone_header_searchResultOpen) Liu, 1973
 > Pragian, 410.8, 407.6
 
-> - Pingyipu Group; Yanmenba, Jiangyou City, Sichuan Province, China
+> - Pingyipu Group; Yanmenba, Jiangyou City, Sichuan Province, China. South China block
 > - [Liu, 1973]
 > - Previously Pingyipu Formation. Guanshanpo Formation after Hou et al. (1988)?
 
 [*Notopetalichthys hillsi*](https://deepbone.org/public/#/explor?s_id=2391&functionId=Deepbone_header_searchResultOpen) Woodward, 1941
 > Emsian, 407.6, 393.3
 
-> - Murrumbidgee Group, near Wee Jasper on the shores of Lake Burrinjuck, New South Wales, Australia.
+> - Murrumbidgee Group, near Wee Jasper on the shores of Lake Burrinjuck, New South Wales, Australia. East Gondwanan
 > - Woodward, 1941; [Young, 2004](https://www.tandfonline.com/doi/abs/10.1671/1942-1).
 
 [*Pampetalichthys longhuaensis*](https://deepbone.org/public/#/explor?s_id=3268&functionId=Deepbone_header_searchResultOpen) (Zhu and Wang, 1996)
 > Pragian, 410.8, 407.6
 
-> - Xujiachong Formation; Qujing, Yunnan, China.
+> - Xujiachong Formation; Qujing, Yunnan, China. South China block
 > - Zhu, 2000; Zhu and Wang, 1996
 > - *Holopetalichthys longhuaensis* Zhu and Wang, 1996
 
 [*Parapetalichthys minor*](https://deepbone.org/public/#/explor?s_id=3270&functionId=Deepbone_header_searchResultOpen) Wang, 1988
 > Pragian, 410.8, 407.6
 
-> - B22 beds, Guanshanpo Formation, Pingyipu Group; Ganxi, Beichuan County, Sichuan Province, China
+> - B22 beds, Guanshanpo Formation, Pingyipu Group; Ganxi, Beichuan County, Sichuan Province, China. South China block
 > - [Wang, 1988 in Hou et al. 1988]
 
 [*Pauropetalichthys magnoculus*](https://deepbone.org/public/#/explor?s_id=3259&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 2015
 > upper Emsian, 400.45, 393.3
 
-> - Chuandong Formation; Qujing, Yunnan, China.
+> - Chuandong Formation; Qujing, Yunnan, China. South China block
 > - [Pan *et al*., 2015](https://www.sciencedirect.com/science/article/pii/S1631068314001924)
 
 [*Quasipetalichthys haikouensis*](https://deepbone.org/public/#/explor?s_id=2392&functionId=Deepbone_header_searchResultOpen) Liu, 1973
 > Givetian, 387.7, 382.7
 
-> - Haikou Formation.; Kunming, Yunnan, China.
+> - Haikou Formation.; Kunming, Yunnan, China. South China block
 > - Liu, 1991
 
 [*Shearsbyaspis oepiki*](https://deepbone.org/public/#/explor?s_id=78336&functionId=Deepbone_header_searchResultOpen) Young, 1985
 > Emsian, 407.6, 393.3
 
-> - Taemas Formation, Taemas-Wee Jasper area, New South Wale, Australia.
+> - Taemas Formation, Taemas-Wee Jasper area, New South Wale, Australia. East Gondwanan
 > - Young, 1985; [Castiello, 2018](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12345).
 
 [*Sinopetalichthys kueiyangensis*](https://deepbone.org/public/#/explor?s_id=3264&functionId=Deepbone_header_searchResultOpen) P'an et al., 1975
 > lower Emsian, 407.6, 400.45
 
-> - Wudang Formation; Guiyang, Guizhou, China.
+> - Wudang Formation; Guiyang, Guizhou, China. South China block
 > - [Zhao and Zhu, 2010](https://www.sciencedirect.com/science/article/abs/pii/S1871174X09000663)
 
 [*Tongdzuylepis vietnamensis*](https://deepbone.org/public/#/explor?s_id=8352&functionId=Deepbone_header_searchResultOpen) Janvier and Phuong, 1999
@@ -130,14 +130,14 @@
 [*Wijdeaspis warrooensis*](https://deepbone.org/public/#/explor?s_id=165882&functionId=Deepbone_header_searchResultOpen) Young, 1978
 > Emsian, 407.6, 393.3
 
-> - Taemas Formation, Taemas-Wee Jasper region, New South Wales; Buchan Group, Buchan, Victoria, Australia.
+> - Taemas Formation, Taemas-Wee Jasper region, New South Wales; Buchan Group, Buchan, Victoria, Australia. East Gondwanan
 > - Young, 1978; Barker and Bone, 1995; Basden, 1999; Obruchev, 1964; Heintz, 1929; Long, 1984.
 > - The type species is *W. arctica* (Heintz) 1929 from the Eifelian Grey Hoek Formation.  
 
 [*Xinanpetalichthys shendaowanensis*](https://deepbone.org/public/#/explor?s_id=3266andfunctionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > Pragian, 410.8, 407.6
 
-> - Pingyipu Group; Yanmenba, Jiangyou City, Sichuan Province, China
+> - Pingyipu Group; Yanmenba, Jiangyou City, Sichuan Province, China.  South China block
 > - [P'an and Wang, 1978]
 > - Previously Pingyipu Formation. Guanshanpo Formation after Hou et al. (1988)?
 
@@ -1203,6 +1203,7 @@
 ## References
 
 Andrews, S. M. (1978). A possible occurrence of *Remigolepis* in the topmost Old Red Sandstone of Berwickshire. *Scottish Journal of Geology*, **14**(4), 311-315. 
+
 
 
 
