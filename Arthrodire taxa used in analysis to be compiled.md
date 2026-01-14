@@ -10,56 +10,65 @@
 ## Hagiangellidae
 [*Hagiangella goujeti*](https://deepbone.cn/public/#/explor?s_id=2132&functionId=Deepbone_header_searchResultOpen) Janvier, 2005
 > Upper Lochkovian, 415.0, 410.8
+> South China 
 
-> *Hagiangella goujeti* and *Xiakeaspis* are potentially nested at an intriguing position within the matrix. South China block
+> *Hagiangella goujeti* and *Xiakeaspis* are potentially nested at an intriguing position within the matrix. 
 > - Khao Loc Formation; Tong Vai Valley, Dong Van district, Ha Giang Province, northern Vietnam
 > - [Dupret *et al.*, 2011](https://www.tandfonline.com/doi/full/10.1080/02724634.2011.558148)
 
 ## Petalichthyid taxa
 [*Brevipetalichthys gracilis*](https://deepbone.org/public/#/explor?s_id=3255andfunctionId=Deepbone_header_searchResultOpen) Ji and Pan, 1999
 > Pragian, 410.8, 407.6
+> South China 
 
-> - Posongchong Formation; Zhaotong City, Yunnan Province, China South China block
+> - Posongchong Formation; Zhaotong City, Yunnan Province, China.
 > - [Ji and Pan, 1999]
 
 [*Diandongpetalichthys liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=3251andfunctionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > lower Lochkovian, 419.2, 415.0
+> South China 
 
-> - Xishancun Formation, Qujing, Yunnan, China. South China block 
+> - Xishancun Formation, Qujing, Yunnan, China. 
 > - [Zhu, 1991]
 
 [*Ellopetalichthys scheii*](https://deepbone.org/public/#/explor?s_id=2382&functionId=Deepbone_header_searchResultOpen) (Kiaer, 1915)
 > upper Givetian, 384.4, 382.7
+> Laurussia
 
 > - Bird Fiord Formation, southwestern Ellesmereland, Arctic Canada.
 > - [Ørvig, 1957](https://foreninger.uio.no/ngf/ngt/pdfs/NGT_37_3&4_285-354.pdf); [Castiello, 2021](https://pubs.geoscienceworld.org/cjes/article-abstract/58/1/93/594043/Endocranial-morphology-of-the-petalichthyid)
 
 [*Epipetalichthys wildungensis*](https://deepbone.org/public/#/explor?s_id=2384&functionId=Deepbone_header_searchResultOpen) Stensiö, 1925
 > upper Frasnian, 375.7, 372.2
+> Laurussia
 
 > -  Kellwasserkalk of *Manticoceras* beds, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - [Ørvig, 1957](https://foreninger.uio.no/ngf/ngt/pdfs/NGT_37_3&4_285-354.pdf); [Sallan and Coates, 2010](https://www.pnas.org/doi/abs/10.1073/pnas.0914000107)
 
 [*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257andfunctionId=Deepbone_header_searchResultOpen) Liu, 1991
 > Givetian, 387.7, 382.7
+> South China
 
-> - Xichong Formation; Zhanyi & Qujing, Yunnan, China. South China block
+> - Xichong Formation; Zhanyi & Qujing, Yunnan, China. 
 > - [Liu, 1991](https://bionames.org/references/9f65a1579e030b0425866545640f7f27)
 
 [*Guangxipetalichthys bobeiensis*](https://deepbone.org/public/#/explor?s_id=3261&functionId=Deepbone_header_searchResultOpen) Ji and Pan, 1997
 > Eifelian, 393.3, 387.7
+> South China
 
-> -  ‘Xindu Formation’; Bobai, Guangxi, China. South China block
+> -  ‘Xindu Formation’; Bobai, Guangxi, China.
 > - [Ji and Pan, 1997](https://www.vertpala.ac.cn/EN/Y1997/V35/I01/18)
 
 [*Guangxipetalichthys tiaomajianensis*](https://deepbone.org/public/#/explor?s_id=3262&functionId=Deepbone_header_searchResultOpen) Ji and Pan, 1997
 > Eifelian, 393.3, 387.7
+> South China
 
-> - Tiaomajian Formation; Changsha, Hunan, China. South China block
+> - Tiaomajian Formation; Changsha, Hunan, China. 
 > - [Ji and Pan, 1997](https://www.vertpala.ac.cn/EN/Y1997/V35/I01/18)
 
 [*Lunaspis broilii*](https://deepbone.org/public/#/explor?s_id=2134&functionId=Deepbone_header_searchResultOpen) Gross, 1937
 > upper Pragian to lower Emsian, 409.2, 400.45
+> Laurussia
 
 > - Hunsrückschiefer (Hunsrück Slate); Rheinland, Germany.
 > - [Gross, 1961]
@@ -67,77 +76,89 @@
 
 [*Macropetalichthys rapheidolabis*](https://deepbone.org/public/#/explor?s_id=2387&functionId=Deepbone_header_searchResultOpen) Norwood and Owen, 1846
 > Eifelian, 393.3, 387.7
+> Laurussia
 
 > - Onondaga limestone, Genesee County, New York, U. S. A; Columbus and Delaware limestone, Ohio, U. S. A; Jeffersonville formation, Indiana, U. S. A; Ontaria, Canada.
 > - Stensiö, 1925; 1963; 1969
 
 [*Neopetalichthys yenmenpaensis*](https://deepbone.org/public/#/explor?s_id=3253andfunctionId=Deepbone_header_searchResultOpen) Liu, 1973
 > Pragian, 410.8, 407.6
+> South China 
 
-> - Pingyipu Group; Yanmenba, Jiangyou City, Sichuan Province, China. South China block
+> - Pingyipu Group; Yanmenba, Jiangyou City, Sichuan Province, China. 
 > - [Liu, 1973]
 > - Previously Pingyipu Formation. Guanshanpo Formation after Hou et al. (1988)?
 
 [*Notopetalichthys hillsi*](https://deepbone.org/public/#/explor?s_id=2391&functionId=Deepbone_header_searchResultOpen) Woodward, 1941
 > Emsian, 407.6, 393.3
+> Gondwanan
 
-> - Murrumbidgee Group, near Wee Jasper on the shores of Lake Burrinjuck, New South Wales, Australia. East Gondwanan
+> - Murrumbidgee Group, near Wee Jasper on the shores of Lake Burrinjuck, New South Wales, Australia. 
 > - Woodward, 1941; [Young, 2004](https://www.tandfonline.com/doi/abs/10.1671/1942-1).
 
 [*Pampetalichthys longhuaensis*](https://deepbone.org/public/#/explor?s_id=3268&functionId=Deepbone_header_searchResultOpen) (Zhu and Wang, 1996)
 > Pragian, 410.8, 407.6
+> South China
 
-> - Xujiachong Formation; Qujing, Yunnan, China. South China block
+> - Xujiachong Formation; Qujing, Yunnan, China. 
 > - Zhu, 2000; Zhu and Wang, 1996
 > - *Holopetalichthys longhuaensis* Zhu and Wang, 1996
 
 [*Parapetalichthys minor*](https://deepbone.org/public/#/explor?s_id=3270&functionId=Deepbone_header_searchResultOpen) Wang, 1988
 > Pragian, 410.8, 407.6
+> South China
 
-> - B22 beds, Guanshanpo Formation, Pingyipu Group; Ganxi, Beichuan County, Sichuan Province, China. South China block
+> - B22 beds, Guanshanpo Formation, Pingyipu Group; Ganxi, Beichuan County, Sichuan Province, China.
 > - [Wang, 1988 in Hou et al. 1988]
 
 [*Pauropetalichthys magnoculus*](https://deepbone.org/public/#/explor?s_id=3259&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 2015
 > upper Emsian, 400.45, 393.3
+> South China block
 
-> - Chuandong Formation; Qujing, Yunnan, China. South China block
+> - Chuandong Formation; Qujing, Yunnan, China. 
 > - [Pan *et al*., 2015](https://www.sciencedirect.com/science/article/pii/S1631068314001924)
 
 [*Quasipetalichthys haikouensis*](https://deepbone.org/public/#/explor?s_id=2392&functionId=Deepbone_header_searchResultOpen) Liu, 1973
 > Givetian, 387.7, 382.7
+> South China block
 
-> - Haikou Formation.; Kunming, Yunnan, China. South China block
+> - Haikou Formation.; Kunming, Yunnan, China. 
 > - Liu, 1991
 
 [*Shearsbyaspis oepiki*](https://deepbone.org/public/#/explor?s_id=78336&functionId=Deepbone_header_searchResultOpen) Young, 1985
 > Emsian, 407.6, 393.3
+> East Gondwanan
 
-> - Taemas Formation, Taemas-Wee Jasper area, New South Wale, Australia. East Gondwanan
+> - Taemas Formation, Taemas-Wee Jasper area, New South Wale, Australia. 
 > - Young, 1985; [Castiello, 2018](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12345).
 
 [*Sinopetalichthys kueiyangensis*](https://deepbone.org/public/#/explor?s_id=3264&functionId=Deepbone_header_searchResultOpen) P'an et al., 1975
 > lower Emsian, 407.6, 400.45
+> South China block
 
-> - Wudang Formation; Guiyang, Guizhou, China. South China block
+> - Wudang Formation; Guiyang, Guizhou, China. 
 > - [Zhao and Zhu, 2010](https://www.sciencedirect.com/science/article/abs/pii/S1871174X09000663)
 
 [*Tongdzuylepis vietnamensis*](https://deepbone.org/public/#/explor?s_id=8352&functionId=Deepbone_header_searchResultOpen) Janvier and Phuong, 1999
 > upper Lochkovian, 415.0, 410.8
+> South China bloc
 
 > - [horizon and locality]
 > - [Janvier and Phuong, 1999]
 
 [*Wijdeaspis warrooensis*](https://deepbone.org/public/#/explor?s_id=165882&functionId=Deepbone_header_searchResultOpen) Young, 1978
 > Emsian, 407.6, 393.3
+> East Gondwanan
 
-> - Taemas Formation, Taemas-Wee Jasper region, New South Wales; Buchan Group, Buchan, Victoria, Australia. East Gondwanan
+> - Taemas Formation, Taemas-Wee Jasper region, New South Wales; Buchan Group, Buchan, Victoria, Australia. 
 > - Young, 1978; Barker and Bone, 1995; Basden, 1999; Obruchev, 1964; Heintz, 1929; Long, 1984.
 > - The type species is *W. arctica* (Heintz) 1929 from the Eifelian Grey Hoek Formation.  
 
 [*Xinanpetalichthys shendaowanensis*](https://deepbone.org/public/#/explor?s_id=3266andfunctionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > Pragian, 410.8, 407.6
+> South China block
 
-> - Pingyipu Group; Yanmenba, Jiangyou City, Sichuan Province, China.  South China block
+> - Pingyipu Group; Yanmenba, Jiangyou City, Sichuan Province, China.  
 > - [P'an and Wang, 1978]
 > - Previously Pingyipu Formation. Guanshanpo Formation after Hou et al. (1988)?
 
@@ -160,6 +181,7 @@
 
 [*Campbellodus decipiens*](https://deepbone.org/public/#/explor?s_id=2179&functionId=Deepbone_header_searchResultOpen) Miles and Young, 1977
 > lower Frasnian, 382.7, 379.2
+> East Gondwanan
 
 > - Gogo Formation; Western Australia, Australia.  -17.75, 125.17
 > - [Miles and Young, 1977](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7720384310); [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf)
@@ -172,6 +194,7 @@
 
 [*Materpiscis attenboroughi*](https://deepbone.org/public/#/explor?s_id=2203&functionId=Deepbone_header_searchResultOpen) Long, et al., 2008
 > lower Frasnian, 382.7, 379.2
+> East Gondwanan
 
 > - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
 > - [Long et al., 2008](https://www.nature.com/articles/nature06966); [Trinajstic et al., 2012](https://www.tandfonline.com/doi/abs/10.1080/02724634.2012.661379)
@@ -196,6 +219,7 @@
 
 [*Austroptyctodus gardineri*](https://deepbone.org/public/#/explor?s_id=4246&functionId=Deepbone_header_searchResultOpen) Miles and Young, 1977
 > lower Frasnian, 382.7, 379.2
+> East Gondwanan
 
 > - Gogo Formation; Western Australia, Australia.  -17.75, 125.17
 > - [Miles and Young, 1977](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7720384310); [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf)
@@ -211,6 +235,7 @@
 
 [*Kimbryanodus williamburyensis*](https://deepbone.cn/public/#/explor?s_id=172205&functionId=Deepbone_header_searchResultOpen) Trinajstic and Long, 2009
 > Frasnian, transitans to punctata conodont Zones
+> East Gondwanan
 
 > - type section of the Gneudna Formation (23°58 10 S, 115°12 30 E), Williambury Station, Carnarvon Basin, NW Western Australia
 > - [Trinajstic and Long, 2009](https://www.cambridge.org/core/journals/geological-magazine/article/abs/new-genus-and-species-of-ptyctodont-placodermi-from-the-late-devonian-gneudna-formation-western-australia-and-an-analysis-of-ptyctodont-phylogeny/F935B5502B3F8D5F2D919D5320DB0899)
@@ -266,6 +291,7 @@
 
 [*Brindabellaspis stensioi*](https://deepbone.org/public/#/explor?s_id=3060&functionId=Deepbone_header_searchResultOpen) Young, 1980
 > Emsian, 407.6, 393.3
+> East Gondwanan
 
 > - New South Wales, Australia
 > - [Young, 1980](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8020321285); [King *et al*., 2018](https://royalsocietypublishing.org/doi/full/10.1098/rsos.180094); [Zhu Y. et al., 2021](https://www.cell.com/current-biology/pdf/S0960-9822(20)31898-4.pdf)
@@ -322,6 +348,7 @@
 
 [*Antarctaspis mcmurdoensis*](https://deepbone.cn/public/#/explor?s_id=2169&functionId=Deepbone_header_searchResultOpen) White, 1968
 > Givetian, 387.7, 382.7
+> East Gondwanan
 
 > - Aztec Siltstone, southern Victoria Land, Antarctica.
 > - [White, 1968].
@@ -340,6 +367,7 @@
 
 [*Arenipiscis westolli*](https://deepbone.cn/public/#/explor?s_id=164607&functionId=Deepbone_header_searchResultOpen) Young, 1981
 > Emsian, 407.6, 393.3 
+> East Gondwanan
 
 > - Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales, Australia.
 > - [Young,1981](https://www.tandfonline.com/doi/abs/10.1080/03115518108566994).
@@ -347,6 +375,7 @@
 
 [*Austrophyllolepis ritchiei* ](https://deepbone.cn/public/#/explor?s_id=2160&functionId=Deepbone_header_searchResultOpen)
 > upper Givetian, 384.37, 382.7
+> East Gondwanan
 
 > - Avon River Group, Victoria, Australia. MAV8
 > - [Long,1984](https://www.researchgate.net/publication/257938652_New_phyllolepids_from_Victoria_and_the_relationships_of_the_Group);.
@@ -372,6 +401,7 @@
 
  [*Bruntonichthys multidens*](https://deepbone.cn/public/#/explor?s_id=2221&functionId=Deepbone_header_searchResultOpen) Dennis & Miles, 1980
 > lower Frasnian, 382.7, 379.2
+> East Gondwanan
 
 > - Gogo Formation, Canning Basin, Australia. -17.75, 125.17
 > - [Dennis & Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
@@ -384,18 +414,21 @@
 
 [*Buchanosteus confertituberculatus*](https://deepbone.org/public/#/explor?s_id=2426andfunctionId=Deepbone_header_searchResultOpen) (Chapman, 1916)
 > Emsian, 407.6, 393.3
+> East Gondwanan
 
 > - Murrumbidgee Group,Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales; Buchan, Victoria, Australia. 
 > - [Burrow and Turner, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011097); [Long et al., 2014](https://www.publish.csiro.au/zo/zo13081)
 
 [*Bullerichthys fascidens*](https://deepbone.org/public/#/explor?s_id=2223andfunctionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1980
 > lower Frasnian, 382.7, 379.2
+> East Gondwanan
 
 > - Gogo Formation, Canning Basin, Australia. -17.75, 125.17
 > - [Dennis and Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
 
 [*Camuropiscis laidlawi*](https://deepbone.org/public/#/explor?s_id=2210andfunctionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1979
 > lower Frasnian, 382.7, 379.2
+> East Gondwanan
 
 > - Gogo Formation, Canning Basin, Australia. -17.75, 125.17
 > - [Dennis and Miles, 1979](https://academic.oup.com/zoolinnean/article-abstract/67/1/1/2664252); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
@@ -408,6 +441,7 @@
 
 [*Compagopiscis croucheri*](https://deepbone.cn/public/#/explor?s_id=2199&functionId=Deepbone_header_searchResultOpen) Gardiner and Miles, 1994 
 > lower Frasnian, 382.7, 379.2
+> East Gondwanan
 
 > - Gogo Formation, Canning Basin, Australia. -17.75, 125.17
 > - [Gardiner and Miles, 1994](https://academic.oup.com/zoolinnean/article-abstract/112/4/443/2646294); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
@@ -1203,6 +1237,7 @@
 ## References
 
 Andrews, S. M. (1978). A possible occurrence of *Remigolepis* in the topmost Old Red Sandstone of Berwickshire. *Scottish Journal of Geology*, **14**(4), 311-315. 
+
 
 
 
