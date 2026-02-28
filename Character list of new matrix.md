@@ -1899,6 +1899,8 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 >  -  This character is present in *Titanichthys*, and *Tafilalichthys lavocati*.
 <img width="683" height="351" alt="image" src="https://github.com/user-attachments/assets/de53b269-9f59-4472-99ac-4617d9df13dc" />
 
+420.   Linguiform process of the suborbital plate: absent (0); present (1).
+>  -  The absence of a linguiform process is  observed in *Rhinosteus*, *Microsteus augusticeps* (Stensiö, 1963, figs. 100e, 101b), and *Melanosteus*.
 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
