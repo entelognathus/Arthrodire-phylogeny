@@ -1902,6 +1902,11 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 420.   Linguiform process of the suborbital plate: absent (0); present (1).
 >  -  The absence of a linguiform process is  observed in *Rhinosteus*, *Microsteus augusticeps* (Stensiö, 1963, figs. 100e, 101b), and *Melanosteus*.
 
+421.  Dorsal process of posterior superognathal: absent (0); present (1).
+>  -  Lelièvre *et al.* (1987): A monophyletic group includes Pachyosteus, Rhinosteus, and Melanosteus. The synapomorphy retained is the loss of the dorsal process of the posterior superognathal plate (Character 10, Fig. 6).
+
+
+   
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
