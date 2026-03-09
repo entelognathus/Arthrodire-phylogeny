@@ -1908,7 +1908,11 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 422.  Lateral process of rostral plate: absent (0); present (1).
 >  - Stensiö (1963): In Brachyosteus the rostral plate (R) usually possesses a small lateral process (pr.pr.l, figs. 90A, 104C, D, 123C, D;pl. 37, fig. 3; pl. 39, figs. 3, 4) which participates in the anterior boundary of both the incurrent fenestra exonarhina and the incurrent nostril.
  <img width="738" height="494" alt="image" src="https://github.com/user-attachments/assets/382cc666-7708-4fd5-a2cf-905b19c5947c" />
-  
+
+423.  Supraobital vault of postnasal plate (postnasalo-rostral plate in *Holonema*): absent (0); present (1).
+<img width="593" height="476" alt="image" src="https://github.com/user-attachments/assets/9e0643e0-eff1-403c-ad06-acee5d0a33b7" />
+
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
