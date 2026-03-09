@@ -1915,6 +1915,10 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 424.  Median postnasal plate：absent (0); present (1).
 >  - Synapomorphy of *Holonema*. In *Holonema*, partial fusion occurs among rostral, postnasal, and pineal plates. In *Holoenma westolli*, the postnasal plates are fused to form a median postnasal plate. In some specimens, this median postnasal plate is further fused with rostral plate, whereas in one specimen, the rostral plate is fused with pineal plate.
 
+425. Posterior pit line comprises two section on the paranuchal plate: absent (0); present (1).
+>  - This character is widely present in holonematid, including Wuding *Holonema*.
+
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
