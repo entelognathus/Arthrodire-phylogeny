@@ -1918,6 +1918,8 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 425. Posterior pit line comprises two section on the paranuchal plate: absent (0); present (1).
 >  - This character is widely present in holonematid, including Wuding *Holonema*.
 
+426.  Infrapostsuborbital plate: absent (0); present (1).
+>  - The infrapostsuborbital plate is present in *Holonema westolli*. Miles (1971) regarded this plate as homologous to the infraprelateral plate of the antiarch *Bothrolepis*.
 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
