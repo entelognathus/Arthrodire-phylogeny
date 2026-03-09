@@ -1912,6 +1912,8 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 423.  Supraobital vault of postnasal plate (postnasalo-rostral plate in *Holonema*): absent (0); present (1).
 <img width="593" height="476" alt="image" src="https://github.com/user-attachments/assets/9e0643e0-eff1-403c-ad06-acee5d0a33b7" />
 
+424.  Median postnasal plate：absent (0); present (1).
+>  - Synapomorphy of *Holonema*.
 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
