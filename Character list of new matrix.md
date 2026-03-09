@@ -1707,7 +1707,7 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 >  - In *Tubonasus*, *Camuropiscis*, *Rolfosteus*, and *Fallacosteus*, the postsuborbital plate sutures with the marginal plate and separates the suborbital from the submarginal plate.
 
 349.  Pre-endolymphatic thickening: absent (0); present (1).
->  - Pre-endolymphatic thickening is present in brachthoracids, such as in *Harrytoombsia*.
+>  - Pre-endolymphatic thickening is present in brachthoracids, such as in *Harrytoombsia*. Stensio (1963b) considered that the pre-endolymphatic thickening is only present in brachythoracids.
 
 350.  Postbranchial embayment formed by Anterior lateral plate: absent (0); present (1).
 >  - This character is widely present in coccosteomorph arthrodires. In basally branching arthrodires, this character is missing.
