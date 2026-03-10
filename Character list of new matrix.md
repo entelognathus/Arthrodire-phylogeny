@@ -1921,6 +1921,9 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 426.  Infrapostsuborbital plate: absent (0); present (1).
 >  - The infrapostsuborbital plate is present in *Holonema westolli*. Miles (1971) regarded this plate as homologous to the infraprelateral plate of the antiarch *Bothrolepis*.
 
+427. Groove for postbranchial lamina of anterior lateral plate: absent (0); present (1).
+>  - This character is widely present in phylctaeniids.
+ 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
