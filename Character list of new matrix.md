@@ -1928,7 +1928,10 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 428.  Dermal contact between posterior dorsolateral and anterior lateral plates: present (0), absent (1).
 >  - This character is widely present in basally branch arthrodires and petalichthys, but absent in brachythoracids.
 
-** Hindmost spino-occipital nerves pierce the occipital region: ventrally(0); dorsally (1).
+** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
+>  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
+
+** Vagus canal pierced near the posteior end of the endocranium: basent (0); present (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
 ## References
