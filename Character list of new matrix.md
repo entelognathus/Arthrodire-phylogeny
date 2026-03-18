@@ -1934,6 +1934,7 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 ** Vagus canal pierced near the posteior end of the endocranium: basent (0); present (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*. The similar postion of vagus is also present in rhenanids.
 
+** The numbers of spino-occipital nerves are various in different placoderm clades. Basally branching arthrodires, such as *Kujdanowiaspis*, possess three  spino-occipital nerves. Pachyosteomorph arthrodires, only known in leiosteids, have six to nine spino-occipital nerves. In rhenanids, there existed four or five spino-occipital nerves (Stensio, 1963). 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
