@@ -1932,7 +1932,7 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
 ** Vagus canal pierced near the posteior end of the endocranium: basent (0); present (1).
->  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
+>  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*. The similar postion of vagus is also present in rhenanids.
 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
