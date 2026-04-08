@@ -1932,6 +1932,11 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 <img width="1009" height="521" alt="image" src="https://github.com/user-attachments/assets/1f3fe4d9-d06c-4dd2-882d-1250fecfd08c" />
 <img width="625" height="454" alt="image" src="https://github.com/user-attachments/assets/85738fb6-9a89-4557-8308-14d8a87d86b3" />
 
+430.  Postmarginal plate forms part of orbit border: absent (0); present (1).
+>  - Synapomorhpy of *Walterosteus*
+<img width="741" height="770" alt="image" src="https://github.com/user-attachments/assets/dcc48b50-4e1f-4adb-bc5d-3bb083f97867" />
+
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
