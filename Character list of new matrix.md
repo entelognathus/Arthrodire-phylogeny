@@ -1932,12 +1932,12 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 <img width="1009" height="521" alt="image" src="https://github.com/user-attachments/assets/1f3fe4d9-d06c-4dd2-882d-1250fecfd08c" />
 <img width="625" height="454" alt="image" src="https://github.com/user-attachments/assets/85738fb6-9a89-4557-8308-14d8a87d86b3" />
 
-430.  Postmarginal plate forms part of orbit border: absent (0); present (1).
+430.  Submarginal plate forms part of orbit border: absent (0); present (1).
 >  - Synapomorhpy of *Walterosteus*
 <img width="741" height="770" alt="image" src="https://github.com/user-attachments/assets/dcc48b50-4e1f-4adb-bc5d-3bb083f97867" />
 
 431.  Submarginal plate contacts with paranuchal plate: absent (1); present (1). 
->  - Synapomorhpy of *Walterosteus*
+>  - Synapomorhpy of *Walterosteus* In *Walterosteus*, the postmarginal plate is absnet. The submarginal plate is braod and occupies the position typically held by the marginal plate in other arthrodires. Rücklin (2011) proposed two possible explanations for this condition: either the postmarginal plate is unossified, or it is fused with the submarginal plate. However, neither hypothesis can be tested with the currently available material. Here, we use the contact between the submarginal and paranuchal plates as a proxy to represent this condition.
 
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
