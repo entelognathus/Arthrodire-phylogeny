@@ -1928,6 +1928,10 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 428.  Dermal contact between posterior dorsolateral and anterior lateral plates: present (0), absent (1).
 >  - This character is widely present in basally branch arthrodires and petalichthys, but absent in brachythoracids.
 
+429.  Ventral sensory grooves on anterior ventrolateral and anterior median ventral plates: connected (0); not connect (1).
+<img width="1009" height="521" alt="image" src="https://github.com/user-attachments/assets/1f3fe4d9-d06c-4dd2-882d-1250fecfd08c" />
+<img width="625" height="454" alt="image" src="https://github.com/user-attachments/assets/85738fb6-9a89-4557-8308-14d8a87d86b3" />
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
