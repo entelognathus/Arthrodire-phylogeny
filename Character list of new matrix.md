@@ -1936,6 +1936,8 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 >  - Synapomorhpy of *Walterosteus*
 <img width="741" height="770" alt="image" src="https://github.com/user-attachments/assets/dcc48b50-4e1f-4adb-bc5d-3bb083f97867" />
 
+431.  Submarginal plate contacts with paranuchal plate: absent (1); present (1). 
+>  - Synapomorhpy of *Walterosteus*
 
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
