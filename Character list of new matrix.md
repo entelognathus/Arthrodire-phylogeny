@@ -1943,6 +1943,11 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 > - Lack contact between postmarginal and main lateral sensory groove of canal is present *Enseosteus jaekeli*, *Enseosteus marocanensis*, and *Walterosteus grossi*.
 <img width="963" height="530" alt="image" src="https://github.com/user-attachments/assets/27c5efce-c070-4975-95af-faaa371537c7" />
 
+433. Anterior median process of rostral plate: absent (0); present (1).
+> -  Anterior median process is widely present in selenosteids and *Titanichthys*.
+<img width="582" height="657" alt="image" src="https://github.com/user-attachments/assets/437ae448-e28f-46ab-a97f-f3dd314ae474" />
+
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
