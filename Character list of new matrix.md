@@ -1939,6 +1939,10 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 431.  Submarginal plate contacts with paranuchal plate: absent (1); present (1). 
 >  - Synapomorhpy of *Walterosteus* In *Walterosteus*, the postmarginal plate is absnet. The submarginal plate is braod and occupies the position typically held by the marginal plate in other arthrodires. Rücklin (2011) proposed two possible explanations for this condition: either the postmarginal plate is unossified, or it is fused with the submarginal plate. However, neither hypothesis can be tested with the currently available material. Here, we use the contact between the submarginal and paranuchal plates as a proxy to represent this condition.
 
+432. Contact between postmarginal and main lateral sensory groove or canal: present (0); absent (1).
+> - Lack contact between postmarginal and main lateral sensory groove of canal is present *Enseosteus jaekeli*, *Enseosteus marocanensis*, and *Walterosteus grossi*.
+<img width="963" height="530" alt="image" src="https://github.com/user-attachments/assets/27c5efce-c070-4975-95af-faaa371537c7" />
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
