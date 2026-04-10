@@ -1934,6 +1934,8 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 
 430.  Submarginal plate forms part of orbit border: absent (0); present (1).
 >  - Synapomorhpy of *Walterosteus*
+>  - The submarginal plate forms a short part of the ventral margin of the orbit, a character shared by *Walterosteus*, *Draconichthys*, *Rhinosteus*, *Microsteus*, *Pachyosteus*, and *Stenosteus*.
+<img width="1769" height="66" alt="image" src="https://github.com/user-attachments/assets/5f884848-e0e7-4e1e-8d09-2fbca37c00a8" />
 <img width="741" height="770" alt="image" src="https://github.com/user-attachments/assets/dcc48b50-4e1f-4adb-bc5d-3bb083f97867" />
 
 431.  Submarginal plate contacts with paranuchal plate: absent (1); present (1). 
