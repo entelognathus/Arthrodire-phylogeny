@@ -1100,6 +1100,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 227.  Posterior supragnathal plate with a dorsal proces: absent (0); large (1); small (2).
 > Dennis and Miles (1979a), Character 22; Carr (1991), Character 70; Carr and Hlavin (2010), Character 70; Rücklin *et al*. (2015), Character 70; Zhu Y *et al*. (2016), Character 70; Jobbins *et al*. (2022, 2024), Character 70;  Xue *et al*. (2025), Character 134.
 
+>  -  Lelièvre *et al.* (1987): A monophyletic group includes Pachyosteus, Rhinosteus, and Melanosteus. The synapomorphy retained is the loss of the dorsal process of the posterior superognathal plate (Character 10, Fig. 6).
+
 228.  Upper tooth plates have an anterior dorsal process (state 2 is here defined as when the dorsal process is more than twice the height of the median height of the tooth plate): (0) absent; (1) present short and thick; (2) present high.
 > Modified from character 13 of Johnson and Elliott (1996); Trinajstic et al. (2019), character 10.
 
@@ -1902,54 +1904,51 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 420.   Linguiform process of the suborbital plate: absent (0); present (1).
 >  -  The absence of a linguiform process is  observed in *Rhinosteus*, *Microsteus augusticeps* (Stensiö, 1963, figs. 100e, 101b), and *Melanosteus*.
 
-421.  Dorsal process of posterior superognathal: absent (0); present (1).
->  -  Lelièvre *et al.* (1987): A monophyletic group includes Pachyosteus, Rhinosteus, and Melanosteus. The synapomorphy retained is the loss of the dorsal process of the posterior superognathal plate (Character 10, Fig. 6).
-
-422.  Lateral process of rostral plate: absent (0); present (1).
+421.  Lateral process of rostral plate: absent (0); present (1).
 >  - Stensiö (1963): In Brachyosteus the rostral plate (R) usually possesses a small lateral process (pr.pr.l, figs. 90A, 104C, D, 123C, D;pl. 37, fig. 3; pl. 39, figs. 3, 4) which participates in the anterior boundary of both the incurrent fenestra exonarhina and the incurrent nostril.
  <img width="738" height="494" alt="image" src="https://github.com/user-attachments/assets/382cc666-7708-4fd5-a2cf-905b19c5947c" />
 
-423.  Supraobital vault of postnasal plate (postnasalo-rostral plate in *Holonema*): absent (0); present (1).
+422.  Supraobital vault of postnasal plate (postnasalo-rostral plate in *Holonema*): absent (0); present (1).
 <img width="593" height="476" alt="image" src="https://github.com/user-attachments/assets/9e0643e0-eff1-403c-ad06-acee5d0a33b7" />
 
-424.  Median postnasal plate：absent (0); present (1).
+423.  Median postnasal plate：absent (0); present (1).
 >  - Synapomorphy of *Holonema*. In *Holonema*, partial fusion occurs among rostral, postnasal, and pineal plates. In *Holoenma westolli*, the postnasal plates are fused to form a median postnasal plate. In some specimens, this median postnasal plate is further fused with rostral plate, whereas in one specimen, the rostral plate is fused with pineal plate.
 
-425. Posterior pit line comprises two section on the paranuchal plate: absent (0); present (1).
+424. Posterior pit line comprises two section on the paranuchal plate: absent (0); present (1).
 >  - This character is widely present in holonematid, including Wuding *Holonema*.
 
-426.  Infrapostsuborbital plate: absent (0); present (1).
+425.  Infrapostsuborbital plate: absent (0); present (1).
 >  - The infrapostsuborbital plate is present in *Holonema westolli*. Miles (1971) regarded this plate as homologous to the infraprelateral plate of the antiarch *Bothrolepis*.
 
-427. Groove for postbranchial lamina of anterior lateral plate: absent (0); present (1).
+426. Groove for postbranchial lamina of anterior lateral plate: absent (0); present (1).
 >  - This character is widely present in phylctaeniids.
 <img width="446" height="326" alt="image" src="https://github.com/user-attachments/assets/1d989ffd-d5e1-45a8-a791-60b72fc8a1f3" />
 
-428.  Dermal contact between posterior dorsolateral and anterior lateral plates: present (0), absent (1).
+427.  Dermal contact between posterior dorsolateral and anterior lateral plates: present (0), absent (1).
 >  - This character is widely present in basally branch arthrodires and petalichthys, but absent in brachythoracids.
 
-429.  Ventral sensory grooves on anterior ventrolateral and anterior median ventral plates: connected (0); not connect (1).
+428.  Ventral sensory grooves on anterior ventrolateral and anterior median ventral plates: connected (0); not connect (1).
 <img width="1009" height="521" alt="image" src="https://github.com/user-attachments/assets/1f3fe4d9-d06c-4dd2-882d-1250fecfd08c" />
 <img width="625" height="454" alt="image" src="https://github.com/user-attachments/assets/85738fb6-9a89-4557-8308-14d8a87d86b3" />
 
-430.  Submarginal plate forms part of orbit border: absent (0); present (1).
+429.  Submarginal plate forms part of orbit border: absent (0); present (1).
 >  - Synapomorhpy of *Walterosteus*
 >  - The submarginal plate forms a short part of the ventral margin of the orbit, a character shared by *Walterosteus*, *Draconichthys*, *Rhinosteus*, *Microsteus*, *Pachyosteus*, and *Stenosteus*.
 <img width="1769" height="66" alt="image" src="https://github.com/user-attachments/assets/5f884848-e0e7-4e1e-8d09-2fbca37c00a8" />
 <img width="741" height="770" alt="image" src="https://github.com/user-attachments/assets/dcc48b50-4e1f-4adb-bc5d-3bb083f97867" />
 
-431.  Submarginal plate contacts with paranuchal plate: absent (1); present (1). 
+430.  Submarginal plate contacts with paranuchal plate: absent (1); present (1). 
 >  - Synapomorhpy of *Walterosteus* In *Walterosteus*, the postmarginal plate is absnet. The submarginal plate is braod and occupies the position typically held by the marginal plate in other arthrodires. Rücklin (2011) proposed two possible explanations for this condition: either the postmarginal plate is unossified, or it is fused with the submarginal plate. However, neither hypothesis can be tested with the currently available material. Here, we use the contact between the submarginal and paranuchal plates as a proxy to represent this condition. The absence of the postmarginal plate has also been noted in other arthrodires such as *Synauchenia* and *Pholidosteus*. Lelievre et al. (1987) considered the form of the submarginal plate to be an important character (Lelievre et al. 1987, text-fig. 6, character 1).
 
-432. Contact between postmarginal and main lateral sensory groove or canal: present (0); absent (1).
+431. Contact between postmarginal and main lateral sensory groove or canal: present (0); absent (1).
 > - Lack contact between postmarginal and main lateral sensory groove of canal is present *Enseosteus jaekeli*, *Enseosteus marocanensis*, and *Walterosteus grossi*.
 <img width="963" height="530" alt="image" src="https://github.com/user-attachments/assets/27c5efce-c070-4975-95af-faaa371537c7" />
 
-433. Anterior median process of rostral plate: absent (0); present (1).
+432. Anterior median process of rostral plate: absent (0); present (1).
 > -  Anterior median process is widely present in selenosteids and *Titanichthys*.
 <img width="582" height="657" alt="image" src="https://github.com/user-attachments/assets/437ae448-e28f-46ab-a97f-f3dd314ae474" />
 
-434.  Postorbital branch of the infraorbital sensory line groove: present (0); absent (1).
+433.  Postorbital branch of the infraorbital sensory line groove: present (0); absent (1).
 > - The postorbital branch of the infraorbital sensory line groove is absent in the *Wildungenichthys*, *Stenosteus angustopectus*, and trematosteids.
 
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
