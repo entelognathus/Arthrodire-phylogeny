@@ -1776,22 +1776,23 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 377.  Nuchal plate embayment of central plate: absent (0); shallow (1); developed (2).
 
 378.  Sublingual process of the suborbital plate: absent (0); present (1).
+> - There is no linguiform process in *Mlanosteus*, in contrast to what is known in other brachythoracids (e.g., Dunkleosteus; Heintz, 1932, figs. 21–22; or Pachyosteus bulla, Stensiö, 1963, fig. 99D). The absence of a linguiform process is also observed in Rhinosteus and Microsteus augusticeps (Stensiö, 1963, figs. 100e, 101b)
 
-379.  Postpineal plate: absent (0); present (1).
+380.  Postpineal plate: absent (0); present (1).
 
-380.  Central plate bears a small anteriorly projecting process where the suparorbital sensory groove or canal passes on to the preorbital plate: absent (0); present (1).
+381.  Central plate bears a small anteriorly projecting process where the suparorbital sensory groove or canal passes on to the preorbital plate: absent (0); present (1).
 
-381.  Postorbital plate bears a posterirly projecting process where the infraorbital sensory line passes on the marginal plate; absent (0); present (1).
+382.  Postorbital plate bears a posterirly projecting process where the infraorbital sensory line passes on the marginal plate; absent (0); present (1).
 
-382.  Incision of subocular ridge: absent (0); present (1).
+383.  Incision of subocular ridge: absent (0); present (1).
 
-383.  Sclerotic plate: absent (0); present (1).
+384.  Sclerotic plate: absent (0); present (1).
 
-384.  Sclerotic plate: four (0); three (1).
+385.  Sclerotic plate: four (0); three (1).
 
-385.  Sclerotic plate: narrow (0); broad (1).
+386.  Sclerotic plate: narrow (0); broad (1).
     
-386.  Occipital cross commisural sensory canal/groove runs cross the extrascapular: absent (0); present (1).
+387.  Occipital cross commisural sensory canal/groove runs cross the extrascapular: absent (0); present (1).
 >  -  This character is present in some coccosteoids
 
 387.  Posterior ventrolateral plate with posteriorly directed lateral spines： absent (0); present (1).
