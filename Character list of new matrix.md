@@ -227,6 +227,7 @@
 
 44.  Postorbital dermal process: negligible or absent (0); present (1).
 > Carr (1991), Character 34; Lelièvre (1995), character 21, modified; Carr and Hlavin (2010), Character 34; Rücklin *et al*. (2015), Character 34; Zhu Y *et al*. (2016), Character 34; Jobbins *et al*. (2022, 2024), Character 34; Xue *et al*. (2025), Character 34.
+> - In those taxa, such as *Walterosteus*, *Rhinosteus*, and *Draconichthys*, that cheeck plate overlap the skull roof, this character is socred as  'not aaplicable'.
 
 45.  Development of the postorbital process of the postorbital plate: moderately developed (0); highly developed, defined as the postorbital process composing one-quarter of the orbit (1).
 > Zhu Y *et al*. (2016), Character 103; Xue *et al*. (2025), Character 47.
