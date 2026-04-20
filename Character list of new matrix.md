@@ -1953,9 +1953,10 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 433.  Postorbital branch of the infraorbital sensory line groove: present (0); absent (1).
 > - The postorbital branch of the infraorbital sensory line groove is absent in the *Wildungenichthys*, *Stenosteus angustopectus*, and trematosteids.
 
-434.   Median stuture between central plates: long (0); short (1).
-> - In *Stenosteus angustopectus*, *Gymnotrachelus*, and *Heintzichthys*, the median stuture between central plates is short. 
-
+434.   Median stuture between central plates: long, measured as the ratio of (contact length)/ (central parasagittal length) > 0.75 (0); short (1).
+> - In *Stenosteus angustopectus*, *Gymnotrachelus*, and *Heintzichthys*, the median stuture between central plates is short. In those taxa that central plates are
+separate, this character is scored as 'not applicable'.  
+ 
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
