@@ -1120,7 +1120,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 232.  Parasphenoid ventromedian crest: absent (0); present (1).
 > Gardiner and Miles (1990), Character 22.27; Carr (1991), Character 74; Carr and Hlavin (2010), Character 74; Rücklin *et al*. (2015), Character 74; Zhu Y *et al*. (2016), Character 74; Jobbins *et al*. (2022, 2024), Character 74; Xue *et al*. (2025), Character 138.
 
-233.  Anterior supragnathal articulation with parashenoid: absent (0); present, indicated by either articular facets or a thickened contact face (1).
+233.  Anterior supragnathal articulation with parasphenoid: absent (0); present, indicated by either articular facets or a thickened contact face (1).
 > Dunkle and Bungart (1946); Carr and Hlavin (2010), Character 86; Rücklin *et al*. (2015), Character 86; Zhu Y *et al*. (2016), Character 86; Jobbins *et al*. (2022, 2024), Character 86; Xue *et al*. (2025), Character 139.
 
 234.  Parasphenoid anterior contact: thickened anterolateral contact facet (0); transverse articular facets (1).
