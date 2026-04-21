@@ -1862,7 +1862,7 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 >  -  This character is present in *Bungartius* and *Titanichthys*, and possibly correlated with their suspension-feeding adaptation.
 <img width="546" height="270" alt="image" src="https://github.com/user-attachments/assets/b59bdfc0-3f81-41bb-ba60-0f462c602aba" />
 
-409.   Occlusal surface of infragnathal plate: absent (0); present (1).
+409.   Occlusal surface of infragnathal plate: present (0); absent (1).
 >  -  This character is present in *Bungartius* and *Titanichthys*, and possibly correlated with their suspension-feeding adaptation.
 
 410.   Lateral embayment of median dorsal plate: absent (0); present (1).
@@ -1880,7 +1880,7 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 >  -  Possible a synapomorphy of *Titanichthys*.
 >  -  Boyle and Ryan (2017): "However, a lack of contact between the rostral and preorbital plates is known for other species (Rücklin, 2011; Rücklin et al., 2015) and, in general, placoderms have a weak suture between the rostral plate and the head shield (Goujet, 2001)."
 
-414.   Occlusal surface of posterior supragnathal plate: absent (0); present (1).
+414.   Occlusal surface of posterior supragnathal plate: present (0); absent (1).
 >  -  Possible a synapomorphy of *Titanichthys*.
 
 415.   Position of skull roof fenestra: between central plates (0); between central and marginal plates (1).
