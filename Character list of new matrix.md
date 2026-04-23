@@ -1961,7 +1961,7 @@ separate, this character is scored as 'not applicable'.
 > Zhang and Young (1992), Character 0; Zhu (1996), Character 33; Jia *et al.* (2010), Character 46; Pan *et al.* (2018), Character 33; Wang and Zhu (2018), Character 1; Liu *et al*. (2023), Character 1; Plax and Lukševičs (2023), Character 1; Luo *et al*. (2025), Character 1.
 > The reticular ornamentation is present in *Driscollaspis* and *Amazichthys*.
 
-436.   Sensory line form ridge on the dorsal surface of dermal plate: absent (0); present (1).
+436.   Sensory lines form ridges on the dorsal surface of dermal plate: absent (0); present (1).
 > This character is present in some selenosteids, including *Driscollaspis*, *Amazichthys*, *Stenosteus*, and *Gymnotrachelus*. 
  
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
