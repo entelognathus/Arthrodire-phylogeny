@@ -1955,7 +1955,14 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 
 434.   Median stuture between central plates: long, measured as the ratio of (contact length)/ (central parasagittal length) > 0.75 (0); short (1).
 > - In *Stenosteus angustopectus*, *Gymnotrachelus*, and *Heintzichthys*, the median stuture between central plates is short. In those taxa that central plates are
-separate, this character is scored as 'not applicable'.  
+separate, this character is scored as 'not applicable'.
+
+435.   Adult ornamentation: tubercular (0); reticular (1).
+> Zhang and Young (1992), Character 0; Zhu (1996), Character 33; Jia *et al.* (2010), Character 46; Pan *et al.* (2018), Character 33; Wang and Zhu (2018), Character 1; Liu *et al*. (2023), Character 1; Plax and Lukševičs (2023), Character 1; Luo *et al*. (2025), Character 1.
+> The reticular ornamentation is present in *Driscollaspis* and *Amazichthys*.
+
+436.   Sensory line form ridge on the dorsal surface of dermal plate: absent (0); present (1).
+> This character is present in some selenosteids, including *Driscollaspis*, *Amazichthys*, *Stenosteus*, and *Gymnotrachelus*. 
  
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
