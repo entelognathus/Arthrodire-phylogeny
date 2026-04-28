@@ -1965,7 +1965,7 @@ separate, this character is scored as 'not applicable'.
 > This character is present in some selenosteids, including *Driscollaspis*, *Amazichthys*, *Stenosteus*, and *Gymnotrachelus*. 
 
 437.   Lateral flange along the ventral margin of anterior lateral plate: absent (0); present (1).
-> This character is present in *Gorgonichthys*, *Stenognathus*, and *Titanichthys*.  Dunkle and Bungart (1940): The ventral margin of the posterior expanded part extends forward external to the anterior process. A lateral flange is thus formed along the ventral boreder of the bone. This condiiton is similar to that found in *Stenognathus* and *Titanichthys*, and is marked contrast to the structure of a typical Dinichthyid.
+> This character is present in *Gorgonichthys*, *Heintzichthys*, and *Titanichthys*.  Dunkle and Bungart (1940): The ventral margin of the posterior expanded part extends forward external to the anterior process. A lateral flange is thus formed along the ventral boreder of the bone. This condiiton is similar to that found in *Stenognathus* and *Titanichthys*, and is marked contrast to the structure of a typical Dinichthyid.
 
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
