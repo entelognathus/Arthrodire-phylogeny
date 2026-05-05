@@ -912,6 +912,15 @@
 > - Gaspe Sandstone Series, Campbellton, Canada
 > - [Young, 1983](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9304082), Denison, 1958.
 
+[*Pholidosteus friedeli*](https://deepbone.cn/public/#/explor?s_id=2672&functionId=Deepbone_header_searchResultOpen) Jaekel 1907
+> upper Frasnian, 375.7, 372.2
+
+> Baltica
+
+> - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
+> - Stensiö, 1963; Denison, 1978.
+> - Remark: Although the trunk armour of *Pholidosteus friedeli* is disarticulated and incompletely preserved, Gross (1932) provided a lateral reconstruction, which was subsequently followed and revised by Denison (1978). In contrast, Stensiö (1963) proposed a revised dorsal reconstruction based on Gross’s framework, but did not provide the lateral recontruction. Notably, the photographic material presented by Stensiö (1963) indicates that the posterolateral plate forms the margin of the pectoral fenestra, a condition that differs from the reconstructions of both Gross and Denison. Here, we code this character based on the photographic material present by Stensiö (1963).
+
 [*Placolepis budawangensis*](https://deepbone.cn/public/#/explor?s_id=2471&functionId=Deepbone_header_searchResultOpen) Ritchie 1984
 > Lower or Middle Frasnian, 382.7,  375.7
 
