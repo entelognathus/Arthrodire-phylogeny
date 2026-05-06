@@ -9,10 +9,8 @@
 
 ## Hagiangellidae
 [*Hagiangella goujeti*](https://deepbone.cn/public/#/explor?s_id=2132&functionId=Deepbone_header_searchResultOpen) Janvier, 2005
-> - ##Geological range.## Upper Lochkovian, 415.0, 410.8
-
+> - Geological range. Upper Lochkovian, 415.0, 410.8
 > - South China 
- 
 > - Occurrence. Khao Loc Formation; Tong Vai Valley, Dong Van district, Ha Giang Province, northern Vietnam
 > - Holotype and referred specimens. See Racheboeuf *et al.*, 2005 and Dupret *et al.*, 2011.
 > - Diagnosis. See Dupret *et al.*, 2011.
