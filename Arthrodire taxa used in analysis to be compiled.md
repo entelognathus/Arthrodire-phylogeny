@@ -9,7 +9,7 @@
 
 ## Hagiangellidae
 [*Hagiangella goujeti*](https://deepbone.cn/public/#/explor?s_id=2132&functionId=Deepbone_header_searchResultOpen) Janvier, 2005
-> - Geological range. Upper Lochkovian, 415.0, 410.8
+> - ##Geological range.## Upper Lochkovian, 415.0, 410.8
 
 > - South China 
  
