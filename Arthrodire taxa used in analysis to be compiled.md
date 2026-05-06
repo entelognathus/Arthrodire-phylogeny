@@ -1084,6 +1084,13 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - Jiucheng Formation, Wuding, Yunnan, China
 > - [Wang, 1992](https://www.vertpala.ac.cn/EN/abstract/abstract544.shtml)
 
+[*Xiantingosteus gracilis*]() 
+> **Geological range.** Upper Givetian, 384.37, 382.7
+
+> - **Occurrence.** Yidade Formation, Panxi, Huaning County, Yuxi Prefecture, Yunnan Province, China. South China block.
+> - **Holotype.** 
+> - **Referred specimens.**
+
 [*Yiminaspis shenme*](https://deepbone.cn/public/#/explor?s_id=2494&functionId=Deepbone_header_searchResultOpen) Dupret, 2008
 > Pragian, 410.8, 407.6
 
