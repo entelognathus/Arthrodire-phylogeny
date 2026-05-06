@@ -12,8 +12,8 @@
 > **Geological range.** Upper Lochkovian, 415.0, 410.8
 
 > - **Occurrence.** Khao Loc Formation; Tong Vai Valley, Dong Van district, Ha Giang Province, northern Vietnam. South China Block 
-> - **Holotype and referred specimens.** See Racheboeuf *et al.*, 2005 and Dupret *et al.*, 2011.
-> - **Diagnosis.** See Dupret *et al.*, 2011.
+> - **Holotype and referred specimens.** See Racheboeuf *et al.* (2005) and Dupret *et al.* (2011).
+> - **Diagnosis.** See Dupret *et al.* (2011).
 > - **References.** [Dupret *et al.*, 2011](https://www.tandfonline.com/doi/full/10.1080/02724634.2011.558148); [Racheboeuf *et al.*, 2005](https://www.sciencedirect.com/science/article/abs/pii/S0016699505000665)
 
 ## Petalichthyid taxa
@@ -915,9 +915,9 @@
 > **Geological range.** upper Frasnian, 375.7, 372.2
 
 > - **Occurrence.** Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317. Baltica Block
-> - **References.** Stensiö, 1963; Denison, 1978.
-> - **Holotype and referred specimens.** 
-> - **Diagnosis.** See Stensiö, 1963 and Denison, 1978.
+> - **References.** Stensiö (1963); Denison (1978).
+> - **Holotype and referred specimens.** See Gross (1932) and Stensiö (1963).
+> - **Diagnosis.** See Stensiö (1963) and Denison (1978).
 > - **Remark.** Although the trunk armour of *Pholidosteus friedeli* is disarticulated and incompletely preserved, Gross (1932) provided a lateral reconstruction, which was subsequently followed and revised by Denison (1978). In contrast, Stensiö (1963) proposed a revised dorsal reconstruction based on Gross’s framework, but did not provide a corresponding lateral reconstruction. Notably, the photographic material presented by Stensiö (1963) indicates that the posterolateral plate forms part of the margin of the pectoral fenestra, a condition that differs from the reconstructions of both Gross and Denison. Accordingly, this character is coded here based on the photographic material of Stensiö (1963). In all previous reconstructions, the spinal plate is depicted as elongate and extending posterolaterally, a condition unusual among eubrachythoracids. However, the photographic material presented by Stensiö (1963) indicates that the spinal plate is short and aligned with the trunk armour, representing the general condition in eubrachythoracids, and that it bears a posterior notch similar to that of incisoscutoids. The characters of the spinal plate are therefore coded here based on Stensiö’s photographic material. In the lateral reconstructions of Gross (1932) and Denison (1978), the pectoral lamina of the posterior ventrolateral plate is large and contacts the anterior lateral, anterior dorsolateral and posterior lateral plates. By contrast, the photographic material presented by Stensiö (1963) indicates that the posterior ventrolateral plate contacts only the posterior lateral plate.
 Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the Pholidosteidae, based on elarged orbit, cheek plates firmly sutured to the skill roof, absence of submarginal plate, long and laterally projecting spinal plate, and large pectoral lamina contact with anterior dorsolateral, anterior lateral, and posterior lateral plates. 
 > - **References.** Gross (1932); Denison (1978); Stensiö (1963).
