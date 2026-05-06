@@ -915,7 +915,6 @@
 > **Geological range.** upper Frasnian, 375.7, 372.2
 
 > - **Occurrence.** Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317. Baltica Block
-> - **References.** Stensiö (1963); Denison (1978).
 > - **Holotype and referred specimens.** See Gross (1932) and Stensiö (1963).
 > - **Diagnosis.** See Stensiö (1963) and Denison (1978).
 > - **Remark.** Although the trunk armour of *Pholidosteus friedeli* is disarticulated and incompletely preserved, Gross (1932) provided a lateral reconstruction, which was subsequently followed and revised by Denison (1978). In contrast, Stensiö (1963) proposed a revised dorsal reconstruction based on Gross’s framework, but did not provide a corresponding lateral reconstruction. Notably, the photographic material presented by Stensiö (1963) indicates that the posterolateral plate forms part of the margin of the pectoral fenestra, a condition that differs from the reconstructions of both Gross and Denison. Accordingly, this character is coded here based on the photographic material of Stensiö (1963). In all previous reconstructions, the spinal plate is depicted as elongate and extending posterolaterally, a condition unusual among eubrachythoracids. However, the photographic material presented by Stensiö (1963) indicates that the spinal plate is short and aligned with the trunk armour, representing the general condition in eubrachythoracids, and that it bears a posterior notch similar to that of incisoscutoids. The characters of the spinal plate are therefore coded here based on Stensiö’s photographic material. In the lateral reconstructions of Gross (1932) and Denison (1978), the pectoral lamina of the posterior ventrolateral plate is large and contacts the anterior lateral, anterior dorsolateral and posterior lateral plates. By contrast, the photographic material presented by Stensiö (1963) indicates that the posterior ventrolateral plate contacts only the posterior lateral plate.
@@ -1088,8 +1087,11 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > **Geological range.** Upper Givetian, 384.37, 382.7
 
 > - **Occurrence.** Yidade Formation, Panxi, Huaning County, Yuxi Prefecture, Yunnan Province, China. South China block.
-> - **Holotype.** 
-> - **Referred specimens.**
+> - **Holotype.** IVPP V8926.1, an almost complete armor, lacking the rostral, postnasal, spinal, posterior medial ventral, and posterolateral plates.
+> - **Referred specimens.**  IVPP V8926.2, incomplete armor, including nuchal, paranuchal, median dorsal, anterior dorsolateral, posterior dorsolateral, interolateral, posterior ventrolateral, and submedian plates.
+> - **Diagnosis.** The median suture between paired central plates is nearly straight. The end of the central sensory groove is bifurcate on the central plate. The middle pit-line is connected to the posterior pit-line. The main lateral line on the anterior dorsolateral plate divides into horizontal and ventral branches. The horizontal branches extend to the posterior dorsolateral plate. The anterior margin of the anterior dorsolateral plate bears a small subglenoid process. The anteroventral groove is present on the interolateral plate.
+> - **Remark.** *Xiantingosteus* displays diagnostic characters of Incisoscutoidea, such as absence of inframarginal crista, contact between postorbital and paranuchal plates, paranuchal shallow embayed central plate, and central plate bearing a small anterior projecting process where the infraorbital sensory groove passes on to the preorbital plate. *Xiantingosteus* also exhibits some plesiomorphic characters, including presence of a small subglenoid process, a postmarginal sensory groove extending onto the postmarginal plate, and long horizontal branches of the main lateral line reaching to the posterior dorsolateral plate. 
+> - **References.**
 
 [*Yiminaspis shenme*](https://deepbone.cn/public/#/explor?s_id=2494&functionId=Deepbone_header_searchResultOpen) Dupret, 2008
 > Pragian, 410.8, 407.6
