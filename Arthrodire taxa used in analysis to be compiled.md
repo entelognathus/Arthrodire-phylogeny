@@ -13,7 +13,7 @@
 > - **Occurrence.** Khao Loc Formation; Tong Vai Valley, Dong Van district, Ha Giang Province, northern Vietnam. South China Block 
 > - **Holotype and referred specimens.** See Racheboeuf *et al.*, 2005 and Dupret *et al.*, 2011.
 > - **Diagnosis.** See Dupret *et al.*, 2011.
-> - **References** [Dupret *et al.*, 2011](https://www.tandfonline.com/doi/full/10.1080/02724634.2011.558148)
+> - **References.** [Dupret *et al.*, 2011](https://www.tandfonline.com/doi/full/10.1080/02724634.2011.558148)
 
 ## Petalichthyid taxa
 [*Brevipetalichthys gracilis*](https://deepbone.org/public/#/explor?s_id=3255andfunctionId=Deepbone_header_searchResultOpen) Ji and Pan, 1999
