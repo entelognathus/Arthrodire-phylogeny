@@ -766,6 +766,15 @@
 > - Aruküla beds, Estonia.
 > - Heintz, 1928; Heintz, 1930.
 
+[*Hlavinichthys jacksoni*](https://deepbone.cn/public/#/explor?s_id=75115&functionId=Deepbone_header_searchResultOpen) Carr, 2018
+> **Geological range.** Upper Famennian, 363.3, 358.9. (*aculeatus* to *costatus–ultimus* Conodont Zones)   
+
+> - **Occurrence.** Cleveland Shale Member, Ohio Shale Formation, Ohio, U.S.A. Excavation site for Interstate-71 at the intersection of Bellaire and Memphis Roads, on the boundary of Cleveland and Linndale, Ohio, U.S.A.
+> - **Holotype.** CMNH 9200, a single concretion containing most of the plates from a single specimen.
+> - **Diagnosis.** See Carr (2018).
+> - **Remark.** The postsuborbital plate of *Hlavinichthys* resembles that of *Gymnotrachelus*, *Stenosteus*, *Bungartius*, and titanichthyid in being positioned between submarginal and suborbital plates, and in bearing a anteroventral notch. The median dorsal plate bears am anteior process as in other Clevend Shale aspinothoracid arthrodires, including *Stenosteus*, *Gymnotrachelus*, *Tafilalichthys*, and *Bungartius*. The posteior margin of median dorsal plate is rounded and bears a shallow notch. This condition is also observed in *Stenosteus* and is possible present in *Amazichthys*. Jobbins *et al.* (2022) add this character state, depression or concave, for the posterior border of the median dorsal plate. 
+> - **Key References.** Carr (2018)
+
 [*Holonema westolli*](https://deepbone.org/public/#/explor?s_id=2425andfunctionId=Deepbone_header_searchResultOpen) Miles, 1971
 > lower Frasnian, 382.7, 379.2
 
