@@ -921,6 +921,16 @@
 > - Murrumbidgee Group, Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales, Australia.
 > - White and Toombs, 1972; [Young, 1979](https://academic.oup.com/zoolinnean/article-abstract/66/4/309/2664249)
 
+[*Paramylostoma arcualis*](https://deepbone.cn/public/#/explor?s_id=3575&functionId=Deepbone_header_searchResultOpen) Dunkle and Bungart, 1945
+> **Geological range.** Upper Famennian, 363.3, 358.9.
+
+> - **Occurrence.** Big Creek (Cuyahoga County, Ohio) section, Cleveland Shale Member, Ohio Shale Formation, Ohio, U.S.A.
+> - **Holotype.** CMNH 5284, a laterally crushed but pratically complete assemblage of dermal plates.
+> - **Referred Specimens.** CMNH 6054 and 7556, both consisting of complete head shields with incomplete and disassociated jaw elements and dermal plates of dorsal and ventral trunk armour.
+> - **Diagnosis.** See Dunkle and Bungart (1945) and Denison (1978).
+> - **Remark.**
+> - **Key References.** Dunkle and Bungart (1945) and Denison (1978).
+
 [*Phlyctaenius acadicus*](https://deepbone.cn/public/#/explor?s_id=2576&functionId=Deepbone_header_searchResultOpen) Whiteaves 1881
 > Emsian or Eifelian, 407.6, 387.7
 
