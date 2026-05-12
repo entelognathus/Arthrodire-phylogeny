@@ -467,6 +467,15 @@
 > - [Miles, 1973](https://www.researchgate.net/publication/285456051_An_actinolepid_arthrodire_from_the_Lower_Devonian_Peel_Sound_Formation_Prince_of_Wales_Island)
 > - **The Source reference in deepbone is questionable.**
 
+[*Belgiosteus mortelmansi*](https://deepbone.cn/public/#/explor?s_id=2641&functionId=Deepbone_header_searchResultOpen) Lehman, 1973
+> **Geological range.** Givetian, 387.7, 382.7
+
+> - **Occurrence.** Drill core from Tournai (mental asylum site), core no. 1048.
+> - **Holotype.** Housed in the collections of the Université libre de Bruxelles. See Lehman, 1973
+> - **Diagnosis.** See Lehman, 1973 and Denison, 1978.
+> - **Remarak.** Lehman (1973) interpreted the sensory groove on the paranuchal plate as the posterior pit line, extending posteromedially. This condition differs from that observed in most other arthrodires, in which the posterior pit line typically extends anteromedially. By contrast, in arthrodires, the occipital cross-commissure usually extends posteromedially across the paranuchal plate. Here, we consider the groove identified by Lehman to represent occipital cross-commissure rather than a true posterior pit line homologous with that of other taxa.
+> - **Key References.** Lehman, 1973 and Denison, 1978.
+
 [*Bollandaspis woschmidti*](https://deepbone.cn/public/#/explor?s_id=2467&functionId=Deepbone_header_searchResultOpen) Schmidt, 1976
 > lower Emsian, 407.6, 400.45
 
@@ -801,7 +810,7 @@
 > - [Dennis and Miles, 1981](https://academic.oup.com/zoolinnean/article-abstract/73/3/213/2658833); [Giles et al., 2013](https://onlinelibrary.wiley.com/doi/full/10.1002/jmor.20119)
 
 [*Incisoscutum sarahae*](https://deepbone.cn/public/#/explor?s_id=2446&functionId=Deepbone_header_searchResultOpen) (Long, 1994)
-> > lower Frasnian, 382.7, 379.2
+> lower Frasnian, 382.7, 379.2
 
 > East Gondwanan
 
