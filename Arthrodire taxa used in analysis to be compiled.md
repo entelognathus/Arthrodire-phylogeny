@@ -1033,12 +1033,14 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - Liu,1981, [Dupret, 2017](https://www.tandfonline.com/doi/abs/10.1080/02724634.2017.1312422).
 
 [*Tapinosteus heintzi*](https://deepbone.cn/public/#/explor?s_id=2186&functionId=Deepbone_header_searchResultOpen) Stensiö, 1963
-> upper Frasnian, 375.7, 372.2
+> **Geological range.** upper Frasnian, 375.7, 372.2
 
 > Baltica
 
-> - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
-> - Stensiö, 1963.
+> - **Occurrence.** Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317.
+> - **Holotype and referred specimens.** See Stensiö, 1963.
+> - **Diagnosis.** See Stensiö, 1963 and Denison, 1978.
+> - **References.** See Stensiö, 1963.
 
 [*Toombalepis tuberculata*](https://deepbone.cn/public/#/explor?s_id=2719&functionId=Deepbone_header_searchResultOpen) Young and Goujet, 2003
 > late Emsian to early Eifelian, 410.8, 407.6
