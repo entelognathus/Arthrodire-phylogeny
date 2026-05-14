@@ -897,6 +897,7 @@
 
 > - Middle Rousay Formation, Orkney and Caithness, Scotland.
 > - [Desmond, 1974](https://academic.oup.com/zoolinnean/article-abstract/54/4/277/2670929); Stensiö, 1959, 1963.
+> - **Remark.** Stensiö (1963) suggested that in *Millerosteus* the cheek bones apparently tend to become firmly attached to the dermal plate of skull roof, whereas in *Tapinosteus* and *Pholidosteus*, they had acquired a rigid sutural connection with these bones, similar to that in some pachyosteomorphs. In coccosteids, such as *Coccosteus*, *Watsonosteus*, and *Dickosteus*, the cheek bones are usually loose contacted to the skull roof. By contrast, in some incisoscutoids, such as *Incisoscutum*, *Camuropiscis*, and *Latocamurus*, a ridig sutural connection is present, as in some pachyosteomorphs. The rigid sutural connection between the skull roof and cheek bones appears to have evolved multiple times independently. This feature is closely associated with the mobility of the branchial region and may reflect ecological adaptations, potentially related to feeding mechanics or functional constraints on cranial kinesis. In the matrix of Zhu *et al.* (2016), this character (development of cheek/skull roof overlap) in *Millerosteus* was coded as state 1 (complete fusion). Here, we revised this coding to state 0 (loose contact). 
 
 [*Mulgaspis evansorum*](https://deepbone.org/public/#/explor?s_id=2727andfunctionId=Deepbone_header_searchResultOpen) Ritchie, 2004
 > lower Eifelian, 393.3, 391.4
