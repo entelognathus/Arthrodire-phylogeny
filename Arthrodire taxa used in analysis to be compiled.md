@@ -1040,7 +1040,8 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - **Occurrence.** Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317.
 > - **Holotype and referred specimens.** See Stensiö, 1963.
 > - **Diagnosis.** See Stensiö, 1963 and Denison, 1978.
-> - **References.** See Stensiö, 1963.
+> - **Remark.** The genus *Tapinosteus* was first metioned by Stensiö (1959) and subsequently described in detail by Stensiö (1963), with particular reference of the endocranium. *Tapinosteus heintzi* was first established by Stensiö (1963). Stensiö (1963) considered that *Tapinosteus* is closely askin to *Phlidosteus* and assigned it to the Pholidosteidae, an assigment later followed by Denison (1978). In the phylogenetic analysis of Zhu et al. (2016), *Tapinosteus heintzi* was nested at the base of aspinothoracids, a position that was subsequently supported by the phylogenetic analyses of Xue *et al.* (2025, 2026).
+> - **Key References.** See Stensiö (1963) and Denison (1978).
 
 [*Toombalepis tuberculata*](https://deepbone.cn/public/#/explor?s_id=2719&functionId=Deepbone_header_searchResultOpen) Young and Goujet, 2003
 > late Emsian to early Eifelian, 410.8, 407.6
