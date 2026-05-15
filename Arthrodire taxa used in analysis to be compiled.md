@@ -1069,12 +1069,13 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - [Gardiner and Miles, 1990](https://academic.oup.com/zoolinnean/article-abstract/99/2/159/2645532).
 
 [*Trematosteus fontanellus*](https://deepbone.cn/public/#/explor?s_id=2241&functionId=Deepbone_header_searchResultOpen) Gross, 1932
-> upper Frasnian, 375.7, 372.2
+> **Geological range.** upper Frasnian, 375.7, 372.2
 
-> Baltica
-
-> - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
-> - Gross, 1932; Stensiö, 1963.
+> - **Occurrence.** Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
+> - **Holotype and referred specimens.** See Stensiö, 1963.
+> - **Diagnosis.** See Gross, 1932 and Denison, 1978
+> - **Remark.** Stensiö (1963) interpreted the postnasal plate of *Trematosteus* as fused to the preorbital plate, a conditon that is also present in *Belosteus*, *Cytosteus*, and *Brachyosteus*. This character may represent a synapomorph of Trematosteidae. A postpineal fenestra is widely present in trematosteids. In *Trematosteus* and *Belosteus*, the postpineal fenestra is enlongate and completely separates paired central plates, whereas in other trematosteids it is shorter and separates only the anterior portions of central plates. A comparable postpineal fenestra is also present in Leiosteidae and *Paramylostoma*. Gross (1932) established Trematosteidae to include *Trematosteus*, *Belosteus*, *Brachyosteus*, and *Cyrtosteus*, primarily based on their shared cranial morphology, particularly the presence of a postpineal fenestra and a narrow lateral trunk armour. This assignment was subsequently accepted by Stensiö (1963) and followed Denison (1978). In the phylogenetic analysis of Zhu *et al.* (2016), *Trematosteus* is deeply nested within Incisoscutoidea, whereas *Brachyosteus* are recovered in the polytomy of selenosteids. Xue et al. (2025) revised the matrix, and in their phylogenetic analysis both *Trematosteus* and *Brachyosteus* were recovered within a polytomy of aspinothoracids. 
+> - **Key references.** Gross, 1932; Stensiö, 1963; Denison, 1978.
 
 [*Tubonasus lennardensis*](https://deepbone.cn/public/#/explor?s_id=2219&functionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1979b
 > lower Frasnian, 382.7, 379.2
