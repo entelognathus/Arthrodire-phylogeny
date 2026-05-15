@@ -485,12 +485,12 @@
 > - [Schmidt，1976](https://biblio.naturalsciences.be/rbins-publications/memoirs-of-the-geological-survey-of-belgium/bibliographic_references/schmidtrest1976)
 
 [*Brachyosteus dietrichi*](https://deepbone.cn/public/#/explor?s_id=2247&functionId=Deepbone_header_searchResultOpen) Gross, 1932
-> upper Frasnian, 375.7, 372.2
+> **Geological range.** upper Frasnian, 375.7, 372.2
 
-> Baltica
-
-> - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
-> - [Denison, 1978](); Stensiö, 1963.
+> - **Occurrence.** Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
+> - **Holotype and referred specimens.** See Stensiö, 1963.\
+> - **Diagnosis.**
+> - **References.** [Denison, 1978](); Stensiö, 1963.
 
  [*Bruntonichthys multidens*](https://deepbone.cn/public/#/explor?s_id=2221&functionId=Deepbone_header_searchResultOpen) Dennis & Miles, 1980
 > lower Frasnian, 382.7, 379.2
