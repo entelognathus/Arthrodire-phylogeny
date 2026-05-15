@@ -1951,7 +1951,7 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 > -  Anterior median process is widely present in selenosteids and *Titanichthys*.
 <img width="582" height="657" alt="image" src="https://github.com/user-attachments/assets/437ae448-e28f-46ab-a97f-f3dd314ae474" />
 
-433.  Postorbital branch of the infraorbital sensory line groove: present (0); absent (1).
+433.  Postorbital branch of the infraorbital sensory line groove on suborbital plate: present (0); absent (1).
 > - The postorbital branch of the infraorbital sensory line groove is absent in the *Wildungenichthys*, *Stenosteus angustopectus*, and trematosteids.
 
 434.   Median stuture between central plates: long, measured as the ratio of (contact length)/ (central parasagittal length) > 0.75 (0); short (1).
@@ -1971,6 +1971,10 @@ separate, this character is scored as 'not applicable'.
 438.   Anterior dorsolateral plate lacking sensory gooves: absent (0); present (1).
 >  This character is only present in *Hlavinichthys* and *Bungartius*. 
 
+439.  Postorbital branch of the infraorbital sensory line groove on postorbital plate: present (0), absent (1).
+>  In some trematosteids, such as *Trematosteus*, *Parabelosteus*, and possible *Brachyosteus*, the postorbital branch of infraorbital sensory line groove on postorbital plate is absent. 
+
+440.  
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
