@@ -488,9 +488,9 @@
 > **Geological range.** upper Frasnian, 375.7, 372.2
 
 > - **Occurrence.** Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
-> - **Holotype and referred specimens.** See Stensiö, 1963.\
-> - **Diagnosis.**
-> - **References.** [Denison, 1978](); Stensiö, 1963.
+> - **Holotype and referred specimens.** See Stensiö, 1963.
+> - **Diagnosis.** Gross, 1932 and Denison, 1978
+> - **Key references.** Gross, 1932; Stensiö, 1963; and Denison, 1978.
 
  [*Bruntonichthys multidens*](https://deepbone.cn/public/#/explor?s_id=2221&functionId=Deepbone_header_searchResultOpen) Dennis & Miles, 1980
 > lower Frasnian, 382.7, 379.2
