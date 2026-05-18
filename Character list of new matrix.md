@@ -1974,7 +1974,8 @@ separate, this character is scored as 'not applicable'.
 439.  Postorbital branch of the infraorbital sensory line groove on postorbital plate: present (0), absent (1).
 >  In some trematosteids, such as *Trematosteus*, *Parabelosteus*, and possible *Brachyosteus*, the postorbital branch of infraorbital sensory line groove on postorbital plate is absent. 
 
-440.  
+440.  Anterior margin of anterior ventrolateral plate: straight (0); embayed (1).
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
