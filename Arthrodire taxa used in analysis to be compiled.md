@@ -476,6 +476,16 @@
 > - **Remark.** Lehman (1973) interpreted the sensory groove on the paranuchal plate as the posterior pit line, extending posteromedially. This condition differs from that observed in most other arthrodires, in which the posterior pit line typically extends anteromedially. By contrast, in arthrodires, the occipital cross-commissure usually extends posteromedially across the paranuchal plate. Here, we consider the groove identified by Lehman to represent occipital cross-commissure rather than a true posterior pit line homologous with that of other taxa.
 > - **Key References.** Lehman, 1973 and Denison, 1978.
 
+[*Belosteus elegans*](https://deepbone.cn/public/#/explor?s_id=2243&functionId=Deepbone_header_searchResultOpen) Jaekel, 1919
+> **Geological range.** upper Frasnian, 375.7, 372.2
+
+> - **Occurrence.** Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
+> - **Holotype and referred specimens.** See Stensiö, 1963.
+> - **Diagnosis.** See Stensiö, 1963.
+> - **Remark.** 
+> - **Key references.** Gross, 1932; Stensiö, 1963; and Denison, 1978.
+> <img width="3612" height="2827" alt="Trematosteidae" src="https://github.com/user-attachments/assets/ce08a201-9085-4e36-ac21-9d457ff61a8b" />
+
 [*Bollandaspis woschmidti*](https://deepbone.cn/public/#/explor?s_id=2467&functionId=Deepbone_header_searchResultOpen) Schmidt, 1976
 > lower Emsian, 407.6, 400.45
 
