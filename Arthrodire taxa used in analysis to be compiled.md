@@ -482,7 +482,7 @@
 > - **Occurrence.** Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - **Holotype and referred specimens.** See Stensiö, 1963.
 > - **Diagnosis.** See Stensiö, 1963.
-> - **Remark.** 
+> - **Remark.**  This genus is established by Jaekel 1919, including: *B.acutus*, *B.elegans*, *B.acuticeps*, and *B. pusillus*. Gross (1932) suggested that with the exception of *B.elegans*, other species names appeared only on specimens labels. He further noted that the specimen originally labelled as B. acutus likely corresponded to the form later referred to as *B. elegans*, and therefore established *Belosteus major* sp. nov. to avoid taxonomic confusion. *Belosteus major* is distinguished by its relatively large body size. *B. acuticeps* and *B. pusillus* are considerably smaller and closely resemble each other in skull roof morphology. The only difference between two species is the pineal plate contacting the rostral plate in *B. acuticeps*. Denison (1978) referred *B acuticeps* to *Parabelosteus* and conisdered that *B. major*, *B. actuts*, and *Helmerosteus laticeps* are junior synonyms of *B. elegans*.
 > - **Key references.** Gross, 1932; Stensiö, 1963; and Denison, 1978.
 > <img width="3612" height="2827" alt="Trematosteidae" src="https://github.com/user-attachments/assets/ce08a201-9085-4e36-ac21-9d457ff61a8b" />
 
