@@ -473,7 +473,7 @@
 > - **Occurrence.** Drill core from Tournai (mental asylum site), core no. 1048.
 > - **Holotype.** Housed in the collections of the Université libre de Bruxelles. See Lehman, 1973
 > - **Diagnosis.** See Lehman, 1973 and Denison, 1978.
-> - **Remarak.** Lehman (1973) interpreted the sensory groove on the paranuchal plate as the posterior pit line, extending posteromedially. This condition differs from that observed in most other arthrodires, in which the posterior pit line typically extends anteromedially. By contrast, in arthrodires, the occipital cross-commissure usually extends posteromedially across the paranuchal plate. Here, we consider the groove identified by Lehman to represent occipital cross-commissure rather than a true posterior pit line homologous with that of other taxa.
+> - **Remark.** Lehman (1973) interpreted the sensory groove on the paranuchal plate as the posterior pit line, extending posteromedially. This condition differs from that observed in most other arthrodires, in which the posterior pit line typically extends anteromedially. By contrast, in arthrodires, the occipital cross-commissure usually extends posteromedially across the paranuchal plate. Here, we consider the groove identified by Lehman to represent occipital cross-commissure rather than a true posterior pit line homologous with that of other taxa.
 > - **Key References.** Lehman, 1973 and Denison, 1978.
 
 [*Bollandaspis woschmidti*](https://deepbone.cn/public/#/explor?s_id=2467&functionId=Deepbone_header_searchResultOpen) Schmidt, 1976
@@ -489,7 +489,8 @@
 
 > - **Occurrence.** Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - **Holotype and referred specimens.** See Stensiö, 1963.
-> - **Diagnosis.** Gross, 1932 and Denison, 1978
+> - **Diagnosis.** Gross, 1932 and Denison, 1978.
+> - **Remark.** In the reconstruction of Gross (1932), the postorbital branch of the infraorbital sensory groove is reconstructed as present, whereas Stensiö (1963) reconstructed it as absent. Examination of the photographic material presented by Stensiö (1963) supports the absence of this sensory groove, and we therefore code this character accordingly. A comparable condition is also present in *Parabelosteus* and *Trematosteus*. The lateral process of rostral plate (pr.pr.l) is present in *Brachyosteus*. Stensiö (1963) considered this process to participate in the boundary of the incurrent fenestra exonarhina (incurrent nostril).
 > - **Key references.** Gross, 1932; Stensiö, 1963; and Denison, 1978.
 
  [*Bruntonichthys multidens*](https://deepbone.cn/public/#/explor?s_id=2221&functionId=Deepbone_header_searchResultOpen) Dennis & Miles, 1980
