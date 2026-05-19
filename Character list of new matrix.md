@@ -1976,6 +1976,9 @@ separate, this character is scored as 'not applicable'.
 
 440.  Anterior margin of anterior ventrolateral plate: straight (0); embayed (1).
 
+441. "Coronoid" process of inferognathal: absent (0); present (1).
+>  "Coronoid" process is only present in some trematosteids, including *Parabelosteus* and *Brachyosteus*. Miles (1969) considered that this process parallels the corresponding structure in coelacanths and actinopterygians.
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
