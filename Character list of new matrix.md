@@ -1856,7 +1856,7 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 <img width="557" height="313" alt="image" src="https://github.com/user-attachments/assets/6be3532f-addf-4f73-b266-6fa61f6d3738" />
 
 407.   Dermal contact between submarginal and suborbital plates: absent (0); present (1).
->  -  In some  aspinothoracids, such as *Titanichthys*, *Gymnotrachelus*, and *Bungartius*, the submarginal and suborbital plates are separate by the postsuborbital plate.
+>  -  In some aspinothoracids, such as *Titanichthys*, *Gymnotrachelus*, and *Bungartius*, the submarginal and suborbital plates are separate by the postsuborbital plate.
 <img width="539" height="194" alt="image" src="https://github.com/user-attachments/assets/b3d78ab8-51fd-469a-8680-b9d283ad7a89" />
 
 408.   The anterior portion of the inferognathal curves ventromedially: absent (0); present (1).
@@ -1978,6 +1978,9 @@ separate, this character is scored as 'not applicable'.
 
 441. "Coronoid" process of inferognathal: absent (0); present (1).
 >  "Coronoid" process is only present in some trematosteids, including *Parabelosteus* and *Brachyosteus*. Miles (1969) considered that this process parallels the corresponding structure in coelacanths and actinopterygians.
+
+442. Anterior margin of anterior ventrolateral plate: straight (0); concave (1).
+>  In aspinothoracids and *Dunkleosteus*, the anterior margin of anterior ventrolateral plate is concave.
 
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
