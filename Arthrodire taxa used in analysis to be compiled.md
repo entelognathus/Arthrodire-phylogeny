@@ -934,6 +934,16 @@
 > - Yidade Formation, Yunnan, China
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Wang, 1979.
 
+[*Parabelosteus acuticeps*](https://deepbone.cn/public/#/explor?s_id=2239&functionId=Deepbone_header_searchResultOpen) (Jaekel, 1919)
+> **Geological range.** upper Frasnian, 375.7, 372.2.
+
+> - **Occurrence.** Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317. Baltica Block.
+> - **Holotype and referred specimens.** See Gross (1932) and Stensiö (1963).
+> - **Referred Specimens.**  See Gross (1932) and Stensiö (1963).
+> - **Diagnosis.** See Gross (1932) and Denison (1978).
+> - **Remark.** This species was established by Jaekel (1919). Gross (1932) followed this assignment and suggested that *Parabelosteus acuticeps* differs from other species of *Belosteus* in the contact between the pineal and rostral plates. Stensiö (1963) subsequently followed this interpretation. Miles (1969) erected the genus *Parabelosteus* to include the species (type species *Belosteus pusillus* Gross; referred, *B. acuticeps* Gross, *B. tuberculatus* Stensio, Belosteus sp., Miles 1966a, Fig. 4) of *Belosteus* and considered it to retain several primitive features, including the loose attachment of the cheek unit to the skull roof, a slender coccosteid-type submarginal plate, and an elongate median dorsal plate. Denison (1978) accepted this assignment.
+> - **Key References.** Gross (1932); Stenisö (1963); Denison (1978).
+
 [*Parabuchanosteus murrumbidgeensis*](https://deepbone.org/public/#/explor?s_id=2430andfunctionId=Deepbone_header_searchResultOpen) (White, 1952)
 > Emsian, 407.6, 393.3
 
