@@ -568,6 +568,15 @@
 > - Gogo Formation, Canning Basin, Australia. -17.75, 125.17
 > - [Gardiner and Miles, 1994](https://academic.oup.com/zoolinnean/article-abstract/112/4/443/2646294); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
+[*Cyrtosteus inflatus*](https://deepbone.cn/public/#/explor?s_id=2245&functionId=Deepbone_header_searchResultOpen) (Könen，1880)
+> **Geological range.** Upper Eifelian to Lower Givetian, 389.6, 386.0.
+
+> - **Occurrence.** Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317.
+> - **Holotype and referred specimens.** See Stensiö (1969).
+> - **Diagnosis.** See Stensiö (1969).
+> - **Remark.** Koenen (1880) established *Coccosteus inflatus*. Subsequently, Gross (1932) considered *Coccosteus inflatus* to belong to Trematosteidae, noting that its small postpineal fenestra, high suborbital plate, and neck joint oriented perpendicular to the main axis indicated a close affinity with *Brachyosteus*. Accordingly, Gross erected the new genus *Cyrtosteus* to accommodate *Coccosteus inflatus*. This assignment was subsequently followed by Stensiö (1969) and Denison (1978).
+> - **Key References.** Stensiö (1969); Denison (1978).
+
 [*Dhanguura johnstoni*](https://deepbone.cn/public/#/explor?s_id=2141&functionId=Deepbone_header_searchResultOpen) Young, 2004
 > Emsian, 407.6, 393.3
 
