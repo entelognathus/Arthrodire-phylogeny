@@ -674,6 +674,15 @@
 > -  Ivanye, Ustechko, and Khmeleva Formation, Podolia, Ukraine.
 > - [Dupret *et al*., 2007](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2007)27%5B266:ANGOPA%5D2.0.CO;2).
 
+[*Erromenosteus inflatus*](https://deepbone.cn/public/#/explor?s_id=3565&functionId=Deepbone_header_searchResultOpen) Stensiö, 1963
+> **Geological range.** upper Frasnian, 375.7, 372.2
+
+> - **Occurrence.** Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
+> - **Holotype and referred specimens.** See Stensiö, 1963.
+> - **Diagnosis.** Nuchal plate triangular, with a strongly pointed anterior margin. Preorbital plates not embaying the central plate. Suborbital plate lacking sensory grooves. Two branches of the posterior pit-line continuous across the central and paranuchal plates.
+> -  **Remarks.** J
+> -  **Key references.** Stensiö, 1963; Denison, 1978.
+
 [*Eskimaspis heintzi*](https://deepbone.cn/public/#/explor?s_id=154182&functionId=Deepbone_header_searchResultOpen) Dineley and Liu 1984
 > upper Lochkovian, 415.0, 410.8
 
