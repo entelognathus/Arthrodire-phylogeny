@@ -544,12 +544,12 @@
 > - [Dennis and Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
 
 [*Camuropiscis laidlawi*](https://deepbone.org/public/#/explor?s_id=2210andfunctionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1979
-> lower Frasnian, 382.7, 379.2
+> **Geological range.** lower Frasnian, 382.7, 379.2
 
-> East Gondwanan
-
-> - Gogo Formation, Canning Basin, Australia. -17.75, 125.17
-> - [Dennis and Miles, 1979](https://academic.oup.com/zoolinnean/article-abstract/67/1/1/2664252); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
+> - **Occurrence.** Gogo Formation, Canning Basin, Australia. -17.75, 125.17
+> - **Holotype and referred specimens.** See Dennis and Miles (1979).
+> - **Diagnosis.** See Dennis and Miles (1979).
+> - **References.** [Dennis and Miles, 1979](https://academic.oup.com/zoolinnean/article-abstract/67/1/1/2664252); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Clarkeosteus halmodeus*](https://deepbone.cn/public/#/explor?s_id=2643&functionId=Deepbone_header_searchResultOpen) (Clarke, 1894)
 > **Geological range.** Upper Eifelian to Lower Givetian, 389.6, 386.0.
@@ -776,7 +776,7 @@
 > **Geological range.** lower Frasnian, 382.7, 379.2
 
 > - **Occurrence.** Gogo Formation, Canning Basin, Australia. -17.75, 125.17
-> - **Holotype.** Western Australian Museum No. 70.4.254 (British Natural History Museum P50914).
+> - **Holotype and referred specimens.** See Miles and Dennis (1979).
 > - **Diagnosis.** See Miles and Dennis (1979).
 > - **Key references.** [Miles and Dennis, 1979](https://academic.oup.com/zoolinnean/article-abstract/66/1/31/2664264); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
@@ -847,12 +847,13 @@
 > - [Dennis and Miles, 1981](https://academic.oup.com/zoolinnean/article-abstract/73/3/213/2658833); [Giles et al., 2013](https://onlinelibrary.wiley.com/doi/full/10.1002/jmor.20119)
 
 [*Incisoscutum sarahae*](https://deepbone.cn/public/#/explor?s_id=2446&functionId=Deepbone_header_searchResultOpen) (Long, 1994)
-> lower Frasnian, 382.7, 379.2
+>  **Geological range.** lower Frasnian, 382.7, 379.2
 
-> East Gondwanan
-
-> - Gogo Formation, Canning Basin, Australia. -17.75, 125.17
-> - [Long, 1994](https://www.tandfonline.com/doi/abs/10.1080/03115518.1994.9638763); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1463-6395.2008.00363.x).
+> - **Occurrence.** Gogo Formation, Canning Basin, Australia. -17.75, 125.17.
+> - **Holotype and referred specimens.** See Long (1994).
+> - **Diagnosis.** See Long (1994).
+> - **Remarks.**
+> - **References.**[Long, 1994](https://www.tandfonline.com/doi/abs/10.1080/03115518.1994.9638763); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1463-6395.2008.00363.x).
 
 [*Janiosteus timanicus*](https://deepbone.cn/public/#/explor?s_id=2441&functionId=Deepbone_header_searchResultOpen) (Obrucheva, 1962)
 > upper Givetian, 384.37, 382.7
@@ -1057,12 +1058,13 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/260808); Stensiö, 1963.
 
 [*Rolfosteus canningensis*](https://deepbone.cn/public/#/explor?s_id=2217&functionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1979b
-> lower Frasnian, 382.7, 379.2
+> **Geological range.** lower Frasnian, 382.7, 379.2
 
-> East Gondwanan
-
-> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
-> - [Dennis and Miles, 1979b](https://academic.oup.com/zoolinnean/article-abstract/67/4/297/2664293); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
+> - **Occurrence.** Gogo Formation; Canning Basin, Australia. -17.75, 125.17.
+> - **Holotype and referred specimens.** See Dennis and Miles (1979b).
+> - **Diagnosis.** See Dennis and Miles (1979b).
+> - **Remarks.** Dennis and Miles (1979b) described two new genera, *Rolfosteus* and *Tubonasus*, and erected the new family Camuropiscidae to include these genera together with *Camuropiscis*. In their discussion, as well as that of Long (1990), *Rolfosteus* and *Tubonasus* were considered sister taxa. Phylogenetic analyses by Carr (1991), Gardiner and Miles (1994), and Trinajstic and Dennis-Bryan (2019) supported this hypothesis. However, in the analyses of Zhu *et al.* (2016) and Xue *et al.* (2025, 2026), *Rolfosteus* was recovered at the base of Camuropiscidae, breaking the sister-group relationship between *Rolfosteus* and *Tubonasus*. The postsuborbital plate of *Tubonasus* contacts with marginal plate to separate the submarginal plate and postsuborbital plate, as in *Fallacosteus*. The similar condition is also present in some Cleveland Shale aspinothoracid arthrodires, such as *Hlavinichthys*, *Gymnotrachelus*, and *Titanichthys*. 
+> - **References.** [Dennis and Miles, 1979b](https://academic.oup.com/zoolinnean/article-abstract/67/4/297/2664293); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Stenosteus angustopectus*](https://deepbone.cn/public/#/explor?s_id=2457&functionId=Deepbone_header_searchResultOpen) Carr, 1996
 > upper Famennian, 363.3, 358.9
@@ -1125,12 +1127,12 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - **Key references.** Gross, 1932; Stensiö, 1963; Denison, 1978.
 
 [*Tubonasus lennardensis*](https://deepbone.cn/public/#/explor?s_id=2219&functionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1979b
-> lower Frasnian, 382.7, 379.2
+> **Geological range.** lower Frasnian, 382.7, 379.2
 
-> East Gondwanan
-
-> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
-> - [Dennis and Miles, 1979b](https://academic.oup.com/zoolinnean/article-abstract/67/4/297/2664293); [Long, 1988b](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=6632199); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
+> - **Occurrence.** Gogo Formation; Canning Basin, Australia. -17.75, 125.17
+> - **Holotype and referred specimens.** See Dennis and Miles, 1979b.
+> - **Diagnosis.** See Dennis and Miles, 1979b.
+> - **References.** [Dennis and Miles, 1979b](https://academic.oup.com/zoolinnean/article-abstract/67/4/297/2664293); [Long, 1988b](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=6632199); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Turrisaspis elektor*](https://deepbone.cn/public/#/explor?s_id=2264&functionId=Deepbone_header_searchResultOpen) Daeschler, Frumes and Mullison, 2003
 > Famennian, 372.2, 358.9
