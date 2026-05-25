@@ -946,12 +946,12 @@
 > - [Ritchie, 2004](https://www.idunn.no/doi/abs/10.18261/9781405169868-2004-05).
 
 [*Pachyosteus bulla*](https://deepbone.cn/public/#/explor?s_id=2254&functionId=Deepbone_header_searchResultOpen) Jaekel, 1903
-> upper Frasnian, 375.7, 372.2
+> **Geological range.** upper Frasnian, 375.7, 372.2
 
-> Baltica
-
-> - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
-> - [Carr and Hlavin](https://academic.oup.com/zoolinnean/article/159/1/195/2608083), 2010; Stensiö, 1963.
+> - **Occurrence.** Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
+> - **Holotype and referred specimens.** See Stensiö, 1963.
+> - **Diagnosis.** See Jaekel, 1903 and Denison, 1978.
+> - **References.** Denison, 1978; [Carr and Hlavin](https://academic.oup.com/zoolinnean/article/159/1/195/2608083), 2010; Stensiö, 1963.
 
 [*Panxiosteus ocullus*](https://deepbone.cn/public/#/explor?s_id=2439&functionId=Deepbone_header_searchResultOpen) Wang, 1979
 > Upper Givetian, 384.4, 382.7
