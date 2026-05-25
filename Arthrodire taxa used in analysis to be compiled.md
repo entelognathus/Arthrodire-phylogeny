@@ -765,12 +765,12 @@
 > - [Carr, 1994]; [Carr and Hlavin](https://academic.oup.com/zoolinnean/article/159/1/195/2608083), 2010; Dunkle and Bungart, 1939.
 
 [*Hadrosteus rapax*](https://deepbone.cn/public/#/explor?s_id=2236&functionId=Deepbone_header_searchResultOpen) Gross, 1932
-> upper Frasnian, 375.7, 372.2
+> **Geological range.** upper Frasnian, 375.7, 372.2
 
-> Baltica
-
-> - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
-> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Stensiö, 1963.
+> - **Occurrence.** Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
+> - **Holotype and referred specimens.** See Stensiö, 1963
+> - **Diagnosis.** See Gross (1932) and Denison (1978).
+> - **References.**[Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Stensiö, 1963.
 
 [*Harrytoombsia elegans*](https://deepbone.cn/public/#/explor?s_id=2443&functionId=Deepbone_header_searchResultOpen) Miles and Dennis, 1979
 > **Geological range.** lower Frasnian, 382.7, 379.2
@@ -778,7 +778,7 @@
 > - **Occurrence.** Gogo Formation, Canning Basin, Australia. -17.75, 125.17
 > - **Holotype and referred specimens.** See Miles and Dennis (1979).
 > - **Diagnosis.** See Miles and Dennis (1979).
-> - **Key references.** [Miles and Dennis, 1979](https://academic.oup.com/zoolinnean/article-abstract/66/1/31/2664264); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
+> - **References.** [Miles and Dennis, 1979](https://academic.oup.com/zoolinnean/article-abstract/66/1/31/2664264); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Heightingtonaspis anglica*](https://deepbone.cn/public/#/explor?s_id=2474&functionId=Deepbone_header_searchResultOpen) (Traquair 1890)
 > Lochkovian to Pragian, 416.0, 407.6
