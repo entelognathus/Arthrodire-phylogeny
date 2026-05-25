@@ -951,6 +951,7 @@
 > - **Occurrence.** Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - **Holotype and referred specimens.** See Stensiö, 1963.
 > - **Diagnosis.** See Jaekel, 1903 and Denison, 1978.
+> - **Remarks.** In Stensiö’s (1963) reconstruction, the cheek complex of *Pachyosteus* is interpreted as comprising three elements: the suborbital plate, a postsuborbital plate (PoP3), and a fused postmarginal–submarginal plate (PoP3). A comparable arrangement may also occur in *Oxyosteus* and *Synauchenia*. Denison (1978) subsequently followed this interpretation. Here, characters associated with the postmarginal and submarginal plates of *Pachyosteus* were coded as unknown (?) owing to uncertainty in their interpretation.
 > - **References.** Denison, 1978; [Carr and Hlavin](https://academic.oup.com/zoolinnean/article/159/1/195/2608083), 2010; Stensiö, 1963.
 
 [*Panxiosteus ocullus*](https://deepbone.cn/public/#/explor?s_id=2439&functionId=Deepbone_header_searchResultOpen) Wang, 1979
