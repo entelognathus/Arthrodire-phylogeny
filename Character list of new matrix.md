@@ -1982,6 +1982,9 @@ separate, this character is scored as 'not applicable'.
 442. Anterior margin of anterior ventrolateral plate: straight (0); concave (1).
 >  In aspinothoracids and *Dunkleosteus*, the anterior margin of anterior ventrolateral plate is concave.
 
+443. Paranuchal anterior tapers: absent (0); present (1).
+>  This character is potentially a synapomorphy of homostiids.
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
