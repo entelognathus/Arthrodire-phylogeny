@@ -610,12 +610,13 @@
 > - Goujet, 1975; Goujet, 1984
 
 [*Dinichthys herzeri*](https://deepbone.cn/public/#/explor?s_id=154201&functionId=Deepbone_header_searchResultOpen) Newberry, 1868
-> upper Famennian, 363.3, 358.9
+> **Geological range.** upper Famennian, 363.3, 358.9
 
-> Laurentia
-
-> - Cleveland Shale Member, Ohio Shale Formation, Ohio, Tennessee, Pennsylvania and California, USA.
-> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
+> - **Occurrence.** Cleveland Shale Member, Ohio Shale Formation, Ohio, Tennessee, Pennsylvania and California, USA.
+> - **Holotype and referred specimens.** See Carr and Hlavin (2010).
+> - **Diagnosis.** See Carr and Hlavin (2010).
+> - **Remarks.** *Dinichthys herzeri* was first established by Newberry (1868) based on an incomplete nuchal plate and mandibular elements (holotype AMNH 81 and paratype AMNH 7300). Subsequently, numerous large eubrachythoraci arthrodires were referred to this genus, including taxa that are now assigned to *Brachygnathus*, *Clarkeosteus*, *Dunkleosteus*, *Eastmanosteus*, *Gorgonichthys*, *Heintzichthys*, *Homostius*, *Hussakofia*, *Plourdosteus*, *Protitanichthys*, *Rhenonema*, and *Titanichthys*. As studies on arthrodire diversity progressed, many of these species were gradually removed from *Dinichthys* and reassigned to their own genera, substantially restricting the taxonomic scope of the genus. Lehman (1956) erected the genus *Dunkleosteus* to accommodate several species previously referred to *Dinichthys*. Following this taxonomic revision, Stensiö (1969) suggested that *Dinichthys* might represent a nomen nudum. However, Hlavin (1973, 1976) rejected this interpretation and argued that *Dinichthys herzeri* constitutes a valid taxon based on the holotype (AMNH 81) and paratype (AMNH 7300), noting that the genus satisfies the requirements of the International Code of Zoological Nomenclature. Denison (1978) similarly did not accept Stensiö’s interpretation and retained *Dinichthys* as a valid genus, although he restricted it to the type species, *Dinichthys herzeri*. Carr and Hlavin (2010) followed the taxonomic treatment of Denison (1978) and retained *Dinichthys* as a valid genus restricted to the type species, *Dinichthys herzeri*. 
+> - **References.**[Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
 
 [*Dunkleosteus amblyodoratus*](https://deepbone.cn/public/#/explor?s_id=2454&functionId=Deepbone_header_searchResultOpen) Carr and Hlavin, 2010
 > Frasnian or Famennian, 382.7, 358.9
