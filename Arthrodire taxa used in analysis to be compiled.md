@@ -652,12 +652,13 @@
 > - The type species of *Eastmanosteus* Obruchev 1964 is *E. pustulosus* (Eastman) 1897. 
 
 [*Eastmanosteus pustulosus*](https://deepbone.org/public/#/explor?s_id=2448&functionId=Deepbone_header_searchResultOpen) Eastman, 1897
-> Upper Givetian, 384.37, 382.7
+>  **Geological range.** Upper Givetian, 384.37, 382.7
 
-> Laurentia
-
-> - Milwaukee Formation, Wisconsin; Cebar Valley limestone, Iowa and Illinois; Mineola Limestone, 
-> - [Miller, 1980](https://www.nhbs.com/handbook-of-paleoichthyology-volume-2-placodermi-book)
+> - **Occurrence.** Milwaukee Formation, Wisconsin; Cebar Valley limestone, Iowa and Illinois; Mineola Limestone.
+> - **Holotype and referred referrences.** See Boylan (1973).
+> - **Diagnosis.** See Boylan (1973).
+> - **Remarks.** Eastman (1898) reconstructed the paired preorbital plates of *Eastmanosteus pustulosus* as meeting posterior to the pineal plate and separating the pineal and central plates, whereas Boylan (1973) interpreted the pineal plate as separating the paired preorbitals. Eastman (1898) further reconstructed the postmarginal sensory groove as extending onto the postmarginal plate and the two branches of the posterior pit line as continuous, whereas Boylan (1973) restricted the postmarginal sensory groove to the marginal plate and reconstructed the posterior pit line branches as separated. We follow the reconstruction of Boylan (1973).
+> - **Key References.** [Miller, 1980](https://www.nhbs.com/handbook-of-paleoichthyology-volume-2-placodermi-book)
  
 [*Elvaspis tuberculata*](https://deepbone.cn/public/#/explor?s_id=2421&functionId=Deepbone_header_searchResultOpen) Young 2009
 > Emsian, 407.6, 393.3
