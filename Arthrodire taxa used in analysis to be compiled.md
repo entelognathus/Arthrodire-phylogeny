@@ -835,10 +835,10 @@
 [*Homostius sulcatus* ](https://deepbone.cn/public/#/explor?s_id=2403&functionId=Deepbone_header_searchResultOpen)Kutorga, 1837
 > > **Geological range.** upper Eifelian, 389.6, 387.7 
 
-> - **Occurrence.** Aruküla beds, Estonia; Middle Old-Red of Scotland, Estonia, and Lativa; middle Devonian in Spitsbergen.
+> - **Occurrence.** Aruküla beds, Estonia.
 > - **Holotype and referred specimens.** See Heintz (1934).
 > - **Diagnosis.** See Heintz (1934) and Denison (1978).
-> - **Remarks.** *Homostius* has been discovered from the Middle Old Red Sandstone of Scotland, Estonia, and Latvia. Heintz (1934) further documented *Homostius material* from the Middle Devonian of Spitsbergen and described several specimens that differ from previously known material in cranial morphology. In particular, the orbital opening occupies a less medial position on the skull roof, suggesting a less advanced stage of orbital migration toward the midline, which Heintz interpreted as a more plesiomorphic condition.
+> - **Remarks.** *Homostius* has been discovered from the Middle Old Red Sandstone of Scotland, Estonia, and Latvia. Heintz (1934) further documented *Homostius arcticus* from the Middle Devonian of Spitsbergen and described several specimens that differ from previously known material in cranial morphology. In particular, the orbital opening occupies a less medial position on the skull roof, suggesting a less advanced stage of orbital migration toward the midline, which Heintz interpreted as a more plesiomorphic condition. The infraorbital sensory groove of *Homostius* differs from that of most other arthrodires in lacking a connection with the supraoral sensory groove. Instead, the two sensory grooves form a V-shaped pattern, with their apices directed toward one another. A similar condition is also present in several Cleveland Shale arthrodires, including *Tianichthys*, *Gymnotrachelus*, and *Tafilalichthys*. However, the condition in the latter differs from that in *Homostius* in that the part of supraoral sensory groove running parallel to the postorbital branch of the infraorbital sensory groove.
 > - **Referrences.** [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); [Heintz, 1934](https://www.digar.ee/arhiiv/en/raamatud/230250); Heintz,1968.
 
 [*Incisoscutum ritchiei*](https://deepbone.org/public/#/explor?s_id=2232andfunctionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1981
