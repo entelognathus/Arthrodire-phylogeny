@@ -833,12 +833,13 @@
 > - Trinajstic (1999) reported the isolated scales from the late Givetian to early Frasnian Gneudna Formation.
 
 [*Homostius sulcatus* ](https://deepbone.cn/public/#/explor?s_id=2403&functionId=Deepbone_header_searchResultOpen)Kutorga, 1837
-> upper Eifelian, 389.6, 387.7 
+> > **Geological range.** upper Eifelian, 389.6, 387.7 
 
-> Baltica
-
-> - Aruküla beds, Estonia.
-> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); [Heintz, 1934](https://www.digar.ee/arhiiv/en/raamatud/230250); Heintz,1968.
+> - **Occurrence.** Aruküla beds, Estonia; Middle Old-Red of Scotland, Estonia, and Lativa; middle Devonian in Spitsbergen.
+> - **Holotype and referred specimens.** See Heintz (1934).
+> - **Diagnosis.** See Heintz (1934) and Denison (1978).
+> - **Remarks.** *Homostius* has been discovered from the Middle Old Red Sandstone of Scotland, Estonia, and Latvia. Heintz (1934) further documented *Homostius material* from the Middle Devonian of Spitsbergen and described several specimens that differ from previously known material in cranial morphology. In particular, the orbital opening occupies a less medial position on the skull roof, suggesting a less advanced stage of orbital migration toward the midline, which Heintz interpreted as a more plesiomorphic condition.
+> - **Referrences.** [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); [Heintz, 1934](https://www.digar.ee/arhiiv/en/raamatud/230250); Heintz,1968.
 
 [*Incisoscutum ritchiei*](https://deepbone.org/public/#/explor?s_id=2232andfunctionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1981
 > lower Frasnian, 382.7, 379.2
