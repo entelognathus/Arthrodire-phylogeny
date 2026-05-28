@@ -832,13 +832,15 @@
 > - [Miles, 1971](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1971.0111)； [Trinajstic, 1999](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1999n1a4.pdf).
 > - Trinajstic (1999) reported the isolated scales from the late Givetian to early Frasnian Gneudna Formation.
 
-[*Homostius sulcatus* ](https://deepbone.cn/public/#/explor?s_id=2403&functionId=Deepbone_header_searchResultOpen)Kutorga, 1837
+[*Homostius sulcatus* ](https://deepbone.cn/public/#/explor?s_id=2403&functionId=Deepbone_header_searchResultOpen) (Kutorga, 1837)
 > > **Geological range.** upper Eifelian, 389.6, 387.7 
 
 > - **Occurrence.** Aruküla beds, Estonia.
 > - **Holotype and referred specimens.** See Heintz (1934).
 > - **Diagnosis.** See Heintz (1934) and Denison (1978).
-> - **Remarks.** *Homostius* has been discovered from the Middle Old Red Sandstone of Scotland, Estonia, and Latvia. Heintz (1934) further documented *Homostius arcticus* from the Middle Devonian of Spitsbergen and described several specimens that differ from previously known material in cranial morphology. In particular, the orbital opening occupies a less medial position on the skull roof, suggesting a less advanced stage of orbital migration toward the midline, which Heintz interpreted as a more plesiomorphic condition. The infraorbital sensory groove of *Homostius* differs from that of most other arthrodires in lacking a connection with the supraoral sensory groove. Instead, the two sensory grooves form a V-shaped pattern, with their apices directed toward one another. A similar condition is also present in several Cleveland Shale arthrodires, including *Tianichthys*, *Gymnotrachelus*, and *Tafilalichthys*. However, the condition in the latter differs from that in *Homostius* in that the part of supraoral sensory groove running parallel to the postorbital branch of the infraorbital sensory groove.
+> - **Remarks.** *Homostius* was initially misidentified as a reptilian taxon by Kutorga (1835, 1837), and later regarded as a member of *Asterolepis* by Agassiz (1844), an interpretation subsequently followed by Miller (1849) for Scottish material. Asmuss (1856) established the genus *Homostius*, although he incorrectly reconstructed the head shield as part of the caudal region. Pander (1857) later recognized its close similarity to arthrodires, particularly *Coccosteus*, and corrected earlier interpretations of the armour arrangement. Subsequent reserach proposed varying phylogenetic affinities for *Homostius*, including a transitional form between antiarchs and arthrodires (Jaekel, 1903; Hussakof, 1906), an intermediate between Macropetalichthys and arthrodires (Dean, 1900, 1901), or a form approaching both Phlyctenaspis and Macropetalichthys (Stensiö, 1925). More detailed anatomical comparisons by Traquair (1889) firmly supported its arthrodire affinities. Heintz (1934) 
+
+*Homostius* has been discovered from the Middle Old Red Sandstone of Scotland, Estonia, and Latvia. Heintz (1934) further documented *Homostius arcticus* from the Middle Devonian of Spitsbergen and described several specimens that differ from previously known material in cranial morphology. In particular, the orbital opening occupies a less medial position on the skull roof, suggesting a less advanced stage of orbital migration toward the midline, which Heintz interpreted as a more plesiomorphic condition. The infraorbital sensory groove of *Homostius* differs from that of most other arthrodires in lacking a connection with the supraoral sensory groove. Instead, the two sensory grooves form a V-shaped pattern, with their apices directed toward one another. A similar condition is also present in several Cleveland Shale arthrodires, including *Tianichthys*, *Gymnotrachelus*, and *Tafilalichthys*. However, the condition in the latter differs from that in *Homostius* in that the part of supraoral sensory groove running parallel to the postorbital branch of the infraorbital sensory groove.
 > - **Referrences.** [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); [Heintz, 1934](https://www.digar.ee/arhiiv/en/raamatud/230250); Heintz,1968.
 
 [*Incisoscutum ritchiei*](https://deepbone.org/public/#/explor?s_id=2232andfunctionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1981
@@ -1171,11 +1173,12 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - [Ritchie 1973](https://www.schweizerbart.de/papers/pala/detail/A143/70796/iWuttagoonaspis_i_gen_nov_an_unusual_arthrodire_from_the_Devonian_of_Western_New_South_Wales_Australia?l=FR); [Young and Goujet 2003](https://museum.wa.gov.au/research/records-supplements/records/devonian-fish-remains-dulcie-sandstone-and-cravens-peak-beds-ge)
 
 [*Xiangshuiosteus wui*](https://deepbone.cn/public/#/explor?s_id=2433&functionId=Deepbone_header_searchResultOpen) Wang, 1992
-> upper Emsian, 400.45, 393.3
+>  **Geological range.** upper Emsian, 400.45, 393.3
 
-> South China
-
-> - Jiucheng Formation, Wuding, Yunnan, China
+> - **Occurrence.** Jiucheng Formation, Wuding, Yunnan, China.
+> - **Holotype.** IVPP V9758, a near-complete skull roof external mould.
+> - **Diagnosis.** See Wang (1992).
+> - **Remarks.** In the reconstruction of Wang (1992), the two branches of the posterior pit line are reconstructed as continuous. However, our examination of the specimen suggests that these branches are separate and do not form a continuous groove. Wang (1992) also interpreted the dermal preorbital process as absent and the anterior portion of the external mould of the preorbital plate is distinctly dorsally upturned, implying the presence of an anterior descending lamina of the preorbital plate. The pineal open of *Xiangshuiosteus* is large, a distinct condition in arthrodires.
 > - [Wang, 1992](https://www.vertpala.ac.cn/EN/abstract/abstract544.shtml)
 
 [*Xiantingosteus gracilis*]() 
