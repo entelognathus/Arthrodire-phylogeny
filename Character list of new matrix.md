@@ -1990,6 +1990,9 @@ separate, this character is scored as 'not applicable'.
 
 445.  Postbranchial crest on the visceral surface of anterolateral plate (cr.pt.br in Lelièvre, 1984): absent (0); present (1).
 
+456.  Marginal plate enlongate: absent (0); present (1).
+>  Lelièvre (1984) suggested that elongation of the occipital region of the skull roof in homosteids is correlated with elongation of the nuchal, paranuchal, and marginal plates.
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
