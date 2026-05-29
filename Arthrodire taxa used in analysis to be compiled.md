@@ -431,7 +431,7 @@
 > -  **Occurrence.** Polygnathus laticostatus Zone, at the base of the Sellanarcestes wenckenbachi bed. Morocco.
 > -  **Holotype and referred specimens.** See Lelièvre (1984)
 > -  **Diagnosis.** See Lelièvre (1984)
-> -  **Remarks.** In the diagnosis of *Antinosteus* proposed by Lelièvre (1984), the pineal plate bears a lateral process. A similar condition is also observed in *Homostius* and *Xiangshuiosteus*, the latter of which was described by Wang (1992) as possessing a buddhist-cap shaped pineal plate.
+> -  **Remarks.** In the diagnosis of *Antinosteus* proposed by Lelièvre (1984), the pineal plate bears a lateral process. A similar condition is also observed in *Homostius* and *Xiangshuiosteus*, the latter of which was described by Wang (1992) as possessing a buddhist-cap shaped pineal plate. Lelièvre (1984) regarded hereosteids as closely associated with homosteids based on their shared benthic adaptations, including the loss of the posterior ventrolateral plate, an open pectoral fenestra, and a dorsoventrally flattened body. 
 > -  **References.** Lelièvre, 1984; [Lelièvre, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173046).
 
 [*Arctolepis decipiens*](https://deepbone.cn/public/#/explor?s_id=2543&functionId=Deepbone_header_searchResultOpen) （Woodward,1891）
