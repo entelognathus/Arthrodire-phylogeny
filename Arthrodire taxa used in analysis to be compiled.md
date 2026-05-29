@@ -426,11 +426,12 @@
 > - [White, 1968].
 
 [*Antineosteus lehmani*](https://deepbone.cn/public/#/explor?s_id=2405&functionId=Deepbone_header_searchResultOpen) Lelièvre, 1984
-> upper Emsian, 400.45, 393.3
+> **Geological range.** upper Emsian, 400.45, 393.3
 
-> NW Gondwana
-
-> - Morocco. 
+> -  **Occurrence.** Polygnathus laticostatus Zone, at the base of the Sellanarcestes wenckenbachi bed. Morocco.
+> -  **Holotype and referred specimens.** See Lelièvre (1984)
+> -  **Diagnosis.** See Lelièvre (1984)
+> -  **Remarks.** In the diagnosis of *Antinosteus* proposed by Lelièvre (1984), the pineal plate bears a lateral process. A similar condition is also observed in *Homostius* and *Xiangshuiosteus*, the latter of which was described by Wang (1992) as possessing a buddhist-cap shaped pineal plate.
 > - Lelièvre, 1984; [Lelièvre, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173046).
 
 [*Arctolepis decipiens*](https://deepbone.cn/public/#/explor?s_id=2543&functionId=Deepbone_header_searchResultOpen) （Woodward,1891）
