@@ -1996,6 +1996,9 @@ separate, this character is scored as 'not applicable'.
 457.  Posterior margin of anterior ventrolateral plate: convex (0); straight (1).
 Lelièvre (1984) suggested that the monophyly of homosteids is supported by characters: a short trunk armor, characterized by a short and broad median dorsal plate and an anterior ventrolateral plate with a straight posterior margin (reflecting the absence of a posterior ventrolateral plate); a skull roof possessing elongate nuchal, paranuchal, and marginal plates (character 6, fig. 19).
 
+458.  The position of the junction between postmarginal and main lateral sensory grooves: normal, located in the central region of marginal plate (0); posteriorly, close to the posterior margin of marginal plate (1).
+>  This character is potentially a synapomorphy of homostiids.
+  
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
