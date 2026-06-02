@@ -587,12 +587,13 @@
 > - **Key References.** Stensiö (1969); Denison (1978).
 
 [*Dhanguura johnstoni*](https://deepbone.cn/public/#/explor?s_id=2141&functionId=Deepbone_header_searchResultOpen) Young, 2004
-> Emsian, 407.6, 393.3
+> **Geological range.** Emsian, 407.6, 393.3
 
-> East Gondwanan
-
-> - Murrumbidgee Group, Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales, Australia.
-> - [Young, 2004](https://www.tandfonline.com/doi/abs/10.1671/1942-1).
+> - **Occurrence.** Murrumbidgee Group, Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales, Australia.
+> - **Holotype.** See Young (2004).
+> - **Diagnosis.** See Young (2004).
+> - **Remarks.** oung (2004) established *Dhanguura* based on an incomplete skull roof lacking its posterior margin and referred it to Homosteidae. Subsequent phylogenetic analyses have yielded conflicting results. Zhu et al. (2016) recovered *Dhanguura* as a basally branching brachythoracid outside Homosteidae, a placement also supported by the parsimony analyses of Xue et al. (2025, 2026). In contrast, the Bayesian analyses of Xue et al. (2025, 2026) recovered *Dhanguura* within a monophyletic Homosteidae. 
+> - **Reference.**[Young, 2004](https://www.tandfonline.com/doi/abs/10.1671/1942-1).
 
 [*Dickosteus threiplandi*](https://deepbone.cn/public/#/explor?s_id=2650&functionId=Deepbone_header_searchResultOpen) Miles and Westoll, 1963
 > lower Givetian, 387.7, 386.0
