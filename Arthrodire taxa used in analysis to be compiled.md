@@ -719,13 +719,14 @@
 > - Xitun Formation; Qujing, Yunnan, China.
 > - [Dupret and Zhu, 2008](https://pubs.geoscienceworld.org/geolmag/article-abstract/145/2/257/65693/The-earliest-phyllolepid-Placodermi-Arthrodira?redirectedFrom=fulltext)
 
-[*Gemuendenaspis angusta*](https://deepbone.cn/public/#/explor?s_id=2431&functionId=Deepbone_header_searchResultOpen) Traquair, 1903
-> upper Pragian to lower Emsian, 409.2, 400.45
+[*Gemuendenaspis angusta*](https://deepbone.cn/public/#/explor?s_id=2431&functionId=Deepbone_header_searchResultOpen) (Traquair, 1903)
+> **Geological range.** upper Pragian to lower Emsian, 409.2, 400.45
 
-> Baltica
-
-> - Hunsrückschiefer (Hunsrück Slate); Rheinland, Germany
-> - [Miles, 1962](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/iiigemuendenaspis-ngen-an-arthrodiran-fish-from-the-lower-devonian-hunsruckschiefer-of-germany/F800022C1E162184463F969DDEE6B313).
+> - **Occurrence.** Hunsrückschiefer (Hunsrück Slate); Rheinland, Germany.
+> - **Holotype.** See Miles (1962)
+> - **Diagnosis.**
+> - **Remarks.** This taxon was first described by Traquair (1903), who assigned it to *Coccosteus* as *Coccosteus angustus*. Gross (1933) subsequently noted that, although the skull roof described by Traquair was *coccosteid* in form, the trunk shield exhibited several features characteristic of “acanthaspids” (arctolepids). Accordingly, he assigned this species to *Phlyctaenaspis* as *Phlyctaenaspis? angusta* and suggested that it might be conspecific with *Phlyctaenaspis germanica*. Denison (1958) argued that the species could not be referred to either *Coccosteus* or *Phlyctaenaspis* and should instead be assigned to a new genus. Miles (1962) subsequently redescribed the material and erected the genus *Gemuendenaspis* to accommodate this species.
+> - **Reference.**[Miles, 1962](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/iiigemuendenaspis-ngen-an-arthrodiran-fish-from-the-lower-devonian-hunsruckschiefer-of-germany/F800022C1E162184463F969DDEE6B313).
 
 [*Golshanichthys asiatica*](https://deepbone.cn/public/#/explor?s_id=2450&functionId=Deepbone_header_searchResultOpen) Lelièvre, Janvier and Goujet, 1981
 > lower Frasnian, 382.7, 379.2
