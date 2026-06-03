@@ -529,12 +529,13 @@
 > - [Bryant, 1932](https://www.jstor.org/stable/984700); Denison, 1962
 
 [*Buchanosteus confertituberculatus*](https://deepbone.org/public/#/explor?s_id=2426andfunctionId=Deepbone_header_searchResultOpen) (Chapman, 1916)
-> Emsian, 407.6, 393.3
+> **Geological range.** Emsian, 407.6, 393.3
 
-> East Gondwanan
-
-> - Murrumbidgee Group,Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales; Buchan, Victoria, Australia. 
-> - [Burrow and Turner, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011097); [Long et al., 2014](https://www.publish.csiro.au/zo/zo13081)
+> - **Occurrence.** Murrumbidgee Group,Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales; Buchan, Victoria, Australia.
+> - **Holotype and referred specimens.** See Long *et al.* (2014).
+> - **Diagnosis.** See Long *et al.* (2014).
+> - **Remarks.** Chapman (1916) initially assigned a specimen from the Buchan region of Australia to the genus *Phlyctaenaspis*, naming it *Phlyctaenaspis australis var. confertituberculata*. Hill (1936) re‑examined Chapman’s (1916) material and transferred it to the genus *Coccosteus*, creating the name *Coccosteus osseus*. Stensiö (1945) formally established the genus *Buchanosteus* and placed Hill’s *Coccosteus osseus* into this genus as *Buchanosteus osseus*. White & Toombs (1972), following the requirements of zoological nomenclature, rejected the specific name *osseus* and reinstated the name *confertituberculata*. Since then, *Buchanosteus confertituberculata* has been widely accepted (Young, 1979; Long, 1984, 1991, 2014; Burrow & Turner, 1998, 1999).
+> - **References.**[Burrow and Turner, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011097); [Long et al., 2014](https://www.publish.csiro.au/zo/zo13081)
 
 [*Bullerichthys fascidens*](https://deepbone.org/public/#/explor?s_id=2223andfunctionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1980
 > lower Frasnian, 382.7, 379.2
@@ -696,12 +697,14 @@
 > - [Dineley and Liu 1984](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=8980227).
 
 [*Exutaspis megista*](https://deepbone.cn/public/#/explor?s_id=3286&functionId=Deepbone_header_searchResultOpen) Liu and Wang, 1981
-> upper Emsian, 400.45, 393.3
+> **Geological range.** upper Emsian, 400.45, 393.3
 
-> South China
-
-> - Jiucheng Formation; Wuding, Yunnan, China
-> - Liu and Wang, 1981.
+> - **Occurrence.** Jiucheng Formation; Wuding, Yunnan, China.
+> - **Holotype.** IVPP V6212, a near-complete internal mould of the skull roof without the nasal capsule, deformed on the left side.
+> - **Referred specimens.** IVPP V15043, a near-complete internal mould of the skull roof without the nasal capsule.
+> - **Diagnosis.** Large buchanosteoid arthrodire with a strongly convex posterior margin; posterolateral corners positioned at the middle of the skull roof longitudinally; pineal or rostropineal plate anterior to the orbit; anterolateral corner of the preorbital plate forming the anterior margin of orbit; inframarginal cristae prominent; anterior postorbital process of the neurocranium developed and elongated; occipital section of the neurocranium narrow.
+> - **Remarks.** Y.-H. Liu and Wang (1981) originally identified the postnasal plate as being fused with the preorbital plate, forming the anterior margin of the orbit. Xue *et al.* (2025) suggested that the postnasal plate is not preserved, and the anterior margin of the orbit is instead formed by the anterolateral corner of the preorbital plate. *Exutaspis* was originally assigned to Phlyctaeniidae because of the convex posterior margin of the skull roof, separated rostral capsule, and ginglymoid articulation. However, all these features can also be found in brachythoracids. Xue *et al.* (2025)'s reassessment shows that *Exutaspis* displays some characters commonly seen in brachythoracids, such as the elongated nuchal and paranuchal plates, the presence of the lateral consolidated arch, and developed nuchal thickening. *Exutaspis* further resembles buchanosteoids in the short and broad preorbital plate and separate rostral capsule. Among buchanosteoids, *Exutaspis* is similar to *Goodradigbeeon* in the pineal or rostropineal plate being anterior to the orbit, and the anterolateral corner of the preorbital plate forming the anterior margin of orbit. The phylogenetic analyses of Xue *et al.* futher supported this assignment.
+> - **References.** Liu and Wang (1981); Xue *et al.* (2025).
 
 [*Fallocosteus turneri*](https://deepbone.cn/public/#/explor?s_id=172089&functionId=Deepbone_header_searchResultOpen) Long, 1990
 > lower Frasnian, 382.7, 379.2
@@ -723,9 +726,9 @@
 > **Geological range.** upper Pragian to lower Emsian, 409.2, 400.45
 
 > - **Occurrence.** Hunsrückschiefer (Hunsrück Slate); Rheinland, Germany.
-> - **Holotype.** See Miles (1962)
-> - **Diagnosis.**
-> - **Remarks.** This taxon was first described by Traquair (1903), who assigned it to *Coccosteus* as *Coccosteus angustus*. Gross (1933) subsequently noted that, although the skull roof described by Traquair was *coccosteid* in form, the trunk shield exhibited several features characteristic of “acanthaspids” (arctolepids). Accordingly, he assigned this species to *Phlyctaenaspis* as *Phlyctaenaspis? angusta* and suggested that it might be conspecific with *Phlyctaenaspis germanica*. Denison (1958) argued that the species could not be referred to either *Coccosteus* or *Phlyctaenaspis* and should instead be assigned to a new genus. Miles (1962) subsequently redescribed the material and erected the genus *Gemuendenaspis* to accommodate this species. Miles (1962) suggested that *Gemuendenaspis* occupies an intermediate position between arctolepids and brachythoracids, exhibiting a mosaic of characters from both groups, and consequently established the family Gemuendenaspidae to the genus.
+> - **Holotype.** See Miles (1962).
+> - **Diagnosis.** See Miles (1962).
+> - **Remarks.** This taxon was first described by Traquair (1903), who assigned it to *Coccosteus* as *Coccosteus angustus*. Gross (1933) subsequently noted that, although the skull roof described by Traquair was *coccosteid* in form, the trunk shield exhibited several features characteristic of “acanthaspids” (arctolepids). Accordingly, he assigned this species to *Phlyctaenaspis* as *Phlyctaenaspis? angusta* and suggested that it might be conspecific with *Phlyctaenaspis germanica*. Denison (1958) argued that the species could not be referred to either *Coccosteus* or *Phlyctaenaspis* and should instead be assigned to a new genus. Miles (1962) subsequently redescribed the material and erected the genus *Gemuendenaspis* to accommodate this species. Miles (1962) suggested that *Gemuendenaspis* occupies an intermediate position between arctolepids and brachythoracids, exhibiting a mosaic of characters from both groups, and consequently established the family Gemuendenaspidae to the genus. Denison (1978) retained Gemuendenaspidae and placed it within the suborder Coccosteina, whereas Denison (1984) subsequently referred the family to the superfamily Coccosteoidea. Zhu et al. (2016) were the first to include this taxon in a phylogenetic analysis. Their results recovered *Gemuendenaspis* as a basally branching brachythoracid, positioned only slightly more stemward than *Xiangshuiosteus*.  In the parsimony analysis of Xue *et al.* (2025), *Gemuendenaspis* is nested as the sister taxon of eubrachythoracids. In contrast, the Bayesian analysis recovered it in a polytomy with Buchanosteoidea and Homosteidae. Similarly, in Xue et al. (2026), *Gemuendenaspis* was recovered within a basal brachythoracid polytomy.
 > - **Reference.**[Miles, 1962](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/iiigemuendenaspis-ngen-an-arthrodiran-fish-from-the-lower-devonian-hunsruckschiefer-of-germany/F800022C1E162184463F969DDEE6B313).
 
 [*Golshanichthys asiatica*](https://deepbone.cn/public/#/explor?s_id=2450&functionId=Deepbone_header_searchResultOpen) Lelièvre, Janvier and Goujet, 1981
@@ -737,12 +740,13 @@
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); [Lelièvre, Janvier and Goujet, 1981](https://www.sciencedirect.com/science/article/abs/pii/S0016699581801489)（）.
 
 [*Goodradigbeeon australianum*](https://deepbone.cn/public/#/explor?s_id=2428&functionId=Deepbone_header_searchResultOpen) White, 1978
-> Emsian, 407.6, 393.3
+> **Geological range.** Emsian, 407.6, 393.3
 
-> East Gondwanan
-
-> - Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales, Australia.
-> - [White, 1978](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/j.1096-3642.1978.tb00374.x).
+> - **Occurrence.** Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales, Australia.
+> - **Holotype and referred specimens.** See White (1978).
+> - **Diagnosis.** See White (1978).
+> - **Remarks.** White (1978) established the genus *Goodradigbeeon* and erected the family Goodradigbeeonidae to include only this genus. He further assigned this family to the order Migmatocephala, a group defined to encompass taxa that exhibit a mosaic of arctolepids, brachythoracids, and pachyosteomorphs features, such as the Buchanosteidae.
+> - **References** [White, 1978](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/j.1096-3642.1978.tb00374.x).
 
 [*Gorgonichthys clarki*](https://deepbone.cn/public/#/explor?s_id=2271&functionId=Deepbone_header_searchResultOpen) Claypole, 1892
 > upper Famennian, 363.3, 358.9
@@ -980,12 +984,13 @@
 > - **Key References.** Gross (1932); Stenisö (1963); Denison (1978).
 
 [*Parabuchanosteus murrumbidgeensis*](https://deepbone.org/public/#/explor?s_id=2430andfunctionId=Deepbone_header_searchResultOpen) (White, 1952)
-> Emsian, 407.6, 393.3
+>  **Geological range.**Emsian, 407.6, 393.3
 
-> East Gondwanan
-
-> - Murrumbidgee Group, Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales, Australia.
-> - White and Toombs, 1972; [Young, 1979](https://academic.oup.com/zoolinnean/article-abstract/66/4/309/2664249)
+> - **Occurrence.** Murrumbidgee Group, Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales, Australia.
+> - **Holotype and referrences.** See White and Toombs (1972); Young (1979).
+> - **Diagnosis.** See Young (1979).
+> - **Remark.** 
+> - **Key References.** White and Toombs, 1972; [Young, 1979](https://academic.oup.com/zoolinnean/article-abstract/66/4/309/2664249)
 
 [*Paramylostoma arcualis*](https://deepbone.cn/public/#/explor?s_id=3575&functionId=Deepbone_header_searchResultOpen) Dunkle and Bungart, 1945
 > **Geological range.** Upper Famennian, 363.3, 358.9.
