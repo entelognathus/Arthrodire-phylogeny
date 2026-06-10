@@ -1463,8 +1463,9 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 302.  Position of foramen for hyomandibular branch of facial nerve in relation to anterior postorbital process: foramen in distal part of the anterior postorbital process (0); foramen in proximoposterior position (1).
 > Dupret *et al*. (2009), Character 2; Dupret *et al*. (2017), Character 2; Zhu *et al*. (2010), Character 2; Xue *et al*. (2025), Character 169.
 
-303.  Neurocranial basal process: absent (0); present (1).
-> Dupret *et al*. (2009), Character 4; Dupret *et al*. (2017), Character 4; Zhu *et al*. (2010), Character 4; Xue *et al*. (2025), Character 171.
+303.  Neurocranial basitrabecular process: absent (0); present (1).
+> Modified by Dupret *et al*. (2009), Character 4; Dupret *et al*. (2017), Character 4; Zhu *et al*. (2010), Character 4; Xue *et al*. (2025), Character 171.
+> - Dupret et al. (2009) referred to this structure as the basal process. Here, we follow the more widely used term basitrabecular process instead of the terminology proposed by Dupret et al. (2009).
 
 304.  Shape of the supravagal process of the neurocranium, indicated by the impression of the channel left by the supravagal process on the visceral surface of the skull roof when the neurocranium is not preserved: near right angled (0); developed laterally to form an acute angle (1).
 > Zhu Y *et al*. (2016), Character 114; Xue *et al*. (2025), Character 167.
@@ -2010,12 +2011,15 @@ Lelièvre (1984) suggested that the monophyly of homosteids is supported by char
 >  - The posterior median ventral plate overlaps anterior is present in *Phlyctaenius* and *Dicksonosteus*. Goujet (1973):On the plastron (fig. 5 B), the anterior (AMV) and posterior (PMV) median ventral plates are broad; they separate the long anterior ventrolateral plates (AVL). It is rather difficult to compare them to those of Arctolepis in so far as, in the latter, only the internal sutures have been described. Compared to *Phlyctaenius* (see HEINTZ, 1933, fig. 6), the external surface of the median ventral plates is slightly wider, but, as in that genus, the posterior one overlaps the anterior one.
 
 463. Converge keels on the ventrolateral plate: absent (0); present (1).
->  - This characters is present in some Phlyctaeniids, such as *Dicksonosteus*, *Heintzosteus*, and *Arctolepis*.
+>  - This characters is present in some phlyctaeniids, such as *Dicksonosteus*, *Heintzosteus*, and *Arctolepis*.
 
 464. Dorsal articular lamina of skull roof: absent (0); present (1).
 
 465. Thoracic articular pit on the trunk armour: absent (0); present (1).
 > -The dorsal articular lamina inserts into the thoracic articular pit at the ginglymoid articulation, a condition known only in phlyctaeniids. Goujet (1973) suggested that this morphology would have made movements between the skull and trunk armour more difficult.
+
+466. Dorsal occipital process: absent (0); present (1).
+>  - This characters, correponding to the paired pit on the visceral surface of skull roof, is widely present in some phlyctaeniids and brachythoracids. 
 
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
