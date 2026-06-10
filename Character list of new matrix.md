@@ -2006,6 +2006,9 @@ Lelièvre (1984) suggested that the monophyly of homosteids is supported by char
 
 461. Attachment of adductir mandibulae muscle: to the palatoquadrate (0); to the suborbital plate (1).
 
+462. Overlaping relationship of anterior and posterior median ventral plate: anterior one overlaps posterior one (0); posterior one overlap anterior one (1).
+>  - The posterior median ventral plate overlaps anterior is present in *Phlyctaenius* and *Dicksonosteus*. Goujet (1973):On the plastron (fig. 5 B), the anterior (AMV) and posterior (PMV) median ventral plates are broad; they separate the long anterior ventrolateral plates (AVL). It is rather difficult to compare them to those of Arctolepis in so far as, in the latter, only the internal sutures have been described. Compared to Phlyctaenius (see HEINTZ, 1933, fig. 6), the external surface of the median ventral plates is slightly wider, but, as in that genus, the posterior one overlaps the anterior one.
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
