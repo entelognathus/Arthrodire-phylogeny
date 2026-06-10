@@ -2004,6 +2004,7 @@ Lelièvre (1984) suggested that the monophyly of homosteids is supported by char
 
 460. Articular area for orbital process of palatoquadrate: on the ventral surface of endocranium (0); on the lateral surface of endocranium (1).
 
+461. Attachment of adductir mandibulae muscle: to the palatoquadrate (0); to the suborbital plate (1).
 
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
