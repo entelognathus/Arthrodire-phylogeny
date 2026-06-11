@@ -2021,6 +2021,9 @@ Lelièvre (1984) suggested that the monophyly of homosteids is supported by char
 466. Dorsal occipital process: absent (0); present (1).
 >  - This characters, correponding to the paired pit on the visceral surface of skull roof, is widely present in some phlyctaeniids and brachythoracids. 
 
+467. Postorbital processes appear narrow ventrally: absent (0); present (1).
+>  -In ventral view, the anterior and posterior postorbital processes are expressed as narrow, dorsoventrally high crests, contrasting with their broader appearance in dorsal view. Goujet (1984) observed that this morphology produces a T-shaped cross-section and regarded it as a potential synapomorphy of phlyctaeniids.
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
