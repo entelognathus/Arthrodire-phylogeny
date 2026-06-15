@@ -1996,7 +1996,7 @@ separate, this character is scored as 'not applicable'.
 >  Lelièvre (1984) suggested that elongation of the occipital region of the skull roof in homosteids is correlated with elongation of the nuchal, paranuchal, and marginal plates.
 
 457.  Posterior margin of anterior ventrolateral plate: convex (0); straight (1).
-Lelièvre (1984) suggested that the monophyly of homosteids is supported by characters: a short trunk armor, characterized by a short and broad median dorsal plate and an anterior ventrolateral plate with a straight posterior margin (reflecting the absence of a posterior ventrolateral plate); a skull roof possessing elongate nuchal, paranuchal, and marginal plates (character 6, fig. 19).
+>  Lelièvre (1984) suggested that the monophyly of homosteids is supported by characters: a short trunk armor, characterized by a short and broad median dorsal plate and an anterior ventrolateral plate with a straight posterior margin (reflecting the absence of a posterior ventrolateral plate); a skull roof possessing elongate nuchal, paranuchal, and marginal plates (character 6, fig. 19).
 
 458.  The position of the junction between postmarginal and main lateral sensory grooves: normal, located in the central region of marginal plate (0); posteriorly, close to the posterior margin of marginal plate (1).
 >  This character is potentially a synapomorphy of homostiids.
@@ -2039,6 +2039,8 @@ Lelièvre (1984) suggested that the monophyly of homosteids is supported by char
 ** Rectus muscles: in separate groups (0); in a combined group (1).
 >  - Goujet (1984): These observations show that, overall, the orbit of *Dicksonosteus* and that of *Kujdanowiaspis* have an undeniable elasmobranch character. It differs, however, from that of living representatives of this group, among other things by the very anterior position of the eye stalk and by the presence of well-developed myodomes. Moreover, it is noted that the rectus muscles form two very separate groups: an anterior group, innervated by the common oculomotor nerve (III), attaches around the eye stalk; the external rectus, innervated by the external oculomotor nerve (VI), is, on the contrary, well detached and very posterior. This arrangement is likely a primitive trait.
 
+** Position of articular facet of the hyomandibula: posterior to the exit foramen of the hyoidean-mandibular nerve VII (0); anterior to (1).
+>  - Goujet (1984): In *Dicksonosteus*, articular facet of the hyomandibula is positioned anterior to the exit foramen of the hyoidean-mandibular nerve VII, as in *Jagorina* (Stensiö 1950, 1969) and *Buchanosteus* (White & Toombs 1972, fig. 4, Pl. 4), whereas it is posterior to this foramen in *Kujdanowiaspis*, *Lehmanosteus* and probably also *Romundina*.
 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
