@@ -2036,6 +2036,10 @@ Lelièvre (1984) suggested that the monophyly of homosteids is supported by char
 ** Eye stalk: little detached from the orbital wall (0); detached from the orbital wall (1).
 >  - Goujet (1984) It will be noted, however, that the distal facet of this eye stalk is very little detached from the orbital wall. In this respect, *Kujdanowiaspis* would therefore resemble *Romundina* (see Ørvig 1975, Pl. 2, fig. 2-3) rather than *Dicksonosteus*. 
 
+** Rectus muscles: in separate groups (0); in a combined group (1).
+>  - Goujet (1984): These observations show that, overall, the orbit of *Dicksonosteus* and that of *Kujdanowiaspis* have an undeniable elasmobranch character. It differs, however, from that of living representatives of this group, among other things by the very anterior position of the eye stalk and by the presence of well-developed myodomes. Moreover, it is noted that the rectus muscles form two very separate groups: an anterior group, innervated by the common oculomotor nerve (III), attaches around the eye stalk; the external rectus, innervated by the external oculomotor nerve (VI), is, on the contrary, well detached and very posterior. This arrangement is likely a primitive trait.
+
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
