@@ -2032,6 +2032,10 @@ Lelièvre (1984) suggested that the monophyly of homosteids is supported by char
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*. The similar postion of vagus is also present in rhenanids.
 
 ** The numbers of spino-occipital nerves are various in different placoderm clades. Basally branching arthrodires, such as *Kujdanowiaspis*, possess three  spino-occipital nerves. Pachyosteomorph arthrodires, only known in leiosteids, have six to nine spino-occipital nerves. In rhenanids, there existed four or five spino-occipital nerves (Stensio, 1963). 
+
+** Eye stalk: little detached from the orbital wall (0); detached from the orbital wall (1).
+>  - Goujet (1984) It will be noted, however, that the distal facet of this eye stalk is very little detached from the orbital wall. In this respect, *Kujdanowiaspis* would therefore resemble *Romundina* (see Ørvig 1975, Pl. 2, fig. 2-3) rather than *Dicksonosteus*. 
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
