@@ -2042,6 +2042,8 @@ separate, this character is scored as 'not applicable'.
 ** Position of articular facet of the hyomandibula: posterior to the exit foramen of the hyoidean-mandibular nerve VII (0); anterior to (1).
 >  - Goujet (1984): In *Dicksonosteus*, articular facet of the hyomandibula is positioned anterior to the exit foramen of the hyoidean-mandibular nerve VII, as in *Jagorina* (Stensiö 1950, 1969) and *Buchanosteus* (White & Toombs 1972, fig. 4, Pl. 4), whereas it is posterior to this foramen in *Kujdanowiaspis*, *Lehmanosteus* and probably also *Romundina*.
 
+** Acoustic nerve (VII) share a common base with trigeminal nerve (V): absent (0); present (1).
+>  - This character is present in *Kujdanowiaspis* and *Jagorina*. By contrast, in *Dicksonosteus* and *Buchanosteus* acoustic nerve is separate from trigeminal nerve.
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
