@@ -750,29 +750,30 @@
 > - **References** [White, 1978](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/j.1096-3642.1978.tb00374.x).
 
 [*Gorgonichthys clarki*](https://deepbone.cn/public/#/explor?s_id=2271&functionId=Deepbone_header_searchResultOpen) Claypole, 1892
-> upper Famennian, 363.3, 358.9
+> **Geological range.** upper Famennian, 363.3, 358.9
 
-> Laurentia
-
-> - Cleveland Shale Member, Ohio Shale Formation, Ohio, USA.
-> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); [Dunkle and Bungart, 1940](); Denison, 1978; Stensiö, 1963.
+> - **Occurrence.** Cleveland Shale Member, Ohio Shale Formation, Ohio, USA.
+> - **Holotype and referred specimens.** See Dunkle and Bungart (1940).
+> - **Diagnosis.** See Denison (1978).
+> - **Remarks.** This sepcies was established by Claypole (1892), based primarily on gnathal elements, despite the type specimen reportedly including a nearly complete cranial shield. Claypole regarded *Gorgonichthys* as a third gigantic arthrodire from the Cleveland Shale, distinct from both *Dinichthys* and *Titanichthys*. Eastman (1900), however, found no basis for separating *Gorgonichthys* from *Dinichthys* and referred this species to *Dinichthys*. He further noted that the name *Dinichthys clarki* had already been occupied by a specimen described by Claypole (1893), which was later demonstrated by Heintz (1931a) to represent the anterolateral plate of *Titanichthys* rather than a dinichthyid element. Hussakof (1905) accepted the assigment of *Gorgonichthys clarki* to *Dinichthys* and regarded *Dinichthys kepleri* as a junior synonym of the species based on similarities among inferognathal plates. He also referred several isolated trunk armour elements to *D. clarki*. Dunkle and Bungart (1940), questioned these assignments because none of the trunk armour elements had been found in direct association with the characteristic gnathal elements, and each specimen represented an independent field discovery. Based on newly discovered associated material preserving both gnathal and cranio-thoracic elements, they were able to relate the characteristic mouth parts of *D. clarki* to a previously undescribed cranial shield and trunk armour, providing the first reliable reconstruction of the anatomy of this species. Dunkle and Bungart (1940) therefore recovered *Gorgonichthys* as a valid genus based on the newly recognized cranio-thoracic anatomy.
+> - **References** [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); [Dunkle and Bungart, 1940](); Denison, 1978; Stensiö, 1963.
 
 [*Groenlandaspis antarcticus*](https://deepbone.org/public/#/explor?s_id=154139andfunctionId=Deepbone_header_searchResultOpen) Ritchie, 1975
-> Upper Givetian to Lower Frasian, 384.37, 375.7
+> **Geological range.** Upper Givetian to Lower Frasian, 384.37, 375.7
 
-> East Gondwanan
-
-> - Aztec siltstone, southern Victoria Land, Antarctica.
-> - Taylor Group; Mount Ritchie, Australia and Mount Mestchel, Antarctica
-> - [Ritchie, 1975](https://www.nature.com/articles/254569a0); [Young, 1989](https://www.lyellcollection.org/doi/abs/10.1144/GSL.SP.1989.047.01.05)
+> - **Occurrence.** Aztec siltstone, southern Victoria Land, Antarctica; Taylor Group; Mount Ritchie, Australia and Mount Mestchel, Antarctica.
+> - **Holotype and referred specimens.** See Ritchie (1978).
+> - **Diagnosis.** See Ritchie (1978).
+> - **References** [Ritchie, 1975](https://www.nature.com/articles/254569a0); [Young, 1989](https://www.lyellcollection.org/doi/abs/10.1144/GSL.SP.1989.047.01.05)
 
 [*Gymnotrachelus hydei*](https://deepbone.cn/public/#/explor?s_id=2276&functionId=Deepbone_header_searchResultOpen) Dunkle and Bungart, 1939
-> upper Famennian, 363.3, 358.9
+> **Geological range.**upper Famennian, 363.3, 358.9
 
-> Laurentia
-
-> - Cleveland Shale Member, Ohio Shale Formation, Ohio, USA.
-> - [Carr, 1994]; [Carr and Hlavin](https://academic.oup.com/zoolinnean/article/159/1/195/2608083), 2010; Dunkle and Bungart, 1939.
+> - **Occurrence.** Cleveland Shale Member, Ohio Shale Formation, Ohio, USA.
+> - **Holotype and referred specimens.** See Dunkle and Bungart (1939) and Carr (1994).
+> - **Diagnosis.** See Carr (1994).
+> - **Remarks.** This sepcies was first described by Dunkle and Bungart (1939) based on a incompletely preserved specimen, that lacked many anatomical information. They suggested a close relationship between *Gymnotrachelus hyde* and selenosteids. Carr (1994) subsequently redescribed *Gymnotrachelus hydei* based on newly discovered material, provided an emended diagnosis, and included it in a phylogenetic analysis.  His result recovered *Gymnotrachelus hydei* as a selenosteid arthrodire, forming the sister taxon to *Melanosteus*.
+> - **References** [Carr, 1994]; [Carr and Hlavin](https://academic.oup.com/zoolinnean/article/159/1/195/2608083), 2010; Dunkle and Bungart, 1939.
 
 [*Hadrosteus rapax*](https://deepbone.cn/public/#/explor?s_id=2236&functionId=Deepbone_header_searchResultOpen) Gross, 1932
 > **Geological range.** upper Frasnian, 375.7, 372.2
