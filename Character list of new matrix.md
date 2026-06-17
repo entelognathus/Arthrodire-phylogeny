@@ -2028,6 +2028,9 @@ separate, this character is scored as 'not applicable'.
 468.  Lateral embayment of nuchal plate: absent (0); present (1).
 > - This character is present in some holonematids, gorenlandaspids, and *Denisonosteus*.
 
+469. Mesial process of paranuchal plate: absent (0); present (1).
+> - In some actinolepidoids, such as *Kujdanowiaspis*, *Sigaspis*, and *Proaethapis*, a process is present medial to the main lateral sensory groove, extending anteriorly to contact the postorbital plate and thereby separating the marginal and central plates.
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
