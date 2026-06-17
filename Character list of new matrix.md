@@ -2025,6 +2025,9 @@ separate, this character is scored as 'not applicable'.
 467. Postorbital processes appear narrow ventrally: absent (0); present (1).
 > - In ventral view, the anterior and posterior postorbital processes are expressed as narrow, dorsoventrally high crests, contrasting with their broader appearance in dorsal view. Goujet (1984) observed that this morphology produces a T-shaped cross-section and regarded it as a potential synapomorphy of phlyctaeniids.
 
+468.  Lateral embayment of nuchal plate: absent (0); present (1).
+> - This character is present in some holonematids, gorenlandaspids, and *Denisonosteus*.
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
