@@ -1380,12 +1380,13 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - [Denison, 1958](https://www.biodiversitylibrary.org/bibliography/7193)
 
 [*Tiaraspis subtilis*](https://deepbone.org/public/#/explor?s_id=2593&functionId=Deepbone_header_searchResultOpen) (Gross, 1933)
-> [Upper Pragian to Lower Emsian], 409.2, 400.45
+>  **Geological range.** [Upper Pragian to Lower Emsian], 409.2, 400.45
 
-> Baltica
-
-> - [Wahnbach Formation, Rimmert Formation, Odenspiel Formation, eastern Rheinisches Schiefergebirge, West Germany]
-> - [Schultze, 1984](https://www.biodiversitylibrary.org/part/47129)
+> - **Occurrence.** [Wahnbach Formation, Rimmert Formation, Odenspiel Formation, eastern Rheinisches Schiefergebirge, West Germany]
+> - **Holotype and referred specimens.** See Schultze (1984).
+> - **Diagnosis.** See Schultze (1984).
+> - **Remarks.** Gross (1962) established *Tiaraspis* based on the trunk armour material that he had previously described (Gross, 1933, 1937) and noted similarities in the morphology of the median dorsal plate with some antiarch, ptyctodontida, *Hunginaspis*, and *Prosphymaspis*. Miles (1969) placed it in its own family, the Tiaraspididae, beacuse of the distinctive morphology of the median dorsal plate. Ritchie (1974, 1975) subsequently assigned *Tiaraspis* and *Groenlandaspis* to the Groenlandaspididae, based on the similarities of the trunk shield. Denison (1978) retianed Tiaraspididae and grouped it with Groenlandaspididae within Holonematidae. Young (1981) also supported a close relationship among *Tiaraspis*, *Groenlandaspis*, and *Holonema*. Schultze (1984) described the head shield of *Tiaraspis* and, accordingly, further supported a close relationship between *Tiaraspis* and *Groenlandaspis*. In addition, he followed the classification of Ritchie and placed Groenlandaspididae within the Phlyctaeniina.
+> - **References.** Gross, 1962; [Schultze, 1984](https://www.biodiversitylibrary.org/part/47129)
 
 
 ### To be added from other sources
