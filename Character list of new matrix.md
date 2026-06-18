@@ -2014,7 +2014,7 @@ separate, this character is scored as 'not applicable'.
 463. Converge keels on the ventrolateral plate: absent (0); present (1).
 >  - This characters is present in some phlyctaeniids, such as *Dicksonosteus*, *Heintzosteus*, and *Arctolepis*.
 
-464. Dorsal articular lamina of skull roof: absent (0); present (1).
+464. Dorsal articular lamina (lateral articular lamina) of skull roof: absent (0); present (1).
 
 465. Thoracic articular pit on the trunk armour: absent (0); present (1).
 > - The dorsal articular lamina inserts into the thoracic articular pit at the ginglymoid articulation, a condition known only in phlyctaeniids. Goujet (1973) suggested that this morphology would have made movements between the skull and trunk armour more difficult.
