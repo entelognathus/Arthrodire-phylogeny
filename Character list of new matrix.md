@@ -2036,6 +2036,9 @@ separate, this character is scored as 'not applicable'.
 
 471. Position of mid-pit line: anterior to the postmargianl sensroy groove (0); at the level of postmarginal sensroy groove (1).
  > -  This sensory groove is present in phlycatenids, such as *Dicksonosteus*, *Arctolepis*, and *Tiaraspis*.
+ 
+472. **cheek** Paranuchal plate overlaps the nuchal plate: absent (0); present (1).
+ > -  This character is widely present in phlyctaeniids and brachythoracids. Goujet (1984) suggested that this overlapping relationship link to the development of the "posterior consolidated part of the skull" (Heintz 1932, p. 131; Stensiö 1963a), itself resulting from the differentiation or reinforcement of a dermal cervical articulation.
 
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
