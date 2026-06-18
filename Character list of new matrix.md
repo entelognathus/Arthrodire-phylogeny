@@ -2034,6 +2034,9 @@ separate, this character is scored as 'not applicable'.
 470. Rostral sensory groove: absent (0); present (1).
 > -  This sensory groove is present in wuttagoonaspids and *Dicksonosteus*, where it extends medioventrally from the supraorbital sensory groove on the postnasal plate.
 
+471. Position of mid-pit line: anterior to the postmargianl sensroy groove (0); at the level of postmarginal sensroy groove (1).
+ > -  This sensory groove is present in phlycatenids, such as *Dicksonosteus*, *Arctolepis*, and *Tiaraspis*.
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
