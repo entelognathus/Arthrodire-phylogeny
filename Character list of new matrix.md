@@ -1899,7 +1899,7 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 >  -  Character shared by *Gogopiscis* and *Compagopiscis*.
 
 418.   Overlapped area of extrascapular plate on the posterior margin of skull roof (pdl, Posterior descending lamina in Miles and Dennis, 1997): absent (0); present (1).
->  - This character is widely present in coccosteomorph arthrodires.
+>  - This character is widely present in coccosteomorph arthrodires. In phlyctaenioid arthrodires, the posterior margin of the skull roof commonly bears an overlapping area or a shallow depression. Although these depressions are similar in lacking ornamentation and in extending along the posterior margin of the skull roof, their origins differ and can be classified into three types. Type A occurs in some phlyctaenids, such as *Dicksonosteus* and *Arctolepis*, where the depression is formed by the overlap of the trunk armour, as suggested by Goujet (1984). Type B is present in coccosteomorph arthrodires, such as *Coccosteus* and *Harrytoombsia*, and is formed by the overlap of the extrascapular plate. Type C occurs in some selenosteids, such as *Paramylostoma* and *Hlavinichthys*, where the depression serves as an area for muscle attachment.
 <img width="234" height="234" alt="image" src="https://github.com/user-attachments/assets/a68d2945-abfa-45f6-ad80-5a6fbe013c94" />
 
 419.   Postorbital branch of the infraorbital sensory groove ends on the postorbital plate: absent(0); present (1).
