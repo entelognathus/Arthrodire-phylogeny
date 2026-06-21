@@ -2040,9 +2040,12 @@ separate, this character is scored as 'not applicable'.
 472. **cheek** Paranuchal plate overlaps the nuchal plate: absent (0); present (1).
  > -  This character is widely present in phlyctaeniids and brachythoracids. Goujet (1984) suggested that this overlapping relationship link to the development of the "posterior consolidated part of the skull" (Heintz 1932, p. 131; Stensiö 1963a), itself resulting from the differentiation or reinforcement of a dermal cervical articulation.
 
-473.  Posterior annular groove of the trunk armor (sap, sillon annulaire postérieur de l'armure du tronc in Goujet, 1984): absent (0); present (1).
+473.  Posterior annular groove of the trunk armuor (sap, sillon annulaire postérieur de l'armure du tronc in Goujet, 1984): absent (0); present (1).
 <img width="571" height="479" alt="image" src="https://github.com/user-attachments/assets/2b49d4e0-ae88-4f31-bc0a-3b03e6584b0a" />
 
+474. Ventral lateral ridge of trunk armour (cr.vl, crete ventrolaterale in Goujet, 1984): absent (0); present (1).
+
+475. Lateral ridge on posterior lateral plate (cr.l, crete laterale in Goujet, 1984): absent (0); present (1).
 
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
