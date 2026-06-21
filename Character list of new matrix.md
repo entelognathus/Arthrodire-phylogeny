@@ -2059,6 +2059,9 @@ separate, this character is scored as 'not applicable'.
 
 ** Acoustic nerve (VII) share a common base with trigeminal nerve (V): absent (0); present (1).
 >  - This character is present in *Kujdanowiaspis* and *Jagorina*. By contrast, in *Dicksonosteus* and *Buchanosteus* acoustic nerve is separate from trigeminal nerve.
+
+** Attachment of adductir mandibulae muscle on palatoquadrate: internal face (0); external face (1).
+>  - Goujet (1984): The "internal" position of the muscle persists even in forms where the dermal cheek no longer has a suspensory role: this is, in particular, the case of *Jagorina*, in which the palatoquadrate (pr.ant (1) Stensiö 1969, fig. 25B) has preserved a form very similar to that of the Placoderms cited above, with, on the medial (buccal) face, a cavity corresponding to the muscular fossa, into which a canal opens (for the lateral buccal nerve according to Stensiö 1969, fig. 25A). In Jagorina, the muscle therefore also inserted on the internal face of the palatoquadrate. The only Placoderms that escape this rule are the Ptyctodonts (see Stensiö 1969, fig. 151, 153; Miles & Young 1977, fig. 11), in which the muscle attached to the exterior of the autopalatine. In the current state of hypotheses on the possible ancestry of this group (Miles & Young 1977), this peculiarity within Placoderms could equally well be a persistence of an ancestral state or the result of a secondary migration of the muscle.   
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
