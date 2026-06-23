@@ -2047,6 +2047,8 @@ separate, this character is scored as 'not applicable'.
 
 475. Lateral ridge on posterior lateral plate (cr.l, crete laterale in Goujet, 1984): absent (0); present (1).
 
+476. Supraspinal lamina of anterior lateral plate (la.ssp, Goujet, 1984): absent (0); present (1); developed (2).
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
