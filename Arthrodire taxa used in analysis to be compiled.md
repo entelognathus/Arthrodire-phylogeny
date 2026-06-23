@@ -435,13 +435,14 @@
 > -  **References.** Lelièvre, 1984; [Lelièvre, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173046).
 
 [*Arctolepis decipiens*](https://deepbone.cn/public/#/explor?s_id=2543&functionId=Deepbone_header_searchResultOpen) （Woodward,1891）
-> lower Emsian,  407.6, 400.45
+> **Geological range.** lower Emsian,  407.6, 400.45
 
-> Laurentia
-
-> - Dicksonfjorden Member of the Wood Bay Formation, Dickson Bay and Wijde Bay, Svalbard (Spitsbergen).
+> - **Occurrence.** Dicksonfjorden Member of the Wood Bay Formation, Dickson Bay and Wijde Bay, Svalbard (Spitsbergen).
+> - **Holotype and referred specimens.** See Goujet (1984).
+> - **Diagnosis.** See Goujet (1984).
+> - **Remarks.** Heintz (1929b) erected *Arctolepis solnordali* based on a single, incompletely prepared cranial roof (PMO B099), distinguishing it from *A. decipiens* primarily by the greater depth of the orbital notches, together with several additional features, including the shape of the rostral plate, the orientation of the preorbitocentral suture, and the course of the supraorbital sensory groove. Goujet (1984), however, re-examined these characters and concluded that they resulted largely from incomplete preparation and misinterpretation of the specimen. In particular, the apparent orbital margins were shown to represent the mesial boundary of the supraocular area rather than the true orbital margin, whereas the seemingly enlarged pineal opening corresponded to the truncated infilling of the dermal pineal pit. Furthermore, several of the original diagnostic features had already been revised by Heintz himself (1962). As no consistent morphological differences could be identified between *A. solnordali* and *A. decipiens*, and given their occurrence from the same locality and comparable preservational conditions, Goujet (1984) regarded *A. solnordali* as a junior synonym of *A. decipiens*. Goujet (1984) considered that the postnasal of *Arctolepis* is absent and suggested that the postnasal in *Dicksonosteus*, *Heintzosteus*, and *Arctolepis* had a marked tendency toward progressive reduction.
 > - [Goujet, 1984](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9046910).
-> - Heintz (1929b) erected *Arctolepis solnordali* based on a single, incompletely prepared cranial roof (PMO B099), distinguishing it from *A. decipiens* primarily by the greater depth of the orbital notches, together with several additional features, including the shape of the rostral plate, the orientation of the preorbitocentral suture, and the course of the supraorbital sensory groove. Goujet (1984), however, re-examined these characters and concluded that they resulted largely from incomplete preparation and misinterpretation of the specimen. In particular, the apparent orbital margins were shown to represent the mesial boundary of the supraocular area rather than the true orbital margin, whereas the seemingly enlarged pineal opening corresponded to the truncated infilling of the dermal pineal pit. Furthermore, several of the original diagnostic features had already been revised by Heintz himself (1962). As no consistent morphological differences could be identified between *A. solnordali* and *A. decipiens*, and given their occurrence from the same locality and comparable preservational conditions, Goujet (1984) regarded *A. solnordali* as a junior synonym of *A. decipiens*.
+> - 
 
 [*Arenipiscis westolli*](https://deepbone.cn/public/#/explor?s_id=164607&functionId=Deepbone_header_searchResultOpen) Young, 1981
 > Emsian, 407.6, 393.3 
