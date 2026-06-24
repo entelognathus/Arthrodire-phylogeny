@@ -2047,7 +2047,8 @@ separate, this character is scored as 'not applicable'.
 465.  Occipital cross commissure on the nuchal and paranuchal plates: continuous (0); discontinuous (1).
 
 466. Well marked external marginal groove on spinal plate: absent (0); present (1).
-<img width="1280" height="1707" alt="a26e2bf4aa87b3ce4d3682574f9e684d" src="https://github.com/user-attachments/assets/82864dcb-a11f-404d-8691-a258cc9a0035" />
+<img width="369" height="398" alt="image" src="https://github.com/user-attachments/assets/776cff31-1a89-495a-8feb-8b8fb54469b2" />
+
 
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
