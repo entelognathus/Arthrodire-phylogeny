@@ -1976,80 +1976,78 @@ separate, this character is scored as 'not applicable'.
 439.  Postorbital branch of the infraorbital sensory line groove on postorbital plate: present (0), absent (1).
 >  In some trematosteids, such as *Trematosteus*, *Parabelosteus*, and possible *Brachyosteus*, the postorbital branch of infraorbital sensory line groove on postorbital plate is absent. 
 
-440.  Anterior margin of anterior ventrolateral plate: straight (0); embayed (1).
-
-441. "Coronoid" process of inferognathal: absent (0); present (1).
+440. "Coronoid" process of inferognathal: absent (0); present (1).
 >  "Coronoid" process is only present in some trematosteids, including *Parabelosteus* and *Brachyosteus*. Miles (1969) considered that this process parallels the corresponding structure in coelacanths and actinopterygians.
 
-442. Anterior margin of anterior ventrolateral plate: straight (0); concave (1).
+441. Anterior margin of anterior ventrolateral plate: straight (0); concave (1).
 >  In aspinothoracids and *Dunkleosteus*, the anterior margin of anterior ventrolateral plate is concave.
 
-443. Paranuchal anterior tapers: absent (0); present (1).
+442. Paranuchal anterior tapers: absent (0); present (1).
 >  This character is potentially a synapomorphy of homostiids.
 
-444.  Posterolateral process of central plate：absent (0); present (1).
+443.  Posterolateral process of central plate：absent (0); present (1).
 >  This character is potentially a synapomorphy of homostiids.
 
-445.  Postbranchial crest on the visceral surface of anterolateral plate (cr.pt.br in Lelièvre, 1984): absent (0); present (1).
+444.  Postbranchial crest on the visceral surface of anterolateral plate (cr.pt.br in Lelièvre, 1984): absent (0); present (1).
 
-456.  Marginal plate enlongate: absent (0); present (1).
+445.  Marginal plate enlongate: absent (0); present (1).
 >  Lelièvre (1984) suggested that elongation of the occipital region of the skull roof in homosteids is correlated with elongation of the nuchal, paranuchal, and marginal plates.
 
-457.  Posterior margin of anterior ventrolateral plate: convex (0); straight (1).
+446.  Posterior margin of anterior ventrolateral plate: convex (0); straight (1).
 >  Lelièvre (1984) suggested that the monophyly of homosteids is supported by characters: a short trunk armor, characterized by a short and broad median dorsal plate and an anterior ventrolateral plate with a straight posterior margin (reflecting the absence of a posterior ventrolateral plate); a skull roof possessing elongate nuchal, paranuchal, and marginal plates (character 6, fig. 19).
 
-458.  The position of the junction between postmarginal and main lateral sensory grooves: normal, located in the central region of marginal plate (0); posteriorly, close to the posterior margin of marginal plate (1).
+447.  The position of the junction between postmarginal and main lateral sensory grooves: normal, located in the central region of marginal plate (0); posteriorly, close to the posterior margin of marginal plate (1).
 >  This character is potentially a synapomorphy of homostiids.
 
-459. Orbital articulation (Orbital process) of palatoquadrate: at the anterior end of dorsal arch (0); at the top of dorsal arch (1).
+448. Orbital articulation (Orbital process) of palatoquadrate: at the anterior end of dorsal arch (0); at the top of dorsal arch (1).
 > In non-brachythoracid arthrodires, such as *Dicksonosteus* and *Kujdanowiaspis*, the orbital articulation of the palatoquadrate is situated at the anterior end of the dorsal arch and articulates with the endocranium via an articular pit on the ventral surface of the ectethmoid process. In contrast, in brachythoracids such as *Tapinosteus*, the orbital articulation is positioned at the apex of the dorsal arch and attaches to an articular area on the lateral surface of the endocranium. Goujet (1978) suggested that this derived condition excludes the anterior lamina from participation in the orbital floor. In brachythoracids, the dermal suborbital plate surrounding the orbit develops prominent reinforcing ridges, including the suborbital and postorbital cristae. These structures likely assumed the supportive role previously provided by the anterior lamina, forming a rigid dermal framework beneath the orbit and contributing to stabilization of the eyeball. Such a reorganization of the orbital architecture may be associated with increased mobility of the branchial region, reducing the extent to which the endoskeletion participated in supporting the orbital floor. Consequently, orbital support appears to have shifted from the endoskeletal anterior lamina to the dermal cheek skeleton, potentially decoupling eye stabilization from movements of the visceral skeleton.  
 
-460. Articular area for orbital process of palatoquadrate: on the ventral surface of endocranium (0); on the lateral surface of endocranium (1).
+449. Articular area for orbital process of palatoquadrate: on the ventral surface of endocranium (0); on the lateral surface of endocranium (1).
 
-461. Attachment of adductir mandibulae muscle: to the palatoquadrate (0); to the suborbital plate (1).
+450. Attachment of adductir mandibulae muscle: to the palatoquadrate (0); to the suborbital plate (1).
 
-462. Overlap relationship of anterior and posterior median ventral plate: anterior one overlaps posterior one (0); posterior one overlap anterior one (1).
+451. Overlap relationship of anterior and posterior median ventral plate: anterior one overlaps posterior one (0); posterior one overlap anterior one (1).
 >  - The posterior median ventral plate overlaps anterior is present in *Phlyctaenius* and *Dicksonosteus*. Goujet (1973):On the plastron (fig. 5 B), the anterior (AMV) and posterior (PMV) median ventral plates are broad; they separate the long anterior ventrolateral plates (AVL). It is rather difficult to compare them to those of Arctolepis in so far as, in the latter, only the internal sutures have been described. Compared to *Phlyctaenius* (see HEINTZ, 1933, fig. 6), the external surface of the median ventral plates is slightly wider, but, as in that genus, the posterior one overlaps the anterior one.
 
-463. Converge keels on the ventrolateral plate: absent (0); present (1).
+452. Converge keels on the ventrolateral plate: absent (0); present (1).
 >  - This characters is present in some phlyctaeniids, such as *Dicksonosteus*, *Heintzosteus*, and *Arctolepis*.
 
-464. Dorsal articular lamina (lateral articular lamina) of skull roof: absent (0); present (1).
+453. Dorsal articular lamina (lateral articular lamina) of skull roof: absent (0); present (1).
 
-465. Thoracic articular pit on the trunk armour: absent (0); present (1).
+454. Thoracic articular pit on the trunk armour: absent (0); present (1).
 > - The dorsal articular lamina inserts into the thoracic articular pit at the ginglymoid articulation, a condition known only in phlyctaeniids. Goujet (1973) suggested that this morphology would have made movements between the skull and trunk armour more difficult.
 
-466. Dorsal occipital process: absent (0); present (1).
+455. Dorsal occipital process: absent (0); present (1).
 > - This characters, correponding to the paired pit on the visceral surface of skull roof, is widely present in some phlyctaeniids and brachythoracids. 
 
-467. Postorbital processes appear narrow ventrally: absent (0); present (1).
+456. Postorbital processes appear narrow ventrally: absent (0); present (1).
 > - In ventral view, the anterior and posterior postorbital processes are expressed as narrow, dorsoventrally high crests, contrasting with their broader appearance in dorsal view. Goujet (1984) observed that this morphology produces a T-shaped cross-section and regarded it as a potential synapomorphy of phlyctaeniids.
 
-468.  Lateral embayment of nuchal plate: absent (0); present (1).
+457.  Lateral embayment of nuchal plate: absent (0); present (1).
 > - This character is present in some holonematids, gorenlandaspids, and *Denisonosteus*.
 
-469. Mesial process of paranuchal plate: absent (0); present (1).
+458. Mesial process of paranuchal plate: absent (0); present (1).
 > - In some actinolepidoids, such as *Kujdanowiaspis*, *Sigaspis*, and *Proaethapis*, a process is present medial to the main lateral sensory groove, extending anteriorly to contact the postorbital plate and thereby separating the marginal and central plates. However, Goujet (1984) considered that this character has little systematic value, beacuse both states are present in the two closely related species *Aethaspis major* and *Aethaspis utahensis*
 
-470. Rostral sensory groove: absent (0); present (1).
+459. Rostral sensory groove: absent (0); present (1).
 > -  This sensory groove is present in wuttagoonaspids and *Dicksonosteus*, where it extends medioventrally from the supraorbital sensory groove on the postnasal plate.
 
-471. Position of mid-pit line: anterior to the postmargianl sensroy groove (0); at the level of postmarginal sensroy groove (1).
+460. Position of mid-pit line: anterior to the postmargianl sensroy groove (0); at the level of postmarginal sensroy groove (1).
  > -  This sensory groove is present in phlycatenids, such as *Dicksonosteus*, *Arctolepis*, and *Tiaraspis*.
  
-472. **cheek** Paranuchal plate overlaps the nuchal plate: absent (0); present (1).
- > -  This character is widely present in phlyctaeniids and brachythoracids. Goujet (1984) suggested that this overlapping relationship link to the development of the "posterior consolidated part of the skull" (Heintz 1932, p. 131; Stensiö 1963a), itself resulting from the differentiation or reinforcement of a dermal cervical articulation.
-
-473.  Posterior annular groove of the trunk armuor (sap, sillon annulaire postérieur de l'armure du tronc in Goujet, 1984): absent (0); present (1).
+461.  Posterior annular groove of the trunk armuor (sap, sillon annulaire postérieur de l'armure du tronc in Goujet, 1984): absent (0); present (1).
 <img width="571" height="479" alt="image" src="https://github.com/user-attachments/assets/2b49d4e0-ae88-4f31-bc0a-3b03e6584b0a" />
 
-474. Ventral lateral ridge of trunk armour (cr.vl, crete ventrolaterale in Goujet, 1984): absent (0); present (1).
+462. Ventral lateral ridge of trunk armour (cr.vl, crete ventrolaterale in Goujet, 1984): absent (0); present (1).
 
-475. Lateral ridge on posterior lateral plate (cr.l, crete laterale in Goujet, 1984): absent (0); present (1).
+463. Lateral ridge on posterior lateral plate (cr.l, crete laterale in Goujet, 1984): absent (0); present (1).
 
-476. Supraspinal lamina of anterior lateral plate (la.ssp, Goujet, 1984): absent (0); present (1); developed (2).
+464. Supraspinal lamina of anterior lateral plate (la.ssp, Goujet, 1984): absent (0); present (1); developed (2).
 
-477.  Occipital cross commissure on the nuchal and paranuchal plates: continuous (0); discontinuous (1).
+465.  Occipital cross commissure on the nuchal and paranuchal plates: continuous (0); discontinuous (1).
+
+466. Well marked external marginal groove on spinal plate: absent (0); present (1).
+<img width="1280" height="1707" alt="a26e2bf4aa87b3ce4d3682574f9e684d" src="https://github.com/user-attachments/assets/82864dcb-a11f-404d-8691-a258cc9a0035" />
 
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
@@ -2073,8 +2071,12 @@ separate, this character is scored as 'not applicable'.
 
 ** Attachment of adductir mandibulae muscle on palatoquadrate: internal face (0); external face (1).
 >  - Goujet (1984): The "internal" position of the muscle persists even in forms where the dermal cheek no longer has a suspensory role: this is, in particular, the case of *Jagorina*, in which the palatoquadrate (pr.ant (1) Stensiö 1969, fig. 25B) has preserved a form very similar to that of the Placoderms cited above, with, on the medial (buccal) face, a cavity corresponding to the muscular fossa, into which a canal opens (for the lateral buccal nerve according to Stensiö 1969, fig. 25A). In Jagorina, the muscle therefore also inserted on the internal face of the palatoquadrate. The only Placoderms that escape this rule are the Ptyctodonts (see Stensiö 1969, fig. 151, 153; Miles & Young 1977, fig. 11), in which the muscle attached to the exterior of the autopalatine. In the current state of hypotheses on the possible ancestry of this group (Miles & Young 1977), this peculiarity within Placoderms could equally well be a persistence of an ancestral state or the result of a secondary migration of the muscle.   
+
 ** Articular area for the first one or two branchial arches on the ventral surface of the posterior postorbital process: absent (0); present (1).
 > - Goujet (1984): Between this orifice and the groove for the efferent branchial artery (s.a.br) are placed ventral expansions of the base of the posterior postorbital process (fig. 74) on each of its branches, expansions whose apex is devoid of perichondral covering, as also exists in the acanthothoracid *Romundina* (see Ørvig 1975, Pl. 1, fig. 3). This location might correspond, as I envisaged in *Dicksonosteus*, to endocranial articulation points of the first branchial arches or of two elements uniting all or part of the arches together.
+
+**cheek** Paranuchal plate overlaps the nuchal plate: absent (0); present (1).
+ > -  This character is widely present in phlyctaeniids and brachythoracids. Goujet (1984) suggested that this overlapping relationship link to the development of the "posterior consolidated part of the skull" (Heintz 1932, p. 131; Stensiö 1963a), itself resulting from the differentiation or reinforcement of a dermal cervical articulation.
 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
