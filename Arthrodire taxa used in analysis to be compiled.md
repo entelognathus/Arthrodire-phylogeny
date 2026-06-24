@@ -810,12 +810,13 @@
 > - [Carr, 1991](https://academic.oup.com/zoolinnean/article-abstract/103/4/349/2725455); [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
 
 [*Heintzosteus brevis*](https://deepbone.cn/public/#/explor?s_id=169310&functionId=Deepbone_header_searchResultOpen) (Heintz, 1929)
-> Pragian, 410.8, 407.6
+> **Geological range.** Pragian, 410.8, 407.6
 
-> Laurentia
-
-> - Austfjord Member, Wood Bay Formation, Dicksonfjorden-Austfjorden area, Svalbard (Spitsbergen).
-> - [Goujet 1984].
+> - **Occurrence.** Austfjord Member, Wood Bay Formation, Dicksonfjorden-Austfjorden area, Svalbard (Spitsbergen).
+> - **Holotype and referred specimens.** See Goujet (1984).
+> - **Diagnosis.** See Goujet (1984).
+> - **Remarks.** The holotype of *Heintzosteus brevis* was originally assigned to *Arctolepis* (“Jaekelaspis”) by Heintz (1929), primarily because both taxa share a pineal plate that extends posteriorly to contact the central plates, thereby separating paired preorbital plates. However, Goujet (1984) re-examined the holotype and noted that several details in the original reconstruction, including the sutures of the skull roof and the course of the sensory grooves, had been inaccurately interpreted. He further showed that *H. brevis* differs from *Arctolepis* in the morphology of the rostral region, particularly in the relatively narrow rostral plate, which suggests the retention of postnasal plates rather than the highly specialized condition seen in *Arctolepis*, where the pastnasal plates are absent. Although *Heintzosteus* shares numerous similarities with *Arctolepis* in the overall architecture of the trunk shield, Goujet (1984) concluded that these differences warranted the erection of a separate genus while retaining both taxa within Arctolepididae.
+> - **Key References.** Heintz, 1929; [Goujet 1984].
 
 [*Heterostius ingens*](https://deepbone.cn/public/#/explor?s_id=2455&functionId=Deepbone_header_searchResultOpen) Asmuss, 1856
 > upper Eifelian, 389.6, 387.7
