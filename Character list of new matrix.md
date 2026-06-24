@@ -2049,6 +2049,8 @@ separate, this character is scored as 'not applicable'.
 
 476. Supraspinal lamina of anterior lateral plate (la.ssp, Goujet, 1984): absent (0); present (1); developed (2).
 
+477.  Occipital cross commissure on the nuchal and paranuchal plates: continuous (0); discontinuous (1).
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
