@@ -768,6 +768,15 @@
 > - **Diagnosis.** See Ritchie (1978).
 > - **References** [Ritchie, 1975](https://www.nature.com/articles/254569a0); [Young, 1989](https://www.lyellcollection.org/doi/abs/10.1144/GSL.SP.1989.047.01.05)
 
+[*Groenlandaspis riniensis*](https://deepbone.cn/public/#/explor?s_id=2281&functionId=Deepbone_header_searchResultOpen) Long *et al.* 1995
+> **Geological range.** Famennian, 372.2, 358.9
+
+> - **Occurrence.** Witpoort Formation, near Grahamstown, South Africa.
+> - **Holotype and referred specimens.** See Long *et al.* 1995.
+> - **Diagnosis.** See Long *et al.* 1995.
+> - **Remarks.**
+> - **References** Long *et al.* 1995.
+
 [*Groenlandaspis howittensis*](https://deepbone.cn/public/#/explor?s_id=173121&functionId=Deepbone_header_searchResultOpen) Fitzpatrick *et al.*, 2024.
 > **Geological range.** Givetian, 387.7, 382.7
 
