@@ -2048,7 +2048,9 @@ separate, this character is scored as 'not applicable'.
 
 466. Well marked external marginal groove on spinal plate: absent (0); present (1).
 <img width="369" height="398" alt="image" src="https://github.com/user-attachments/assets/776cff31-1a89-495a-8feb-8b8fb54469b2" />
-
+ 
+467. Posterior lateral plate embayment of posterior dorsolateral plate: absent (0); shallow (1); developed (2).
+> - The state 2 is present in groenlandaspidis and phlycatenids.
 
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
