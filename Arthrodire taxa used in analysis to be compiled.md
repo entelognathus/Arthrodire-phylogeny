@@ -403,7 +403,7 @@
 [*Africanaspis doryssa*](https://deepbone.cn/public/#/explor?s_id=2266&functionId=Deepbone_header_searchResultOpen) Long *et al.*, 1997
 > **Geological range.** Upper Famennian, 363.3, 358.9
 
-> - **Occurrence.** Black shales of the Witpoort Formation, near Grahamstown, South Africa.
+> - **Occurrence.** Black shales of the Witpoort Formation, Waterloo Farm, south east of Grahamstown, Eastern Cape, South Africa.
 > - **Holotype and referred specimens.** See Long *et al.* 1995.
 > - **Diagnosis.** See Long *et al.* 1995.
 > - **Remarks.** This taxon was originally known only from the trunk shield. Long *et al.* (1997) suggested that the holotype of *Africanaspis doryssa* may represent a semimature individual. Gess et al. (2017) subsequently redescribed the species based on new material, documenting the skull roof, overall body shape, and fin outlines for the first time. They also described the first embryonic and juvenile specimens of *A. doryssa*, providing a growth series from presumed hatchlings to presumed adults. The anterior and posterior dorsolateral plates of *Africanaspis* bear the prominent dorsolateral ridge, a condition also present in *Tiaraspis*, *Dicksonosteus*, *Arctolepis*, and *Dicksonosteus*, but absent in *Groenlandaspis*. The median dorsal plate of *Africanaspis* is unusually deep, being higher than long, a condition shared with *Tiaraspis*. In contrast, the median dorsal plate of *Groenlandaspis* is proportionally lower and longer than high, although it also bears a well-developed median dorsal crest.
@@ -781,7 +781,7 @@
 [*Groenlandaspis riniensis*](https://deepbone.cn/public/#/explor?s_id=2281&functionId=Deepbone_header_searchResultOpen) Long *et al.* 1995
 > **Geological range.** Upper Famennian, 363.3, 358.9
 
-> - **Occurrence.** Black shales of the Witpoort Formation, near Grahamstown, South Africa.
+> - **Occurrence.** Black shales of the Witpoort Formation, Waterloo Farm, south east of Grahamstown, Eastern Cape, South Africa.
 > - **Holotype and referred specimens.** See Long *et al.* 1995.
 > - **Diagnosis.** See Long *et al.* 1995.
 > - **Remarks.** Long *et al.* (1997) briefly noted, but did not describe in detail, a anterior supragnathal (ASG) in a specimen originally referred to as a juvenile *Groenlandaspis riniensis*. Following its reassignment to *Africanaspis doryssa* by Gess & Trinajstic (2017), Fitzpatrick *et al.* (2025) suggested that the shared arrangement of the anterior supragnathals in *Africanaspis* and *Groenlandaspis howittensis* supports the presence of a fused ASG in both genera.
