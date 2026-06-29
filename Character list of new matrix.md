@@ -2055,6 +2055,9 @@ separate, this character is scored as 'not applicable'.
 468.  Dorsal margin of posterior lateral plate: straight (0); convex (1).
 > - This character is possibly a synapomorphy of groenlandaspidids.
 
+469.  Median dorsal plate proportionally higher than long: absent (0); present (1).
+> - This character is present in *Africanaspis* and *Tiaraspis*.
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
