@@ -616,12 +616,13 @@
 > - [Miles and Westoll, 1963](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/ixtwo-new-genera-of-coccosteid-arthrodira-from-the-middle-old-red-sandstone-of-scotland-and-their-stratigraphical-distribution/74D793E505A096117B0A4826FF342A4C).
 
 [*Dicksonosteus arcticus*](https://deepbone.org/public/#/explor?s_id=2423andfunctionId=Deepbone_header_searchResultOpen) Goujet, 1975
-> Pragian, 410.8, 407.6
+> **Geological range.** Pragian, 410.8, 407.6
 
-> Laurentia
-
-> - Austfjorden Member, Wood Bay Formation; Svalbard (Spitsbergen).
-> - Goujet, 1975; Goujet, 1984
+> - **Occurrence.** Austfjorden Member, Wood Bay Formation; Svalbard (Spitsbergen).
+> - **Holotype and referred specimens.** See Goujet (1975) and Goujet (1984).
+> - **Diagnosis.** See Goujet, 1975.
+> - **Remarks.**
+> - **References.** Goujet, 1975; Goujet, 1984
 
 [*Dinichthys herzeri*](https://deepbone.cn/public/#/explor?s_id=154201&functionId=Deepbone_header_searchResultOpen) Newberry, 1868
 > **Geological range.** upper Famennian, 363.3, 358.9
@@ -783,7 +784,7 @@
 > - **Occurrence.** Witpoort Formation, near Grahamstown, South Africa.
 > - **Holotype and referred specimens.** See Long *et al.* 1995.
 > - **Diagnosis.** See Long *et al.* 1995.
-> - **Remarks.**
+> - **Remarks.** Long *et al.* (1997) briefly noted, but did not describe in detail, a anterior supragnathal (ASG) in a specimen originally referred to as a juvenile *Groenlandaspis riniensis*. Following its reassignment to *Africanaspis doryssa* by Gess & Trinajstic (2017), Fitzpatrick *et al.* (2025) suggested that the shared arrangement of the anterior supragnathals in *Africanaspis* and *Groenlandaspis howittensis* supports the presence of a fused ASG in both genera.
 > - **References** Long *et al.* 1995.
 
 [*Groenlandaspis howittensis*](https://deepbone.cn/public/#/explor?s_id=173121&functionId=Deepbone_header_searchResultOpen) Fitzpatrick *et al.*, 2024.
