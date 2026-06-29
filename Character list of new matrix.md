@@ -1781,7 +1781,7 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 > - There is no linguiform process in *Mlanosteus*, in contrast to what is known in other brachythoracids (e.g., Dunkleosteus; Heintz, 1932, figs. 21–22; or Pachyosteus bulla, Stensiö, 1963, fig. 99D). The absence of a linguiform process is also observed in Rhinosteus and Microsteus augusticeps (Stensiö, 1963, figs. 100e, 101b)
 
 380.  Postpineal plate: absent (0); present (1).
-> In some species of *Groenlandaspis*, including *G. disjectus*, *G. antarcticus*, and *Groenlandaspis* sp. from Canowindra, New South Wales, Australia, the pineal plate is divided by a distinct pineal suture into anterior and posterior portions, referred to as the anterior and posterior pineal plates. Here, we interpret the posterior pineal plate as a subdivision of the pineal plate rather than a true postpineal plate, and therefore consider it non-homologous with the postpineal plate of acanthothoracids.  
+> In some groenlandaspids, such as *Groenlandaspis*, *Africanaspis*, and *Turrisaspis*, the pineal plate is divided by a distinct pineal suture into anterior and posterior portions, referred to as the anterior and posterior pineal plates. In *Aficanaspis*, the presence of pineal pit on the visceral surface of posterior pineal plate indicates that it is the real pineal plate. Here, we interpret the posterior pineal plate as pineal plate rather than a true postpineal plate, and therefore consider it non-homologous with the postpineal plate of acanthothoracids.  
 
 381.  Central plate bears a small anteriorly projecting process where the suparorbital sensory groove or canal passes on to the preorbital plate: absent (0); present (1).
 
