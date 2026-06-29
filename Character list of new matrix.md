@@ -2052,6 +2052,9 @@ separate, this character is scored as 'not applicable'.
 467. Posterior lateral plate embayment of posterior dorsolateral plate: absent (0); shallow (1); developed (2).
 > - The state 2 is present in groenlandaspidis and phlycatenids.
 
+468.  Dorsal margin of posterior lateral plate: straight (0); convex (1).
+> - This character is possibly a synapomorphy of groenlandaspidids.
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
