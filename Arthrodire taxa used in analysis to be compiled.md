@@ -981,12 +981,13 @@
 > - **References.**[Desmond, 1974](https://academic.oup.com/zoolinnean/article-abstract/54/4/277/2670929); Stensiö, 1959, 1963.
 
 [*Mulgaspis evansorum*](https://deepbone.org/public/#/explor?s_id=2727andfunctionId=Deepbone_header_searchResultOpen) Ritchie, 2004
-> lower Eifelian, 393.3, 391.4
+> **Geological range.** lower Eifelian, 393.3, 391.4
 
-> East Gondwanan
-
-> - Merrimerriwa Formation, Cobar, Wilcannia, Australia
-> - [Ritchie, 2004](https://www.idunn.no/doi/abs/10.18261/9781405169868-2004-05).
+> - **Occurrence.** Merrimerriwa Formation, Cobar, Wilcannia, Australia.
+> - **Holotype and referred specimens.** See Ritchie (2004).
+> - **Diagnosis.** See Ritchie (2004).
+> - **Remarks.**
+> - **Reference.**[Ritchie, 2004](https://www.idunn.no/doi/abs/10.18261/9781405169868-2004-05).
 
 [*Pachyosteus bulla*](https://deepbone.cn/public/#/explor?s_id=2254&functionId=Deepbone_header_searchResultOpen) Jaekel, 1903
 > **Geological range.** upper Frasnian, 375.7, 372.2
