@@ -986,7 +986,6 @@
 > - **Occurrence.** Merrimerriwa Formation, Cobar, Wilcannia, Australia.
 > - **Holotype and referred specimens.** See Ritchie (2004).
 > - **Diagnosis.** See Ritchie (2004).
-> - **Remarks.**
 > - **Reference.**[Ritchie, 2004](https://www.idunn.no/doi/abs/10.18261/9781405169868-2004-05).
 
 [*Pachyosteus bulla*](https://deepbone.cn/public/#/explor?s_id=2254&functionId=Deepbone_header_searchResultOpen) Jaekel, 1903
@@ -1045,13 +1044,24 @@
 > - **Remark.** The supraorbital and central sensory grooves extend just within the margin of central plate and do not reach to its centers. This condition possibly resembles that of to *Hlavinichthys* and *Bungartius*, in which the supraorbital and central sensory grooves do not extend onto the central plate, or may represent a intermediate condition. Dunkle and Bungart (1945) suggested that sensory grooves are absent from the cheek plates and trunk armour. The absence of sensory grooves on the trunk armour is also observed in *Hlavinichthys* and *Bungartius*. However, the apparent absence of sensory grooves on the suborbital plate is unusual among brachythoracids. This condition may result from preservational limitations; however, the currently available information does not allow a definitive assessment. Dunkle and Bungart (1945) referred *Paramylostoma* to selenosteids based on the retention of several characteristic selenosteid features, including a narrow and anteriorly abbreviated skull roof associated with enlarged orbits, posterior superognathals bearing a developed dorsal process, a deep keel on the median dorsal plate, and proportionately long and narrow ventral armour. Denison (1978) subsequently followed this interpretation and likewise referred *Paramylostoma* to selenosteids. Carr (2018) further noted numerous shared characters between *Hlavinichthys* and *Paramylostoma*. In addition to assigning *Paramylostoma* to selenosteids, Dunkle and Bungart (1945) also pointed out that *Paramylostoma* displays many features similar to mylostomids, particularly in the morphology of the jaw apparatus. However, they interpreted these similarities as the result of parallel evolution associated with adaptation to a crushing-type “dentition”. 
 > - **Key References.** Dunkle and Bungart (1945), Denison (1978) and Carr (2018).
 
-[*Phlyctaenius acadicus*](https://deepbone.cn/public/#/explor?s_id=2576&functionId=Deepbone_header_searchResultOpen) Whiteaves 1881
-> Emsian or Eifelian, 407.6, 387.7
+[*Phlyctaenius acadicus*](https://deepbone.cn/public/#/explor?s_id=2576&functionId=Deepbone_header_searchResultOpen) (Whiteaves 1881).
+> **Geological range.** Emsian or Eifelian, 407.6, 387.7
 
-> Laurentia
+> - **Occurrence.** Gaspe Sandstone Series, Campbellton, Canada.
+> - **Holotype and referred specimens.** See Young (1983).
+> - **Diagnosis.** See Young (1983).
+> - **Remark.** The specimens of *Phlyctaenius* were first described by Whiteaves (1881, 1888) as *Coccosteus acadicus*. Additional material was subsequently described by Traquair (1890a), who established the genus *Phlyctaenius*, however he later (1890b) replaced it with *Phlyctaenaspis*, believing that *Phlyctaenius* was preoccupied by *Phlyctaenium* Zittel, a fossil sponge. Subsequent authors have shown that this preoccupation is invalid, and *Phlyctaenius* is therefore retained as the valid name for the genus. Woodward (1891, 1892a,b) provided early comments on these material. Heintz (1933) redescribed the genus, and this account has formed the basis for most subsequent comparative studiesnd this account has formed the basis for most subsequent comparative studies(Denison 1958, 1978; Goujet 1975; Miles & Dennis 1979; Dennis & Miles 1979, b, 1980; Young
+1979, 1980, 1981; Young & Goiter 1981). Following Heintz (1933), some species from Europe were referred to *Phlyctaenius*, but most of these assignments have since been rejected and the material reassigned to other genera (Denison, 1978: 60).
+ > - **References.** [Heintz, 1933](https://foreninger.uio.no/ngf/ngt/pdfs/NGT_14_1&2_127-144.pdf); [Young, 1983](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9304082), Denison, 1958.
 
-> - Gaspe Sandstone Series, Campbellton, Canada
-> - [Young, 1983](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9304082), Denison, 1958.
+[*Phlyctaenius stenosus*](https://deepbone.cn/public/#/explor?s_id=165880&functionId=Deepbone_header_searchResultOpen) (Young 1983).
+> **Geological range.** Emsian or Eifelian, 407.6, 387.7
+
+> - **Occurrence.** Gaspe Sandstone Series, Campbellton, Canada.
+> - **Holotype and referred specimens.** See Young (1983).
+> - **Diagnosis.** See Young (1983).
+> - **Remark.** Young (1983) redescribed specimens of *Phlyctaenius*.  He recognised a distinct morphological group within the Campbellton material and established *P. stenosus* based on consistent differences in skull roof proportions and dermal patterning. Multivariate analyses further support the separation of this form from *P. acadicus* and *P. atholi*. Diagnostic differences include a relatively narrower skull roof, distinctive proportional patterns of the dermal roofing bones, and characteristic distribution of measurements along the second axis of the morphometric space. The presence of a median postpineal, originally considered a diagnostic character, is here interpreted as a variable feature and is not regarded as taxonomically informative.
+> - **References.** [Young, 1983](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9304082)
 
 [*Pholidosteus friedeli*](https://deepbone.cn/public/#/explor?s_id=2672&functionId=Deepbone_header_searchResultOpen) Jaekel 1907
 > **Geological range.** upper Frasnian, 375.7, 372.2
@@ -1191,11 +1201,9 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - **References.** [Dennis and Miles, 1979b](https://academic.oup.com/zoolinnean/article-abstract/67/4/297/2664293); [Long, 1988b](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=6632199); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Turrisaspis elektor*](https://deepbone.cn/public/#/explor?s_id=2264&functionId=Deepbone_header_searchResultOpen) Daeschler, Frumes and Mullison, 2003
-> Famennian, 372.2, 358.9
+> **Geological range.** Famennian, 372.2, 358.9
 
-> Laurentia
-
-> - Catskill Formation, Pennsylvania, USA
+> - **Occurrence.** Catskill Formation, Pennsylvania, USA
 > - [Daeschler, Frumes and Mullison, 2003](https://media.australian.museum/media/Uploads/Journals/17953/1374_complete.pdf).
 
 [*Watsonosteus fletti*](https://deepbone.cn/public/#/explor?s_id=2435&functionId=Deepbone_header_searchResultOpen) Watson, 1932
