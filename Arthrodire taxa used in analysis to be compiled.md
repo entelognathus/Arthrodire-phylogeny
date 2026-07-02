@@ -998,6 +998,16 @@
 > - **Remarks.** In Stensiö’s (1963) reconstruction, the cheek complex of *Pachyosteus* is interpreted as comprising three elements: the suborbital plate, a postsuborbital plate (PoP3), and a fused postmarginal–submarginal plate (PoP3). A comparable arrangement may also occur in *Oxyosteus* and *Synauchenia*. Denison (1978) subsequently followed this interpretation. Here, characters associated with the postmarginal and submarginal plates of *Pachyosteus* were coded as unknown (?) owing to uncertainty in their interpretation.
 > - **References.** Denison, 1978; [Carr and Hlavin](https://academic.oup.com/zoolinnean/article/159/1/195/2608083), 2010; Stensiö, 1963.
 
+[*Pageauaspis russelli*](https://deepbone.org/public/#/top-search-list?keyword=Pageauaspis%20russelli) (Pageau, 1969)
+> **Geological range.** Emsian, 407.6, 393.3
+
+> - **Occurrence.** Battery Point formation, Quebec, Canada.
+> - **Holotype and referred specimens.** See Pageau, 1969
+> - **Diagnosis.** See Denison, 1978
+> - **Remarks.** This genus is monotypic, comprising a single species, *Pageauaspis russelli*, originally described as *Quebecaspis russelli* by Pageau (1969). Subsequently, Dension (1978) reassgined this species to the new genus *Pageauaspis*. 
+> - **References.** [Denison, 1978](https://www.abebooks.co.uk/9783437302657/Placodermi-Handbook-Paleoichthyology-Vol-2-3437302655/plp?cm_sp=plped-_-1-_-image)[Pageau, 1969]
+
+
 [*Panxiosteus ocullus*](https://deepbone.cn/public/#/explor?s_id=2439&functionId=Deepbone_header_searchResultOpen) Wang, 1979
 > Upper Givetian, 384.4, 382.7
 
@@ -1369,14 +1379,6 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 
 > - Borshchov Formation; Buchach, Podolia, Ukraine.
 > - [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short)
-
-[*Pageauaspis russelli*](https://deepbone.org/public/#/top-search-list?keyword=Pageauaspis%20russelli) Pageau, 1969
-> Emsian, 407.6, 393.3
-
-> Laurentia
-
-> - Battery Point formation, Quebec, Canada.
-> - [Denison, 1978](https://www.abebooks.co.uk/9783437302657/Placodermi-Handbook-Paleoichthyology-Vol-2-3437302655/plp?cm_sp=plped-_-1-_-image)[Pageau, 1969]
 
 [*Phyllolepis orvini*](https://deepbone.org/public/#/explor?s_id=2287&functionId=Deepbone_header_searchResultOpen) Heintz, 1930
 > Famennian, 372.7, 358.9
