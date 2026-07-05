@@ -2058,6 +2058,9 @@ separate, this character is scored as 'not applicable'.
 469.  Median dorsal plate proportionally higher than long: absent (0); present (1).
 > - This character is present in *Africanaspis* and *Tiaraspis*.
 
+470.  Dorsolateral groove (for accessory line) extends to median dorsal plate: absent (0); present (1).
+> - This character is present in some Phyllolepids, such as *Phyllolepis*, *Placolepis*, and *Austrophyllolepis*.
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
