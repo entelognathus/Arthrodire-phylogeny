@@ -2059,7 +2059,10 @@ separate, this character is scored as 'not applicable'.
 > - This character is present in *Africanaspis* and *Tiaraspis*.
 
 470.  Dorsolateral groove (for accessory line) extends to median dorsal plate: absent (0); present (1).
-> - This character is present in some Phyllolepids, such as *Phyllolepis*, *Placolepis*, and *Austrophyllolepis*.
+> - This character is present in some phyllolepids, such as *Phyllolepis*, *Placolepis*, and *Austrophyllolepis*.
+
+471.  Inferognathal comprises a tooth-covered dorsal occlusal lamina and a smooth, vertical anterolateral lamina：absent (0); present (1).
+> - This character is present in some phyllolepids.
 
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
@@ -2089,6 +2092,9 @@ separate, this character is scored as 'not applicable'.
 
 **cheek** Paranuchal plate overlaps the nuchal plate: absent (0); present (1).
  > -  This character is widely present in phlyctaeniids and brachythoracids. Goujet (1984) suggested that this overlapping relationship link to the development of the "posterior consolidated part of the skull" (Heintz 1932, p. 131; Stensiö 1963a), itself resulting from the differentiation or reinforcement of a dermal cervical articulation.
+
+** Otolith：absent (0); present (1).
+> - This character is present in phyllolepids and osteichthyans, whereas in chondrichthyans otoliths are absent, but otoconia serve the same function. 
 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
