@@ -590,6 +590,16 @@
 > - Gogo Formation, Canning Basin, Australia. -17.75, 125.17
 > - [Gardiner and Miles, 1994](https://academic.oup.com/zoolinnean/article-abstract/112/4/443/2646294); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
+[*Cowralepis mclachlani*](https://deepbone.org/public/#/explor?s_id=2470&functionId=Deepbone_header_searchResultOpen) Ritchie, 2005
+> **Geological range.** upper Givetian, 384.37, 382.7
+
+> - **Occurrence.** Merriganowry Shale Member, New South Wales, Australia.
+> - **Holotype and referred specimens.** See Ritchie (2005).
+> - **Diagnosis.** See Ritchie (2005).
+> - **Remarks.** *Cowralepis* is one of the best-preserved known arthrodires, represented by nearly complete dermal, endocranial, visceral, and axial skeletons, as well as a comprehensive growth series. Owing to this exceptional preservation, Ritchie (2005) re-examined several anatomical interpretations previously proposed for phyllolepids. For example, the small cheek elements of Austrophyllolepis, originally identified by Long (1984) as the postmarginal and suborbital plates, were reinterpreted as the submarginal plate and a hyoid arch element, respectively. Ritchie (2005) also revised the interpretation of several visceral and mandibular elements based on homologous structures preserved in *Cowralepis*, including the reinterpretation of the metapterygoid as the ceratohyal and the quadrate as the articular. In addition, *Cowralepis* preserves the second complete branchial skeleton described in placoderms, including the basihyal, after *Tapinosteus*. The anterior median ventral plate is preserved in *Cowralepis* and bears concave posterolateral margins that contact with the anterior ventrolateral plates. On the basis of this morphology, Ritchie (2005) suggested that the similarly shaped anteromesial corners of the anterior ventrolateral plates in *Placolepis* and *Austrophyllolepis* likewise indicate the presence of an anterior median ventral plate, although no such element has yet been recovered in either genus. The *Cowralepis* material demonstrates that the presence and number of posterior median ventral plates are variable within phyllolepids, ranging from none to two even among specimens referred to the same species (Ritchie, 2005). Consequently, this character should be treated with caution in taxonomic and phylogenetic studies, as its expression appears to reflect intraspecific variation rather than species-level differences.
+> - **Reference.**[Ritchie, 2005](https://www.biodiversitylibrary.org/part/183466)
+
+
 [*Cyrtosteus inflatus*](https://deepbone.cn/public/#/explor?s_id=2245&functionId=Deepbone_header_searchResultOpen) (Könen，1880)
 > **Geological range.** Upper Eifelian to Lower Givetian, 389.6, 386.0.
 
@@ -597,7 +607,7 @@
 > - **Holotype and referred specimens.** See Stensiö (1969).
 > - **Diagnosis.** See Stensiö (1969).
 > - **Remarks.** Koenen (1880) established *Coccosteus inflatus*. Subsequently, Gross (1932) considered *Coccosteus inflatus* to belong to Trematosteidae, noting that its small postpineal fenestra, high suborbital plate, and neck joint oriented perpendicular to the main axis indicated a close affinity with *Brachyosteus*. Accordingly, Gross erected the new genus *Cyrtosteus* to accommodate *Coccosteus inflatus*. This assignment was subsequently followed by Stensiö (1969) and Denison (1978).
-> - **Key References.** Stensiö (1969); Denison (1978).
+> - **References.** Stensiö (1969); Denison (1978).
 
 [*Dhanguura johnstoni*](https://deepbone.cn/public/#/explor?s_id=2141&functionId=Deepbone_header_searchResultOpen) Young, 2004
 > **Geological range.** Emsian, 407.6, 393.3
@@ -1064,6 +1074,23 @@
 > - **Remark.** Young (1983) redescribed specimens of *Phlyctaenius*.  He recognised a distinct morphological group within the Campbellton material and established *P. stenosus* based on consistent differences in skull roof proportions and dermal patterning. Multivariate analyses further support the separation of this form from *P. acadicus* and *P. atholi*. Diagnostic differences include a relatively narrower skull roof, distinctive proportional patterns of the dermal roofing bones, and characteristic distribution of measurements along the second axis of the morphometric space. The presence of a median postpineal, originally considered a diagnostic character, is here interpreted as a variable feature and is not regarded as taxonomically informative.
 > - **References.** [Young, 1983](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9304082)
 
+[*Phyllolepis orvini*](https://deepbone.org/public/#/explor?s_id=2287&functionId=Deepbone_header_searchResultOpen) Heintz, 1930
+> **Geological range.** Famennian, 372.7, 358.9
+
+> - **Occurrence.** Rødsten Formation, East Groenland and Scotland.
+> - **Holotype and referred specimens.** See Heintz (1932).
+> - **Diagnosis.** See Heintz (1932).
+> - **References.** [Stensio, 1934](https://search.worldcat.org/zh-cn/title/on-the-placodermi-of-the-upper-devonian-of-east-greenland-1-phyllolepida-and-arthrodira/oclc/491732290) Heintz (1930; 1932).
+
+[*Phyllolepis thomsoni*](https://deepbone.cn/public/#/explor?s_id=77441&functionId=Deepbone_header_searchResultOpen) Long & Daeschler 2013
+> **Geological range.** Upper Famennian 363.3, 358.9.
+
+> - **Occurrence.** Catskill Formation, Road cut exposure along the Covington Bypass, Route 15 (Interstate 99), near Covington, Tioga County, Pennsylvania, USA. Coordinates: N41°44.047’ W77°04.482’.
+> - **Holotype and referred specimens.** See Long & Daeschler (2013).
+> - **Diagnosis.** See Long & Daeschler (2013).
+> - **Remarks** In the reconstruction of Long and Daeschler (2013), the posterior pit-line and the dorsolateral sensory groove on the median dorsal plate are absent. However, examination of the published photographs suggests that the ornamentation along the expected course of these sensory structures is disrupted, with the normally parallel ridges becoming locally interrupted. This pattern is consistent with the presence of superficial sensory grooves that failed to produce well-defined impressions on the dermal surface.
+> - **Reference.** Long & Daeschler (2013).
+
 [*Pholidosteus friedeli*](https://deepbone.cn/public/#/explor?s_id=2672&functionId=Deepbone_header_searchResultOpen) Jaekel 1907
 > **Geological range.** upper Frasnian, 375.7, 372.2
 
@@ -1075,12 +1102,13 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - **References.** Gross (1932); Denison (1978); Stensiö (1963).
 
 [*Placolepis budawangensis*](https://deepbone.cn/public/#/explor?s_id=2471&functionId=Deepbone_header_searchResultOpen) Ritchie 1984
-> Lower or Middle Frasnian, 382.7,  375.7
+> **Geological range.** Lower or Middle Frasnian, 382.7,  375.7
 
-> East Gondwanan
-
-> - Budawang Range, Yalwal, Australia.
-> - Ritchie, 1984.
+> - **Occurrence.** Budawang Range, Yalwal, Australia.
+> - **Holotype and referred specimens.** Ritchie (1984).
+> - **Diagnosis.** See Ritchie (1984).
+> - **Remark.** In the reconstruction of *Placolepis* by Ritchie (1984), the median ventral plates, including both the anterior and posterior median ventral plates, were considered absent. However, Ritchie (2005) subsequently suggested that the rounded anteromesial corners of the anterior ventrolateral plates indicate the presence of an anterior median ventral plate, although he was unable to locate or identify such an element among the dissociated material of *Placolepis*.
+> - **References.** Ritchie, 1984.
 
 [*Plourdosteus canadensis*](https://deepbone.cn/public/#/explor?s_id=2659&functionId=Deepbone_header_searchResultOpen) (Woodward, 1892)
 > middle Frasnian, 379.2, 375.7
@@ -1373,14 +1401,6 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - Beartooth Butte Formation; Beartooth Butte, Wyoming, USA.
 > - [Bryant,1934](http://www.jstor.org/stable/984757)
 
-[*Cowralepis mclachlani*](https://deepbone.org/public/#/explor?s_id=2470&functionId=Deepbone_header_searchResultOpen) Ritchie, 2005
-> upper Givetian, 384.37, 382.7
-
-> East Gondwana
-
-> - Merriganowry Shale Member, New South Wales, Australia.
-> - [Ritchie, 2005](https://www.biodiversitylibrary.org/part/183466)
-
 [*Kujdanowiaspis buczacziensis*](https://deepbone.org/public/#/explor?s_id=2123&functionId=Deepbone_header_searchResultOpen) Brotzen, 1934
 > lower Pragian, 410.8, 409.2
 
@@ -1388,14 +1408,6 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 
 > - Borshchov Formation; Buchach, Podolia, Ukraine.
 > - [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short)
-
-[*Phyllolepis orvini*](https://deepbone.org/public/#/explor?s_id=2287&functionId=Deepbone_header_searchResultOpen) Heintz, 1930
-> Famennian, 372.7, 358.9
-
-> Laurentia
-
-> - East Groenland and Scotland
-> - [Stensio, 1934](https://search.worldcat.org/zh-cn/title/on-the-placodermi-of-the-upper-devonian-of-east-greenland-1-phyllolepida-and-arthrodira/oclc/491732290)
 
 [*Proaethaspis ohioensis*](https://deepbone.org/public/#/explor?s_id=2477&functionId=Deepbone_header_searchResultOpen) (Denison, 1960)
 > Pragian, 410.8, 407.6
