@@ -450,25 +450,25 @@
 > - **Holotype and referred specimens.** See Goujet (1984).
 > - **Diagnosis.** See Goujet (1984).
 > - **Remarks.** Heintz (1929b) erected *Arctolepis solnordali* based on a single, incompletely prepared cranial roof (PMO B099), distinguishing it from *A. decipiens* primarily by the greater depth of the orbital notches, together with several additional features, including the shape of the rostral plate, the orientation of the preorbitocentral suture, and the course of the supraorbital sensory groove. Goujet (1984), however, re-examined these characters and concluded that they resulted largely from incomplete preparation and misinterpretation of the specimen. In particular, the apparent orbital margins were shown to represent the mesial boundary of the supraocular area rather than the true orbital margin, whereas the seemingly enlarged pineal opening corresponded to the truncated infilling of the dermal pineal pit. Furthermore, several of the original diagnostic features had already been revised by Heintz himself (1962). As no consistent morphological differences could be identified between *A. solnordali* and *A. decipiens*, and given their occurrence from the same locality and comparable preservational conditions, Goujet (1984) regarded *A. solnordali* as a junior synonym of *A. decipiens*. Goujet (1984) considered that the postnasal of *Arctolepis* is absent and suggested that the postnasal in *Dicksonosteus*, *Heintzosteus*, and *Arctolepis* had a marked tendency toward progressive reduction.
-> - [Goujet, 1984](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9046910).
-> - 
+> - **References.** [Goujet, 1984](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9046910).
+
 
 [*Arenipiscis westolli*](https://deepbone.cn/public/#/explor?s_id=164607&functionId=Deepbone_header_searchResultOpen) Young, 1981
-> Emsian, 407.6, 393.3 
+> **Geological range.** Emsian, 407.6, 393.3 
 
-> East Gondwanan
-
-> - Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales, Australia.
-> - [Young,1981](https://www.tandfonline.com/doi/abs/10.1080/03115518108566994).
-> - This OTU is not in the matrix.
+> - **Occurrence.** Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales, Australia.
+> - **Holotype and referred specimens.** See Young, 1981.
+> - **Diagnosis.** See Young, 1981
+> - **References.** [Young,1981](https://www.tandfonline.com/doi/abs/10.1080/03115518108566994).
 
 [*Austrophyllolepis ritchiei* ](https://deepbone.cn/public/#/explor?s_id=2160&functionId=Deepbone_header_searchResultOpen)
-> upper Givetian, 384.37, 382.7
+> **Geological range.** upper Givetian, 384.37, 382.7
 
-> East Gondwanan
-
-> - Avon River Group, Victoria, Australia. MAV8
-> - [Long,1984](https://www.researchgate.net/publication/257938652_New_phyllolepids_from_Victoria_and_the_relationships_of_the_Group);.
+> - **Occurrence.** Avon River Group, Victoria, Australia. MAV8
+> - **Holotype and referred specimens.** See Long, 1984.
+> - **Diagnosis.** See Long, 1984.
+> - **Remarks.** The genus *Austropyllolepis* comprises two sepcies, *Austrophyllolepis ritchiei* and *Austrophyllolepis youngi*. Long (1984) distinguished these species primarily on the basis of the proportions of the dermal armour, particularly the preorbital, paranuchal, nuchal, and median dorsal plates. Apart from these proportion differences, the two speices are otherwise nearly same morphologically. Long (1984) therefore suggested that they might represent sexual dimorphs of a speices, although this hypothesis is diffcult to test because pelvic girdles, which could potentially preserve sexually dimorphic characters, are rarely preserved. Ritchie (2005) subsequently proposed that two forms of *Austrophyllolepis* may instead represent a single species, arguing that the observed proportional differences could have resulted from taphonomic deformation during burial and diagenesis, supported by the occurence of comparable proportional variation among specimens of *Cowralepis*, where differences in dermal plate proportions are likewise considered to reflect preservational distortion rather than taxonomic distinction. Long and Daeschler (2013) conisdered Ritchie's hypothesis to remains rigorously untested. 
+> - **References.**[Long,1984](https://www.researchgate.net/publication/257938652_New_phyllolepids_from_Victoria_and_the_relationships_of_the_Group);.
 
 [*Baringaspis dineleyi*](https://deepbone.cn/public/#/explor?s_id=2479&functionId=Deepbone_header_searchResultOpen) Miles, 1973
 > upper Lochkovian, 415.0, 410.8
