@@ -739,11 +739,10 @@
 > - [Long, 1990](https://researchnow.flinders.edu.au/en/publications/two-new-arthrodires-placoderm-fishes-from-the-upper-devonian-gogo); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Gavinaspis convergens*](https://deepbone.org/public/#/explor?s_id=2473andfunctionId=Deepbone_header_searchResultOpen) Dupret and Zhu, 2008
-> upper Lochkovian, 415.0, 410.8
+> **Geological range.** upper Lochkovian, 415.0, 410.8
 
-> South China
-
-> - Xitun Formation; Qujing, Yunnan, China.
+> - **Occurrence.** Xitun Formation; Qujing, Yunnan, China.
+> - **Holotype.**
 > - [Dupret and Zhu, 2008](https://pubs.geoscienceworld.org/geolmag/article-abstract/145/2/257/65693/The-earliest-phyllolepid-Placodermi-Arthrodira?redirectedFrom=fulltext)
 
 [*Gemuendenaspis angusta*](https://deepbone.cn/public/#/explor?s_id=2431&functionId=Deepbone_header_searchResultOpen) (Traquair, 1903)
