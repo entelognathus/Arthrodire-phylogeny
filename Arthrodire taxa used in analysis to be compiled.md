@@ -1251,12 +1251,12 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/260808); [Long, 1987](https://www.researchgate.net/profile/John-Long-17/publication/257939064_A_new_dinichthyid_fish_Placodermi_Arthrodira_from_the_Upper_Devonian_of_Western_Australia_with_a_discussion_of_dinichthyid_interrelationships/links/0c960528c4492a9c0d000000/A-new-dinichthyid-fish-Placodermi-Arthrodira-from-the-Upper-Devonian-of-Western-Australia-with-a-discussion-of-dinichthyid-interrelationships.pdf).
 
 [*Wuttagoonaspis fletcheri*](https://deepbone.cn/public/#/explor?s_id=3621&functionId=Deepbone_header_searchResultOpen) Ritchie 1973
-> Emsian, 407.6, 393.3
+> **Geological range.** Emsian, 407.6, 393.3
 
-> East Gondwanan
-
-> - Mulga Downs Group, New South Wales, Australia
-> - [Ritchie 1973](https://www.schweizerbart.de/papers/pala/detail/A143/70796/iWuttagoonaspis_i_gen_nov_an_unusual_arthrodire_from_the_Devonian_of_Western_New_South_Wales_Australia?l=FR); [Young and Goujet 2003](https://museum.wa.gov.au/research/records-supplements/records/devonian-fish-remains-dulcie-sandstone-and-cravens-peak-beds-ge)
+> - **Occurrence.** Mulga Downs Group, New South Wales, Australia.
+> - **Holotype and referred specimens.** See Ritchie (1973).
+> - **Diagnosis.** See Ritchie (1973).
+> - **References.** [Ritchie 1973](https://www.schweizerbart.de/papers/pala/detail/A143/70796/iWuttagoonaspis_i_gen_nov_an_unusual_arthrodire_from_the_Devonian_of_Western_New_South_Wales_Australia?l=FR); [Young and Goujet 2003](https://museum.wa.gov.au/research/records-supplements/records/devonian-fish-remains-dulcie-sandstone-and-cravens-peak-beds-ge)
 
 [*Xiangshuiosteus wui*](https://deepbone.cn/public/#/explor?s_id=2433&functionId=Deepbone_header_searchResultOpen) Wang, 1992
 >  **Geological range.** upper Emsian, 400.45, 393.3
@@ -1265,7 +1265,7 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - **Holotype.** IVPP V9758, a near-complete skull roof external mould.
 > - **Diagnosis.** See Wang (1992).
 > - **Remarks.** In the reconstruction of Wang (1992), the two branches of the posterior pit line are reconstructed as continuous. However, our examination of the specimen suggests that these branches are separate and do not form a continuous groove. Wang (1992) also interpreted the dermal preorbital process as absent and the anterior portion of the external mould of the preorbital plate is distinctly dorsally upturned, implying the presence of an anterior descending lamina of the preorbital plate. The pineal open of *Xiangshuiosteus* is large, a distinct condition in arthrodires.
-> - [Wang, 1992](https://www.vertpala.ac.cn/EN/abstract/abstract544.shtml)
+> - **References.** [Wang, 1992](https://www.vertpala.ac.cn/EN/abstract/abstract544.shtml)
 
 [*Xiantingosteus gracilis*]() 
 > **Geological range.** Upper Givetian, 384.37, 382.7
