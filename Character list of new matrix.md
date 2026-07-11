@@ -2067,6 +2067,9 @@ separate, this character is scored as 'not applicable'.
 472.  Entry point of the main lateral line canal on the paranuchal plate: lateral (0); close to the medial margin (1).
 > - This character is present in *Placolepis* and *Cowralepis*. Ritchie (2005) and Long & Daeschler (2013) regarded this character as phylogenetically informative and used it to infer relationships within phyllolepids.
 
+473.  Postorbital and postnasal: separate (0); contact (1).
+> - This character is present in actinolepids.
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
