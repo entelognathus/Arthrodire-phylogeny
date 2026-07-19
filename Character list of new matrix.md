@@ -2073,6 +2073,11 @@ separate, this character is scored as 'not applicable'.
 474.  Main sensory line demarcates a dorsal and a lateral laminae of skull roof: absent (0); present (1).
 > - This character is present in *Kujdanowiaspis*, *Heightingtonaspis*, and *Eskimaspis*.
 
+475.  Contact between preorbital plate and central plate：preorbital plate contacts the ipsilateral central plate only (0); one preorbital plate contacts the contralateral central plate across the midline (1).
+> - This character is present in kujdanowiaspids, such as in *Kujdanowiaspis*, *Heightingtonaspis*, and *Eskimaspis*.
+<img width="704" height="566" alt="image" src="https://github.com/user-attachments/assets/63ba37e6-d98c-4eaf-9c88-e79138024072" />
+
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
