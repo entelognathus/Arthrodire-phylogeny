@@ -2077,6 +2077,8 @@ separate, this character is scored as 'not applicable'.
 > - This character is present in kujdanowiaspids, such as in *Kujdanowiaspis*, *Heightingtonaspis*, and *Eskimaspis*.
 <img width="704" height="566" alt="image" src="https://github.com/user-attachments/assets/63ba37e6-d98c-4eaf-9c88-e79138024072" />
 
+476.  Main lateral lane ends on the posterior lateral plate: absent (0); present (1).
+> - This character is present in kujdanowiaspis and some phlycatenids.
 
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
