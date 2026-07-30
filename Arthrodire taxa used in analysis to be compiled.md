@@ -472,13 +472,15 @@
 > - **References.**[Long,1984](https://www.researchgate.net/publication/257938652_New_phyllolepids_from_Victoria_and_the_relationships_of_the_Group);.
 
 [*Baringaspis dineleyi*](https://deepbone.cn/public/#/explor?s_id=2479&functionId=Deepbone_header_searchResultOpen) Miles, 1973
-> upper Lochkovian, 415.0, 410.8
+> **Geological range.** upper Lochkovian, 415.0, 410.8
 
-> Laurentia
+> - **Occurrence.** Peel Sound Formation, Princess of Wales Island, Canada.
+> - **Holotype and referred specimens.** See Miles, 1973 and Dineley & Liu, 1984.
+> - **Diagnosis.** See Miles, 1973.
+> - **Remarks.** Miles (1973) reported the first arthrodire material from the Peel Sound Formation, including one isolated suborbital plates and one articular specimen (Miles 1973, pl.13, fig.2; pl.14, fig. 5), that he referred to *Baringaspis*. Subsequently, Dineley & Liu (1984) described a second arthrodire from the formation, *Eskimaspis*, and reassigned Miles' specimens to this genus on the basis of their dermal ornamentation. In addition, the isolated median dorsal plate figured by Miles (1973, pl. 15, fig. 3) may also be referable to *Eskimaspis*. Its ornamentation, comprising concentrically arranged tubercles, differs markedly from the radiating ridges characteristic of *Baringaspis* and instead more closely resembles the ornamentation of *Eskimaspis*. The pattern of the sensory grooves is variable in *Baringaspis*, particularly among three specimens (Miles, 1973, pl.13, fig.5; also 13222 and 13261). In these specimens, the central sensory groove extends across the central plate onto the nuchal plate and terminates near its ossification center. In addition, the posterior segment of the posterior pit line is directed toward the same ossification center. This sensory groove pattern closely resembles that of antarctaspids, such as *Yujiangolepis*, *Potangaspis*, and *Toombalepis*. The extension of the central sensory groove across central plate onto the nuchal plate represents a highly unusual condition among arthrodires. Interestingly, a new, as yet unpublished arthrodire from the Posongchong Formation of Guangnan exhibits a similar sensory-groove arrangement.
+<img width="1279" height="1706" alt="5d2550ce10135d7b68a23a711528a932" src="https://github.com/user-attachments/assets/aff7e703-7753-4a9a-b22d-017cd2442ed9" />
+ > - **References.** [Miles, 1973](https://www.researchgate.net/publication/285456051_An_actinolepid_arthrodire_from_the_Lower_Devonian_Peel_Sound_Formation_Prince_of_Wales_Island), 
 
-> - Peel Sound Formation, Princess of Wales Island, Canada. 
-> - [Miles, 1973](https://www.researchgate.net/publication/285456051_An_actinolepid_arthrodire_from_the_Lower_Devonian_Peel_Sound_Formation_Prince_of_Wales_Island)
-> - **The Source reference in deepbone is questionable.**
 
 [*Belgiosteus mortelmansi*](https://deepbone.cn/public/#/explor?s_id=2641&functionId=Deepbone_header_searchResultOpen) Lehman, 1973
 > **Geological range.** Givetian, 387.7, 382.7
@@ -487,7 +489,7 @@
 > - **Holotype.** Housed in the collections of the Université libre de Bruxelles. See Lehman, 1973
 > - **Diagnosis.** See Lehman, 1973 and Denison, 1978.
 > - **Remarks.** Lehman (1973) interpreted the sensory groove on the paranuchal plate as the posterior pit line, extending posteromedially. This condition differs from that observed in most other arthrodires, in which the posterior pit line typically extends anteromedially. By contrast, in arthrodires, the occipital cross-commissure usually extends posteromedially across the paranuchal plate. Here, we consider the groove identified by Lehman to represent occipital cross-commissure rather than a true posterior pit line homologous with that of other taxa.
-> - **Key References.** Lehman, 1973 and Denison, 1978.
+> - **References.** Lehman, 1973 and Denison, 1978.
 
 [*Belosteus elegans*](https://deepbone.cn/public/#/explor?s_id=2243&functionId=Deepbone_header_searchResultOpen) Jaekel, 1919
 > **Geological range.** upper Frasnian, 375.7, 372.2
@@ -496,7 +498,7 @@
 > - **Holotype and referred specimens.** See Stensiö, 1963.
 > - **Diagnosis.** See Stensiö, 1963.
 > - **Remarks.**  This genus is established by Jaekel 1919, including: *B.acutus*, *B.elegans*, *B.acuticeps*, and *B. pusillus*. Gross (1932) suggested that with the exception of *B.elegans*, other species names appeared only on specimens labels. He further noted that the specimen originally labelled as B. acutus likely corresponded to the form later referred to as *B. elegans*, and therefore established *Belosteus major* sp. nov. to avoid taxonomic confusion. *Belosteus major* is distinguished by its relatively large body size. *B. acuticeps* and *B. pusillus* are considerably smaller and closely resemble each other in skull roof morphology. The only difference between two species is the pineal plate contacting the rostral plate in *B. acuticeps*. Denison (1978) referred *B acuticeps* to *Parabelosteus* and conisdered that *B. major*, *B. actuts*, and *Helmerosteus laticeps* are junior synonyms of *B. elegans*.
-> - **Key references.** Gross, 1932; Stensiö, 1963; and Denison, 1978.
+> - **References.** Gross, 1932; Stensiö, 1963; and Denison, 1978.
 > <img width="3612" height="2827" alt="Trematosteidae" src="https://github.com/user-attachments/assets/ce08a201-9085-4e36-ac21-9d457ff61a8b" />
 
 [*Bollandaspis woschmidti*](https://deepbone.cn/public/#/explor?s_id=2467&functionId=Deepbone_header_searchResultOpen) Schmidt, 1976
@@ -514,7 +516,7 @@
 > - **Holotype and referred specimens.** See Stensiö, 1963.
 > - **Diagnosis.** Gross, 1932 and Denison, 1978.
 > - **Remarks.** In the reconstruction of Gross (1932), the postorbital branch of the infraorbital sensory groove is reconstructed as present, whereas Stensiö (1963) reconstructed it as absent. Examination of the photographic material presented by Stensiö (1963) supports the absence of this sensory groove, and we therefore code this character accordingly. A comparable condition is also present in *Parabelosteus* and *Trematosteus*. The lateral process of rostral plate (pr.pr.l) is present in *Brachyosteus*. Stensiö (1963) considered this process to participate in the boundary of the incurrent fenestra exonarhina (incurrent nostril).
-> - **Key references.** Gross, 1932; Stensiö, 1963; and Denison, 1978.
+> - **References.** Gross, 1932; Stensiö, 1963; and Denison, 1978.
 
 [*Braunosteus schmidti*](https://deepbone.cn/public/#/explor?s_id=2256&functionId=Deepbone_header_searchResultOpen) Stensiö, 1959
 > **Geological range.** upper Frasnian, 375.7, 372.2
@@ -522,7 +524,7 @@
 > - **Holotype and referred specimens.** See Stensiö, 1963.
 > - **Diagnosis.** Stensiö, 1963 and Denison, 1978.
 > - **Remarks.** *Braunosteus* was established by Stensiö (1959), who provided a detailed description of the scapulocoracoid and pectoral fin, together with a preliminary reconstruction of the skull roof. Subsequently, Stensiö (1963) presented a more comprehensive description of *Braunosteus* and provided a detailed reconstruction of the skull roof. He considered *Braunosteus* share several diagnositc features with Trematosteidae, including the presence of a long postpineal fenestra separating central plates and the fusion of postnasal and preorbial plates. However, *Braunosteus* differs from trematosteids in the morphology of the scapulocoracoid and pectoral fin. Accordingly, Stensiö (1963) established Braunosteidae to accommodate *Braunosteus* alone and suggested that Braunosteidae belong to a of Pachyostemorph superfamily or group, that also inlcuded trematosteids. Obruchev (1964) and Miles (1969) referred *Braunosteus* to Trematosteidae, on the basis of the presence of a postpineal fenestra and the similar jaw mechanism. Denison (1978), however, did follow these interpretations. He argued that the postpineal fenestra is also present in several other aspinothoracid families and therefore should not be regarded as a diagnostic feature referred *Braunosteus* to trematosteids. Instead, Denison emphasized a series of similarities between *Braunosteus* and selenosteids, including large orbits bounded posteriorly by the marginal plates, elongate central plates, non-elongate preorbital plates, short cheek regions, low suborbital blades, weak infragnathals, and a neck slit sloping anteroventrally beneath the head. In addition, the scapulocoracoid morphology of *Braunosteus* resembled that in *Pachyosteus*, *Enseosteus*. Consequently, Denison (1978) referred *Braunosteus* to Selenosteidae. In the reconstruction of Stensiö (1963), the postorbital plate contacts the paranuchal plate, thereby separating the central and marginal plates. However, in his diagnosis of *Braunosteus*, Stensiö noted that although the basal portions of the paranuchal and postorbital plates may have been in contact, this sutural contact was possibly overlapped superficially by the dorsomedial corner of the marginal plate. Accordingly, we follow this interpretation and consider that the postorbital and paranuchal plates were separated on the dermal surface. The suborbital plate of *Braunosteus* is incompletely preserved, with only the suborbital branch retained. Consequently, the available material illustrated by Stensiö (1963) does not allow assessment of whether the marginal plate formed part of the orbital margin.
-> - **Key references.** Stensiö, 1959, 1963; Denison, 1978.
+> - **References.** Stensiö, 1959, 1963; Denison, 1978.
 
  [*Bruntonichthys multidens*](https://deepbone.cn/public/#/explor?s_id=2221&functionId=Deepbone_header_searchResultOpen) Dennis & Miles, 1980
 > lower Frasnian, 382.7, 379.2
