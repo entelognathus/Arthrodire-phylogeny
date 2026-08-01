@@ -548,6 +548,7 @@
 > - **Occurrence.** Water Canyon Formation of northern Utah and southern Idaho, USA.
 > - **Holotype and referred specimens.** See Elliott and Carr (2010).
 > - **Diagnosis.** See Elliott and Carr (2010).
+> - **Remarks.**  Denison (1958) described a specimen of *Bryantolepis* sp. based on an incomplete anterior portion of the skull roof. Owing to its close similarity in size and proportions to the holotype skull roof of *Bryantolepis williamsi*, Elliott and Carr (2010) referred this specimen to *B. williamsi*, despite its slightly larger size.
 > - **Reference.** Elliott and Carr, 2010.
 
 [*Buchanosteus confertituberculatus*](https://deepbone.org/public/#/explor?s_id=2426andfunctionId=Deepbone_header_searchResultOpen) (Chapman, 1916)
