@@ -534,12 +534,21 @@
 > - [Dennis & Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
 
 [*Bryantolepis brachycephala*](https://deepbone.cn/public/#/explor?s_id=2500&functionId=Deepbone_header_searchResultOpen)（Bryant,1932）
-> Pragian, 410.8, 407.6
+> **Geological range.** Pragian, 410.8, 407.6
 
-> Laurentia
+> - **Occurrence.** Beartooth Butte Formation, Wyoming, USA.
+> - **Holotype and referred specimens.** See Byant 1932.
+> - **Diagnosis** See Denison (1978)
+> - **Remarks.** *Bryantolepis brachycephala* was originally described by Bryant (1932) as *Euryaspis brachycephala* based on material from the Beartooth Butte Formation of Wyoming, USA. Because the generic name *Euryaspis* Bryant, 1932 was preoccupied, Camp et al. (1949) proposed the replacement name *Bryantolepis*. Bryant (1934) subsequently described three additional species, *B. obscura*, *B. cristata*, and *B. major*. Denison (1958) revised the genus and regarded *B. obscura* as a junior synonym of *B. brachycephala*, suggested that *B. cristata* was probably conspecific with the type species, and excluded *B. major* from *Bryantolepis*, considering it more likely referable to *Anarthraspis*. Consequently, *B. brachycephala* remained the only well-supported species of the genus until Elliott and Carr (2010) described *Bryantolepis williamsi* from the Water Canyon Formation of Utah and Idaho. Subsequent phylogenetic studies have consistently recovered *Bryantolepis* as a basally branching arthrodire.
+> - **References.** [Bryant, 1932](https://www.jstor.org/stable/984700); Bryant, 1934; Denison, 1958; Denison, 1962; Denison, 1978; Elliott and Carr (2010).
 
-> - Beartooth Butte Formation, Wyoming, USA
-> - [Bryant, 1932](https://www.jstor.org/stable/984700); Denison, 1962
+[*Bryantolepis williamsi*](https://deepbone.cn/public/#/explor?s_id=75970) Elliott and Carr (2010)
+> **Geological range.** Emsian, 407.6, 393.3
+
+> - **Occurrence.** Water Canyon Formation of northern Utah and southern Idaho, USA.
+> - **Holotype and referred specimens.** See Elliott and Carr (2010).
+> - **Diagnosis** See Elliott and Carr (2010).
+> - **Reference.** Elliott and Carr, 2010.
 
 [*Buchanosteus confertituberculatus*](https://deepbone.org/public/#/explor?s_id=2426andfunctionId=Deepbone_header_searchResultOpen) (Chapman, 1916)
 > **Geological range.** Emsian, 407.6, 393.3
