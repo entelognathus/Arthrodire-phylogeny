@@ -1267,6 +1267,7 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - **Occurrence.** Mulga Downs Group, New South Wales, Australia.
 > - **Holotype and referred specimens.** See Ritchie (1973).
 > - **Diagnosis.** See Ritchie (1973).
+> - **Remarks.** suborbital plate homologous. The suborbital and postsuborbital plates are firmly articulated with the preorbital plate in *Wuttagoonaspis*, whereas the submarginal plate has only a loose contact with the skull roof. This condition is unusual among arthrodires. We consider this highly specialized configuration to have evolved from the more generalized condition of loose contact between the cheek plates and skull roof seen in other actinolepids. Accordingly, the character “Development of cheek/skull roof overlap” is coded as 0 (loose contact).  
 > - **References.** [Ritchie 1973](https://www.schweizerbart.de/papers/pala/detail/A143/70796/iWuttagoonaspis_i_gen_nov_an_unusual_arthrodire_from_the_Devonian_of_Western_New_South_Wales_Australia?l=FR); [Young and Goujet 2003](https://museum.wa.gov.au/research/records-supplements/records/devonian-fish-remains-dulcie-sandstone-and-cravens-peak-beds-ge)
 
 [*Xiangshuiosteus wui*](https://deepbone.cn/public/#/explor?s_id=2433&functionId=Deepbone_header_searchResultOpen) Wang, 1992
