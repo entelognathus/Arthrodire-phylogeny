@@ -2086,6 +2086,9 @@ separate, this character is scored as 'not applicable'.
 478.  Posterior median depression of median doesal plate: absent (0); present (1).
 > - This character is present in diandongpetalichthyids.
 
+479.  Ventral pit on the visceral surface of median dorsal plate: absent (0); present (1).
+> -  Zhu (1990) suggeted that the ventral pit on the visceral surface of median dorsal plate is a synapomorphy of petalithchyids.
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
