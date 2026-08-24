@@ -2083,6 +2083,9 @@ separate, this character is scored as 'not applicable'.
 477.  Constricted contact between rostral and pineal plate: absent (0); present (1).
 > - This character is present in wuttagoonaspids, *Bryantolepis*, and *Anarthraspis*.
 
+478.  Posterior median depression of median doesal plate: absent (0); present (1).
+> - This character is present in diandongpetalichthyids.
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
