@@ -2089,6 +2089,9 @@ separate, this character is scored as 'not applicable'.
 479.  Ventral pit on the visceral surface of median dorsal plate: absent (0); present (1).
 > -  Zhu (1990) suggeted that the ventral pit on the visceral surface of median dorsal plate is a synapomorphy of petalithchyids.
 
+480.  Overlapping relationship between posterior ventrolateral plates: left over right (0); right over left (1).
+> - State 1 is present in *Willamaspis* and tianchids, and Zhu (1990) regarded this condition as a synapomorphy of tianchids.
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
