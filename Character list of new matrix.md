@@ -2095,6 +2095,9 @@ separate, this character is scored as 'not applicable'.
 481.  Number of median dorsal ridge on the median dosral plate: one (0); two (1).
 > - State 1 is present in *Diandongpetalichthys*, *Lunaspis*, and *Tianchia*
 
+482.  Posterior descending lamina of skull roof extending beyond the posterior margin of the skull roof: absent (0); present (1).
+> - State 1 is a synapomorphy of quasipetalichthyids.
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
