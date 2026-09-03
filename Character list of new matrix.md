@@ -2098,6 +2098,12 @@ separate, this character is scored as 'not applicable'.
 482.  Posterior descending lamina of skull roof extending beyond the posterior margin of the skull roof: absent (0); present (1).
 > - State 1 is a synapomorphy of quasipetalichthyids.
 
+483.  Central plate separate preorbital and postorbital plates: absent (0); present (1).
+> - State 1 is a synapomorphy of macropetalichthyids.
+
+484.  Preorbital recess: absent (0); present (1).
+> This character is present in some macropetalichthyids. A similarly termed recess is also present in antiarchs, but differs in being unpaired and located anterior to the orbital fenestra. The recesses in macropetalichthyids and antiarchs are considered to be non-homologous based on their differing morphology and position
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
