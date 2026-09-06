@@ -37,7 +37,7 @@
 > **Geological range.** Upper Givetian, 384.4, 382.7
 
 > -  **Occurrence.** Bird Fiord Formation, southwestern Ellesmereland, Arctic Canada.
-> -  **Holotype and referred specimens.** See Castiello 2021 et al., 2021.
+> -  **Holotype and referred specimens.** See Ørvig, 1957 and Castiello 2021 et al., 2021.
 > -  **Diagnosis.** See Ørvig, 1957 and Castiello et al., 2021.
 > -  **Remarks.** *Macropetalichthys scheii* was originally assigned to *Macropetalichthys* by Kiær (1915) based mainly on the morphology of the dermal skull roof. Ørvig re-examined the holotype and identified ossifications in the posterior part of the endocranium, which differ markedly from those of *M. rapheidolabis* , the type species of *Macropetalichthys*. On this basis, Ørvig removed *M. scheii* from *Macropetalichthys* and established *Ellopetalichthys* for this species. This assignment was subsequently followed by Castiello et al., 2021.
 > - **References**[Ørvig, 1957](https://foreninger.uio.no/ngf/ngt/pdfs/NGT_37_3&4_285-354.pdf); [Castiello, 2021](https://pubs.geoscienceworld.org/cjes/article-abstract/58/1/93/594043/Endocranial-morphology-of-the-petalichthyid)
