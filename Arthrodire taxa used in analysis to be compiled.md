@@ -26,12 +26,13 @@
 > - [Ji and Pan, 1999]
 
 [*Diandongpetalichthys liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=3251andfunctionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
-> lower Lochkovian, 419.2, 415.0
+> **Geological range.** lower Lochkovian, 419.2, 415.0
 
-> South China 
-
-> - Xishancun Formation, Qujing, Yunnan, China. 
-> - [Zhu, 1991]
+> - **Occurrence.** Xishancun Formation, Qujing, Yunnan, China.
+> - **Holotype and referred specimens.** See P'an and Wang, 1978 and Zhu, 1990, 1991.
+> - **Diagnosis.** See Zhu, 1990, 1991.
+> - **Remarks.**
+> - **References.** P'an and Wang, 1978, P'an et al., 1988; Zhu, 1990; [Zhu, 1991].
 
 [*Ellopetalichthys scheii*](https://deepbone.org/public/#/explor?s_id=2382&functionId=Deepbone_header_searchResultOpen) (Kiaer, 1915)
 > **Geological range.** Upper Givetian, 384.4, 382.7
