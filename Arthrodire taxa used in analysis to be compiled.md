@@ -53,11 +53,14 @@
 > - [Ørvig, 1957](https://foreninger.uio.no/ngf/ngt/pdfs/NGT_37_3&4_285-354.pdf); [Sallan and Coates, 2010](https://www.pnas.org/doi/abs/10.1073/pnas.0914000107)
 
 [*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257andfunctionId=Deepbone_header_searchResultOpen) Liu, 1991
-> Givetian, 387.7, 382.7
+> **Geological range.** Givetian, 387.7, 382.7
 
-> South China
-
-> - Xichong Formation; Zhanyi & Qujing, Yunnan, China. 
+> - **Occurrence.** Xichong Formation; Zhanyi & Qujing, Yunnan, China.
+> - **Holotype.** IVPP V9477. 1, nearly complete skull roof in dorsal side, broken anteriorly.
+> - **Paratype.** IVPP V9477. 2, nearly complete skull roof in dorsal side, partly broken margins.
+> - **referred specimens.** See Liu, 1991.
+> - **Diagnosis.** See Liu, 1991.
+> - **Remarks.** A small foramen is present on the dorsal surface of the posterior paranuchal plate, close to its medial margin. Liu (1991) interpreted this foramen as an opening associated with cutaneous sensory cells. However, based on their study of *Pauropetalichthys*, Pan et al. (2015) argued that this interpretation is incorrect and suggested that the foramen instead represents the external opening of the endolymphatic duct. This condition possibly represents a short dermal endolymphatic duct, which may be a plesiomorphic condition also present in some actinolepids, including *Actinolepis*, *Szelepis*, and *Gavinaspis*. The visceral surface of the nuchal plate bears a prominent central thickening, which possibly corresponds to the occipital fontanel of the endocranium. A similar thickening is also present in *Pauropetalichthys*, where remnants of the endocranial perichondral bone are preserved surrounding the thickening, providing further support for its correspondence with the occipital fontanel. 
 > - [Liu, 1991](https://bionames.org/references/9f65a1579e030b0425866545640f7f27)
 
 [*Guangxipetalichthys bobeiensis*](https://deepbone.org/public/#/explor?s_id=3261&functionId=Deepbone_header_searchResultOpen) Ji and Pan, 1997
