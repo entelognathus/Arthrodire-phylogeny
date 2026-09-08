@@ -69,6 +69,7 @@
 > - **Occurrence.** ‘Xindu Formation’; Bobai, Guangxi, China.
 > - **Holotype and References.** See Ji and Pan, 1997.
 > - **Diagnosis.** See Ji and Pan, 1997.
+> - **Remarks.** TThe anterior lateral plate of *Guangxipetalichthys* is peculiar in bearing a well-developed postbranchial lamina, with the paired laminae possibly meeting at the midline. This well-developed lamina may have functionally replaced the postbranchial lamina of the interolateral plate. The anterior ventral plate is present in Guangxipetalichthys, suggesting that this plate may be widely present among petalichthyids. In *Lunaspis*, however, a T-shaped plate is present anteromedial to the anterior ventral plate, which Gross (1961) interpreted as an anterior median ventral plate.
 > - **References** [Ji and Pan, 1997](https://www.vertpala.ac.cn/EN/Y1997/V35/I01/18)
 
 [*Guangxipetalichthys tiaomajianensis*](https://deepbone.org/public/#/explor?s_id=3262&functionId=Deepbone_header_searchResultOpen) Ji and Pan, 1997
