@@ -61,15 +61,15 @@
 > - **referred specimens.** See Liu, 1991.
 > - **Diagnosis.** See Liu, 1991.
 > - **Remarks.** A small foramen is present on the dorsal surface of the posterior paranuchal plate, close to its medial margin. Liu (1991) interpreted this foramen as an opening associated with cutaneous sensory cells. However, based on their study of *Pauropetalichthys*, Pan et al. (2015) argued that this interpretation is incorrect and suggested that the foramen instead represents the external opening of the endolymphatic duct. This condition possibly represents a short dermal endolymphatic duct, which may be a plesiomorphic condition also present in some actinolepids, including *Actinolepis*, *Szelepis*, and *Gavinaspis*. The visceral surface of the nuchal plate bears a prominent central thickening, which possibly corresponds to the occipital fontanel of the endocranium. A similar thickening is also present in *Pauropetalichthys*, where remnants of the endocranial perichondral bone are preserved surrounding the thickening, providing further support for its correspondence with the occipital fontanel. 
-> - [Liu, 1991](https://bionames.org/references/9f65a1579e030b0425866545640f7f27)
+> - **References** [Liu, 1991](https://bionames.org/references/9f65a1579e030b0425866545640f7f27)
 
 [*Guangxipetalichthys bobeiensis*](https://deepbone.org/public/#/explor?s_id=3261&functionId=Deepbone_header_searchResultOpen) Ji and Pan, 1997
-> Eifelian, 393.3, 387.7
+> **Geological range.** Eifelian, 393.3, 387.7
 
-> South China
-
-> -  ‘Xindu Formation’; Bobai, Guangxi, China.
-> - [Ji and Pan, 1997](https://www.vertpala.ac.cn/EN/Y1997/V35/I01/18)
+> - **Occurrence.** ‘Xindu Formation’; Bobai, Guangxi, China.
+> - **Holotype and References.** See Ji and Pan, 1997.
+> - **Diagnosis.** See Ji and Pan, 1997.
+> - **References** [Ji and Pan, 1997](https://www.vertpala.ac.cn/EN/Y1997/V35/I01/18)
 
 [*Guangxipetalichthys tiaomajianensis*](https://deepbone.org/public/#/explor?s_id=3262&functionId=Deepbone_header_searchResultOpen) Ji and Pan, 1997
 > Eifelian, 393.3, 387.7
