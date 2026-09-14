@@ -2104,6 +2104,9 @@ separate, this character is scored as 'not applicable'.
 484.  Preorbital recess: absent (0); present (1).
 > This character is present in some macropetalichthyids. A similarly termed recess is also present in antiarchs, but differs in being unpaired and located anterior to the orbital fenestra. The recesses in macropetalichthyids and antiarchs are considered to be non-homologous based on their differing morphology and position
 
+485.  Anterior lateral plate bears developed postbranchial lamina: absent (0); present (1).
+> This character is present in *Guangxipetalichthy*.
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
