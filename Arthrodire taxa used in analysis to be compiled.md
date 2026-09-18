@@ -73,12 +73,13 @@
 > - **References** [Ji and Pan, 1997](https://www.vertpala.ac.cn/EN/Y1997/V35/I01/18)
 
 [*Guangxipetalichthys tiaomajianensis*](https://deepbone.org/public/#/explor?s_id=3262&functionId=Deepbone_header_searchResultOpen) Ji and Pan, 1997
-> Eifelian, 393.3, 387.7
+> **Geological range.**Eifelian, 393.3, 387.7
 
-> South China
-
-> - Tiaomajian Formation; Changsha, Hunan, China. 
-> - [Ji and Pan, 1997](https://www.vertpala.ac.cn/EN/Y1997/V35/I01/18)
+> - **Occurrence.** Tiaomajian Formation; Changsha, Hunan, China.
+> - **Holotype and References.** See Ji and Pan, 1997.
+> - **Diagnosis.** See Ji and Pan, 1997.
+> - **Remarks.**
+> - **References** [Ji and Pan, 1997](https://www.vertpala.ac.cn/EN/Y1997/V35/I01/18)
 
 [*Lunaspis broilii*](https://deepbone.org/public/#/explor?s_id=2134&functionId=Deepbone_header_searchResultOpen) Gross, 1937
 > upper Pragian to lower Emsian, 409.2, 400.45
@@ -90,12 +91,13 @@
 > - The type species is *Lunaspis heroldi* Broili 1929.
 
 [*Macropetalichthys rapheidolabis*](https://deepbone.org/public/#/explor?s_id=2387&functionId=Deepbone_header_searchResultOpen) Norwood and Owen, 1846
-> Eifelian, 393.3, 387.7
+> **Geological range.** Eifelian, 393.3, 387.7
 
-> Laurentia
-
-> - Onondaga limestone, Genesee County, New York, U. S. A; Columbus and Delaware limestone, Ohio, U. S. A; Jeffersonville formation, Indiana, U. S. A; Ontaria, Canada.
-> - Stensiö, 1925; 1963; 1969
+> - **Occurrence.** Onondaga limestone, Genesee County, New York, U. S. A; Columbus and Delaware limestone, Ohio, U. S. A; Jeffersonville formation, Indiana, U. S. A; Ontaria, Canada.
+> - **Holotype and References.** See Stensiö, 1925 and Babcock, 2025.
+> - **Diagnosis.** Babcock, 2025.
+> - **Remarks.** 
+> - **References**Stensiö, 1925; 1963; 1969
 
 [*Neopetalichthys yenmenpaensis*](https://deepbone.org/public/#/explor?s_id=3253andfunctionId=Deepbone_header_searchResultOpen) Liu, 1973
 > Pragian, 410.8, 407.6
