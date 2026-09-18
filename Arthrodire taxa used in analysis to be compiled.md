@@ -96,7 +96,7 @@
 > - **Occurrence.** Onondaga limestone, Genesee County, New York, U. S. A; Columbus and Delaware limestone, Ohio, U. S. A; Jeffersonville formation, Indiana, U. S. A; Ontaria, Canada.
 > - **Holotype and References.** See Stensiö, 1925 and Babcock, 2025.
 > - **Diagnosis.** Babcock, 2025.
-> - **Remarks.** 
+> - **Remarks.** *Macropetalichthys rapheidolabis* Norwood and Owen, 1846 was originally described from an incomplete cranial roof from southeastern Indiana. Several species were subsequently referred to *Agassichthys*, including *Agassichthys sullivanti* and *A. manni*, which were later transferred to Macropetalichthys. However, the taxonomy of the genus remained problematic because the holotype of *M. rapheidolabis* was destroyed and its type locality and stratigraphic position were uncertain. Babcock (2025) designated a neotype for *M. rapheidolabis*, and regarded *A. sullivanti* and *A. manni* as junior subjective synonyms of *M. rapheidolabis*. Consequently, *Agassichthys* is treated as a junior subjective synonym of *Macropetalichthys*.
 > - **References**Stensiö, 1925; 1963; 1969
 
 [*Neopetalichthys yenmenpaensis*](https://deepbone.org/public/#/explor?s_id=3253andfunctionId=Deepbone_header_searchResultOpen) Liu, 1973
