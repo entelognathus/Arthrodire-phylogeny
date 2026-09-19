@@ -2095,7 +2095,7 @@ separate, this character is scored as 'not applicable'.
 481.  Number of median dorsal ridge on the median dosral plate: one (0); two (1).
 > - State 1 is present in *Diandongpetalichthys*, *Lunaspis*, and *Tianchia*
 
-482.  Ventral nuchal lamella: absent (0); present (1).
+482.  Ventral nuchal lamella (Stensio, 1969, fig. 83): absent (0); present (1).
 > - This character is present in petalichthyids and *Panjiangosteus*.
 
 483.  Central plate separate preorbital and postorbital plates: absent (0); present (1).
