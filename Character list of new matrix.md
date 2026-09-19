@@ -2095,8 +2095,8 @@ separate, this character is scored as 'not applicable'.
 481.  Number of median dorsal ridge on the median dosral plate: one (0); two (1).
 > - State 1 is present in *Diandongpetalichthys*, *Lunaspis*, and *Tianchia*
 
-482.  Posterior descending lamina of skull roof extending beyond the posterior margin of the skull roof: absent (0); present (1).
-> - State 1 is a synapomorphy of quasipetalichthyids.
+482.  Ventral nuchal lamella: absent (0); present (1).
+> - This character is present in petalichthyids and *Panjiangosteus*.
 
 483.  Central plate separate preorbital and postorbital plates: absent (0); present (1).
 > - State 1 is a synapomorphy of macropetalichthyids.
