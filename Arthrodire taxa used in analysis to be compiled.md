@@ -67,7 +67,7 @@
 > **Geological range.** Eifelian, 393.3, 387.7
 
 > - **Occurrence.** ‘Xindu Formation’; Bobai, Guangxi, China.
-> - **Holotype and References.** See Ji and Pan, 1997.
+> - **Holotype and referred specimens.** See Ji and Pan, 1997.
 > - **Diagnosis.** See Ji and Pan, 1997.
 > - **Remarks.** TThe anterior lateral plate of *Guangxipetalichthys* is peculiar in bearing a well-developed postbranchial lamina, with the paired laminae possibly meeting at the midline. This well-developed lamina may have functionally replaced the postbranchial lamina of the interolateral plate. The anterior ventral plate is present in Guangxipetalichthys, suggesting that this plate may be widely present among petalichthyids. In *Lunaspis*, however, a T-shaped plate is present anteromedial to the anterior ventral plate, which Gross (1961) interpreted as an anterior median ventral plate.
 > - **References** [Ji and Pan, 1997](https://www.vertpala.ac.cn/EN/Y1997/V35/I01/18)
@@ -76,7 +76,7 @@
 > **Geological range.**Eifelian, 393.3, 387.7
 
 > - **Occurrence.** Tiaomajian Formation; Changsha, Hunan, China.
-> - **Holotype and References.** See Ji and Pan, 1997.
+> - **Holotype and referred specimens.** See Ji and Pan, 1997.
 > - **Diagnosis.** See Ji and Pan, 1997.
 > - **Remarks.**
 > - **References** [Ji and Pan, 1997](https://www.vertpala.ac.cn/EN/Y1997/V35/I01/18)
@@ -94,7 +94,7 @@
 > **Geological range.** Eifelian, 393.3, 387.7
 
 > - **Occurrence.** Onondaga limestone, Genesee County, New York, U. S. A; Columbus and Delaware limestone, Ohio, U. S. A; Jeffersonville formation, Indiana, U. S. A; Ontaria, Canada.
-> - **Holotype and References.** See Stensiö, 1925 and Babcock, 2025.
+> - **Holotype and referred specimens.** See Stensiö, 1925 and Babcock, 2025.
 > - **Diagnosis.** Babcock, 2025.
 > - **Remarks.** *Macropetalichthys rapheidolabis* Norwood and Owen, 1846 was originally described from an incomplete cranial roof from southeastern Indiana. Several species were subsequently referred to *Agassichthys*, including *Agassichthys sullivanti* and *A. manni*, which were later transferred to Macropetalichthys. However, the taxonomy of the genus remained problematic because the holotype of *M. rapheidolabis* was destroyed and its type locality and stratigraphic position were uncertain. Babcock (2025) designated a neotype for *M. rapheidolabis*, and regarded *A. sullivanti* and *A. manni* as junior subjective synonyms of *M. rapheidolabis*. Consequently, *Agassichthys* is treated as a junior subjective synonym of *Macropetalichthys*.
 > - **References**Stensiö, 1925; 1963; 1969
@@ -109,12 +109,12 @@
 > - Previously Pingyipu Formation. Guanshanpo Formation after Hou et al. (1988)?
 
 [*Notopetalichthys hillsi*](https://deepbone.org/public/#/explor?s_id=2391&functionId=Deepbone_header_searchResultOpen) Woodward, 1941
-> Emsian, 407.6, 393.3
+> **Geological range.** Emsian, 407.6, 393.3
 
-> East Gondwanan
-
-> - Murrumbidgee Group, near Wee Jasper on the shores of Lake Burrinjuck, New South Wales, Australia. 
-> - Woodward, 1941; [Young, 2004](https://www.tandfonline.com/doi/abs/10.1671/1942-1).
+> - **Occurrence.** Murrumbidgee Group, near Wee Jasper on the shores of Lake Burrinjuck, New South Wales, Australia.
+> - **Holotype and referred specimens.**
+> - **Diagnosis.** 
+> - **Remarks.** Woodward, 1941; [Young, 2004](https://www.tandfonline.com/doi/abs/10.1671/1942-1).
 
 [*Pampetalichthys longhuaensis*](https://deepbone.org/public/#/explor?s_id=3268&functionId=Deepbone_header_searchResultOpen) (Zhu and Wang, 1996)
 > Pragian, 410.8, 407.6
