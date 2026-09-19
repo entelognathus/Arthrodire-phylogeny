@@ -174,11 +174,9 @@
 > - [Janvier and Phuong, 1999]
 
 [*Wijdeaspis warrooensis*](https://deepbone.org/public/#/explor?s_id=165882&functionId=Deepbone_header_searchResultOpen) Young, 1978
-> Emsian, 407.6, 393.3
+> **Geological range.** Emsian, 407.6, 393.3
 
-> East Gondwanan
-
-> - Taemas Formation, Taemas-Wee Jasper region, New South Wales; Buchan Group, Buchan, Victoria, Australia. 
+> - **Occurrence.** Taemas Formation, Taemas-Wee Jasper region, New South Wales; Buchan Group, Buchan, Victoria, Australia. 
 > - Young, 1978; Barker and Bone, 1995; Basden, 1999; Obruchev, 1964; Heintz, 1929; Long, 1984.
 > - The type species is *W. arctica* (Heintz) 1929 from the Eifelian Grey Hoek Formation.  
 
