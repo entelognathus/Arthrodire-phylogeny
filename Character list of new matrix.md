@@ -2110,6 +2110,9 @@ separate, this character is scored as 'not applicable'.
 486.  Transeverse thickening on the visceral surface of median dorsal plate: absent (0); present (1); developed (2).
 > This character is widely present petalichthyids and antiarchs. 
 
+497.  Central thickening on the visceral surface of nuchal plate: absent (0); present (1).
+> In quasipetalichthyids, the visceral surface of the nuchal plate bears a prominent central thickening, which possibly corresponds to the occipital fontanel of the endocranium. In *Pauropetalichthys*, some remnants of the endocranial perichondral bone are preserved surrounding the central thickening, providing further support for its correspondence with the occipital fontanel.
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
