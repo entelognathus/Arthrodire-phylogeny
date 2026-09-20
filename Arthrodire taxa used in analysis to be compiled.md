@@ -46,12 +46,12 @@
 > - **References**[Ørvig, 1957](https://foreninger.uio.no/ngf/ngt/pdfs/NGT_37_3&4_285-354.pdf); [Castiello, 2021](https://pubs.geoscienceworld.org/cjes/article-abstract/58/1/93/594043/Endocranial-morphology-of-the-petalichthyid)
 
 [*Epipetalichthys wildungensis*](https://deepbone.org/public/#/explor?s_id=2384&functionId=Deepbone_header_searchResultOpen) Stensiö, 1925
-> upper Frasnian, 375.7, 372.2
+> **Geological range.** upper Frasnian, 375.7, 372.2
 
-> Baltica
-
-> -  Kellwasserkalk of *Manticoceras* beds, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
-> - [Ørvig, 1957](https://foreninger.uio.no/ngf/ngt/pdfs/NGT_37_3&4_285-354.pdf); [Sallan and Coates, 2010](https://www.pnas.org/doi/abs/10.1073/pnas.0914000107)
+> - **Occurrence.** Kellwasserkalk of *Manticoceras* beds, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
+> - **Holotype.** See Stensiö, 1925.
+> - **Diagnosis.** See Gross, 1933 and Denison, 1978.
+> - **References** Stensiö, 1925; Gross, 1933;[Ørvig, 1957](https://foreninger.uio.no/ngf/ngt/pdfs/NGT_37_3&4_285-354.pdf); [Sallan and Coates, 2010](https://www.pnas.org/doi/abs/10.1073/pnas.0914000107)
 
 [*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257andfunctionId=Deepbone_header_searchResultOpen) Liu, 1991
 > **Geological range.** Givetian, 387.7, 382.7
