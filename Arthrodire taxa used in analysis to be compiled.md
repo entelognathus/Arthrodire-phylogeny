@@ -18,11 +18,12 @@
 
 ## Petalichthyid taxa
 [*Brevipetalichthys gracilis*](https://deepbone.org/public/#/explor?s_id=3255andfunctionId=Deepbone_header_searchResultOpen) Ji and Pan, 1999
-> Pragian, 410.8, 407.6
+> **Geological range.** Pragian, 410.8, 407.6
 
-> South China 
-
-> - Posongchong Formation; Zhaotong City, Yunnan Province, China.
+> - **Occurrence.** Posongchong Formation; Zhaotong City, Yunnan Province, China.
+> - **Holotype.** GMV 2019, a complete skull roof.
+> - **Diagnosis.** See Ji and Pan, 1999.
+> - **Remarks.**
 > - [Ji and Pan, 1999]
 
 [*Diandongpetalichthys liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=3251andfunctionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
