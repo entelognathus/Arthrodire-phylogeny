@@ -23,8 +23,8 @@
 > - **Occurrence.** Posongchong Formation; Zhaotong City, Yunnan Province, China.
 > - **Holotype.** GMV 2019, a complete skull roof.
 > - **Diagnosis.** See Ji and Pan, 1999.
-> - **Remarks.**
-> - [Ji and Pan, 1999]
+> - **Remarks.** Ji and Pan (1999) established the genus and species *Brevipetalichthys gracilis* based on an complete skull roof. However, because the specimen is poorly preserved, the sutures between the dermal plates is obscure, and Ji and Pan (1999) did not provide a reconstuction of the dermal plat pattern. Based on the pattern of sensory grooves, they assgined *Brevipetalichthys* to petalichthyids. They considered *Brevipetalichthys* to be closely related to, or possibly a member of, Quasipetalichthyidae based on the laterally positioned orbits, the lack of participation of the rostral plate in the orbital margin, and the approximately equal breadth and length of the skull roof. However, because the dermal plate pattern of the skull roof cannot be confidently determined, they ultimately regarded the familial assignment of *Brevipetalichthys* as indeterminate. The visceral surface of nuchal plate bears a long, longitudinally extending central thickening, which Ji and Pan (1999) intepreted as corresponding to the occipital fontanel. A same structure is also present in quasipetalichthyids, such as *Eurycaraspis* and *Pauropetalichthys*. The occurrence of this feature in *Brevipetalichthys* is consistent with Ji and Pan's (1999) suggestion that the genus is closely related to quasipetalichthyids.
+> - **Reference.** [Ji and Pan, 1999]
 
 [*Diandongpetalichthys liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=3251andfunctionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > **Geological range.** lower Lochkovian, 419.2, 415.0
