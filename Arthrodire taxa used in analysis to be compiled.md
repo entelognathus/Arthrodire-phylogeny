@@ -69,7 +69,7 @@
 > - **Occurrence.** ‘Xindu Formation’; Bobai, Guangxi, China.
 > - **Holotype and referred specimens.** See Ji and Pan, 1997.
 > - **Diagnosis.** See Ji and Pan, 1997.
-> - **Remarks.** TThe anterior lateral plate of *Guangxipetalichthys* is peculiar in bearing a well-developed postbranchial lamina, with the paired laminae possibly meeting at the midline. This well-developed lamina may have functionally replaced the postbranchial lamina of the interolateral plate. The anterior ventral plate is present in Guangxipetalichthys, suggesting that this plate may be widely present among petalichthyids. In *Lunaspis*, however, a T-shaped plate is present anteromedial to the anterior ventral plate, which Gross (1961) interpreted as an anterior median ventral plate.
+> - **Remarks.** TThe anterior lateral plate of *Guangxipetalichthys* is peculiar in bearing a well-developed postbranchial lamina, with the paired laminae possibly meeting at the midline. This well-developed lamina may have functionally replaced the postbranchial lamina of the interolateral plate. The anterior ventral plate is present in *Guangxipetalichthys*, suggesting that this plate may be widely present among petalichthyids. In *Lunaspis*, however, a T-shaped plate is present anteromedial to the anterior ventral plate, which Gross (1961) interpreted as an anterior median ventral plate.
 > - **References** [Ji and Pan, 1997](https://www.vertpala.ac.cn/EN/Y1997/V35/I01/18)
 
 [*Guangxipetalichthys tiaomajianensis*](https://deepbone.org/public/#/explor?s_id=3262&functionId=Deepbone_header_searchResultOpen) Ji and Pan, 1997
@@ -97,7 +97,7 @@
 > - **Holotype and referred specimens.** See Stensiö, 1925 and Babcock, 2025.
 > - **Diagnosis.** Babcock, 2025.
 > - **Remarks.** *Macropetalichthys rapheidolabis* Norwood and Owen, 1846 was originally described from an incomplete cranial roof from southeastern Indiana. Several species were subsequently referred to *Agassichthys*, including *Agassichthys sullivanti* and *A. manni*, which were later transferred to Macropetalichthys. However, the taxonomy of the genus remained problematic because the holotype of *M. rapheidolabis* was destroyed and its type locality and stratigraphic position were uncertain. Babcock (2025) designated a neotype for *M. rapheidolabis*, and regarded *A. sullivanti* and *A. manni* as junior subjective synonyms of *M. rapheidolabis*. Consequently, *Agassichthys* is treated as a junior subjective synonym of *Macropetalichthys*.
-> - **References**Stensiö, 1925; 1963; 1969
+> - **References** Stensiö, 1925; 1963; 1969
 
 [*Neopetalichthys yenmenpaensis*](https://deepbone.org/public/#/explor?s_id=3253andfunctionId=Deepbone_header_searchResultOpen) Liu, 1973
 > Pragian, 410.8, 407.6
@@ -117,11 +117,12 @@
 > - **Remarks.** Woodward, 1941; [Young, 2004](https://www.tandfonline.com/doi/abs/10.1671/1942-1).
 
 [*Pampetalichthys longhuaensis*](https://deepbone.org/public/#/explor?s_id=3268&functionId=Deepbone_header_searchResultOpen) (Zhu and Wang, 1996)
-> Pragian, 410.8, 407.6
+> **Geological range.** Pragian, 410.8, 407.6
 
-> South China
-
-> - Xujiachong Formation; Qujing, Yunnan, China. 
+> - **Geological range.** Xujiachong Formation; Qujing, Yunnan, China.
+> - **Holotype.** IVPP V9765.
+> - **Diagnosis.** See Zhu and Wang, 1996.
+> - **Remarks.** Zhu and Wang (1996) estabilish *Holopetalichthys longhuashanensis*    
 > - Zhu, 2000; Zhu and Wang, 1996
 > - *Holopetalichthys longhuaensis* Zhu and Wang, 1996
 
@@ -166,18 +167,19 @@
 > - [Zhao and Zhu, 2010](https://www.sciencedirect.com/science/article/abs/pii/S1871174X09000663)
 
 [*Tongdzuylepis vietnamensis*](https://deepbone.org/public/#/explor?s_id=8352&functionId=Deepbone_header_searchResultOpen) Janvier and Phuong, 1999
-> upper Lochkovian, 415.0, 410.8
+> **Geological range.** upper Lochkovian, 415.0, 410.8
 
-> South China
-
-> - [horizon and locality]
+> - **Occurrence.**
 > - [Janvier and Phuong, 1999]
 
 [*Wijdeaspis warrooensis*](https://deepbone.org/public/#/explor?s_id=165882&functionId=Deepbone_header_searchResultOpen) Young, 1978
 > **Geological range.** Emsian, 407.6, 393.3
 
-> - **Occurrence.** Taemas Formation, Taemas-Wee Jasper region, New South Wales; Buchan Group, Buchan, Victoria, Australia. 
-> - Young, 1978; Barker and Bone, 1995; Basden, 1999; Obruchev, 1964; Heintz, 1929; Long, 1984.
+> - **Occurrence.** Taemas Formation, Taemas-Wee Jasper region, New South Wales; Buchan Group, Buchan, Victoria, Australia.
+> - **Holotype and referred specimens.** See Young, 1978.
+> - **Diagnosis.** See Young, 1978.
+> - **Remarks.** Heintz (1929, 1937) described the type species of *Wijdeaspis*, *W. arctica*, from the Grey Hoek Formation of Spitsbergen, initially assigning the species to *Acanthaspis* and subsequently to *Lunaspis*. Obruchev (1964) erected *Wijdeaspis* for *W. arctica* and described *Wijdeaspis* cf. *arctica* from the northwestern Siberian Platform. He distinguished *Wijdeaspis* from *Lunaspis* mainly on the basis of differences in ornamentation and skull-roof morphology, with particular emphasis on ornamentation. Young (1978), however, considered the separation of the preorbital plates by a rostropineal plate to be the principal character distinguishing *Wijdeaspis* from *Lunaspis* and *Notopetalichthys*, whereas differences in ornamentation and the biserial arrangement of pores on the posterior pitline were regarded as less reliable. He also questioned the diagnostic value of the participation of the marginal plate in the orbital margin and rejected the extension of the supraorbital canals to the posterior pitline as a generic character. According to Young (1978), *Wijdeaspis* can be distinguished from *Ellopetalichthys* and *Epipetalichthys* by its finer ornamentation, and from *Macropetalichthys* mainly by its finer ornamentation and smaller body size. The assignment of *W. warrooensis* was considered tentative because its preorbital region is unknown, and its referral to *Wijdeaspis* was therefore based mainly on secondary characters. Young (1978) further noted apparent differences between the Russian and Spitsbergen materials and considered the distinction between generic and specific characters in *Wijdeaspis* to remain uncertain pending a reinvestigation of the type species.
+> - **References** Young, 1978; Barker and Bone, 1995; Basden, 1999; Obruchev, 1964; Heintz, 1929; Long, 1984.
 > - The type species is *W. arctica* (Heintz) 1929 from the Eifelian Grey Hoek Formation.  
 
 [*Xinanpetalichthys shendaowanensis*](https://deepbone.org/public/#/explor?s_id=3266andfunctionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
@@ -633,7 +635,7 @@
 > - **Occurrence.** Murrumbidgee Group, Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales, Australia.
 > - **Holotype.** See Young (2004).
 > - **Diagnosis.** See Young (2004).
-> - **Remarks.** oung (2004) established *Dhanguura* based on an incomplete skull roof lacking its posterior margin and referred it to Homosteidae. Subsequent phylogenetic analyses have yielded conflicting results. Zhu et al. (2016) recovered *Dhanguura* as a basally branching brachythoracid outside Homosteidae, a placement also supported by the parsimony analyses of Xue et al. (2025, 2026). In contrast, the Bayesian analyses of Xue et al. (2025, 2026) recovered *Dhanguura* within a monophyletic Homosteidae. 
+> - **Remarks.** Young (2004) established *Dhanguura* based on an incomplete skull roof lacking its posterior margin and referred it to Homosteidae. Subsequent phylogenetic analyses have yielded conflicting results. Zhu et al. (2016) recovered *Dhanguura* as a basally branching brachythoracid outside Homosteidae, a placement also supported by the parsimony analyses of Xue et al. (2025, 2026). In contrast, the Bayesian analyses of Xue et al. (2025, 2026) recovered *Dhanguura* within a monophyletic Homosteidae. 
 > - **Reference.**[Young, 2004](https://www.tandfonline.com/doi/abs/10.1671/1942-1).
 
 [*Dickosteus threiplandi*](https://deepbone.cn/public/#/explor?s_id=2650&functionId=Deepbone_header_searchResultOpen) Miles and Westoll, 1963
