@@ -97,7 +97,7 @@
 > - **Holotype and referred specimens.** See Stensiö, 1925 and Babcock, 2025.
 > - **Diagnosis.** Babcock, 2025.
 > - **Remarks.** *Macropetalichthys rapheidolabis* Norwood and Owen, 1846 was originally described from an incomplete cranial roof from southeastern Indiana. Several species were subsequently referred to *Agassichthys*, including *Agassichthys sullivanti* and *A. manni*, which were later transferred to Macropetalichthys. However, the taxonomy of the genus remained problematic because the holotype of *M. rapheidolabis* was destroyed and its type locality and stratigraphic position were uncertain. Babcock (2025) designated a neotype for *M. rapheidolabis*, and regarded *A. sullivanti* and *A. manni* as junior subjective synonyms of *M. rapheidolabis*. Consequently, *Agassichthys* is treated as a junior subjective synonym of *Macropetalichthys*.
-> - **References** Stensiö, 1925; 1963; 1969
+> - **References.** Stensiö, 1925; 1963; 1969
 
 [*Neopetalichthys yenmenpaensis*](https://deepbone.org/public/#/explor?s_id=3253andfunctionId=Deepbone_header_searchResultOpen) Liu, 1973
 > Pragian, 410.8, 407.6
@@ -119,12 +119,11 @@
 [*Pampetalichthys longhuaensis*](https://deepbone.org/public/#/explor?s_id=3268&functionId=Deepbone_header_searchResultOpen) (Zhu and Wang, 1996)
 > **Geological range.** Pragian, 410.8, 407.6
 
-> - **Geological range.** Xujiachong Formation; Qujing, Yunnan, China.
+> - **Occurrence.** Xujiachong Formation; Qujing, Yunnan, China.
 > - **Holotype.** IVPP V9765.
 > - **Diagnosis.** See Zhu and Wang, 1996.
-> - **Remarks.** Zhu and Wang (1996) estabilish *Holopetalichthys longhuashanensis*    
-> - Zhu, 2000; Zhu and Wang, 1996
-> - *Holopetalichthys longhuaensis* Zhu and Wang, 1996
+> - **Remarks.** Zhu and Wang (1996) originally described the species as *Holopetalichthys longhuaensis*. Zhu (2000) subsequently noted that *Holopetalichthys* Zhu and Wang, 1996 is a junior homonym of *Holopetalichthys* V. Koenen, 1895, the latter being a nomen oblitum of *Radotina* Gross, 1950 (Denson, 1978). The generic name *Holopetalichthys* Zhu and Wang, 1996 was therefore rejected, and Zhu (2000) proposed *Pampetalichthys* as a replacement name for *Holopetalichthys* Zhu and Wang, 1996. The posterior pitline of *Pampetalichthys* differs from that of other macropetalichthyids in extending posteriorly onto the nuchal plate and the ossification center of the nuchal plate is positioned posterior, similar to that observed in the diandongpetalichthyid *Tianchia*. Therefore, Zhu and Wang (1996) regarded *Pampetalichthys* as a basal member of Macropetalichthyidae. 
+> -  **References.** Zhu, 2000; Zhu and Wang, 1996
 
 [*Parapetalichthys minor*](https://deepbone.org/public/#/explor?s_id=3270&functionId=Deepbone_header_searchResultOpen) Wang, 1988
 > Pragian, 410.8, 407.6
@@ -135,12 +134,12 @@
 > - [Wang, 1988 in Hou et al. 1988]
 
 [*Pauropetalichthys magnoculus*](https://deepbone.org/public/#/explor?s_id=3259&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 2015
-> upper Emsian, 400.45, 393.3
+> **Geological range.** upper Emsian, 400.45, 393.3
 
-> South China
-
-> - Chuandong Formation; Qujing, Yunnan, China. 
-> - [Pan *et al*., 2015](https://www.sciencedirect.com/science/article/pii/S1631068314001924)
+> - **Occurrence.** Chuandong Formation; Qujing, Yunnan, China.
+> - **Holotype.** IVPP V 20160.
+> - **Diagnosis.** See Pan *et al.* 2015.
+> - **Reference.** [Pan *et al*., 2015](https://www.sciencedirect.com/science/article/pii/S1631068314001924)
 
 [*Quasipetalichthys haikouensis*](https://deepbone.org/public/#/explor?s_id=2392&functionId=Deepbone_header_searchResultOpen) Liu, 1973
 > Givetian, 387.7, 382.7
