@@ -183,11 +183,9 @@
 > - The type species is *W. arctica* (Heintz) 1929 from the Eifelian Grey Hoek Formation.  
 
 [*Xinanpetalichthys shendaowanensis*](https://deepbone.org/public/#/explor?s_id=3266andfunctionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
-> Pragian, 410.8, 407.6
+> **Geological range.** Pragian, 410.8, 407.6
 
-> South China
-
-> - Pingyipu Group; Yanmenba, Jiangyou City, Sichuan Province, China.  
+> - **Occurrence.** Pingyipu Group; Yanmenba, Jiangyou City, Sichuan Province, China.  
 > - [P'an and Wang, 1978]
 > - Previously Pingyipu Formation. Guanshanpo Formation after Hou et al. (1988)?
 
@@ -452,7 +450,7 @@
 > -  **Remarks.** In the diagnosis of *Antinosteus* proposed by Lelièvre (1984), the pineal plate bears a lateral process. A similar condition is also observed in *Homostius* and *Xiangshuiosteus*, the latter of which was described by Wang (1992) as possessing a buddhist-cap shaped pineal plate. Lelièvre (1984) regarded hereosteids as closely associated with homosteids based on their shared benthic adaptations, including the loss of the posterior ventrolateral plate, an open pectoral fenestra, and a dorsoventrally flattened body. Homosteids and hereosteids possess a highly modified trunk shield that contrasts with that of other basal arthrodires and closely resembles the condition seen in pachyosteomorph brachythoracids, characterized by a short, broad median dorsal plate, a tapered anteroventral process of the anterior lateral plate, and an open pectoral fenestra. The median dorsal plate of both families bears an anterior process and lateral embayments, a condition also present in Cleveland Shale aspinothoracids such as *Gorgonichthys*, *Gymnotrachelus*, and *Tafilalichthys*. In addition, the anterior lateral plate closely resembles that of pachyosteomorph brachythoracids in being slender and tapering anteriorly. These convergent modifications of the trunk shield in several large-bodied arthrodire lineages may reflect similar hydrodynamic adaptations associated with active swimming and suspension-feeding ecologies. 
 > -  **References.** Lelièvre, 1984; [Lelièvre, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173046).
 
-[*Arctolepis decipiens*](https://deepbone.cn/public/#/explor?s_id=2543&functionId=Deepbone_header_searchResultOpen) （Woodward,1891）
+[*Arctolepis decipiens*](https://deepbone.cn/public/#/explor?s_id=2543&functionId=Deepbone_header_searchResultOpen) (Woodward,1891)
 > **Geological range.** lower Emsian,  407.6, 400.45
 
 > - **Occurrence.** Dicksonfjorden Member of the Wood Bay Formation, Dickson Bay and Wijde Bay, Svalbard (Spitsbergen).
@@ -619,6 +617,15 @@
 > - **Remarks.** *Cowralepis* is one of the best-preserved known arthrodires, represented by nearly complete dermal, endocranial, visceral, and axial skeletons, as well as a comprehensive growth series. Owing to this exceptional preservation, Ritchie (2005) re-examined several anatomical interpretations previously proposed for phyllolepids. For example, the small cheek elements of Austrophyllolepis, originally identified by Long (1984) as the postmarginal and suborbital plates, were reinterpreted as the submarginal plate and a hyoid arch element, respectively. Ritchie (2005) also revised the interpretation of several visceral and mandibular elements based on homologous structures preserved in *Cowralepis*, including the reinterpretation of the metapterygoid as the ceratohyal and the quadrate as the articular. In addition, *Cowralepis* preserves the second complete branchial skeleton described in placoderms, including the basihyal, after *Tapinosteus*. The anterior median ventral plate is preserved in *Cowralepis* and bears concave posterolateral margins that contact with the anterior ventrolateral plates. On the basis of this morphology, Ritchie (2005) suggested that the similarly shaped anteromesial corners of the anterior ventrolateral plates in *Placolepis* and *Austrophyllolepis* likewise indicate the presence of an anterior median ventral plate, although no such element has yet been recovered in either genus. The *Cowralepis* material demonstrates that the presence and number of posterior median ventral plates are variable within phyllolepids, ranging from none to two even among specimens referred to the same species (Ritchie, 2005). Consequently, this character should be treated with caution in taxonomic and phylogenetic studies, as its expression appears to reflect intraspecific variation rather than species-level differences.
 > - **Reference.**[Ritchie, 2005](https://www.biodiversitylibrary.org/part/183466)
 
+[*Cuanyu liui*] Wen *et al.* 2026
+> **Geological range.** upper Lochkovian, 415.0, 410.8
+
+> - **Occurrence.** Xitun Formation, Qujing, Yunnan, China.
+> - **Holotype.** IVPP V33795a,b.
+> - **Referred specimens.** IVPP V33796, IVPP V33798-V33803.
+> - **Diagnosis.**
+> - **Remarks.**
+> - **Reference** Wen *et al.* (2026) 
 
 [*Cyrtosteus inflatus*](https://deepbone.cn/public/#/explor?s_id=2245&functionId=Deepbone_header_searchResultOpen) (Könen，1880)
 > **Geological range.** Upper Eifelian to Lower Givetian, 389.6, 386.0.
