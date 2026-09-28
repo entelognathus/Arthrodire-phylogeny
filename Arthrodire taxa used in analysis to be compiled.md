@@ -275,6 +275,14 @@
 > - Snetnya Gora Beds, Pļaviņas Regional Stage; Piskovichi site, Velikaya River, Pskov, Russia
 > - [Trinajstic et al., 2019](https://researchnow.flinders.edu.au/en/publications/a-new-genus-of-ptyctodont-placodermi-from-the-late-devonian-of-ba)
 
+[*Neruchella eichwaldi*](https://deepbone.cn/public/#/explor?s_id=172505) Ivanov, 2022
+> Famennian
+
+> **Occurrence.** Famennian Lebedyanian Regional Stage of the Orel Region, Russia.
+> **Holotype.** See Ivanov (2022).
+> **Diagnosis.** See Ivanov (2022).
+> **Reference.** Ivanov (2022).
+
 [*Denisonodus plutonensis*](https://deepbone.cn/public/#/explor?s_id=164658&functionId=Deepbone_header_searchResultOpen) Johnson & Elliott, 1996
 
 [*Kimbryanodus williamburyensis*](https://deepbone.cn/public/#/explor?s_id=172205&functionId=Deepbone_header_searchResultOpen) Trinajstic and Long, 2009
