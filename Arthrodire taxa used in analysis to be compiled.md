@@ -268,15 +268,17 @@
 > - [Trinajstic and Long, 2009] "A single well-preserved and articulated specimen held in the Western Australian Museum WAM 86.9.662. The specimen, due to its delicate nature, is embedded in resin as part and counterpart. The holotype WAM 70.4.253 is incomplete. The remaining specimens are held in the Natural History Museum, London (NHM P50906, NHM P50908, NHM P50910, NHM P57654, NHM P57655)."
 
 [*Meeksiella pskovensis*](https://deepbone.cn/public/#/explor?s_id=75109&functionId=Deepbone_header_searchResultOpen) (Obruchev 1947)
-> lower Frasnian, 382.7, 379.2
+> **Geological range.** lower Frasnian, 382.7, 379.2
 
-> Baltica
+> - **Occurrence.** Snetnya Gora Beds, Pļaviņas Regional Stage; Piskovichi site, Velikaya River, Pskov, Russia.
+> - **Holotype and referred specimens.** See Trinajstic et al. (2018).
+> - **Diagnosis.** See Trinajstic et al. (2018).
+> - **Remarks.** The material now referred to *Meeksiella pskovensis* was previously assigned to several different taxa. The holotype, an anterior dorsolateral (ADL) plate, was originally referred to *Chelyophorus* by Obruchev (1947), who distinguished it from *C. verneuili* mainly by its relatively longer and lower proportions. An upper tooth plate from the Kārļu Muiža outcrop on the Amata River, Latvia, was illustrated by Gross (1942) as *Rhynchodus* sp., whereas Obrucheva (1983) referred material from the Snetnaya Gora Beds of the Pskov Region and Estonia to *Ctenurella* or a closely related taxon. Mark-Kurik et al. (1991) subsequently provided a detailed description of the shoulder girdle and associated endoskeletal elements, although the species was not formally named. Based on these previously described specimens and newly available three-dimensionally preserved material, Trinajstic et al. (2018) recognised these remains as belonging to a single taxon and established the new genus *Meeksiella*, combining it with the previously established species *Chelyophorus pskovensis* Obruchev 1947.
 
-> - Snetnya Gora Beds, Pļaviņas Regional Stage; Piskovichi site, Velikaya River, Pskov, Russia
 > - [Trinajstic et al., 2019](https://researchnow.flinders.edu.au/en/publications/a-new-genus-of-ptyctodont-placodermi-from-the-late-devonian-of-ba)
 
 [*Neruchella eichwaldi*](https://deepbone.cn/public/#/explor?s_id=172505) Ivanov, 2022
-> Famennian
+> **Geological range.** Famennian
 
 > **Occurrence.** Famennian Lebedyanian Regional Stage of the Orel Region, Russia.
 > **Holotype.** See Ivanov (2022).
