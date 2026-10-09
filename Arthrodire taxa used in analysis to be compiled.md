@@ -227,13 +227,14 @@
 > - Oberer Plattenkalk, Germany
 > - [Ørvig, 1960](https://link.springer.com/article/10.1007/BF02986872); [Miles and Young, 1977](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7720384310); [Forey and Gardiner, 1986](https://academic.oup.com/zoolinnean/article-abstract/86/1/43/2648673); [John, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf).
 
-[*Materpiscis attenboroughi*](https://deepbone.org/public/#/explor?s_id=2203&functionId=Deepbone_header_searchResultOpen) Long, et al., 2008
-> lower Frasnian, 382.7, 379.2
+[*Materpiscis attenboroughi*](https://deepbone.org/public/#/explor?s_id=2203&functionId=Deepbone_header_searchResultOpen) Long et al., 2008
+> **Geological range.** lower Frasnian, 382.7, 379.2
 
-> East Gondwanan
-
-> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
-> - [Long et al., 2008](https://www.nature.com/articles/nature06966); [Trinajstic et al., 2012](https://www.tandfonline.com/doi/abs/10.1080/02724634.2012.661379)
+> - **Occurrence.** Gogo Formation; Canning Basin, Australia. -17.75, 125.17
+> - **Holotype.** See Long et al., 2008 and Trinajstic et al. 2012.
+> - **Diagnosis.** See Trinajstic et al. 2012.
+> - **Remarks.** Long et al. 2008 described the embryo within the abdominal region of *Materpiscis*. Trinajstic et al. 2012 provided a description of the overall dermal skeleton and the perichondral bone.
+> - **References.**[Long et al., 2008](https://www.nature.com/articles/nature06966); [Trinajstic et al., 2012](https://www.tandfonline.com/doi/abs/10.1080/02724634.2012.661379)
 
 [*Chelyophorus verneuili*](https://deepbone.cn/public/#/explor?s_id=2316&functionId=Deepbone_header_searchResultOpen) Agassiz, 1844
 > Famennian, 372.2, 358.9
