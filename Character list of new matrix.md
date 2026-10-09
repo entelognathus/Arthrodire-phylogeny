@@ -1012,8 +1012,10 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - **Character 104 in "early gnathostome phylogeny github".**
 
-206.  Submarginal plate closely associated with the hyomandibular: absent (0); present, indicated by the presence of perichondral bone or the presence of an internal depression (1).
+206.  Submarginal plate closely associated with the hyomandibular (epihyal): absent (0); present, indicated by the presence of perichondral bone or the presence of an internal depression (1).
 > Carr (1991), Character 59; Carr and Hlavin (2010), Character 59; Rücklin *et al*. (2015), Character 59; Zhu Y *et al*. (2016), Character 59; Jobbins *et al*. (2022, 2024), Character 59; Xue *et al*. (2025), Character 123.
+
+> Miles (1971), in comparing the hyomandibula of placoderms and elasmobranchs, suggested that the cartilaginous element supporting the submarginal plate in placoderms was the hyomandibular. This interpretation has been accepted by many subsequent authors (Goujet, 1984; Forey and Gardiner, 1986; Zhu, 1991). However, Young (1986) considered that the same cartilage in placoderms was opercular cartilage and proposed a separate hyomandibula (=epihyal) attached close to the opercular cartilage on the visceral surface of the submarginal plate. Trinajstic *et al.* (2012) described the hyoid arch elements of *Materpiscis*; the presence of both a separate epihyal and an opercular cartilage in this taxon supports Young's interpretation. Hu *et al.* followed this interpretation in their describation of a buchanosteid arthrodire (ANU V244). Because the homology of the cartilage supporting the submarginal plate remains debated, we here retain both interpretations and refer to this element as the hyomandibular (epihyal), following previous usage (e.g. Young, 1986; Hu et al., 2022). 
 
 207.  Shape of submarginal plate: broad (0); elongate (1).
 > Carr (1991), Character 60; Lelièvre (1995), character 26, modified; Carr and Hlavin (2010), Character 60; Rücklin *et al*. (2015), Character 60; Zhu Y *et al*. (2016), Character 60; Jobbins *et al*. (2022, 2024), Character 60; Xue *et al*. (2025), Character 124.
