@@ -2131,7 +2131,15 @@ separate, this character is scored as 'not applicable'.
 502. Denticulated, ridged ornament on the postocular division of marginal plate: absent (0); present (1).
 > This character is present in *Austroptyctodus* and *Materpiscis*.
 
-503. 
+503. Length ratio for the external longitudinal of the postorbital and paranuchal plates (r = Pto/PNu): subequal, i.e. 0.85 < r < 1.15 (0); postorbital plate longer, i.e. r > 1.15 (1); paranuchal plate longer, i.e. r < 0.85 (2).
+> In *Austroptyctodus* and *Materpiscis* the length of paranuchal is subequal to the postorbital plate, whereas in *Ctenurella*, *Rhynchodus*, and *Rhamphodopsis*, the paranuchal plate is longer than postorbital plate. In *Kimbryanodus*, the paranuchal plate is shorter. 
+
+504. Length ratio of the orbital and postorbital division of marginal plate: subequal(0); orbital division longer (1); postorbital division longer (2).
+> This character is restricted to ptyctodonts, in which the marginal plate bears a well-developed suborbital process. The marginal plate can therefore be divided into two divisions: an orbital division, forming the ventral margin of the orbit, and a postorbital division. In *Kimbryanodus*, the orbital division is longer than the postorbital division; in *Ctenurella* and *Materpiscis*, it is shorter; and in *Austroptyctodus*, the two are equal.
+
+505. Contact between nuchal and paranuchal plate: present (0); absent (1).
+> This character is possibly a synapomorphy of ptyctodonts, in which the central plate is expanded to form the posterior margin of the skull roof and separates the nuchal and paranuchal plates.
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
