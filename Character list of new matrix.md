@@ -2118,6 +2118,20 @@ separate, this character is scored as 'not applicable'.
 498.  Suborbital process of marginal plate: absent (0); present (1).
 > This character is possibly a synapomorphy of ptyctodonts.     
 
+499.  Median gap between preorbital plates: absent (0); present (1).
+> In some ptyctodonts, such as *Austroptyctodus*, *Campbellodus*, and *Rhynchodus*, the preorbital plates are separated by a longitudinal midline gap, whereas in other placoderms they are separated by median dermal plates, such as the rostral, pineal, or rostropineal plates.
+
+500. Posterior pit line extending onto nuchal plate through central plate: absent (0); present (1).
+> This character is possibly a synapomorphy of ptyctodonts. In ptyctodonts, the posterior pit line extends from the paranuchal plate to the nuchal plate through the central plate. In other placoderms it does not through the central plate. This condition is possibly related to the expansion of the central plate in ptyctodonts, with the central plate separating the paranuchal and nuchal plates.
+
+501.  Ventral process of marginal plate: absent (0); present (1).
+> Trinajstic et al., 2019, Character 26.
+> In *Kimbryanodus*, *Austroptyctodus*, *Ctenurella*, and *Materpiscis*, there is a small process on the ventral border of marginal plate.
+
+502. Denticulated, ridged ornament on the postocular division of marginal plate: absent (0); present (1).
+> This character is present in *Austroptyctodus* and *Materpiscis*.
+
+503. 
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
