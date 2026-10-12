@@ -212,12 +212,13 @@
 > - Newberry, 1873.
 
 [*Campbellodus decipiens*](https://deepbone.org/public/#/explor?s_id=2179&functionId=Deepbone_header_searchResultOpen) Miles and Young, 1977
-> lower Frasnian, 382.7, 379.2
+> **Geological range.** lower Frasnian, 382.7, 379.2
 
-> East Gondwanan
-
-> - Gogo Formation; Western Australia, Australia.  -17.75, 125.17
-> - [Miles and Young, 1977](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7720384310); [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf)
+> - **Occurrence.** Gogo Formation; Western Australia, Australia.  -17.75, 125.17
+> - **Holotype and referred specimens.** See Long, 1997
+> - **Diagnosis.** See Long, 1977.
+> - **Remarks.** Miles and Young 
+> - **References.** [Miles and Young, 1977](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7720384310); [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf)
 
 [*Ctenurella gladbachensis*](https://deepbone.cn/public/#/explor?s_id=2181&functionId=Deepbone_header_searchResultOpen) Ørvig, 1960
 > **Geological range.** upper Givetian/lower Frasnian
@@ -285,20 +286,20 @@
 [*Neruchella eichwaldi*](https://deepbone.cn/public/#/explor?s_id=172505) Ivanov, 2022
 > **Geological range.** Famennian
 
-> **Occurrence.** Famennian Lebedyanian Regional Stage of the Orel Region, Russia.
-> **Holotype.** See Ivanov (2022).
-> **Diagnosis.** See Ivanov (2022).
-> **Reference.** Ivanov (2022).
+> - **Occurrence.** Famennian Lebedyanian Regional Stage of the Orel Region, Russia.
+> - **Holotype.** See Ivanov (2022).
+> - **Diagnosis.** See Ivanov (2022).
+> - **Reference.** Ivanov (2022).
 
 [*Denisonodus plutonensis*](https://deepbone.cn/public/#/explor?s_id=164658&functionId=Deepbone_header_searchResultOpen) Johnson & Elliott, 1996
 
 [*Kimbryanodus williamburyensis*](https://deepbone.cn/public/#/explor?s_id=172205&functionId=Deepbone_header_searchResultOpen) Trinajstic and Long, 2009
-> Frasnian, transitans to punctata conodont Zones
+> **Geological range.** Frasnian, transitans to punctata conodont Zones
 
-> East Gondwanan
-
-> - type section of the Gneudna Formation (23°58 10 S, 115°12 30 E), Williambury Station, Carnarvon Basin, NW Western Australia
-> - [Trinajstic and Long, 2009](https://www.cambridge.org/core/journals/geological-magazine/article/abs/new-genus-and-species-of-ptyctodont-placodermi-from-the-late-devonian-gneudna-formation-western-australia-and-an-analysis-of-ptyctodont-phylogeny/F935B5502B3F8D5F2D919D5320DB0899)
+> - **Occurrence.** type section of the Gneudna Formation (23°58 10 S, 115°12 30 E), Williambury Station, Carnarvon Basin, NW Western Australia
+> - **Holotype and referred specimens.** See Trinajstic and Long, 2009.
+> - **Diagnosis.** See Trinajstic and Long, 2009.
+> - **Reference.**[Trinajstic and Long, 2009](https://www.cambridge.org/core/journals/geological-magazine/article/abs/new-genus-and-species-of-ptyctodont-placodermi-from-the-late-devonian-gneudna-formation-western-australia-and-an-analysis-of-ptyctodont-phylogeny/F935B5502B3F8D5F2D919D5320DB0899)
 
 ## Acanthothoraci taxa used in the analysis
 [*Kimaspis tienshanica*](https://deepbone.org/public/#/explor?s_id=2097&functionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1973
