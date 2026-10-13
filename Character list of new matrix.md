@@ -2142,12 +2142,15 @@ separate, this character is scored as 'not applicable'.
 
 506. Spinal plate internal hollow: absent (0); present (1).
 > This character is possibly a synapomorphy of ptyctodont.
- 
+
+507. Anterior ventrolateral plate: absent (0); present (1).
+> In ptyctodonts, the ventral trunk shield comprises the interolateral plates and the anterior median ventral plate. The interolateral plate has previously been referred to as the anterior ventrolateral (Gross, 1933; Miles, 1967) or interolateral (Watson, 1938; Denison, 1978, 1985). Ørvig (1960) proposed that this plate represented a combination of both elements and termed it the interolateral–anterior ventrolateral. Long (1997) revisited dermal bone terminology in ptyctodontids and argued that the ventral plate lateral to the anterior median ventral plate is homologous to the interolateral plate of other placoderms. This interpretation was based on its narrow ventral profile, the absence of posteriorly extended ventral laminae, and the presence of a well-developed postbranchial lamina bearing rows of triangular tubercles, a feature not observed in the anterior ventrolateral plates of other placoderms.
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
 ** Vagus canal pierced near the posteior end of the endocranium: basent (0); present (1).
->  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*. The similar postion of vagus is also present in rhenanids.
+>  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*. The similar postion of vagus is also present in rhenanids. 
 
 ** The numbers of spino-occipital nerves are various in different placoderm clades. Basally branching arthrodires, such as *Kujdanowiaspis*, possess three  spino-occipital nerves. Pachyosteomorph arthrodires, only known in leiosteids, have six to nine spino-occipital nerves. In rhenanids, there existed four or five spino-occipital nerves (Stensio, 1963). 
 
