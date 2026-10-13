@@ -265,12 +265,13 @@
 > - [Denison, 1985](https://www.jstor.org/stable/1304971)
 
 [*Austroptyctodus gardineri*](https://deepbone.org/public/#/explor?s_id=4246&functionId=Deepbone_header_searchResultOpen) Miles and Young, 1977
-> lower Frasnian, 382.7, 379.2
+> **Geological range.** lower Frasnian, 382.7, 379.2
 
-> East Gondwanan
-
-> - Gogo Formation; Western Australia, Australia.  -17.75, 125.17
-> - [Miles and Young, 1977](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7720384310); [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf)
+> - **Occurrence.** Gogo Formation; Western Australia, Australia.  -17.75, 125.17
+> - **Holotype and referred specimens.** See Long, 1997
+> - **Diagnosis.** See Long, 1997.
+> - **Remarks.** Miles and Young (1977) first described this species from the Gogo Formation, based on specimens housed at the Natural History Museum in London, and assigned it to *Ctenurella* on the basis of similarities in skull roof morphology. Long (1997) subsequently provided a new reconstruction of the type speices of *Ctenurella*, **Ctenurella gladbachensis*, based on the original specimens from the Muséum national d’Histoire naturelle (MNHN) in Paris and additional material. The revised reconstruction revealed several distinctive morphology features in the Gogo species, including a posteriorly open nuchal plate, a differently shaped median dorsal plate, and the presence of body-scale cover. These features distinguished the Gogo species from species of *Ctenurella*. Accordingly, Long (1997) erected the new genus *Austroptyctodus* to accommodate the Gogo species. Trinajstic et al. (2012) described a new specimen of *Austroptyctodus* preserving the anterior portion of the skull and jaws, which enabled them to revise the descriptions of the endocranium and visceral skeleton.
+> - **References.**[Miles and Young, 1977](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7720384310); [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf)
 > - [Trinajstic and Long, 2009] "A single well-preserved and articulated specimen held in the Western Australian Museum WAM 86.9.662. The specimen, due to its delicate nature, is embedded in resin as part and counterpart. The holotype WAM 70.4.253 is incomplete. The remaining specimens are held in the Natural History Museum, London (NHM P50906, NHM P50908, NHM P50910, NHM P57654, NHM P57655)."
 
 [*Meeksiella pskovensis*](https://deepbone.cn/public/#/explor?s_id=75109&functionId=Deepbone_header_searchResultOpen) (Obruchev 1947)
@@ -282,7 +283,7 @@
 > - **Remarks.** The material now referred to *Meeksiella pskovensis* was previously assigned to several different taxa. The holotype, an anterior dorsolateral (ADL) plate, was originally referred to *Chelyophorus* by Obruchev (1947), who distinguished it from *C. verneuili* mainly by its relatively longer and lower proportions. An upper tooth plate from the Kārļu Muiža outcrop on the Amata River, Latvia, was illustrated by Gross (1942) as *Rhynchodus* sp., whereas Obrucheva (1983) referred material from the Snetnaya Gora Beds of the Pskov Region and Estonia to *Ctenurella* or a closely related taxon. Mark-Kurik et al. (1991) subsequently provided a detailed description of the shoulder girdle and associated endoskeletal elements, although the species was not formally named. Based on these previously described specimens and newly available three-dimensionally preserved material, Trinajstic et al. (2018) recognised these remains as belonging to a single taxon and established the new genus *Meeksiella*, combining it with the previously established species *Chelyophorus pskovensis* Obruchev 1947.
 > - The neck joint of *Meeksiella* differs from that of other ptyctodont in presence of a pit mesial to the ventral laminar ridge. Trinajstic et al. (2019) interpreted this pit as a prominent spatulate glenoid fossa surrounded by a bony ring.
 
-> - [Trinajstic et al., 2019](https://researchnow.flinders.edu.au/en/publications/a-new-genus-of-ptyctodont-placodermi-from-the-late-devonian-of-ba)
+> - **Reference.**[Trinajstic et al., 2019](https://researchnow.flinders.edu.au/en/publications/a-new-genus-of-ptyctodont-placodermi-from-the-late-devonian-of-ba)
 
 [*Neruchella eichwaldi*](https://deepbone.cn/public/#/explor?s_id=172505) Ivanov, 2022
 > **Geological range.** Famennian
