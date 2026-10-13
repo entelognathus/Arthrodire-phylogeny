@@ -217,7 +217,8 @@
 > - **Occurrence.** Gogo Formation; Western Australia, Australia.  -17.75, 125.17
 > - **Holotype and referred specimens.** See Long, 1997
 > - **Diagnosis.** See Long, 1977.
-> - **Remarks.** Miles and Young 
+> - **Remarks.** Miles and Young
+> - Long (1997) described presence of detent process on the quadrate of *Campbellodus* and suggested that it is homologous to the detent process of arthrodires based on its relative position and inferred function. In arthrodires, the detent process serves to constrain lateral movement or slippage of the jaw joint during opening and closing of the jaws. Long (1997) further noted that the quadrate of *Campbellodus* is situated considerably ventral to the braincase, as inferred from the relative positions of the endocranial ossifications and jaws in *Austroptyctodus*. This positional relationship suggests that the process is unlikely to represent a palatobasal articulation with the endocranium, as occurs in some other placoderms (e.g. acanthothoracids and rhenanids), but instead functioned as a constraint on lateral jaw movement. Accordingly, Long (1997) interpreted the detent process in ptyctodontids as homologous to that of arthrodires.
 > - **References.** [Miles and Young, 1977](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7720384310); [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf)
 
 [*Ctenurella gladbachensis*](https://deepbone.cn/public/#/explor?s_id=2181&functionId=Deepbone_header_searchResultOpen) Ørvig, 1960
