@@ -2140,6 +2140,9 @@ separate, this character is scored as 'not applicable'.
 505. Contact between nuchal and paranuchal plate: present (0); absent (1).
 > This character is possibly a synapomorphy of ptyctodonts, in which the central plate is expanded to form the posterior margin of the skull roof and separates the nuchal and paranuchal plates.
 
+506. Spinal plate internal hollow: absent (0); present (1).
+> This character is possibly a synapomorphy of ptyctodont.
+ 
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
