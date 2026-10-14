@@ -2149,6 +2149,9 @@ separate, this character is scored as 'not applicable'.
 508. Foramen ventral to the ventral laminar ridge：absent (0); present (1).
 > This character is widely present in ptyctodonts. It was first described by Miles and Young (1997) in their reconstruction of the paranuchal plate of *Austroptyctodus*, although they did not provide an interpretation of this structure. Long (1997) described a similar structure in *Campbellodus* and suggested that this foramen corresponds to the opening of endolymphatic duct on the visceral surface of the paranuchal plate in arthrodires. Trinajstic and Long (2009) also illustrated a similar structure in their reconstruction of *Kimbryanodus*, but did not formally describe it; in the figure caption, they identified it as a foramen for the main lateral-line canal on the paranuchal plate. The precise nature and function of this structure remain uncertain.
 
+509. Separate median dorsal spine: absent (0); present (1).
+> This character is shared by *Ptyctodopsis* and *Denisonodus*.
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
