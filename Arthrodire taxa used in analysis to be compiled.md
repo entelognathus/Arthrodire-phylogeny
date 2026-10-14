@@ -257,12 +257,12 @@
 > - Newberry, 1873.
 
 [*Ptyctodopsis menzeli*](https://deepbone.cn/public/#/explor?s_id=172206&functionId=Deepbone_header_searchResultOpen) Denison, 1985
-> upper Givetian
+> **Geological range.** upper Givetian
 
-> Laurentia
-
-> - Cedar Valley Limestone, USA
-> - [Denison, 1985](https://www.jstor.org/stable/1304971)
+> - **Occurrence.** Cedar Valley Limestone, USA。
+> - **Holotype.** See Denison, 1985.
+> - **Diagnosis.** See Denison, 1985.
+> - **Reference.**[Denison, 1985](https://www.jstor.org/stable/1304971)[Trinajstic et al., 2019](https://researchnow.flinders.edu.au/en/publications/a-new-genus-of-ptyctodont-placodermi-from-the-late-devonian-of-ba).
 
 [*Austroptyctodus gardineri*](https://deepbone.org/public/#/explor?s_id=4246&functionId=Deepbone_header_searchResultOpen) Miles and Young, 1977
 > **Geological range.** lower Frasnian, 382.7, 379.2
