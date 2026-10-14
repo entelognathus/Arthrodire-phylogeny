@@ -2187,6 +2187,56 @@ separate, this character is scored as 'not applicable'.
 ** Otolith：absent (0); present (1).
 > - This character is present in phyllolepids and osteichthyans, whereas in chondrichthyans otoliths are absent, but otoconia serve the same function. 
 
+Tesserae morphology: (0) large interlocking polygonal plates: (1) microsquamose, not larger than body tesserae.
+> Davis et al. (2012), Character 19; Choo et al. (2017), Character 18; King et al. (2017), Character 152; Castiello (2018), Character 151; Zhu Y. et al. (2022), Character 60; Andreev et al. (2022), Character 35; Brazeau et al. (2023), Character 156. Cui et al. (2023), Character 60; Lu et al. (2026), Character 58; Zhu Y. et al. (2026), Character 58. Klug et al. (2023), Character 26. Brazeau (2009) through to Giles et al. (Giles, Friedman, et al. 2015).
+
+> Coded inapplicable where tesserae are absent.
+> **Character 58 in "early gnathostome phylogeny github".**
+
+Preorbital depression: (0) absent; (1) present.
+> King et al. (2017), Character 246; Castiello (2018), Character 245; Zhu Y. et al. (2022), Character 88; Brazeau et al. (2023), Character 251. Cui et al. (2023), Character 86; Lu et al. (2026), Character 80; Zhu Y. et al. (2026), Character 86.
+
+> **Character 86 in "early gnathostome phylogeny github".**
+
+Preorbital recess: (0) restricted to premedian plate; (1) extends onto lateral plates.
+> King et al. (2017), Character 248; Castiello (2018), Character 247; Zhu Y. et al. (2022), Character 90; Brazeau et al. (2023), Character 253. Cui et al. (2023), Character 90; Lu et al. (2026), Character 88; Zhu Y. et al. (2026), Character 88.
+
+> **Character 88 in "early gnathostome phylogeny github".**
+
+Submarginal articulation: (0) absent; (1) present.
+> King et al. (2017), Character 250; Castiello (2018), Character 249; Zhu Y. et al. (2022), Character 91; Brazeau et al. (2023), Character 255. Cui et al. (2023), Character 91; Lu et al. (2026), Character 89; Zhu Y. et al. (2026), Character 89.
+
+> **Character 89 in "early gnathostome phylogeny github".**
+
+Prelateral plate: (0) absent; (1) present.
+> King et al. (2017), Character 251; Castiello (2018), Character 250; Zhu Y. et al. (2022), Character 92; Brazeau et al. (2023), Character 256. Cui et al. (2023), Character 92; Lu et al. (2026), Character 90; Zhu Y. et al. (2026), Character 90.
+
+> **Character 90 in "early gnathostome phylogeny github".**
+
+Preorbital plate：absent (0); present (1).
+> Choo et al. (2017), Character 169; Clement et al. (2018), Character 279; Zhu Y. et al. (2022), Character 136; Andreev et al. (2022), Character 279. Cui et al. (2023), Character 136; Lu et al. (2026), Character 134; Zhu Y. et al. (2026), Character 134.
+
+> **Character 134 in "early gnathostome phylogeny github".**
+> The preorbital plate is absent in antiarchs, *Gemuendina*, *Jagorina pandora*, *Qilinyu*, and *Entelognathus*.
+
+Preorbital plates surround pineal foramen or eminence: (0) yes; (1) no.
+> King et al. (2017), Character 187; Castiello (2018), Character 184; Zhu Y. et al. (2022), Character 138; Brazeau et al. (2023), Character 193. Cui et al. (2023), Character 138; Lu et al. (2026), Character 136; Zhu Y. et al. (2026), Character 136.
+
+> **Character 136 in "early gnathostome phylogeny github".**
+> This character is only present in *Brindabellaspis* and *Bianchengichthys*.
+
+Central plate：absent (0); present (1).
+> Clement et al. (2018), Character 277; Zhu Y. et al. (2022), Character 139; Andreev et al. (2022), Character 277. Cui et al. (2023), Character 139; Lu et al. (2026), Character 137; Zhu Y. et al. (2026), Character 137.
+
+> **Character 137 in "early gnathostome phylogeny github".**
+> This character is only present in antiarchs and rhenanids.
+
+Position of premedian plate: (0) dorsal; (1) ventral.
+> Zhu Y. et al. (2022), Character 143. Cui et al. (2023), Character 143; Lu et al. (2026), Character 141; Zhu Y. et al. (2026), Character 141.
+
+> **Character 141 in "early gnathostome phylogeny github".**
+> The ventral premedian plate is present in *Qilinyu* and *Entelognathus* .
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
