@@ -2152,6 +2152,9 @@ separate, this character is scored as 'not applicable'.
 509. Separate median dorsal spine: absent (0); present (1).
 > This character is shared by *Ptyctodopsis* and *Denisonodus*.
 
+510.  Central plate meet in midline: anterior to nuchal plate (0); posterior to nuchal plate (1).
+> This character is present in some ptyctodonts, such as *Denisonodus*, *Rhamphodopis*, and *Ptyctodopsis*, in which the nuchal plate is positioned anterior to the central plate, with the two plates meeting along the midline.
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
