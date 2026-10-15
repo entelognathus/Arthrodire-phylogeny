@@ -2155,6 +2155,9 @@ separate, this character is scored as 'not applicable'.
 510.  Central plate meet in midline: anterior to nuchal plate (0); posterior to nuchal plate (1).
 > This character is present in some ptyctodonts, such as *Denisonodus*, *Rhamphodopis*, and *Ptyctodopsis*, in which the nuchal plate is positioned anterior to the central plate, with the two plates meeting along the midline.
 
+511.  Median dorsal plate bears a small posterior notch: absent (0); present (1).
+>  This character is present in *Ptyctodopsis*, *Denisonodus*, and *Ctenurella*. In *Ptyctodopsis* and *Denisonodus*, the posterior margin of the median dorsal plate bears a small notch that accommodates the median dorsal spine. A similar condition occurs in *Ctenurella*, although the median dorsal spine itself cannot be identified. 
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
