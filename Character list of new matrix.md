@@ -1791,13 +1791,14 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 
 383.  Incision of subocular ridge: absent (0); present (1).
 
-384.  Sclerotic plate: absent (0); present (1).
+384.  Sclerotic plate: absent (0); present (1). 
 
-385.  Sclerotic plate: four (0); three (1).
+386.  Sclerotic plate: four (0); three (1).
+> In arthrodires and ptyctodonts, there have four sclerotic plates. Antiarchs bears three sclerotic plates.
 
-386.  Sclerotic plate: narrow (0); broad (1).
+388.  Sclerotic plate: narrow (0); broad (1).
     
-387.  Occipital cross commisural sensory canal/groove runs cross the extrascapular: absent (0); present (1).
+389.  Occipital cross commisural sensory canal/groove runs cross the extrascapular: absent (0); present (1).
 >  -  This character is present in some coccosteoids
 
 387.  Posterior ventrolateral plate with posteriorly directed lateral spines： absent (0); present (1).
