@@ -192,15 +192,15 @@
 
 
 ## Ptyctodont taxa
-[*Rhamphodopsis threiplandi*](https://deepbone.org/public/#/explor?s_id=2353&functionId=Deepbone_header_searchResultOpen) Watson, 1938
-> upper Eifelian, 389.6, 387.7
+[*Rhamphodopsis threiplandi*](https://deepbone.org/public/#/explor?s_id=2353&functionId=Deepbone_header_searchResultOpen) Watson, 1934
+> **Geological range.** upper Eifelian, 389.6, 387.7
 
-> Laurentia
+> - **Occurrence.** Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
+> - **Holotype and referred specimens.** See Miles 1967
+> - **Diagnosis.** See Miles, 1967.
+> - **Remarks.** *Rhamphodopsis threiplandi* was first described by Watson (1934), based on specimens from the Middle Old Red Sandstone of Achanarras, Caithness, Scotland. Miles (1967) subsequently redescribed *Rhamphodopsis* using Watson’s original specimens and additional material collected by Denison between 1935 and 1954 from Edderton, Ross-shire, Scotland. Miles revised several aspects of the morphology of *Rhamphodopsis* and provided additional information on its visceral skeleton, thereby expanding the anatomical understanding of this ptyctodont. Long (1997) re-examined the specimens of *Rhamphodopsis* and suggested that the nuchal plate reconstructed by Watson (1934) and Miles (1967) had been misidentified due to crushing and fracturing of the specimens. The exposed bone immediately posterior to the paired central plates was interpreted as most likely representing the crushed occipital ossification of the braincase, as this region lacks any trace of dermal ornamentation. Accordingly, *Rhamphodopsis* appears to share a dermal bone pattern similar to that of other ptyctodontids and lacks a posterior nuchal plate.
+> -  [Miles, 1967](https://academic.oup.com/zoolinnean/article-abstract/47/311/99/2680217); [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf)
 
-> - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
-> - [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf); [Miles, 1967](https://academic.oup.com/zoolinnean/article-abstract/47/311/99/2680217)
-
-[*Rhamphodopsis trispinatus*](https://deepbone.cn/public/#/explor?s_id=2354&functionId=Deepbone_header_searchResultOpen) Watson, 1938
 
 
 [*Rhynchodus tetrodon*](https://deepbone.cn/public/#/explor?s_id=2364&functionId=Deepbone_header_searchResultOpen) Newberry, 1873
@@ -209,7 +209,7 @@
 > Baltica
 
 > - Kellwasserkalk, Germany
-> - Newberry, 1873.
+> - [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf);Newberry, 1873.
 
 [*Campbellodus decipiens*](https://deepbone.org/public/#/explor?s_id=2179&functionId=Deepbone_header_searchResultOpen) Miles and Young, 1977
 > **Geological range.** lower Frasnian, 382.7, 379.2
