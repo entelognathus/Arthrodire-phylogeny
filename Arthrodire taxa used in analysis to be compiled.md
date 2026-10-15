@@ -204,12 +204,13 @@
 
 
 [*Rhynchodus tetrodon*](https://deepbone.cn/public/#/explor?s_id=2364&functionId=Deepbone_header_searchResultOpen) Newberry, 1873
-> Frasnian
+> **Geological range.** Frasnian
 
-> Baltica
-
-> - Kellwasserkalk, Germany
-> - [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf);Newberry, 1873.
+> - **Occurrence.** Kellwasserkalk, Germany.
+> - **Holotype and referred specimens.** See Gross, 1933 and Miles, 1967.
+> - **Diagnosis.** See Gross, 1933.
+> - **Remarks.** The taxonomy of *Rhynchodus* from Wildungen has a complex history. Jaekel (1903, 1906, 1919, 1925, 1929) introduced several names, including *Ramphodus tetrodon* (1903), subsequently referred to as *Rhamphodontus tetrodon* (1906), *Rhynchodontus eximius* (1919), subsequently referred to as *Rhynchosteus eximius* (1925), and *Rhynchognathus wildungensis* (1929). However, these species were not clearly diagnosed, and no distinguishing characters were provided. Gross (1933) subsequently referred all of Jaekel’s species to *Rhynchodus tetrodon* (Jaekel), but noted that the material assigned to this species comprised three distinct types of tooth-plates, a point repeated by Stensiö (1959). In view of this taxonomic uncertainty, Miles (1967) used the name *Rhynchodus tetrodon* *sensu* Gross (1933) for descriptive purposes, without precluding the possibility that the Wildungen material represents multiple species.
+> - **References.** [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf); [Miles, 1967](https://academic.oup.com/zoolinnean/article-abstract/47/311/99/2680217); Gross, 1933; Newberry, 1873.
 
 [*Campbellodus decipiens*](https://deepbone.org/public/#/explor?s_id=2179&functionId=Deepbone_header_searchResultOpen) Miles and Young, 1977
 > **Geological range.** lower Frasnian, 382.7, 379.2
