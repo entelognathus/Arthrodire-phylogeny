@@ -248,14 +248,6 @@
 > - Dankov–Lebedyan beds, Russia.
 > - [Agassiz, 1844](https://books.google.co.jp/books?hl=en&lr=&id=CT1OAAAAcAAJ&oi=fnd&pg=PR5&dq=Monographie+des+poisons+fossiles+du+vieux+Gr%C3%A8s+rouge,+ou+Syst%C3%A8me+d%C3%A9vonien+des+%C3%8Eles+Britanniques+et+de+Russie&ots=XLOLrHQAOz&sig=avVzFiG8asbbibExonbXWDfe3oU&redir_esc=y#v=onepage&q=Monographie%20des%20poisons%20fossiles%20du%20vieux%20Gr%C3%A8s%20rouge%2C%20ou%20Syst%C3%A8me%20d%C3%A9vonien%20des%20%C3%8Eles%20Britanniques%20et%20de%20Russie&f=false).
 
-[*Rhynchodus tetrodon*](https://deepbone.cn/public/#/explor?s_id=2364&functionId=Deepbone_header_searchResultOpen) Newberry, 1873
-> Frasnian
-
-> Baltica
-
-> - Kellwasserkalk, Germany
-> - Newberry, 1873.
-
 [*Ptyctodopsis menzeli*](https://deepbone.cn/public/#/explor?s_id=172206&functionId=Deepbone_header_searchResultOpen) Denison, 1985
 > **Geological range.** upper Givetian
 
@@ -294,6 +286,13 @@
 > - **Reference.** Ivanov (2022).
 
 [*Denisonodus plutonensis*](https://deepbone.cn/public/#/explor?s_id=164658&functionId=Deepbone_header_searchResultOpen) Johnson & Elliott, 1996
+> **Geological range.** Frasnian.
+
+> - **Occurrence.** Martin Formation on Mt. Elden, northern Arizona.
+> - **Holotype and referred specimens.** See Johnson & Elliott, 1996.
+> - **Diagnosis.** See Johnson & Elliott, 1996.
+> - **Reference.** Johnson & Elliott, 1996.
+
 
 [*Kimbryanodus williamburyensis*](https://deepbone.cn/public/#/explor?s_id=172205&functionId=Deepbone_header_searchResultOpen) Trinajstic and Long, 2009
 > **Geological range.** Frasnian, transitans to punctata conodont Zones
