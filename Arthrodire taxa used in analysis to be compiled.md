@@ -283,6 +283,7 @@
 > - **Occurrence.** Famennian Lebedyanian Regional Stage of the Orel Region, Russia.
 > - **Holotype.** See Ivanov (2022).
 > - **Diagnosis.** See Ivanov (2022).
+> - **Remarks.** *Neruchella eichwaldi* represents the second known Famennian ptyctodont, after *Chelyophorus verneuili*. It exhibits several distinctive features that distinguish it from other ptyctodonts, most notably the absence of the nuchal plate. The neck joint of *Chelyophorus* differs from that of Gogo ptyctodont in possessing a fossa lateral to the ventral laminar ridge. This condtion resembles that of petalichthyids, in which the lateral margin of ventral laminar ridge forms the articular surface. A similar condition is also present in *Kimbryanodus* and *Campbellodus*. In contrast, in *Austroptyctodus* and *Materpiscis*, the posterior surface of ventral laminar ridge forms the neck joint, with articular surface bordered by lateral and mesial ridges. 
 > - **Reference.** Ivanov (2022).
 
 [*Denisonodus plutonensis*](https://deepbone.cn/public/#/explor?s_id=164658&functionId=Deepbone_header_searchResultOpen) Johnson & Elliott, 1996
