@@ -189,6 +189,8 @@
 35.  Preorbital plates at the anterior edge of skull roof: (0) no; (1) yes.
 >  King et al. (2016), Character 243; Brazeau et al. (2023), Character 248.
 
+> In ptyctodontids and quasipetalichthyids, the postnasal plate is absent, and the rostral plate is positioned between the preorbital plates, which consequently form the anterior margin of the skull roof. A similar condition may occur in some macropetalichthyids, such as *Guangxipetalichthys*, *Holopetalichthys*, and *Shearsbyaspis*, in which the rostral plate is elongate and narrow and extends between the preorbital plates. By contrast, in *Lunaspis*, a dermal plate lies lateral to the rostral plate and forms the anterior margin of the skull roof, so that the preorbital plates do not contribute to the anterior margin.
+
 36.  Preorbital plates: separate (0); fused (1).
 > Johnson *et al*. (2000), Character 3; Dupret *et al*. (2009), Character 13; Dupret *et al*. (2017), Character 13; Zhu *et al*. (2010), Character 13; Xue *et al*. (2025), Character 60.
 
