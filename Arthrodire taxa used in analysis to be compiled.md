@@ -321,6 +321,15 @@
 > - Radotín Limestone; Prague Basin, Czech Republic.
 > - Denison, 1978; Gross, 1959
 
+[*Palaecanthaspis vasta*](https://deepbone.cn/public/#/explor?s_id=2372&return_to=%2Ftop-search-list%3Fkeyword%3DPalaecanthaspis%2520vasta&return_y=0)  Brotzen, 1934
+> **Geological range.** Lochkovian, 419.2, 410.8
+
+> - **Occurrence.** Vynohradne in Podolia, western Ukraine, 8 km ESE from the type-locality of Zalishchyki.
+> - **Holotype and referred specimens.** See Dupret et al., 2021.
+> - **Diagnosis.** See Dupret et al., 2021.
+> - **Remarks.**
+> - **References.** Brotezen, 1934; Dupret et al., 2021. 
+
 [*Tlamaspis inopinatus*](https://deepbone.org/public/#/explor?s_id=2292&functionId=Deepbone_header_searchResultOpen) Vaškaninová and Ahlberg, 2017
 > Lochkovian, 419.2, 410.8
 
