@@ -306,12 +306,12 @@
 
 ## Acanthothoraci taxa used in the analysis
 [*Kimaspis tienshanica*](https://deepbone.org/public/#/explor?s_id=2097&functionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1973
-> Lochkovian, 419.2, 410.8
+> **Geological range.** Lochkovian, 419.2, 410.8
 
-> Kazhakstan
-
-> - Dzhalpak Formation, South Tien Shan, North Nuratau Ridge, Uzbekistan.
-> - Mark-Kurik, 1973
+> - **Occurrence.**  Dzhalpak Formation, South Tien Shan, North Nuratau Ridge, Uzbekistan.
+> - **Holotype and referred specimens.**
+> - **Diagnosis.** See Mark-Kurik, 1973.
+> - **Reference.** Mark-Kurik, 1973
 
 [*Kosoraspis peckai*](https://deepbone.org/public/#/explor?s_id=2117&functionId=Deepbone_header_searchResultOpen)  Gross, 1959
 > upper Lochkovian, 415.0, 410.8
