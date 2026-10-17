@@ -359,15 +359,16 @@
 > - **Holotype and referred specimens.** See Vaškaninová and Ahlberg, 2017.
 > - **Diagnosis.** See Vaškaninová and Ahlberg, 2017.
 > - **Remarks.** Gross (1958) established *Radotina kosorensis* based on the holotype (NM Lc 25) and NHM P.12829, and subsequently referred additional specimens to this species (Gross, 1959). Following a revision of the previously described material and newly discovered specimens, Vaškaninová (2017) reassigned most of the specimens referred to *R. kosorensis* by Gross (1959) to the new genus *Tlamaspis*, while others were assigned to the new genus *Sudaspis*. These genera differ from *Radotina* in major aspects of cranial morphology, justifying their separation at the generic level. In addition, the scales attributed to *R. kosorensis* by Gross (1959) were regarded as indeterminate by Vaškaninová (2017), as they were not associated with any of the diagnostic specimens. Consequently, the specimens that can be confidently referred to *R. kosorensis* are restricted to the holotype (NM Lc 25), NHM P.12829, and NM Lc 461 (Vaškaninová, 2017).
-> - [Vaškaninová and Ahlberg, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174794)
+> - **References.** Gross, 1985, 1959; [Vaškaninová and Ahlberg, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174794)
 
 [*Radotina tesselata*](https://deepbone.org/public/#/explor?s_id=2291&functionId=Deepbone_header_searchResultOpen) Gross, 1958
-> Pragian, 410.8, 407.6
+> **Geological range.** Pragian, 410.8, 407.6
 
-> Baltica
-
-> - Praha Formation, Koneprusy near Beroun, south-east of Prague, probably the area of the present day Houbas Quarry, Prague Basin, Czech Republic.
-> - Gross, 1958; [Vaškaninová and Ahlberg, 2017](https://deepbone.org/public/#/explor?s_id=2291&functionId=Deepbone_header_searchResultOpen)
+> - **Occurrence.** Praha Formation, Koneprusy near Beroun, south-east of Prague, probably the area of the present day Houbas Quarry, Prague Basin, Czech Republic.
+> - **Holotype and referred specimens.** See Vaškaninová and Ahlberg, 2017.
+> - **Diagnosis.** See Vaškaninová and Ahlberg, 2017.
+> - **Remarks.**
+> - **References.** Gross, 1958; [Vaškaninová and Ahlberg, 2017](https://deepbone.org/public/#/explor?s_id=2291&functionId=Deepbone_header_searchResultOpen)
 
 [*Arabosteus variabilis*](https://deepbone.org/public/#/explor?s_id=73906&functionId=Deepbone_header_searchResultOpen) Olive et al., 2011
 > Pragian to lower Emsian, 410.8, 400.45
