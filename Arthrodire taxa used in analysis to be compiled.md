@@ -365,9 +365,9 @@
 > **Geological range.** Pragian, 410.8, 407.6
 
 > - **Occurrence.** Praha Formation, Koneprusy near Beroun, south-east of Prague, probably the area of the present day Houbas Quarry, Prague Basin, Czech Republic.
-> - **Holotype and referred specimens.** See Vaškaninová and Ahlberg, 2017.
+> - **Holotype.** See Vaškaninová and Ahlberg, 2017.
 > - **Diagnosis.** See Vaškaninová and Ahlberg, 2017.
-> - **Remarks.**
+> - **Remarks.** Gross (1958) established this species based on a single specimen, designated as the holotype. Vaškaninová and Ahlberg (2017) retained this taxonomic assignment. Although the holotype is considerably smaller than specimens of *Radotina kosorensis*, its braincase is partially ossified, with only the premedian region remaining unossified, suggesting that it was probably close to adult size. This suggests that the size difference may reflect interspecific rather than ontogenetic variation.
 > - **References.** Gross, 1958; [Vaškaninová and Ahlberg, 2017](https://deepbone.org/public/#/explor?s_id=2291&functionId=Deepbone_header_searchResultOpen)
 
 [*Arabosteus variabilis*](https://deepbone.org/public/#/explor?s_id=73906&functionId=Deepbone_header_searchResultOpen) Olive et al., 2011
