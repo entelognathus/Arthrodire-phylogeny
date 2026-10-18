@@ -2161,6 +2161,9 @@ separate, this character is scored as 'not applicable'.
 511.  Median dorsal plate bears a small posterior notch: absent (0); present (1).
 >  This character is present in *Ptyctodopsis*, *Denisonodus*, and *Ctenurella*. In *Ptyctodopsis* and *Denisonodus*, the posterior margin of the median dorsal plate bears a small notch that accommodates the median dorsal spine. A similar condition occurs in *Ctenurella*, although the median dorsal spine itself cannot be identified. 
 
+512. Contact between postorbital and central plates: present (0); absent (1).
+>  In *Radontina*, the postorbital and central plates are separated by small tesserae. 
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
