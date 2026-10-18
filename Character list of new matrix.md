@@ -1447,7 +1447,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 >- Same as "Optic fissure: present (0): absent (1)".
 
-> - **Character 82 in "early gnathostome phylogeny github".** Discrete division of the ethmoid and more posterior braincase at the level of the optic tract canal (optic fissure): (0) absent; (1) present.
+> - **Character 368 in "early gnathostome phylogeny github".** Discrete division of the ethmoid and more posterior braincase at the level of the optic tract canal (optic fissure): (0) absent; (1) present.
 
 > - Brazeau et al. (2023) "Optic fissure: (0) present; (1) absent."
 
