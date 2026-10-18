@@ -2161,8 +2161,8 @@ separate, this character is scored as 'not applicable'.
 511.  Median dorsal plate bears a small posterior notch: absent (0); present (1).
 >  This character is present in *Ptyctodopsis*, *Denisonodus*, and *Ctenurella*. In *Ptyctodopsis* and *Denisonodus*, the posterior margin of the median dorsal plate bears a small notch that accommodates the median dorsal spine. A similar condition occurs in *Ctenurella*, although the median dorsal spine itself cannot be identified. 
 
-512. Contact between postorbital and central plates: present (0); absent (1).
->  In *Radontina*, the postorbital and central plates are separated by small tesserae. 
+513. Articular area for the first one or two branchial arches on the ventral surface of the posterior postorbital process: absent (0); present (1).
+> - Goujet (1984): Between this orifice and the groove for the efferent branchial artery (s.a.br) are placed ventral expansions of the base of the posterior postorbital process (fig. 74) on each of its branches, expansions whose apex is devoid of perichondral covering, as also exists in the acanthothoracid *Romundina* (see Ørvig 1975, Pl. 1, fig. 3). This location might correspond, as I envisaged in *Dicksonosteus*, to endocranial articulation points of the first branchial arches or of two elements uniting all or part of the arches together.
 
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
@@ -2186,9 +2186,6 @@ separate, this character is scored as 'not applicable'.
 
 ** Attachment of adductir mandibulae muscle on palatoquadrate: internal face (0); external face (1).
 >  - Goujet (1984): The "internal" position of the muscle persists even in forms where the dermal cheek no longer has a suspensory role: this is, in particular, the case of *Jagorina*, in which the palatoquadrate (pr.ant (1) Stensiö 1969, fig. 25B) has preserved a form very similar to that of the Placoderms cited above, with, on the medial (buccal) face, a cavity corresponding to the muscular fossa, into which a canal opens (for the lateral buccal nerve according to Stensiö 1969, fig. 25A). In Jagorina, the muscle therefore also inserted on the internal face of the palatoquadrate. The only Placoderms that escape this rule are the Ptyctodonts (see Stensiö 1969, fig. 151, 153; Miles & Young 1977, fig. 11), in which the muscle attached to the exterior of the autopalatine. In the current state of hypotheses on the possible ancestry of this group (Miles & Young 1977), this peculiarity within Placoderms could equally well be a persistence of an ancestral state or the result of a secondary migration of the muscle.   
-
-** Articular area for the first one or two branchial arches on the ventral surface of the posterior postorbital process: absent (0); present (1).
-> - Goujet (1984): Between this orifice and the groove for the efferent branchial artery (s.a.br) are placed ventral expansions of the base of the posterior postorbital process (fig. 74) on each of its branches, expansions whose apex is devoid of perichondral covering, as also exists in the acanthothoracid *Romundina* (see Ørvig 1975, Pl. 1, fig. 3). This location might correspond, as I envisaged in *Dicksonosteus*, to endocranial articulation points of the first branchial arches or of two elements uniting all or part of the arches together.
 
 **cheek** Paranuchal plate overlaps the nuchal plate: absent (0); present (1).
  > -  This character is widely present in phlyctaeniids and brachythoracids. Goujet (1984) suggested that this overlapping relationship link to the development of the "posterior consolidated part of the skull" (Heintz 1932, p. 131; Stensiö 1963a), itself resulting from the differentiation or reinforcement of a dermal cervical articulation.
