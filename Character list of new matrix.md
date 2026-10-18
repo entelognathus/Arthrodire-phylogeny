@@ -360,7 +360,7 @@ Postorbital plate forms the posterolateral margin of orbit: absent (0); present 
 > - Castiello (2018): This character is a new formulation of Dupret et al. (2009) character 34. It is about the condition presents in many placoderms where a median impaired bone (nuchal plate) is in contact with the unpaired bone bearing the pineal foramen or eminence. This is opposed to some other placoderms and osteichthyans where the median impaired bone (extrascapular in osteichthyans) is not in contact with the pineal plate so that the preorbitals (parietals in sarcopterygian,frontal in actinopterygian) are in contact.
 
 70.  Contact between preorbital plate and nuchal plate: absent (0); present (1).
-> - **Character 81 in "early gnathostome phylogeny github".** Contact of nuchal or centronuchal or median extrascapular plate with paired preorbital or parietal plates: absent (0); present (1).
+> - **Character 148 in "early gnathostome phylogeny github".** Contact of nuchal or centronuchal or median extrascapular plate with paired preorbital or parietal plates: absent (0); present (1).
  
 71.  Postorbital plate in contact with the nuchal plate: absent(0); present(1).
 > Xue *et al.* (2025, in pre)
