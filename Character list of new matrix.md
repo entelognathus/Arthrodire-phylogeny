@@ -2164,6 +2164,9 @@ separate, this character is scored as 'not applicable'.
 513. Articular area for the first one or two branchial arches on the ventral surface of the posterior postorbital process: absent (0); present (1).
 > - Goujet (1984): Between this orifice and the groove for the efferent branchial artery (s.a.br) are placed ventral expansions of the base of the posterior postorbital process (fig. 74) on each of its branches, expansions whose apex is devoid of perichondral covering, as also exists in the acanthothoracid *Romundina* (see Ørvig 1975, Pl. 1, fig. 3). This location might correspond, as I envisaged in *Dicksonosteus*, to endocranial articulation points of the first branchial arches or of two elements uniting all or part of the arches together.
 
+514. Paired Foramina anteior to the hypophysial fenestra: absent (0); present (1).
+> - In *Romundina*, *Tlamaspis*, and *Palaeacanthaspis*, a pair of small foramina is positioned anterior to the hypophysial fenestra and medial to the pseudobranchial arteries. These foramina communicate with the dorsal surface of the rostronasal region via two perichondrally lined canals that pass vertically through the endocranial cartilage. Dupret et al. (2021) interpreted these foramina as openings for the internal carotid arteries.
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
