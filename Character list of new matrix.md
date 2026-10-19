@@ -418,7 +418,7 @@ Postorbital plate forms the posterolateral margin of orbit: absent (0); present 
 81.  Number of paranuchal plates: one pair (0); two pairs (1).
 > Dupret *et al*. (2009), Character 35; Dupret *et al*. (2017), Character 35; Zhu *et al*. (2010), Character 35; Xue *et al*. (2025), Character 68.
 
-> - **Character 78 in "early gnathostome phylogeny github".**
+> - **Character 151 in "early gnathostome phylogeny github".**
 
 82.  Posterolateral edge of paranuchal plates: convex (0); concave (1).
 > Dupret *et al*. (2009), Character 37; Dupret *et al*. (2017), Character 37; Zhu *et al*. (2010), Character 37; Xue *et al*. (2025), Character 69.
