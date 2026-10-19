@@ -329,12 +329,13 @@
 > - **References.** Brotezen, 1934; Dupret et al., 2021. 
 
 [*Tlamaspis inopinatus*](https://deepbone.org/public/#/explor?s_id=2292&functionId=Deepbone_header_searchResultOpen) Vaškaninová and Ahlberg, 2017
-> Lochkovian, 419.2, 410.8
+> **Geological range.** Lochkovian, 419.2, 410.8
 
-> Baltica
-
-> - Lochkov Formation; Černarokle near Kosoř in Prague-Radotin, Prague Basin, Czech Republic.
-> - [Vaškaninová and Ahlberg, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174794)
+> - **Occurrence.** Lochkov Formation; Černarokle near Kosoř in Prague-Radotin, Prague Basin, Czech Republic.
+> - **Holotype and referred specimens.** See Vaškaninová and Ahlberg, 2017.
+> - **Diagnosis.** See Vaškaninová and Ahlberg, 2017.
+> - **Remarks.** Vaškaninová and Ahlberg (2017) referred most specimens originally assigned to *Radotina kosorensis* by Gross (1959) to the new genus *Tlamaspis*. They distinguished *Tlamaspis* from *Radotina kosorensis* by several features, including the absence of a premedian plate, exceptionally large central plates that contact each other and the nuchal plate without intervening tesserae, distinctive tubercle morphology, and an elongate prenasal region. Gross (1958, 1959), Westoll (1967), and Goujet (1984) interpreted the absence of tesserae in *Tlamaspis* as either individual variation or a result of taphonomic processes. However, Vaškaninová and Ahlberg (2017) rejected these interpretations and argued that the morphological differences between the two taxa warranted their recognition as distinct genera, rather than interpreting *Tlamaspis* as a variant of *Radotina kosorensis*.
+> -  **References.** Gross, 1958, 1959; Westoll, 1967[https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1096-3642.1967.tb01397.x]; Goujet, 1984; [Vaškaninová and Ahlberg, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174794)
 
 [*Sudaspis chlupaci*](https://deepbone.org/public/#/explor?s_id=2293&functionId=Deepbone_header_searchResultOpen) Vaškaninová and Ahlberg, 2017
 > Lochkovian, 419.2, 410.8
