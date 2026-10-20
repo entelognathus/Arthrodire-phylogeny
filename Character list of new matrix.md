@@ -682,7 +682,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 130.  Median dorsal plate with a ventral ridge: a ventral thickening or ridge (0); posterior ridge with a posterior process, not spatulate (1); posterior process posterodorsally spatulate (2).
 > Dennis and Miles (1979a), Characters 4 and 18, modified; Carr (1991), Character 35; Lelièvre (1995), character  40, modified; Carr and Hlavin (2010), Character 35; Rücklin *et al*. (2015), Character 35; Zhu Y *et al*. (2016), Character 35; Jobbins *et al*. (2022, 2024), Character 35； Xue *et al*. (2025), Character 77.
 
-> - **Character 562 in "early gnathostome phylogeny github** Pronounced internal crista (keel) on median dorsal surface of shoulder girdle: (0) absent; (1) present.
+> - **Character 564 in "early gnathostome phylogeny github** Pronounced internal crista (keel) on median dorsal surface of shoulder girdle: (0) absent; (1) present.
 
 131.  Median dorsal plate shape (L/W ≤  OR > 1.0): short and broad to equidimensional (0); body of plate long and narrow, not including a posteriorly produced spine (1).
 > Carr (1991), Character 36; Lelièvre (1995), character 38, modified; Carr and Hlavin (2010), Character 36; Rücklin *et al*. (2015), Character 36; Zhu Y *et al*. (2016), Character 36; Jobbins *et al*. (2022, 2024), Character 36； Xue *et al*. (2025), Character 78.
