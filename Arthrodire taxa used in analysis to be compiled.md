@@ -338,11 +338,12 @@
 > -  **References.** Gross, 1958, 1959; Westoll, 1967[https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1096-3642.1967.tb01397.x]; Goujet, 1984; [Vaškaninová and Ahlberg, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174794)
 
 [*Sudaspis chlupaci*](https://deepbone.org/public/#/explor?s_id=2293&functionId=Deepbone_header_searchResultOpen) Vaškaninová and Ahlberg, 2017
-> Lochkovian, 419.2, 410.8
+> **Geological range.** Lochkovian, 419.2, 410.8
 
-> Baltica
-
-> - Lochkov Formation, Černarokle near Kosoř in Prague-Radotin, Prague Basin, Czech Republic.
+> - **Occurrence.** Lochkov Formation, Černarokle near Kosoř in Prague-Radotin, Prague Basin, Czech Republic.
+> - **Holotype and referred specimens.** See Vaškaninová and Ahlberg, 2017
+> - **Diagnosis.** See Vaškaninová and Ahlberg, 2017
+> - **Remarks.** The holotype (NM Lc 27) of *Sudaspis chlupaci* was originally assigned to *Radotina kosorensis* by Gross (1959), and this assignment was followed by Stensiö (1969). Vaškaninová and Ahlberg (2017) redescripted the material assigned to *R. kosorensis* by Gross (1958, 1959) and revised its taxonomy. Based on the holotype and two additional specimens, they erected Sudaspis chlupaci to accommodate these specimens.
 > - [Vaškaninová and Ahlberg, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174794)
 
 [*Romundina stellina*](https://deepbone.org/public/#/explor?s_id=2375&functionId=Deepbone_header_searchResultOpen) Ørvig, 1975
