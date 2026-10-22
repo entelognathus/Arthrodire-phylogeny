@@ -66,7 +66,7 @@
 > Zhu et al. (2013), Character 148; Choo et al. (2017), Character 159; King et al. (2017), Character 177; Castiello (2018), Character 174; Zhu Y. et al. (2022), Character 142; Brazeau et al. (2023), Character 183. Cui et al. (2023), Character 142.
 
 >  - **Character 140 in "early gnathostome phylogeny github".**
->  - Premedian plate is present in acanthoracids, antiarchs, and maxillate placoderms.
+>  - Premedian plate is present in acanthoracids, antiarchs, and maxillate placoderms. Dupret et al. (2017) questioned the identification of the premedian plate in *Entelognathus*, interpreting this element as an internasal plate distinct from the rostral plate. They also suggested that the internasal plate, prerostral plate, or anterior process of the rostral plate in arthrodires might represent a vestigial premedian plate. Here, we do not follow the interpretation of Dupret et al. (2017) and retain the original identification of the plate as the premedian plate.
 
 11.  Position of premedian plate: (0) dorsal; (1) ventral.
 > Zhu Y. et al. (2022), Character 143. Cui et al. (2023), Character 143.
