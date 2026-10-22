@@ -373,12 +373,12 @@
 > - **References.** Gross, 1958; [Vaškaninová and Ahlberg, 2017](https://deepbone.org/public/#/explor?s_id=2291&functionId=Deepbone_header_searchResultOpen)
 
 [*Arabosteus variabilis*](https://deepbone.org/public/#/explor?s_id=73906&functionId=Deepbone_header_searchResultOpen) Olive et al., 2011
-> Pragian to lower Emsian, 410.8, 400.45
+> **Geological range.** Pragian to lower Emsian, 410.8, 400.45
 
-> Arabia (Gondwana)
-
->  - Qasr Limestone Member, Jauf Formation; Al Huj section, Al Qalibah area, Saudi Arabia.
-> - [Olive et al., 2011](https://bioone.org/journals/Geodiversitas/volume-33/issue-3/g2011n3a1/A-new-Placoderm-fish-Acanthothoraci-from-the-Early-Devonian-Jauf/10.5252/g2011n3a1.short); [Olive et al., 2014](https://link.springer.com/article/10.1134/S003103011409010X).
+>  - **Occurrence.** Qasr Limestone Member, Jauf Formation; Al Huj section, Al Qalibah area, Saudi Arabia.
+>  - **Holotype and referred specimens..** See Olive et al., 2011
+>  - **Diagnosis.** See Olive et al., 2011
+> -  **References.** [Olive et al., 2011](https://bioone.org/journals/Geodiversitas/volume-33/issue-3/g2011n3a1/A-new-Placoderm-fish-Acanthothoraci-from-the-Early-Devonian-Jauf/10.5252/g2011n3a1.short); [Olive et al., 2014](https://link.springer.com/article/10.1134/S003103011409010X).
 
 [*Brindabellaspis stensioi*](https://deepbone.org/public/#/explor?s_id=3060&functionId=Deepbone_header_searchResultOpen) Young, 1980
 > Emsian, 407.6, 393.3
