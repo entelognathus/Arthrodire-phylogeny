@@ -307,9 +307,10 @@
 > **Geological range.** Lochkovian, 419.2, 410.8
 
 > - **Occurrence.**  Dzhalpak Formation, South Tien Shan, North Nuratau Ridge, Uzbekistan.
-> - **Holotype and referred specimens.**
+> - **Holotype and referred specimens.** See Mark-Kurik, 1973.
 > - **Diagnosis.** See Mark-Kurik, 1973.
-> - **Reference.** Mark-Kurik, 1973
+> - **Remarks.** Mark-Kurik (1973) interpreted the plate anterior to the posterior paranuchal plate, which bears the opening of the endolymphatic duct, as the anterior paranuchal plate. The plate lateral to it, which bears the junction of the posterior pit-line and the main lateral sensory line, was identified as the postmarginal plate. Accordingly, the median paranuchal plate was absent in *Kimaspis* from Mark-Kurik’s (1973) reconstruction. Denison (1978), however, reinterpreted the plate identified by Mark-Kurik as the anterior paranuchal plate as the posterior central plate (median paranuchal plate), with the anterior paranuchal plate lying lateral to it. This reconstruction is more consistent with the general arrangement of plates in other acanthothoracids. Furthermore, the junction of the posterior pit-line and the main lateral sensory line is generally located near the radial centre of the anterior paranuchal plate. We therefore favour Denison’s (1978) reconstruction.
+> - **Reference.** Mark-Kurik, 1973; Denison, 1978.
 
 [*Kosoraspis peckai*](https://deepbone.org/public/#/explor?s_id=2117&functionId=Deepbone_header_searchResultOpen)  Gross, 1959
 > upper Lochkovian, 415.0, 410.8
