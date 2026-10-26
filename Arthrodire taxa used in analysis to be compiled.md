@@ -383,20 +383,21 @@
 > -  **References.** [Olive et al., 2011](https://bioone.org/journals/Geodiversitas/volume-33/issue-3/g2011n3a1/A-new-Placoderm-fish-Acanthothoraci-from-the-Early-Devonian-Jauf/10.5252/g2011n3a1.short); [Olive et al., 2014](https://link.springer.com/article/10.1134/S003103011409010X).
 
 [*Brindabellaspis stensioi*](https://deepbone.org/public/#/explor?s_id=3060&functionId=Deepbone_header_searchResultOpen) Young, 1980
-> Emsian, 407.6, 393.3
+> **Geological range.** Emsian, 407.6, 393.3
 
-> East Gondwanan
-
-> - New South Wales, Australia
-> - [Young, 1980](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8020321285); [King *et al*., 2018](https://royalsocietypublishing.org/doi/full/10.1098/rsos.180094); [Zhu Y. et al., 2021](https://www.cell.com/current-biology/pdf/S0960-9822(20)31898-4.pdf)
+> - **Occurrence.** New South Wales, Australia
+> - **Holotype and referred specimens..** See Young (1980).
+> - **Diagnosis.** See Young (1980).
+> - **References.** [Young, 1980](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8020321285); [King *et al*., 2018](https://royalsocietypublishing.org/doi/full/10.1098/rsos.180094); [Zhu Y. et al., 2021](https://www.cell.com/current-biology/pdf/S0960-9822(20)31898-4.pdf)
 
 [*Kolymaspis sibirica*](https://deepbone.org/public/#/explor?s_id=2099&functionId=Deepbone_header_searchResultOpen) Bystrow, 1956
-> Lochkovian, 419.2, 410.8
+> **Geological range.** Lochkovian, 419.2, 410.8
 
-> Siberia
-
-> - river Taskan, Kolyma basin, north-east Siberia.
-> - Bystrow, 1956
+> - **Occurrence.** bituminous limestone level near the Kolyma River in the Magadan Oblast, in eastern Siberia, Russia.
+> - **Holotype.** See Castiello (2018).
+> - **Diagnosis.** See Denison (1978).
+> - **Remarks.** 
+> - **References.** Bystrow, 1956; Denison, 1978; Castiello, 2018.
 
 ## Arthrodire taxa used in the analysis
 [*Actinolepis magna*](https://deepbone.org/public/#/explor?s_id=2464andfunctionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1973
