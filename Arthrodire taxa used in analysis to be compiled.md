@@ -396,7 +396,7 @@
 > - **Occurrence.** bituminous limestone level near the Kolyma River in the Magadan Oblast, in eastern Siberia, Russia.
 > - **Holotype.** See Castiello (2018).
 > - **Diagnosis.** See Denison (1978).
-> - **Remarks.** 
+> - **Remarks.** Bystrow (1956) originally described the external morphology of this species and interpreted it as an ostracoderm. Obruchev (1964) subsequently recognized it as a jawed vertebrate and assigned it to the acanthothoracid placoderms. Young (1980) suggested that *Kolymaspis* might be closely related to either *Brindabellaspis* or *Romundina*, based on characters shared with these taxa. However, Young (1980) also noted that the lack of information on the endocranium hindered the resolution of the phylogenetic position of *Kolymaspis* among placoderms. Castiello (2018) provided a comprehensive description of the endocranium of *Kolymaspis* and included the taxon in a phylogenetic analysis, in which *Kolymaspis* was recovered within a polytomy of acanthothoracids. Brazeau et al. (2024) provided a detailed description of the cranio-thoracic joint of *Kolymaspis*, noting that it is formed not only by dermal bones but also by perichondral bone in the occipital region of the endocranium, a condition also observed in *Brindabellaspis*. 
 > - **References.** Bystrow, 1956; Denison, 1978; Castiello, 2018.
 
 ## Arthrodire taxa used in the analysis
