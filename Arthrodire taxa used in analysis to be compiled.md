@@ -312,13 +312,14 @@
 > - **Remarks.** Mark-Kurik (1973) interpreted the plate anterior to the posterior paranuchal plate, which bears the opening of the endolymphatic duct, as the anterior paranuchal plate. The plate lateral to it, which bears the junction of the posterior pit-line and the main lateral sensory line, was identified as the postmarginal plate. Accordingly, the median paranuchal plate was absent in *Kimaspis* from Mark-Kurik’s (1973) reconstruction. Denison (1978), however, reinterpreted the plate identified by Mark-Kurik as the anterior paranuchal plate as the posterior central plate (median paranuchal plate), with the anterior paranuchal plate lying lateral to it. This reconstruction is more consistent with the general arrangement of plates in other acanthothoracids. Furthermore, the junction of the posterior pit-line and the main lateral sensory line is generally located near the radial centre of the anterior paranuchal plate. We therefore favour Denison’s (1978) reconstruction.
 > - **Reference.** Mark-Kurik, 1973; Denison, 1978.
 
-[*Kosoraspis peckai*](https://deepbone.org/public/#/explor?s_id=2117&functionId=Deepbone_header_searchResultOpen)  Gross, 1959
-> upper Lochkovian, 415.0, 410.8
+[*Kosoraspis peckai*](https://deepbone.org/public/#/explor?s_id=2117&functionId=Deepbone_header_searchResultOpen) Gross, 1959
+> **Geological range.** upper Lochkovian, 415.0, 410.8
 
-> Baltica
-
-> - Radotín Limestone; Prague Basin, Czech Republic.
-> - Denison, 1978; Gross, 1959
+> - **Occurrence.** Radotín Limestone; Prague Basin, Czech Republic.
+> - **Holotype and referred specimens.** See Gross, 1959.
+> - **Diagnosis.** See Gross, 1959.
+> - **Remarks.** Gross (1959) interpreted the plates bearing the middle and posterior pit-lines and situated lateral to the nuchal plate as the median lateral plates, with the lateral plates lying further laterally. Denison (1978) subsequently revised this terminology, referring to these plates as the central plates and marginal plates, respectively. The posterior element was thus termed the posterior median lateral plate by Gross and the posterior central plate by Denison. However, based on its topographic position and comparison with the corresponding dermal plates in other acanthothoracids, this element is better interpreted as the median paranuchal plate.    
+> - **References.** Denison, 1978; Gross, 1959
 
 [*Palaecanthaspis vasta*](https://deepbone.cn/public/#/explor?s_id=2372&return_to=%2Ftop-search-list%3Fkeyword%3DPalaecanthaspis%2520vasta&return_y=0)  Brotzen, 1934
 > **Geological range.** Lochkovian, 419.2, 410.8
