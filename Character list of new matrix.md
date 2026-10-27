@@ -793,7 +793,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - In those taxa that the posterior lateral plate or posterior dorsolateral plate is absent, this character is scored as 'not applicable'.
 
-> - **Character 55 in "early gnathostome phylogeny github".**
+> - **Character 585 in "early gnathostome phylogeny github".**
 
 157.  Posterior lateral plate forms part of closed pectoral fenestra: absent (0); present (1).
 > Carr (1991), Character 43; Carr and Hlavin (2010), Character 43; Rücklin *et al*. (2015), Character 43; Zhu Y *et al*. (2016), Character 43; Jobbins *et al*. (2022, 2024), Character 43； Xue *et al*. (2025), Character 85.
