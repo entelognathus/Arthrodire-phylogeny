@@ -687,6 +687,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 131.  Median dorsal plate shape (L/W ≤  OR > 1.0): short and broad to equidimensional (0); body of plate long and narrow, not including a posteriorly produced spine (1).
 > Carr (1991), Character 36; Lelièvre (1995), character 38, modified; Carr and Hlavin (2010), Character 36; Rücklin *et al*. (2015), Character 36; Zhu Y *et al*. (2016), Character 36; Jobbins *et al*. (2022, 2024), Character 36； Xue *et al*. (2025), Character 78.
 
+> Based on the discussion of skeletal homologies by Zhu et al. (2016), the median dorsal plate of arthrodires and the posterior median dorsal plate of antiarchs may correspond to the second median dorsal plate in *Qilinyu* and *Bianchengichthys*, as all these plates share a posteriorly positioned ventral pit and process. Accordingly, the character was coded for the respective taxa in accordance with this proposed homology.
 > Dupret *et al*. (2009, 2017), Character 60：Length/width ratio (L/W) of median dorsal plate: L/W < 1.5 (0); L/W ≥ 1.5 (1).
 
 > - The coding of *Panjiangosteus eurycephala* is ?.
