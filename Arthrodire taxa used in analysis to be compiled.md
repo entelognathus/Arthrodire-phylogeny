@@ -16,6 +16,31 @@
 > - **Diagnosis.** See Dupret *et al.* (2011).
 > - **References.** [Dupret *et al.*, 2011](https://www.tandfonline.com/doi/full/10.1080/02724634.2011.558148); [Racheboeuf *et al.*, 2005](https://www.sciencedirect.com/science/article/abs/pii/S0016699505000665)
 
+## Maxillate placoderm
+[*Bianchengichthys micros*](https://deepbone.cn/public/#/explor?s_id=82935&return_to=%2Fexplor&return_y=0) Li et al. 2021
+> **Geological range.** Late Ludfordian, Late Ludlow, Silurian, 425.6, 423.0
+
+> - **Occurrence.** Xiaoxi Formation, Xiushan county, Chongqing, China.
+> - **Holotype.** See Li et al. 2021.
+> - **Diagnosis.** See Li et al. 2021.
+> - **Reference.** [Li et al. 2021.](https://www.cell.com/current-biology/fulltext/S0960-9822(21)00751-X). 
+
+[*Qilinyu rostrata*](https://deepbone.cn/public/#/explor?s_id=1384&return_to=%2Ftop-search-list%3Fkeyword%3DQilinyu%2520rostrata&return_y=0) Zhu et al. 2016
+> **Geological range.** Late Ludfordian, Late Ludlow, Silurian, 425.6, 423.0
+
+> - **Occurrence.**  Xiaoxiang Sub-district, Qilin District, Qujing, Yunnan, China.
+> - **Holotype and referred specimens.** See Zhu et al. 2016
+> - **Diagnosis.** See Zhu et al. 2016.
+> - **References.** [Zhu et al., 2016](https://www.science.org/doi/abs/10.1126/science.aah3764?referrer=https%3A%2F%2Fscholar.google.com%2F); [Zhu et al., 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6774982/); [He et al., 2026](https://royalsocietypublishing.org/rsos/article/13/9/260645/483421).
+
+[*Entelognathus primordialis*](https://deepbone.cn/public/#/explor?s_id=1382&return_to=%2Ftop-search-list%3Fkeyword%3DEntelognathus%2520primordialis&return_y=0) Zhu et al. 2013
+> **Geological range.** Late Ludfordian, Late Ludlow, Silurian, 425.6, 423.0
+
+> - **Occurrence.**  Xiaoxiang Sub-district, Qilin District, Qujing, Yunnan, China.
+> - **Holotype and referred specimens.** See Zhu et al. 2013.
+> - **Diagnosis.** See Zhu et al. 2013.
+> - **References.** [Zhu et al., 2013](https://www.nature.com/articles/nature12617).
+
 ## Petalichthyid taxa
 [*Brevipetalichthys gracilis*](https://deepbone.org/public/#/explor?s_id=3255andfunctionId=Deepbone_header_searchResultOpen) Ji and Pan, 1999
 > **Geological range.** Pragian, 410.8, 407.6
