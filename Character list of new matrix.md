@@ -2170,6 +2170,9 @@ separate, this character is scored as 'not applicable'.
 514. Paired Foramina anteior to the hypophysial fenestra: absent (0); present (1).
 > - In *Romundina*, *Tlamaspis*, and *Palaeacanthaspis*, a pair of small foramina is positioned anterior to the hypophysial fenestra and medial to the pseudobranchial arteries. These foramina communicate with the dorsal surface of the rostronasal region via two perichondrally lined canals that pass vertically through the endocranial cartilage. Dupret et al. (2021) interpreted these foramina as openings for the internal carotid arteries.
 
+515. Postorbital plate: one paired (0); two paired (1).
+> - *Qilinyu* and *Bianchengichthys* are derived in possessing two pairs of postorbital plates. In other placoderms, including arthrodires, petalichthyids, acanthothoracids, ptyctodonts, and *Entelognathus*, only one pair of postorbital plates is present.
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
