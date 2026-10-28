@@ -996,7 +996,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 201.  Spiracular notch between the postorbital and suborbital plates: absent (0); present (1).
      
-> - The spiracular notch between the postorbital plate and the dorsal margin of suborbital plate is present in some Incisoscutoidea, such as *Torosteus*, *Harrytoombsia*, and *Mcnamaraspis*. The spiracular notch of *Mcnamaraspis* is closed by short contact between the suborbital and postorbital plates. The spiracular notch is also present in *Qilinyu*, but it is positioned between the anterior postorbital, jugal (suborbital), and opecular (submarginal) plates. 
+> - The spiracular notch between the postorbital plate and the dorsal margin of suborbital plate is present in some Incisoscutoidea, such as *Torosteus*, *Harrytoombsia*, and *Mcnamaraspis*. The spiracular notch of *Mcnamaraspis* is closed by short contact between the suborbital and postorbital plates. The spiracular notch is also present in *Qilinyu*, but it is positioned between the anterior postorbital, jugal (suborbital), postmarginal and opecular (submarginal) plates. 
 
 202.  Suborbital plate with a contact face for the PSG on the linguiform process: absent (0); present (1).
 > Carr (1991), Character 56; Carr and Hlavin (2010), Character 56; Rücklin *et al*. (2015), Character 56; Zhu Y *et al*. (2016), Character 56; Jobbins *et al*. (2022, 2024), Character 56; Xue *et al*. (2025), Character 120.
