@@ -667,6 +667,8 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 127.  Number of the extrascapular: one (0); two (1).
 > - This character is contingent on Character 104.
 
+> - **Character 205 in "early gnathostome phylogeny github".**
+
 128.  Number of median dorsal plates: (0) one; (1) two; (2) three.
 > King et al. (2017), Character 445; Castiello (2018), Character 434; Zhu Y. et al. (2022), Character 599; Brazeau et al. (2023), Character 450; Cui et al. (2023), Character 598; Trinajstic et al. (2019), character 3.
 
@@ -1230,7 +1232,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 >  - **Character 196 in "early gnathostome phylogeny github".**
 >  - This character is only present in *Wuttagoonaspis*.
 
-253.  Anterior end of supraorbital canal: (0) straight; (1) lateral inflection .
+253.  Course of supraorbital canal: (0) straight; (1) lyre-shaped.
 > - State 1 is present in some antarctaspids and wuttagoonaspids.
 
 254.  Supraorbit sensory canal extends to postpineal plate: (0) absent; (1) present.
@@ -1389,6 +1391,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 285.  Postorbital branch of the infraorbital sensory line groove and supraoral sensory groove confluent: discontinuous (0); continuous (1).
 > Lelièvre (1984a); Carr (1991), Character 83; Lelièvre (1995), character 47; Carr and Hlavin (2010), Character 83; Rücklin *et al*. (2015), Character 83; Zhu Y *et al*. (2016), Character 83; Jobbins *et al*. (2022, 2024), Character 83; Xue *et al*. (2025), Character 154.
 
+> - **Character 181 in "early gnathostome phylogeny github".**
 > - In those taxa that the supraoral sensory groove is absent, this character is scored as ‘not applicable’.
 
 286.  Cutaneous sensory organ on suborbital plate: (0) absent; (1) present.
@@ -1729,6 +1732,7 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 >  - In coccosteomorph arthrodires, such as *Coccosteus*, *Rolfosteus*, and *Xiantingosteus*, the postmarginal plate is reduced to a small element, which forms the acute posterolateral corner of the skull roof. In other arthrodires, the postmarginal plate is broad.
 
 352.  Supraoral sensory groove: absent (0); present (1).
+> **Character 193 in "early gnathostome phylogeny github".**
 
 353.  Sub-median-dorsal plate tapers posterior: absent (0); present (1).
 
@@ -1799,13 +1803,20 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 
 384.  Sclerotic plate: absent (0); present (1). 
 
-386.  Sclerotic plate: four (0); three (1).
+> **Character 203 in "early gnathostome phylogeny github".**
+
+386.  Number of sclerotic plate: four (0); three (1).
 > In arthrodires and ptyctodonts, there have four sclerotic plates. Antiarchs bears three sclerotic plates.
+
+> **Modified from Character 204 in "early gnathostome phylogeny github".**
 
 388.  Sclerotic plate: narrow (0); broad (1).
     
 389.  Occipital cross commisural sensory canal/groove runs cross the extrascapular: absent (0); present (1).
+
 >  -  This character is present in some coccosteoids
+
+> **Character 197 in "early gnathostome phylogeny github".**
 
 387.  Posterior ventrolateral plate with posteriorly directed lateral spines： absent (0); present (1).
 >  -  This character is present in some coccosteoids, such as *Coccosteus* and *Millerosteus*.
@@ -2252,6 +2263,79 @@ Position of premedian plate: (0) dorsal; (1) ventral.
 
 > **Character 141 in "early gnathostome phylogeny github".**
 > The ventral premedian plate is present in *Qilinyu* and *Entelognathus* .
+
+Nuchal reaching or almost reaching orbital margin: (0) absent; (1) present.
+
+> **Character 146 in "early gnathostome phylogeny github".**
+> This character is pesent in some antiarchs, such as *Bothriolepis* and *Microbranchius.*
+
+Lateral plate: (0) absent; (1) present.
+
+> **Character 150 in "early gnathostome phylogeny github".**
+> This character is only pesent in antiarchs.
+
+Ethmoid commissure fused into midline canal: (0) absent; (1) present.
+
+Semicircular pit line: (0) absent; (1) present.
+> This character is the automorphy of *Brindabellaspis*.
+
+Semicircular pit line: (0) absent; (1) present.
+
+> **Character 189 in "early gnathostome phylogeny github".**
+> This character is only pesent in *Bothriolepis*.
+
+Ventral lamina of opercular (submarginal) ossification: (0) absent; (1) present.
+
+> **Character 228 in "early gnathostome phylogeny github".**
+>  This character is shared by antiarchs and *Qilinyu*.
+
+Ventral lamina of suborbital (jugal): (0) absent; (1) present.
+
+> **Character 229 in "early gnathostome phylogeny github".**
+>  This character is shared by antiarchs and *Qilinyu*.
+
+Anterodorsal process of opercular (submarginal) ossification:(0) absent; (1) present.
+
+> **Character 231 in "early gnathostome phylogeny github".**
+> This character is shared by antiarchs and *Qilinyu*.
+
+Oral dermal tubercles borne on jaw cartilages: (0) absent; (1) present.
+
+> **Character 236 in "early gnathostome phylogeny github".**
+
+Oral dermal tubercles patterned in organised rows (teeth): (0) absent; (1) present.
+
+> **Character 237 in "early gnathostome phylogeny github".**
+
+Strongly curved infragnathals with wide flat non-biting region: (0) absent; (1) present.
+
+> **Character 245 in "early gnathostome phylogeny github".**
+> This character is only pesent in *Bothriolepis*.
+
+Dentary marginal bone of mouth: (0) absent; (1) present.
+
+> **Character 268 in "early gnathostome phylogeny github".**
+> This character is shard by *Qilinyu*, *Entelognathus*, and osteichthyans.
+
+Laterally extending palatoquadrate: (0) absent; (1) present.
+
+> **Character 326 in "early gnathostome phylogeny github".**
+>  This character is only present in *Gemuendina stuertzi* and *Jagorina pandora*.
+
+Insertion area for jaw adductor muscles on palatoquadrate: (0) ventral; (1) lateral.
+
+> **Character 327 in "early gnathostome phylogeny github".**
+> This character is shard by *Entelognathus*, *Buchanosteus*, and *Holonema*.
+
+Position of upper mandibular arch cartilage (and associated cheek plate where present): (0) entirely suborbital; (1) with a postorbital extension.
+
+> **Character 335 in "early gnathostome phylogeny github".**
+> The upper mandibular arch cartilage in placoderms is represented by the palatoquadrate. In brachythoracids, such as *Compagopiscis croucheri*, *Incisoscutum ritchiei*, and *Holonema*, the quadrate portion of the palatoquadrate lies against the visceral surfaces of both the suborbital and postsuborbital plates.
+
+Fenestra ventrolateralis: (0) absent; (1) present; (2) common ventral fenestra for anterior and posterior nostrils.
+
+> **Character 379 in "early gnathostome phylogeny github".**
+> State 2 is shared by arthrodires and *Brindabellaspis*.
 
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
