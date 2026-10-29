@@ -38,7 +38,7 @@
 [*Entelognathus primordialis*](https://deepbone.cn/public/#/explor?s_id=1382&return_to=%2Ftop-search-list%3Fkeyword%3DEntelognathus%2520primordialis&return_y=0) Zhu et al. 2013
 > **Geological range.** Late Ludfordian, Late Ludlow, Silurian, 425.6, 423.0
 
-> - **Occurrence.**  Xiaoxiang Sub-district, Qilin District, Qujing, Yunnan, China.
+> - **Occurrence.**  Xiaoxiang Reservoir, Qujing, Yunnan, China; Kuanti Formation. Late Ludlow, Silurian, *Ozarkodina snajdri* Conodont Zone.
 > - **Holotype and referred specimens.** See Zhu et al. 2013.
 > - **Diagnosis.** See Zhu et al. 2013.
 > - **References.** [Zhu et al., 2013](https://www.nature.com/articles/nature12617).
