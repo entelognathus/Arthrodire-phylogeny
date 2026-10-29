@@ -2285,8 +2285,6 @@ Ethmoid commissure fused into midline canal: (0) absent; (1) present.
 Semicircular pit line: (0) absent; (1) present.
 > This character is the automorphy of *Brindabellaspis*.
 
-Semicircular pit line: (0) absent; (1) present.
-
 > **Character 189 in "early gnathostome phylogeny github".**
 > This character is only pesent in *Bothriolepis*.
 
