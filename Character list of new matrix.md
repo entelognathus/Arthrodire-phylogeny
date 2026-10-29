@@ -2018,6 +2018,8 @@ separate, this character is scored as 'not applicable'.
 446.  Posterior margin of anterior ventrolateral plate: convex (0); straight (1).
 >  Lelièvre (1984) suggested that the monophyly of homosteids is supported by characters: a short trunk armor, characterized by a short and broad median dorsal plate and an anterior ventrolateral plate with a straight posterior margin (reflecting the absence of a posterior ventrolateral plate); a skull roof possessing elongate nuchal, paranuchal, and marginal plates (character 6, fig. 19).
 
+> However, a straight posterior margin of the anterior ventrolateral plate is also present in maxillate placoderms and antiarchs, despite the presence of a posterior ventrolateral plate in these groups.
+
 447.  The position of the junction between postmarginal and main lateral sensory grooves: normal, located in the central region of marginal plate (0); posteriorly, close to the posterior margin of marginal plate (1).
 >  This character is potentially a synapomorphy of homostiids.
 
