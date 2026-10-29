@@ -2280,6 +2280,8 @@ Lateral plate: (0) absent; (1) present.
 
 Ethmoid commissure fused into midline canal: (0) absent; (1) present.
 
+> **Character 165 in "early gnathostome phylogeny github".**
+
 Semicircular pit line: (0) absent; (1) present.
 > This character is the automorphy of *Brindabellaspis*.
 
