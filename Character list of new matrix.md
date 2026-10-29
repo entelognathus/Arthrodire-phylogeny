@@ -1818,8 +1818,8 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 
 > **Character 197 in "early gnathostome phylogeny github".**
 
-387.  Posterior ventrolateral plate with posteriorly directed lateral spines： absent (0); present (1).
->  -  This character is present in some coccosteoids, such as *Coccosteus* and *Millerosteus*.
+387.  Posterior ventrolateral plate with posteriorly directed lateral spine： absent (0); present (1).
+>  -  This character is present in some coccosteids, such as *Coccosteus* and *Millerosteus*. A similar condition occurs in *Entelognathus*, in which the posterior spine comprises both dorsal and ventral laminae, whereas in coccosteid arthrodires, the spine consists only of a ventral lamina.
 
 388.  Path of central canal onto central plate: direct (0); with anterior projection before entering central plate (1).
 
