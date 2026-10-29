@@ -2341,6 +2341,43 @@ Fenestra ventrolateralis: (0) absent; (1) present; (2) common ventral fenestra f
 > **Character 379 in "early gnathostome phylogeny github".**
 > State 2 is shared by arthrodires and *Brindabellaspis*.
 
+Orbit directed mostly laterally and free of flanking endocranial cartilage or bone: (0) absent; (1) present.
+
+> **Character 401 in "early gnathostome phylogeny github".**
+> This character is present in some arthrodires, *Romundina*, *Qilinyu*, and *Entelognathus*.
+
+Opercular suspension on braincase: (0) absent; (1) present.
+
+> **Character 408 in "early gnathostome phylogeny github".**
+
+Pituitary vein canal: (0) discontinuous, enters the cranial cavity; (1) discontinuous, enters hypophysial recess; (2) continuous transverse vein.
+
+> **Character 440 in "early gnathostome phylogeny github".**
+
+Pituitary vein in a transverse canal connecting the orbit: (0) absent; (1) present.
+
+> **Character 441 in "early gnathostome phylogeny github".**
+
+Crus commune of anterior and posterior semicircular canals: (0) dorsal to endocranial roof; (1) ventral to endocranial roof.
+
+> **Character 457 in "early gnathostome phylogeny github".**
+
+Preampullary portion of posterior semicircular canal: (0) absent; (1) present.
+
+> **Character 461 in "early gnathostome phylogeny github".**
+
+Sinus superior: (0) absent or indistinguishable from union of anterior and posterior canals with saccular chamber; (1) present.
+
+> **Character 462 in "early gnathostome phylogeny github".**
+
+Endolymphatic duct distal direction in lateral view: (0) posteriorly directed; (1) vertically directed.
+
+> **Character 474 in "early gnathostome phylogeny github".**
+
+Transverse otic process: (0) not extending in front of orbits; (1) extending in front of orbits.
+
+> **Character 504 in "early gnathostome phylogeny github".**
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
