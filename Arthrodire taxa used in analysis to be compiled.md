@@ -432,28 +432,31 @@
 
 ## Arthrodire taxa used in the analysis
 [*Actinolepis magna*](https://deepbone.org/public/#/explor?s_id=2464andfunctionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1973
-> lower Givetian, 387.7, 386.0
+> **Geological range.** lower Givetian, 387.7, 386.0
 
-> Baltica
-
-> - Burtnieki Beds of Karksi and Joosu, Estonia; Gauja River, Latvia.
-> - [Mark-Kurik, 1973].
+> - **Occurrence.** Burtnieki Beds of Karksi and Joosu, Estonia; Gauja River, Latvia.
+> - **Holotype and referred specimens.** See Mark-Kurik, 1973.
+> - **Diagnosis.** See Mark-Kurik, 1973.
+> - **Remarks.** This species represents the youngest known lineage of actinolepoids and the largest known member of the group, with an estimated skull roof length of 17 cm. It is more closely related to *Actinolepis tuberculata* than to other species of *Actinolepis*. Both species possess two pairs of posterior pit-lines, an unusual condition known only in these two species. The anterior pair is located near the centre of the central plates, whereas the posterior pair extends from the paranuchal plates onto the central plates. *Actinolepis magna* differs from *A. tuberculata* in the morphology of the occipital region: in *A. magna*, the nuchal plate is slender and lacks an occipital commissure. The median dorsal plate of Actinolepis magna bears a ventral transverse thickening, a condition also present in petalichthyids and on the posterior median dorsal plate of antiarchs.
+> - **Reference.** [Mark-Kurik, 1973].
 
 [*Actinolepis spinosa*](https://deepbone.cn/public/#/explor?s_id=2465&functionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1985
-> Pragian, 410.8, 407.6
+> **Geological range.** Pragian, 410.8, 407.6
 
-> Baltica
-
-> - Kemeri Regional Stage, Ventspils, Latvia.
-> - [Mark-Kurik, 1985]
+> - **Occurrence.** Kemeri Regional Stage, Ventspils, Latvia.
+> - **Holotype.** See Mark-Kurik, 1985.
+> - **Diagnosis.** See Mark-Kurik, 1985.
+> - **Reference.**[Mark-Kurik, 1985]
 
 [*Actinolepis tuberculata*](https://deepbone.org/public/#/explor?s_id=2463andfunctionId=Deepbone_header_searchResultOpen) Agassiz, 1844
-> Eifelian, 393.3, 387.7
+> **Geological range.** Eifelian, 393.3, 387.7
 
-> Baltica
-
-> - Pärnu Beds of Tori, Narova Beds of Leningrad district and Aruküla Bed of Tähtvere, Estonia; Pskov district, Russia.
-> - [Mark-Kurik, 1973].
+> - **Occurrence.** Pärnu Beds of Tori, Narova Beds of Leningrad district and Aruküla Bed of Tähtvere, Estonia; Pskov district, Russia.
+> - **Holotype and referred specimens.** See Mark-Kurik, 1973.
+> - **Diagnosis.** See Mark-Kurik, 1973.
+> - **Remarks.** *Actinolepis tuberculata* Agassiz, 1845, the type species of *Actinolepis*, was originally described from the Eifelian Narova Beds along the Slavjanka River in the Leningrad district, Russia. The median dorsal plate figured by Agassiz (1845, pl. 31, fig. 17) has since been lost. As no new material was available from the type locality, Mark-Kurik (1975) designated a fragmentary skull roof from Tori, Estonia (Eifelian, Pärnu Beds), previously figured by Gross (1933, pl. 3, fig. 5; 1940, text-fig. 11A and pl. 8, fig. 2), as a temporary neotype. Gross (1940) provided a more detailed account of *A. tuberculata* based on additional material, but also assigned a Givetian skull roof and endocranium to this species. Mark-Kurik (1975) subsequently recognized this material as distinct from *A. tuberculata* and established *Actinolepis magna* as a new species. Accordingly, *A. tuberculata* is associated with the Eifelian, whereas *A. magna* occurs in the Givetian.
+> - According to Obruchev (1964), *Actinolepis* is discovered from the Middle Devonian of the eastern Baltic region, including the Leningrad district, Estonia, and Latvia, whereas its occurrence in the Urals remains uncertain. Arctolepid material from the Wood Bay Formation of Spitsbergen, originally assigned to *Actinolepis* by Foyn and Heintz (1943) and Miles (1964), was regarded by Denison (1958) and Ørvig (1969b) as a related form rather than unequivocally to Actinolepis. Mark-Kurik (1975) reported that this form also occurs in the Grey Hoek Formation and provisionally referred to it as “Actinolepis”, thereby indicating uncertainty regarding its generic assignment.
+> - **Reference.** [Mark-Kurik, 1973].
 
 [*Aethaspis utahensis*](https://deepbone.org/public/#/explor?s_id=2491andfunctionId=Deepbone_header_searchResultOpen) Denison, 1958
 > Emsian, 407.6, 393.3
