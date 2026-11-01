@@ -2473,6 +2473,47 @@ Median ventral trunk plates: (0) absent; (1) present.
 Pectoral fins covered in macromeric dermal armour: (0) absent; (1) present.
 
 > **Character 623 in "early gnathostome phylogeny github".**
+
+Armoured pectoral appendage: (0) unjointed; (1) jointed.
+
+> **Character 624 in "early gnathostome phylogeny github".**
+
+Pectoral fin base has large, hemispherical dermal component: (0) absent; (1) present.
+
+> **Character 625 in "early gnathostome phylogeny github".**
+
+Pelvic fins: (0) absent; (1) present.
+
+> **Character 636 in "early gnathostome phylogeny github".**
+> In euantiarchs, this character is absent.
+
+Intromittent organ containing bone, not associated with pelvic fins: (0) absent; (1) present.
+
+> **Character 640 in "early gnathostome phylogeny github".**
+
+Intromittent organ with one large J-shaped element: (0) absent; (1) present.
+
+> **Character 641 in "early gnathostome phylogeny github".**
+
+Posterior dorsal fin shape: (0) base approximately as broad as tall, not broader than all of other median fins; (1) base much longer than the height of the fin, substantially longer than any of the other dorsal fins.
+
+> **Character 647 in "early gnathostome phylogeny github".**
+
+Basal plate in dorsal fin: (0) absent; (1) present.
+
+> **Character 648 in "early gnathostome phylogeny github".**
+
+Anal fin: (0) absent; (1) present.
+
+> **Character 653 in "early gnathostome phylogeny github".**
+> This character is present in some eubrachythoracids and *Entelognathus*.
+
+Synarcual: (0) absent; (1) present.
+
+> **Character 660 in "early gnathostome phylogeny github".**
+> Synarcual is absent in antiarchs
+
+
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
