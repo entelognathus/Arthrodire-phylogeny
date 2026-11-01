@@ -2378,6 +2378,101 @@ Transverse otic process: (0) not extending in front of orbits; (1) extending in 
 
 > **Character 504 in "early gnathostome phylogeny github".**
 
+Median rostral dorsal process of the braincase: (0) absent; (1) present.
+
+> **Character 508 in "early gnathostome phylogeny github".**
+> This character is only present in rhenanids.
+
+Hypophysial organ projection: (0) anterior (1) anteroventral (2) posteroventral
+
+> **Character 518 in "early gnathostome phylogeny github".**
+> This character is shared by *Shuyu* and *Brindabellaspis*.
+
+Branchial ridges: (0) present; (1) reduced to vagal process; (2) absent (articulation made with bare cranial wall).
+
+> **Character 530 in "early gnathostome phylogeny github".**
+> Exception of state 2 in rhenanids, other placoderms disapy state 1.
+> In jawless vertebrates, this character is coded as state 0.
+
+Stalk-shaped parachordal/occipital region: (0) absent; (1) present.
+
+> **Character 548 in "early gnathostome phylogeny github".**
+> This character is present in macropetalichthyids and *Cowralepis*.
+
+Dermal neck-joint between paired main-lateral-line-bearing bones of skull and shoulder girdle: (0) absent; (1) present.
+
+> **Character 554 in "early gnathostome phylogeny github".**
+> This character is only absent in rhenanids.
+
+Dorsal articular lamina on trunk armour: (0) absent; (1) present.
+
+> **Character 554 in "early gnathostome phylogeny github".**
+> This character is shared by *Qilinyu* and antiarchs.
+
+Anterior margin of unpaired anterior median dorsal plate: (0) broad; (1) pointed.
+
+> **Character 566 in "early gnathostome phylogeny github".** 
+
+Anterior median dorsal plate (MD1) relative to posterior median dorsal plate (MD2) in length: (0) MD1 shorter than MD2; (1) MD1 longer than MD2.
+
+> **Character 567 in "early gnathostome phylogeny github".** 
+
+Anterior lateral plate: (0) absent; (1) present.
+
+> **Character 568 in "early gnathostome phylogeny github".** 
+> The anterior lateral plate is absent in antiarchs.
+
+Postbranchial lamina of trunk armour: (0) lateral; (1) internal.
+
+> **Character 569 in "early gnathostome phylogeny github".** 
+> This character is present in antiarchs.
+
+Crista internalis of dermal shoulder girdle: (0) absent; (1) present.
+
+> **Character 570 in "early gnathostome phylogeny github".** 
+> This character is present in antiarchs.
+
+Number of median ventral plates: (0) two; (1) one.
+
+> **Character 572 in "early gnathostome phylogeny github".** 
+> In antiarchs and *Qilinyu*, there is only one median ventral plate.
+
+Interolateral plate: (0) paired; (1) fused (unpaired semilunar plate).
+
+> **Character 573 in "early gnathostome phylogeny github".**
+>  In bothriolepidoids, the paired semilunar plates are fused into a single plate. 
+
+Brachial process: (0) absent; (1) present.
+
+> **Character 575 in "early gnathostome phylogeny github".**
+> This character is present in euantiarchs.
+
+Joint in macromeric armoured pectoral fin: (0) absent; (1) present.
+
+> **Character 589 in "early gnathostome phylogeny github".**
+> This character is present in euantiarchs.
+
+Cd1 (first dorsal central) and Cd2 (second dorsal central) plates: (0) in contact; (1) separated.
+
+> **Character 590 in "early gnathostome phylogeny github".**
+
+Clavicles/interolateral plates: (0) large plates, comparable in size to cleithrum; (1) paired small semilunar plates; (2) unpaired semilunar plates.
+
+> **Character 590 in "early gnathostome phylogeny github".**
+
+Chang's apparatus: (0) absent; (1) present.
+
+> **Character 592 in "early gnathostome phylogeny github".**
+> This charcter is present in *Yunnanolepis* and *Phymolepis*.
+
+Median ventral trunk plates: (0) absent; (1) present.
+
+> **Character 595 in "early gnathostome phylogeny github".**
+> In the matrix of early gnathostome phylogeny, this character is coding as 0 in *Campbellodus decipiens*, *Austroptyctodus gardineri* and *Rhamphodopsis threiplandi*.
+
+Pectoral fins covered in macromeric dermal armour: (0) absent; (1) present.
+
+> **Character 623 in "early gnathostome phylogeny github".**
 ## References
 Archibald JD. 1994. Metataxon concepts and assessing possible ancestry using phylogenetic systematics. Systematic Biology 43: 27–40.
 
