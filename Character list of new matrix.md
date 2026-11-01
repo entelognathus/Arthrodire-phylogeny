@@ -997,7 +997,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 200.  Suborbital and marginal plates in contact: absent (0); present (1).
 > Gariner and Miles (1990), Character 22.28; Carr (1991), Character 55; Carr and Hlavin (2010), Character 55; Rücklin *et al*. (2015), Character 55; Zhu Y *et al*. (2016), Character 55; Jobbins *et al*. (2022, 2024), Character 55; Xue *et al*. (2025), Character 119.
 
-201.  Spiracular notch between the postorbital and suborbital plates: absent (0); present (1).
+201.  Spiracular notch: absent (0); present (1).
      
 > - The spiracular notch between the postorbital plate and the dorsal margin of suborbital plate is present in some Incisoscutoidea, such as *Torosteus*, *Harrytoombsia*, and *Mcnamaraspis*. The spiracular notch of *Mcnamaraspis* is closed by short contact between the suborbital and postorbital plates. The spiracular notch is also present in *Qilinyu*, but it is positioned between the anterior postorbital, jugal (suborbital), postmarginal and opecular (submarginal) plates. 
 
@@ -2188,6 +2188,9 @@ separate, this character is scored as 'not applicable'.
 
 515. Postorbital plate: one paired (0); two paired (1).
 > - *Qilinyu* and *Bianchengichthys* are derived in possessing two pairs of postorbital plates. In other placoderms, including arthrodires, petalichthyids, acanthothoracids, ptyctodonts, and *Entelognathus*, only one pair of postorbital plates is present.
+
+516. Suborbital plate forming the margin of spiracular: absent (0); present (1).
+> - In anitarchs, the spiracular notch is positioned between lateral, submarginal, and prelateral plates.
 
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
