@@ -1179,7 +1179,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 243.  Transverse external groove behind pineal opening: absent (0); present (1).
 > King et al. (2016), Character 255; Brazeau et al. (2023), Character 260.
 
->  -  **Character 701 in "early gnathostome phylogeny github".**
+>  -  **Character 703 in "early gnathostome phylogeny github".**
 >  -  Castiello (2018): "A transverse groove behind the pineal opening is present in *Dicksonosteus* (Goujet 1984a) and *Diandongpetalichthys* (Zhu 1991), but it is difficult to assess if this feature represents an anatomical or taphonomic groove".
 
 244.  Cutaneous sensory organ on skull roof posterior to orbits: absent (0); present (1).
