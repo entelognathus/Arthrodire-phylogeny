@@ -1027,7 +1027,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 
 > - Lelièvre (1995): Shape of submarginal plate: large (0); enlongated; small and square (2).
 
-> - **Character 54 in "early gnathostome phylogeny github"** Shape of opercular (submarginal) ossification: (0) broad plate that tapers towards its proximal end; (1) narrow, rod-shaped.
+> - **Character 227 in "early gnathostome phylogeny github"** Shape of opercular (submarginal) ossification: (0) broad plate that tapers towards its proximal end; (1) narrow, rod-shaped.
 
 > - The narrow, rob-shaped submarginal plate is present in some barchythoracids and ptyctodontids (e.g. *Rhampbodopis threiplandi* and *Austroptyctodus gardineri*). 
 
