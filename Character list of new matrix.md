@@ -1418,7 +1418,7 @@ and *Buchanosteus* share character state 1, consisting of a posterior position o
 291.  Dorsal groove of the main lateral line on the posterior dorsolateral plate: absent (0); present (1), distinguished from the main lateral line groove by its dorsal trajectory or its continuation onto the median dorsal plate.
 > Carr (1991), Character 78; Carr and Hlavin (2010), Character 78; Rücklin *et al*. (2015), Character 78; Zhu Y *et al*. (2016), Character 78; Jobbins *et al*. (2022, 2023), Character 78; Xue *et al*. (2025), Character 149.
 
-> - **Character 81 in "early gnathostome phylogeny github**
+> - **Character 598 in "early gnathostome phylogeny github**
 
 292.  Dorsal groove of the main lateral line on the median dorsal plate: absent (0); present (1).
 > Carr (1991), Character 80; Lelièvre (1995), Character 51; Carr and Hlavin (2010), Character 80; Rücklin *et al*. (2015), Character 80; Zhu Y *et al*. (2016), Character 80; Jobbins *et al*. (2022, 2024), Character 80; Xue *et al*. (2025), Character 151.
