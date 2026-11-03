@@ -2192,6 +2192,8 @@ separate, this character is scored as 'not applicable'.
 516. Suborbital plate forming the margin of spiracular: absent (0); present (1).
 > - In anitarchs, the spiracular notch is positioned between lateral, submarginal, and prelateral plates.
 
+517. Mixilateral plate: absent (0); present (1).
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
