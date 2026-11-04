@@ -575,12 +575,13 @@
 > <img width="3612" height="2827" alt="Trematosteidae" src="https://github.com/user-attachments/assets/ce08a201-9085-4e36-ac21-9d457ff61a8b" />
 
 [*Bollandaspis woschmidti*](https://deepbone.cn/public/#/explor?s_id=2467&functionId=Deepbone_header_searchResultOpen) Schmidt, 1976
-> lower Emsian, 407.6, 400.45
+> **Geological range.** lower Emsian, 407.6, 400.45
 
-> Baltica
-
-> - Bolland, Belgium.
-> - [Schmidt，1976](https://biblio.naturalsciences.be/rbins-publications/memoirs-of-the-geological-survey-of-belgium/bibliographic_references/schmidtrest1976)
+> - **Occurrence.** Bolland, Belgium (Belgian Bolland borehole, in probably marine Lower Emsian strata at a depth of 1408.30 m).
+> - **Holotype and referred specimens.** See Schmidt, 1976.
+> - **Diagnosis.** See Schmidt, 1976.
+> - **Remarks.** Schmidt (1976) originally described this species and suggested that it might be assigned to *Prosphymaspis* Gross, 1937, based on the overlap relationships of the anterior and posterior median ventral plates. However, because the specimen lacks the diagnostic constriction of the medio dorsal plate and exhibits features more consistent with Actinolepidinae, he provisionally designated it as Actinolepidinae gen. et sp. nov. Schultze further interpreted the Belgian specimen by comparing it with newly described material of *Actinolepis* and *Sigaspis*. He noted that the rounded elevation on the pineal portion of the rostro-pineal corresponds in position to the pineal organ of *Actinolepis*, and that the endocranial projection at the preorbital–postorbital boundary supports Schmidt’s tentative identification of a supraorbital process. Based on the newly described posterior trunk region of *Sigaspis*, Schultze also interpreted the median ventral plate bearing a central tubercle as homologous to its postanal grand-scale, and the adjacent plate remains as the ventral part of the dermal pelvic girdle. He agreed with Schmidt’s assignment of the specimen to Actinolepidinae, based on the presence of paired antero-ventralia. 
+> - **References.** [Schmidt，1976](https://biblio.naturalsciences.be/rbins-publications/memoirs-of-the-geological-survey-of-belgium/bibliographic_references/schmidtrest1976)
 
 [*Brachyosteus dietrichi*](https://deepbone.cn/public/#/explor?s_id=2247&functionId=Deepbone_header_searchResultOpen) Gross, 1932
 > **Geological range.** upper Frasnian, 375.7, 372.2
