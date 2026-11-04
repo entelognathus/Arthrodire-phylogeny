@@ -1510,20 +1510,20 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - [Denison, 1960](https://agris.fao.org/search/en/providers/122376/records/647472da2d5d435c424edfb4); [Denison, 1978](https://www.semanticscholar.org/paper/Handbook-of-Paleoichthyology%2C-2.-Placodermi%3A-R.-128-Miller/7980f3e95c79279cc1feba3bc9086fcebf3d73f1)
 
 [*Sigaspis lepidophora*](https://deepbone.org/public/#/explor?s_id=2483&functionId=Deepbone_header_searchResultOpen) Goujet, 1973
-> Lower Pragian, 410.8, 409.2
+> **Geological range.** Lower Pragian, 410.8, 409.2
 
-> Laurentia
-
-> - Wood Bay Formation, Svalbard
-> - [Goujet, 1973](https://www.researchgate.net/publication/290391621_Sigaspis_un_nouvel_arthrodire_du_Devonien_inferieur_du_Spitsberg)
+> - **Occurrence.** Wood Bay Formation, Svalbard.
+> - **Holotype.** See Goujet (1973).
+> - **Diagnosis.** See Goujet (1973).
+> - **References.** [Goujet, 1973](https://www.researchgate.net/publication/290391621_Sigaspis_un_nouvel_arthrodire_du_Devonien_inferieur_du_Spitsberg)
 
 [*Simblaspis cachensis*](https://deepbone.org/public/#/explor?s_id=2485&functionId=Deepbone_header_searchResultOpen) Denison, 1958
-> Emsian, 407.6, 393.3
+> **Geological range.** Emsian, 407.6, 393.3
 
-> Laurentia
-
-> - Water Canyon Formation, Utah, USA
-> - [Denison, 1958](https://www.biodiversitylibrary.org/bibliography/7193)
+> - **Occurrence.** Water Canyon Formation, Utah, USA.
+> - **Holotype and referred specimens.** See Denison (1958).
+> - **Diagnosis.** See Denison (1958, 1978).
+> - **References.** [Denison, 1958](https://www.biodiversitylibrary.org/bibliography/7193); Denison, 1978.
 
 [*Tiaraspis subtilis*](https://deepbone.org/public/#/explor?s_id=2593&functionId=Deepbone_header_searchResultOpen) (Gross, 1933)
 >  **Geological range.** [Upper Pragian to Lower Emsian], 409.2, 400.45
