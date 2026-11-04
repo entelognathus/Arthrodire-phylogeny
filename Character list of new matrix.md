@@ -348,6 +348,7 @@ Postorbital plate forms the posterolateral margin of orbit: absent (0); present 
 > Dupret *et al*. (2009), Character 32; Dupret *et al*. (2017), Character 32; Zhu *et al*. (2010), Character 32； Xue *et al*. (2025), Character 75.
 
 > - **Character 98 in "early gnathostome phylogeny github".**  Series of bones lateral to supratemporal (placoderm marginal): (0) absent; (1) single bone; (2) two bones. 
+> - The postmarginal plate is absent in *Aleosteus*.
 
 68.  Nuchal plate: absent (0); present (1).
 > Dupret *et al*. (2009), Character 24; Dupret *et al*. (2017), Character 24; Zhu *et al*. (2010), Character 24; Xue *et al*. (2025), Character 65.
@@ -2056,7 +2057,7 @@ separate, this character is scored as 'not applicable'.
 459. Rostral sensory groove: absent (0); present (1).
 > -  This sensory groove is present in wuttagoonaspids and *Dicksonosteus*, where it extends medioventrally from the supraorbital sensory groove on the postnasal plate.
 
-460. Position of mid-pit line: anterior to the postmargianl sensroy groove (0); at the level of postmarginal sensroy groove (1).
+460. Position of mid-pit line: anterior to the postmarginal sensroy groove (0); at the level of postmarginal sensroy groove (1).
  > -  This sensory groove is present in phlycatenids, such as *Dicksonosteus*, *Arctolepis*, and *Tiaraspis*.
  
 461.  Posterior annular groove of the trunk armuor (sap, sillon annulaire postérieur de l'armure du tronc in Goujet, 1984): absent (0); present (1).
