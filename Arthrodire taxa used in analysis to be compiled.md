@@ -1523,6 +1523,7 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - **Occurrence.** Water Canyon Formation, Utah, USA.
 > - **Holotype and referred specimens.** See Denison (1958).
 > - **Diagnosis.** See Denison (1958, 1978).
+> - **Remarks.** In the original description, Denison (1958) included *Simblaspis cachensis* in *Simblaspis* and referred an articulated specimen preserving the median dorsal, anterior dorsolateral, and posterior dorsolateral plates (PF963) to *?Simblaspis* sp. However, Denison (1978) did not include the latter specimen in *Simblaspis*.
 > - **References.** [Denison, 1958](https://www.biodiversitylibrary.org/bibliography/7193); Denison, 1978.
 
 [*Tiaraspis subtilis*](https://deepbone.org/public/#/explor?s_id=2593&functionId=Deepbone_header_searchResultOpen) (Gross, 1933)
