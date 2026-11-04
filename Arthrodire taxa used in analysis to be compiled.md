@@ -1255,20 +1255,19 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - **References.** [Dennis and Miles, 1979b](https://academic.oup.com/zoolinnean/article-abstract/67/4/297/2664293); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Stenosteus angustopectus*](https://deepbone.cn/public/#/explor?s_id=2457&functionId=Deepbone_header_searchResultOpen) Carr, 1996
-> upper Famennian, 363.3, 358.9
+> **Geological range.** upper Famennian, 363.3, 358.9
 
-> Laurentia
-
-> - Cleveland Shale Member, Ohio Shale Formation, Ohio, USA.
+> **Occurrence.** Cleveland Shale Member, Ohio Shale Formation, Ohio, USA.
 > - Carr, 1996; [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/260808).
 
 [*Szelepis yunnanensis*](https://deepbone.cn/public/#/explor?s_id=2121&functionId=Deepbone_header_searchResultOpen) Liu, 981
-> upper Lochkovian, 415.0, 410.8
+> **Geological range.** upper Lochkovian, 415.0, 410.8
 
-> South China
-
-> - Xitun Formation, Qujing, Yunnan
-> - Liu,1981, [Dupret, 2017](https://www.tandfonline.com/doi/abs/10.1080/02724634.2017.1312422).
+> - **Occurrence.** Xitun Formation, Qujing, Yunnan
+> - **Holotype.** IVPP V5810a-b.
+> - **Diagnosis.** See Dupret et al. 2017.
+> - **Remark.** Liu (1979) originally described specimens of *Szeaspis yunnanensis* from the Xitun Formation (late Lochkovian) of Qujing, Yunnan, South China, and assigned the species to the actinolepids among ‘arctolepid’ arthrodires, based on similarities in the skull roof to those of *Kujdanowiaspis*, *Heightingtonaspis*, and *Stuertzaspis*. Liu (1981) subsequently renamed the genus *Szelepis* because *Szeaspis* was preoccupied by a Cambrian trilobite (Chang, 1959). Additional specimens assigned to *Szelepis* were later reported from the Xishancun and Xujiachong formations of Qujing, Yunnan (Liu, 1979; Zhu, 1994; Zhu et al., 2000), and the Nakaoling Formation of Hengxian, Guangxi (Liu, 1982b). Dupret et al. (2017) redescribed *Szeaspis* and rejected the assignment of material from outside the Xitun Formation to *Szelepis*. In their phylogenetic analysis, *Szelepis* was recovered as the sister taxon to a clade comprising *Actinolepis tuberculata* and *A. magna*. Accordingly, they redefined Actinolepididae as a monophyletic family comprising only *Actinolepis*, *Szelepis*, and *Bollandaspis*. however, previously, ‘actinolepids’ constituted a paraphyletic assemblage comprising arthrodires other than phlyctaenioids; Dupret et al. (2017) used the term ‘actinolepidoids’ to refer to this broader group.
+> - **References.** Liu,1981, [Dupret, 2017](https://www.tandfonline.com/doi/abs/10.1080/02724634.2017.1312422).
 
 [*Tapinosteus heintzi*](https://deepbone.cn/public/#/explor?s_id=2186&functionId=Deepbone_header_searchResultOpen) Stensiö, 1963
 > **Geological range.** upper Frasnian, 375.7, 372.2
@@ -1279,7 +1278,7 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - **Holotype and referred specimens.** See Stensiö, 1963.
 > - **Diagnosis.** See Stensiö, 1963 and Denison, 1978.
 > - **Remark.** The genus *Tapinosteus* was first metioned by Stensiö (1959) and subsequently described in detail by Stensiö (1963), with particular emphasis on the endocranium. *Tapinosteus heintzi* was formally established by Stensiö (1963). Stensiö (1963) considered *Tapinosteus* to be closely allied to *Phlidosteus* and assigned it to the coccosteomorph family Pholidosteidae. Denison (1978) subsequently followed this assignment and erected the Coccosteoidea, including Coccosteidae, Pholidosteidae, and Rachiosteidae. However, in the phylogenetic analysis of Zhu et al. (2016), *Tapinosteus heintzi* was nested at the base of aspinothoracids, a derived clade of pachyosteomorph. This placement was subsequently supported by the phylogenetic analyses of Xue *et al.* (2025, 2026). Stensiö (1963) interpreted that the ventral linguiform process of *Tapinosteus* seems to be practically absent. The same conditon is rarely among eubrachythoracids and is only present in some selenosteids, including *Rhinosteus*, *Microsteus augusticeps* (Stensiö, 1963, figs. 100e, 101b), and *Melanosteus*. The coding of *Tapinosteus* in the matrix of Min Zhu et al. (2016) should also be revised. Character 159 ('pectoral dermal enclosure') is recoded from open to unknown (?) because the trunk armour of *Tapinosteus* is only known from incomplete median dorsal and anterior dorsolateral plates, precluding a reliable assessment of this feature. Character 209 ('development of cheek/skull roof overlap') is revised following the interpretation discussed for *Millerosteus*, as Stensiö (1963) considered *Tapinosteus* to possess a rigid sutural connection between the cheek bones and skull roof.
-> - **Key References.** See Stensiö (1963) and Denison (1978).
+> - **References.** See Stensiö (1963) and Denison (1978).
 
 [*Toombalepis tuberculata*](https://deepbone.cn/public/#/explor?s_id=2719&functionId=Deepbone_header_searchResultOpen) Young and Goujet, 2003
 > late Emsian to early Eifelian, 410.8, 407.6
