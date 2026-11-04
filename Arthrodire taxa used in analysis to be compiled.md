@@ -484,13 +484,12 @@
  > - **References** Long *et al.* 1995; Gess *et al.* 2017.
 
 [*Aleosteus eganensis*](https://deepbone.org/public/#/explor?s_id=2487andfunctionId=Deepbone_header_searchResultOpen) Johnson et al, 2000
-> upper Emsian, 400.45, 393.3
-
-> Laurentia
+> **Geological range.** upper Emsian, 400.45, 393.3
  
-> - Sandy Member of Sevy Dolomite, Nevada, USA. 
-> - [Johnson *et al*., 2000](https://academic.oup.com/zoolinnean/article/129/2/241/2682485).
-> - For the late Emsian age, see Johnson et al. (2000). 
+> - **Occurrence.** Sandy Member of Sevy Dolomite, Nevada, USA.
+> - **Holotype and referred specimens.** See Johnson et al, 2000.
+> - **Diagnosis.** See Johnson et al, 2000.
+> - **References** [Johnson *et al*., 2000](https://academic.oup.com/zoolinnean/article/129/2/241/2682485).
 
 [*Anarthraspis chamberlini*](https://deepbone.cn/public/#/explor?s_id=2169&functionId=Deepbone_header_searchResultOpen) (Bryant, 1934)
 > Pragian, 410.8, 407.6
