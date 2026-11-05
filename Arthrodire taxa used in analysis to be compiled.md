@@ -792,8 +792,10 @@
 > **Geological range.** Upper Lochkovian to Lower Pragian, 415.0, 410.8
 
 > - **Occurrence.** Ivanye, Ustechko, and Khmeleva Formation, Podolia, Ukraine.
-> - **Holotype and referred specimens.**
-> - [Dupret *et al*., 2007](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2007)27%5B266:ANGOPA%5D2.0.CO;2).
+> - **Holotype and referred specimens.** See Dupret 2007.
+> - **Diagnosis.** See See Dupret 2007.
+> - **Remarks.** Stensiö (1945) described the endocranial anatomy of *Kujdanowiaspis* and briefly described a partial skull roof as a new species of the genus, *Kujdanowiaspis zychi*. However, Denison (1978) subsequently regarded *K. zychi* as a nomen nudum. Following a detailed study of the Podolian actinolepid material, Dupret et al. (2007) concluded that this species could not be assigned to *Kujdanowiaspis* and accordingly erected the new genus *Erikeaspis* to accommodate it.
+> - **References.** Stensiö, 1945; [Dupret *et al*., 2007](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2007)27%5B266:ANGOPA%5D2.0.CO;2).
 
 [*Erromenosteus inflatus*](https://deepbone.cn/public/#/explor?s_id=3565&functionId=Deepbone_header_searchResultOpen) Stensiö, 1963
 > **Geological range.** upper Frasnian, 375.7, 372.2
@@ -802,7 +804,7 @@
 > - **Holotype and referred specimens.** See Stensiö, 1963.
 > - **Diagnosis.** Nuchal plate triangular, with a strongly pointed anterior margin. Preorbital plates not embaying the central plate. Suborbital plate lacking sensory grooves. Two branches of the posterior pit-line continuous across the central and paranuchal plates.
 > -  **Remarks.** Jaekel (1919) established *Erromenosteus* and *Menosteus* based on specimens preserving the skull roof and trunk armour. Gross (1932) subsequently redescribed Jaekel’s material and erected *Leiosteus* to accommodate specimens previously referred to *Menosteus*, as well as several skulls that Jaeckel had erroneously assigned to *Belosteus*, owing to the usual absence of the large, thin pineal plate, which leaves a conspicuous postpineal fenestra. Stensiö (1959) reappraised Gross’s material and erected *Paraleiosteus* to include *Leiosteus concavus*, based on differences in scapulocoracoid morphology. Subsequently, Stensiö (1963) established Leiosteidae to include Leiosteus and Paraleiosteus. However, Obruchev (1964) did not accept this assignment and instead erected Erromenosteidae to replace Leiosteidae. Miles (1969) considered that Leiosteidae did not warrant recognition as a separate family and should instead be assigned to Pachyosteidae. Denison (1978) retained Leiosteidae but revised the family substantially, recognizing only a single genus, *Erromenosteus*, and transferring species previously assigned to *Leiosteus* and *Paraleiosteus* to *Erromenosteus*. Leiosteidae displays several characters shared with Trematosteidae, including the fusion of preorbital and postnasal plates, the presence of a postpineal fenestra, a long and slender parasphenoid, and a high suborbital blade. Miles (1969) suggested that leiosteids retained several primitive characters, including an elongate submarginal plate, loose attachment of the cheek bones, and a weakly developed median dorsal keel and cranial process. These features are also widespread among trematosteids, they may instead support a closer affinity between leiosteids and trematosteids. Leiosteidae is characterized by the presence of a shallow depression surrounding the pineal plate, large central plates with an extensive contact with nuchal plate, and the medial ends of the supraorbital sensory grooves curving laterally.
-> -  **Key references.** Stensiö, 1963; Denison, 1978.
+> -  **References.** Stensiö, 1963; Denison, 1978.
 
 [*Eskimaspis heintzi*](https://deepbone.cn/public/#/explor?s_id=154182&functionId=Deepbone_header_searchResultOpen) Dineley and Liu 1984
 > upper Lochkovian, 415.0, 410.8
