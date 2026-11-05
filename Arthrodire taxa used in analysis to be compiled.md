@@ -928,8 +928,10 @@
 > **Geological range.** Lochkovian to Pragian, 416.0, 407.6
 
 > - **Occurrence.** Dittonian, Worcestershire, Herefordshire, Gloucestershire and Shropshire, England.
-> - **Holotype and referred specimens.**
-> - White, 1969; [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short).
+> - **Holotype and referred specimens.** See White (1969).
+> - **Diagnosis.** See White (1969) and Denison (1978).
+> - **Remarks.** Traquair (1890) originally described the British species *Phlyctaenius anglicus*, an assignment subsequently followed by Woodward (1891), Traquair (1894), and Chapman (1916). White (1959) later referred the species to *Kujdanowiaspis*, a genus established by Stensiö for arthrodires from Podolia. However, recognizing a suite of morphological characters that distinguishes the British species from the Podolian forms, White (1969) erected the new genus *Heightingtonaspis* to accommodate *Phlyctaenius anglicus*. The generic name was derived from Heightington, an important locality for the species. 
+> - **References.** White, 1969; [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short).
 
 [*Heintzichthys gouldii*](https://deepbone.cn/public/#/explor?s_id=2273&functionId=Deepbone_header_searchResultOpen) (Newberry, 1885)
 > upper Famennian, 363.3, 358.9
