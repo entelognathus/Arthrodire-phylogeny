@@ -812,7 +812,7 @@
 > - **Occurrence.** Peel Sound Formation; Prince of Wales Island, Arctic Canada.
 > - **Holotype and referred specimens.** See Dineley and Liu 1984.
 > - **Diagnosis.** See Dineley and Liu 1984.
-> - **Remarks.** See the Remarks of *Baringaspis dineleyi*.
+> - **Remarks.** Some specimens referred to *Baringaspis dineleyi* by Miles (1973) are reassigned to *Eskimaspis heintzi* by Dineley and Liu (1984). For details, see the Remarks on *Baringaspis dineleyi*.
 > - **References.** [Dineley and Liu 1984](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=8980227).
 
 [*Exutaspis megista*](https://deepbone.cn/public/#/explor?s_id=3286&functionId=Deepbone_header_searchResultOpen) Liu and Wang, 1981
