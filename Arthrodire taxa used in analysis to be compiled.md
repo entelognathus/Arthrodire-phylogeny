@@ -807,12 +807,13 @@
 > -  **References.** Stensiö, 1963; Denison, 1978.
 
 [*Eskimaspis heintzi*](https://deepbone.cn/public/#/explor?s_id=154182&functionId=Deepbone_header_searchResultOpen) Dineley and Liu 1984
-> upper Lochkovian, 415.0, 410.8
+> **Geological range.** upper Lochkovian, 415.0, 410.8
 
-> Laurentia
-
-> - Peel Sound Formation; Prince of Wales Island, Arctic Canada.
-> - [Dineley and Liu 1984](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=8980227).
+> - **Occurrence.** Peel Sound Formation; Prince of Wales Island, Arctic Canada.
+> - **Holotype and referred specimens.** See Dineley and Liu 1984.
+> - **Diagnosis.** See Dineley and Liu 1984.
+> - **Remarks.** See the Remarks of *Baringaspis dineleyi*.
+> - **References.** [Dineley and Liu 1984](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=8980227).
 
 [*Exutaspis megista*](https://deepbone.cn/public/#/explor?s_id=3286&functionId=Deepbone_header_searchResultOpen) Liu and Wang, 1981
 > **Geological range.** upper Emsian, 400.45, 393.3
