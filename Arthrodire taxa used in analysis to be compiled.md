@@ -925,11 +925,10 @@
 > - **References.** [Miles and Dennis, 1979](https://academic.oup.com/zoolinnean/article-abstract/66/1/31/2664264); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Heightingtonaspis anglica*](https://deepbone.cn/public/#/explor?s_id=2474&functionId=Deepbone_header_searchResultOpen) (Traquair 1890)
-> Lochkovian to Pragian, 416.0, 407.6
+> **Geological range.** Lochkovian to Pragian, 416.0, 407.6
 
-> Laurentia
-
-> - Dittonian, Worcestershire, Herefordshire, Gloucestershire and Shropshire, England. 
+> - **Occurrence.** Dittonian, Worcestershire, Herefordshire, Gloucestershire and Shropshire, England.
+> - **Holotype and referred specimens.**
 > - White, 1969; [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short).
 
 [*Heintzichthys gouldii*](https://deepbone.cn/public/#/explor?s_id=2273&functionId=Deepbone_header_searchResultOpen) (Newberry, 1885)
@@ -1043,12 +1042,13 @@
 > - [Long, 1988a](https://academic.oup.com/zoolinnean/article-abstract/94/3/233/2658286); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Lehmanosteus hyperboreus*](https://deepbone.cn/public/#/explor?s_id=2489&functionId=Deepbone_header_searchResultOpen) Goujet 1984
-> Pragian, 410.8, 407.6
+> **Geological range.** Pragian, 410.8, 407.6
 
-> Laurentia
-
-> - Austfjord Member, Dicksonfjorden-Austfjorden area, Svalbard (Spitsbergen).
-> - [Goujet, 1984].
+> - **Occurrence.** Austfjord Member, Dicksonfjorden-Austfjorden area, Svalbard (Spitsbergen).
+> - **Holotype and referred specimens.** See Goujet 1984.
+> - **Diagnosis.** See Goujet 1984.
+> - **Remarks.** Goujet (1984) established *Lehmanosteus hyperboreus*, noting that its skull roof closely resembles those of several specimens previously assigned to *Svalbardaspis* by Heintz (1929a). In particular, *L. hyperboreus* shares numerous morphological similarities with *Svalbardaspis stensioi*, differing primarily in its considerably larger size. Heintz had originally regarded *Svalbardaspis* as a provisional “catch-all genus” for isolated skull roofs that could not yet be associated with any known trunk armour. Based on new material of Spitsbergen arthrodires and a re-examination of the type specimens, Goujet (1984) proposed transferring *S. stensioi* to *Lehmanosteus*. He also considered *S. rotundus* and *S. polaris* to exhibit diagnostic features of *Actinolepis*, particularly the fusion of the preorbital plates into a single element with a common centre of ossification. Although Heintz had suggested that the preorbital plates of *S. polaris* retained a common suture, no such suture is discernible in the fossil. Goujet regarded the taxonomic position of “*Svalbardaspis*” *angulatus* as uncertain, but considered it sufficiently distinct from the type species, *S. typicus*, to warrant exclusion from the genus. He retained *Svalbardaspis* for *S. typicus* and the trunk armour that Heintz had referred to *Plataspis*, an earlier name for *Lataspis*.
+> - **References.** [Goujet, 1984].
 
 [*Maideria falipoui*](https://deepbone.cn/public/#/explor?s_id=164704&functionId=Deepbone_header_searchResultOpen) Lelièvre 1995
 > Givetian, 387.7, 382.7
