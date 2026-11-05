@@ -491,21 +491,22 @@
 > - **Diagnosis.** See Johnson et al, 2000.
 > - **References** [Johnson *et al*., 2000](https://academic.oup.com/zoolinnean/article/129/2/241/2682485).
 
-[*Anarthraspis chamberlini*](https://deepbone.cn/public/#/explor?s_id=2169&functionId=Deepbone_header_searchResultOpen) (Bryant, 1934)
-> Pragian, 410.8, 407.6
+[*Anarthraspis spp*](https://deepbone.cn/public/#/explor?s_id=2169&functionId=Deepbone_header_searchResultOpen) (Bryant, 1934)
+> **Occurrence.** Pragian, 410.8, 407.6
 
-> Laurentia
-
-> - Beartooth Butte Formation; Beartooth Butte, Wyoming, USA.
-> - [Bryant, 1934].
+> - **Occurrence.** Beartooth Butte Formation; Beartooth Butte, Wyoming, USA.
+> - **Holotype and referred specimens.** See Bryant (1934) and Denison (1958). 
+> - **Diagnosis.** See Bryant (1934) and Denison (1978).
+> - **Remarks.** The genus *Anarthraspis* comprises two named species, *A. chamberlini* and *A. montanus*, as well as an unnamed species. Bryant (1932) originally described the two named species based on disarticulated trunk plates, referring them to *Coccosteus chamberlini* and *Svalbardaspis montanus*, respectively. In a subsequent redescription, Bryant (1934) established the genus *Anarthraspis* based on these specimens and additional articulated material preserving the skull roof. He referred most of the specimens previously assigned to *Coccosteus chamberlini* to *Anarthraspis chamberlini*, while assigning an anterior dorsal plate from the same material, together with the specimen previously referred to *Svalbardaspis montanus*, to *Anarthraspis montanus*. Denison (1958) provided a new reconstruction of *Anarthraspis* sp. based on specimens PF1533 and Princeton 13659. Subsequently, Denison (1978) formulated a generic diagnosis of *Anarthraspis* based on the two named species and the unnamed species.
+> - **References.** [Bryant, 1932, 1934]; Denison, 1958, 1978.
 
 [*Antarctaspis mcmurdoensis*](https://deepbone.cn/public/#/explor?s_id=2169&functionId=Deepbone_header_searchResultOpen) White, 1968
-> Givetian, 387.7, 382.7
+> **Geological range.** Givetian, 387.7, 382.7
 
-> East Gondwanan
-
-> - Aztec Siltstone, southern Victoria Land, Antarctica.
-> - [White, 1968].
+> - **Occurrence.** Aztec Siltstone, southern Victoria Land, Antarctica.
+> - **Holotype and referred specimens.**
+> - **Diagnosis.**
+> - **References.** [White, 1968].
 
 [*Antineosteus lehmani*](https://deepbone.cn/public/#/explor?s_id=2405&functionId=Deepbone_header_searchResultOpen) Lelièvre, 1984
 > **Geological range.** upper Emsian, 400.45, 393.3
