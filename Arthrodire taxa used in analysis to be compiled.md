@@ -685,7 +685,7 @@
 > - **Remarks.** *Cowralepis* is one of the best-preserved known arthrodires, represented by nearly complete dermal, endocranial, visceral, and axial skeletons, as well as a comprehensive growth series. Owing to this exceptional preservation, Ritchie (2005) re-examined several anatomical interpretations previously proposed for phyllolepids. For example, the small cheek elements of Austrophyllolepis, originally identified by Long (1984) as the postmarginal and suborbital plates, were reinterpreted as the submarginal plate and a hyoid arch element, respectively. Ritchie (2005) also revised the interpretation of several visceral and mandibular elements based on homologous structures preserved in *Cowralepis*, including the reinterpretation of the metapterygoid as the ceratohyal and the quadrate as the articular. In addition, *Cowralepis* preserves the second complete branchial skeleton described in placoderms, including the basihyal, after *Tapinosteus*. The anterior median ventral plate is preserved in *Cowralepis* and bears concave posterolateral margins that contact with the anterior ventrolateral plates. On the basis of this morphology, Ritchie (2005) suggested that the similarly shaped anteromesial corners of the anterior ventrolateral plates in *Placolepis* and *Austrophyllolepis* likewise indicate the presence of an anterior median ventral plate, although no such element has yet been recovered in either genus. The *Cowralepis* material demonstrates that the presence and number of posterior median ventral plates are variable within phyllolepids, ranging from none to two even among specimens referred to the same species (Ritchie, 2005). Consequently, this character should be treated with caution in taxonomic and phylogenetic studies, as its expression appears to reflect intraspecific variation rather than species-level differences.
 > - **Reference.**[Ritchie, 2005](https://www.biodiversitylibrary.org/part/183466)
 
-*Cuanyu liui* Wen *et al.* 2026
+*Cuanyu liui* Wen et al. 2026
 > **Geological range.** upper Lochkovian, 415.0, 410.8
 
 > - **Occurrence.** Xitun Formation, Qujing, Yunnan, China.
@@ -789,11 +789,10 @@
 > - [Young, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00366.x).
 
 [*Erikaspis zychi*](https://deepbone.cn/public/#/explor?s_id=2127&functionId=Deepbone_header_searchResultOpen) (Stensiö, 1945)
-> Upper Lochkovian to Lower Pragian, 415.0, 410.8
+> **Geological range.** Upper Lochkovian to Lower Pragian, 415.0, 410.8
 
-> Baltica
-
-> -  Ivanye, Ustechko, and Khmeleva Formation, Podolia, Ukraine.
+> - **Occurrence.** Ivanye, Ustechko, and Khmeleva Formation, Podolia, Ukraine.
+> - **Holotype and referred specimens.**
 > - [Dupret *et al*., 2007](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2007)27%5B266:ANGOPA%5D2.0.CO;2).
 
 [*Erromenosteus inflatus*](https://deepbone.cn/public/#/explor?s_id=3565&functionId=Deepbone_header_searchResultOpen) Stensiö, 1963
@@ -1027,13 +1026,23 @@
 > - Guanwushan Formation, Sichuan, China.
 > - Liu, 1955; [Zhu and Zhu, 2013](https://academic.oup.com/zoolinnean/article/169/4/798/3797003)
 
-[*Kujdanowiaspis podolica*](https://deepbone.org/public/#/explor?s_id=2124andfunctionId=Deepbone_header_searchResultOpen) Dupret, 2010
-> upper Lochkovian to lower Pragian, 415.0, 409.2
+[*Kujdanowiaspis podolica*](https://deepbone.org/public/#/explor?s_id=2124andfunctionId=Deepbone_header_searchResultOpen) (Brotzen, 1934)
+> **Geological range.** upper Lochkovian to lower Pragian, 415.0, 409.2
 
-> Baltica
+> - **Occurrence.** Dnister Series; Podolia, Ukraine.
+> - **Holotype and referred specimens.** See Dupret (2010).
+> - **Diagnosis.** See Dupret (2010).
+> - **Remarks.** Brotzen (1934) originally described several arthrodiran species from the Lower Devonian of Podolia (Ukraine), assigning them to *Phlyctaenaspis*, including *Phlyctaenaspis buczacziensis*, *P. podolica*, and *P. rectiformis*. Stensiö (1942) subsequently redescribed some Podolian material and erected the genus *Kujdanowiaspis* to accommodate these species, as well as the doubtful species *Acanthaspis prominens* described by Brotzen (1934). Denison (1978) regarded several other species established by Brotzen (1934), including *Phlyctaenaspis extensa*, *Acanthaspis angusta*, and *A. vomeriformis*, as having uncertain affinities, although he considered them potentially closely related to *Kujdanowiaspis*. Dupret (2010) re-examined the material referred to *Kujdanowiaspis* and recognized two distinct genera: *Kujdanowiaspis*, comprising *K. buczacziensis* and *K. podolica*, and *Erikeaspis*, to which he transferred *Kujdanowiaspis zychi*. He further regarded *Phlyctaenaspis rectiformis*, *P. extensa*, *Acanthaspis angusta*, *A. prominens*, and *A. vomeriformis* as either junior synonyms of *K. podolica* or species of *Kujdanowiaspis* of uncertain specific identity. White (1961) referred several Welsh specimens to *Kujdanowiaspis*, including *K. anglica* (Traquair, 1890b), *K.? willsi* White, 1961, and *K.? clarkei* Eastman, 1907. However, he subsequently erected the genus *Heightingtonaspis* for *Phlyctaenius anglicus* Traquair, 1890b, distinguishing the British species from the Podolian forms traditionally assigned to *Kujdanowiaspis* (White, 1969). Goujet and Blieck (1978) referred two anterolateral plates from the “Grès de Pernes” at Liévin (Pas-de-Calais, France) to *Kujdanowiaspis*. However, Dupret (2010) regarded these specimens as “Actinolepidida” indet., noting that their quadrate shape also occurs in other actinolepids and that their ornamentation differs from that of *Kujdanowiaspis*.
+> - **References.** Stensiö 1942, 1963, 1969; [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short)
 
-> - Dnister Series; Podolia, Ukraine.
-> - [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short)
+[*Kujdanowiaspis buczacziensis*](https://deepbone.cn/public/#/explor?s_id=2123&return_to=%2Ftop-search-list%3Fkeyword%3DKujdanowiaspis%2520buczacziensis&return_y=0) (Brotzen, 1934)
+> **Geological range.** upper Lochkovian to lower Pragian, 415.0, 409.2
+
+> - **Occurrence.** Dnister Series; Podolia, Ukraine.
+> - **Referred specimens.** See Dupret (2010).
+> - **Diagnosis.** See Dupret (2010).
+> - **Remarks.** *Kujdanowiaspis podolica* and *K. buczacziensis* only differ in size and in the density and size of the tuberculated ornamentation. Dupret (2010) treated all specimens described by Brotzen (1934) as syntypes and, because Stensiö’s (1942) designated holotype (MB 288) could not be located, designated MB 290a as the lectotype. The remaining specimens became paralectotypes, and the type locality was restricted to that of the lectotype.
+> - **References.** Stensiö 1942, 1963, 1969; [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short)
 
 [*Latocamurus coulthardi*](https://deepbone.cn/public/#/explor?s_id=2205&functionId=Deepbone_header_searchResultOpen) Long, 1988a
 > lower Frasnian, 382.7, 379.2
