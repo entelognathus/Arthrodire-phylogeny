@@ -1382,18 +1382,20 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 
 > - **Occurrence.** Yidade Formation, Panxi, Huaning County, Yuxi Prefecture, Yunnan Province, China. South China block.
 > - **Holotype.** IVPP V8926.1, an almost complete armor, lacking the rostral, postnasal, spinal, posterior medial ventral, and posterolateral plates.
-> - **Referred specimens.**  IVPP V8926.2, incomplete armor, including nuchal, paranuchal, median dorsal, anterior dorsolateral, posterior dorsolateral, interolateral, posterior ventrolateral, and submedian plates.
+> - **Referred specimens.** IVPP V8926.2, incomplete armor, including nuchal, paranuchal, median dorsal, anterior dorsolateral, posterior dorsolateral, interolateral, posterior ventrolateral, and submedian plates.
 > - **Diagnosis.** The median suture between paired central plates is nearly straight. The end of the central sensory groove is bifurcate on the central plate. The middle pit-line is connected to the posterior pit-line. The main lateral line on the anterior dorsolateral plate divides into horizontal and ventral branches. The horizontal branches extend to the posterior dorsolateral plate. The anterior margin of the anterior dorsolateral plate bears a small subglenoid process. The anteroventral groove is present on the interolateral plate.
 > - **Remark.** *Xiantingosteus* displays diagnostic characters of Incisoscutoidea, such as absence of inframarginal crista, contact between postorbital and paranuchal plates, paranuchal shallow embayed central plate, and central plate bearing a small anterior projecting process where the infraorbital sensory groove passes on to the preorbital plate. *Xiantingosteus* also exhibits some plesiomorphic characters, including presence of a small subglenoid process, a postmarginal sensory groove extending onto the postmarginal plate, and long horizontal branches of the main lateral line reaching to the posterior dorsolateral plate. 
 > - **References.**
 
 [*Yiminaspis shenme*](https://deepbone.cn/public/#/explor?s_id=2494&functionId=Deepbone_header_searchResultOpen) Dupret, 2008
-> Pragian, 410.8, 407.6
+> **Geological range.** Pragian, 410.8, 407.6
 
-> South China
-
-> - Posongchong Formation, Zhaotong, Yunnan, China
-> - [Dupret 2008](https://www.tandfonline.com/doi/abs/10.1671/0272-4634%282008%2928%5B12%3AANWPAF%5D2.0.CO%3B2)
+> - **Occurrence.** Posongchong Formation, Zhaotong, Yunnan, China.
+> - **Holotype.** IVPP V15097, incomplete internal mould of the skull roof.
+> - **Referred specimens.** IVPP V15088, incomplete median dorsal plate; IVPP V15089, IVPP V 15090.1-2, IVPP V15091.a-b, incomplete left ventral shields.
+> - **Diagnosis.** See Dupret (2008).
+> - **Remark.** Dupret (2008) originally described this taxon and erected the new genus *Yiminaspis* to accommodate it, partly on the basis of its distinct stratigraphic and geographic distribution from *Wuttagoonaspis*. The skull morphology of *Yiminaspis* also differs from that of *Wuttagoonaspis* in that the central plates are not fused with the nuchal plate and two pairs of posterior pit-lines are present. Dupret (2008) suggested that the anterior pair of posterior pit-lines in *Yiminaspis* is homologous with the anterior posterior pit-line of petalichthyids. In petalichthyids, such as *Lunaspis* and *Diandongpetalichthys*, the anterior posterior pit-line is positioned around the radiation centre of the central plate. This arrangement resembles the position of the anterior segment of the posterior pit-line in arthrodires, but differs from the condition in *Yiminaspis*, in which the anterior posterior pit-line extends from the radiation centre of the marginal plate onto the central plate. A new specimen of *Panjiangosteus* exhibits a condition comparable to that of petalichthyids, with the anterior posterior pit-line positioned around the radiation centre of the central plate, whereas the posterior posterior pit-line extends from the paranuchal plate onto the nuchal plate. This specimen may provide evidence that the anterior and posterior segments of the arthrodire posterior pit-line are respectively homologous with the anterior and posterior posterior pit-lines of petalichthyids. Accordingly, we consider the anterior posterior pit-line of *Yiminaspis* to represent an autapomorphic condition rather than a homologous structure shared with petalichthyids.
+> - **Reference.** [Dupret 2008](https://www.tandfonline.com/doi/abs/10.1671/0272-4634%282008%2928%5B12%3AANWPAF%5D2.0.CO%3B2)
 
 [*Yinostius marjor*](https://deepbone.cn/public/#/explor?s_id=73591&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1984
 > upper Emsian, 400.45, 393.3
