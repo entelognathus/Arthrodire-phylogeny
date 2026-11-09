@@ -1126,6 +1126,14 @@
 > - **Remarks.** This genus is monotypic, comprising a single species, *Pageauaspis russelli*, originally described as *Quebecaspis russelli* by Pageau (1969). Subsequently, Dension (1978) reassgined this species to the new genus *Pageauaspis*. 
 > - **References.** [Denison, 1978](https://www.abebooks.co.uk/9783437302657/Placodermi-Handbook-Paleoichthyology-Vol-2-3437302655/plp?cm_sp=plped-_-1-_-image)[Pageau, 1969]
 
+*Panjiangosteus eurycephala* Xue et al, 2026
+> **Geological range.** Pragian, 410.8, 407.6
+
+> - **Occurrence.** Posongchong Formation, Zhujie, Guangnan County, Wenshan, Yunnan Province, China.
+> - **Holotype.** IVPP V34306a-b, a near-complete skull roof, deformed on the left side.
+> - **Referred specimens.** YDDY10005a-b, a skull roof without the dermal nasal portion, deformed on the right side.
+> - **Diagnosis.** The skull roof is broad, with a length/breadth ratio of 0.74, which is smaller than that of other antarctaspids (approximately 0.97–1.28). The posterior margin of the skull roof is concave, and the anterior margin is convex. The anterior margin of the nuchal plate forms a shallow notch to accommodate the pineal plate. The middle and posterior pit-lines converge onto the central plate. The posterior pit-line comprises two disconnected segments, one on the paranuchal plate and the other on the central plate. The neck joint features a vertical dermal articular facet and a ventral laminar ridge.
+> - **Remark.** *Panjiangosteus* displays several characters commonly seen in antarctaspids, including a long and narrow nuchal plate contacting the pineal plate and the convergence of the supraorbital and central sensory canals onto the nuchal plate. Among antarctaspids, *Panjiangosteus* closely resembles *Yujiangolepis* (Dupret et al., 2009) in its overall skull roof profile, the presence of unfused rostral and pineal plates, and the pronounced lateral inflection of the anterior end of the supraorbital sensory groove on the rostral plate. The anterior margin of the nuchal plate forms a shallow notch to accommodate the pineal plate, a condition also seen in *Potangaspis*, *Toombalepis*, and petalichthyids such as *Eurycaraspis* (Liu, 1991). *Panjiangosteus* can be distinguished from other antarctaspids in its broad skull roof, concave posterior margin of skull roof, the convergence of the middle and posterior pit-lines onto the central plate, and the subdivision of the posterior pit-line into two disconnected segments. Notably, the latter two characters are widely present in other derived arthrodires, such as *Baringaspis* (Miles, 1973), *Kujdanowiaspis* (Dupret, 2010), and *Buchanosteus* (Long et al., 2014)
 
 [*Panxiosteus ocullus*](https://deepbone.cn/public/#/explor?s_id=2439&functionId=Deepbone_header_searchResultOpen) Wang, 1979
 > Upper Givetian, 384.4, 382.7
@@ -1228,11 +1236,13 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Miles, 1966b; Schultze and Cloutier, 1996; [Vézina, 1986; 1988](https://cdnsciencepub.com/doi/abs/10.1139/e90-065).
 
 [*Potangaspis parvoculatus*](https://deepbone.cn/public/#/explor?s_id=2721&functionId=Deepbone_header_searchResultOpen) Zhu *et al* 2010
-> lower Emsian, 407.6, 400.45
+> **Geological range.** lower Emsian, 407.6, 400.45
 
-> South China
-
-> - Yukiang Formation, Pingguo County, Guangxi, China
+> - **Occurrence.** Yukiang Formation, Pingguo County, Guangxi, China.
+> - **Holotype.** IVPP V 15050.1, a incomplete skull roof.
+> - **Referred specimens.** IVPP V 15050.2, a bone fragment of rostral plate.
+> - **Diagnosis.** See Zhu et al. (2010).
+> - **Remark.** In originally description, Zhu et al. (2010) interpreted specimen IVPP V 15050.2 as a fragment of bone preserving parts of the central and marginal plates. However, based on our examination, we interpret this element as a fragment of the rostral plate. The specimen bears a sensory groove extending laterally, which Zhu et al. (2010) identified as the postmarginal and main lateral sensory grooves. We instead interpret this groove as the supraorbital sensory groove. A similar lateral extending of the supraorbital sensory groove is also present in other antarctaspids, including *Yujiangosteus* and *Panjiangosteus*.
 > - [Zhu *et al*., 2010](https://www.vertpala.ac.cn/EN/abstract/abstract1259.shtml).
 
 [*Protitanichthys rockportensis*](https://deepbone.cn/public/#/explor?s_id=2437&functionId=Deepbone_header_searchResultOpen) Case, 1931
@@ -1406,12 +1416,13 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - [Zhu et al., 2016](https://academic.oup.com/zoolinnean/article/176/4/806/2449910); Wang and Wang, 1984.
 
 [*Yujiangolepis liujingensis*](https://deepbone.cn/public/#/explor?s_id=2722&functionId=Deepbone_header_searchResultOpen) Wang et al., 1998
-> Pragian, 410.8 , 407.6
+> **Geological range.** Pragian, 410.8 , 407.6
 
-> South China
-
-> - Nakaoling (Nagaoling) Formation, Guangxi, China.
-> - [Dupret 2009](https://onlinelibrary.wiley.com/doi/10.1111/j.1096-3642.2009.00519.x), [Wang 1998](https://www.vertpala.ac.cn/EN/abstract/abstract724.shtml)
+> - **Occurrence.** Nakaoling (Nagaoling) Formation, Guangxi, China.
+> - **Holotype.** IVPP V 1957, a near complete skull roof.
+> - **Diagnosis.** See Dupret et al. (2009).
+> - **Remark.** This taxon was first described by Wang et al. (1998) and assigned to Phlyctaeniidae, based on the presumed fusion of the rostral and postnasal plates and the presence of deep orbital notches, as in *Arctolepis*. Subsequently, Young and Goujet (2003) compared *Yujiangosteus* with the Australian *Toombalepis* and the Antarctic *Antarctaspis*, and provided a revised reconstruction in which the nuchal plate is separated from the paired central plates and contacts the pineal plate. Accordingly, they assigned *Yujiangosteus* to the family 'Antarctaspididae'. Dupret et al. (2009) redescribed *Yujiangosteus* and incorporated it into a phylogenetic analysis, with both morphological comparisons and phylogenetic results supporting the interpretation of Young and Goujet (2003). In their reconstruction, *Yujiangosteus* was depicted as possessing two pairs of paranuchal plates, with the anterior pair being small, vestigial, and lacking sensory grooves. They suggested that this small element might correspond to the anterior paranuchal plate in petalichthyids. However, our examination of the specimens suggests that the purported anterior paranuchal plate is actually a fragment of the paranuchal plate, rather than a distinct dermal element.
+> - **Reference.** [Dupret 2009](https://onlinelibrary.wiley.com/doi/10.1111/j.1096-3642.2009.00519.x), [Wang 1998](https://www.vertpala.ac.cn/EN/abstract/abstract724.shtml)
 
 ## Arthrodire taxa not used in the analysis
 ### To be added from Jobbins et al., 2024
