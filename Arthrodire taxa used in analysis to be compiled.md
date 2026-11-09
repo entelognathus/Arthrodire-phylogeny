@@ -1519,12 +1519,13 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short)
 
 [*Proaethaspis ohioensis*](https://deepbone.org/public/#/explor?s_id=2477&functionId=Deepbone_header_searchResultOpen) (Denison, 1960)
-> Pragian, 410.8, 407.6
+> **Geological range.** Pragian, 410.8, 407.6
 
-> Laurentia
-
-> - Ohio, USA
-> - [Denison, 1960](https://agris.fao.org/search/en/providers/122376/records/647472da2d5d435c424edfb4); [Denison, 1978](https://www.semanticscholar.org/paper/Handbook-of-Paleoichthyology%2C-2.-Placodermi%3A-R.-128-Miller/7980f3e95c79279cc1feba3bc9086fcebf3d73f1)
+> - **Occurrence.** Holland Quarry, Lucas County, Ohio, USA.
+> - **Holotype and referred specimens.** See Denison (1960).
+> - **Diagnosis.** See Denison (1978).
+> - **Remarks.** Denison (1960) originally described this taxon and assigned it to *Aethaspis* based on similarities in skull-roof morphology, particularly the anteriorly narrow skull roof and the elongate nuchal plates that meet the preorbital plates. Subsequently, Denison (1978) erected the new genus *Proaethaspis* to accommodate *Aethaspis ohioensis*. *Proaethaspis ohioensis* differs from species of *Aethaspis* in having the postorbital plate contact the nuchal plate, thereby separating the preorbital and central plates. Additionally, the central sensory groove is short and restricted to the postorbital plate. Denison (1978) also noted that, although *Proaethaspis* exhibits some apparently more primitive features than *Aethaspis*, its known material consists only of small, possibly juvenile individuals, and some of these features may therefore reflect ontogenetic rather than phylogenetic differences.
+> - **References.** [Denison, 1960](https://agris.fao.org/search/en/providers/122376/records/647472da2d5d435c424edfb4); [Denison, 1978](https://www.semanticscholar.org/paper/Handbook-of-Paleoichthyology%2C-2.-Placodermi%3A-R.-128-Miller/7980f3e95c79279cc1feba3bc9086fcebf3d73f1)
 
 [*Sigaspis lepidophora*](https://deepbone.org/public/#/explor?s_id=2483&functionId=Deepbone_header_searchResultOpen) Goujet, 1973
 > **Geological range.** Lower Pragian, 410.8, 409.2
