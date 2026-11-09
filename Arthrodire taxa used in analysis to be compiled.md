@@ -464,7 +464,7 @@
 > - **Occurrence.** Water Canyon Formation; Cache County, Utah, USA.
 > - **Holotype and referred specimens.** See Denison, 1958.
 > - **Diagnosis.** See Denison, 1958.
-> - **Remarks.** The main differences between the two species of *Aethaspis* concern the contact relationships between the central and marginal plates and the shape of the nuchal plate. In *Aethaspis utahensis*, the paranuchal and postorbital plates intervene between the central and marginal plates, preventing them from contacting each other, whereas in *Aethaspis major*, the central plate directly contacts the marginal plate. The same varition is also present in *Panjiangosteus*. In *Panjiangosteus eurycephala*, the central plate directly contacts the marginal plate, whereas in *Panjiangosteus* sp., these plates are separated.
+> - **Remarks.** Specimen PF 1638, comprising fused left anterior and posterior dorsolateral plates and an incomplete median dorsal plate, was referred to *Aethaspis* cf. *A. utahensis* by Denison (1958), but is not included in the character coding of *Aethaspis utahensis* herein.
 > - **Reference.** [Denison, 1958]; Denison, 1978.
 
 [*Aethaspis major*](https://deepbone.cn/public/#/explor?s_id=2492&functionId=Deepbone_header_searchResultOpen) Denison, 1958
@@ -473,6 +473,7 @@
 > - **Occurrence.** Water Canyon Formation; Cache County, Utah, USA.
 > - **Holotype and referred specimens.** See Denison, 1958
 > - **Diagnosis.** See Denison, 1958
+> - **Remarks.** The main differences between the two species of *Aethaspis* concern the contact relationships between the central and marginal plates and the shape of the nuchal plate. In *Aethaspis utahensis*, the paranuchal and postorbital plates intervene between the central and marginal plates, preventing them from contacting each other, whereas in *Aethaspis major*, the central plate directly contacts the marginal plate. The same varition is also present in *Panjiangosteus*. In *Panjiangosteus eurycephala*, the central plate directly contacts the marginal plate, whereas in *Panjiangosteus* sp., these plates are separated.
 > - **Reference.** [Denison, 1958]; Denison, 1978.
 
 [*Africanaspis doryssa*](https://deepbone.cn/public/#/explor?s_id=2266&functionId=Deepbone_header_searchResultOpen) Long *et al.*, 1997
