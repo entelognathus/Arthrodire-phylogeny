@@ -172,11 +172,10 @@
 > - **Reference.** [Pan *et al*., 2015](https://www.sciencedirect.com/science/article/pii/S1631068314001924)
 
 [*Quasipetalichthys haikouensis*](https://deepbone.org/public/#/explor?s_id=2392&functionId=Deepbone_header_searchResultOpen) Liu, 1973
-> Givetian, 387.7, 382.7
+> **Geological range.** Givetian, 387.7, 382.7
 
-> South China
-
-> - Haikou Formation.; Kunming, Yunnan, China. 
+> - **Occurrence.** Haikou Formation.; Kunming, Yunnan, China.
+> - **Holotype.**
 > - Liu, 1991
 
 [*Shearsbyaspis oepiki*](https://deepbone.org/public/#/explor?s_id=78336&functionId=Deepbone_header_searchResultOpen) Young, 1985
@@ -194,6 +193,15 @@
 
 > - Wudang Formation; Guiyang, Guizhou, China. 
 > - [Zhao and Zhu, 2010](https://www.sciencedirect.com/science/article/abs/pii/S1871174X09000663)
+
+*Tianchia jacetus* Zhu, 1990
+> **Geological range.** lower Lochkovian, 419.2, 415.0
+
+> - **Occurrence.** Xishancun Formation, Qujing, Yunnan, China.
+> - **Holotype and referred specimens.** See Zhu, 1990.
+> - **Diagnosis.** See Zhu, 1990.
+> - **Remarks.**
+> - **Reference.** Zhu 1990
 
 [*Tongdzuylepis vietnamensis*](https://deepbone.org/public/#/explor?s_id=8352&functionId=Deepbone_header_searchResultOpen) Janvier and Phuong, 1999
 > **Geological range.** upper Lochkovian, 415.0, 410.8
