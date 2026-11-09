@@ -1299,8 +1299,6 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 [*Tapinosteus heintzi*](https://deepbone.cn/public/#/explor?s_id=2186&functionId=Deepbone_header_searchResultOpen) Stensiö, 1963
 > **Geological range.** upper Frasnian, 375.7, 372.2
 
-> Baltica
-
 > - **Occurrence.** Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317.
 > - **Holotype and referred specimens.** See Stensiö, 1963.
 > - **Diagnosis.** See Stensiö, 1963 and Denison, 1978.
@@ -1308,12 +1306,12 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - **References.** See Stensiö (1963) and Denison (1978).
 
 [*Toombalepis tuberculata*](https://deepbone.cn/public/#/explor?s_id=2719&functionId=Deepbone_header_searchResultOpen) Young and Goujet, 2003
-> late Emsian to early Eifelian, 410.8, 407.6
+> **Geological range.** late Emsian to early Eifelian, 410.8, 407.6
 
-> East Gondwanan
-
-> Cravens Peak Beds, Mulga Downs Group, western Queensland, Australia
-> [Young and Goujet, 2003](https://d1wqtxts1xzle7.cloudfront.net/88066795/SuppWAMuseum_2003_65_01to85_YOUNGetal-libre.pdf?1656454034=&response-content-disposition=inline%3B+filename%3DComparacion_de_tecnicas_de_elastografia.pdf&Expires=1723737432&Signature=ImvTtuhchSwE0Ks0RGL8~fb3sYwL383Bal94CrYC~uM6GCK-t52K7Fq7Mha11wC-OQYkCnqYK3YJx~i5Cz4a8tIVP0KYfmKaSNvxUSo8sO0yiVjInkxfDoi7fwcFDYXHHtlSMlvhwf~ExaAOuBxua4hbON-tf8MNmQvOYsiGOirUz6W49NruAy9GZNpU871sm6BkTlVBnnohyhRTIw-BHqfwuUSMc99eJ~Uy~AlAjw05bD-cvv47pYq9-fHOxAAaYdDWDdlKBlpM0-hhoydmfU4b-Q5YofZGU8ZqGmgWp3ElC8KcPBc3AB9moesu5nLQmBAQEzrbUsjVwUVgVt1ggw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+> - **Occurrence.** Cravens Peak Beds, Mulga Downs Group, western Queensland, Australia
+> - **Holotype and referred specimens.** See Young and Goujet (2003).
+> - **Diagnosis.** See Young and Goujet (2003).
+> - **Reference.** [Young and Goujet, 2003](https://d1wqtxts1xzle7.cloudfront.net/88066795/SuppWAMuseum_2003_65_01to85_YOUNGetal-libre.pdf?1656454034=&response-content-disposition=inline%3B+filename%3DComparacion_de_tecnicas_de_elastografia.pdf&Expires=1723737432&Signature=ImvTtuhchSwE0Ks0RGL8~fb3sYwL383Bal94CrYC~uM6GCK-t52K7Fq7Mha11wC-OQYkCnqYK3YJx~i5Cz4a8tIVP0KYfmKaSNvxUSo8sO0yiVjInkxfDoi7fwcFDYXHHtlSMlvhwf~ExaAOuBxua4hbON-tf8MNmQvOYsiGOirUz6W49NruAy9GZNpU871sm6BkTlVBnnohyhRTIw-BHqfwuUSMc99eJ~Uy~AlAjw05bD-cvv47pYq9-fHOxAAaYdDWDdlKBlpM0-hhoydmfU4b-Q5YofZGU8ZqGmgWp3ElC8KcPBc3AB9moesu5nLQmBAQEzrbUsjVwUVgVt1ggw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 
 [*Torosteus tuberculatus*](https://deepbone.cn/public/#/explor?s_id=2192&functionId=Deepbone_header_searchResultOpen) Gardiner and Miles, 1990
 > lower Frasnian, 382.7, 379.2
