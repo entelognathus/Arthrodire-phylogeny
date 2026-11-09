@@ -2115,7 +2115,7 @@ separate, this character is scored as 'not applicable'.
 > -  Zhu (1990) suggeted that the ventral pit on the visceral surface of median dorsal plate is a synapomorphy of petalithchyids.
 
 480.  Overlapping relationship between posterior ventrolateral plates: left over right (0); right over left (1).
-> - State 1 is present in *Willamaspis* and tianchids, and Zhu (1990) regarded this condition as a synapomorphy of tianchids.
+> - State 1 is present in *Willamaspis* and tianchids, and Zhu (1990) regarded this condition as a synapomorphy of tianchids. However, this character is also present in some arthrodires, such as *Proaethaspis* and *Aethaspis*. 
 
 481.  Number of median dorsal ridge on the median dosral plate: one (0); two (1).
 > - State 1 is present in *Diandongpetalichthys*, *Lunaspis*, and *Tianchia*
