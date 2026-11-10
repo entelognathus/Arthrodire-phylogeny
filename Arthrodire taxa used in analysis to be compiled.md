@@ -200,6 +200,16 @@
 > - **Occurrence.** Xishancun Formation, Qujing, Yunnan, China.
 > - **Holotype and referred specimens.** See Zhu, 1990.
 > - **Diagnosis.** See Zhu, 1990.
+> - **Remarks.** *Tianchia jacetus* occurs in the same stratigraphic horizon as *Diandongpetalichthys liaojiaoshanensis* and shares several morphological features with the latter, including an orbital opening positioned at the lateral margin of the head shield, a concave posterior margin of the skull roof, a median dorsal plate bearing two ridges, and a forked posterior postorbital process. On the basis of these similarities, Zhu (1990) erected Tianchidae to accommodate the genera *Tianchia* and *Diandongpetalichthys*. The two genera can be distinguished by differences in their ornamentation, skull-roof morphology, and trunk armour. The ornamentation of *Diandongpetalichthys* consists of widely spaced, relatively large tubercles arranged concentrically, whereas that of *Tianchia* consists of densely distributed, fine tubercles. The skull roof of *Tianchia* is characterised by a rostral plate bearing an anteriorly descending lamina, a narrow rostral region, and a relatively short distance between the dermal postorbital processes compared with the width across the posterolateral corners of the skull roof. In contrast, *Diandongpetalichthys* lacks an anteriorly descending lamina on the rostral plate, has a broader rostral region, and exhibits a distance between the dermal postorbital processes approximately equal to the width across the posterolateral corners of the skull roof. The trunk armour also differs between the two genera: the posterior lateral plates form the pectoral fenestra in *Tianchia*, whereas they do not form a pectoral fenestra in *Diandongpetalichthys*.
+> - The general morphology of cheek region, trunk shield, and endocranium of *Tianchia* is similar to that of actinolepiods, such as *Kujdanowiaspis*, *Sigaspis*, and *Aethaspis*. The cheek bone of *Tianchia* includes three bone (suborbital, postsuborbital, and submarginal plates), a similar conditon widely present in arthrodires. The mesial surface of submarginal plate bear a groove corresponding to the opercular cartilage. This condition is only present in arthrodires. The endocranium of *Tianchia* bears developed antorbital process, supraorbital process, anterior postorbital process, and bificted posterior postorbital process. 
+> - **Reference.** Zhu 1990
+
+*Tianchia littus* Zhu, 1990
+> **Geological range.** lower Lochkovian, 419.2, 415.0
+
+> - **Occurrence.** Xishancun Formation, Qujing, Yunnan, China.
+> - **Holotype and referred specimens.** See Zhu, 1990.
+> - **Diagnosis.** See Zhu, 1990.
 > - **Remarks.**
 > - **Reference.** Zhu 1990
 
