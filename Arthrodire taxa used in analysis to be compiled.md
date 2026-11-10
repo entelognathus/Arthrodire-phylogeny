@@ -525,9 +525,10 @@
 > **Geological range.** Givetian, 387.7, 382.7
 
 > - **Occurrence.** Aztec Siltstone, southern Victoria Land, Antarctica.
-> - **Holotype and referred specimens.**
-> - **Diagnosis.**
-> - **References.** [White, 1968].
+> - **Holotype and referred specimens.** See White (1968).
+> - **Diagnosis.** See White (1968); Denison (1978)
+> - **Remarks.** White (1968) originally described *Antarctaspis* based on a poorly preserved, incomplete skull roof. He established the new family Antarctaspididae, which he placed below Arctolepidae, to accommodate this genus. This assignment was based on the elongate nuchal plate, the separation of the paired central plates, and their contact with the pineal plate, a condition distinguishing *Antarctaspis* from other ‘arctolepids’. Denison (1978) subsequently provided a revised reconstruction of *Antarctaspis*, interpreting it as having a long nuchal plate but lacking separate central plates. Accordingly, he assigned Antarctaspididae to the order Phyllolepida. Long (1984) followed Denison's (1978) interpretation and further suggested that *Antarctaspis* possessed a large centronuchal plate and reduced marginal plates, features it shared with phyllolepids. Subsequently, Young and Goujet (2003) described the new genus *Toombalepis* and re-examined the interpretation of the skull-roof plate arrangement in *Antarctaspis*. Based on the morphology of the nuchal region in *Toombalepis*, they argued that it was clear that two separate bones flanked the nuchal plate, representing the typical arrangement in placoderms. They further considered that White's (1968) original identification of the central plates closely corresponded to the position of the corresponding plates in *Toombalepis*, thereby supporting his original interpretation of the skull-roof pattern in *Antarctaspis*. Accordingly, Young and Goujet (2003) argued that the proposed close relationship between antarctaspids and phyllolepids was not supported by this new evidence. Dupret et al. (2007) subsequently included *Antarctaspis* in a phylogenetic analysis for the first time. In their phylogenetic result, *Antarctaspis* was placed at the base of Arthrodira, whereas phyllolepids occupied a more derived position, indicating that the two groups were not closely related.
+> - **References.** [White, 1968]; .
 
 [*Antineosteus lehmani*](https://deepbone.cn/public/#/explor?s_id=2405&functionId=Deepbone_header_searchResultOpen) Lelièvre, 1984
 > **Geological range.** upper Emsian, 400.45, 393.3
@@ -799,8 +800,17 @@
 > - **Holotype and referred referrences.** See Boylan (1973).
 > - **Diagnosis.** See Boylan (1973).
 > - **Remarks.** Eastman (1898) reconstructed the paired preorbital plates of *Eastmanosteus pustulosus* as meeting posterior to the pineal plate and separating the pineal and central plates, whereas Boylan (1973) interpreted the pineal plate as separating the paired preorbitals. Eastman (1898) further reconstructed the postmarginal sensory groove as extending onto the postmarginal plate and the two branches of the posterior pit line as continuous, whereas Boylan (1973) restricted the postmarginal sensory groove to the marginal plate and reconstructed the posterior pit line branches as separated. We follow the reconstruction of Boylan (1973).
-> - **Key References.** [Miller, 1980](https://www.nhbs.com/handbook-of-paleoichthyology-volume-2-placodermi-book)
- 
+> - **References.** [Miller, 1980](https://www.nhbs.com/handbook-of-paleoichthyology-volume-2-placodermi-book)
+
+[*Edgellaspis gorteri*](https://deepbone.org/public/#/explor?s_id=165872&functionId=Deepbone_header_searchResultOpen) Hunt & Young, 2010
+> **Geological range.** Eifelian, 393.3, 387.7
+
+> - **Occurrence.** Corradigbee Formation, Hatchery Creek Group, near Wee Jasper, New South Wales, Australia.
+> - **Holotype and referred referrences.** See Hunt and Young (2010).
+> - **Diagnosis.** See Hunt and Young (2010).
+> - **Remarks.** Hunt and Young (2010) tentatively assigned *Edgellaspis* to Arthrodira and suggested a possible affinity with actinolepids based on the morphology of its dermal trunk plates. However, because the skull roof of *Edgellaspis* exhibits a combination of characters seen in Antarctaspididae and Wuttagoonaspidae, they did not assign the genus to either family.  
+> - **References.** [Hunt and Young, 2011](https://www.tandfonline.com/doi/abs/10.1080/03115511003793645) 
+
 [*Elvaspis tuberculata*](https://deepbone.cn/public/#/explor?s_id=2421&functionId=Deepbone_header_searchResultOpen) Young 2009
 > Emsian, 407.6, 393.3
 
@@ -1736,14 +1746,6 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 
 > - Beijuntang Formation; Zhangmu Township, Yulin, Guangxi, China.
 > - [Wang et al., 1998](https://archive.org/details/21ac13050e96d2efff17d880e1207498e01e3d1b)
-
-[*Edgellaspis gorteri*](https://deepbone.org/public/#/explor?s_id=165872&functionId=Deepbone_header_searchResultOpen) Hunt & Young, 2010
-> Eifelian, 393.3, 387.7
-
-> East Gondwana
-
-> - Corradigbee Formation, Hatchery Creek Group, near Wee Jasper, New South Wales, Australia.
-> - [Hunt and Young, 2011](https://www.tandfonline.com/doi/abs/10.1080/03115511003793645)
 
 [*Elegantaspis reticornis*](https://deepbone.org/public/#/explor?s_id=2556&functionId=Deepbone_header_searchResultOpen) Heintz, 1929
 > Pragian, 410.8, 407.6
