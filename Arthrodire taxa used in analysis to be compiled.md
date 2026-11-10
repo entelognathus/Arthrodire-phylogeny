@@ -205,12 +205,12 @@
 > - **Reference.** Zhu 1990
 
 *Tianchia littus* Zhu, 1990
-> **Geological range.** lower Lochkovian, 419.2, 415.0
+> **Geological range.** upper Pridoli, 421.1, 419.2
 
-> - **Occurrence.** Xishancun Formation, Qujing, Yunnan, China.
+> - **Occurrence.** Yulongsi Formation, Qujing, Yunnan, China.
 > - **Holotype and referred specimens.** See Zhu, 1990.
 > - **Diagnosis.** See Zhu, 1990.
-> - **Remarks.**
+> - **Remarks.** *Tianchia littus* occurs in the Yulongsi Formation and represents the earliest known fossil record of Petalichthyidae. The main difference between *Tianchia littus* and *Tianchia jacetus* concerns the ventral laminar ridge, which extends posteriorly beyond the dermal surface of the skull roof in *T. littus* and is more obliquely oriented than that in *T. jacetus*.
 > - **Reference.** Zhu 1990
 
 [*Tongdzuylepis vietnamensis*](https://deepbone.org/public/#/explor?s_id=8352&functionId=Deepbone_header_searchResultOpen) Janvier and Phuong, 1999
