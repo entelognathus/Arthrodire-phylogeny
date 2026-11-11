@@ -882,8 +882,11 @@
 > **Geological range.** upper Lochkovian, 415.0, 410.8
 
 > - **Occurrence.** Xitun Formation; Qujing, Yunnan, China.
-> - **Holotype.**
-> - [Dupret and Zhu, 2008](https://pubs.geoscienceworld.org/geolmag/article-abstract/145/2/257/65693/The-earliest-phyllolepid-Placodermi-Arthrodira?redirectedFrom=fulltext)
+> - **Holotype.** IVPP V 15085.1-2, near complete skull witout rostral capsule.
+> - **Referred specimens.** IVPP V 15086.1-3, three left paranuchal plates.
+> - **Diagnosis.** See Dupret and Zhu (2008).
+> - **Remarks.** 
+> - **Reference.** [Dupret and Zhu, 2008](https://pubs.geoscienceworld.org/geolmag/article-abstract/145/2/257/65693/The-earliest-phyllolepid-Placodermi-Arthrodira?redirectedFrom=fulltext)
 
 [*Gemuendenaspis angusta*](https://deepbone.cn/public/#/explor?s_id=2431&functionId=Deepbone_header_searchResultOpen) (Traquair, 1903)
 > **Geological range.** upper Pragian to lower Emsian, 409.2, 400.45
