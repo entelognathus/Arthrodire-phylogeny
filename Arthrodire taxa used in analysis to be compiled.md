@@ -117,8 +117,9 @@
 > - **Occurrence.** Hunsrückschiefer (Hunsrück Slate); Rheinland, Germany.
 > - **Holotype and referred specimens.** Gross 1961.
 > - **Diagnosis.** See Gross 1961.
-> - **References.**[Gross, 1961]
-> - The type species is *Lunaspis heroldi* Broili 1929.
+> - **Remarks.** The genus *Lunaspis* was originally established by Broili (1929) based on material from the Lower Devonian of the Rhenish region, Germany, with *Lunaspis heroldi* designated as the type species. Broili (1930) subsequently provided additional observations on the genus. Gross (1937) described *Lunaspis broilii* as a new species from the Rhenish Devonian. Lehman (1938) later described more complete specimens of *L. heroldi*, including material preserving the tail. Based on X-ray photographs, Lehman (1951) provided a reconstruction of the same specimen. In the meantime, additional *Lunaspis* material had been discovered, including a particularly well-preserved specimen of *L. broilii* comprising the head, trunk armour, and tail, which was subsequently acquired by the Bayerische Staatssammlung für Paläontologie und historische Geologie in Munich. Gross (1961) subsequently redescribed *L. broilii* and *L. heroldi* based on additional material from the Hunsrück Slate and the specimen of Lehman, providing more detailed information on their morphology and interspecific differences. The occurrence of *Lunaspis* was subsequently reported from Guangnan, Wenshan, Yunnan, China, by Liu (1981), based on incomplete material preserving only the anterior ventrolateral, interolateral, and spinal plates. Young (1985) referred some isolated dermal plates from the Early Devonian of Australia to this genus. Shu and Pan (1999) further reported a complete anterior ventrolateral plate from the Lower Devonian of Yanshan, Wenshan, eastern Yunnan, China, and referred it to *Lunaspis* sp.
+> - **References.**Broili, 1929; Gross, 1937; Lehman 1938,1951; [Gross, 1961].
+
 
 [*Macropetalichthys rapheidolabis*](https://deepbone.org/public/#/explor?s_id=2387&functionId=Deepbone_header_searchResultOpen) Norwood and Owen, 1846
 > **Geological range.** Eifelian, 393.3, 387.7
