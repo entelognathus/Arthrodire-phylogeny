@@ -645,12 +645,13 @@
 > - **References.** Stensiö, 1959, 1963; Denison, 1978.
 
  [*Bruntonichthys multidens*](https://deepbone.cn/public/#/explor?s_id=2221&functionId=Deepbone_header_searchResultOpen) Dennis & Miles, 1980
-> lower Frasnian, 382.7, 379.2
+> **Geological range.** lower Frasnian, 382.7, 379.2
 
-> East Gondwanan
-
-> - Gogo Formation, Canning Basin, Australia. -17.75, 125.17
-> - [Dennis & Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
+> - **Occurrence.** Gogo Formation, Canning Basin, Australia. -17.75, 125.17
+> - **Holotype.** See Dennis and Miles (1980), the holotype is the only specimen.
+> - **Diagnosis.** See Dennis and Miles (1980).
+> - **Remarks.** Dennis and Miles (1980) originally described this species and suggested that its position in their phylogenetic cladogram could be interchangeable with that of *Coccosteus* species. In their discussion of the relationships of *Bruntonichthys multidens*, they also noted several similarities between its rostral region and that of brachydeirids. In particular, the rostral plate is broad and bears distinct lateral descending laminae, forming the anterior part of the snout. This condition is unusual among eubrachythoracids, in which the snout is typically formed anteriorly by a T-shaped rostral plate and laterally by the postnasal plates. Corresponding to this modification of the rostral plate, the preorbital plate also resembles that of brachydeirids in having broad contacts with both the rostral and suborbital plates, without the intervening overlap of the postnasal plate. However, given the substantial differences in other morphological characters, Dennis and Miles (1980) considered these similarities between *Bruntonichthys multidens* and brachydeirids to be the result of convergent evolution. Zhu et al. (2016) first included *Bruntonichthys multidens* in a phylogenetic analysis. Their results placed *Bruntonichthys multidens* within Aspinothoracidi, as the sister taxon to *Kendrickichthys*. Subsequent phylogenetic analyses (Boyle et al., 2017; Xue et al., 2025, 2026) have also supported the placement proposed by Zhu et al. (2016).
+> - **References.** [Dennis & Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
 
 [*Bryantolepis brachycephala*](https://deepbone.cn/public/#/explor?s_id=2500&functionId=Deepbone_header_searchResultOpen)（Bryant,1932）
 > **Geological range.** Pragian, 410.8, 407.6
