@@ -132,12 +132,14 @@
 > - **References.** Stensiö, 1925; 1963; 1969
 
 [*Neopetalichthys yenmenpaensis*](https://deepbone.org/public/#/explor?s_id=3253andfunctionId=Deepbone_header_searchResultOpen) Liu, 1973
-> Pragian, 410.8, 407.6
+> **Geological range.** Pragian, 410.8, 407.6
 
-> South China 
 
-> - Pingyipu Group; Yanmenba, Jiangyou City, Sichuan Province, China. 
-> - [Liu, 1973]
+> - **Occurrence.** Pingyipu Group; Yanmenba, Jiangyou City, Sichuan Province, China.
+> - **Holotype.** IVPP V 4413.
+> - **Diagnosis.** See Liu (1973).
+> - **Remarks.** Liu (1973) originally described *Neopetalichthys yenmenpaensis* based on a poorly preserved skull roof, which does not allow the sutures between individual dermal plates to be clearly reconstructed. He assigned the genus to Macropetalichthyidae based on its sensory canal pattern. Denison (1978), however, questioned the assignment of *Neopetalichthys* to Petalichthyidae and instead regarded it as Placodermi incertae sedis, noting that it exhibits a combination of characters that differs from those of macropetalichthyids, including the position of the orbits, which are located far anteriorly near the lateral margins of the skull roof. Liu (1991) subsequently supported the placement of *Neopetalichthys* among petalichthyids, arguing that it possesses a sensory canal system commonly found in this group. He further suggested a possible close relationship between *Neopetalichthys* and *Diandongpetalichthys*, as both genera exhibit a long, slender skull roof and elongate infraorbital canals.
+> - **References.** [Liu, 1973]
 > - Previously Pingyipu Formation. Guanshanpo Formation after Hou et al. (1988)?
 
 [*Notopetalichthys hillsi*](https://deepbone.org/public/#/explor?s_id=2391&functionId=Deepbone_header_searchResultOpen) Woodward, 1941
@@ -157,14 +159,6 @@
 > - **Diagnosis.** See Zhu and Wang, 1996.
 > - **Remarks.** Zhu and Wang (1996) originally described the species as *Holopetalichthys longhuaensis*. Zhu (2000) subsequently noted that *Holopetalichthys* Zhu and Wang, 1996 is a junior homonym of *Holopetalichthys* V. Koenen, 1895, the latter being a nomen oblitum of *Radotina* Gross, 1950 (Denson, 1978). The generic name *Holopetalichthys* Zhu and Wang, 1996 was therefore rejected, and Zhu (2000) proposed *Pampetalichthys* as a replacement name for *Holopetalichthys* Zhu and Wang, 1996. The posterior pitline of *Pampetalichthys* differs from that of other macropetalichthyids in extending posteriorly onto the nuchal plate and the ossification center of the nuchal plate is positioned posterior, similar to that observed in the diandongpetalichthyid *Tianchia*. Therefore, Zhu and Wang (1996) regarded *Pampetalichthys* as a basal member of Macropetalichthyidae. 
 > -  **References.** Zhu, 2000; Zhu and Wang, 1996
-
-[*Parapetalichthys minor*](https://deepbone.org/public/#/explor?s_id=3270&functionId=Deepbone_header_searchResultOpen) Wang, 1988
-> Pragian, 410.8, 407.6
-
-> South China
-
-> - B22 beds, Guanshanpo Formation, Pingyipu Group; Ganxi, Beichuan County, Sichuan Province, China.
-> - [Wang, 1988 in Hou et al. 1988]
 
 [*Pauropetalichthys magnoculus*](https://deepbone.org/public/#/explor?s_id=3259&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 2015
 > **Geological range.** upper Emsian, 400.45, 393.3
@@ -219,12 +213,6 @@
 > - **Diagnosis.** See Zhu, 1990.
 > - **Remarks.** *Tianchia littus* occurs in the Yulongsi Formation and represents the earliest known fossil record of Petalichthyidae. The main difference between *Tianchia littus* and *Tianchia jacetus* concerns the ventral laminar ridge, which extends posteriorly beyond the dermal surface of the skull roof in *T. littus* and is more obliquely oriented than that in *T. jacetus*.
 > - **Reference.** Zhu 1990
-
-[*Tongdzuylepis vietnamensis*](https://deepbone.org/public/#/explor?s_id=8352&functionId=Deepbone_header_searchResultOpen) Janvier and Phuong, 1999
-> **Geological range.** upper Lochkovian, 415.0, 410.8
-
-> - **Occurrence.**
-> - [Janvier and Phuong, 1999]
 
 [*Wijdeaspis warrooensis*](https://deepbone.org/public/#/explor?s_id=165882&functionId=Deepbone_header_searchResultOpen) Young, 1978
 > **Geological range.** Emsian, 407.6, 393.3
@@ -291,14 +279,6 @@
 > - **Diagnosis.** See Trinajstic et al. 2012.
 > - **Remarks.** Long et al. 2008 focused on the describing the embryo preserved within the abdominal region of *Materpiscis*. Trinajstic et al. 2012 provided a comprehensive description of the adult dermal skeleton and the perichondral bone, and updated the diagnosis of *Materpiscis attenboroughi*.
 > - **References.**[Long et al., 2008](https://www.nature.com/articles/nature06966); [Trinajstic et al., 2012](https://www.tandfonline.com/doi/abs/10.1080/02724634.2012.661379)
-
-[*Chelyophorus verneuili*](https://deepbone.cn/public/#/explor?s_id=2316&functionId=Deepbone_header_searchResultOpen) Agassiz, 1844
-> Famennian, 372.2, 358.9
-
-> Baltica
-
-> - Dankov–Lebedyan beds, Russia.
-> - [Agassiz, 1844](https://books.google.co.jp/books?hl=en&lr=&id=CT1OAAAAcAAJ&oi=fnd&pg=PR5&dq=Monographie+des+poisons+fossiles+du+vieux+Gr%C3%A8s+rouge,+ou+Syst%C3%A8me+d%C3%A9vonien+des+%C3%8Eles+Britanniques+et+de+Russie&ots=XLOLrHQAOz&sig=avVzFiG8asbbibExonbXWDfe3oU&redir_esc=y#v=onepage&q=Monographie%20des%20poisons%20fossiles%20du%20vieux%20Gr%C3%A8s%20rouge%2C%20ou%20Syst%C3%A8me%20d%C3%A9vonien%20des%20%C3%8Eles%20Britanniques%20et%20de%20Russie&f=false).
 
 [*Ptyctodopsis menzeli*](https://deepbone.cn/public/#/explor?s_id=172206&functionId=Deepbone_header_searchResultOpen) Denison, 1985
 > **Geological range.** upper Givetian
@@ -1882,6 +1862,30 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - [Boyle and Ryan, 2017](https://www.cambridge.org/core/journals/journal-of-paleontology/article/new-information-on-titanichthys-placodermi-arthrodira-from-the-cleveland-shale-upper-devonian-of-ohio-usa/F9C6D35916E95652B86894AAF33D8DDF)
 > - In Boyle and Ryan (2017), the structures identified as the subglenoid process and the glenoid condyle appear to have been reversed in their description.
 > - Some automorphy of *Titianchthys* is list in **Character list of new matrix.md**。
+
+##Addition taxa
+
+[*Tongdzuylepis vietnamensis*](https://deepbone.org/public/#/explor?s_id=8352&functionId=Deepbone_header_searchResultOpen) Janvier and Phuong, 1999
+> **Geological range.** upper Lochkovian, 415.0, 410.8
+
+> - **Occurrence.**
+> - [Janvier and Phuong, 1999]
+
+[*Chelyophorus verneuili*](https://deepbone.cn/public/#/explor?s_id=2316&functionId=Deepbone_header_searchResultOpen) Agassiz, 1844
+> Famennian, 372.2, 358.9
+
+> Baltica
+
+> - Dankov–Lebedyan beds, Russia.
+> - [Agassiz, 1844](https://books.google.co.jp/books?hl=en&lr=&id=CT1OAAAAcAAJ&oi=fnd&pg=PR5&dq=Monographie+des+poisons+fossiles+du+vieux+Gr%C3%A8s+rouge,+ou+Syst%C3%A8me+d%C3%A9vonien+des+%C3%8Eles+Britanniques+et+de+Russie&ots=XLOLrHQAOz&sig=avVzFiG8asbbibExonbXWDfe3oU&redir_esc=y#v=onepage&q=Monographie%20des%20poisons%20fossiles%20du%20vieux%20Gr%C3%A8s%20rouge%2C%20ou%20Syst%C3%A8me%20d%C3%A9vonien%20des%20%C3%8Eles%20Britanniques%20et%20de%20Russie&f=false).
+
+[*Parapetalichthys minor*](https://deepbone.org/public/#/explor?s_id=3270&functionId=Deepbone_header_searchResultOpen) Wang, 1988
+> Pragian, 410.8, 407.6
+
+> South China
+
+> - B22 beds, Guanshanpo Formation, Pingyipu Group; Ganxi, Beichuan County, Sichuan Province, China.
+> - [Wang, 1988 in Hou et al. 1988]
 
 ## References
 
