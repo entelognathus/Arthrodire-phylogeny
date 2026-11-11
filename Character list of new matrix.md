@@ -1744,18 +1744,19 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 355.  Posterdorsal process of articular: absent (0); present (1).
 
 356.  Postocular crista of suborbital plate： absent (0); present (1).
+>  -  absence of postocular crista is present in *Bruntonichthys*, *Bullerichthys*, and *Carolowilhelming*.
 
-357.  Subocular crista of suborbital plate：absent (0); present (1).
+358.  Subocular crista of suborbital plate：absent (0); present (1).
 
-358.  Dorsal crista of quadrate: absent (0); present (1).
+359.  Dorsal crista of quadrate: absent (0); present (1).
 
-359.  Denticle on ventral surface of parasphenoid: absent (0); present (1).
+360.  Denticle on ventral surface of parasphenoid: absent (0); present (1).
 
-360.  Supraorbital sensory canal terminating on postnasal plate: absent (0); present (1). 
+361.  Supraorbital sensory canal terminating on postnasal plate: absent (0); present (1). 
 
-361.  Anterior descending lamina of rostral plate: absent (0); present (1).
+362.  Anterior descending lamina of rostral plate: absent (0); present (1).
 
-362.  Lateral teeth on the posterior superognathal: absent (0); present (1).
+363.  Lateral teeth on the posterior superognathal: absent (0); present (1).
 >  - This character is present in coccosteomorph arthrodires, such as *Harrytoombsia*, *Torosteus*, and *Xiantingosteus*.    
 
 363.  Unossified supraglenoid area of articular: absent (0); present (1).
