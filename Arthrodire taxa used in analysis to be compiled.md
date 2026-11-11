@@ -326,7 +326,6 @@
 > - **Diagnosis.** See Johnson & Elliott, 1996.
 > - **Reference.** Johnson & Elliott, 1996.
 
-
 [*Kimbryanodus williamburyensis*](https://deepbone.cn/public/#/explor?s_id=172205&functionId=Deepbone_header_searchResultOpen) Trinajstic and Long, 2009
 > **Geological range.** Frasnian, transitans to punctata conodont Zones
 
@@ -334,6 +333,52 @@
 > - **Holotype and referred specimens.** See Trinajstic and Long, 2009.
 > - **Diagnosis.** See Trinajstic and Long, 2009.
 > - **Reference.**[Trinajstic and Long, 2009](https://www.cambridge.org/core/journals/geological-magazine/article/abs/new-genus-and-species-of-ptyctodont-placodermi-from-the-late-devonian-gneudna-formation-western-australia-and-an-analysis-of-ptyctodont-phylogeny/F935B5502B3F8D5F2D919D5320DB0899)
+
+## Phyllolepida taxa used in the analysis 
+[*Austrophyllolepis ritchiei* ](https://deepbone.cn/public/#/explor?s_id=2160&functionId=Deepbone_header_searchResultOpen)
+> **Geological range.** upper Givetian, 384.37, 382.7
+
+> - **Occurrence.** Avon River Group, Victoria, Australia. MAV8
+> - **Holotype and referred specimens.** See Long, 1984.
+> - **Diagnosis.** See Long, 1984.
+> - **Remarks.** The genus *Austropyllolepis* comprises two sepcies, *Austrophyllolepis ritchiei* and *Austrophyllolepis youngi*. Long (1984) distinguished these species primarily on the basis of the proportions of the dermal armour, particularly the preorbital, paranuchal, nuchal, and median dorsal plates. Apart from these proportion differences, the two speices are otherwise nearly same morphologically. Long (1984) therefore suggested that they might represent sexual dimorphs of a speices, although this hypothesis is diffcult to test because pelvic girdles, which could potentially preserve sexually dimorphic characters, are rarely preserved. Ritchie (2005) subsequently proposed that two forms of *Austrophyllolepis* may instead represent a single species, arguing that the observed proportional differences could have resulted from taphonomic deformation during burial and diagenesis, supported by the occurence of comparable proportional variation among specimens of *Cowralepis*, where differences in dermal plate proportions are likewise considered to reflect preservational distortion rather than taxonomic distinction. Long and Daeschler (2013) conisdered Ritchie's hypothesis to remains rigorously untested.
+> - In *Austrophyllolepis*, two small cheek elements are preserved, including a small unornamented bone lying lateral to the marginal plate and a tiny bean-shaped plate positioned lateral to the postorbital plate. Long (1984) interpreted these elements as postmarginal and suborbital plates, respectively. Ritchie (2005) described homologous elements in *Cowralepis*, but identified them instead as the submarginal and a hyoid arch element. He argued that the former lacks a sensory groove, whereas the latter is positioned beneath the medial margin of the postorbital plate, is strongly convex, and completely lacks dermal ornamentation.  
+> - **References.**[Long,1984](https://www.researchgate.net/publication/257938652_New_phyllolepids_from_Victoria_and_the_relationships_of_the_Group);.
+
+[*Placolepis budawangensis*](https://deepbone.cn/public/#/explor?s_id=2471&functionId=Deepbone_header_searchResultOpen) Ritchie 1984
+> **Geological range.** Lower or Middle Frasnian, 382.7,  375.7
+
+> - **Occurrence.** Budawang Range, Yalwal, Australia.
+> - **Holotype and referred specimens.** Ritchie (1984).
+> - **Diagnosis.** See Ritchie (1984).
+> - **Remark.** In the reconstruction of *Placolepis* by Ritchie (1984), the median ventral plates, including both the anterior and posterior median ventral plates, were considered absent. However, Ritchie (2005) subsequently suggested that the rounded anteromesial corners of the anterior ventrolateral plates indicate the presence of an anterior median ventral plate, although he was unable to locate or identify such an element among the dissociated material of *Placolepis*.
+> - **References.** Ritchie, 1984.
+
+[*Cowralepis mclachlani*](https://deepbone.org/public/#/explor?s_id=2470&functionId=Deepbone_header_searchResultOpen) Ritchie, 2005
+> **Geological range.** upper Givetian, 384.37, 382.7
+
+> - **Occurrence.** Merriganowry Shale Member, New South Wales, Australia.
+> - **Holotype and referred specimens.** See Ritchie (2005).
+> - **Diagnosis.** See Ritchie (2005).
+> - **Remarks.** *Cowralepis* is one of the best-preserved known arthrodires, represented by nearly complete dermal, endocranial, visceral, and axial skeletons, as well as a comprehensive growth series. Owing to this exceptional preservation, Ritchie (2005) re-examined several anatomical interpretations previously proposed for phyllolepids. For example, the small cheek elements of Austrophyllolepis, originally identified by Long (1984) as the postmarginal and suborbital plates, were reinterpreted as the submarginal plate and a hyoid arch element, respectively. Ritchie (2005) also revised the interpretation of several visceral and mandibular elements based on homologous structures preserved in *Cowralepis*, including the reinterpretation of the metapterygoid as the ceratohyal and the quadrate as the articular. In addition, *Cowralepis* preserves the second complete branchial skeleton described in placoderms, including the basihyal, after *Tapinosteus*. The anterior median ventral plate is preserved in *Cowralepis* and bears concave posterolateral margins that contact with the anterior ventrolateral plates. On the basis of this morphology, Ritchie (2005) suggested that the similarly shaped anteromesial corners of the anterior ventrolateral plates in *Placolepis* and *Austrophyllolepis* likewise indicate the presence of an anterior median ventral plate, although no such element has yet been recovered in either genus. The *Cowralepis* material demonstrates that the presence and number of posterior median ventral plates are variable within phyllolepids, ranging from none to two even among specimens referred to the same species (Ritchie, 2005). Consequently, this character should be treated with caution in taxonomic and phylogenetic studies, as its expression appears to reflect intraspecific variation rather than species-level differences.
+> - **Reference.**[Ritchie, 2005](https://www.biodiversitylibrary.org/part/183466)
+
+[*Phyllolepis orvini*](https://deepbone.org/public/#/explor?s_id=2287&functionId=Deepbone_header_searchResultOpen) Heintz, 1930
+> **Geological range.** Famennian, 372.7, 358.9
+
+> - **Occurrence.** Rødsten Formation, East Groenland and Scotland.
+> - **Holotype and referred specimens.** See Heintz (1932).
+> - **Diagnosis.** See Heintz (1932).
+> - **References.** [Stensio, 1934](https://search.worldcat.org/zh-cn/title/on-the-placodermi-of-the-upper-devonian-of-east-greenland-1-phyllolepida-and-arthrodira/oclc/491732290) Heintz (1930; 1932).
+
+[*Phyllolepis thomsoni*](https://deepbone.cn/public/#/explor?s_id=77441&functionId=Deepbone_header_searchResultOpen) Long & Daeschler 2013
+> **Geological range.** Upper Famennian 363.3, 358.9.
+
+> - **Occurrence.** Catskill Formation, Road cut exposure along the Covington Bypass, Route 15 (Interstate 99), near Covington, Tioga County, Pennsylvania, USA. Coordinates: N41°44.047’ W77°04.482’.
+> - **Holotype and referred specimens.** See Long & Daeschler (2013).
+> - **Diagnosis.** See Long & Daeschler (2013).
+> - **Remarks** In the reconstruction of Long and Daeschler (2013), the posterior pit-line and the dorsolateral sensory groove on the median dorsal plate are absent. However, examination of the published photographs suggests that the ornamentation along the expected course of these sensory structures is disrupted, with the normally parallel ridges becoming locally interrupted. This pattern is consistent with the presence of superficial sensory grooves that failed to produce well-defined impressions on the dermal surface.
+> - **Reference.** Long & Daeschler (2013).
 
 ## Acanthothoraci taxa used in the analysis
 [*Kimaspis tienshanica*](https://deepbone.org/public/#/explor?s_id=2097&functionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1973
@@ -544,16 +589,6 @@
 > - **Diagnosis.** See Young, 1981 
 > - **References.** [Young,1981](https://www.tandfonline.com/doi/abs/10.1080/03115518108566994).
 
-[*Austrophyllolepis ritchiei* ](https://deepbone.cn/public/#/explor?s_id=2160&functionId=Deepbone_header_searchResultOpen)
-> **Geological range.** upper Givetian, 384.37, 382.7
-
-> - **Occurrence.** Avon River Group, Victoria, Australia. MAV8
-> - **Holotype and referred specimens.** See Long, 1984.
-> - **Diagnosis.** See Long, 1984.
-> - **Remarks.** The genus *Austropyllolepis* comprises two sepcies, *Austrophyllolepis ritchiei* and *Austrophyllolepis youngi*. Long (1984) distinguished these species primarily on the basis of the proportions of the dermal armour, particularly the preorbital, paranuchal, nuchal, and median dorsal plates. Apart from these proportion differences, the two speices are otherwise nearly same morphologically. Long (1984) therefore suggested that they might represent sexual dimorphs of a speices, although this hypothesis is diffcult to test because pelvic girdles, which could potentially preserve sexually dimorphic characters, are rarely preserved. Ritchie (2005) subsequently proposed that two forms of *Austrophyllolepis* may instead represent a single species, arguing that the observed proportional differences could have resulted from taphonomic deformation during burial and diagenesis, supported by the occurence of comparable proportional variation among specimens of *Cowralepis*, where differences in dermal plate proportions are likewise considered to reflect preservational distortion rather than taxonomic distinction. Long and Daeschler (2013) conisdered Ritchie's hypothesis to remains rigorously untested.
-> - In *Austrophyllolepis*, two small cheek elements are preserved, including a small unornamented bone lying lateral to the marginal plate and a tiny bean-shaped plate positioned lateral to the postorbital plate. Long (1984) interpreted these elements as postmarginal and suborbital plates, respectively. Ritchie (2005) described homologous elements in *Cowralepis*, but identified them instead as the submarginal and a hyoid arch element. He argued that the former lacks a sensory groove, whereas the latter is positioned beneath the medial margin of the postorbital plate, is strongly convex, and completely lacks dermal ornamentation.  
-> - **References.**[Long,1984](https://www.researchgate.net/publication/257938652_New_phyllolepids_from_Victoria_and_the_relationships_of_the_Group);.
-
 [*Baringaspis dineleyi*](https://deepbone.cn/public/#/explor?s_id=2479&functionId=Deepbone_header_searchResultOpen) Miles, 1973
 > **Geological range.** upper Lochkovian, 415.0, 410.8
 
@@ -684,15 +719,6 @@
 
 > - Gogo Formation, Canning Basin, Australia. -17.75, 125.17
 > - [Gardiner and Miles, 1994](https://academic.oup.com/zoolinnean/article-abstract/112/4/443/2646294); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
-
-[*Cowralepis mclachlani*](https://deepbone.org/public/#/explor?s_id=2470&functionId=Deepbone_header_searchResultOpen) Ritchie, 2005
-> **Geological range.** upper Givetian, 384.37, 382.7
-
-> - **Occurrence.** Merriganowry Shale Member, New South Wales, Australia.
-> - **Holotype and referred specimens.** See Ritchie (2005).
-> - **Diagnosis.** See Ritchie (2005).
-> - **Remarks.** *Cowralepis* is one of the best-preserved known arthrodires, represented by nearly complete dermal, endocranial, visceral, and axial skeletons, as well as a comprehensive growth series. Owing to this exceptional preservation, Ritchie (2005) re-examined several anatomical interpretations previously proposed for phyllolepids. For example, the small cheek elements of Austrophyllolepis, originally identified by Long (1984) as the postmarginal and suborbital plates, were reinterpreted as the submarginal plate and a hyoid arch element, respectively. Ritchie (2005) also revised the interpretation of several visceral and mandibular elements based on homologous structures preserved in *Cowralepis*, including the reinterpretation of the metapterygoid as the ceratohyal and the quadrate as the articular. In addition, *Cowralepis* preserves the second complete branchial skeleton described in placoderms, including the basihyal, after *Tapinosteus*. The anterior median ventral plate is preserved in *Cowralepis* and bears concave posterolateral margins that contact with the anterior ventrolateral plates. On the basis of this morphology, Ritchie (2005) suggested that the similarly shaped anteromesial corners of the anterior ventrolateral plates in *Placolepis* and *Austrophyllolepis* likewise indicate the presence of an anterior median ventral plate, although no such element has yet been recovered in either genus. The *Cowralepis* material demonstrates that the presence and number of posterior median ventral plates are variable within phyllolepids, ranging from none to two even among specimens referred to the same species (Ritchie, 2005). Consequently, this character should be treated with caution in taxonomic and phylogenetic studies, as its expression appears to reflect intraspecific variation rather than species-level differences.
-> - **Reference.**[Ritchie, 2005](https://www.biodiversitylibrary.org/part/183466)
 
 *Cuanyu liui* Wen et al. 2026
 > **Geological range.** upper Lochkovian, 415.0, 410.8
@@ -1207,23 +1233,6 @@
 > - **Remark.** Young (1983) redescribed specimens of *Phlyctaenius*.  He recognised a distinct morphological group within the Campbellton material and established *P. stenosus* based on consistent differences in skull roof proportions and dermal patterning. Multivariate analyses further support the separation of this form from *P. acadicus* and *P. atholi*. Diagnostic differences include a relatively narrower skull roof, distinctive proportional patterns of the dermal roofing bones, and characteristic distribution of measurements along the second axis of the morphometric space. The presence of a median postpineal, originally considered a diagnostic character, is here interpreted as a variable feature and is not regarded as taxonomically informative.
 > - **References.** [Young, 1983](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9304082)
 
-[*Phyllolepis orvini*](https://deepbone.org/public/#/explor?s_id=2287&functionId=Deepbone_header_searchResultOpen) Heintz, 1930
-> **Geological range.** Famennian, 372.7, 358.9
-
-> - **Occurrence.** Rødsten Formation, East Groenland and Scotland.
-> - **Holotype and referred specimens.** See Heintz (1932).
-> - **Diagnosis.** See Heintz (1932).
-> - **References.** [Stensio, 1934](https://search.worldcat.org/zh-cn/title/on-the-placodermi-of-the-upper-devonian-of-east-greenland-1-phyllolepida-and-arthrodira/oclc/491732290) Heintz (1930; 1932).
-
-[*Phyllolepis thomsoni*](https://deepbone.cn/public/#/explor?s_id=77441&functionId=Deepbone_header_searchResultOpen) Long & Daeschler 2013
-> **Geological range.** Upper Famennian 363.3, 358.9.
-
-> - **Occurrence.** Catskill Formation, Road cut exposure along the Covington Bypass, Route 15 (Interstate 99), near Covington, Tioga County, Pennsylvania, USA. Coordinates: N41°44.047’ W77°04.482’.
-> - **Holotype and referred specimens.** See Long & Daeschler (2013).
-> - **Diagnosis.** See Long & Daeschler (2013).
-> - **Remarks** In the reconstruction of Long and Daeschler (2013), the posterior pit-line and the dorsolateral sensory groove on the median dorsal plate are absent. However, examination of the published photographs suggests that the ornamentation along the expected course of these sensory structures is disrupted, with the normally parallel ridges becoming locally interrupted. This pattern is consistent with the presence of superficial sensory grooves that failed to produce well-defined impressions on the dermal surface.
-> - **Reference.** Long & Daeschler (2013).
-
 [*Pholidosteus friedeli*](https://deepbone.cn/public/#/explor?s_id=2672&functionId=Deepbone_header_searchResultOpen) Jaekel 1907
 > **Geological range.** upper Frasnian, 375.7, 372.2
 
@@ -1233,15 +1242,6 @@
 > - **Remark.** Although the trunk armour of *Pholidosteus friedeli* is disarticulated and incompletely preserved, Gross (1932) provided a lateral reconstruction, which was subsequently followed and revised by Denison (1978). In contrast, Stensiö (1963) proposed a revised dorsal reconstruction based on Gross’s framework, but did not provide a corresponding lateral reconstruction. Notably, the photographic material presented by Stensiö (1963) indicates that the posterolateral plate forms part of the margin of the pectoral fenestra, a condition that differs from the reconstructions of both Gross and Denison. Accordingly, this character is coded here based on the photographic material of Stensiö (1963). In all previous reconstructions, the spinal plate is depicted as elongate and extending posterolaterally, a condition unusual among eubrachythoracids. However, the photographic material presented by Stensiö (1963) indicates that the spinal plate is short and aligned with the trunk armour, representing the general condition in eubrachythoracids, and that it bears a posterior notch similar to that of incisoscutoids. The characters of the spinal plate are therefore coded here based on Stensiö’s photographic material. In the lateral reconstructions of Gross (1932) and Denison (1978), the pectoral lamina of the posterior ventrolateral plate is large and contacts the anterior lateral, anterior dorsolateral and posterior lateral plates. By contrast, the photographic material presented by Stensiö (1963) indicates that the posterior ventrolateral plate contacts only the posterior lateral plate.
 Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the Pholidosteidae, based on elarged orbit, cheek plates firmly sutured to the skill roof, absence of submarginal plate, long and laterally projecting spinal plate, and large pectoral lamina contact with anterior dorsolateral, anterior lateral, and posterior lateral plates. 
 > - **References.** Gross (1932); Denison (1978); Stensiö (1963).
-
-[*Placolepis budawangensis*](https://deepbone.cn/public/#/explor?s_id=2471&functionId=Deepbone_header_searchResultOpen) Ritchie 1984
-> **Geological range.** Lower or Middle Frasnian, 382.7,  375.7
-
-> - **Occurrence.** Budawang Range, Yalwal, Australia.
-> - **Holotype and referred specimens.** Ritchie (1984).
-> - **Diagnosis.** See Ritchie (1984).
-> - **Remark.** In the reconstruction of *Placolepis* by Ritchie (1984), the median ventral plates, including both the anterior and posterior median ventral plates, were considered absent. However, Ritchie (2005) subsequently suggested that the rounded anteromesial corners of the anterior ventrolateral plates indicate the presence of an anterior median ventral plate, although he was unable to locate or identify such an element among the dissociated material of *Placolepis*.
-> - **References.** Ritchie, 1984.
 
 [*Plourdosteus canadensis*](https://deepbone.cn/public/#/explor?s_id=2659&functionId=Deepbone_header_searchResultOpen) (Woodward, 1892)
 > middle Frasnian, 379.2, 375.7
@@ -1863,7 +1863,7 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - In Boyle and Ryan (2017), the structures identified as the subglenoid process and the glenoid condyle appear to have been reversed in their description.
 > - Some automorphy of *Titianchthys* is list in **Character list of new matrix.md**。
 
-##Addition taxa
+## Addition taxa
 
 [*Tongdzuylepis vietnamensis*](https://deepbone.org/public/#/explor?s_id=8352&functionId=Deepbone_header_searchResultOpen) Janvier and Phuong, 1999
 > **Geological range.** upper Lochkovian, 415.0, 410.8
