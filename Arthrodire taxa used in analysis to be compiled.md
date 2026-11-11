@@ -176,8 +176,11 @@
 > **Geological range.** Givetian, 387.7, 382.7
 
 > - **Occurrence.** Haikou Formation.; Kunming, Yunnan, China.
-> - **Holotype.**
-> - Liu, 1991
+> - **Holotype.** IVPP V 4113
+> - **Referred specimens.** IVPP V 4114.
+> - **Diagnosis.** The skull roof is more slender than that of other quasipetalichthyids, with a length/breadth ratio of 1.27 . The rostral and pineal plates are slender. The posterior margin of preorbital plate is convex, embaying the anterior lateral margin of nuchal plate. The postorbital plate is short. The margin plate is relatively longer compared with those of other quasipetalichthyids. The posterior pit-line extends anteriorly to contact with the supraorbital sensory grooves. 
+> - **Remarks.** Liu (1973) originally described *Quasipetalichthys haikouensis* based on two incompletely preserved skull roofs from the Givetian of Kunming, Yunnan, and assigned the genus to Macropetalichthyidae. Pan et al. (1987) subsequently described three nearly complete skull roofs and a partially preserved trunk shield from the Givetian Shixigou Formation of Ningxia, referring these specimens to *Quasipetalichthys* cf. *Q. haikouensis*. Based on the skull-roof material from Yunnan and the trunk-shield material from Ningxia, Liu (1991) provided a reconstruction of *Quasipetalichthys haikouensis*. In the present study, however, the character coding of *Q. haikouensis* is based exclusively on the specimens from Yunnan. Liu (1991) also erected the family Quasipetalichthyidae to accommodate *Quasipetalichthys* and *Eurycaraspis*.
+> - **Reference.** Liu, 1991
 
 [*Shearsbyaspis oepiki*](https://deepbone.org/public/#/explor?s_id=78336&functionId=Deepbone_header_searchResultOpen) Young, 1985
 > Emsian, 407.6, 393.3
