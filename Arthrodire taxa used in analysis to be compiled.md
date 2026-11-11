@@ -188,12 +188,12 @@
 > - **Reference.** Young, 1985; [Castiello, 2018](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12345).
 
 [*Sinopetalichthys kueiyangensis*](https://deepbone.org/public/#/explor?s_id=3264&functionId=Deepbone_header_searchResultOpen) P'an et al., 1975
-> lower Emsian, 407.6, 400.45
+> **Geological range.** lower Emsian, 407.6, 400.45
 
-> South China
-
-> - Wudang Formation; Guiyang, Guizhou, China. 
-> - [Zhao and Zhu, 2010](https://www.sciencedirect.com/science/article/abs/pii/S1871174X09000663)
+> - **Occurrence.** Wudang Formation; Guiyang, Guizhou, China.
+> - **Holotype.** IVPP V 1453.1-2, incomplete preserved skull roof.
+> - **Diagnosis.** See P'an et al. (1975).
+> - **Reference.** P'an et al., 1975; [Zhao and Zhu, 2010](https://www.sciencedirect.com/science/article/abs/pii/S1871174X09000663)
 
 *Tianchia jacetus* Zhu, 1990
 > **Geological range.** lower Lochkovian, 419.2, 415.0
