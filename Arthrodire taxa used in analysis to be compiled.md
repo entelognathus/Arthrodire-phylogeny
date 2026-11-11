@@ -108,7 +108,7 @@
 > - **Occurrence.** Tiaomajian Formation; Changsha, Hunan, China.
 > - **Holotype and referred specimens.** See Ji and Pan, 1997.
 > - **Diagnosis.** See Ji and Pan, 1997.
-> - **Remarks.**
+> - **Remarks.** The main differences between *Guangxipetalichthys tiaomajianensis* and *G. bobeiensis* are the smaller overall size of the former, a smaller postbranchial lamina of the anterior lateral plate, and the ornamentation of the dermal bones, which consists of extremely dense, minute tubercles that occasionally coalesce. The specimens of *Guangxipetalichthys tiaomajianensis* are poorly preserved, making it difficult to discern the sutures between individual dermal plates. Consequently, this species was not included in the character matrix.
 > - **References** [Ji and Pan, 1997](https://www.vertpala.ac.cn/EN/Y1997/V35/I01/18)
 
 [*Lunaspis broilii*](https://deepbone.org/public/#/explor?s_id=2134&functionId=Deepbone_header_searchResultOpen) Gross, 1937
@@ -144,9 +144,10 @@
 > **Geological range.** Emsian, 407.6, 393.3
 
 > - **Occurrence.** Murrumbidgee Group, near Wee Jasper on the shores of Lake Burrinjuck, New South Wales, Australia.
-> - **Holotype and referred specimens.**
-> - **Diagnosis.** 
-> - **Remarks.** Woodward, 1941; [Young, 2004](https://www.tandfonline.com/doi/abs/10.1671/1942-1).
+> - **Holotype and referred specimens.** See Woodward (1941)
+> - **Diagnosis.** See Denison (1978).
+> - **Remarks.** Woodward (1941) originally described *Notopetalichthys hillsi* and assigned it to Macropetalichthyidae. Subsequently, White (1952) re-examined the specimen and provided a revised reconstruction of *N. hillsi*. This reconstruction was subsequently accepted by Ørvig (1957) and Denison (1978). 
+> - **References.** Woodward 1941; White 1952; [Ørvig, 1957](https://foreninger.uio.no/ngf/ngt/pdfs/NGT_37_3&4_285-354.pdf); Denison (1978).
 
 [*Pampetalichthys longhuaensis*](https://deepbone.org/public/#/explor?s_id=3268&functionId=Deepbone_header_searchResultOpen) (Zhu and Wang, 1996)
 > **Geological range.** Pragian, 410.8, 407.6
@@ -184,12 +185,13 @@
 > - **Reference.** Liu, 1991
 
 [*Shearsbyaspis oepiki*](https://deepbone.org/public/#/explor?s_id=78336&functionId=Deepbone_header_searchResultOpen) Young, 1985
-> Emsian, 407.6, 393.3
+> **Geological range.** Emsian, 407.6, 393.3
 
-> East Gondwanan
-
-> - Taemas Formation, Taemas-Wee Jasper area, New South Wale, Australia. 
-> - Young, 1985; [Castiello, 2018](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12345).
+> - **Occurrence.** Taemas Formation, Taemas-Wee Jasper area, New South Wale, Australia.
+> - **Holotype and referred specimens.** See Castiello (2018).
+> - **Diagnosis.** See Young (1985). 
+> - **Remarks.** *Shearsbyaspis oepiki* was originally described by Young (1985) based on two specimens: an incomplete skull roof with the endocranial ossification attached, and a specimen preserving part of the visceral surface of the skull roof. Castiello (2018) subsequently redescribed *Shearsbyaspis oepiki* based on these specimens, incorporating additional anatomical information obtained through X-ray computed tomography (CT) scanning.
+> - **Reference.** Young, 1985; [Castiello, 2018](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12345).
 
 [*Sinopetalichthys kueiyangensis*](https://deepbone.org/public/#/explor?s_id=3264&functionId=Deepbone_header_searchResultOpen) P'an et al., 1975
 > lower Emsian, 407.6, 400.45
