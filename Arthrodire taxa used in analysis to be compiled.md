@@ -79,6 +79,7 @@
 > - **Occurrence.** Kellwasserkalk of *Manticoceras* beds, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - **Holotype.** See Stensiö, 1925.
 > - **Diagnosis.** See Gross, 1933 and Denison, 1978.
+> - **Remark.** Stensiö (1925) used the name *Epipetalichthys wildungensis* for a new species from the Upper Devonian of Wildungen, Germany. The specimen, which had been made available to him by Professor O. Jaekel, was originally labelled as *Epipetalichthys wildungensis* by Jaekel. Stensiö (1925) noted that the taxon was represented by anterior half incompletely preserved head, from which he estimated that it had attained approximately the same size as *Macropetalichthys rapheidolabis*.
 > - **References** Stensiö, 1925; Gross, 1933;[Ørvig, 1957](https://foreninger.uio.no/ngf/ngt/pdfs/NGT_37_3&4_285-354.pdf); [Sallan and Coates, 2010](https://www.pnas.org/doi/abs/10.1073/pnas.0914000107)
 
 [*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257andfunctionId=Deepbone_header_searchResultOpen) Liu, 1991
