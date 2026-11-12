@@ -814,7 +814,7 @@
 > - **Occurrence.** Gogo Formation; Canning Basin, Australia. -17.75, 125.17
 > - **Holotype and referred specimens.** See Dennis-Bryant (1987).
 > - **Diagnosis.** See Dennis-Bryant (1987).
-> - **Remarks.** Trinajstic (2013) described some information of musculature of *Eastmanosteus calliaspis*.
+> - **Remarks.** *Eastmanosteus calliaspis* is relatively well preserved and has provided important anatomical information for functional studies of placoderms. Trinajstic et al. (2007, 2013) described aspects of its musculature, while Savanna et al. (2020) provided further information on its vertebral column. More recently, its well-preserved anatomy has made it an important reference taxon in studies of feeding adaptations, feeding niches, jaw mechanics, and the reconstruction of cranial musculature in placoderms (Anderson, 2008, 2009; Mitchell et al., 2026; Snively, 2010).
 > - **References.** [Dennis-Bryan, 1987](https://academic.oup.com/zoolinnean/article-abstract/90/1/1/2658205); [Trinajstic 2013](https://www.science.org/doi/10.1126/science.1237275)
 > - The type species of *Eastmanosteus* Obruchev 1964 is *E. pustulosus* (Eastman) 1897. 
 
