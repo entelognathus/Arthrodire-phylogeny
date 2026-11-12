@@ -696,6 +696,7 @@
 > - **Occurrence.** Gogo Formation, Canning Basin, Australia. -17.75, 125.17
 > - **Holotype and referred specimens.** See Dennis and Miles (1979).
 > - **Diagnosis.** See Dennis and Miles (1979).
+> - **Remarks.** The genus *Camuropiscis* comprises two species, *C. laidlawi* and *C. concinnus*, both originally described by Dennis and Miles (1979a). These species are distinguished by differences in the shapes of the rostral, anterior lateral, anterior ventrolateral, posterior ventrolateral, and interolateral plates. Trinajstic and Dennis-Bryan (2009) discussed phenotypic plasticity and polymorphism in Gogo arthrodires and supported the validity of the two species of *Camuropiscis*. 
 > - **References.** [Dennis and Miles, 1979](https://academic.oup.com/zoolinnean/article-abstract/67/1/1/2664252); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Clarkeosteus halmodeus*](https://deepbone.cn/public/#/explor?s_id=2643&functionId=Deepbone_header_searchResultOpen) (Clarke, 1894)
@@ -705,23 +706,24 @@
 > - **Holotype and referred specimens.** See Miles (1966).
 > - **Diagnosis.** See Miles (1966).
 > - **Remarks.** The genus *Clarkeosteus* currently includes two species, *Clarkeosteus halmodeus* and *Clarkeosteus yidadeinsis*. *Clarkeosteus yidadeinsis* is discoverd from Yidade Formtain, China and known only from a limited set of materials, including incomplete median dorsal, anterior dorsolateral, suborbital, paranuchal and nuchal plates. Wang (1992) referred *C. yidadeinsis* to *Clarkeosteus* primarily on the basis of the morphology of the median dorsal plate, which closely resembles that of *C. halmodeus* in its short and broad outline, with a breadth-to-length ratio of approximately 83%, and the absence of posterior spine. However, the median dorsal plate of *Clarkeosteus yidadeinsis* is incomplete, lacking the natural margin. Consequently, the original breath-to-length ratio of median dorsal plate cannot be reliably determined, and the referral of *C. yidadeinsis* to *Clarkeosteus* should therefore be regarded as tentative pending the discovery of more complete material. Ørvig (1960) referred some material from Rodebjerg Formation of East Greenland to *Clarkeosteus halmodeus*, beacuse the median dorsal plate is short and braod, lacking posterior spine. Miles (1966), however, considered the Greenland and New York specimens not to be conspecific. Here, we code *Clarkeosteus halmodeus* only based on the New York specimens. A short and braod median dorsal plate lacking the posterior spine plate is also present in *Watsonosteus*. Therefore, the referrals of *C. yidadeinsis* and Greenland specimens to *Clarkeosteus* remain uncertain. Miles (1966) pointed out that the rostral plate of *Clarkeosteus* is characterized by a large dorsal lamina and a reduced anterior descending lamina, a feature distinguishing it from other coccosteoids. This diagnosis was subsequently followed by Denison (1978). The absence of the anteior descending lamina of the rostral plate is widely present in incisoscutoids and in some arthrodires from Bad Wildungen. Stensiö (1963) suggested that the absence of the anterior descending lamina of the rostral plate may be related to the presence of soft tissue covering the rostral region.
-> - **Key References.** Miles (1966); Denison (1978).   
+> - **References.** Miles (1966); Denison (1978).   
 
 [*Coccosteus cuspidatus*](https://deepbone.org/public/#/explor?s_id=2148andfunctionId=Deepbone_header_searchResultOpen) Miller, 1841
-> upper Eifelian, 389.6, 387.7
+> **Geological range.** upper Eifelian, 389.6, 387.7
 
-> Laurentia
-
-> - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
-> - [Miles and Westoll, 1968](https://doi.org/10.1017/S0080456800024078).
+> - **Occurrence.** Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
+> - **Holotype and referred specimens.** See Miles and Westoll (1968).
+> - **Diagnosis.** See Miles and Westoll (1968).
+> - **Remarks.**
+> - **References.** [Miles and Westoll, 1968](https://doi.org/10.1017/S0080456800024078).
 
 [*Compagopiscis croucheri*](https://deepbone.cn/public/#/explor?s_id=2199&functionId=Deepbone_header_searchResultOpen) Gardiner and Miles, 1994 
-> lower Frasnian, 382.7, 379.2
+> **Geological range.** lower Frasnian, 382.7, 379.2
 
-> East Gondwanan
-
-> - Gogo Formation, Canning Basin, Australia. -17.75, 125.17
-> - [Gardiner and Miles, 1994](https://academic.oup.com/zoolinnean/article-abstract/112/4/443/2646294); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
+> - **Occurrence.** Gogo Formation, Canning Basin, Australia. -17.75, 125.17
+> - **Holotype and referred specimens.**
+> - **Diagnosis.**
+> - **References.** [Gardiner and Miles, 1994](https://academic.oup.com/zoolinnean/article-abstract/112/4/443/2646294); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 *Cuanyu liui* Wen et al. 2026
 > **Geological range.** upper Lochkovian, 415.0, 410.8
@@ -730,7 +732,8 @@
 > - **Holotype.** IVPP V33795a,b.
 > - **Referred specimens.** IVPP V33796, IVPP V33798-V33803.
 > - **Diagnosis.** See Wen *et al.* 2026.
-> - **Remarks.** Based on our examination of specimens of *Cuanyu*, the boundaries between the dermal plates cannot be confidently discerned. Therefore, some sutures reconstructed by Wen et al. (2026) are not adopted here, including the inferred fusion between the rostral and postnasal plates, the contact between the paranuchal and postorbital plates, and the separation of the pineal and rostral plates. Wen et al. (2026) diagnosed *Cuanyu* as lacking the middle and posterior pit-lines on the central plate. However, in their Fig. 2, a sensory canal extends anteromedially from the curvature of the main lateral canal, which may correspond to the posterior branch of the posterior pit-line as in other arthrodires. In addition, two small sensory canals are visible near the centre of the central plate, potentially corresponding to the middle and posterior pit-lines, respectively. A similar condition is also evident in their Supplementary Fig. 1, where two sensory canals are present on the central plate. Wen et al. (2026), however, interpreted these canals as impressions of the anterior and posterior semicircular canals. Based on their morphology and position, we regard these structures as sensory canals and therefore consider the middle and posterior pit-lines to be present on the central plate of *Cuanyu*. In the reconstruction of Wen et al. (2026), the ridge extending from the external opening of the endolymphatic duct to the posterolateral corner of the skull roof on the visceral surface of the paranuchal plate is interpreted as the depression for the endolymphatic duct. However, the otic region lies anterior to the external opening of the endolymphatic duct, making this interpretation unlikely. Instead, the ridge is more plausibly interpreted as the visceral expression of the lateral main groove, as observed in other actinolepids. In actinolepids, the external opening of the endolymphatic duct is located relatively anteriorly, a condition that may be plesiomorphic and widespread among early-branching placoderms, including *Brindabellaspis*, *Kimaspis*, and *Romundina*. This anterior position may reflect the short course of the endolymphatic duct. 
+> - **Remarks.** Based on our examination of specimens of *Cuanyu*, the boundaries between the dermal plates cannot be confidently discerned. Therefore, some sutures reconstructed by Wen et al. (2026) are not adopted here, including the inferred fusion between the rostral and postnasal plates, the contact between the paranuchal and postorbital plates, and the separation of the pineal and rostral plates. Wen et al. (2026) diagnosed *Cuanyu* as lacking the middle and posterior pit-lines on the central plate. However, in their Fig. 2, a sensory canal extends anteromedially from the curvature of the main lateral canal, which may correspond to the posterior branch of the posterior pit-line as in other arthrodires. In addition, two small sensory canals are visible near the centre of the central plate, potentially corresponding to the middle and posterior pit-lines, respectively. A similar condition is also evident in their Supplementary Fig. 1, where two sensory canals are present on the central plate. Wen et al. (2026), however, interpreted these canals as impressions of the anterior and posterior semicircular canals. Based on their morphology and position, we regard these structures as sensory canals and therefore consider the middle and posterior pit-lines to be present on the central plate of *Cuanyu*. In the reconstruction of Wen et al. (2026), the ridge extending from the external opening of the endolymphatic duct to the posterolateral corner of the skull roof on the visceral surface of the paranuchal plate is interpreted as the depression for the endolymphatic duct. However, the otic region lies anterior to the external opening of the endolymphatic duct, making this interpretation unlikely. Instead, the ridge is more plausibly interpreted as the visceral expression of the lateral main groove, as observed in other actinolepids. In actinolepids, the external opening of the endolymphatic duct is located relatively anteriorly, a condition that may be plesiomorphic and widespread among early-branching placoderms, including *Brindabellaspis*, *Kimaspis*, and *Romundina*. This anterior position may reflect the short course of the endolymphatic duct.
+> - **Reference.** [Wen et al., 2026](https://www.vertpala.ac.cn/CN/10.19615/j.cnki.2096-9899.260908).
 
 [*Cyrtosteus inflatus*](https://deepbone.cn/public/#/explor?s_id=2245&functionId=Deepbone_header_searchResultOpen) (Könen，1880)
 > **Geological range.** Upper Eifelian to Lower Givetian, 389.6, 386.0.
