@@ -103,7 +103,7 @@
 > - **References** [Ji and Pan, 1997](https://www.vertpala.ac.cn/EN/Y1997/V35/I01/18)
 
 [*Guangxipetalichthys tiaomajianensis*](https://deepbone.org/public/#/explor?s_id=3262&functionId=Deepbone_header_searchResultOpen) Ji and Pan, 1997
-> **Geological range.**Eifelian, 393.3, 387.7
+> **Geological range.** Eifelian, 393.3, 387.7
 
 > - **Occurrence.** Tiaomajian Formation; Changsha, Hunan, China.
 > - **Holotype and referred specimens.** See Ji and Pan, 1997.
@@ -714,15 +714,16 @@
 > - **Occurrence.** Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 > - **Holotype and referred specimens.** See Miles and Westoll (1968).
 > - **Diagnosis.** See Miles and Westoll (1968).
-> - **Remarks.**
+> - **Remarks.** The genus *Coccosteus* was first reported by Sedgwick and Murchison (1829) from the ‘bituminous schists’ of Caithness and Orkney, although the fossils were initially interpreted as turtle remains. Agassiz (1844) subsequently recognised *Coccosteus* as a fish and described three species: *C. decipiens*, *C. oblongus*, and *C. cuspidatus*. Before the publication of Agassiz's monograph, Miller (1841) had already figured a reconstruction of *C. cuspidatus*, together with several isolated skeletal plates, under Agassiz's manuscript name. McCoy (1848, 1855) subsequently described three additional species, *C. pusillus*, *C. microspondylus*, and *C.? trigonaspis*, while Miller (1858) established *C. minor*. Egerton (1860) regarded *C. microspondylus* and *C. trigonaspis* as junior synonyms of *C. decipiens* and established *C. milleri* based on specimens described in Miller's correspondence. Traquair (1888) subsequently synonymised most of these species with *C. decipiens*, a treatment followed by Woodward (1891), who recognised only *C. decipiens* and *C. minor* among the Scottish species. Traquair (1896, 1897) later described *C. magnus* based on an anterior median ventral plate and a median dorsal plate from Kingsteps. Watson (1981) described *C. fletti* from Orkney, a species that had previously been referred to the new genus *Watsonosteus* by Miles and Westoll (1963). Meanwhile, Stensiö (1959, 1968) transferred *C. minor* to the newly established genus *Millerosteus*. Miles and Westoll (1968) re-examined the taxonomy of *Coccosteus* and largely followed Traquair's synonymy. However, they argued that *C. cuspidatus* Miller ex Agassiz, published by Miller (1841), had priority over the traditionally used name *C. decipiens*. Accordingly, they designated the median dorsal plate figured by Miller (1841) as the lectotype of *C. cuspidatus*. They also excluded specimens from the Thurso Flagstone Group and equivalent strata in Orkney from *Coccosteus*, referring them instead to the newly established genus and species *Dickosteus threiplandi*.
 > - **References.** [Miles and Westoll, 1968](https://doi.org/10.1017/S0080456800024078).
 
 [*Compagopiscis croucheri*](https://deepbone.cn/public/#/explor?s_id=2199&functionId=Deepbone_header_searchResultOpen) Gardiner and Miles, 1994 
 > **Geological range.** lower Frasnian, 382.7, 379.2
 
 > - **Occurrence.** Gogo Formation, Canning Basin, Australia. -17.75, 125.17
-> - **Holotype and referred specimens.**
-> - **Diagnosis.**
+> - **Holotype and referred specimens.** See Gardiner and Miles (1994).
+> - **Diagnosis.** See Gardiner and Miles (1994).
+> - **Remarks.** Gardiner and Miles (1994) originally assigned *Compagopiscis croucheri* to Plourdosteidae. In their phylogenetic analysis, *Compagopiscis croucheri* was recovered within the clade of Gogo incisoscutoids, as the sister taxon to *Gogopiscis*. This placement is supported by subsequent phylogenetic analyses (Rücklin et al., 2015; Zhu et al., 2016; Boyle et al., 2017; Jobbins, 2022, 2024, 2025), which consistently recovered *Compagopiscis* within a monophyletic group of Gogo incisoscutoids. Subsequently, Trinajstic and Hazelton (2007) investigated ontogeny and phenotypic variation in *Compagopiscis* and *Gogopiscis*, concluding that the morphological differences between the two genera represented continuous variation within a single population rather than differences between distinct taxa. Accordingly, they synonymised *Gogopiscis* with *Compagopiscis*, recognising a single genus and species, *Compagopiscis croucheri*. 
 > - **References.** [Gardiner and Miles, 1994](https://academic.oup.com/zoolinnean/article-abstract/112/4/443/2646294); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 *Cuanyu liui* Wen et al. 2026
@@ -754,12 +755,13 @@
 > - **Reference.**[Young, 2004](https://www.tandfonline.com/doi/abs/10.1671/1942-1).
 
 [*Dickosteus threiplandi*](https://deepbone.cn/public/#/explor?s_id=2650&functionId=Deepbone_header_searchResultOpen) Miles and Westoll, 1963
-> lower Givetian, 387.7, 386.0
+> **Geological range.** lower Givetian, 387.7, 386.0
 
-> Laurentia
-
-> - Upper Stromness Flagstone, Orkneys and Caithness, Scotland
-> - [Miles and Westoll, 1963](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/ixtwo-new-genera-of-coccosteid-arthrodira-from-the-middle-old-red-sandstone-of-scotland-and-their-stratigraphical-distribution/74D793E505A096117B0A4826FF342A4C).
+> - **Occurrence.** Upper Stromness Flagstone, Orkneys and Caithness, Scotland (for specific localities, see Miles and Westoll, 1963). 
+> - **Holotype.** See Miles and Westoll (1963).
+> - **Diagnosis.** See Miles and Westoll (1963).
+> - **Remarks.** Miles and Westoll (1963) re-examined specimens of *Coccosteus cuspidatus* in the collections of the Royal Scottish Museum and the British Museum, identifying several isolated plates that fell outside the known range of variation in size and morphology of *C. cuspidatus*. Based on these plates and more complete specimens collected from the Thurso Flagstone Group and the Upper Stromness Flags, they erected the new genus and species *Dickosteus threiplandi*. They also suggested a close relationship between *Dickosteus threiplandi* and *Coccosteus*. Denison (1978) subsequently assigned *D. threiplandi* to the family Coccosteidae. Gardiner and Miles (1994) first included *D. threiplandi* in a phylogenetic analysis, recovering it as the sister taxon to *Watsonosteus*. This placement has also been supported by subsequent phylogenetic analyses (Zhu et al., 2016; Xue et al., 2025, 2026).
+> - **Reference.** [Miles and Westoll, 1963](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/ixtwo-new-genera-of-coccosteid-arthrodira-from-the-middle-old-red-sandstone-of-scotland-and-their-stratigraphical-distribution/74D793E505A096117B0A4826FF342A4C).
 
 [*Dicksonosteus arcticus*](https://deepbone.org/public/#/explor?s_id=2423andfunctionId=Deepbone_header_searchResultOpen) Goujet, 1975
 > **Geological range.** Pragian, 410.8, 407.6
@@ -767,8 +769,8 @@
 > - **Occurrence.** Austfjorden Member, Wood Bay Formation; Svalbard (Spitsbergen).
 > - **Holotype and referred specimens.** See Goujet (1975) and Goujet (1984).
 > - **Diagnosis.** See Goujet, 1975.
-> - **Remarks.**
-> - **References.** Goujet, 1975; Goujet, 1984
+> - **Remarks.** Goujet (1978) first erected *Dicksonosteus arcticus* and described its dermal bones. Subsequently, Goujet (1984) redescribed the species and provided a detailed account of its endocranium and endoskeleton. 
+> - **References.** Goujet 1975, 1984.
 
 [*Dinichthys herzeri*](https://deepbone.cn/public/#/explor?s_id=154201&functionId=Deepbone_header_searchResultOpen) Newberry, 1868
 > **Geological range.** upper Famennian, 363.3, 358.9
@@ -777,39 +779,43 @@
 > - **Holotype and referred specimens.** See Carr and Hlavin (2010).
 > - **Diagnosis.** See Carr and Hlavin (2010).
 > - **Remarks.** *Dinichthys herzeri* was first established by Newberry (1868) based on an incomplete nuchal plate and mandibular elements (holotype AMNH 81 and paratype AMNH 7300). Subsequently, numerous large eubrachythoraci arthrodires were referred to this genus, including taxa that are now assigned to *Brachygnathus*, *Clarkeosteus*, *Dunkleosteus*, *Eastmanosteus*, *Gorgonichthys*, *Heintzichthys*, *Homostius*, *Hussakofia*, *Plourdosteus*, *Protitanichthys*, *Rhenonema*, and *Titanichthys*. As studies on arthrodire diversity progressed, many of these species were gradually removed from *Dinichthys* and reassigned to their own genera, substantially restricting the taxonomic scope of the genus. Lehman (1956) erected the genus *Dunkleosteus* to accommodate several species previously referred to *Dinichthys*. Following this taxonomic revision, Stensiö (1969) suggested that *Dinichthys* might represent a nomen nudum. However, Hlavin (1973, 1976) rejected this interpretation and argued that *Dinichthys herzeri* constitutes a valid taxon based on the holotype (AMNH 81) and paratype (AMNH 7300), noting that the genus satisfies the requirements of the International Code of Zoological Nomenclature. Denison (1978) similarly did not accept Stensiö’s interpretation and retained *Dinichthys* as a valid genus, although he restricted it to the type species, *Dinichthys herzeri*. Carr and Hlavin (2010) followed the taxonomic treatment of Denison (1978) and retained *Dinichthys* as a valid genus restricted to the type species, *Dinichthys herzeri*. 
-> - **References.**[Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
+> - **Reference.** [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
 
 [*Dunkleosteus amblyodoratus*](https://deepbone.cn/public/#/explor?s_id=2454&functionId=Deepbone_header_searchResultOpen) Carr and Hlavin, 2010
-> Frasnian or Famennian, 382.7, 358.9
+> **Geological range.** Frasnian or Famennian, 382.7, 358.9
 
-> Laurentia
-
-> - Kettle Point Formation, Ontario, Canada
-> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
+> - **Occurrence.** Kettle Point Formation, Ontario, Canada.
+> - **Holotype.** See Carr and Hlavin (2010).
+> - **Diagnosis.** See Carr and Hlavin (2010).
+> - **Remarks.** Only known from holotype, which preserved an isolated nuchal plate, with left paranuchal plate and an incomplete parasphenoid.
+> - **Reference.** [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
 
 [*Dunkleosteus raveri*](https://deepbone.cn/public/#/explor?s_id=2453&functionId=Deepbone_header_searchResultOpen) Carr and Hlavin, 2010
-> lower Famennian, 372.2, 363.3
+> **Geological range.** lower Famennian, 372.2, 363.3
 
-> Laurentia
+> - **Occurrence.** Huron Shale Member, Ohio Shale Formation, Erie County, Ohio, USA.
+> - **Holotype.** See Carr and Hlavin (2010).
+> - **Diagnosis.** See Carr and Hlavin (2010).
+> - **Remarks.** This species is known only from the anterior half of the skull roof and the parasphenoid.
+> - **Reference.** [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
 
-> -  Huron Shale Member, Ohio Shale Formation, Erie County, Ohio, USA.
-> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
+[*Dunkleosteus terrelli*](https://deepbone.cn/public/#/explor?s_id=2269&functionId=Deepbone_header_searchResultOpen) (Newberry, 1873)
+> **Geological range.** upper Famennian, 363.3, 358.9
 
-[*Dunkleosteus terrelli*](https://deepbone.cn/public/#/explor?s_id=2269&functionId=Deepbone_header_searchResultOpen) （Newberry, 1873）
-> upper Famennian, 363.3, 358.9
+> - **Occurrence.** Cleveland Shale Member, Ohio Shale Formation, Ohio, Tennessee, Pennsylvania and California, USA.
+> - **Holotype and referred specimens.** See Lehman (1956).
+> - **Diagnosis.** See Lehman. For the diagnosis of the genus, see Carr and Hlavin (2010).
+> - **Remarks.** Newberry (1873) originally described this species as *Dinichthys terrelli*, based on an infragnathal plate from the Upper Huron Shale of Sheffield, Ohio. This plate is characterised by a sharp cutting edge along the anterior portion of the infragnathal, in contrast to the condition in *Dinichthys herzeri*, the type species of the genus. Newberry (1875, 1889, 1908, 1909) subsequently provided additional descriptions of the skull roof and trunk shield of *Dinichthys terrelli* and published reconstructions of the species. Newberry (1885) erected the family Dinichthyidae for several large North American arthrodires, including *Dinichthys herzeri*, *Dinichthys terrelli*, *Dinichthys intermedius*, *Dinichthys curtis*, *Gorgonichthys clarki*, *Heintzichthys gouldii*, and *Holdenius holdeni*. Heintz (1931, 1932) provided the first comprehensive description and a revised reconstruction of *Dunkleosteus terrelli*. Dunkle and Bungart (1946) recognised two groups within Dinichthyidae: the *herzeri* group, comprising *Dinichthys herzeri*, *Gorgonichthys clarki*, *Heintzichthys. gouldii*, and *Holdenius holdeni*, and the *terrelli* group, comprising *Dunkleosteus terrelli*, *Dunkleosteus intermedius* (Newberry, 1889), and *Dunkleosteus curtis* (Newberry, 1888). These groups were distinguished by the morphology of the inferognathal cutting edge, which is obtuse in the *herzeri* group but acute in the *terrelli* group, and by the absence or presence, respectively, of contact between the parasphenoid and the anterior superognathal plate. On the basis of this distinction, Lehman (1956) erected the genus *Dunkleosteus* to accommodate the species assigned to the traditional *Dinichthys terrelli* group. Stensiö (1963) followed this generic assignment and erected the family Dunkleosteidae to accommodate the *terrelli* group. Hlavin (1976) subsequently synonymised *Dunkleosteus intermedius*, *Dunkleosteus curtis*, and *Dunkleosteus prentis-clarki* (Claypole, 1896) with *Dunkleosteus terrelli*, a taxonomic treatment subsequently adopted by Denison (1978). Carr and Hlavin (2010) retained this synonymy and described two additional species, *Dunkleosteus raveri* and *Dunkleosteus amblyodoratus*. Accordingly, the genus *Dunkleosteus* currently comprises three valid species: *D. terrelli*, *D. raveri*, and *D. amblyodoratus*. More recently, Engelman (2023a, 2023b) provided revised reconstructions of the body shape and estimated body length of *Dunkleosteus terrelli*. Lebedev et al. (2023) investigated the structure, growth, and histology of its gnathal elements. Engelman (2024) subsequently presented a revised reconstruction of the dermal skeleton and body shape based on more complete material, while Engelman et al. (2026) re-examined its cranio-mandibular anatomy and feeding mechanisms.
+> - **Reference.** [Carr and Hlavin 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Heintz 1931, 1932; Newberry 1873, 1875, 1885, 1889, 1908, 1909; Dunkle and Bungart 1946; Engelman 2023a, b; Lebedev et al. 2023; Engelman et al. 2026.
 
-> Laurentia
+[*Eastmanosteus calliaspis*](https://deepbone.org/public/#/explor?s_id=2447andfunctionId=Deepbone_header_searchResultOpen) Dennis-Bryant, 1987
+> **Geological range.** lower Frasnian, 382.7, 379.2
 
-> - Cleveland Shale Member, Ohio Shale Formation, Ohio, Tennessee, Pennsylvania and California, USA.
-> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Heintz, 1932.
-
-[*Eastmanosteus calliaspis*](https://deepbone.org/public/#/explor?s_id=2447andfunctionId=Deepbone_header_searchResultOpen) Dennis-Bryan, 1987
-> lower Frasnian, 382.7, 379.2
-
-> East Gondwanan
-
-> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
-> - [Dennis-Bryan, 1987](https://academic.oup.com/zoolinnean/article-abstract/90/1/1/2658205)
+> - **Occurrence.** Gogo Formation; Canning Basin, Australia. -17.75, 125.17
+> - **Holotype and referred specimens.** See Dennis-Bryant (1987).
+> - **Diagnosis.** See Dennis-Bryant (1987).
+> - **Remarks.** Trinajstic (2013) described some information of musculature of *Eastmanosteus calliaspis*.
+> - **References.** [Dennis-Bryan, 1987](https://academic.oup.com/zoolinnean/article-abstract/90/1/1/2658205); [Trinajstic 2013](https://www.science.org/doi/10.1126/science.1237275)
 > - The type species of *Eastmanosteus* Obruchev 1964 is *E. pustulosus* (Eastman) 1897. 
 
 [*Eastmanosteus pustulosus*](https://deepbone.org/public/#/explor?s_id=2448&functionId=Deepbone_header_searchResultOpen) Eastman, 1897
