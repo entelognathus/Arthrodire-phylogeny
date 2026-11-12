@@ -681,12 +681,14 @@
 > - **References.**[Burrow and Turner, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011097); [Long et al., 2014](https://www.publish.csiro.au/zo/zo13081)
 
 [*Bullerichthys fascidens*](https://deepbone.org/public/#/explor?s_id=2223andfunctionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1980
-> lower Frasnian, 382.7, 379.2
+> **Geological range.** lower Frasnian, 382.7, 379.2
 
-> East Gondwanan
-
-> - Gogo Formation, Canning Basin, Australia. -17.75, 125.17
-> - [Dennis and Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
+> - **Occurrence.** Mount Pierre Station, Gogo Formation, Canning Basin, Western Australia. -17.75, 125.17
+> - **Holotype.** Western Australian Museum specimen 70.4.259, provisionally numbered as British Museum (Natural History) P52554 (see Dennis and Miles, 1980).
+> - **Referred specimens.** See Trinajstic et al. (2025).
+> - **Diagnosis.** See Dennis and Miles (1980).
+> - **Remarks.** Dennis and Miles (1980) originally described *Bullerichthys fascidens* based on a single incomplete specimen preserving only a few dermal skull-roof and trunk-shield plates. Trinajstic et al. (2025) subsequently redescribed *Bullerichthys fascidens* based on the holotype and two additional specimens, and provided the first complete reconstruction of the species. In their original description, Dennis and Miles (1980) suggested that the position of *Bullerichthys fascidens* in their phylogenetic cladogram could be interchangeable with that of species of *Coccosteus*. Zhu et al. (2016) first included *Bullerichthys fascidens* in a phylogenetic analysis, recovering it as the sister taxon to the clade comprising *Kendrickichthys* and *Bruntonichthys*. This placement was also supported by subsequent phylogenetic analyses (Xue et al., 2025, 2026). In contrast, Boyle et al. (2017) recovered *Bullerichthys fascidens* as the sister taxon to a clade comprising *Dinichthys* and the aspinothoracids (see Boyle et al., 2017, fig. 17). Trinajstic et al. (2025) provided new tomographic evidence for resorption and remodelling in dentitions of *Bullerichthys*, resembling the condition in osteichthyans but differing fundamentally from that in chondrichthyans.
+> - **References.** [Dennis and Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668); [Trinajstic et al., 2025](https://link.springer.com/article/10.1186/s13358-025-00405-1).
 
 [*Camuropiscis laidlawi*](https://deepbone.org/public/#/explor?s_id=2210andfunctionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1979
 > **Geological range.** lower Frasnian, 382.7, 379.2
