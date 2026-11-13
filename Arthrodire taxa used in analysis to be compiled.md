@@ -224,14 +224,6 @@
 > - **References** Young, 1978; Barker and Bone, 1995; Basden, 1999; Obruchev, 1964; Heintz, 1929; Long, 1984.
 > - The type species is *W. arctica* (Heintz) 1929 from the Eifelian Grey Hoek Formation.  
 
-[*Xinanpetalichthys shendaowanensis*](https://deepbone.org/public/#/explor?s_id=3266andfunctionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
-> **Geological range.** Pragian, 410.8, 407.6
-
-> - **Occurrence.** Pingyipu Group; Yanmenba, Jiangyou City, Sichuan Province, China.  
-> - [P'an and Wang, 1978]
-> - Previously Pingyipu Formation. Guanshanpo Formation after Hou et al. (1988)?
-
-
 ## Ptyctodont taxa
 [*Rhamphodopsis threiplandi*](https://deepbone.org/public/#/explor?s_id=2353&functionId=Deepbone_header_searchResultOpen) Watson, 1934
 > **Geological range.** upper Eifelian, 389.6, 387.7
@@ -834,15 +826,16 @@
 > - **Holotype and referred referrences.** See Hunt and Young (2010).
 > - **Diagnosis.** See Hunt and Young (2010).
 > - **Remarks.** Hunt and Young (2010) tentatively assigned *Edgellaspis* to Arthrodira and suggested a possible affinity with actinolepids based on the morphology of its dermal trunk plates. However, because the skull roof of *Edgellaspis* exhibits a combination of characters seen in Antarctaspididae and Wuttagoonaspidae, they did not assign the genus to either family.  
-> - **References.** [Hunt and Young, 2011](https://www.tandfonline.com/doi/abs/10.1080/03115511003793645) 
+> - **Reference.** [Hunt and Young, 2011](https://www.tandfonline.com/doi/abs/10.1080/03115511003793645) 
 
 [*Elvaspis tuberculata*](https://deepbone.cn/public/#/explor?s_id=2421&functionId=Deepbone_header_searchResultOpen) Young 2009
-> Emsian, 407.6, 393.3
+> **Geological range.** Emsian, 407.6, 393.3
 
-> East Gondwanan
-
-> - Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales, Australia.
-> - [Young, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00366.x).
+> - **Occurrence.** Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales, Australia.
+> - **Holotype.** See Young (2009). The holotype is only known specimen. 
+> - **Diagnosis.** See Young (2009).
+> - **Remarks.** Young (2009) originally described *Elvaspis tuberculata* based on an incompletely preserved, articulated trunk armour and assigned it to the family Williamsaspididae. This assignment was based on the presence of a tumid ventral wall and a short spinal plate, which are also characteristic of *Williamsaspis bedfordi*, the type species of the family. The trunk armour of *E. tuberculata* is more completely preserved than that of *W. bedfordi*, providing additional information on the morphology of the median dorsal, anterior dorsolateral, and posterior dorsolateral plates. Based on the morphology of the dermal neck joint and the shape of the median dorsal plate, Young (2009) suggested that Williamsaspididae belongs within Brachythoraci. However, *E. tuberculata* also exhibits characters found in phlyctaeniids, such as contact between the anterolateral and posterior dorsolateral plates. Young (2009) interpreted this condition as a symplesiomorphy shared with actinolepids and phlyctaeniids. In the phylogenetic analysis of Xue et al. (2025), *E. tuberculata* was recovered within a polytomy of phlyctaeniids. Subsequently, Xue et al. (2026) recovered it within a monophyletic Phlyctaeniidae.
+> - **Reference.** [Young, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00366.x).
 
 [*Erikaspis zychi*](https://deepbone.cn/public/#/explor?s_id=2127&functionId=Deepbone_header_searchResultOpen) (Stensiö, 1945)
 > **Geological range.** Upper Lochkovian to Lower Pragian, 415.0, 410.8
@@ -883,12 +876,12 @@
 > - **References.** Liu and Wang (1981); Xue *et al.* (2025).
 
 [*Fallocosteus turneri*](https://deepbone.cn/public/#/explor?s_id=172089&functionId=Deepbone_header_searchResultOpen) Long, 1990
-> lower Frasnian, 382.7, 379.2
+> **Geological range.** lower Frasnian, 382.7, 379.2
 
-> East Gondwanan
-
-> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
-> - [Long, 1990](https://researchnow.flinders.edu.au/en/publications/two-new-arthrodires-placoderm-fishes-from-the-upper-devonian-gogo); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
+> - **Occurrence.** Gogo Formation; Canning Basin, Australia. -17.75, 125.17
+> - **Holotype.** See Long (1990). The holotype is the only known specimen and is almost completely preserved, lacking only the parasphenoid and the left submarginal and postmarginal plates.
+> - **Diagnosis.** See Long (1990).
+> - **References.** [Long, 1990](https://researchnow.flinders.edu.au/en/publications/two-new-arthrodires-placoderm-fishes-from-the-upper-devonian-gogo); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Gavinaspis convergens*](https://deepbone.org/public/#/explor?s_id=2473andfunctionId=Deepbone_header_searchResultOpen) Dupret and Zhu, 2008
 > **Geological range.** upper Lochkovian, 415.0, 410.8
@@ -910,12 +903,12 @@
 > - **Reference.**[Miles, 1962](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/iiigemuendenaspis-ngen-an-arthrodiran-fish-from-the-lower-devonian-hunsruckschiefer-of-germany/F800022C1E162184463F969DDEE6B313).
 
 [*Golshanichthys asiatica*](https://deepbone.cn/public/#/explor?s_id=2450&functionId=Deepbone_header_searchResultOpen) Lelièvre, Janvier and Goujet, 1981
-> lower Frasnian, 382.7, 379.2
+> **Geological range.** lower Frasnian, 382.7, 379.2
 
-> Gondwana
-
-> - Kerman, Iran.
-> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); [Lelièvre, Janvier and Goujet, 1981](https://www.sciencedirect.com/science/article/abs/pii/S0016699581801489)（）.
+> - **Occurrence.** Hootk layer anticline, 30 km NE of Kerman and about 1 km N of the Kerman–Zaghand road, Iran.
+> - **Holotype and referred specimens.** See Lelièvre et al. (1981).
+> - **Diagnosis.** See Lelièvre et al. (1981).
+> - **Reference.** [Lelièvre, Janvier and Goujet, 1981](https://www.sciencedirect.com/science/article/abs/pii/S0016699581801489).
 
 [*Goodradigbeeon australianum*](https://deepbone.cn/public/#/explor?s_id=2428&functionId=Deepbone_header_searchResultOpen) White, 1978
 > **Geological range.** Emsian, 407.6, 393.3
@@ -924,7 +917,7 @@
 > - **Holotype and referred specimens.** See White (1978).
 > - **Diagnosis.** See White (1978).
 > - **Remarks.** White (1978) established the genus *Goodradigbeeon* and erected the family Goodradigbeeonidae to include only this genus. He further assigned this family to the order Migmatocephala, a group defined to encompass taxa that exhibit a mosaic of arctolepids, brachythoracids, and pachyosteomorphs features, such as the Buchanosteidae.
-> - **References** [White, 1978](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/j.1096-3642.1978.tb00374.x).
+> - **Reference.** [White, 1978](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/j.1096-3642.1978.tb00374.x).
 
 [*Gorgonichthys clarki*](https://deepbone.cn/public/#/explor?s_id=2271&functionId=Deepbone_header_searchResultOpen) Claypole, 1892
 > **Geological range.** upper Famennian, 363.3, 358.9
@@ -975,6 +968,7 @@
 > - **Occurrence.** Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - **Holotype and referred specimens.** See Stensiö, 1963
 > - **Diagnosis.** See Gross (1932) and Denison (1978).
+> - **Remarks.** Gross (1933) described *Hadrosteus rapax* gen. et sp. nov. based on a specimen (W. f. 163) from the collections of the Berlin Museum, which had originally been labelled as *Platyosteus*. He erected a new genus because the combination of cranial and trunk armour characters exhibited by the specimen did not conform to the diagnoses of either Pachyosteidae or Trematosteidae. Accordingly, he also established the family Hadrosteidae to accommodate the new genus. Stensiö (1963) followed Gross's (1933) taxonomic assignment, retaining Hadrosteidae and placing the family within Pachyosteomorphi. Denison (1978) retained the placement of *Hadrosteus* within Pachyosteomorphi but did not recognise Hadrosteidae as a distinct family, instead assigning the genus to Dinichthyidae. Carr and Hlavin (1995) followed this familial assignment and placed Dinichthyidae, including *Hadrosteus*, within Aspinothoracidi. Subsequently, Carr and Hlavin (2010) redefined Dinichthyidae to include only *Dinichthys* and retained *Hadrosteus* within Aspinothoracidi, thereby excluding it from Dinichthyidae.
 > - **References.**[Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Stensiö, 1963.
 
 [*Harrytoombsia elegans*](https://deepbone.cn/public/#/explor?s_id=2443&functionId=Deepbone_header_searchResultOpen) Miles and Dennis, 1979
@@ -995,12 +989,13 @@
 > - **References.** White, 1969; [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short).
 
 [*Heintzichthys gouldii*](https://deepbone.cn/public/#/explor?s_id=2273&functionId=Deepbone_header_searchResultOpen) (Newberry, 1885)
-> upper Famennian, 363.3, 358.9
+> **Geological range.** upper Famennian, 363.3, 358.9
 
-> Laurentia
-
-> - Cleveland Shale Member, Ohio Shale Formation, Ohio, USA.
-> - [Carr, 1991](https://academic.oup.com/zoolinnean/article-abstract/103/4/349/2725455); [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
+> - **Occurrence.** Cleveland Shale Member, Ohio Shale Formation, Ohio, USA.
+> - **Holotype and referred specimens.** See Carr (1991).
+> - **Diagnosis.** See Carr (1991). *Heintzichthys gouldii* is characterized by the internal overlap of the posterior median ventral plate by the anterior median ventral plate and the presence of a posteriorly projecting posterior lateral plate that encloses part of the pectoral fenestra.
+> - **Remarks.** This species was first described by Newberry (1885) as *Dinichthys gouldii*, based on a disarticulated but nearly complete specimen (holotype, AMNH 160). Subsequently, additional specimens of this species were described under the names *Stenognathus gouldii* by Newberry (1897), *Dinichthys corrugatus* by Newberry (1889), and *Dinichthys gracilis* by Claypole (1893). Hussakof (1911) subsequently described another nearly complete specimen (BMNH P9335) from the collections of the Natural History Museum, London. Heintz (1931) redescribed this specimen and provided a reconstruction of the head and thoracic shields of *Heintzichthys gouldii*. Whitley (1933) subsequently erected the new genus *Heintzichthys* to accommodate this species. Obruchev (1964) followed this generic assignment and referred *Heintzichthys* to the family Dinichthyidae, a placement subsequently adopted by Denison (1978). Based on newly collected material, Carr (1991) redescribed *Heintzichthys gouldii* and included it in a phylogenetic analysis, which recovered the species within Aspinothoracidi. This placement has also been supported by subsequent phylogenetic analyses (Carr and Hlavin, 2010; Zhu and Zhu, 2013; Rücklin et al., 2015; Zhu et al., 2016; Jobbins et al., 2022, 2024, 2025; Xue et al., 2025, 2026).
+> - **References.** [Carr, 1991](https://academic.oup.com/zoolinnean/article-abstract/103/4/349/2725455); [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
 
 [*Heintzosteus brevis*](https://deepbone.cn/public/#/explor?s_id=169310&functionId=Deepbone_header_searchResultOpen) (Heintz, 1929)
 > **Geological range.** Pragian, 410.8, 407.6
@@ -1008,16 +1003,18 @@
 > - **Occurrence.** Austfjord Member, Wood Bay Formation, Dicksonfjorden-Austfjorden area, Svalbard (Spitsbergen).
 > - **Holotype and referred specimens.** See Goujet (1984).
 > - **Diagnosis.** See Goujet (1984).
-> - **Remarks.** The holotype of *Heintzosteus brevis* was originally assigned to *Arctolepis* (“Jaekelaspis”) by Heintz (1929), primarily because both taxa share a pineal plate that extends posteriorly to contact the central plates, thereby separating paired preorbital plates. However, Goujet (1984) re-examined the holotype and noted that several details in the original reconstruction, including the sutures of the skull roof and the course of the sensory grooves, had been inaccurately interpreted. He further showed that *H. brevis* differs from *Arctolepis* in the morphology of the rostral region, particularly in the relatively narrow rostral plate, which suggests the retention of postnasal plates rather than the highly specialized condition seen in *Arctolepis*, where the pastnasal plates are absent. Although *Heintzosteus* shares numerous similarities with *Arctolepis* in the overall architecture of the trunk shield, Goujet (1984) concluded that these differences warranted the erection of a separate genus while retaining both taxa within Arctolepididae.
-> - **Key References.** Heintz, 1929; [Goujet 1984].
+> - **Remarks.** The holotype of *Heintzosteus brevis* was originally assigned to *Arctolepis* (“Jaekelaspis”) by Heintz (1929), primarily because both taxa share a pineal plate that extends posteriorly to contact the central plates, thereby separating paired preorbital plates. However, Goujet (1984) re-examined the holotype and noted that several details in the original reconstruction, including the sutures of the skull roof and the course of the sensory grooves, had been inaccurately interpreted. He further showed that *H. brevis* differs from *Arctolepis* in the morphology of the rostral region, particularly in the relatively narrow rostral plate, which suggests the retention of postnasal plates rather than the highly specialized condition seen in *Arctolepis*, where the pastnasal plates are absent. Although *Heintzosteus* shares numerous similarities with *Arctolepis* in the overall architecture of the trunk shield, Goujet (1984) concluded that these differences warranted the erection of a separate genus while retaining both taxa within Arctolepididae. 
+> - **References.** Heintz, 1929; [Goujet 1984].
 
 [*Heterostius ingens*](https://deepbone.cn/public/#/explor?s_id=2455&functionId=Deepbone_header_searchResultOpen) Asmuss, 1856
-> upper Eifelian, 389.6, 387.7
+> **Geological range.** upper Eifelian, 389.6, 387.7
 
-> Baltica
-
-> - Aruküla beds, Estonia.
-> - Heintz, 1928; Heintz, 1930.
+> - **Occurrence.** Aruküla beds, Estonia.
+> - **Holotype and referred specimens.** See Heintz (1930).
+> - **Diagnosis.** See Denison (1978).
+> - **Remarks.** Specimens of *Heterostius* from the Baltic region were historically misidentified and described under several different names, including *Ichthyosauroides* Kutorga, 1835, *Asterolepis asmussii* Agassiz, 1844, 1845, and *Chelonichthys asmusii* Agassiz, 1844, 1845. Asmuss (1856) was the first to recognise these specimens as fishes and refer them to *Heterostius* and *Homostius*. Pander (1857) subsequently provided more detailed descriptions and reconstructed parts of the head and trunk armour. Woodward (1891) later referred *Chelonichthys asmusii* to *Heterosteus asmussi*. Thereafter, the names *Heterostius* and *Heterosteus* were used interchangeably by different authors (*Heterosteus* in Heintz, 1928; Denison, 1978, 1984; and Janvier, 1996; *Heterostius* in Heintz, 1930; Gross, 1933; Stensiö, 1963; and Ørvig, 1969). Zhu et al. (2016), following a personal communication from E. Mark-Kurik, noted that the suffix *-ostius* derives from the Latinised Greek adjective *ostinos* (bony, having prominent bones), whereas *-osteus* derives from the Greek substantive *osteon* (bone). They therefore argued that *Heterostius* should not be corrected to *Heterosteus* as an inadvertent error under Article 32.5.1 of the International Code of Zoological Nomenclature (ICZN, 1999).  Heintz (1928, 1930) provided detailed descriptions of the Baltic specimens, while Gross (1933) described an anterior lateral plate of a heterostiid from Sötenich, Germany, and referred it to *Heterostius*. Gross (1933) described an anterior lateral plate of a heterostiid from Sötenich, Germany, and referred it to *Heterostius*.
+> - Jaekel (1903) had previously erected the family Heterodeidae to accommodate *Heterostius*. Stensiö (1963) did not adopt this familial classification, but discussed *Heterostius* in the chapter on pachyosteomorphs and provided a reconstruction of the genus based on comparisons with other pachyosteomorph arthrodires. However, in the taxonomic appendix, he noted that the systematic position of *Heterostius* remained uncertain and that its possible affinities with Coccosteomorphi could not be excluded. Denison (1978) retained the family Heterosteidae and erected the suborder Heterosteina to accommodate it, suggesting that Heterosteina was the sister group of all other brachythoracids. In his discussion of brachythoracid phylogeny, Young (1981) placed Heterosteidae in a polytomy involving Eubrachythoraci and Homosteoidea. Denison (1984) subsequently placed Heterosteidae near the base of Brachythoraci, above only Buchanosteoidea. Janvier (1996) recognised Heterostiidae as a eubrachythoracid taxon but regarded its more precise phylogenetic position as uncertain. Zhu and Zhu (2013) were the first to include *Heterostius* in a phylogenetic analysis, recovering it as the sister taxon of *Dunkleosteus*. Subsequently, Zhu et al. (2016) redescribed *Yinostius major*, another heterostiid, and included it in an expanded phylogenetic analysis. Their results recovered Heterostiidae, comprising *Heterostius ingens* and *Yinostius major*, as the sister group of *Dunkleosteus amblyodoratus*. This relationship has also been recovered in subsequent phylogenetic analyses (Xue et al., 2025, 2026). In contrast, Schultze and Cumbaa (2017) did not adopt this more derived placement and recognised Heterostiidae only as a member of Brachythoraci, without specifying a more precise phylogenetic position.
+> - **References.** Heintz, 1928; Heintz, 1930; Stensiö, 1963.
 
 [*Hlavinichthys jacksoni*](https://deepbone.cn/public/#/explor?s_id=75115&functionId=Deepbone_header_searchResultOpen) Carr, 2018
 > **Geological range.** Upper Famennian, 363.3, 358.9. (*aculeatus* to *costatus–ultimus* Conodont Zones)   
