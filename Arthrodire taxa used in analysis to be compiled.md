@@ -1026,13 +1026,23 @@
 > - **Key References.** Carr (2018).
 
 [*Holonema westolli*](https://deepbone.org/public/#/explor?s_id=2425andfunctionId=Deepbone_header_searchResultOpen) Miles, 1971
-> lower Frasnian, 382.7, 379.2
+> **Geological range.** lower Frasnian, 382.7, 379.2
 
-> East Gondwanan
-
-> - Gogo Formation, Gogo, Canning Basin; Gneudna Formation, Carnarvon Basin, Western Australia. -17.75, 125.17
-> - [Miles, 1971](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1971.0111)； [Trinajstic, 1999](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1999n1a4.pdf).
+> - **Occurrence.** Gogo Formation, Gogo, Canning Basin; Gneudna Formation, Carnarvon Basin, Western Australia. -17.75, 125.17
+> - **Holotype and referred specimens.** See Miles (1971).
+> - **Diagnosis.** See Miles (1971).
+> - **Remarks.** Miles (1971) originally described this species based on nearly complete dermal and mandibular skeletons. Trinajstic (1999) subsequently provided further descriptions of the vertebral column, pelvic girdle, pelvic fins, and squamation.   
+> - **Referrences.** [Miles, 1971](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1971.0111); [Trinajstic, 1999](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1999n1a4.pdf).
 > - Trinajstic (1999) reported the isolated scales from the late Givetian to early Frasnian Gneudna Formation.
+
+[*Holonema* cf. *radiatum*](https://deepbone.cn/public/#/explor?s_id=2587&return_to=%2Ftop-search-list%3Fkeyword%3Dholonema%26page%3D2&return_y=0) Obruchev, 1932
+> **Geological range.** lower Frasnian, 382.7, 379.2
+
+> - **Occurrence.** Hootk layer anticline, 30 km NE of Kerman and about 1 km N of the Kerman–Zaghand road, Iran.
+> - **Holotype and referred specimens.** See Lelièvre et al. (1981).
+> - **Diagnosis.** See Lelièvre et al. (1981).
+> - **Remarks.** *Holonema radiatum* was originally described by Obruchev (1932) based on poorly preserved, disarticulated specimens from several Frasnian localities in the western Soviet Union, including the Shelon Beds, the Baltic region, and the Donets Basin. Fragmentary remains attributed to this species were subsequently reported from the Frasnian of Poland and Spitsbergen (Heintz, 1935; Kulczycki, 1957). In the Kerman region of Iran, dermal plates of Holonematidae were first reported by Huckriede et al. (1962). Schultze (1973) subsequently described additional fragmentary material from the same region and assigned it to *Holonema rugosum*. Janvier (1974) reported further specimens, which he referred to indeterminate species of *Holonema* and *Deirosteus*. He (1976), however, suggested that the plate assigned to *Deirosteus* might instead represent a juvenile individual of an indeterminate species of *Holonema*. Lelièvre et al. (1981) later described more complete material from Iran and referred it to *Holonema* cf. *radiatum*.
+> - **Referrences.** [Lelièvre, Janvier and Goujet, 1981](https://www.sciencedirect.com/science/article/abs/pii/S0016699581801489).
 
 [*Homostius sulcatus* ](https://deepbone.cn/public/#/explor?s_id=2403&functionId=Deepbone_header_searchResultOpen) (Kutorga, 1837)
 > **Geological range.** upper Eifelian, 389.6, 387.7 
@@ -1045,12 +1055,13 @@
 > - **Referrences.** [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); [Heintz, 1934](https://www.digar.ee/arhiiv/en/raamatud/230250); Heintz,1968.
 
 [*Incisoscutum ritchiei*](https://deepbone.org/public/#/explor?s_id=2232andfunctionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1981
-> lower Frasnian, 382.7, 379.2
+> **Geological range.** lower Frasnian, 382.7, 379.2
 
-> East Gondwanan
-
-> - Gogo Formation, Western Australia, Australia。 -17.75, 125.17
-> - [Dennis and Miles, 1981](https://academic.oup.com/zoolinnean/article-abstract/73/3/213/2658833); [Giles et al., 2013](https://onlinelibrary.wiley.com/doi/full/10.1002/jmor.20119)
+> - **Occurrence.** Gogo Formation, Western Australia, Australia。 -17.75, 125.17
+> - **Holotype and referred specimens.** See Dennis and Miles (1981). 
+> - **Diagnosis.** See Dennis and Miles (1981).
+> - **Remarks.** Dennis and Miles (1981) originally described *Incisoscutum ritchiei* and regared it as having the pachyosteomorph level of organisation, such as the absence of contact between the lateral plate of the trunk armour and the ventral trunk armour posterior to the pectoral fin, which results in an open pectoral incision. However, in their phylogenetic cladogram, *Incisoscutum* was placed at a similar phylogenetic level to *Coccosteus* species. Gardiner and Miles (1994) subsequently included *Incisoscutum ritchiei* in a phylogenetic analysis and recovered it near the base of Camuropiscidae. Zhu et al. (2013, 2016) incorporated a broader range of coccosteomorph arthrodires into their phylogenetic analyses and recovered *Incisoscutum* within Incisoscutoidea. This placement has also been supported by subsequent phylogenetic analyses (Rücklin et al., 2015; Boyle et al., 2017; Jobbins et al., 2022, 2024, 2025; Xue et al., 2025, 2026).
+> - **References.** [Dennis and Miles, 1981](https://academic.oup.com/zoolinnean/article-abstract/73/3/213/2658833); [Giles et al., 2013](https://onlinelibrary.wiley.com/doi/full/10.1002/jmor.20119)
 
 [*Incisoscutum sarahae*](https://deepbone.cn/public/#/explor?s_id=2446&functionId=Deepbone_header_searchResultOpen) (Long, 1994)
 >  **Geological range.** lower Frasnian, 382.7, 379.2
@@ -1058,24 +1069,24 @@
 > - **Occurrence.** Gogo Formation, Canning Basin, Australia. -17.75, 125.17.
 > - **Holotype and referred specimens.** See Long (1994).
 > - **Diagnosis.** See Long (1994).
-> - **Remarks.**
+> - **Remarks.** Long (1994) originally described this species as a new genus and species, *Gogosteus sarahae*. Trinajstic and Dennis-Bryan (2009) subsequently reassessed the morphological variation, polymorphism, and phylogenetic relationships of Gogo arthrodires. Based on additional morphological information obtained from a newly described specimen of *Gogosteus sarahae*, they argued that many of the characters previously used to distinguish *Gogosteus* from *Incisoscutum* were inconsistent. Accordingly, they regarded *Gogosteus* as a junior synonym of *Incisoscutum*.
 > - **References.**[Long, 1994](https://www.tandfonline.com/doi/abs/10.1080/03115518.1994.9638763); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1463-6395.2008.00363.x).
 
 [*Janiosteus timanicus*](https://deepbone.cn/public/#/explor?s_id=2441&functionId=Deepbone_header_searchResultOpen) (Obrucheva, 1962)
-> upper Givetian, 384.37, 382.7
+> **Geological range.** upper Givetian, 384.37, 382.7
 
-> Baltica
-
-> - Timan, Russia. 
-> - [Ivanov, 1989]; [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
+> - **Occurrence.** Timan, Russia.
+> - **Holotype and referred specimens.**
+> - **Diagnosis.**
+> - **References.** [Ivanov, 1989]; [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
 
 [*Kendrickichthys cavernosus*](https://deepbone.cn/public/#/explor?s_id=2225&functionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1980
-> lower Frasnian, 382.7, 379.2
+> **Geological range.** lower Frasnian, 382.7, 379.2
 
-> East Gondwanan
-
-> - Gogo Formation, Canning Basin, Australia. -17.75, 125.17
-> - [Dennis and Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
+> - **Occurrence.** Gogo Formation, Canning Basin, Australia. -17.75, 125.17
+> - **Holotype and referred specimens.**
+> - **Diagnosis.**
+> - **Reference.** [Dennis and Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
 
 [*Kiangyousteus yohii*](https://deepbone.cn/public/#/explor?s_id=2167&functionId=Deepbone_header_searchResultOpen) Liu, 1955
 > Givetian, 387.7, 382.7
