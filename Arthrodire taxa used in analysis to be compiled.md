@@ -1075,9 +1075,10 @@
 [*Janiosteus timanicus*](https://deepbone.cn/public/#/explor?s_id=2441&functionId=Deepbone_header_searchResultOpen) (Obrucheva, 1962)
 > **Geological range.** upper Givetian, 384.37, 382.7
 
-> - **Occurrence.** Timan, Russia.
-> - **Holotype and referred specimens.**
-> - **Diagnosis.**
+> - **Occurrence.** Its type material comes from the section of the Tsilma Fm on the Pechorskaya Pizhma River, where its remains were also recorded from the Ust’-Chirka Fm.
+> - **Holotype and referred specimens.** See Ivanov (1989).
+> - **Diagnosis.** According to Ivanov (1989), the skull roof is relatively large, reaching 18–20 cm in length. The pineal plate is broad and extends posteriorly between the central plates. The central plates are broad, with well-developed posterior and lateral lobes. The postorbital plate contacts the paranuchal plate. The nuchal plate is relatively narrow, accounting for approximately 43% of the total skull-roof length, and bears slightly elongated posterolateral angles. Its anterior margin bears a pair of anteriorly directed processes. The middle pit-lines meet at the midline of the skull roof, and the supraorbital sensory grooves are continuous with the central sensory grooves. 
+> - **Remarks.** Obrucheva (1962) originally described specimens from the Frasnian of Timan as a new species, *Plourdosteus timanicus*. Ivanov (1989) subsequently redescribed these specimens and additional material from the same region, including a relatively complete skull roof. Based on detailed morphological comparisons, he recognised substantial differences between the Timanian species and other known species of *Plourdosteus*. Accordingly, he erected the new genus *Janiosteus* to accommodate *P. timanicus* and assigned it to Coccosteidae. Carr and Hlavin (2010) were the first to include *Janiosteus timanicus* in a phylogenetic analysis, recovering it as the sister taxon of *Panxiosteus* and consequently assigning *Janiosteus* to Panxiosteidae. Zhu and Zhu (2013) subsequently revised the matrix of Carr and Hlavin (2010) and incorporated *Plourdosteus* into their analysis. Their results placed *Janiosteus timanicus* in a polytomy involving *Panxiosteus* and *Plourdosteus*. This phylogenetic placement has also been recovered in subsequent analyses (Jobbins et al., 2022, 2024, 2025; Xue et al., 2025, 2026).
 > - **References.** [Ivanov, 1989]; [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
 
 [*Kendrickichthys cavernosus*](https://deepbone.cn/public/#/explor?s_id=2225&functionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1980
