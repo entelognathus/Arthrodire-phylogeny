@@ -1153,12 +1153,13 @@
 > - **References.** [Long, 1995](https://www.palass.org/publications/palaeontology-journal/archive/38/1/article_pp39-62); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Melanosteus occitanus*](https://deepbone.cn/public/#/explor?s_id=2459&functionId=Deepbone_header_searchResultOpen) Lelièvre *et al*., 1987
-> upper Frasnian, 375.7, 372.2
+> **Geological range.** upper Frasnian, 375.7, 372.2
 
-> Baltica
-
-> - Montagne Noire, France.
-> - Lelièvre *et al*., 1987.
+> - **Occurrence.** Montagne Noire, France.
+> - **Holotype.** See Lelièvre *et al*. (1987).
+> - **Diagnosis.** See Lelièvre *et al*. (1987).
+> - **Remarks.** Lelièvre *et al*. (1987) orginially described this speies and assigined it in the family Selenosteidae. 
+> - **References.** Lelièvre *et al*., 1987.
 
 [*Millerosteus minor*](https://deepbone.cn/public/#/explor?s_id=2656&functionId=Deepbone_header_searchResultOpen) (Miller, 1858)
 > **Geological range.** lower Givetian, 387.7, 386.0
