@@ -1085,8 +1085,9 @@
 > **Geological range.** lower Frasnian, 382.7, 379.2
 
 > - **Occurrence.** Gogo Formation, Canning Basin, Australia. -17.75, 125.17
-> - **Holotype and referred specimens.**
-> - **Diagnosis.**
+> - **Holotype and referred specimens.** See Dennis and Miles (1980).
+> - **Diagnosis.** See Dennis and Miles (1980).
+> - **Remarks.** Dennis and Miles (1980) suggested that the position of *Kendrickichthys cavernosus* in their phylogenetic cladogram could be interchanged with those of species of *Coccosteus*. Although *Kendrickichthys* shares certain morphological similarities with *Bruntonichthys* and *Bullerichthys*, including the presence of crushing dentition, Dennis and Miles (1980) interpreted these similarities as adaptations to a similar mode of life rather than evidence of close phylogenetic relationships. They also noted similarities in mandibular morphology between *Kendrickichthys* and *Dinomylostoma*, suggesting a possible close relationship between the two genera. Zhu et al. (2016) were the first to include *Kendrickichthys cavernosus* in a phylogenetic analysis, recovering it as the sister taxon of *Bruntonichthys*. This result indicated a close phylogenetic affinity between *Kendrickichthys* and other Gogo aspinothoracids. The similar placement was also recovered in subsequent phylogenetic analyses (Xue et al., 2025, 2026).
 > - **Reference.** [Dennis and Miles, 1980](https://academic.oup.com/zoolinnean/article-abstract/69/1/43/2658668).
 
 [*Kiangyousteus yohii*](https://deepbone.cn/public/#/explor?s_id=2167&functionId=Deepbone_header_searchResultOpen) Liu, 1955
@@ -1095,7 +1096,7 @@
 > - **Occurrence.** Mount Guanwushan of Jiangyou, Sichuan Province, China.
 > - **Holotype。** IVPP V 801, includes a right anteior supragnthal, a parasphenoid, a median dorsal, a submedian dorsal, a right anteior lateral, a right anterior ventrolateral, and a right posterior dorsolateral.
 > - **Diagnosis.** See Zhu and Zhu (2013)
-> - **Remarks.** *Kiangyousteus yohii* is originally described by Liu (1955), which represents the first record of arthrodires from China. Liu (1955) regarded that *Kiangyousteus yohii* is a primitive member of Coccosteidae and related to the ancestral form of either *Dinichthys* and *Titanichthys*. Obruchev (1964) suggested that the pineal plate identified by Liu (1955) is actually a parasphenoid, a revision suppported by Denison (1978) and Dennis-Bryant (1995). Denison (1978) assigned *Kiangyousteus* in the family Dinichthyidae, because the similarity of parasphenoid and anterior lateral plat with *Dunkleosteus*. Dension also suggest it represent a basal member of Dinichthyida, because of its tuberculate ornamentation and relatively long median dorsal plate. Carr (1995) and Carr and Hlavin (2010) later assigned it as Pachyosteomorphi incertae sedis. Zhu and Zhu (2013) redescribed *Kiangyousteus yohii*, and assigned it in the phylogenetic analysis. In their result, *Kiangyousteus yohii* is placed in the clade of Dunkleosteidae, an assignment supported by followed analyses (Zhu et al. 2016; Boyle and Ryan 2017; Xue et al. 2025, 2026). 
+> - **Remarks.** *Kiangyousteus yohii* was originally described by Liu (1955) and represents the first record of Arthrodira from China. Liu (1955) regarded it as a primitive member of Coccosteidae and suggested that it might be related to the ancestral forms of either *Dinichthys* or *Titanichthys*. Obruchev (1964) subsequently suggested that the structure identified as the pineal plate by Liu (1955) was actually the parasphenoid, an interpretation supported by Denison (1978) and Dennis-Bryan (1995). Denison (1978) assigned *Kiangyousteus* to Dinichthyidae, based on similarities in the parasphenoid and anterior lateral plate to those of *Dunkleosteus*. He further suggested that *Kiangyousteus* represented a basal member of Dinichthyidae, based on its tuberculate ornamentation and relatively long median dorsal plate. Carr (1995) and Carr and Hlavin (2010) subsequently regarded *Kiangyousteus* as Pachyosteomorphi incertae sedis. Zhu and Zhu (2013) redescribed *Kiangyousteus yohii* and included it in a phylogenetic analysis, recovering it within Dunkleosteidae. This placement has also been supported by subsequent phylogenetic analyses (Zhu et al., 2016; Boyle and Ryan, 2017; Xue et al., 2025, 2026). 
 > - **References.** Liu, 1955; [Zhu and Zhu, 2013](https://academic.oup.com/zoolinnean/article/169/4/798/3797003)
 
 [*Kujdanowiaspis podolica*](https://deepbone.org/public/#/explor?s_id=2124andfunctionId=Deepbone_header_searchResultOpen) (Brotzen, 1934)
@@ -1120,7 +1121,9 @@
 > **Geological range.** lower Frasnian, 382.7, 379.2
 
 > - **Occurrence.** Gogo Formation, Canning Basin, Australia. -17.75, 125.17
-> - [Long, 1988a](https://academic.oup.com/zoolinnean/article-abstract/94/3/233/2658286); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
+> - **Holotype and referred specimens.** See Long (1988a).
+> - **Diagnosis.** See Long (1988a).
+> - **References.** [Long, 1988a](https://academic.oup.com/zoolinnean/article-abstract/94/3/233/2658286); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Lehmanosteus hyperboreus*](https://deepbone.cn/public/#/explor?s_id=2489&functionId=Deepbone_header_searchResultOpen) Goujet 1984
 > **Geological range.** Pragian, 410.8, 407.6
