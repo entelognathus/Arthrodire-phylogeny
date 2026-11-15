@@ -1125,31 +1125,32 @@
 > - **Diagnosis.** See Long (1988a).
 > - **References.** [Long, 1988a](https://academic.oup.com/zoolinnean/article-abstract/94/3/233/2658286); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
-[*Lehmanosteus hyperboreus*](https://deepbone.cn/public/#/explor?s_id=2489&functionId=Deepbone_header_searchResultOpen) Goujet 1984
+[*Lehmanosteus hyperboreus*](https://deepbone.cn/public/#/explor?s_id=2489&functionId=Deepbone_header_searchResultOpen) Goujet, 1984
 > **Geological range.** Pragian, 410.8, 407.6
 
 > - **Occurrence.** Austfjord Member, Dicksonfjorden-Austfjorden area, Svalbard (Spitsbergen).
 > - **Holotype and referred specimens.** See Goujet 1984.
 > - **Diagnosis.** See Goujet 1984.
 > - **Remarks.** Goujet (1984) established *Lehmanosteus hyperboreus*, noting that its skull roof closely resembles those of several specimens previously assigned to *Svalbardaspis* by Heintz (1929a). In particular, *L. hyperboreus* shares numerous morphological similarities with *Svalbardaspis stensioi*, differing primarily in its considerably larger size. Heintz had originally regarded *Svalbardaspis* as a provisional “catch-all genus” for isolated skull roofs that could not yet be associated with any known trunk armour. Based on new material of Spitsbergen arthrodires and a re-examination of the type specimens, Goujet (1984) proposed transferring *S. stensioi* to *Lehmanosteus*. He also considered *S. rotundus* and *S. polaris* to exhibit diagnostic features of *Actinolepis*, particularly the fusion of the preorbital plates into a single element with a common centre of ossification. Although Heintz had suggested that the preorbital plates of *S. polaris* retained a common suture, no such suture is discernible in the fossil. Goujet regarded the taxonomic position of “*Svalbardaspis*” *angulatus* as uncertain, but considered it sufficiently distinct from the type species, *S. typicus*, to warrant exclusion from the genus. He retained *Svalbardaspis* for *S. typicus* and the trunk armour that Heintz had referred to *Plataspis*, an earlier name for *Lataspis*.
-> - **References.** [Goujet, 1984].
+> - **Reference.** [Goujet, 1984].
 
-[*Maideria falipoui*](https://deepbone.cn/public/#/explor?s_id=164704&functionId=Deepbone_header_searchResultOpen) Lelièvre 1995
-> Givetian, 387.7, 382.7
+[*Maideria falipoui*](https://deepbone.cn/public/#/explor?s_id=164704&functionId=Deepbone_header_searchResultOpen) Lelièvre, 1995
+> **Geological range.** Givetian, 387.7, 382.7
 
-> NW Gondwana
+> - **Occurrence.** Maider, Morocco
+> - **Holotype and referred specimens.** See Lelièvre (1995).
+> - **Diagnosis.** See Lelièvre (1995).
+> - **Remarks.** In the original describition, Lelièvre (1995) regarded *Maideria* as a primitive brachythoracid and constructed a character matrix to investigate its phylogenetic position. His analysis recovered *Maideria falipoui* in a polytomy involving *Buchanosteus*, *Migmatocephala*, and Eubrachythoraci. Xue et al. (2025) subsequently included *Maideria falipoui* in their phylogenetic analysis and recovered it as the sister taxon of Buchanosteidae. The precise locality of the type specimen within the Maïder region is unclear. Additional specimens were collected from either Jbel Issoumour or Jbel Merakib, located in the northern and southern parts of the Maïder region, respectively. All specimens were preserved in marine limestone containing conodonts, which indicate a late or middle Givetian age.
+> - **Reference.** [Lelièvre, 1995](https://sciencepress.mnhn.fr/fr/periodiques/bulletin-du-museum-national-d-histoire-naturelle-4eme-serie-section-c-sciences-de-la-terre-paleontologie-geologie-mineralogie/17/1-4/maideria-falipoui-n-g-n-sp-un-brachyhtoraci-museau-long-vertebre-placoderme-arthrodire-du-givetien-du-maider).
 
-> - Maider, Morocco
-> - [Lelièvre, 1995](https://sciencepress.mnhn.fr/fr/periodiques/bulletin-du-museum-national-d-histoire-naturelle-4eme-serie-section-c-sciences-de-la-terre-paleontologie-geologie-mineralogie/17/1-4/maideria-falipoui-n-g-n-sp-un-brachyhtoraci-museau-long-vertebre-placoderme-arthrodire-du-givetien-du-maider).
-> ** The precise locality of type specimen in the Maider is unclear. The other specimens from either the Jbel Issoumour or the Jbel Merakib, respectively in the North and the South of Maider. All the specimens were preserved in a marine limestone which contains conodonts, indicating a lower or middle givetian age. ** 
 
 [*Mcnamaraspis kaprios*](https://deepbone.cn/public/#/explor?s_id=2445&functionId=Deepbone_header_searchResultOpen) Long, 1995
-> lower Frasnian, 382.7, 379.2
+> **Geological range.** lower Frasnian, 382.7, 379.2
 
-> East Gondwanan
-
-> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
-> - [Long, 1995](https://www.palass.org/publications/palaeontology-journal/archive/38/1/article_pp39-62); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
+> - **Occurrence.** Gogo Formation; Canning Basin, Australia. -17.75, 125.17
+> - **Holotype and referred specimens.** See Long (1995).
+> - **Diagnosis.** See Long (1995).
+> - **References.** [Long, 1995](https://www.palass.org/publications/palaeontology-journal/archive/38/1/article_pp39-62); [Trinajstic and Dennis-Bryan, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00363.x).
 
 [*Melanosteus occitanus*](https://deepbone.cn/public/#/explor?s_id=2459&functionId=Deepbone_header_searchResultOpen) Lelièvre *et al*., 1987
 > upper Frasnian, 375.7, 372.2
