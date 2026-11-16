@@ -1158,7 +1158,7 @@
 > - **Occurrence.** Montagne Noire, France.
 > - **Holotype.** See Lelièvre *et al*. (1987).
 > - **Diagnosis.** See Lelièvre *et al*. (1987).
-> - **Remarks.** Lelièvre *et al*. (1987) orginially described this speies and assigined it in the family Selenosteidae. 
+> - **Remarks.** Lelièvre et al. (1987) originally described this species and assigned it to Selenosteidae. In their phylogenetic hypothesis, *Melanosteus* was recovered as the sister taxon of *Rhinosteus*. Carr (1994) redescribed *Gymnotrachelus* and conducted a phylogenetic analysis of Selenosteidae, recovering *Melanosteus* as the sister taxon of *Gymnotrachelus*. Carr (1996) subsequently expanded the taxon sampling by incorporating *Selenosteus* and *Stenosteus* into his phylogenetic analysis. In the resulting topology, *Melanosteus* was placed in a polytomy with *Rhinosteus*, *Gymnotrachelus*, *Selenosteus*, and *Stenosteus*. Zhu et al. (2016) included *Melanosteus* in a broader phylogenetic analysis of brachythoracids and recovered it as the sister taxon of *Rhinosteus*, consistent with the original hypothesis of Lelièvre et al. (1987). Boyle et al. (2017), however, included a broader range of aspinothoracids in their analysis and recovered *Melanosteus* as the sister taxon of a clade comprising *Driscollaspis* and *Brachyosteus*. This close relationship among *Melanosteus*, *Driscollaspis*, and *Brachyosteus* has also been recovered in subsequent phylogenetic analyses (Rücklin et al., 2015; Jobbins et al., 2022, 2024, 2025).
 > - **References.** Lelièvre *et al*., 1987.
 
 [*Millerosteus minor*](https://deepbone.cn/public/#/explor?s_id=2656&functionId=Deepbone_header_searchResultOpen) (Miller, 1858)
@@ -1176,6 +1176,7 @@
 > - **Occurrence.** Merrimerriwa Formation, Cobar, Wilcannia, Australia.
 > - **Holotype and referred specimens.** See Ritchie (2004).
 > - **Diagnosis.** See Ritchie (2004).
+> - **Remarks.** The genus *Mulgaspis* comprises two species, *M. evansorum* and *M. altus*, of which *M. evansorum* is the type species. The two species can be distinguished by their overall body size and the relative proportions of several dermal plates, including the median dorsal, anterior lateral, posterior ventrolateral, and spinal plates. Ritchie (2004) assigned *Mulgaspis* to Groenlandaspididae. The genus retains several plesiomorphic characters among groenlandaspids, including the presence of an anterior ventral plate and a postnasal plate, the supraorbital sensory groove not extending onto the central plate, and an undivided pineal plate. Fitzpatrick et al. (2024) were the first to include *Mulgaspis* in a phylogenetic analysis, recovering it near the base of Groenlandaspididae. This basal placement has also been recovered in subsequent, broader phylogenetic analyses of arthrodires (Xue et al., 2025, 2026).
 > - **Reference.**[Ritchie, 2004](https://www.idunn.no/doi/abs/10.18261/9781405169868-2004-05).
 
 [*Pachyosteus bulla*](https://deepbone.cn/public/#/explor?s_id=2254&functionId=Deepbone_header_searchResultOpen) Jaekel, 1903
@@ -1206,22 +1207,23 @@
 > - **Remark.** *Panjiangosteus* displays several characters commonly seen in antarctaspids, including a long and narrow nuchal plate contacting the pineal plate and the convergence of the supraorbital and central sensory canals onto the nuchal plate. Among antarctaspids, *Panjiangosteus* closely resembles *Yujiangolepis* (Dupret et al., 2009) in its overall skull roof profile, the presence of unfused rostral and pineal plates, and the pronounced lateral inflection of the anterior end of the supraorbital sensory groove on the rostral plate. The anterior margin of the nuchal plate forms a shallow notch to accommodate the pineal plate, a condition also seen in *Potangaspis*, *Toombalepis*, and petalichthyids such as *Eurycaraspis* (Liu, 1991). *Panjiangosteus* can be distinguished from other antarctaspids in its broad skull roof, concave posterior margin of skull roof, the convergence of the middle and posterior pit-lines onto the central plate, and the subdivision of the posterior pit-line into two disconnected segments. Notably, the latter two characters are widely present in other derived arthrodires, such as *Baringaspis* (Miles, 1973), *Kujdanowiaspis* (Dupret, 2010), and *Buchanosteus* (Long et al., 2014)
 
 [*Panxiosteus ocullus*](https://deepbone.cn/public/#/explor?s_id=2439&functionId=Deepbone_header_searchResultOpen) Wang, 1979
-> Upper Givetian, 384.4, 382.7
+> **Geological range.** Upper Givetian, 384.4, 382.7
 
-> South China
-
-> - Yidade Formation, Yunnan, China
-> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Wang, 1979.
+> - **Occurrence.** Lower unit of Yidade Formation (late Givetian, Middle Devonian) at Panxi, Huaning County, Yuxi Prefecture, Yunnan Province, China.
+> - **Holotype.** IVPP V 5166.1, a nearly complete skull roof, together with the parasphenoid and posterior superognathal.
+> - **Referred Specimens** IVPP V 5166.2–3, two suborbital plates; IVPP V 5166.4, a median dorsal plate; IVPP V 5166.5, a posterior ventrolateral plate; IVPP V 5166.7, an anterior median ventral plate; IVPP V 5166.8, the ventral lamina of an interolateral plate; IVPP V 5166.9, a postsuborbital plate with the quadrate; IVPP V 5166.10, an incomplete infragnathal plate; IVPP V 5166.11, a submedian dorsal plate; IVPP V 5166.12–14, three anterior superognathal plates; IVPP V 5166.15, a scapulocoracoid; IVPP V 5166.16–17, two pelvic girdles; IVPP V 5166.18–19, two neural arches; and IVPP V 5166.20, a fin ray.
+> - **Diagnosis.** According to Wang (1979) and our obversvation. The anteriorly projecting process of central plate is enlongate. The median suture between central plate is snious. The posterior lobe of central plate is enlongate. The anterior margin of nuchal plate is concave and the posterior margin is covex. The posteior nuchal process is small. The supraorbital sensory groove connects with central sensory groove. The anteior and posterior segments of posterior pit lines are separate. The ventral surface of skull roof bears bifurcate Postocular process. The posterior process of posterior superognathal plate articulates with the anterior margin of parasphenoid. The dorsal groove of the main lateral line is present on the median dorsal plate an posteior near the posterior margin. The ventral sensory groove in present on the anterior median ventral plate. The visceral surface of anterior median ventral plate bears T-shaped thickening.
+> - **Remark.**
+> - **References.** [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Wang, 1979.
 
 [*Parabelosteus acuticeps*](https://deepbone.cn/public/#/explor?s_id=2239&functionId=Deepbone_header_searchResultOpen) (Jaekel, 1919)
 > **Geological range.** upper Frasnian, 375.7, 372.2.
 
 > - **Occurrence.** Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317. Baltica Block.
 > - **Holotype and referred specimens.** See Gross (1932) and Stensiö (1963).
-> - **Referred Specimens.**  See Gross (1932) and Stensiö (1963).
 > - **Diagnosis.** See Gross (1932) and Denison (1978).
 > - **Remark.** This species was established by Jaekel (1919). Gross (1932) followed this assignment and suggested that *Parabelosteus acuticeps* differs from other species of *Belosteus* in the contact between the pineal and rostral plates. Stensiö (1963) subsequently followed this interpretation. Miles (1969) erected the genus *Parabelosteus* to include the species (type species *Belosteus pusillus* Gross; referred, *B. acuticeps* Gross, *B. tuberculatus* Stensio, Belosteus sp., Miles 1966a, Fig. 4) of *Belosteus* and considered it to retain several primitive features, including the loose attachment of the cheek unit to the skull roof, a slender coccosteid-type submarginal plate, and an elongate median dorsal plate. Denison (1978) accepted this assignment.
-> - **Key References.** Gross (1932); Stenisö (1963); Denison (1978).
+> - **References.** Gross (1932); Stenisö (1963); Denison (1978).
 
 [*Parabuchanosteus murrumbidgeensis*](https://deepbone.org/public/#/explor?s_id=2430andfunctionId=Deepbone_header_searchResultOpen) (White, 1952)
 >  **Geological range.**Emsian, 407.6, 393.3
@@ -1230,7 +1232,7 @@
 > - **Holotype and referrences.** See White and Toombs (1972); Young (1979).
 > - **Diagnosis.** See Young (1979).
 > - **Remark.** 
-> - **Key References.** White and Toombs, 1972; [Young, 1979](https://academic.oup.com/zoolinnean/article-abstract/66/4/309/2664249)
+> - **References.** White and Toombs, 1972; [Young, 1979](https://academic.oup.com/zoolinnean/article-abstract/66/4/309/2664249)
 
 [*Paramylostoma arcualis*](https://deepbone.cn/public/#/explor?s_id=3575&functionId=Deepbone_header_searchResultOpen) Dunkle and Bungart, 1945
 > **Geological range.** Upper Famennian, 363.3, 358.9.
