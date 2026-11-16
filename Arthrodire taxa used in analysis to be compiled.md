@@ -954,7 +954,7 @@
 > - **References** Fitzpatrick *et al.*, 2024.
 
 [*Gymnotrachelus hydei*](https://deepbone.cn/public/#/explor?s_id=2276&functionId=Deepbone_header_searchResultOpen) Dunkle and Bungart, 1939
-> **Geological range.**upper Famennian, 363.3, 358.9
+> **Geological range.** upper Famennian, 363.3, 358.9
 
 > - **Occurrence.** Cleveland Shale Member, Ohio Shale Formation, Ohio, USA.
 > - **Holotype and referred specimens.** See Dunkle and Bungart (1939) and Carr (1994).
@@ -1315,7 +1315,9 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - **Occurrence.** Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - **Holotype and referred specimens.** See Gross (1932)
 > - **Diagnosis.** See Denison (1978).
-> - **Remarks.** Gross (1932) originally described this species and assigned it in the family Pachyosteidae. Stensiö (1963) give a new recontruction of *Rhinosteus parvulus* and erect a new family Rhinosteidae to include *Rhinosteus* and *Stenosteus*. Denison (1978) does not followed the assignment of Stensiö (1963) and assigned *Rhinosteus* in the Family Selenosteidae. Lelièvre *et al*. (1987) accepted this assignment and discussed the phylogenetic relationship of selenosteids, regarding that *Rhinosteus* was recovered as the sister taxon of *Melanosteus*. Carr (1994) perform a phylogenetic analysis of selenosteids, recovering *Rhinosteus* as the sister group with the clade forming by *Melanosteus* and *Gymnotrachelus*. Zhu et al (2016) include more arthrodire in the phylogenetic analysis, recovering *Rhinosteus* in selenosteids and forming the sister group of *Melanosteus* consist the discussion of Lelièvre *et al*. (1987) and supported by Xue et al. (2025, 2026). Rücklin 
+> - **Remarks.** Gross (1932) originally described *Rhinosteus parvulus* and assigned it to Pachyosteidae. Stensiö (1963) subsequently provided a new reconstruction of *Rhinosteus parvulus* and erected the family Rhinosteidae to accommodate *Rhinosteus* and *Stenosteus*. Denison (1978), however, did not follow Stensiö's (1963) classification and instead assigned *Rhinosteus* to Selenosteidae. Lelièvre et al. (1987) followed this assignment and discussed the phylogenetic relationships of selenosteids, recovering *Rhinosteus* as the sister taxon of *Melanosteus*. Carr (1994) subsequently conducted a phylogenetic analysis of Selenosteidae, recovering *Rhinosteus* as the sister taxon of a clade comprising *Melanosteus* and *Gymnotrachelus*. Zhu et al. (2016) included a broader range of arthrodires in their phylogenetic analysis and recovered *Rhinosteus* within Selenosteidae as the sister taxon of *Melanosteus*, consistent with the hypothesis of Lelièvre et al. (1987). This relationship was also recovered in subsequent analyses by Xue et al. (2025, 2026). In contrast, Rücklin et al. (2015) recovered *Rhinosteus* near the base of Selenosteidae, a placement also supported by subsequent analyses of Jobbins et al. (2022, 2024, 2025).
+
+Rücklin (2010) described additional material from Morocco that resembles *Rhinosteus parvulus* and provisionally referred it to *Rhinosteus* cf. *parvulus*. He also included this material in a phylogenetic analysis of Selenosteidae, recovering it as the sister taxon of *Melanosteus*.
 > - **References.** Stensiö, 1963; Denison 1978; [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/260808).
 
 [*Rolfosteus canningensis*](https://deepbone.cn/public/#/explor?s_id=2217&functionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1979b
@@ -1331,7 +1333,10 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > **Geological range.** upper Famennian, 363.3, 358.9
 
 > **Occurrence.** Cleveland Shale Member, Ohio Shale Formation, Ohio, USA.
-> - Carr, 1996; [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/260808).
+> **Holotype and referred specimens.** See Carr (1996).
+> **Diagnosis.** See Carr (1996).
+> **Remarks.** Dean (1901) originally erected the genus *Stenosteus* to accommodate one of two aspinothoracid arthrodires (sensu Miles and Dennis, 1979) from the Cleveland Shale of Ohio, namely *Stenosteus glaber*. The other species, *Selenosteus brevis*, was assigned to *Selenosteus*. Each species was originally based on a single specimen preserved in part and counterpart. Their taxonomic assessment was therefore hampered by the lack of additional material and the poor preservation of the holotypes. Carr (1996) subsequently described a new species, *Stenosteus angustopectus*, from the Cleveland Shale. This additional material provided the basis for a reassessment of the holotypes of *Selenosteus brevis* and *Stenosteus glaber*. Following this reassessment, *Stenosteus* and *Selenosteus* were retained as distinct genera.
+> - **References.** Carr, 1996; [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/260808).
 
 [*Szelepis yunnanensis*](https://deepbone.cn/public/#/explor?s_id=2121&functionId=Deepbone_header_searchResultOpen) Liu, 981
 > **Geological range.** upper Lochkovian, 415.0, 410.8
@@ -1360,20 +1365,20 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - **Reference.** [Young and Goujet, 2003](https://d1wqtxts1xzle7.cloudfront.net/88066795/SuppWAMuseum_2003_65_01to85_YOUNGetal-libre.pdf?1656454034=&response-content-disposition=inline%3B+filename%3DComparacion_de_tecnicas_de_elastografia.pdf&Expires=1723737432&Signature=ImvTtuhchSwE0Ks0RGL8~fb3sYwL383Bal94CrYC~uM6GCK-t52K7Fq7Mha11wC-OQYkCnqYK3YJx~i5Cz4a8tIVP0KYfmKaSNvxUSo8sO0yiVjInkxfDoi7fwcFDYXHHtlSMlvhwf~ExaAOuBxua4hbON-tf8MNmQvOYsiGOirUz6W49NruAy9GZNpU871sm6BkTlVBnnohyhRTIw-BHqfwuUSMc99eJ~Uy~AlAjw05bD-cvv47pYq9-fHOxAAaYdDWDdlKBlpM0-hhoydmfU4b-Q5YofZGU8ZqGmgWp3ElC8KcPBc3AB9moesu5nLQmBAQEzrbUsjVwUVgVt1ggw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 
 [*Torosteus tuberculatus*](https://deepbone.cn/public/#/explor?s_id=2192&functionId=Deepbone_header_searchResultOpen) Gardiner and Miles, 1990
-> lower Frasnian, 382.7, 379.2
+> **Geological range.** lower Frasnian, 382.7, 379.2
 
-> East Gondwanan
-
-> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
-> - [Gardiner and Miles, 1990](https://academic.oup.com/zoolinnean/article-abstract/99/2/159/2645532).
+> - **Occurrence.** Gogo Formation; Canning Basin, Australia. -17.75, 125.17
+> - **Holotype and referred specimens.** See Gardiner and Miles (1990).
+> - **Diagnosis.** See Gardiner and Miles (1990).
+> - **Reference.** [Gardiner and Miles, 1990](https://academic.oup.com/zoolinnean/article-abstract/99/2/159/2645532).
 
 [*Torosteus pulchellus*](https://deepbone.cn/public/#/explor?s_id=2193&functionId=Deepbone_header_searchResultOpen) Gardiner and Miles, 1990
-> lower Frasnian, 382.7, 379.2
+> **Geological range.** lower Frasnian, 382.7, 379.2
 
-> East Gondwanan
-
-> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
-> - [Gardiner and Miles, 1990](https://academic.oup.com/zoolinnean/article-abstract/99/2/159/2645532).
+> - **Occurrence.** Gogo Formation; Canning Basin, Australia. -17.75, 125.17
+> - **Holotype and referred specimens.** See Gardiner and Miles (1990).
+> - **Diagnosis.** See Gardiner and Miles (1990).
+> - **Reference.** [Gardiner and Miles, 1990](https://academic.oup.com/zoolinnean/article-abstract/99/2/159/2645532).
 
 [*Trematosteus fontanellus*](https://deepbone.cn/public/#/explor?s_id=2241&functionId=Deepbone_header_searchResultOpen) Gross, 1932
 > **Geological range.** upper Frasnian, 375.7, 372.2
