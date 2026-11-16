@@ -1078,7 +1078,7 @@
 > - **Occurrence.** Its type material comes from the section of the Tsilma Fm on the Pechorskaya Pizhma River, where its remains were also recorded from the Ust’-Chirka Fm.
 > - **Holotype and referred specimens.** See Ivanov (1989).
 > - **Diagnosis.** According to Ivanov (1989), the skull roof is relatively large, reaching 18–20 cm in length. The pineal plate is broad and extends posteriorly between the central plates. The central plates are broad, with well-developed posterior and lateral lobes. The postorbital plate contacts the paranuchal plate. The nuchal plate is relatively narrow, accounting for approximately 43% of the total skull-roof length, and bears slightly elongated posterolateral angles. Its anterior margin bears a pair of anteriorly directed processes. The middle pit-lines meet at the midline of the skull roof, and the supraorbital sensory grooves are continuous with the central sensory grooves. 
-> - **Remarks.** Obrucheva (1962) originally described specimens from the Frasnian of Timan as a new species, *Plourdosteus timanicus*. Ivanov (1989) subsequently redescribed these specimens and additional material from the same region, including a relatively complete skull roof. Based on detailed morphological comparisons, he recognised substantial differences between the Timanian species and other known species of *Plourdosteus*. Accordingly, he erected the new genus *Janiosteus* to accommodate *P. timanicus* and assigned it to Coccosteidae. Carr and Hlavin (2010) were the first to include *Janiosteus timanicus* in a phylogenetic analysis, recovering it as the sister taxon of *Panxiosteus* and consequently assigning *Janiosteus* to Panxiosteidae. Zhu and Zhu (2013) subsequently revised the matrix of Carr and Hlavin (2010) and incorporated *Plourdosteus* into their analysis. Their results placed *Janiosteus timanicus* in a polytomy involving *Panxiosteus* and *Plourdosteus*. This phylogenetic placement has also been recovered in subsequent analyses (Jobbins et al., 2022, 2024, 2025; Xue et al., 2025, 2026).
+> - **Remarks.** Obrucheva (1962) originally described specimens from the Frasnian of Timan as a new species, *Plourdosteus timanicus*. Ivanov (1989) subsequently redescribed these specimens and additional material from the same region, including a relatively complete skull roof. Based on detailed morphological comparisons, he recognised substantial differences between the Timanian species and other known species of *Plourdosteus*. Accordingly, he erected the new genus *Janiosteus* to accommodate *P. timanicus* and assigned it to Coccosteidae. Carr and Hlavin (1995) subsequently amended the diagnosis of Panxiosteidae and assigned *Janiosteus* to this family based on their cladistic analysis of dinichthyid arthrodires. Carr and Hlavin (2010) included *Janiosteus timanicus* in a phylogenetic analysis, recovering it as the sister taxon of *Panxiosteus*. Zhu and Zhu (2013) subsequently revised the matrix of Carr and Hlavin (2010) and incorporated *Plourdosteus* into their analysis. Their results placed *Janiosteus timanicus* in a polytomy involving *Panxiosteus* and *Plourdosteus*. This phylogenetic placement has also been recovered in subsequent analyses (Jobbins et al., 2022, 2024, 2025; Xue et al., 2025, 2026).
 > - **References.** [Ivanov, 1989]; [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
 
 [*Kendrickichthys cavernosus*](https://deepbone.cn/public/#/explor?s_id=2225&functionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1980
@@ -1213,7 +1213,7 @@
 > - **Holotype.** IVPP V 5166.1, a nearly complete skull roof, together with the parasphenoid and posterior superognathal.
 > - **Referred Specimens** IVPP V 5166.2–3, two suborbital plates; IVPP V 5166.4, a median dorsal plate; IVPP V 5166.5, a posterior ventrolateral plate; IVPP V 5166.7, an anterior median ventral plate; IVPP V 5166.8, the ventral lamina of an interolateral plate; IVPP V 5166.9, a postsuborbital plate with the quadrate; IVPP V 5166.10, an incomplete infragnathal plate; IVPP V 5166.11, a submedian dorsal plate; IVPP V 5166.12–14, three anterior superognathal plates; IVPP V 5166.15, a scapulocoracoid; IVPP V 5166.16–17, two pelvic girdles; IVPP V 5166.18–19, two neural arches; and IVPP V 5166.20, a fin ray.
 > - **Diagnosis.** According to Wang (1979) and our obversvation. The anteriorly projecting process of central plate is enlongate. The median suture between central plate is snious. The posterior lobe of central plate is enlongate. The anterior margin of nuchal plate is concave and the posterior margin is covex. The posteior nuchal process is small. The supraorbital sensory groove connects with central sensory groove. The anteior and posterior segments of posterior pit lines are separate. The ventral surface of skull roof bears bifurcate Postocular process. The posterior process of posterior superognathal plate articulates with the anterior margin of parasphenoid. The dorsal groove of the main lateral line is present on the median dorsal plate an posteior near the posterior margin. The ventral sensory groove in present on the anterior median ventral plate. The visceral surface of anterior median ventral plate bears T-shaped thickening.
-> - **Remark.**
+> - **Remark.** Wang (1979) originally described this species based on the holotype (IVPP V 5166.1) and referred specimens (IVPP V 5166.2–8). Additional specimens (IVPP V 5166.9–19), which had not been prepared or recognised at the time, were subsequently identified as belonging to this species by Wang but were not included in the published description. Wang (1979) suggested that the skull roof of *Panxiosteus* is similar to the family Pholidosteidae, but the suborbital plate is distincted from Pholidosteidae; the general shape fo parasphenoid is similar to the family Dinichthyidae, bu the morphology of posterior superognathal is disctintcted from Dinichthyidae. Accordingly, he erecred new family Panxiosteidae to include this genus and suggest it shoud assgined in the coccosteomorph level of Miles' (1969)s evolution successive levels. Vézina (1990) redescribed Plourdosteus canadensis and erected the family Plourdosteidae to include Plourdosteus, Panxiosteus, and several Gogo arthrodires. Carr (1995) retained family Panxiosteidae in his diversity analysis of placoderms. Carr and Hlavin (1995) amended the diagnosis of Panxiosteidae and assigned Janiosteus to this family based on their cladistic analysis of dinichthyid arthrodires. In the phylogenetic analysis of Trinajstic and Dennis-Bryan (2009) placed *Panxiosteus* as the sister group of *Janiosteus*, a assignment supported by Carr and Hlavin (2010). In the result of Zhu and Zhu (2013), Zhu et al. (2016) and Boyle et al. (2017), *Panxiosteus* is placed in the polytomy with *Janiosteus* and *Plourdosteus*. In the phylogenetic of Xue et al. (2025, 2026), *Panxiosteus* is placed as the sister group of *Plourdosteus*. Accordingly, Panxiosteidae include three genus *Janiosteus*, *Plourdosteus*, and *Panxiosteus*. In assinment of Panxiosteidae is uncertan under the phylogenetic analyses, which placed in the Dunkleosteoids by Trinajstic and Dennis-Bryan (2009), Carr and Hlavin (2010), Zhu and Zhu (2013), Jobbins et al. (2022, 2024, 2025); in the coccosteomorphi by Zhu et al. (2016), Boyle et al. (2017), Xue et al. (2025, 2026). 
 > - **References.** [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Wang, 1979.
 
 [*Parabelosteus acuticeps*](https://deepbone.cn/public/#/explor?s_id=2239&functionId=Deepbone_header_searchResultOpen) (Jaekel, 1919)
@@ -1231,7 +1231,7 @@
 > - **Occurrence.** Murrumbidgee Group, Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales, Australia.
 > - **Holotype and referrences.** See White and Toombs (1972); Young (1979).
 > - **Diagnosis.** See Young (1979).
-> - **Remark.** 
+> - **Remark.** White (1952) originally described this species as *Buchanosteus murrumbidgeensis*. White and Toombs (1972) subsequently erected the genus *Parabuchanosteus* to accommodate this species, based on distinctive features of the parasphenoid. Young (1979), following a morphological study of *Buchanosteus* based on additional material, regarded *Parabuchanosteus murrumbidgeensis* as a junior synonym of *Buchanosteus confertituberculatus* and consequently synonymised *Parabuchanosteus* with *Buchanosteus*. He also revised Buchanosteidae, restricting the family to *Buchanosteus*. Findlay (1996) subsequently reinstated *Parabuchanosteus* based on features of the parasphenoid and orbital musculature. Long et al. (2014) retained *Parabuchanosteus* and erected the new family Parabuchanosteidae, using characters of the anterior dorsolateral plate to diagnose the family. They also transferred several genera previously assigned to Buchanosteidae to Parabuchanosteidae.
 > - **References.** White and Toombs, 1972; [Young, 1979](https://academic.oup.com/zoolinnean/article-abstract/66/4/309/2664249)
 
 [*Paramylostoma arcualis*](https://deepbone.cn/public/#/explor?s_id=3575&functionId=Deepbone_header_searchResultOpen) Dunkle and Bungart, 1945
@@ -1274,12 +1274,13 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - **References.** Gross (1932); Denison (1978); Stensiö (1963).
 
 [*Plourdosteus canadensis*](https://deepbone.cn/public/#/explor?s_id=2659&functionId=Deepbone_header_searchResultOpen) (Woodward, 1892)
-> middle Frasnian, 379.2, 375.7
+> **Geological range.** middle Frasnian, 379.2, 375.7
 
-> Laurentia
-
-> - Escuminac Formation, Quebec, Canada
-> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Miles, 1966b; Schultze and Cloutier, 1996; [Vézina, 1986; 1988](https://cdnsciencepub.com/doi/abs/10.1139/e90-065).
+> - **Occurrence.** Escuminac Formation, Miguasha, Province of Quebec, Canada
+> - **Holotype and referred specimens.** See Schultze and Cloutier (1996) and Vézina (1986).
+> - **Diagnosis.** See Schultze and Cloutier (1996).
+> - **Remark.** Woodward (1892) originally described this species as *Coccosteus canadensis*. Ørvig (1951) subsequently erected the genus *Plourdosteus* to accommodate this species, distinguishing it from *Coccosteus* by the contact between the postorbital and the separation of the central and marginal plates. Vézina (1986, 1988, 1990) redescribed *Plourdosteus canadensis* and erected the family Plourdosteidae to include *Plourdosteus*, *Panxiosteus*, and several Gogo arthrodires. Carr and Hlavin (1995), however, did not follow this familial assignment. Based on their preliminary phylogenetic analysis of *Plourdosteus*, they suggested that the genus might belong to Panxiosteidae as the sister group of Dunkleosteidae. Schultze and Cloutier (1996) retained Vézina's (1990) classification of Plourdosteidae and discussed several characters distinguishing *Plourdosteus* from *Coccosteus*, including the shape of the infragnathal plate, details of the trunk-armour morphology, and the separation of the central and marginal plates. Trinajstic and Dennis-Bryan (2009) subsequently included *Plourdosteus* in a phylogenetic analysis, recovering it as the sister taxon of a clade comprising *Panxiosteus* and *Janiosteus*. In the analyses of Zhu and Zhu (2013), Zhu et al. (2016), and Boyle et al. (2017), *Plourdosteus* was recovered in a polytomy involving *Panxiosteus* and *Janiosteus*. More recently, Xue et al. (2025, 2026) recovered *Plourdosteus* as the sister taxon of *Panxiosteus*. Collectively, these phylogenetic results indicate a close relationship among *Plourdosteus*, *Panxiosteus*, and *Janiosteus*. Given their close phylogenetic affinities and the earlier establishment of Panxiosteidae by Wang (1979), we follow the classification of Panxiosteidae and assign *Plourdosteus* to this family rather than retaining it in Plourdosteidae (Vézina, 1990).
+> - **References.** [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Miles, 1966b; Schultze and Cloutier, 1996; [Vézina, 1986; 1988](https://cdnsciencepub.com/doi/abs/10.1139/e90-065).
 
 [*Potangaspis parvoculatus*](https://deepbone.cn/public/#/explor?s_id=2721&functionId=Deepbone_header_searchResultOpen) Zhu *et al* 2010
 > **Geological range.** lower Emsian, 407.6, 400.45
@@ -1289,33 +1290,33 @@ Denison (1978) assgined *Pholidosteus*, *Malerosteus*, and *Tapinosteus* to the 
 > - **Referred specimens.** IVPP V 15050.2, a bone fragment of rostral plate.
 > - **Diagnosis.** See Zhu et al. (2010).
 > - **Remark.** In originally description, Zhu et al. (2010) interpreted specimen IVPP V 15050.2 as a fragment of bone preserving parts of the central and marginal plates. However, based on our examination, we interpret this element as a fragment of the rostral plate. The specimen bears a sensory groove extending laterally, which Zhu et al. (2010) identified as the postmarginal and main lateral sensory grooves. We instead interpret this groove as the supraorbital sensory groove. A similar lateral extending of the supraorbital sensory groove is also present in other antarctaspids, including *Yujiangosteus* and *Panjiangosteus*.
-> - [Zhu *et al*., 2010](https://www.vertpala.ac.cn/EN/abstract/abstract1259.shtml).
+> - **Reference.** [Zhu *et al*., 2010](https://www.vertpala.ac.cn/EN/abstract/abstract1259.shtml).
 
 [*Protitanichthys rockportensis*](https://deepbone.cn/public/#/explor?s_id=2437&functionId=Deepbone_header_searchResultOpen) Case, 1931
-> Lower Givetian, 387.7, 386.0
+> **Geological range.** Lower Givetian, 387.7, 386.0
 
-> Laurentia
-
-> - Rockport Quarry Limestone Formation, Michigan, USA
-> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Case, 1931; Miles, 1966b; [Stack and Sallan, 2018](https://peerj.com/articles/5636/#fig-1)
+> - **Occurrence.** Rockport Quarry Limestone Formation, Michigan, USA
+> - **Holotype and referred specimens.** See Miles (1966b).
+> - **Diagnosis.** See Miles (1966b).
+> - **References.** [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083); Case, 1931; Miles, 1966b; [Stack and Sallan, 2018](https://peerj.com/articles/5636/#fig-1)
 
 [*Rhachiosteus pterygiatus*](https://deepbone.cn/public/#/explor?s_id=169321&functionId=Deepbone_header_searchResultOpen) Gross, 1938
-> lower Frasnian, 382.7, 379.2
+> **Geological range.** lower Frasnian, 382.7, 379.2
 
-> Baltica
-
-> - Calcareous Flags, Bergisch-Gladbach, Germany.
-> - Gross, 1938; [Miles, 1966a](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/xvthe-placoderm-fish-rhachiosteus-pterygiatus-gross-and-its-relationships/018CEA078DEDCF04EF4BC8A8A9B6B59C).
-> - As Gross has stated, the exact place of origin of this specimen is not recorded and therefore its precise stratigraphical position is uncertain. However, it is undoubtedly from some part of the Upper or Lower
- Calcareous Flags (Plattenkalk), which are widely distributed in the Strunde valley near Cologne, and is of Upper Givetian or Lower Frasnian age.
+> - **Occurrence.** Calcareous Flags, Bergisch-Gladbach, Germany.
+> - **Holotype.** See Gross (1938).
+> - **Diagnosis.** See Miles (1966).
+> - **Remark.** Gross (1938) originally described *Rhachiosteus pterygiatus* based on a holotype from the Bergisch Gladbach region, although the precise locality of the specimen was not recorded. Stensiö (1963) subsequently erected the family Rhachiosteidae to accommodate *Rhachiosteus* and assigned it to Coccosteomorphi. Miles (1966a) retained Rhachiosteidae and redescribed *Rhachiosteus pterygiatus* based on the material described by Gross (1938). Noting that Stensiö (1963) had not provided a formal diagnosis of Rhachiosteidae, Miles (1966a) subsequently provided a formal diagnosis of the family, distinguished it from other arthrodire families by the absence of the posterior dorsolateral and posterior lateral plates. He further discussed the phylogenetic affinities of *Rhachiosteus*, regarding it as a pachyosteomorph brachythoracid and suggesting a possible close relationship with coccosteids. Denison (1978), however, did not follow Miles's (1966a) interpretation and instead assigned Rhachiosteidae to Coccosteoidea, based on similarities in the morphology of the nuchal, paranuchal, and central plates, as well as in the course of the sensory canals on the anterior dorsolateral plate, to those of coccosteids. Zhu et al. (2016) were the first to include *Rhachiosteus pterygiatus* in a phylogenetic analysis, recovering it near the base of Pachyosteomorphi. In the phylogenetic analyses of Xue et al. (2025, 2026), *Rhachiosteus pterygiatus* was recovered as the sister taxon of *Westralichthys*, within dunkleosteoids.
+> - **References.** Gross, 1938; [Miles, 1966a](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/xvthe-placoderm-fish-rhachiosteus-pterygiatus-gross-and-its-relationships/018CEA078DEDCF04EF4BC8A8A9B6B59C).
 
 [*Rhinosteus parvulus*](https://deepbone.cn/public/#/explor?s_id=2258&functionId=Deepbone_header_searchResultOpen) Jaekel, 1911
-> upper Frasnian, 375.7, 372.2
+> **Geological range.** upper Frasnian, 375.7, 372.2
 
-> Baltica
-
-> - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
-> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/260808); Stensiö, 1963.
+> - **Occurrence.** Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
+> - **Holotype and referred specimens.**
+> - **Diagnosis.** See Denison (1978).
+> - **Remarks.**
+> - **References.** Stensiö, 1963; Denison 1978; [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/260808).
 
 [*Rolfosteus canningensis*](https://deepbone.cn/public/#/explor?s_id=2217&functionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1979b
 > **Geological range.** lower Frasnian, 382.7, 379.2
