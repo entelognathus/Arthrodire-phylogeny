@@ -535,6 +535,23 @@
 > - **Diagnosis.** See Johnson et al, 2000.
 > - **References** [Johnson *et al*., 2000](https://academic.oup.com/zoolinnean/article/129/2/241/2682485).
 
+[*Alienacanthus malkowskii*](https://deepbone.cn/public/#/explor?s_id=172100&functionId=Deepbone_header_searchResultOpen) Kulczycki 1957
+> **Geological range.** middle Famennian, 367.7, 363.3
+
+> - **Occurrence.** Morocco: Jbel Debouâa, southern Tafilalt; Rich bel Ras and Madene El Mrakib, Maider Basin. Poland: Ostrówka quarry, near Gałezice, Kowala Quarry, western Holy Cross Mountains.
+> - **Holotype and referred specimens.** See Jobbins et al. (2024).
+> - **Diagnosis.** See Jobbins et al. (2024).
+> - **Remarks.** This species was originally described by Kulczycki (1957) based on a specimen collected from the Holy Cross Mountains of Poland. Jobbins et al. (2024) subsequently redescribed the species based on the Polish material and additional specimens collected from the southern Tafilalt and Maïder Basin of Morocco. They also emended the diagnosis based on this newly documented material. In particular, they reinterpreted structures originally identified as large osseous spines as infragnathals (IGs) and demonstrated morphological similarities between the newly collected material and the holotype. Furthermore, they designated the two best-preserved specimens as epitypes to facilitate the identification and interpretation of the species. Their phylogenetic analysis recovered *Alienacanthus* within Selenosteidae.
+> - **References** [Jobbins et al., 2024](https://royalsocietypublishing.org/doi/full/10.1098/rsos.231747).
+
+[*Amazichthys_trinajsticae*](https://deepbone.cn/public/#/explor?s_id=169304&functionId=Deepbone_header_searchResultOpen) Jobbins et al., 2022
+> **Geological range.** middle Famennian, 367.7, 363.3
+
+> - **Occurrence.** Jebel Aoufilal, Rich Bou Kourazia, Rich Bel Ras, Madene El Mrakib, and Khrabis (Eastern Anti-Atlas, Morocco).
+> - **Holotype and referred specimens.** See Jobbins et al. (2022).
+> - **Diagnosis.** See Jobbins et al. (2022).
+> - **References** [Jobbins et al., 2022](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2022.969158/full).
+
 [*Anarthraspis spp*](https://deepbone.cn/public/#/explor?s_id=2169&functionId=Deepbone_header_searchResultOpen) (Bryant, 1934)
 > **Occurrence.** Pragian, 410.8, 407.6
 
@@ -571,7 +588,6 @@
 > - **Diagnosis.** See Goujet (1984).
 > - **Remarks.** Heintz (1929b) erected *Arctolepis solnordali* based on a single, incompletely prepared cranial roof (PMO B099), distinguishing it from *A. decipiens* primarily by the greater depth of the orbital notches, together with several additional features, including the shape of the rostral plate, the orientation of the preorbitocentral suture, and the course of the supraorbital sensory groove. Goujet (1984), however, re-examined these characters and concluded that they resulted largely from incomplete preparation and misinterpretation of the specimen. In particular, the apparent orbital margins were shown to represent the mesial boundary of the supraocular area rather than the true orbital margin, whereas the seemingly enlarged pineal opening corresponded to the truncated infilling of the dermal pineal pit. Furthermore, several of the original diagnostic features had already been revised by Heintz himself (1962). As no consistent morphological differences could be identified between *A. solnordali* and *A. decipiens*, and given their occurrence from the same locality and comparable preservational conditions, Goujet (1984) regarded *A. solnordali* as a junior synonym of *A. decipiens*. Goujet (1984) considered that the postnasal of *Arctolepis* is absent and suggested that the postnasal in *Dicksonosteus*, *Heintzosteus*, and *Arctolepis* had a marked tendency toward progressive reduction.
 > - **References.** [Goujet, 1984](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9046910).
-
 
 [*Arenipiscis westolli*](https://deepbone.cn/public/#/explor?s_id=164607&functionId=Deepbone_header_searchResultOpen) Young, 1981
 > **Geological range.** Emsian, 407.6, 393.3 
@@ -773,6 +789,22 @@
 > - **Remarks.** *Dinichthys herzeri* was first established by Newberry (1868) based on an incomplete nuchal plate and mandibular elements (holotype AMNH 81 and paratype AMNH 7300). Subsequently, numerous large eubrachythoraci arthrodires were referred to this genus, including taxa that are now assigned to *Brachygnathus*, *Clarkeosteus*, *Dunkleosteus*, *Eastmanosteus*, *Gorgonichthys*, *Heintzichthys*, *Homostius*, *Hussakofia*, *Plourdosteus*, *Protitanichthys*, *Rhenonema*, and *Titanichthys*. As studies on arthrodire diversity progressed, many of these species were gradually removed from *Dinichthys* and reassigned to their own genera, substantially restricting the taxonomic scope of the genus. Lehman (1956) erected the genus *Dunkleosteus* to accommodate several species previously referred to *Dinichthys*. Following this taxonomic revision, Stensiö (1969) suggested that *Dinichthys* might represent a nomen nudum. However, Hlavin (1973, 1976) rejected this interpretation and argued that *Dinichthys herzeri* constitutes a valid taxon based on the holotype (AMNH 81) and paratype (AMNH 7300), noting that the genus satisfies the requirements of the International Code of Zoological Nomenclature. Denison (1978) similarly did not accept Stensiö’s interpretation and retained *Dinichthys* as a valid genus, although he restricted it to the type species, *Dinichthys herzeri*. Carr and Hlavin (2010) followed the taxonomic treatment of Denison (1978) and retained *Dinichthys* as a valid genus restricted to the type species, *Dinichthys herzeri*. 
 > - **Reference.** [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/2608083).
 
+[*Draconichthys elegans*](https://deepbone.cn/public/#/explor?s_id=3833&functionId=Deepbone_header_searchResultOpen) Rücklin et al. 2011
+> **Geological range.** upper Frasnian, 375.7, 372.2
+
+> - **Occurrence.** Nodular limestone horizon of the Kellwasser facies from Lahmida, Rheris basin.
+> - **Holotype.** See Rücklin et al. (2011). The species is known only from the holotype, which preserves a complete skull with gnathal elements and anteior part of trunk shield.
+> - **Diagnosis.** See Rücklin et al. (2011).
+> - **Reference.** Rücklin, 2011](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2010.01026.x).
+
+[*Driscollaspis pankowskiorum*](https://deepbone.cn/public/#/explor?s_id=3841&functionId=Deepbone_header_searchResultOpen)
+> **Geological range.** Frasnian, 382.7, 372.2
+
+> - **Occurrence.** Kellwasser horizon in the eastern Anti-Atlas, Morocco.
+> - **Holotype.** See Rücklin et al. (2015). The species is known only from the holotype, which preserves an incomplete head shield.
+> - **Diagnosis.** See Rücklin et al. (2015).
+> - **Reference.** [Rücklin, 2011](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2010.01026.x).
+
 [*Dunkleosteus amblyodoratus*](https://deepbone.cn/public/#/explor?s_id=2454&functionId=Deepbone_header_searchResultOpen) Carr and Hlavin, 2010
 > **Geological range.** Frasnian or Famennian, 382.7, 358.9
 
@@ -854,6 +886,15 @@
 > - **Diagnosis.** See See Dupret 2007.
 > - **Remarks.** Stensiö (1945) described the endocranial anatomy of *Kujdanowiaspis* and briefly described a partial skull roof as a new species of the genus, *Kujdanowiaspis zychi*. However, Denison (1978) subsequently regarded *K. zychi* as a nomen nudum. Following a detailed study of the Podolian actinolepid material, Dupret et al. (2007) concluded that this species could not be assigned to *Kujdanowiaspis* and accordingly erected the new genus *Erikeaspis* to accommodate it.
 > - **References.** Stensiö, 1945; [Dupret *et al*., 2007](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2007)27%5B266:ANGOPA%5D2.0.CO;2).
+
+[*Enseosteus marocanensis*](https://deepbone.cn/public/#/explor?s_id=3834&functionId=Deepbone_header_searchResultOpen) Rücklin et al. 2011
+> **Geological range.** upper Frasnian, 375.7, 372.2
+
+> - **Occurrence.** The holotype is from a nodular limestone horizon of the Kellwasser facies from Achguig south-west, Tafilalt Basin. The paratypes are from Oued Talilit, at the transition from the Tafilalt Platform to the Mader Basin.
+> - **Holotype and referred specimens.** See Rücklin et al. (2011).
+> - **Diagnosis.** See Rücklin et al. (2011).
+> - **Remarks.** *Enseosteus* was originally erected by Jaekel (1919) for arthrodire material from the Upper Devonian of Bad Wildungen, Germany, although no detailed description of the genus was provided. Gross (1932) subsequently formally described the type species, *E. jaekeli*, and tentatively referred an additional specimen from Göttingen to this species, pending the discovery of further material that would allow its intraspecific variation to be assessed. Gross (1932) also noted the lack of significant morphological differences between *Enseosteus* and the material subsequently assigned to *Ottonosteus*. Stensiö (1963), based on differences in pectoral girdle morphology, recognised *Walterosteus pachyostoides* and *Ottonosteus hermanni* as distinct species represented by specimens from Bad Wildungen. He subsequently provided new reconstructions of both species and assigned *Walterosteus*, *Ottonosteus*, and *Enseosteus* to Pachyosteidae. Stensiö (1963) further noted that *Ottonosteus* most closely resembled *Enseosteus* in the pattern of the exoskeletal skull roof, although differences in the morphology of the nuchal and preorbital plates could be recognised. Denison (1978) subsequently synonymised *Walterosteus pachyostoides* and *Ottonosteus hermanni* with *Enseosteus*, and referred *Enseosteus* to the Family Selenosteidae. Rücklin et al. (2011) followed Denison's synonymy of *Ottonosteus* but reinstated *Walterosteus* as a valid genus, distinguishing it from *Enseosteus* by the contact between the rostral and pineal plates. They also described *Enseosteus marocanensis* from the Frasnian of the eastern Anti-Atlas, Morocco.
+> - **Reference.** [Rücklin, 2011](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2010.01026.x).
 
 [*Erromenosteus inflatus*](https://deepbone.cn/public/#/explor?s_id=3565&functionId=Deepbone_header_searchResultOpen) (Stensiö, 1963)
 > **Geological range.** upper Frasnian, 375.7, 372.2
@@ -1350,10 +1391,10 @@ Rücklin (2010) described additional material from Morocco that resembles *Rhino
 [*Stenosteus angustopectus*](https://deepbone.cn/public/#/explor?s_id=2457&functionId=Deepbone_header_searchResultOpen) Carr, 1996
 > **Geological range.** upper Famennian, 363.3, 358.9
 
-> **Occurrence.** Cleveland Shale Member, Ohio Shale Formation, Ohio, USA.
-> **Holotype and referred specimens.** See Carr (1996).
-> **Diagnosis.** See Carr (1996).
-> **Remarks.** Dean (1901) originally erected the genus *Stenosteus* to accommodate one of two aspinothoracid arthrodires (sensu Miles and Dennis, 1979) from the Cleveland Shale of Ohio, namely *Stenosteus glaber*. The other species, *Selenosteus brevis*, was assigned to *Selenosteus*. Each species was originally based on a single specimen preserved in part and counterpart. Their taxonomic assessment was therefore hampered by the lack of additional material and the poor preservation of the holotypes. Carr (1996) subsequently described a new species, *Stenosteus angustopectus*, from the Cleveland Shale. This additional material provided the basis for a reassessment of the holotypes of *Selenosteus brevis* and *Stenosteus glaber*. Following this reassessment, *Stenosteus* and *Selenosteus* were retained as distinct genera.
+> - **Occurrence.** Cleveland Shale Member, Ohio Shale Formation, Ohio, USA.
+> - **Holotype and referred specimens.** See Carr (1996).
+> - **Diagnosis.** See Carr (1996).
+> - **Remarks.** Dean (1901) originally erected the genus *Stenosteus* to accommodate one of two aspinothoracid arthrodires (sensu Miles and Dennis, 1979) from the Cleveland Shale of Ohio, namely *Stenosteus glaber*. The other species, *Selenosteus brevis*, was assigned to *Selenosteus*. Each species was originally based on a single specimen preserved in part and counterpart. Their taxonomic assessment was therefore hampered by the lack of additional material and the poor preservation of the holotypes. Carr (1996) subsequently described a new species, *Stenosteus angustopectus*, from the Cleveland Shale. This additional material provided the basis for a reassessment of the holotypes of *Selenosteus brevis* and *Stenosteus glaber*. Following this reassessment, *Stenosteus* and *Selenosteus* were retained as distinct genera.
 > - **References.** Carr, 1996; [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/260808).
 
 [*Szelepis yunnanensis*](https://deepbone.cn/public/#/explor?s_id=2121&functionId=Deepbone_header_searchResultOpen) Liu, 981
@@ -1384,7 +1425,6 @@ Rücklin (2010) described additional material from Morocco that resembles *Rhino
 
 Newberry (1885) originally assigned *Titanichthys* to the family Dinichthyidae. Dean (1909) subsequently erected the family Titanichthyidae to accommodate *Titanichthys*. Denison (1978) retained Titanichthyidae but assigned it to Pachyosteina incertae sedis. Boyle and Ryan (2017) included *Titanichthys* in a phylogenetic analysis for the first time, recovering it within Aspinothoraci as the sister taxon of *Bungartius*.
 > - **References.** Newberry, 1885; Eastman, 1907; 
-
 
 [*Titanichthys clarki*](https://deepbone.cn/public/#/explor?s_id=3591&functionId=Deepbone_header_searchResultOpen) Newberry, 1987
 > **Geological range.** upper Famennian, 363.3, 358.9
@@ -1454,6 +1494,20 @@ Newberry (1885) originally assigned *Titanichthys* to the family Dinichthyidae. 
 > - **Remark.** The pineal region of *Turrisaspis* comprises two plates: a broad anterior pineal plate and a small posterior pineal plate. The sensory groove pattern of *Turrisaspis* is unusual among arthrodires. The supraorbital sensory groove reappears posterior to the midpoint of the central plate and extends onto the paranuchal plate, approaching the posterior end of the main lateral-line groove. The central sensory groove is short and does not extend onto the central plate.
 > - **Reference.** [Daeschler, Frumes and Mullison, 2003](https://media.australian.museum/media/Uploads/Journals/17953/1374_complete.pdf).
 
+[*Walterosteus grossi*](https://deepbone.cn/public/#/explor?s_id=3837&functionId=Deepbone_header_searchResultOpen)
+> **Geological range.** upper Frasnian, 375.7, 372.2
+
+> - **Occurrence.** Kellwasserkalk Formation, Bad Wildungen Hessen, Germany.
+> - **Holotype and referred specimens.**
+> - [Rücklin, 2011](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2010.01026.x).
+
+[*Walterosteus lelievrei*](https://deepbone.cn/public/#/explor?s_id=3838&functionId=Deepbone_header_searchResultOpen)
+> upper Frasnian, 375.7, 372.2
+
+> NW Gondwana
+
+> - Tafilalt Basin, Morocco.
+> - [Rücklin, 2011](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2010.01026.x).
 [*Watsonosteus fletti*](https://deepbone.cn/public/#/explor?s_id=2435&functionId=Deepbone_header_searchResultOpen) Watson, 1932
 > **Geological range.** middle Givetian, 386.0, 384.4
 
@@ -1529,53 +1583,6 @@ Newberry (1885) originally assigned *Titanichthys* to the family Dinichthyidae. 
 
 ## Arthrodire taxa not used in the analysis
 ### To be added from Jobbins et al., 2024
-[*Alienacanthus malkowskii*](https://deepbone.cn/public/#/explor?s_id=172100&functionId=Deepbone_header_searchResultOpen) Jobbins et al., 2024
-> middle Famennian, 367.7, 363.3
-
-> NW Gondwana
-
-> - Maider Basin, Morocco
-> - [Jobbins et al., 2024](https://royalsocietypublishing.org/doi/full/10.1098/rsos.231747).
-
-[*Amazichthys_trinajsticae*](https://deepbone.cn/public/#/explor?s_id=169304&functionId=Deepbone_header_searchResultOpen) Jobbins et al., 2022
-> middle Famennian, 367.7, 363.3
-
-> NW Gondwana
-
-> - Jebel Ouaoufilal, Morocco
-> - [Jobbins et al., 2022](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2022.969158/full)
-
-[*Draconichthys elegans*](https://deepbone.cn/public/#/explor?s_id=3833&functionId=Deepbone_header_searchResultOpen)
-> upper Frasnian, 375.7, 372.2
-
-> NW Gondwana
-
-> - Tafilalt Basin, Morocco.
-> - [Rücklin, 2011](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2010.01026.x).
-
-[*Driscollaspis pankowskiorum*](https://deepbone.cn/public/#/explor?s_id=3841&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, 382.7, 372.2
-
-> NW Gondwana
-
-> - Kellwasser horizon in the eastern Anti-Atlas, Morocco
-> - [Rücklin *et al*., 2015](https://www.tandfonline.com/doi/abs/10.1080/02724634.2014.908896)
-
-[*Enseosteus marocanensis*](https://deepbone.cn/public/#/explor?s_id=3834&functionId=Deepbone_header_searchResultOpen)
-> upper Frasnian, 375.7, 372.2
-
-> NW Gondwana
-
-> - Tafilalt Basin, Morocco.
-> - [Rücklin, 2011](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2010.01026.x).
-
-[*Selenosteus brevis*](https://deepbone.cn/public/#/explor?s_id=3576&functionId=Deepbone_header_searchResultOpen) 
-> upper Famennian, 363.3, 358.9
-
-> Laurentia
-
-> - Ohio Shale Formation, Ohio, U.S.A.
-> - [Denison, 1978].
 
 [*Walterosteus pachyosteides*](https://deepbone.cn/public/#/explor?s_id=172137&functionId=Deepbone_header_searchResultOpen)
 > upper Frasnian, 375.7, 372.2
@@ -1585,21 +1592,6 @@ Newberry (1885) originally assigned *Titanichthys* to the family Dinichthyidae. 
 > - Kellwasserkalk Formation, Bad Wildungen Hessen, Germany.
 > - [Rücklin, 2011](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2010.01026.x).
 
-[*Walterosteus grossi*](https://deepbone.cn/public/#/explor?s_id=3837&functionId=Deepbone_header_searchResultOpen)
-> upper Frasnian, 375.7, 372.2
-
-> Baltica
-
-> - Kellwasserkalk Formation, Bad Wildungen Hessen, Germany.
-> - [Rücklin, 2011](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2010.01026.x).
-
-[*Walterosteus lelievrei*](https://deepbone.cn/public/#/explor?s_id=3838&functionId=Deepbone_header_searchResultOpen)
-> upper Frasnian, 375.7, 372.2
-
-> NW Gondwana
-
-> - Tafilalt Basin, Morocco.
-> - [Rücklin, 2011](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2010.01026.x).
 
 ### To be added from Dupret et al., 2017
 [*Aethaspis major*](https://deepbone.cn/public/#/explor?s_id=2492&functionId=Deepbone_header_searchResultOpen) Denison, 1958
@@ -1968,6 +1960,12 @@ Newberry (1885) originally assigned *Titanichthys* to the family Dinichthyidae. 
 > - B22 beds, Guanshanpo Formation, Pingyipu Group; Ganxi, Beichuan County, Sichuan Province, China.
 > - [Wang, 1988 in Hou et al. 1988]
 
+[*Selenosteus brevis*](https://deepbone.cn/public/#/explor?s_id=3576&functionId=Deepbone_header_searchResultOpen) Claypole, 1869
+> *Geological range.** upper Famennian, 363.3, 358.9
+
+> - **Occurrence.** Ohio Shale Formation, Ohio, U.S.A.
+> - **Holotype and referred specimens.**
+> - [Denison, 1978].
 ## References
 
 Andrews, S. M. (1978). A possible occurrence of *Remigolepis* in the topmost Old Red Sandstone of Berwickshire. *Scottish Journal of Geology*, **14**(4), 311-315. 
