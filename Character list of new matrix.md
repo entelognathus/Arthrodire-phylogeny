@@ -1841,7 +1841,8 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 >  Lelièvre *et al.* (1981).
 
 395.  Lingual fossa (medial fossae in Lelièvre *et al.*, 1981) on the infragnathal bone: absent (0); present (1).
->  -  This character is present in dunkleosteus, such as *Dunkleosteus* and *Golshanichthys*.
+>  -  Lebedev et al. (2023) discussed the general morphology and terminology of the gnathal bones in dunkleosteid arthrodires, recognising three principal structures on the lingual surface of the oral division of the infragnathal: the lingual fossa, the Meckelian contact area, and the anterior process of the adductor division. The latter two structures are widely present in the infragnathals of arthrodires. The Meckelian contact area forms a groove on the ventral surface of the oral division. The lingual fossa is located on the lingual surface, between the symphyseal odontoid and the posterior corner, and sometimes forms a slight swelling that overhangs this region. According to Lebedev et al. (2023), this structure is restricted to dunkleosteid arthrodires, including *Dunkleosteus*, *Elmosteus*, and *Golshanichthys*. The lingual fossa is generally divided into anterior and posterior portions by a buttress extending along the intermediate odontoid. The anterior process of the adductor division is situated between the lingual fossa and the Meckelian contact area. Its surface is smooth and slightly concave, whereas this structure is absent or poorly developed in coccosteomorph arthrodires.
+>  -  <img width="459" height="204" alt="image" src="https://github.com/user-attachments/assets/9e3eebaa-8808-4e8f-80a5-cbdfbbab4e5f" />
 
 396.  Semicircular ridge bound posteriorly to the pineal pit on the visceral surface of the pineal plate: absent (0); present (1),
 >  -  This character is present in some pachyosteomorph arthrodires, such as *Dunklesoteus*, *Eastmanosteus*, and *Titanichthys*.
@@ -2196,6 +2197,8 @@ separate, this character is scored as 'not applicable'.
 > - In anitarchs, the spiracular notch is positioned between lateral, submarginal, and prelateral plates.
 
 517. Mixilateral plate: absent (0); present (1).
+
+518. Intermediate odontoid: absent (0); present (1). 
 
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
