@@ -828,6 +828,15 @@
 > - **Remarks.** Hunt and Young (2010) tentatively assigned *Edgellaspis* to Arthrodira and suggested a possible affinity with actinolepids based on the morphology of its dermal trunk plates. However, because the skull roof of *Edgellaspis* exhibits a combination of characters seen in Antarctaspididae and Wuttagoonaspidae, they did not assign the genus to either family.  
 > - **Reference.** [Hunt and Young, 2011](https://www.tandfonline.com/doi/abs/10.1080/03115511003793645) 
 
+[*Elmosteus lundarensis*](https://deepbone.cn/public/#/explor?s_id=178345&return_to=%2Fexplor&return_y=0) (Hanke et al., 1996)
+> **Geological range.** late Eifelian to early Givetian, 389.6, 386.0
+
+> - **Occurrence.** Lily Bay East Quarry, LaFarge Quarry, and Faulkner Quarry, Elm Point Formation, and The Narrows Quarry, Winnipegosis Formation, Manitoba, Canada.
+> - **Holotype and referred referrences.** See Jobbins et al. (2025).
+> - **Diagnosis.** See Jobbins et al. (2025)
+> - **Remarks.** Hanke et al. (1996) originally described this species as *Eastmanosteus lundarensis*. Jobbins et al. (2025) subsequently redescribed the species and erected the new genus *Elmosteus* to accommodate it.
+> - **Reference.** [Jobbins et al. (2025)](https://www.tandfonline.com/doi/abs/10.1080/14772019.2025.2511879). 
+
 [*Elvaspis tuberculata*](https://deepbone.cn/public/#/explor?s_id=2421&functionId=Deepbone_header_searchResultOpen) Young 2009
 > **Geological range.** Emsian, 407.6, 393.3
 
@@ -846,14 +855,23 @@
 > - **Remarks.** Stensiö (1945) described the endocranial anatomy of *Kujdanowiaspis* and briefly described a partial skull roof as a new species of the genus, *Kujdanowiaspis zychi*. However, Denison (1978) subsequently regarded *K. zychi* as a nomen nudum. Following a detailed study of the Podolian actinolepid material, Dupret et al. (2007) concluded that this species could not be assigned to *Kujdanowiaspis* and accordingly erected the new genus *Erikeaspis* to accommodate it.
 > - **References.** Stensiö, 1945; [Dupret *et al*., 2007](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2007)27%5B266:ANGOPA%5D2.0.CO;2).
 
-[*Erromenosteus inflatus*](https://deepbone.cn/public/#/explor?s_id=3565&functionId=Deepbone_header_searchResultOpen) Stensiö, 1963
+[*Erromenosteus inflatus*](https://deepbone.cn/public/#/explor?s_id=3565&functionId=Deepbone_header_searchResultOpen) (Stensiö, 1963)
 > **Geological range.** upper Frasnian, 375.7, 372.2
 
 > - **Occurrence.** Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
 > - **Holotype and referred specimens.** See Stensiö, 1963.
-> - **Diagnosis.** Nuchal plate triangular, with a strongly pointed anterior margin. Preorbital plates not embaying the central plate. Suborbital plate lacking sensory grooves. Two branches of the posterior pit-line continuous across the central and paranuchal plates.
+> - **Diagnosis.** The nuchal plate is triangular, with a strongly pointed anterior margin. The preorbital plate does not embay the central plate. The suborbital plate lacks sensory grooves. The two branches of the posterior pit-line extend continuously across the central and paranuchal plates.
 > -  **Remarks.** Jaekel (1919) established *Erromenosteus* and *Menosteus* based on specimens preserving the skull roof and trunk armour. Gross (1932) subsequently redescribed Jaekel’s material and erected *Leiosteus* to accommodate specimens previously referred to *Menosteus*, as well as several skulls that Jaeckel had erroneously assigned to *Belosteus*, owing to the usual absence of the large, thin pineal plate, which leaves a conspicuous postpineal fenestra. Stensiö (1959) reappraised Gross’s material and erected *Paraleiosteus* to include *Leiosteus concavus*, based on differences in scapulocoracoid morphology. Subsequently, Stensiö (1963) established Leiosteidae to include Leiosteus and Paraleiosteus. However, Obruchev (1964) did not accept this assignment and instead erected Erromenosteidae to replace Leiosteidae. Miles (1969) considered that Leiosteidae did not warrant recognition as a separate family and should instead be assigned to Pachyosteidae. Denison (1978) retained Leiosteidae but revised the family substantially, recognizing only a single genus, *Erromenosteus*, and transferring species previously assigned to *Leiosteus* and *Paraleiosteus* to *Erromenosteus*. Leiosteidae displays several characters shared with Trematosteidae, including the fusion of preorbital and postnasal plates, the presence of a postpineal fenestra, a long and slender parasphenoid, and a high suborbital blade. Miles (1969) suggested that leiosteids retained several primitive characters, including an elongate submarginal plate, loose attachment of the cheek bones, and a weakly developed median dorsal keel and cranial process. These features are also widespread among trematosteids, they may instead support a closer affinity between leiosteids and trematosteids. Leiosteidae is characterized by the presence of a shallow depression surrounding the pineal plate, large central plates with an extensive contact with nuchal plate, and the medial ends of the supraorbital sensory grooves curving laterally.
 > -  **References.** Stensiö, 1963; Denison, 1978.
+
+[*Erromenosteus brachyrostris*](https://deepbone.cn/public/#/explor?s_id=3562&return_to=%2Ftop-search-list%3Fkeyword%3DErromenosteus%2520brachyrostris&return_y=0) (Stensiö, 1963)
+> **Geological range.** upper Frasnian, 375.7, 372.2
+
+> - **Occurrence.** Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
+> - **Holotype and referred specimens.** See Stensiö, 1963.
+> - **Diagnosis.** The nuchal plate is trapezoidal, with a straight anterior margin. The preorbital plates shallowly embay the central plate. The suborbital plate bears the suborbital branch of the infraorbital sensory groove. The two branches of the posterior pit-line are discontinuous across the central and paranuchal plates, respectively.
+> - **Remarks.** This species was originally described by Stensiö (1963) and assigned to ?*Leiosteus*. Denison (1978) subsequently referred it to *Erromenosteus* and synonymised a specimen previously assigned to *Erromenosteus concavus* with this species.
+> - **References.** Stensiö, 1963; Denison, 1978.
 
 [*Eskimaspis heintzi*](https://deepbone.cn/public/#/explor?s_id=154182&functionId=Deepbone_header_searchResultOpen) Dineley and Liu 1984
 > **Geological range.** upper Lochkovian, 415.0, 410.8
@@ -1355,6 +1373,24 @@ Rücklin (2010) described additional material from Morocco that resembles *Rhino
 > - **Diagnosis.** See Stensiö, 1963 and Denison, 1978.
 > - **Remark.** The genus *Tapinosteus* was first metioned by Stensiö (1959) and subsequently described in detail by Stensiö (1963), with particular emphasis on the endocranium. *Tapinosteus heintzi* was formally established by Stensiö (1963). Stensiö (1963) considered *Tapinosteus* to be closely allied to *Phlidosteus* and assigned it to the coccosteomorph family Pholidosteidae. Denison (1978) subsequently followed this assignment and erected the Coccosteoidea, including Coccosteidae, Pholidosteidae, and Rachiosteidae. However, in the phylogenetic analysis of Zhu et al. (2016), *Tapinosteus heintzi* was nested at the base of aspinothoracids, a derived clade of pachyosteomorph. This placement was subsequently supported by the phylogenetic analyses of Xue *et al.* (2025, 2026). Stensiö (1963) interpreted that the ventral linguiform process of *Tapinosteus* seems to be practically absent. The same conditon is rarely among eubrachythoracids and is only present in some selenosteids, including *Rhinosteus*, *Microsteus augusticeps* (Stensiö, 1963, figs. 100e, 101b), and *Melanosteus*. The coding of *Tapinosteus* in the matrix of Min Zhu et al. (2016) should also be revised. Character 159 ('pectoral dermal enclosure') is recoded from open to unknown (?) because the trunk armour of *Tapinosteus* is only known from incomplete median dorsal and anterior dorsolateral plates, precluding a reliable assessment of this feature. Character 209 ('development of cheek/skull roof overlap') is revised following the interpretation discussed for *Millerosteus*, as Stensiö (1963) considered *Tapinosteus* to possess a rigid sutural connection between the cheek bones and skull roof.
 > - **References.** See Stensiö (1963) and Denison (1978).
+
+[*Titanichthys clarki*](https://deepbone.cn/public/#/explor?s_id=3591&functionId=Deepbone_header_searchResultOpen) Newberry, 1987
+> **Geological range.** upper Famennian, 363.3, 358.9
+
+> - **Occurrence.** Cleveland Shale Member, Ohio Shale Formation, Ohio, USA.
+> - **Holotype and referred specimens.** 
+> - [Boyle and Ryan, 2017](https://www.cambridge.org/core/journals/journal-of-paleontology/article/new-information-on-titanichthys-placodermi-arthrodira-from-the-cleveland-shale-upper-devonian-of-ohio-usa/F9C6D35916E95652B86894AAF33D8DDF)
+> - In Boyle and Ryan (2017), the structures identified as the subglenoid process and the glenoid condyle appear to have been reversed in their description.
+> - Some automorphy of *Titianchthys* is list in **Character list of new matrix.md**。
+
+[*Titanichthys agassizi*](https://deepbone.cn/public/#/explor?s_id=3589&return_to=%2Ftop-search-list%3Fkeyword%3DTitanichthys%2520agassizi&return_y=0) Newberry, 1885
+> upper Famennian, 363.3, 358.9
+
+
+[*Tafilalichthys lavocati*](https://deepbone.cn/public/#/explor?s_id=3588&return_to=%2Ftop-search-list%3Fkeyword%3DTafilalichthys%2520lavocati&return_y=0) Lehman, 1954
+> upper Famennian, 363.3, 358.9
+
+
 
 [*Toombalepis tuberculata*](https://deepbone.cn/public/#/explor?s_id=2719&functionId=Deepbone_header_searchResultOpen) Young and Goujet, 2003
 > **Geological range.** late Emsian to early Eifelian, 410.8, 407.6
@@ -1895,14 +1931,6 @@ Rücklin (2010) described additional material from Morocco that resembles *Rhino
 
 > - South China
 > - [Liu, 1973](http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200905/t20090512_2386681.html)
-
-[*Titanichthys clarki*](https://deepbone.cn/public/#/explor?s_id=3591&functionId=Deepbone_header_searchResultOpen) Newberry, 1987
-> upper Famennian, 363.3, 358.9
-
-> - Cleveland Shale Member, Ohio Shale Formation, Ohio, USA.
-> - [Boyle and Ryan, 2017](https://www.cambridge.org/core/journals/journal-of-paleontology/article/new-information-on-titanichthys-placodermi-arthrodira-from-the-cleveland-shale-upper-devonian-of-ohio-usa/F9C6D35916E95652B86894AAF33D8DDF)
-> - In Boyle and Ryan (2017), the structures identified as the subglenoid process and the glenoid condyle appear to have been reversed in their description.
-> - Some automorphy of *Titianchthys* is list in **Character list of new matrix.md**。
 
 ## Addition taxa
 
