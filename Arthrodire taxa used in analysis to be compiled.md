@@ -1400,24 +1400,28 @@ Rücklin (2010) described additional material from Morocco that resembles *Rhino
 [*Turrisaspis elektor*](https://deepbone.cn/public/#/explor?s_id=2264&functionId=Deepbone_header_searchResultOpen) Daeschler, Frumes and Mullison, 2003
 > **Geological range.** Famennian, 372.2, 358.9
 
-> - **Occurrence.** Catskill Formation, Pennsylvania, USA
-> - [Daeschler, Frumes and Mullison, 2003](https://media.australian.museum/media/Uploads/Journals/17953/1374_complete.pdf).
+> - **Occurrence.** Catskill Formation, Pennsylvania, USA.
+> - **Holotype and referred specimens.** See Daeschler, Frumes and Mullison (2003).
+> - **Diagnosis.** See Daeschler, Frumes and Mullison (2003).
+> - **Remark.** The pineal region of *Turrisaspis* comprises two plates: a broad anterior pineal plate and a small posterior pineal plate. The sensory groove pattern of *Turrisaspis* is unusual among arthrodires. The supraorbital sensory groove reappears posterior to the midpoint of the central plate and extends onto the paranuchal plate, approaching the posterior end of the main lateral-line groove. The central sensory groove is short and does not extend onto the central plate.
+> - **Reference.** [Daeschler, Frumes and Mullison, 2003](https://media.australian.museum/media/Uploads/Journals/17953/1374_complete.pdf).
 
 [*Watsonosteus fletti*](https://deepbone.cn/public/#/explor?s_id=2435&functionId=Deepbone_header_searchResultOpen) Watson, 1932
-> middle Givetian, 386.0, 384.4
+> **Geological range.** middle Givetian, 386.0, 384.4
 
-> Laurentia
-
-> - Eday Flagstones, Orkney Isles, Scotland, UK
-> - [Miles and Westoll, 1963](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/ixtwo-new-genera-of-coccosteid-arthrodira-from-the-middle-old-red-sandstone-of-scotland-and-their-stratigraphical-distribution/74D793E505A096117B0A4826FF342A4C).
+> - **Occurrence.** Eday Flagstones, Orkney Isles, Scotland, UK
+> - **Holotype and referred specimens.** See Miles and Westoll (1963).
+> - **Diagnosis.** See Miles and Westoll (1963).
+> - **Remark.** Watson (1932) originally described this species as *Coccosteus fletti*. Obruchev (1934) subsequently suggested that *Coccosteus fletti* should be assigned to a new genus, an interpretation later supported by Ørvig (1957). Miles and Westoll (1963) redescribed the species based on Watson's specimens and newly collected material, and erected the new genus *Watsonosteus* to accommodate it.
+> - **Reference.** [Miles and Westoll, 1963](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/ixtwo-new-genera-of-coccosteid-arthrodira-from-the-middle-old-red-sandstone-of-scotland-and-their-stratigraphical-distribution/74D793E505A096117B0A4826FF342A4C).
 
 [*Westralichthys uwagedensis*](https://deepbone.cn/public/#/explor?s_id=2452&functionId=Deepbone_header_searchResultOpen) Long, 1987
-> Middle Famennian, 372.2, 363.3
+> **Geological range.** Middle Famennian, 372.2, 363.3
 
-> East Gondwanan
-
-> - Virgin Hills Formation, Canning Basin, Australia.
-> - [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/260808); [Long, 1987](https://www.researchgate.net/profile/John-Long-17/publication/257939064_A_new_dinichthyid_fish_Placodermi_Arthrodira_from_the_Upper_Devonian_of_Western_Australia_with_a_discussion_of_dinichthyid_interrelationships/links/0c960528c4492a9c0d000000/A-new-dinichthyid-fish-Placodermi-Arthrodira-from-the-Upper-Devonian-of-Western-Australia-with-a-discussion-of-dinichthyid-interrelationships.pdf).
+> - **Occurrence.** Virgin Hills Formation, Canning Basin, Australia.
+> - **Holotype and referred specimens.** See Long (1987).
+> - **Diagnosis.** See Long (1987).
+> - **References.** [Carr and Hlavin, 2010](https://academic.oup.com/zoolinnean/article/159/1/195/260808); [Long, 1987](https://www.researchgate.net/profile/John-Long-17/publication/257939064_A_new_dinichthyid_fish_Placodermi_Arthrodira_from_the_Upper_Devonian_of_Western_Australia_with_a_discussion_of_dinichthyid_interrelationships/links/0c960528c4492a9c0d000000/A-new-dinichthyid-fish-Placodermi-Arthrodira-from-the-Upper-Devonian-of-Western-Australia-with-a-discussion-of-dinichthyid-interrelationships.pdf).
 
 [*Wuttagoonaspis fletcheri*](https://deepbone.cn/public/#/explor?s_id=3621&functionId=Deepbone_header_searchResultOpen) Ritchie 1973
 > **Geological range.** Emsian, 407.6, 393.3
@@ -1437,7 +1441,7 @@ Rücklin (2010) described additional material from Morocco that resembles *Rhino
 > - **Remarks.** In the reconstruction of Wang (1992), the two branches of the posterior pit line are reconstructed as continuous. However, our examination of the specimen suggests that these branches are separate and do not form a continuous groove. Wang (1992) also interpreted the dermal preorbital process as absent and the anterior portion of the external mould of the preorbital plate is distinctly dorsally upturned, implying the presence of an anterior descending lamina of the preorbital plate. The pineal open of *Xiangshuiosteus* is large, a distinct condition in arthrodires.
 > - **References.** [Wang, 1992](https://www.vertpala.ac.cn/EN/abstract/abstract544.shtml)
 
-[*Xiantingosteus gracilis*]() 
+*Xiantingosteus gracilis*
 > **Geological range.** Upper Givetian, 384.37, 382.7
 
 > - **Occurrence.** Yidade Formation, Panxi, Huaning County, Yuxi Prefecture, Yunnan Province, China. South China block.
@@ -1458,12 +1462,13 @@ Rücklin (2010) described additional material from Morocco that resembles *Rhino
 > - **Reference.** [Dupret 2008](https://www.tandfonline.com/doi/abs/10.1671/0272-4634%282008%2928%5B12%3AANWPAF%5D2.0.CO%3B2)
 
 [*Yinostius marjor*](https://deepbone.cn/public/#/explor?s_id=73591&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1984
-> upper Emsian, 400.45, 393.3
+> **Geological range.** upper Emsian, 400.45, 393.3
 
-> South China
-
-> - Jiucheng Formation, Wuding, Yunnan, China
-> - [Zhu et al., 2016](https://academic.oup.com/zoolinnean/article/176/4/806/2449910); Wang and Wang, 1984.
+> - **Occurrence.** Jiucheng Formation, Wuding, Yunnan, China
+> - **Holotype.** IVPP V 7142, near complete internal mould of skull roof and trunk armour.
+> - **Diagnosis.** See Zhu et al. (2016).
+> - **Remark.** Wang and Wang (1984) firstly reported this species from the South China, which represents the first heterostiid outside Euramerica. Zhu et al. (2016) redescribed this species and including it in the phylogenetic analysis, recovering it as the sister group to *Heterostius*.
+> - **Reference.** [Zhu et al., 2016](https://academic.oup.com/zoolinnean/article/176/4/806/2449910); Wang and Wang, 1984.
 
 [*Yujiangolepis liujingensis*](https://deepbone.cn/public/#/explor?s_id=2722&functionId=Deepbone_header_searchResultOpen) Wang et al., 1998
 > **Geological range.** Pragian, 410.8 , 407.6
