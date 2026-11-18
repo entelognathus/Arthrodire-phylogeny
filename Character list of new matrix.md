@@ -124,34 +124,30 @@ yes, as are taxa with dorsal nostrils.
 > - In most placoderms, including petalichthyids, eubrachythoracids, and maxillate placoderms, the pineal or rostropineal plate is firmly fused to the surrounding skull roof. In some acanthothoracids, such as *Romundina*, *Arabosteus*, and *Kolymaspis*, the pineal plate is not firmly fused with the posterior region of the skull roof and remains separated from it. A similar condition is also present in some arthrodires, including *Kujdanowiaspis*, *Szelepis*, and *Buchanosteus*. In ptyctodonts, such as *Ctenurella*, *Meeksiella*, and *Rhamphodopsis*, the pineal plate is usually fused with the preorbital plates. An unusual condition occurs in *Austroptyctodus* and *Campbellodus*, in which the pineal plate is relatively small and does not completely fill the anterior concavity formed by the paired preorbital plates, remaining as a distinct, free element. A similar condition is also present in antiarchs, in which the pineal plate is positioned within the orbital fenestra and remains unfused with the surrounding skull roof.
 > - In those taxa without pineal plate, this character is scored as 'not applicable'.
 
-22.  Position of pineal plate: further anteriorly from orbits (0); same level as orbits (1).
-> Dupret *et al*. (2009), Character 6; Dupret *et al*. (2017), Character 6; Zhu *et al*. (2010), Character 6; Xue *et al*. (2025), Character 55.
+22.  Position of pineal plate: anteriorly to orbits (0); same level as orbits (1); posterior to the orbits (2).
+> Modified from Dupret *et al*. (2009), Character 6; Dupret *et al*. (2017), Character 6; Zhu *et al*. (2010), Character 6; Xue *et al*. (2025), Character 55.
 
-> - In those taxa without pineal plate, this character is scored as 'not applicable'.
-> - In those taxa that the pineal plate is fused with rostral plate, we use the rostropineal plate to represent the pineal plate.
+> - Dupret et al. (2009) originally defined this character as 'Position of pineal plate: further anteriorly from orbits (0); same level as orbits (1)' to describe the condition in Wuttagoonaspids, in which the pineal plate is positioned anterior to the orbits. However, this definition does not accommodate the condition in heterostiids, in which the pineal plate is positioned posterior to the orbits. We therefore modified the original character to include this additional positional state. In addition to wuttagoonaspids, an anteriorly positioned pineal plate is also present in some macropetalichthyids, including *Macropetalichthys*, *Notopetalichthys*, and *Sinopetalichthys*. In taxa lacking a pineal plate, this character is scored as inapplicable. In taxa in which the pineal plate is fused with the rostral plate, the position of the resulting rostropineal plate is used to score this character.
 
 23.  Shape of the pineal plate on the external surface of the skull roof: short and broad (0); long and narrow (1).
 > Zhu Y *et al*. (2016), Character 101; Xue *et al*. (2025), Character 45.
 
-> - In those taxa without pineal plate, this character is scored as 'not applicable'.
-> - In those taxa that the rostral plate fused with the pineal plate, this character is scored as 'not applicable'.
+> - The original definition of this character includes two states: (0) short and broad; and (1) long and narrow. The shape of the pineal plate varies considerably among placoderms. In ptyctodonts and antiarchs, the pineal plate is a small element and is generally short and narrow. By contrast, in maxillate placoderms, such as *Entelognathus* and *Qilinyu*, the pineal plate is relatively long and broad. We therefore added these two states to accommodate the morphological variation in the pineal plate among placoderms. The long and narrow condition is widespread among eubrachythoracids, antarctaspids, and most petalichthyids, whereas the pineal plate is short and broad in basal arthrodires and *Radotina*. In taxa lacking a pineal plate, this character is scored as inapplicable. Similarly, in taxa in which the pineal plate is fused with the rostral plate to form a rostropineal plate, this character is also scored as inapplicable.
 
 24.  Position of anterior edge of pineal plate: over orbit (0); anterior to orbit (1).
 > Carr (1991), Character 8; Lelièvre (1995), character 5, modified; Carr and Hlavin (2010), Character 8; Rücklin *et al*. (2015), Character 8; Zhu Y *et al*. (2016), Character 8; Jobbins *et al*. (2022, 2024), Character 8; Xue *et al*. (2025), Character 8.
 
-> - In those taxa without pineal plate, this character is scored as 'not applicable'.
-> - In those taxa that the rostral plate is fused with the pineal plate or the pineal plate is asbent such as in phyllolepids, this character is scored as 'not applicable'.
+> - In taxa lacking a distinct pineal plate, either because it is absent (as in phyllolepids) or fused with the rostral plate to form a rostropineal plate, this character is scored as inapplicable.
 
 25.  Position of posterior edge of pineal plate: over orbit (0); posterior to orbit (1).
 > Carr (1991), Character 9; Carr and Hlavin (2010), Character 9; Rücklin *et al*. (2015), Character 9; Zhu Y *et al*. (2016), Character 9; Jobbins *et al*. (2022, 2024), Character 9; Xue *et al*. (2025), Character 9.
 
-> - In those taxa without pineal plate, this character is scored as 'not applicable'.
-> - In those taxa that the pineal plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
+>  In taxa in which the pineal plate is absent, such as phyllolepids, this character is scored as inapplicable. In taxa in which the pineal plate is fused with the rostral plate to form a rostropineal plate, the character state is determined by the shape of the posterior margin of the rostropineal plate.
 
 26.  Pineal opening perforation in dermal skull roof: (0) present; (1) absent.
 > Davis et al. (2012), Character 25; Choo et al. (2017), Character 24; King et al. (2017), Character 159; Castiello (2018), Character 117; Zhu Y. et al. (2022), Character 130; Andreev et al. (2022), Character 42; Brazeau et al. (2023), Character 162. Cui et al. (2023), Character 130.
 
-> - In those taxa without pineal plate, this character is scored as 'not applicable'.
+> - In those taxa without pineal plate, this character is scored as 'not applicable'. In taxa in which the pineal plate is fused with the rostral plate to form a rostropineal plate, the character state is determined by the rostropineal plate.
 > - **Character 128 in "early gnathostome phylogeny github".**
 
 27.  Pineal eminence (in taxa lacking pineal foramen): (0) absent; (1) present.
