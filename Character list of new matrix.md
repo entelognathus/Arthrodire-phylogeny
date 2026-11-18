@@ -1,10 +1,12 @@
 # Character list of arthrodires, petalichthyids ,and ptyctodontids.
 
 ## Skull roof
-1.  Dermal skull roof: (0) includes large dermal plates; (1) consists of undifferentiated plates or tesserae; (2) include both large dermal plates and tesserae.
+1.  Dermal skull roof: (0) includes large dermal plates; (1) include both large dermal plates and tesserae.
 > Davis et al. (2012), Character 18; Choo et al. (2017), Character 17; King et al. (2017), Character 151; Castiello (2018), Character 150; Zhu Y. et al. (2022), Character 59; Andreev et al. (2022), Character 33; Brazeau et al. (2023), Character 155. Cui et al. (2023), Character 59.
 
 > - **Character 57 in "early gnathostome phylogeny github".**
+> - The original definition of this character includes three states: (0) large dermal plates; (1) undifferentiated plates or tesserae; and (2) a combination of large dermal plates and tesserae. State 1 is only present in chondrichthyans and is therefore inapplicable to the placoderm taxa included in the present matrix. Accordingly, this state was excluded from the present matrix. In placoderms, a skull roof composed of large dermal plates is widely present among various groups, including arthrodires, antiarchs, phyllolepids, ptyctodonts, petalichthyids, and maxillate placoderms. In some acanthothoracids, including *Kosoraspis* and *Radotina*, as well as in rhenanids, the skull roof comprises both large dermal plates and tesserae. Macropetalichthyid *Lunaspis* is unusual in that its suborbital region comprises small tesserae. However, it remains unclear whether this condition results from incomplete preservation or represents an original anatomical feature of the dermal skeleton, potentially comparable to the condition observed in acanthothoracids and rhenanids.
+<img width="1907" height="674" alt="Fig 1" src="https://github.com/user-attachments/assets/477ddd88-104c-4381-b51b-cfa83e31cf4b" />
 
 2.  Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes) / (distance between pineal and paired condyles): small (r < 0.2)(0); intermediate (0.2 < r < 0.5) (1); large (r > 0.5)(2).
 > Carr (1991), Character 28; Carr and Hlavin (2010), Character 28; Rücklin *et al*. (2015), Character 28; Zhu Y *et al*. (2016), Character 28; Jobbins *et al*. (2022, 2024), Character 28; Xue *et al*. (submitted), Character 28.
