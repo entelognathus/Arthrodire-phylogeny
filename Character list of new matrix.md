@@ -11,115 +11,117 @@
 2.  Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes) / (distance between pineal and paired condyles): small (r < 0.2)(0); intermediate (0.2 < r < 0.5) (1); large (r > 0.5)(2).
 > Carr (1991), Character 28; Carr and Hlavin (2010), Character 28; Rücklin *et al*. (2015), Character 28; Zhu Y *et al*. (2016), Character 28; Jobbins *et al*. (2022, 2024), Character 28; Xue *et al*. (submitted), Character 28.
 
->  - The orginal definition of this character in Carr (1991) is " Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes)/ (distance between pineal and paired condyles): small (0); intermediate (1); large (2)." However, there was no value to define these three states. Here, we complement it as "small (r < 0.2)(0); intermediate (0.2 < r < 0.5) (1); large (r > 0.5)(2)."
+> - The original definition of this character in Carr (1991) is: ‘Orbit size: measured as a ratio of (distance between preorbital and postorbital dermal processes)/(distance between pineal and paired condyles): small (0); intermediate (1); large (2).’ However, no quantitative thresholds were provided to distinguish these three states. Here, we define the states quantitatively as follows: small (r < 0.2) (0), intermediate (0.2 < r < 0.5) (1), and large (r > 0.5) (2). This character is not applicable to antiarchs, in which the orbital and nasal regions are incorporated into a median orbital fenestra in the skull roof. Consequently, the size of this fenestra does not directly reflect the actual size of the orbit, as it encompasses both orbital and nasal regions. Therefore, it is more appropriate to code the relative size of the orbital fenestra in antiarchs using a separate character. Previous phylogenetic matrices of antiarchs (Plax and Lukševičs, 2023; Luo et al., 2025; Xian et al., 2026) have employed a separate character, “orbital fenestra size”, with two states: large (0) and small (1). In these studies, the orbital fenestra was coded as large when its width reached at least half the total width of the head shield. We therefore consider this a more appropriate character for describing variation in the relative size of the orbital fenestra in antiarchs than the orbit-size character defined by Carr (1991).
 
-3.  Orbit dorsal or facing dorsolaterally: (0) present; (1) absent.
+3.  Orbits, surrounded by skull roof: (0) present; (1) absent.
 > Castiello (2018), Character 29; Zhu Y. et al. (2022), Character 123; Brazeau et al. (2023), Character 33. Cui et al. (2023), Character 123.
 
 > - **Character 121 in "early gnathostome phylogeny github".**
-
-> - This character is absent in the majority of arthrodires (with the exception of Wuttagoonaspis), as well as in quasipetalichthyids and ptyctodonts.
-> - *Diandongpetalichthy* is coded as "0" .
-
+> - This character is modified from that of Castiello (2018), who defined it as follows: “Orbit dorsal or facing dorsolaterally: (0) present; (1) absent.” Brazeau (2009) originally defined this character based on the presence or absence of an orbit facing dorsally or dorsolaterally and surrounded laterally by the endocranium. Castiello (2018) subsequently divided the original character into two separate characters: (1) “Orbit dorsal or facing dorsolaterally” and (2) “Orbits, surrounded laterally by endocranium”, with three states: (0) absent; (1) partially surrounded; and (2) surrounded. This modification was intended to accommodate the condition in ptyctodonts, in which the laterally facing orbit is only partially surrounded by the endocranium, a condition not accounted for in Brazeau's original definition. However, distinguishing between dorsally and laterally facing orbits can be difficult because the boundary between these orientations is not clearly defined. We therefore modify the first character by using the degree of enclosure by the dermal skull roof as the criterion, and redefine it as follows: “Orbits surrounded by skull roof: (0) present; (1) absent.”
+> -  In some agnathans, such as galeaspids and osteostracans, the orbit is completely enclosed by the dermal skull roof. A similar condition is also present in several placoderm groups, including antiarchs, macropetalichthyids, *Brindabellaspis*, and some acanthothoracids. By contrast, in most arthrodires, quasipetalichthyids, maxillate placoderms, and ptyctodonts, the orbit is not surrounded by skull roof result in laterally facing. However, in some arthrodires, such as *Wuttagoonaspis*, *Homostius*, and *Holonema*, the orbit faces dorsally and is enclosed by the skull roof. 
 > - Xue *et al*. (2025), Character 59: Position of orbits on skull roof: dorsal (0); lateral (1).
 > - Lelièvre (1995): Position and size of the orbits: samall and anteriorly placed (0); small and laterally placed (1); enlarged and lateral (2).
+
 
 4.  Orbits, surrounded laterally by endocranium: (0) absent; (1) partially surrounded; (2) surrounded.
 > Castiello (2018), Character 30; Zhu Y. et al. (2022), Character 124; Brazeau et al. (2023), Character 33. Cui et al. (2023), Character 124; Lelièvre (1995), character 23, modified; Dupret *et al*. (2009), Character 12; Dupret *et al*. (2017), Character 12; Zhu *et al*. (2010), Character 12; Xue *et al*. (2025), Character 59.
 
 > - **Character 122 in "early gnathostome phylogeny github".**
-
-> - In arthrodires, quasipetalichthyids, and *Diandongpetalichthys*, this character are coded as "0".
+> - In galeaspids, osteostracans, macropetalichthyids, *Brindabellaspis*, *Kolymaspis*, and *Romundia*, the orbit is surrounded laterally by the endocranium. By contrast, this condition is absent in most other placoderms, including arthrodires, tianchids, quasipetalichthyids, rhenanids, and maxillate placoderms. Ptyctodonts are exceptional in that their orbits are partially surrounded by the endocranium, a condition represented by a separate character state in Castiello (2018). The endocranium is not preserved in antiarchs; therefore, the state of this character in this group is unknown.
 
 5.  Sclerotic ring incorporated into skull roof: (0) absent; (1) present.
 > King et al. (2017), Character 244; Castiello (2018), Character 243; Zhu Y. et al. (2022), Character 86; Brazeau et al. (2023), Character 249. Cui et al. (2023), Character 86.
 
 > - **Character 84 in "early gnathostome phylogeny github".**
-
 > - This character is only present in *Entelognathus*.
 
 6.  Nostrils enclosed in dermal skull roof: (0) yes; (1) no.
 > King et al. (2017), Character 255; Castiello (2018), Character 253; Zhu Y. et al. (2022), Character 95; Brazeau et al. (2023), Character 261. Cui et al. (2023), Character 95.
 
 > - **Character 93 in "early gnathostome phylogeny github".**
-
-> - King et al. (2017): In eubrachythoracid arthrodires, the snout is assumed to continue in soft tissue, so that the nostrils are not enclosed within dermal bone. Where only the posterior nostril is enclosed, taxa are scored as yes, as are taxa with dorsal nostrils (acanthothoracids, antiarchs etc.)
+> - In antiarchs, *Brindabellaspis*, *Kolymaspis*, *Romundina* and rhenanids, the nasal capusle is positoned median on the skull roof enclosed by the dermal skull roof. In contrast, in other placoderm, particular brachythoracids, the snout is anterior continue in sofr tissue under the dermal nasal capsule so that the nostrils are not enclosed within dermal skull roof.  In the originally defintion of King et al. (2017), only the posterior nostril is enclosed, taxa are scored as 
+yes, as are taxa with dorsal nostrils. 
 
 7.  Posterior nostril: (0) associated with orbit; (1) not associated with orbit.
 > Zhu et al. (2009, Character 8), and references therein; Zhu et al. (2013), Character 152; Giles et al. (2015), Character 116; Choo et al. (2017), Character 142; King et al. (2017), Character 171; Castiello (2018), Character 169; Zhu Y. et al. (2022), Character 112; Brazeau et al. (2023), Character 175. Cui et al. (2023), Character 112.
 
 > - **Character 110 in "early gnathostome phylogeny github".**
-
-> - Posterior nostril not associated with orbit is widely present in arthordires, *Macropetalichthys*, and *Romundina*.
+> - In antiarchs, *Brindabellaspis*, and *Xiushanosteus*, the posterior nostril is closely associated with the orbit. By contrast, in other placoderms, such as arthrodires and petalichthyids, the posterior nostril is not associated with the orbit. 
 
 8.  Nasal opening(s): (0) dorsal, placed between orbits; (1) ventral and anterior to orbits.
 > Friedman (2007); Brazeau (2009); Davis et al. (2012), Character 56; Choo et al. (2017), Character 55. King et al. (2017), Character 20; Castiello (2018), Character 20; Zhu Y. et al. (2022), Character 376; Andreev et al. (2022), Character 114; Brazeau et al. (2023), Character 23. Cui et al. (2023), Character 376.
 
 >  - **Character 372 in "early gnathostome phylogeny github".**
+>  - In antiarchs, *Romundia*, *Kolymaspis*, and *Xiushanosteus*, the nasal opening is positioned anteromedially on the dorsal surface of the skull, between the orbits and close to the orbital notches. A similar condition is present in rhenanids, including *Jagorina* and *Gemuendina*, in which the nasal opening is also located dorsally between the orbits, but is not closely associated with them. By contrast, in other placoderms, such as arthrodires, petalichthyids, and ptyctodonts, the nasal opening is positioned ventral and anterior to the orbit.
 
-9.  Ventral face of nasal capsule in taxa with mineralized ethmoid: (0) complete; (1) fenestra ventrolateralis; (2) entire floor unmineralized.
+9.  Ventral face of nasal capsule in taxa with mineralized ethmoid: (0) complete; (1) entire floor unmineralized.
 > Choo et al. (2017), Character 172; Zhu Y. et al. (2021), Character 258; Zhu Y. et al. (2022), Character 382; Andreev et al. (2022), Character 262. Cui et al. (2023), Character 382.
 
 >  - **Character 378 in "early gnathostome phylogeny github".**
->  - State 0 is present in acanthothoracids and *Brindabellaspis*. 
->  - State 1 is present in sarcopterygians, not applicabled in placoderms. 
+>  - The original definition of this character includes three states: (0) complete; (1) fenestra ventrolateralis; and (2) entire floor unmineralised. State 1 is only present in sarcopterygians and is therefore inapplicable to the placoderms included in the present matrix; accordingly, this state was excluded. In arthrodires, the entire ventral floor of the nasal capsule is unmineralised. By contrast, the ventral surface of the nasal capsule is completely mineralised in rhenanids, *Romundia*, *Brindabellaspis*, and *Macropetalichthys*.
 
 10.  Premedian plate (Large unpaired median skull roofing bone anterior to the level of nasal capsules): (0) absent; (1) present.
 > Zhu et al. (2013), Character 148; Choo et al. (2017), Character 159; King et al. (2017), Character 177; Castiello (2018), Character 174; Zhu Y. et al. (2022), Character 142; Brazeau et al. (2023), Character 183. Cui et al. (2023), Character 142.
 
 >  - **Character 140 in "early gnathostome phylogeny github".**
->  - Premedian plate is present in acanthoracids, antiarchs, and maxillate placoderms. Dupret et al. (2017) questioned the identification of the premedian plate in *Entelognathus*, interpreting this element as an internasal plate distinct from the rostral plate. They also suggested that the internasal plate, prerostral plate, or anterior process of the rostral plate in arthrodires might represent a vestigial premedian plate. Here, we do not follow the interpretation of Dupret et al. (2017) and retain the original identification of the plate as the premedian plate.
+>  - Premedian plate is present in acanthoracids, antiarchs, *Brindabellaspis*, and maxillate placoderms. Dupret et al. (2017) questioned the identification of the premedian plate in *Entelognathus*, interpreting this element as an internasal plate distinct from the rostral plate. They also suggested that the internasal plate, prerostral plate, or anterior process of the rostral plate in arthrodires might represent a vestigial premedian plate. Here, we do not follow the interpretation of Dupret et al. (2017) and retain the original identification of the plate as the premedian plate.
 
 11.  Position of premedian plate: (0) dorsal; (1) ventral.
 > Zhu Y. et al. (2022), Character 143. Cui et al. (2023), Character 143.
 
 >  - **Character 141 in "early gnathostome phylogeny github".**
->  - In maxillate placoderms, the premedian plate is positioned ventrally. 
+>  - In maxillate placoderms, such as *Qilinyu* and *Entelognathus*, the premedian plate is positioned ventral to the skull roof. By contrast, in other placoderms bearing a premedian plate, including antiarchs, acanthothoracids, and *Brindabellaspis*, the premedian plate is positioned dorsal to the skull roof.  
 
 12.  Rostral plate: (0) absent; (1) present.
 > Modified from Brazeau et al. (2023), Character 263.
 
 >  -  **Character 704 in "early gnathostome phylogeny github".** Large median bone directly anterior to parietals and pineal: (0) absent; (1) present.
->  -  Rostral plate is absent in ptycodontids and phyllolepids.
+>  - The original definition of this character is 'Large median bone directly anterior to parietals and pineal: (0) absent; (1) present'. This character was originally defined to accommodate the coding of crown gnathostomes. As the present matrix does not include crown gnathostomes, we modify this character to specifically code for the presence or absence of the rostral plate. The rostral plate is widely present in placoderms, where it forms the snout region of the skull roof. An unusual condition occurs in antiarchs, such as *Parayuannosteus*, in which the rostral plate is reduced to a small element within the orbital fenestra and does not form a distinct snout region. This condition may be related to modifications of the nasal and orbital regions, which are enclosed within the skull roof. By contrast, the rostral plate is absent in ptyctodontids and phyllolepids.
 
 13.  Posterior development of rostral plate: not developed (0); subtriangular (1); T-shaped (2).
 > Carr (1991), Character 5; Lelièvre (1995), character 4, modified; Carr and Hlavin (2010), Character 5; Rücklin *et al*. (2015), Character 5; Zhu Y *et al*. (2016), Character 5; Jobbins *et al*. (2022, 2024), Character 5; Xue *et al*. (2025), Character 5.
 
-> - In those taxa that the rostral plate is fused with the pineal plate or the rosrtal plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
+> - The coding of this character is primarily based on the shape of the posterior margin of the rostral plate. In coccosteomorph arthrodires and dunkleosteids, the rostral plate bears a well-developed posterior process, resulting in a T-shaped outline. In aspinothoracid arthrodires, the posterior process is absent, but the posterior margin of the rostral plate is strongly convex, giving the plate a subtriangular outline. In basal arthrodires, petalichthyids, antiarchs, maxillate placoderms, and *Brindabellaspis*, the posterior margin of the rostral plate is straight, without a posterior process. In taxa in which the rostral plate is absent or fused with the pineal plate, this character is scored as inapplicable, including phyllolepids and ptyctodontids, which lack a distinct rostral plate.
 
 > - **Character 78 in "early gnathostome phylogeny github".** T-shaped rostral plate: (0) absent; (1) present.
 
 14.  Anterior elongation of the rostrum: absent (0); present (1).
-> Long (1988), Characters 4, 12, and 16; Carr (1991), Character 6; Carr and Hlavin (2010), Character 6; Rücklin *et al*.  (2015), Character 6; Zhu Y *et al*. (2016), Character 6; Jobbins *et al*. (2022, 2024), Character 6; Xue *et al*. (2025), Character 6.
+> Long (1988), Characters 12; Carr (1991), Character 6; Carr and Hlavin (2010), Character 6; Rücklin *et al*.  (2015), Character 6; Zhu Y *et al*. (2016), Character 6; Jobbins *et al*. (2022, 2024), Character 6; Xue *et al*. (2025), Character 6.
 
-> - In those taxa that the rostral plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
+> Long (1988) originally defined this character as “a pointed rostral plate” to describe the condition in certain camuropiscids, including *Camuropiscis*, *Fallocosteus*, *Tubonasus*, and *Rolfosteus*, in which the rostral plate is anteriorly pointed or elongated. Carr (1991) subsequently modified this character to ‘anterior elongation of the rostrum’ and incorporated it into his phylogenetic matrix of brachythoracid arthrodires. This character has since been widely adopted in phylogenetic matrices of brachythoracids. In the phylogenetic analysis of Zhu et al. (2016), anterior elongation of the rostrum was recovered as a synapomorphy of Camuropiscidae. However, a similar condition is also present in other placoderms, including *Maideria falipoui*, *Carolowihelmina* and *Alienacanthus*. This similarity may represent convergent evolution, potentially reflecting adaptations to similar ecological conditions. In those taxa that the rostral plate is absent such as in phyllolepids and ptyctodontids, this character is scored as 'not applicable'.
+<img width="478" height="625" alt="image" src="https://github.com/user-attachments/assets/82ca6763-7ba9-4f05-9b3f-47f414c8f460" />
 
 15.  Ventrally enclosed tubular rostrum: absent (0); present (1).
-> Carr (1991), Character 7; Lelièvre (1995), character 3, modified; Carr and Hlavin (2010), Character 7; Rücklin *et al*. (2015), Character 7; Zhu Y *et al*. (2016), Character 7; Jobbins *et al*. (2022, 2024), Character 7; Xue *et al*. (2025), Character 7.
+> Long (1988), Character 16; Carr (1991), Character 7; Lelièvre (1995), character 3, modified; Carr and Hlavin (2010), Character 7; Rücklin *et al*. (2015), Character 7; Zhu Y *et al*. (2016), Character 7; Jobbins *et al*. (2022, 2024), Character 7; Xue *et al*. (2025), Character 7.
 
-> - In those taxa that the rostral plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
+> - This character was first recognised by Dennis and Miles (1979), who considered the tubular rostrum to be a synapomorphy of *Tubonasus* and *Rolfosteus*. Carr (1991) subsequently incorporated this character into his phylogenetic matrix, and subsequent phylogenetic analyses have continued to support its significance in the phylogenetic relationships of these taxa. Mark-Kurik and Carls (2002) described a new placoderm, *Carolowilhelmina geognostica*, from southern Aragón, Spain, which also exhibits an elongated rostral plate that is enclosed ventrally, forming a tubular rostrum. However, the other region is poorly preserved, making it difficult to determine whether this condition is homologous to that in *Tubonasus* and *Rolfosteus* or represents an independent evolutionary acquisition.
+> - In those taxa that the rostral plate is absent, this character is scored as 'not applicable'.
 
 17.  Pineal and rostral: (0) contact; (1) separated.
 > Castiello (2018), Character 255; Zhu Y. et al. (2022), Character 97. Cui et al. (2023), Character 97.
 
 > - **Character 95 in "early gnathostome phylogeny github".**
-
-> - This character is present in some petalichthyids, including *Lunaspis*, *Notopetalichthys*, and *Sinopetalichthys*.
+> -  Contact between the pineal and rostral plates is widespread among placoderms, including antiarchs, petalichthyids, acanthothoracids, maxillate placoderms, and many arthrodires. In some macropetalichthyids, including *Lunaspis*, *Notopetalichthys*, and *Sinopetalichthys*, the pineal and rostral plates are separated by the median contact between the paired preorbital plates. A similar condition is also present in some eubrachythoracids, including camuropiscids, *Erromenosteus*, and some selenosteids. In those taxa that the pineal or rostral plate is absent, this character is scored as 'not applicable'.
 
 18.  Rostral and pineal plates fused into one plate: absent (0); present (1).
 > Zhu Y *et al*. (2016), Character 100; Dupret *et al*. (2009), Character 8; Dupret *et al*. (2017), Character 8; Xue *et al*. (2025), Character 44.
 
-19.  Pineal, or rostropineal plates: absent (0); present (1).
-> Modified from Dupret *et al*. (2009), Character 5; Dupret *et al*. (2017), Character 5; Zhu *et al*. (2010), Character 5; Xue *et al*. (2025), Character 54.
+> - This character is restricted to some acanthothoracids and arthrodires. In *Romundia* and *Kolymaspis*, the rostral and pineal plates are fused to form a rostropineal plate, which is positioned between the premedian and postpineal plates. A similar fusion occurs in some arthrodires, including *Actinolepis*, *Buchanosteus*, and *Arenipiscis*. However, the position of the rostropineal plate differs from that in acanthothoracids, as it forms the anterior margin of the skull roof. An unusual condition is observed in *Holonema*, in which the postnasal, rostral, and pineal plates are distinguishable as separate elements in some specimens.
+
+19.  Pineal plate: absent (0); present (1).
+> Modified from Dupret *et al*. (2007), Character 5; Dupret *et al*. (2017), Character 5; Zhu *et al*. (2010), Character 5; Xue *et al*. (2025), Character 54.
+
+> Dupret et al. (2007) originally defined this character as 'Rostral, pineal, or rostropineal plate'. However, this definition does not adequately distinguish between the presence of a pineal plate and the absence of a rostral plate, as observed in ptyctodonts. We therefore divided the original character into two separate characters, coding the presence or absence of the rostral plate and the presence or absence of the pineal plate independently. The pineal plate or rostropineal plate is widely present among placoderms and is absent only in phyllolepids. 
 
 20.  Transversely divided pineal plate forming anterior and posterior plates: absent (0); present (1). 
 > Fitzpatrick *et al*. (2024), Character 123.
 
-> - In those taxa without pineal plate, this character is scored as 'not applicable'.
+> In some groenlandaspidids, including *Africanaspis*, *Turrisaspis*, *Tiaraspis*, and *Groenlandaspis*, the pineal plate is transversely divided into anterior and posterior elements. Gess and Trinajstic (2017) discussed the affinities of the “high-spired” groenlandaspidids, including *Tiaraspis*, *Turrisaspis*, and *Africanaspis*, highlighting the presence of dual pineal elements as a feature distinguishing them from most species of *Groenlandaspis*. Fitzpatrick et al. (2024) subsequently incorporated this character into their phylogenetic analysis, recovering the division of the pineal plate into dual elements as a synapomorphy uniting a clade of derived groenlandaspidids. In those taxa without pineal plate, this character is scored as 'not applicable'.
 
 21.  Pineal or rostropineal plate fused to skull roof: no fusion (0); fusion (1).
-> Johnson *et al*. (2000), Character 2; Dupret *et al*. (2009), Character 10; Dupret *et al*. (2017), Character 10; Zhu *et al*. (2010), Character 10; Xue *et al*. (2025), Character 57.
+> Modified from Johnson *et al*. (2000), Character 2; Dupret *et al*. (2009), Character 10; Dupret *et al*. (2017), Character 10; Zhu *et al*. (2010), Character 10; Xue *et al*. (2025), Character 57.
 
+> - In most placoderms, including petalichthyids, eubrachythoracids, and maxillate placoderms, the pineal or rostropineal plate is firmly fused to the surrounding skull roof. In some acanthothoracids, such as *Romundina*, *Arabosteus*, and *Kolymaspis*, the pineal plate is not firmly fused with the posterior region of the skull roof and remains separated from it. A similar condition is also present in some arthrodires, including *Kujdanowiaspis*, *Szelepis*, and *Buchanosteus*. In ptyctodonts, such as *Ctenurella*, *Meeksiella*, and *Rhamphodopsis*, the pineal plate is usually fused with the preorbital plates. An unusual condition occurs in *Austroptyctodus* and *Campbellodus*, in which the pineal plate is relatively small and does not completely fill the anterior concavity formed by the paired preorbital plates, remaining as a distinct, free element. A similar condition is also present in antiarchs, in which the pineal plate is positioned within the orbital fenestra and remains unfused with the surrounding skull roof.
 > - In those taxa without pineal plate, this character is scored as 'not applicable'.
 
 22.  Position of pineal plate: further anteriorly from orbits (0); same level as orbits (1).
