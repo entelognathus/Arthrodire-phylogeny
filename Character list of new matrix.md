@@ -224,38 +224,39 @@ yes, as are taxa with dorsal nostrils.
 > Clement et al. (2018), Character 280; Zhu Y. et al. (2022), Character 137; Andreev et al. (2022), Character 280. Cui et al. (2023), Character 137.
 
 > - **Character 135 in "early gnathostome phylogeny github".**
+> - This character is applicable only to taxa bearing preorbital plates. In ptyctodonts, phyllolepids, some basally branching arthrodires, and some acanthothoracids, the paired preorbital plates meet along the midline. By contrast, in most brachythoracids, the paired preorbital plates are separated by the pineal and rostral plates. The same condition is also present in quasipetalichthyids and some macropetalichthyids, including *Pampetalichthys*, *Guangxipetalichthys*, and *Shearsbyaspis*. In antarctaspids and tianchids, the paired preorbital plates are also separated, but only by the pineal plate. An unusual condition occurs in *Romundina*, in which the paired preorbital plates are separated by the postpineal plate. Both states are observed in different specimens of *Heintzosteus* and *Coccosteus cuspidatus*. Miles (1968) attributed the variation in *Coccosteus cuspidatus* to individual differences.  
 > -  Dupret *et al*. (2009, 2017): Pineal or rostropineal plate separates preorbital plates: no separation (0); separation (1).
 
 41.  Preorbital plates with a median contact: meet posterior to pineal plate (0); meet anterior to pineal plate (1).
 > Young (1981), Character 19a, modified; Carr (1991), Character 18; Lelièvre (1995), character 19, modified; Carr and Hlavin (2010), Character 18; Rücklin *et al*. (2015), Character 18; Zhu Y *et al*. (2016), Character 18; Dupret *et al*. (2009, 2017), Character 7, modified; Jobbins *et al*. (2022, 2024), Character 18; Xue *et al*. (2025), Character 18.
 
+> - This character is applicable only to taxa bearing both preorbital and pineal plates, in which the paired preorbital plates meet along the midline. In ptyctodonts, acanthothoracids, and most arthrodires, the paired preorbital plates meet posterior to the pineal plate. By contrast, in some macropetalichthyids, including *Lunaspis*, *Notopetalichthys*, and *Sinopetalichthys*, the preorbital plates meet anterior to the pineal plate. The same condition is also present in aspinothoracid arthrodires and some camuropiscids, including *Rolfosteus*, *Tubonasus*, and *Fallocosteus*. Both states are observed in different specimens of *Coccosteus cuspidatus*.
+
 42.  Extent of median preorbital plate contact: short (0); long, measured as the ratio of (contact length)/ (PrO parasagittal length) > 0.5 (1).
 > Carr (1991), Character 19; Carr and Hlavin (2010), Character 19; Rücklin *et al*. (2015), Character 19; Zhu Y *et al*. (2016), Character 19; Jobbins *et al*. (2022, 2024), Character 19; Xue *et al*. (2025), Character 19.
 
-> - In those taxa that the preorbital plates are seperated, this character is scored as 'not applicable'.
-
-> - The orginal definition of this character in Carr (1991) is "Extent of median preorbital plate contact: short (0); long, measured as the (ratio of contact length)/(PrO parasagittal length) (1)." However, there was no value to define these two states. Here, we complement it as "short (0); long, measured as the ratio of (contact length)/ (PrO parasagittal length) > 0.5 (1)"
-
-> - The coding of *Panjiangosteus eurycephala* is -.
+> - The original definition of this character by Carr (1991) is ‘Extent of median preorbital plate contact: short (0); long, measured as the ratio of contact length to preorbital plate parasagittal length (1)’. However, no quantitative threshold was provided to distinguish between the two states. We therefore refine the definition by introducing a quantitative criterion: short (0), with a ratio of contact length to preorbital plate parasagittal length ≤ 0.5; and long (1), with a ratio > 0.5. In those taxa that the preorbital plates are seperated, this character is scored as 'not applicable'. 
 
 43.  Preorbital plates show an embayment for insertion of pineal or rostropineal plate: no, or very shallow (0); yes, very deep (1).
 > Johnson *et al*. (2000), Character 1; Dupret *et al*. (2009), Character 9; Dupret *et al*. (2017), Character 9; Zhu *et al*. (2010), Character 9; Xue *et al*. (2025), Character 56.
 
-> - In those taxa that the preorbital plates are sperated by pineal of rostropineal plate, this character is scored "as yes, very deep (1)".
+> - In taxa in which the paired preorbital plates are separated by the pineal or rostropineal plate, this character is scored as ‘very deep’ (1). A shallow embayment of the preorbital plates by the pineal or rostropineal plate is present in some basally branching arthrodires, including *Kujdanowiaspis*, *Erikaspis*, and *Eskimaspis*, as well as buchanosteids such as *Buchanosteus*. A similar condition is also present in some acanthothoracids, including *Kimaspis*, *Arabosteus*, and *Palaeacanthaspis*. This condition may be related to the separation of the dermal nasal capsule from the posterior skull roof.
 
-44.  Postorbital dermal process: negligible or absent (0); present (1).
+44.  Postorbital dermal process of postorbital plate: negligible or absent (0); present (1).
 > Carr (1991), Character 34; Lelièvre (1995), character 21, modified; Carr and Hlavin (2010), Character 34; Rücklin *et al*. (2015), Character 34; Zhu Y *et al*. (2016), Character 34; Jobbins *et al*. (2022, 2024), Character 34; Xue *et al*. (2025), Character 34.
-> - In those taxa, such as *Walterosteus*, *Rhinosteus*, and *Draconichthys*, that cheeck plates ridig connect to the skull roof, this character is socred as  'not aaplicable'.
+
+> - Carr (1999) originally defined this character as ‘postorbital dermal process’ to describe the condition in eubrachythoracids, in which the postorbital dermal process is formed by the postorbital plate. In most other placoderms, including petalichthyids, acanthothoracids, and maxillate placoderms, the postorbital dermal process is similarly formed by the postorbital plate. However, in ptyctodonts, the postorbital dermal process is formed by the marginal plate. To avoid conflating these non-homologous structures, we modify the character definition to ‘Postorbital dermal process of the postorbital plate’. In some selenosteids, including *Walterosteus*, *Rhinosteus*, and *Draconichthys*, the cheek plates are rigidly connected to the skull roof. Accordingly, this character is scored as inapplicable in these taxa.
 
 45.  Development of the postorbital process of the postorbital plate: moderately developed (0); highly developed, defined as the postorbital process composing one-quarter of the orbit (1).
 > Zhu Y *et al*. (2016), Character 103; Xue *et al*. (2025), Character 47.
 
-> - In those taxa that the postorbital plate is asbent, this character is scored as 'not applicable'.
+> - Zhu et al. (2016) originally introduced this character to describe the condition in heterostiids, including *Yinostius* and *Heterostius*, in which the postorbital process is elongated and forms approximately one-quarter of the orbital margin. A similar condition is also present in some acanthothoracids, including *Kolymaspis*, *Romundina*, and *Palaeacanthaspis*, and in quasipetalichthyids such as *Pauropetalichthys*. In macropetalichthyids, including *Lunaspis*, *Pampetalichthys*, and *Epipetalichthys*, the orbit is bordered by the central, preorbital, and postorbital plates, with the postorbital plate forming a substantial proportion of the posterolateral orbital margin. In these taxa, the postorbital plate bears a well-developed anterior process that contributes more than one-quarter of the orbital margin. We therefore also regard these taxa as possessing a well-developed postorbital process.  In those taxa, such as antiarchs, that the postorbital plate is asbent, this character is scored as 'not applicable'.
 
-Postorbital plate forms the posterolateral margin of orbit: absent (0); present (1).
-> - This character is shared by macropetalichthyids and *Brindabellaspis*.
+46.  Postorbital plate forms the posterolateral margin of orbit: absent (0); present (1).
 
-46.  Postorbital fenestra: (0) absent; (1) present.
+> - In macropetalichthyids, including *Lunaspis*, *Pampetalichthys*, and *Epipetalichthys*, the orbit is positioned dorsally on the skull roof and is surrounded by dermal plates. The postorbital plate forms the posterolateral to ventral margin of the orbit. A similar condition is also present in *Brindabellaspis*. The original reconstruction of *Potangaspis* by Zhu et al. (2010) depicted the orbit as being surrounded by the preorbital and postorbital plates, with the postorbital plate forming its posterolateral margin. However, based on the newly described antarctaspid *Panjiangosteus*, we revise the reconstruction of *Potangaspis*. Its orbit is not enclosed by the skull roof but is instead positioned laterally, as in *Panjiangosteus* (see the taxon list for a detailed discussion). Accordingly, we score this character as absent in *Potangaspis*. In two morphologically specialised basally branching brachythoracids, *Holonema* and *Homosteus*, the postorbital plate also contributes to the posterior margin of the orbit.
+
+47.  Postorbital fenestra: (0) absent; (1) present.
 > Trinajstic et al. (2019), character 30.
 
 >  -  This character is only present in some ptyctodonts, including *Meeksiella*, *Materpiscis*, *Kimbryanodus*, *Austroptyctodus*, and *Campbellodus*, and *Romundina* .
