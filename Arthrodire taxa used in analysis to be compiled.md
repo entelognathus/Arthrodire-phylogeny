@@ -16,6 +16,26 @@
 > - **Diagnosis.** See Dupret *et al.* (2011).
 > - **References.** [Dupret *et al.*, 2011](https://www.tandfonline.com/doi/full/10.1080/02724634.2011.558148); [Racheboeuf *et al.*, 2005](https://www.sciencedirect.com/science/article/abs/pii/S0016699505000665)
 
+## Antiarch
+[*Microbrachius dicki*](https://deepbone.org/public/#/explor?s_id=3220&return_to=%2Ftop-search-list%3Fkeyword%3DMicrobrachius%2520dicki&return_y=0) Hemmings, 1978
+> **Geological range.** Givetian, 387.7, 382.7
+
+> - **Occurrence.** Middle Old Red Sandstone of Caithness (John O'Groats Sandstone), Orkney (Eday Flags) and Shetland (Brindister Flags).
+> - **Holotype.** RSM 1877.22.1, a well-preserved anterior median dorsal plate in external view with less well-defined anterior dorsolateral plates lying laterally; RSM 1877.22.3, complete internal view ~f the dorsal trunk-armour together with a crushed head and approximately three-quarters of the r1ght pectoral appendage.
+> - **Diagnosis.** See Hemmings, 1978.
+> - **Remarks.** Woodward & White (1926, p. 567) suggested that the specimens found by Finlay (1926, p. 566) in the neighbourhood of Exnaboe, Shetland, belonged to a different species from that found in Caithness and Orkney. However, exammation of the avallable material from Exnaboe fails to confirm this suggestion. The recorded difference in ornament is due to the unsatisfactory preservation of the material, and there is no noticeable difference in the length of the pectoral appendage. Specimens from all localities are now considered to belong to the smgle species
+Microbrachius dicki.
+> - **Reference.** [Hemmings (1978)]; [Long et al. (2015)]
+
+[*Yangfanyu anachoresis*](https://deepbone.org/public/#/explor?s_id=185065&return_to=%2Ftop-search-list%3Fkeyword%3DYangfanyu%2520anachoresis&return_y=0) Xian et al. 2026
+> **Geological range.** Pragian, 410.8, 407.6
+
+> - **Occurrence.** Posongchong Formation, Guangnan, Wenshan, Yunnan Province, China.
+> - **Holotype.** IVPP V34617a, V34617b, part and counterpart of a near-complete entire dermal armour (head and trunk shields) without the right pectoral appendage.
+> - **Diagnosis.** A small-sized antiarch with a total dermal shield length of approximately 45 mm. It can be distinguished from other euantiarchs by the following combination of characters: pairs of short middle and posterior pit-lines on the nuchal plate; with cranio-spinal process cavity, long dorsal median spine on the anterior part of the AMD plate, oblique ridge of lateral wall of trunk shield; the PMD bears a posterior dorsal angle and posterior angle.
+> - **Remarks.** *Yangfanyu* exhibits several diagnostic features of euantiarchs, including a preorbital recess; a broad anterior margin of AMD plate; a jointed pectoral appendage; and a sophisticated helmet-shaped brachial process. It also retains several plesiomorphic features widely present in yunnanolepids, such as *Phymolepis* (Wang and Zhu 2018; Zhu 1996) and Mizia (Zhu 1996), including a cranio-spinal process cavity, an oblique ridge on the lateral wall of the trunk shield, and a posterior angle on the PMD plate. Notably, *Yangfanyu* displays a mosaic of bothriolepidoid and asterolepidoid features. Within bothriolepidoids, it resembles *Microbrachius* (Hemmings 1978) in an anterior lateral ridge on the head shield, a posterior dorsal angle, and the posterior lateral ridge on the posterior median dorsal plate. *Yangfanyu* exhibits a median dorsal spine arising from the dorsal wall of the trunk shield. This character occurs in several asterolepidoid genera, exemplified by *Byssacanthus*, *Jiangxilepis*, *Kirgisolepis*, and *Ningxialepis* (Eichwald 1844; Zhang and Liu 1991; Panteleyev 1992; Jia et al. 2010). However, the median dorsal spine of *Yangfanyu* is considerably longer than those of these asterolepidoid forms.
+> - **Reference.** [Xian et al. (2026)]
+
 ## Maxillate placoderm
 [*Bianchengichthys micros*](https://deepbone.cn/public/#/explor?s_id=82935&return_to=%2Fexplor&return_y=0) Li et al. 2021
 > **Geological range.** Late Ludfordian, Late Ludlow, Silurian, 425.6, 423.0
@@ -1968,24 +1988,6 @@ Rücklin (2010) described additional material from Morocco that resembles *Rhino
 > - **Holotype and referred specimens.**
 > - [Denison, 1978].
 
-[*Microbrachius dicki*](https://deepbone.org/public/#/explor?s_id=3220&return_to=%2Ftop-search-list%3Fkeyword%3DMicrobrachius%2520dicki&return_y=0) Hemmings, 1978
-> **Geological range.** Givetian, 387.7, 382.7
-
-> - **Occurrence.** Middle Old Red Sandstone of Caithness (John O'Groats Sandstone), Orkney (Eday Flags) and Shetland (Brindister Flags).
-> - **Holotype.** RSM 1877.22.1, a well-preserved anterior median dorsal plate in external view with less well-defined anterior dorsolateral plates lying laterally; RSM 1877.22.3, complete internal view ~f the dorsal trunk-armour together with a crushed head and approximately three-quarters of the r1ght pectoral appendage.
-> - **Diagnosis.** See Hemmings, 1978.
-> - **Remarks.** Woodward & White (1926, p. 567) suggested that the specimens found by Finlay (1926, p. 566) in the neighbourhood of Exnaboe, Shetland, belonged to a different species from that found in Caithness and Orkney. However, exammation of the avallable material from Exnaboe fails to confirm this suggestion. The recorded difference in ornament is due to the unsatisfactory preservation of the material, and there is no noticeable difference in the length of the pectoral appendage. Specimens from all localities are now considered to belong to the smgle species
-Microbrachius dicki.
-> - **Reference.** [Hemmings (1978)]; [Long et al. (2015)]
-
-[*Yangfanyu anachoresis*](https://deepbone.org/public/#/explor?s_id=185065&return_to=%2Ftop-search-list%3Fkeyword%3DYangfanyu%2520anachoresis&return_y=0) Xian et al. 2026
-> **Geological range.** Pragian, 410.8, 407.6
-
-> - **Occurrence.** Posongchong Formation, Guangnan, Wenshan, Yunnan Province, China.
-> - **Holotype.** IVPP V34617a, V34617b, part and counterpart of a near-complete entire dermal armour (head and trunk shields) without the right pectoral appendage.
-> - **Diagnosis.** A small-sized antiarch with a total dermal shield length of approximately 45 mm. It can be distinguished from other euantiarchs by the following combination of characters: pairs of short middle and posterior pit-lines on the nuchal plate; with cranio-spinal process cavity, long dorsal median spine on the anterior part of the AMD plate, oblique ridge of lateral wall of trunk shield; the PMD bears a posterior dorsal angle and posterior angle.
-> - **Remarks.** *Yangfanyu* exhibits several diagnostic features of euantiarchs, including a preorbital recess; a broad anterior margin of AMD plate; a jointed pectoral appendage; and a sophisticated helmet-shaped brachial process. It also retains several plesiomorphic features widely present in yunnanolepids, such as *Phymolepis* (Wang and Zhu 2018; Zhu 1996) and Mizia (Zhu 1996), including a cranio-spinal process cavity, an oblique ridge on the lateral wall of the trunk shield, and a posterior angle on the PMD plate. Notably, *Yangfanyu* displays a mosaic of bothriolepidoid and asterolepidoid features. Within bothriolepidoids, it resembles *Microbrachius* (Hemmings 1978) in an anterior lateral ridge on the head shield, a posterior dorsal angle, and the posterior lateral ridge on the posterior median dorsal plate. *Yangfanyu* exhibits a median dorsal spine arising from the dorsal wall of the trunk shield. This character occurs in several asterolepidoid genera, exemplified by *Byssacanthus*, *Jiangxilepis*, *Kirgisolepis*, and *Ningxialepis* (Eichwald 1844; Zhang and Liu 1991; Panteleyev 1992; Jia et al. 2010). However, the median dorsal spine of *Yangfanyu* is considerably longer than those of these asterolepidoid forms.
-> - **Reference.** [Xian et al. (2026)]
 ## References
 
 Andrews, S. M. (1978). A possible occurrence of *Remigolepis* in the topmost Old Red Sandstone of Berwickshire. *Scottish Journal of Geology*, **14**(4), 311-315. 
