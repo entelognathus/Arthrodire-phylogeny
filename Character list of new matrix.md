@@ -106,7 +106,7 @@ yes, as are taxa with dorsal nostrils.
 18.  Rostral and pineal plates fused into one plate: absent (0); present (1).
 > Zhu Y *et al*. (2016), Character 100; Dupret *et al*. (2009), Character 8; Dupret *et al*. (2017), Character 8; Xue *et al*. (2025), Character 44.
 
-> - This character is restricted to some acanthothoracids and arthrodires. In *Romundia* and *Kolymaspis*, the rostral and pineal plates are fused to form a rostropineal plate, which is positioned between the premedian and postpineal plates. A similar fusion occurs in some arthrodires, including *Actinolepis*, *Buchanosteus*, and *Arenipiscis*. However, the position of the rostropineal plate differs from that in acanthothoracids, as it forms the anterior margin of the skull roof. An unusual condition is observed in *Holonema*, in which the postnasal, rostral, and pineal plates are distinguishable as separate elements in some specimens.
+> - This character is restricted to some acanthothoracids and arthrodires. In *Romundia* and *Kolymaspis*, the rostral and pineal plates are fused to form a rostropineal plate, which is positioned between the premedian and postpineal plates. A similar fusion occurs in some arthrodires, including *Actinolepis*, *Buchanosteus*, and *Arenipiscis*. However, the position of the rostropineal plate differs from that in acanthothoracids, as it forms the anterior margin of the skull roof. An unusual condition is observed in *Holonema*, in which the postnasal, rostral, and pineal plates are fused in some specimens.
 
 19.  Pineal plate: absent (0); present (1).
 > Modified from Dupret *et al*. (2007), Character 5; Dupret *et al*. (2017), Character 5; Zhu *et al*. (2010), Character 5; Xue *et al*. (2025), Character 54.
