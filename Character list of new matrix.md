@@ -264,7 +264,7 @@ yes, as are taxa with dorsal nostrils.
 47.  Central plates: fused into one plate (0); individulized paired elements (1).
 > Dupret *et al*. (2009), Character 17; Dupret *et al*. (2017), Character 17; Zhu *et al*. (2010), Character 17; Xue *et al*. (2025), Character 61.
 
-> - Based on the study of *Gavinaspis*, Dupret et al. (2009) proposed that the nuchal plate of phyllolepids was formed by the fusion of paired central plates with the nuchal plate. Accordingly, they introduced this character into their phylogenetic analysis. However, our examination of newly discovered specimens of *Gavinaspis* from Xitun reveals a distinct nuchal plate, with the paired central plates remaining separate (see the taxon list for a detailed discussion). Thus, the homology of the median cranial element in phyllolepids remains uncertain. We therefore revise this character to describe whether the central plates are fused or remain separate elements. Among the taxa included in the present analysis, the fused condition is present only in *Entelognathus*.  
+> - Based on the study of *Gavinaspis*, Dupret et al. (2009) proposed that the median cranial element of phyllolepids resulted from the fusion of the paired central plates with the nuchal plate. However, this character combines two distinct conditions: the fusion of the paired central plates with each other, and the subsequent fusion of these plates with the nuchal plate. We therefore divide the original character into two separate characters to distinguish these fusion events. Fusion of the paired central plates is also present in *Entelognathus*, in addition to phyllolepids.  
 
 48.  Nuchal plate separating central plates: no (0); yes (1).
 > Johnson *et al*. (2000), Character 6; Dupret *et al*. (2009), Character 25; Dupret *et al*. (2017), Character 25; Zhu *et al*. (2010), Character 25; Xue *et al*. (2025), Character 66.
@@ -274,7 +274,7 @@ yes, as are taxa with dorsal nostrils.
 49.  Condition of centrals (postparietals): (0) do not meet in midline; (1) meet in midline.
 > Clement et al. (2018), Character 278; Zhu Y. et al. (2022), Character 140; Andreev et al. (2022), Character 278. Cui et al. (2023), Character 140.
 
-> - The original definition of this character included three states: (0) do not meet in midline; (1) meet in midline; (2) single midline bone. State 2 (a single median bone) was originally introduced by Clement et al. (2018) to describe the condition in the osteichthyan *Lingulalepis*, which possesses a single postparietal. In subsequent studies, this state was also assigned to *Entelognathus*, the phyllolepid *Cowralepis*, and the wuttagoonaspid *Wuttagoonaspis*. However, in *Wuttagoonaspis*, the median dermal element incorporates not only the central plates but also the nuchal plate, whereas the homology of the enlarged median plate in *Cowralepis* remains uncertain (see discussion of character 47). To avoid conflating these potentially non-homologous structures, we remove this state from the character definition. In *Entelognathus*, the paired central plates are fused together and are therefore scored as meeting at the midline. Dupret et al. (2008) described *Yiminaspis*, an early wuttagoonaspid, in which the central plates are separated by the nuchal plate and do not meet at the midline. This suggests that the central plates of *Wuttagoonaspis* may likewise not meet at the midline. Because the homology of the median dermal element in phyllolepids remains uncertain, this character is scored as inapplicable in this group.
+> - The original definition of this character included three states: (0) do not meet in midline; (1) meet in midline; (2) single midline bone. State 2 (a single median bone) was originally introduced by Clement et al. (2018) to describe the condition in the osteichthyan *Lingulalepis*, which possesses a single postparietal. In subsequent studies, this state was also assigned to *Entelognathus*, the phyllolepid *Cowralepis*, and the wuttagoonaspid *Wuttagoonaspis*. However, in *Wuttagoonaspis* an *Cowralepis*, the median dermal element incorporates not only the central plates but also the nuchal plate. To avoid conflating these potentially non-homologous structures, we remove this state from the character definition. In *Entelognathus*, the paired central plates are fused together and are therefore scored as meeting at the midline. Dupret et al. (2008) described *Yiminaspis*, an early wuttagoonaspid, in which the central plates are separated by the nuchal plate and do not meet at the midline. This suggests that the central plates of *Wuttagoonaspis* may likewise not meet at the midline. Because the homology of the median dermal element in phyllolepids remains uncertain, this character is scored as inapplicable in this group.
 >  - **Character 138 in "early gnathostome phylogeny github".**
 
 50.  Midline contact between paired central plates: straight (0); sinuous (1).
@@ -2218,11 +2218,11 @@ separate, this character is scored as 'not applicable'.
 
 518. Intermediate odontoid: absent (0); present (1). 
 
-519. Broad median plate anterior contact with preorbial, postnasal, postorbital plates: absent (0); present (1).  
+519. Fused central plate fused with nuchal plate: absent (0); present (1).  
 > - This character is only present in phyllolepids.
 > - **Character 79 in "early gnathostome phylogeny github".** 79. Single median element carrying the central, middle and posterior pit line: (0) absent; (1) present.
 
-520. Central plate fused with nuchal plate: absent (0); present (1).
+520. Individual central plates fused with nuchal plate: absent (0); present (1).
 > - This character is only present in *Wuttagoonaspis* and *Edgellaspis*.
 
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
