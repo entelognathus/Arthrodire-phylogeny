@@ -317,10 +317,12 @@ yes, as are taxa with dorsal nostrils.
 57.  Contact between central and preorbital plates: present (0); absent (1).
 > Johnson *et al*. (2000), Character 20; Dupret *et al*. (2009), Character 21; Dupret *et al*. (2017), Character 21; Zhu *et al*. (2010), Character 21; Xue *et al*. (2025), Character 64.
 
+> Johnson et al. (2000) originally introduced this character to describe the condition in *Proaethaspis*, in which the postorbital plate contacts the central plate, thereby separating the preorbital plate from the central plate. Among basally branching arthrodires, this condition is also present in antarctaspids, including *Panjiangosteus* and *Yujiangosteus*. Among placoderms, a similar arrangement is otherwise restricted to tianchids and quasipetalichthyids. Although the preorbital plates also do not contact the central plates in *Bianchengosteus*, this is due to their separation by the paired postorbital plates and the pineal plate. In taxa lacking either the central plate or the preorbital plate, this character is scored as inapplicable.
+
 58.  Length of the central plate contact with the nuchal plate: short (0); long, measured as greater than half the length from the nuchal anteromedian point to the posterolateral corner of the nuchal plate (1).
 > Carr (1991), Character 21; Carr and Hlavin (2010), Character 21; Rücklin *et al*. (2015), Character 21; Zhu Y *et al*. (2016), Character 21; Jobbins *et al*. (2022, 2024), Character 21; Xue *et al*. (2025), Character 21.
 
-> - In those taxa that the nuchal plate seperates the central plates or the nuchal plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
+> - This character is determined by the extent of contact between the lateral margins of the nuchal plate and the central plates. In basally branching arthrodires and some acanthothoracids, the anterior margin of the nuchal plate projects anteriorly, and its contact with the central plates is restricted to the anterior margin; the lateral margins of the nuchal plate do not contact the central plates. Accordingly, this character is scored as inapplicable in these taxa. It is also scored as inapplicable in taxa in which the nuchal plate separates the paired central plates or is fused with them.
 
 59.  Central plate forms part of the orbital margin: absent (0); present (1).
 > Modified from Dupret *et al*. (2009), Character 26; Dupret *et al*. (2017), Character 26; Zhu *et al*. (2010), Character 26; Xue *et al*. (2025), Character 67; Pan *et al*. (2015), Character 13.
@@ -2227,6 +2229,9 @@ separate, this character is scored as 'not applicable'.
 
 520. Individual central plates fused with nuchal plate: absent (0); present (1).
 > - This character is only present in *Wuttagoonaspis* and *Edgellaspis*.
+
+521. Central plate contacts the lateral margin of nuchal plate: absent (0); present (1).
+> - Carr (1991) introduced the character ‘Length of contact between the central and nuchal plates’ to describe the posterior lobe of the trilobate central plate in some brachythoracids, such as *Eastmanosteus*. This character is determined by the extent of contact between the lateral margins of the nuchal plate and the central plates, and therefore essentially reflects the degree of development of the posterior lobe of the central plate. However, this character does not adequately accommodate the condition in basally branching arthrodires and some acanthothoracids, in which the posterior lobe of the central plate is absent and the lateral margins of the nuchal plate do not contact the central plates. We therefore introduce an additional character to distinguish the presence or absence of the posterior lobe of the central plate. 
 
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
