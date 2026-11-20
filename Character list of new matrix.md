@@ -2216,6 +2216,12 @@ separate, this character is scored as 'not applicable'.
 
 518. Intermediate odontoid: absent (0); present (1). 
 
+519. Broad median plate anterior contact with preorbial, postnasal, postorbital plates: absent (0); present (1).  
+> - This character is only present in phyllolepids.
+
+520. Central plate fused with nuchal plate: absent (0); present (1).
+> - This character is only present in *Wuttagoonaspis* and *Edgellaspis*.
+
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
 
