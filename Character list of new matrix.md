@@ -261,35 +261,37 @@ yes, as are taxa with dorsal nostrils.
 
 >  -  This character is only present in some ptyctodonts, including *Meeksiella*, *Materpiscis*, *Kimbryanodus*, *Austroptyctodus*, and *Campbellodus*, and *Romundina* .
 
-47.  Central plates: fused into ‘centronuchal’ plate (0); individulized paired elements (1).
+47.  Central plates: fused into one plate (0); individulized paired elements (1).
 > Dupret *et al*. (2009), Character 17; Dupret *et al*. (2017), Character 17; Zhu *et al*. (2010), Character 17; Xue *et al*. (2025), Character 61.
 
-> - **Character 79 in "early gnathostome phylogeny github".** 79. Single median element carrying the central, middle and posterior pit line: (0) absent; (1) present.
->  -  Single midline bone is present in *Entelognathus*, *Wuttagoonaspis*, and phyllolepida.
+> - Based on the study of *Gavinaspis*, Dupret et al. (2009) proposed that the nuchal plate of phyllolepids was formed by the fusion of paired central plates with the nuchal plate. Accordingly, they introduced this character into their phylogenetic analysis. However, our examination of newly discovered specimens of *Gavinaspis* from Xitun reveals a distinct nuchal plate, with the paired central plates remaining separate (see the taxon list for a detailed discussion). Thus, the homology of the median cranial element in phyllolepids remains uncertain. We therefore revise this character to describe whether the central plates are fused or remain separate elements. Among the taxa included in the present analysis, the fused condition is present only in *Entelognathus*.  
 
 48.  Nuchal plate separating central plates: no (0); yes (1).
 > Johnson *et al*. (2000), Character 6; Dupret *et al*. (2009), Character 25; Dupret *et al*. (2017), Character 25; Zhu *et al*. (2010), Character 25; Xue *et al*. (2025), Character 66.
 
+> - Johnson et al. (2000) originally introduced this character into their phylogenetic matrix of arthrodires to describe the condition in some basally branching arthrodires, including *Baringaspis*, *Proaethaspis*, and *Aethaspis*, in which the elongated nuchal plate completely separates the paired central plates. This character is determined by whether the nuchal plate completely separates the paired central plates. In some taxa, such as *Romundina*, that the nuchal plate does not completely separated the central plate, this character is scored as no. In taxa lacking central plates, this character is scored as inapplicable. This condition is widely present among placoderms, occurring in petalichthyids, most ptyctodonts, antarctaspids, *Arabosteus*, *Brindabellaspis*, and some basally branching arthrodires. By contrast, the paired central plates are not separated by the nuchal plate in most arthrodires, maxillate placoderms, *Xiushanosteus*, and some acanthothoracids.
+
 49.  Condition of centrals (postparietals): (0) do not meet in midline; (1) meet in midline.
 > Clement et al. (2018), Character 278; Zhu Y. et al. (2022), Character 140; Andreev et al. (2022), Character 278. Cui et al. (2023), Character 140.
 
+> - The original definition of this character included three states: (0) do not meet in midline; (1) meet in midline; (2) single midline bone. State 2 (a single median bone) was originally introduced by Clement et al. (2018) to describe the condition in the osteichthyan *Lingulalepis*, which possesses a single postparietal. In subsequent studies, this state was also assigned to *Entelognathus*, the phyllolepid *Cowralepis*, and the wuttagoonaspid *Wuttagoonaspis*. However, in *Wuttagoonaspis*, the median dermal element incorporates not only the central plates but also the nuchal plate, whereas the homology of the enlarged median plate in *Cowralepis* remains uncertain (see discussion of character 47). To avoid conflating these potentially non-homologous structures, we remove this state from the character definition. In *Entelognathus*, the paired central plates are fused together and are therefore scored as meeting at the midline. Dupret et al. (2008) described *Yiminaspis*, an early wuttagoonaspid, in which the central plates are separated by the nuchal plate and do not meet at the midline. This suggests that the central plates of *Wuttagoonaspis* may likewise not meet at the midline. Because the homology of the median dermal element in phyllolepids remains uncertain, this character is scored as inapplicable in this group.
 >  - **Character 138 in "early gnathostome phylogeny github".**
 
 50.  Midline contact between paired central plates: straight (0); sinuous (1).
 > Dupret *et al*. (2009), Character 18; Dupret *et al*. (2017), Character 18; Zhu *et al*. (2010), Character 18; Xue *et al*. (2025), Character 62.
-
-> - In those taxa that the central plates are separated by nuchal plate, this character is scored as 'not applicable'.
+ 
+> - Dupret et al. (2009) originally introduced this character into their phylogenetic matrix of basally branching arthrodires to describe the condition in brachythoracids, including *Antineosteus* and *Coccosteus*, in which the sutural margin between the paired central plates is irregular or sinuous. This condition is widespread among brachythoracids. By contrast, the sutural margin between the paired central plates is relatively straight in basally branching arthrodires, some acanthothoracids, and *Xiushanosteus*. In some eubrachythoracids, including *Dunkleosteus*, *Stenosteus*, and *Enseosteus*, the sutural margin between the paired central plates has become secondarily straightened. This character appears to be related to the extent of the overlap areas between the dermal bones of the skull roof. In brachythoracids, these overlap areas are relatively extensive and irregular, resulting in an sinuous sutural margin. In those taxa that the central plates are separated by nuchal plate, this character is scored as 'not applicable'.
 > - **Character 139 in "early gnathostome phylogeny github".**  Suture between paired skull roofing bones (centrals of placoderms postparietals of osteichthyans): (0) straight; (1) sinusoidal. 
 
 51.  Length ratio for the external longitudinal of the preorbital and central plates (r = PrO/C): subequal, i.e. 0.75 < r < 1.25 (0); preorbital plate longer, i.e. r > 1.25 (1); central plate longer, i.e. r < 0.75 (2).
 > Carr (1991), Character 15; Carr and Hlavin (2010), Character 15; Rücklin *et al*. (2015), Character 15; Zhu Y *et al*. (2016), Character 15; Jobbins *et al*. (2022, 2024), Character 15; Xue *et al*. (2025), Character 15.
 
-> - In those taxa that the preorbital plate is asbent, this character is scored as 'not applicable'.
+> -  The maximum anteroposterior lengths of the preorbital and central plates are compared for this character. In those taxa that the preorbital plate is asbent, this character is scored as 'not applicable'.
 
 52.  Width of the central plate at its contact with the pineal plate: central plate tapers anteriorly to contact (0); central plate expands laterally to produce a transverse anterior border (1).
 > Carr (1991), Character 22; Carr and Hlavin (2010), Character 22; Rücklin *et al*. (2015), Character 22; Zhu Y *et al*. (2016), Character 22; Jobbins *et al*. (2022, 2024), Character 22; Xue *et al*. (2025), Character 22.
 
-> - This character is determined by the anterterior margin of central plate, although the central plate is not contacted with pineal plate. 
+> - Carr (1991) originally introduced this character into the phylogenetic matrix of eubrachythoracids to describe the condition in some selenosteids, in which the anterior margin of the central plate projects anteriorly to form a tapering angle. This character is primarily determined by the shape of the anterior margin of the central plate. In some taxa, including basally branching arthrodires, petalichthyids, and some acanthothoracids, the central plate does not contact the pineal plate; the character can nevertheless be assessed based on the shape of the anterior margin of the central plate. 
 
 53.  Preorbital plate embayment of central plate: absent (0); shallow (1); developed (2).
 > Carr (1991), Character 13; Lelièvre (1991), character 16; Carr and Hlavin (2010), Character 13; Rücklin *et al*. (2015), Character 13; Zhu Y *et al*. (2016), Character 13; Jobbins *et al*. (2022, 2024), Character 13; Dupret *et al*. (2009, 2017), Character 20, modified; Xue *et al*. (2025), Character 13.
@@ -2218,6 +2220,7 @@ separate, this character is scored as 'not applicable'.
 
 519. Broad median plate anterior contact with preorbial, postnasal, postorbital plates: absent (0); present (1).  
 > - This character is only present in phyllolepids.
+> - **Character 79 in "early gnathostome phylogeny github".** 79. Single median element carrying the central, middle and posterior pit line: (0) absent; (1) present.
 
 520. Central plate fused with nuchal plate: absent (0); present (1).
 > - This character is only present in *Wuttagoonaspis* and *Edgellaspis*.
