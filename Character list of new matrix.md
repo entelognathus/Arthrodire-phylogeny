@@ -208,7 +208,7 @@ yes, as are taxa with dorsal nostrils.
 37.  Width/length (W/L) ratio of preorbital plates: W/L > 0.5 (0); W/L ≤ 0.5 (1).
 > Dupret *et al*. (2009, 2017), Character 57.
 
-> - The length and width of the preorbital plate are measured at its maximum anteroposterior and transverse dimensions, respectively.
+> - Dupret et al. (2009) originally introduced this character into their phylogenetic matrix to describe taxa with elongated preorbital plates, including wuttagoonaspidids, *Antarctaspis*, and *Gavinaspis*. Elongated preorbital plates are also present in some eubrachythoracids, including camuropiscids and trematosteids. The length and width of the preorbital plate are measured at their maximum anteroposterior and transverse dimensions, respectively.
 
 38.  Preorbital plates forming part of orbital margin: yes (0); no (1).
 > Dupret *et al*. (2009), Character 27; Dupret *et al*. (2017), Character 27; Zhu *et al*. (2010), Character 27; Xue *et al*. (2025), Character 74.
