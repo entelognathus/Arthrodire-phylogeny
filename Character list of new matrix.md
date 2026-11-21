@@ -325,7 +325,7 @@ yes, as are taxa with dorsal nostrils.
 > - This character is determined by the extent of contact between the lateral margins of the nuchal plate and the central plates. In basally branching arthrodires and some acanthothoracids, the anterior margin of the nuchal plate projects anteriorly, and its contact with the central plates is restricted to the anterior margin; the lateral margins of the nuchal plate do not contact the central plates. Accordingly, this character is scored as inapplicable in these taxa. It is also scored as inapplicable in taxa in which the nuchal plate separates the paired central plates or is fused with them.
 
 59.  Central plate forms part of the orbital margin: absent (0); present (1).
-> Modified from Dupret *et al*. (2009), Character 26; Dupret *et al*. (2017), Character 26; Zhu *et al*. (2010), Character 26; Xue *et al*. (2025), Character 67; Pan *et al*. (2015), Character 13.
+> Modified from Dupret *et al*. (2004), Character 22; Dupret *et al*. (2009, 2017), Character 26; Zhu *et al*. (2010), Character 26; Xue *et al*. (2025), Character 67; Pan *et al*. (2015), Character 13.
 
 > - Dupret et al. (2004) interpreted the contribution of the central plate to the orbital margin as a plesiomorphic condition restricted to petalichthyids. However, among petalichthyids, this condition is present only in macropetalichthyids, in which it represents a synapomorphy of the group. In other placoderms possessing central plates, the central plate does not contribute to the orbital margin. Therefore, this condition should not be regarded as plesiomorphic. An exception occurs in *Homostius*, in which the central plate also contributes to the orbital margin. However, under the current phylogenetic framework, this similarity is most likely attributable to convergence.
 
@@ -335,159 +335,168 @@ yes, as are taxa with dorsal nostrils.
 > - Johnson et al. (2000) originally introduced this character to describe the relatively elongated central plates present in some basally branching arthrodires, including *Actinolepis*, *Aethaspis*, and *Kujdanowiaspis*. Dupret et al. (2009, 2017)subsequently incorporated this character into their phylogenetic matrix. In addition to these basally branching arthrodires, phyllolepids were also scored as possessing elongated central plates in Dupret's matrix, based on the interpretation that the median cranial element of phyllolepids was formed by the fusion of the paired central plates. Among placoderms, the proportions of the central plates are closely associated with variation in the dermal architecture of the skull roof. For example, the central plates are also relatively elongated in ptyctodonts, in which dermal ossification is absent from the anterior part of the skull.
 
 61.  Central plates meet posterior to the nuchal plate: (0) absent (do not meet); (1) present (meet).
-> Trinajstic et al. (2019), character 7.
+> Johnson and Elliott (1996), Character 12; Trinajstic et al. (2019), Character 7.
 
-> - This character is present in some ptyctodonts, such as *Ctenurella*.
+> - Johnson and Elliott (1996) originally introduced this character to describe the condition in some ptyctodonts, including *Ctenurella* and *Campbellodus*, in which the paired central plates meet along the midline posterior to the nuchal plate. This condition is also present in *Rhamphodopsis*, *Denisonodus*, and *Ptyctodopsis*. In taxa lacking either the central plates or the nuchal plate, this character is scored as 'inapplicable'.
 
 62.  Central plate forms the posterior margin of the skull roof: (0) absent; (1) present.
 
-> - This character is widely present in ptyctodonts.
+> - In ptyctodonts, including *Rhamphodopsis*, *Denisonodus*, and *Ptyctodopsis*, the central plates are positioned between the nuchal and paranuchal plates and form the posterior margin of the skull roof. Following the interpretation of Dupret et al. (2009) that the median large element of phyllolepids resulted from the fusion of the paired central plates, we also score this character as present in phyllolepids, in which the fused element forms the posterior margin of the skull roof. In taxa lacking central plates, this character is scored as 'inapplicable'.
 
 63.  Marginal plate in contact with the central plate: absent (0); present (1).
 > Lelièvre (1988), Character 5; Johnson *et al*. (2000), Character 5; Carr (1991), Character 23, modified; Lelièvre (1991), character 18; Carr and Hlavin (2010), Character 23; Rücklin *et al*. (2015), Character 23; Zhu Y *et al*. (2016), Character 23; Dupret *et al*. (2009, 2017), Character 22; Jobbins *et al*. (2022, 2024), Character 23; Xue *et al*. (2025), Character 23.
 
-> - This character seems redundant with Character 23 of Dupret *et al*. (2009, 2017) 'Contact between postorbital and paranuchal plates: present (0); absent (1)'. **Check codings in the matrix.**
-
-> - In taxa such as *Titanichthys*, where a fenestra is present between the postorbital and central plates, this character is coded as “not applicable.”
+> - This character is highly variable among placoderms. The marginal plate contacts the central plate in *Xiushanosteus*, maxillate placoderms, petalichthyids, and antarctaspids. By contrast, in ptyctodonts and phyllolepids, the marginal plate does not contact the central plate. Both conditions occur among acanthothoracids and arthrodires. An unusual condition is present in *Titanichthys*, in which a cranial fenestra separates the marginal plate from the central plate; accordingly, this character is scored as 'inapplicable' in this taxon. It is also scored as 'inapplicable' in taxa lacking central plates.
 
 > - **Character 102 in "early gnathostome phylogeny github".**
 
 64.  Extent of marginal plate along the lateral border of the skull roof: less than half the length from the postorbital process to the posterolateral corner of the skull roof (0); greater than half the length (1).
 > Carr (1991), Character 24; Carr and Hlavin (2010), Character 24; Rücklin *et al*. (2015), Character 24; Zhu Y *et al*. (2016), Character 24; Jobbins *et al*. (2022, 2024), Character 24; Xue *et al*. (2025), Character 24.
 
-> - The coding of *Panjiangosteus eurycephala* is 0.
+> - This character is applicable only to taxa in which the lateral angle of the skull roof is clearly defined. It reflects the extent to which the marginal plate contributes to the anterolateral margin of the skull roof, a condition particularly well developed in buchanosteioids. In the phylogenetic analysis of Xue et al. (2025), the condition in which the marginal plate extends for more than half the length of the lateral margin of the skull roof was recovered as a synapomorphy of Buchanosteioidea. In taxa with indistinct lateral angles of the skull roof, or in which the skull roof is firmly connected to the cheek plates, this character is scored as 'inapplicable'.
 
 65.  Marginal plate forms part of orbit border: absent (0); present (1).
 > Dennis and Miles (1979b), Character 26; Carr (1991), Character 25; Carr and Hlavin (2010), Character 25; Rücklin *et al*. (2015), Character 25; Zhu Y *et al*. (2016), Character 25; Jobbins *et al*. (2022, 2024), Character 25; Xue *et al*. (2025), Character 25.
 
-> - The coding of *Panjiangosteus eurycephala* is 0.
+> - Although this character had been repeatedly mentioned in the descriptions of the arthrodires from Bad Wildungen by Gross (1932) and Stensiö (1963, 1969a, b), its systematic significance had not previously been recognised. Miles and Dennis (1979) were the first to highlight its systematic significance, regarding it as a synapomorphy of some derived aspinothoracids. Carr (1991) subsequently incorporated this character into a phylogenetic analysis for the first time. In selenosteids, including *Enseosteus*, *Walterosteus*, and *Pachyosteus*, the orbits are enlarged, and the marginal plate contributes to the orbital margin. This condition is also present in ptyctodonts, although their dermal bone pattern differs from that of selenosteids. In ptyctodonts, the postorbital plate is relatively small and forms only part of the posterior orbital margin, whereas the marginal plate is enlarged and bears a well-developed suborbital process, forming the posterior and ventral margins of the orbit.
 
 66.  Mesial lamina on the internal surface of marginal plate: (0) absent; (1) present.
 > King et al. (2017), Character 254; Castiello (2018), Character 252; Zhu Y. et al. (2022), Character 94; Brazeau et al. (2023), Character 259. Cui et al. (2023), Character 94.
 
 > - **Character 92 in "early gnathostome phylogeny github".**
 
-> - King et al. (2017): A pair of laminae on the internal surface of the marginal plate, presumably for contact with the braincase, is present in ptyctodonts with suitable preservation. See e.g. Long (1997 fig. 4, mes.lam).
+> - Long (1997) described a pair of vertically extending dermal laminae on the visceral surface of the marginal plate in the ptyctodont *Campbellodus*. He termed these structures ‘mesial laminae’ and suggested that the ossified orbital region of the endocranium was attached between them. These structures are widely distributed among ptyctodonts. King et al. (2017) followed this interpretation and incorporated the character into their phylogenetic matrix.
 
 67.  Postmarginal plate: absent (0); present (1).
 > Dupret *et al*. (2009), Character 32; Dupret *et al*. (2017), Character 32; Zhu *et al*. (2010), Character 32； Xue *et al*. (2025), Character 75.
 
+> - Among placoderms, the postmarginal plate is present in arthrodires, antiarchs, maxillate placoderms, and *Brindabellaspis*. By contrast, it is absent in phyllolepids, ptyctodonts, and petalichthyids. In the juvenile specimen V 9548.2 of *Tianchia littus*, Zhu (1990) identified an additional plate along the middle of the lateral margin of the skull roof as the postmarginal plate. This observation suggests that petalichthyids possess a postmarginal plate during early ontogeny, which is subsequently lost during growth. It further suggests that the absence of the postmarginal plate in adult petalichthyids may have evolved secondarily from an ancestral condition in which the plate was present.
 > - **Character 98 in "early gnathostome phylogeny github".**  Series of bones lateral to supratemporal (placoderm marginal): (0) absent; (1) single bone; (2) two bones. 
-> - The postmarginal plate is absent in *Aleosteus*.
 
 68.  Nuchal plate: absent (0); present (1).
 > Dupret *et al*. (2009), Character 24; Dupret *et al*. (2017), Character 24; Zhu *et al*. (2010), Character 24; Xue *et al*. (2025), Character 65.
 
-69.  Contact between pineal and nuchal plates: absent (0); present (1).
-> Dupret *et al*. (2009), Character 34; Dupret *et al*. (2017), Character 34; Zhu *et al*. (2010), Character 34；Xue *et al*. (2025), Character 76.
+> - Based on the study of *Gavinaspis*, Dupret et al. (2009) proposed that the nuchal plate is absent in phyllolepids and incorporated this character into their phylogenetic matrix to describe this condition. Among placoderms, the nuchal plate is also absent in some ptyctodonts, such as *Neruchella*.
 
+69.  Contact between pineal and nuchal plates: absent (0); present (1).
+> Dupret *et al*. (2004), Character 28; Dupret *et al*. (2009, 2017), Character 34; Zhu *et al*. (2010), Character 34；Xue *et al*. (2025), Character 76.
+
+> - Dupret et al. (2004) originally introduced this character to describe the contact between the pineal and nuchal plates in petalichthyids. Among placoderms, this condition is also present in antarctaspids. Castiello (2018) subsequently defined the character as ‘Unpaired median skull roofing bone in contact with unpaired plate bearing pineal eminence or foramen: (0) absent; (1) present’ and incorporated it into his phylogenetic matrix.
 > - **Character 60 in "early gnathostome phylogeny github".** Unpaired median skull roofing bone in contact with unpaired plate bearing pineal eminence or foramen: (0) absent; (1) present.
 
 > - Castiello (2018): This character is a new formulation of Dupret et al. (2009) character 34. It is about the condition presents in many placoderms where a median impaired bone (nuchal plate) is in contact with the unpaired bone bearing the pineal foramen or eminence. This is opposed to some other placoderms and osteichthyans where the median impaired bone (extrascapular in osteichthyans) is not in contact with the pineal plate so that the preorbitals (parietals in sarcopterygian,frontal in actinopterygian) are in contact.
 
 70.  Contact between preorbital plate and nuchal plate: absent (0); present (1).
 > - **Character 148 in "early gnathostome phylogeny github".** Contact of nuchal or centronuchal or median extrascapular plate with paired preorbital or parietal plates: absent (0); present (1).
+
+> - This condition is present in placoderms with an elongated nuchal plate, including ptyctodonts, *Brindabellaspis*, *Arabosteus*, petalichthyids, antarctaspids, wuttagoonaspidids, and some basally branching arthrodires. In other placoderms, such as arthrodires and acanthothroacids, the nuchal plate does not contact the preorbital plate. In taxa lacking either the preorbital plate or the nuchal plate, this character is scored as 'inapplicable'.
  
 71.  Postorbital plate in contact with the nuchal plate: absent(0); present(1).
-> Xue *et al.* (2025, in pre)
+> Xue *et al.* (2026)
+
+> - In quasipetalichthyids and tianchids, the nuchal plate is elongated anteriorly and contacts the postorbital plate. A similar condition is also present in antarctaspids and *Edgellaspis*.
 
 72.	 Pineal plate occupies a notch in the anterior end of the nuchal plate (Young, 1985): absent (0); present (1).
-> Xue *et al.* (2025, in pre)
-> - This character is present in some antarctaspids and petalichthys, such as *Lunaspis*, *Shearsbyaspis*, and *Eurycaraspis*.
+> Xue *et al.* (2026)
+
+> - This character is applicable only to taxa in which the nuchal plate contacts the pineal plate, such as petalichthyids and antarctaspids. In most petalichthyids, including *Shearsbyaspis*, *Quasipetalichthys*, and *Lunaspis*, the anterior margin of the nuchal plate bears an embayment that accommodates the pineal plate. A similar condition is widespread among antarctaspids, including *Panjiangosteus* and *Yujiangosteus*. Based on the revised reconstruction of *Brindabellaspis* by Zhu et al. (2016), this condition is also present in this taxon.
 
 73.  Length/width ratio (L/W) of nuchal plate: L/W ≤ 1.5 (0); L/W > 1.5(1).
 > Dupret *et al*. (2009), Character 59; Dupret *et al*. (2017), Character 59; Zhu *et al*. (2010), Character 59; Xue *et al*. (2025), Character 73.
 
+> - This character is determined by the ratio of the maximum length to the maximum width of the nuchal plate. Dupret et al. (2004) originally introduced this character into their phylogenetic matrix to describe variation in nuchal plate shape among arthrodires. In most basally branching arthrodires, the nuchal plate is long and narrow. By contrast, in brachythoracids, the nuchal plate is short and broad, with well-developed lateral angles. Among placoderms, an elongated nuchal plate is widespread in petalichthyids, ptyctodonts, and maxillate placoderms. In antiarchs, including *Phymolepis* and *Parayunnanolepis*, the nuchal plate is relatively short and broad.
+
 74.  Shape of the external anterior nuchal border: straight (0); convex (1); concave (2).
 > Carr (1991), Character 10; Lelièvre (1995), character 9, modified; Carr and Hlavin (2010), Character 10; Rücklin *et al*. (2015), Character 10; Zhu Y *et al*. (2016), Character 10; Dupret *et al*. (2009, 2017), Character 33, modified; Jobbins *et al*. (2022, 2024), Character 10; Xue *et al*. (2025), Character 10.
 
-> - Dupret *et al*. (2009, 2017): Contact suture between nuchal and central plates (external side): nuchal plate indenting central plates (0); straight contact (1).
-
-> - In those taxa that the nuchal plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
+> - Carr (1991) originally introduced this character into the phylogenetic matrix of brachythoracids to describe variation in the shape of the anterior margin of the nuchal plate. In coccosteomorphs and most dunkleosteioids, the anterior margin of the nuchal plate is relatively straight or concave. By contrast, in aspinothoracids, the anterior margin is convex. An convex margin is also present in most other placoderms, including ptyctodonts, petalichthyids, *Xiushanosteus*, and basally branching arthrodires. Antiarchs exhibit a distinctive condition, in which the anterior margin convex but bears a median embayment accommodating the postpineal plate. In taxa lacking a nuchal plate, such as phyllolepids, this character is scored as 'inapplicable'. A similar character was also included in the phylogenetic matrices of Dupret et al. (2009, 2017), defined as ‘Contact suture between nuchal and central plates (external side): nuchal plate indenting central plates (0); straight contact (1)’.
  
 75.  Shape of the posterior nuchal border: straight (0); convex (1); concave (2).
 > Carr (1991), Character 11; Carr and Hlavin (2010), Character 11; Rücklin *et al*. (2015), Character 11; Zhu Y *et al*. (2016), Character 11; Jobbins *et al*. (2022, 2024), Character 11; Xue *et al*. (2025), Character 11.
 
-> - In those taxa that the nuchal plate is absent such as in phyllolepids, this character is scored as 'not applicable'.
+>  - This character is similar to the preceding one and describes variation in the shape of the posterior margin of the nuchal plate. In most coccosteomorphs, including *Coccosteus*, *Xiantingosteus*, and *Camuropiscis*, the posterior margin of the nuchal plate is relatively straight or slightly concave. By contrast, in aspinothoracids, this margin is deeply concave. In basally branching arthrodires, petalichthyids, and ptyctodonts, the posterior margin of the nuchal plate is relatively straight or convex posteriorly. In taxa lacking a nuchal plate, such as phyllolepids, this character is scored as 'inapplicable'.
 
 76.  Posterior lateral shape of the nuchal plate: nuchal straight, not expanded laterally (0); nuchal trapezoid, expanded laterally (1).
 > Gardiner and Miles (1990), Character 22.36, modified; Zhu Y *et al*. (2016), Character, 105; Xue *et al*. (2025), Character 49.
+
+> - This character, together with the preceding two characters, describes variation in the shape of the nuchal plate. In brachythoracids, the nuchal plate bears well-developed posterolateral angles, giving it an overall trapezoidal shape. Gardiner and Miles (1990) regarded this condition as a synapomorphy of brachythoracids. Zhu et al. (2016) subsequently incorporated this character into their phylogenetic matrix to analyse the relationships of brachythoracids, including some phlyctaenids as outgroups. In other placoderms, the nuchal plate is generally elongate, typically having a narrow pentagonal outline. A distinctive condition occurs in *Brindabellaspis*, in which the nuchal plate narrows anteriorly before expanding posteriorly. In taxa lacking a nuchal plate, such as phyllolepids, this character is scored as 'inapplicable'.
 
 77.  Nuchal plate contributing to posterior margin of skull roof: (0) absent; (1) present.
 > Zhu et al. (2013), Character 163; Choo et al. (2017), Character 172; Zhu Y. et al. (2022), Character 147. Cui et al. (2023), Character 147
 
 >  - **Character 144 in "early gnathostome phylogeny github".**
->  - In *Campbellodus* and *Austroptyctodus*, the nuchal plate does not contribute to the posterior margin of the skull roof.
+>  - This character describes the condition in some ptyctodonts, including *Rhamphodopsis*, *Ctenurella*, and *Denisonodus*, in which the nuchal plate does not form the posterior margin of the skull roof. In taxa lacking a nuchal plate, such as phyllolepids, this character is scored as 'inapplicable'.
 
 78.  Median paranuchal plate: (0) absent; (1) present.
 > Zhu Y. et al. (2022), Character 155. Cui et al. (2023), Character 155.
 
 >  - **Character 152 in "early gnathostome phylogeny github".**
->  - Zhu Y. et al. (2022): "Paired median paranuchals are present in some acanthothoracids, e.g., *Romundina*, *Arabosteus* (Olive et al., 2011) and *Sudaspis* (Vaškaninová and Ahlberg, 2017).
+>  - Zhu et al. (2022) originally introduced this character to describe the presence of a pair of median paranuchal plates in some acanthothoracids, including *Romundina*, *Arabosteus*, and *Sudaspis*.
 
 79.  Nuchal and paranuchal plates elongate: absent (0); present, associated with an elongation of the endolymphatic canal (1).
 > Lelièvre (1984b); Carr (1991), Character 29, modified; Lelièvre (1995), character 11, modified;  Carr and Hlavin (2010), Character 29; Rücklin *et al*. (2015), Character 29; Zhu Y *et al*. (2016), Character 29; Jobbins *et al*. (2022, 2024), Character 29; Xue *et al*. (2025), Character 29.
 
-> - Carr and Hlavin (2010): "Gardiner & Miles (1994) pointed out correctly that, in their analysis, only *Homostius* possesses this feature. *Buchanosteus confertituberculatus*, previously considered to have this feature by Carr (1991), is noted here to lack this character state (see also Lelièvre, 1984b). Although representing an autapomorphy of *Homostius* in the present study, this feature is potentially useful in considering other homostiids, e.g. *Tityosteus* Gross,1960 (Lelièvre, 1988, fig. 4A; refer to Denison 1978, fig. 51)."
-
-> - In those taxa that the paranuchal plate is elongated but the paranuchal plate is nomral or the nuchal plate is absent such as in phyllolepids, this character is scored as 'absent'.
-
-> - In *Baringaspis dineleyi*, antarctaspids, and wuttagoonaspids, the nuchal plate is elongated and separates central plates, but the paranuchal plate is normal. **revised the character: The occipital dermal plate elongate:absent (0); present, associated with an elongation of the endolymphatic canal (1); Nuchal plate elongate: absent (0); present (1).**
+> - Carr (1991) originally introduced this character into the phylogenetic matrix of eubrachythoracids to describe the elongation of the nuchal and paranuchal plates in *Homosteus* and *Buchanosteus*. However, following earlier studies and discussions (Gardiner and Miles, 1994; Lelièvre, 1984b), Carr and Hlavin (2010) considered the nuchal and paranuchal plates of *Buchanosteus* not to be elongated and accordingly revised the coding. In their phylogenetic analysis, this condition was recovered as an autapomorphy of *Homosteus*, and they suggested that it could be useful for resolving relationships among other homostiids. The original character was defined as follows: ‘Nuchal and paranuchal plates elongate: absent (0); present, associated with an elongation of the endolymphatic canal (1)’. However, this definition is problematic when applied to basally branching arthrodires and petalichthyids. For example, in *Baringaspis*, the nuchal plate is elongated, whereas the paranuchal plates are not.  We therefore revise the character to describe the elongation of the occipital dermal plate: ‘Occipital dermal plate elongate: absent (0); present, associated with an elongation of the endolymphatic canal (1)’. In taxa lacking a nuchal plate, this character is scored as 'inapplicable'. The elongation observed in homostiids may be associated with elongation of the occipital region of the endocranium.
 
 80.  Postnuchal process of paranuchal plate on dermal surface: absent (0); present (1), indicated by the presence of a postnuchal process on the dermal surface of the skull roof.
 > Dennis and Miles (1979b), Character 8, modified; Carr (1991), Character 30; Lelièvre (1995), character 6, modified; Carr and Hlavin (2010), Character 30; Rücklin *et al*. (2015), Character 30; Zhu Y *et al*. (2016), Character 30; Dupret *et al*. (2009, 2017), Character 38, modified; Jobbins *et al*. (2022, 2024), Character 30; Xue *et al*. (2025), Character 30.
 
-> Dupret *et al*. (2009, 2017): Posterior process of paranuchal plate behind nuchal plate (external side): absent (0); present (1).
+>  - This character describes the process formed by the paranuchal plate posterior to the lateral angle of the nuchal plate, a feature widely present among brachythoracids. This process is also present in phlyctaeniids and phyllolepids. In some selenosteids, including *Pachyosteus*, *Enseosteus*, and *Walterosteus*, the posterior nuchal process has been secondarily lost. A similar character was also included in the phylogenetic matrices of Dupret et al. (2009, 2017), defined as: ‘Posterior process of paranuchal plate behind nuchal plate (external side): absent (0); present (1)’.
 
 >  - **Character 144 in "early gnathostome phylogeny github".**
 
 81.  Number of paranuchal plates: one pair (0); two pairs (1).
 > Dupret *et al*. (2009), Character 35; Dupret *et al*. (2017), Character 35; Zhu *et al*. (2010), Character 35; Xue *et al*. (2025), Character 68.
 
+> - This character describes two conditions widely distributed among placoderms. A single pair of paranuchal plates is present in arthrodires, ptyctodonts, phyllolepids, antiarchs, and *Xiushanosteus*. By contrast, two pairs of paranuchal plates, an anterior pair and a posterior pair, are present in petalichthyids, acanthothoracids, maxillate placoderms, and *Brindabellaspis*. Dupret et al. (2009) considered *Yujiangosteus*, an antarctaspid, to possess two pairs of paranuchal plates. However, based on our examination of the specimens, we interpret the structure identified by Dupret et al. as the anterior pair of paranuchal plates to be fragments of the paranuchal plates rather than a distinct pair of plates.
 > - **Character 151 in "early gnathostome phylogeny github".**
 
 82.  Posterolateral edge of paranuchal plates: convex (0); concave (1).
-> Dupret *et al*. (2009), Character 37; Dupret *et al*. (2017), Character 37; Zhu *et al*. (2010), Character 37; Xue *et al*. (2025), Character 69.
-> In those taxa have two pairs paranuchal plate, this character 
+> Dupret *et al*. (2009), Character 33; Dupret *et al*. (2009, 2017), Character 37; Zhu *et al*. (2010), Character 37; Xue *et al*. (2025), Character 69.
+
+> - Dupret et al. (2009) originally introduced this character to describe the condition in basally branching arthrodires, in which the posterior margin of the paranuchal plate is posteriorly convex. By contrast, in brachythoracids, the posterior margin of the paranuchal plate is concave. This difference is related to the manner in which the skull roof contacts the thoracic armour in brachythoracids. A posteriorly covex margin is widespread among other placoderms.
 
 83.  Position of external foramen for endolymphatic duct: very forwardly positioned from posterior edge of paranuchal plate, or on anterior paranuchal plate for Petalichthyida (0); near the posterior edge of paranuchal plate (1).
-> Dupret *et al*. (2009), Character 39; Dupret *et al*. (2017), Character 39; Zhu *et al*. (2010), Character 39; Xue *et al*. (2025), Character 70.
+> Dupret *et al*. (2004), Character 39; Dupret *et al*. (2017), Character 39; Zhu *et al*. (2010), Character 39; Xue *et al*. (2025), Character 70.
+
+> - Dupret (2004) originally introduced this character to describe the relatively anterior position of the external opening of the endolymphatic duct on the paranuchal plate in basally branching arthrodires. By contrast, in phlyctaeniids and brachythoracids, the external opening of the endolymphatic duct is positioned close to the posterior margin of the paranuchal plate. In other placoderms, including petalichthyids and acanthothoracids, the opening is positioned relatively far anteriorly, away from the posterior margin of the skull roof. By contrast, in antiarchs, it is located close to the posterior margin of the skull roof. In taxa lacking an external opening of the endolymphatic duct, this character is scored as inapplicable.
 
 84.  Endolymphatic ducts open in dermal skull roof: (0) present; (1) absent.
 > Janvier (1996); Brazeau (2009); Davis et al. (2012), Character 21; Choo et al. (2017), Character 20; King et al. (2017), Character 154; Castiello (2018), Character 153; Zhu Y. et al. (2022), Character 203; Andreev et al. (2022), Character 39; Brazeau et al. (2023), Character 158. Cui et al. (2023), Character 203.
 
 >  - **Character 199 in "early gnathostome phylogeny github".**
->  - In some ptyctodonts, endolymaphatic ducts does not open in dermal skull roof.
+>  - In most placoderms, including arthrodires, petalichthyids, acanthothoracids, and antiarchs, the endolymphatic duct opens on the dermal surface of the skull roof. A similar condition is also present in some chondrichthyans. By contrast, the endolymphatic duct does not open on the skull roof in maxillate placoderms and ptyctodonts. This condition is also present in osteichthyans. In phyllolepids, there is no unequivocal evidence for an endolymphatic duct opening on the skull roof. Ritchie (2005) described a groove on the overlap area of the paranuchal plate in *Cowralepis*, which he interpreted as the endolymphatic duct. However, he also noted that there was no unequivocal evidence for an opening on the skull roof and suggested that the opeing might instead have been located between two dermal plates. No endolymphatic duct opening has been identified in other well-preserved, articulated phyllolepid specimens. We therefore consider the endolymphatic duct opening to be absent in phyllolepids.
 >  - The score for *Eurycaraspis* should possibly be revised from 1 to 0.
 
 85.  Endolymphatic ducts with oblique course through dermal skull bones: (0) absent; (1) present.
 > Goujet & Young (1995); Brazeau (2009); Davis et al. (2012), Character 22; Choo et al. (2017), Character 21; King et al. (2017), Character 155; Castiello (2018), Character 154; Zhu Y. et al. (2022), Character 205; Andreev et al. (2022), Character 40; Brazeau et al. (2023), Character 159. Cui et al. (2023), Character 205.
 
 >  - **Character 201 in "early gnathostome phylogeny github".**
->  - This character is a synapomorphy of arthrodires.
->  - In actinolepids, this character is possbily absent.
+>  - In arthrodires, the endolymphatic duct extends posterolaterally through the paranuchal plate and opens on the skull roof at a relatively posterior position. A similar condition may also be present in *Cowralepis*. By contrast, in other placoderms, such as *Brindabellaspis*, the endolymphatic duct is shorter and extends only to the skull roof near the otic region.
 
 86.  Endolymphatic duct relationship to median skull roof bone: (0) within median bone (i.e. nuchal plate); (1) on bones flanking the median bone (e.g. paranuchals).
 > Giles et al. (2015), Character 40; Choo et al. (2017), Character 269; King et al. (2017), Character 207; Castiello (2018), Character 206; Zhu Y. et al. (2022), Character 206; Andreev et al. (2022), Character 41; Brazeau et al. (2023), Character 212. Cui et al. (2023), Character 206
 
 >  - **Character 202 in "early gnathostome phylogeny github".**
->  - State 1 is widely present in some acanthothoracids, arthrodires, and petalichthyids. However, in acanthothoracids, the opening of endolymphatic duct is positioned on the median paranuchal plate. Zhu Y. et al. (2022): "We exclude the median paranuchal plate from the paranuchal series (Character 154), which runs along the main lateral line. Paired median paranuchals are present in some acanthothoracids, e.g., *Romundina*, *Arabosteus* (Olive et al., 2011) and *Sudaspis* (Vaškaninová and Ahlberg, 2017)."
+>  -  In the original definition, character state 0, in which the endolymphatic duct is associated with the median plate series, was restricted to *Brindabellaspis* and antiarchs. Zhu et al. (2022) discussed the distinction between the median and lateral plate series and excluded the median paranuchal plate from the paranuchal series because it is not traversed by the main lateral-line canal. Accordingly, the lateral plate series comprises only the anterior and posterior paranuchal plates, which are traversed by the main lateral-line canal, whereas the median plate series comprises the median paranuchal plate and the nuchal plate. We therefore revise the coding of acanthothoracids for this character to state 0, because the endolymphatic duct opens on the median paranuchal plate in this group.
 
 87.  Posterior projection on posterior paranuchal plate: (0) absent; (1) present.
 > Castiello (2018), Character 188; Castiello (2018), Character 188; Zhu Y. et al. (2022), Character 158. Cui et al. (2023), Character 158.
 
 >  - **Character 155 in "early gnathostome phylogeny github".**
->  - Castiello (2018):"Posterior projections are present on the posterior paranuchal plates on certain ’acanthothoracids’ (*Romundina* (Ørvig, 1975), *Arabosteus*, *Kimaspis*, *Kosoraspis*, and *Tlamaspis*."
+>  - Castiello (2018) originally introduced this character to describe the condition in some acanthothoracids, including *Romundina*, *Arabosteus*, *Kimaspis*, *Kosoraspis*, and *Tlamaspis*, in which the posterior margins of the paranuchal plates project posteriorly, forming a well-developed nuchal embayment in the posterior margin of the skull roof. This condition is also present in *Xiushanosteus*, *Gavinaspis*, and *Cuanyu*.
 
 88.  Posterior descending lamina of skull roof: (0) absent; (1) present.
 > King et al. (2017), Character 252; Castiello (2018), Character 251; Zhu Y. et al. (2019), Character 7; Zhu Y. et al. (2022), Character 93; Brazeau et al. (2023), Character 257. Cui et al. (2023), Character 93.
 
 > - **Character 91 in "early gnathostome phylogeny github".**
 
-> - This character is present in some petalichthyids and antiarchs. A similar lamina is found in *Materpiscis* and *Austroptyctodus*.
+> - King et al. (2017) originally introduced this character to describe the presence of a posterior descending lamina in quasipetalichthyids and the ptyctodonts *Materpiscis* and *Austroptyctodus*. This feature is widespread among quasipetalichthyids but, among ptyctodonts, is restricted to these two taxa.
 
 89.  Skull roof fenestra: absent (0); present (1).
 > Zhu Y *et al*. (2016), Character 109; Xue *et al*. (2025), Character 53.
+
+> - Zhu et al. (2016) originally introduced this character to describe the presence of fenestrae in the skull roof of some aspinothoracids, including *Trematosteus* and *Gorgonichthys*. This feature is widespread among trematosteids and is also present in *Titanichthys*. By contrast, other placoderms generally lack the skull roof fenestra. An unusual condition occurs in the phyllolepid *Cowralepis*, in which a fenestra is present between the postorbital, marginal, and median paranuchal plates.
 
 90.  Length ratio r1 representing the position of the posterolateral corner of the skull roof,: r1 < 0.45 (0); 0.45 ≤ r1 ≤ 0.58 (1); r1 > 0.58 (2).
 > Zhu Y *et al*. (2016), Character 92; Xue *et al*. (2025), Character 36.
