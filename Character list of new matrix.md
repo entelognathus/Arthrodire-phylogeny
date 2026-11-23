@@ -501,36 +501,27 @@ yes, as are taxa with dorsal nostrils.
 90.  Length ratio r1 representing the position of the posterolateral corner of the skull roof,: r1 < 0.45 (0); 0.45 ≤ r1 ≤ 0.58 (1); r1 > 0.58 (2).
 > Zhu Y *et al*. (2016), Character 92; Xue *et al*. (2025), Character 36.
 
-> - This ratio (r1 = c/b) is measured as the ratio of posterior sensory line junction–fossa distance (c) divided by the anterior sensory line junction–fossa distance (b)
+> - Carr and Hlavin (2010) originally introduced this character to describe variation in the position of the posterolateral angle of the skull roof. However, their formulation of the transformation series rendered the two characters uninformative, as most calculated ratios fell well below the minimum threshold for character-state discrimination. Zhu and Zhu (2013) subsequently revised the character definition. We follow the revised definition of Zhu and Zhu (2013) here. This ratio (r1 = c/b) is measured as the ratio of posterior sensory line junction (where the posterior margin canal/groove meets the main lateral-line canal/groove)– glenoid fossa distance (c) divided by the anterior sensory line junction (where the central and infraorbital canals/grooves meet)–glenoid fossa distance (b).
 
 91.  Length ratio r2 representing the extension of the anterior portion of the skull roof: r2 < 0.3 (0); 0.3 ≤ r2 ≤ 0.5 (1); r2 > 0.5 (2).
 > Zhu Y *et al*. (2016), Character 93; Xue *et al*. (2025), Character 37.
 
-> - In those taxa lacking the pineal plate such as phyllolepids, this character is scored as 'not applicable'.
-
-> - This ratio (r2 = d/b) is measured as the ratio of the pineal foramen–anterior sensory line junction (d) divided by the anterior sensory line junction–fossa distance (b).
+> - Carr and Hlavin (2010) originally introduced this character to describe variation in the extent of the anterior extension of the skull roof. However, because most calculated ratios fell well below the minimum threshold for character-state discrimination, the character was uninformative. Zhu and Zhu (2013) subsequently revised its definition. This ratio (r2 = d/b) is measured as the ratio of the pineal foramen–anterior sensory line junction (where the central and infraorbital canals/grooves meet) (d) divided by the anterior sensory line junction– glenoid fossa distance (b). In taxa lacking a pineal foramen, this character is scored as 'inapplicable'.
 
 92.  Position of the PrO/PtO/C triple point relative to the orbit: posterior to orbit (0); over the orbit (1).
 > Carr (1991), Character 33; Carr and Hlavin (2010), Character 33; Rücklin *et al*. (2015), Character 33; Zhu Y *et al*. (2016), Character 33; Jobbins *et al*. (2022, 2024), Character 33; Xue *et al*. (2025), Character 33.
 
-> - In those taxa that the central plate is not contacted with the preorbital plate, this character is scored as 'not applicable'.
+> - This character is closely associated with orbital size. In taxa with large orbits, particularly aspinothoracid arthrodires such as *Erromenosteus*, *Enseosteus*, and *Trematosteus*, the junction of the preorbital, postorbital, and central sensory canals is positioned posterior to the orbit. A similar condition is present in some ptyctodonts, such as *Meeksiella* and *Rhynchodus*. In taxa lacking a central plate, or in which the central plate does not contact the preorbital plate, this character is scored as inapplicable.
 
 93.  Position of the central/paranuchal/marginal or postorbital triple point (plate junction) relative to the paranuchal/central/nuchal triple point: C/PNu/M or PtO triple point anterior to PNu/C/Nu (0); posterior to PNu/C/Nu (1).
 > Carr (1991), Character 31, modified; Carr and Hlavin (2010), Character 31; Rücklin *et al*. (2015), Character 31; Zhu Y *et al*. (2016), Character 31; Jobbins *et al*. (2022, 2024), Character 31; Xue *et al*. (2025), Character 31.
 
-> Carr and Hlavin (2010): "Gardiner & Miles (1994) noted the error in the transposition of this character in Carr (1991). Only *Homostius*
-and *Buchanosteus* share character state 1, consisting of a posterior position of the triple point, and were scored as unique relative to the other analysed taxa in Carr (1991), as well as in the present study." **Check codings**
-
-> In those taxa that the nuchal plate is absent such as in phyllolepids, this character is scored as 'absent'.
+> - This character was introduced by Carr (1991) to describe variation in the arrangement of the posterior skull-roof plates. To some extent, it may also reflect the presence or absence of a posterolateral corner of the central plate. Gardiner & Miles (1994) pointed out an error in the reversal of character states in Carr (1991). Carr & Hlavin (2010) further noted that only *Homostius* and *Buchanosteus* exhibit state 1, in which the former triple point is positioned posterior to the latter. This condition was therefore considered unique to these two taxa among those examined by Carr (1991) and Carr & Hlavin (2010). In addition to these two taxa, however, this state is more widely distributed among homostiids, occurring in several other taxa, including *Antineosteus*, *Tityosteus*, and *Dhanguura*. In those taxa that the nuchal plate is absent such as in phyllolepids, this character is scored as 'absent'.
 
 94.  Position of preorbital/postorbital/central triple point relative to posterior triple point (PtO/M/C or PtO/PNu/C): parallels the midline or with the anterior point lateral (0); posterior point lateral to anterior point (1).
 > Carr (1991), Character 32;  Lelièvre (1991), character 12, modified; Carr and Hlavin (2010), Character 32; Rücklin *et al*. (2015), Character 32; Zhu Y *et al*. (2016), Character 32; Jobbins *et al*. (2022, 2024), Character 32; Xue *et al*. (2025), Character 32.
 
-> - In those taxa that the central plate is not contacted with the preorbital plate, this character is scored as 'not applicable'. 
-
-> - Lelièvre (1991) suggested that the definition of the character 32 of Carr (1991) is complex. The simply definition is Paranuchal plate process onto the central plate determing a lateral lobe: absent (0); present (1).
-
-> - The coding of *Panjiangosteus eurycephala* is -.
+> - This character was originally introduced by Carr (1991) to describe the condition in *Harrytoombsia* and *Rhinosteus*, in which the posterolatearl expansion of the central plate is absent. By contrast, in most brachythoracids, the central plate exhibits a posterolateral expansion associated with the development of a lateral lobe. Lelièvre (1991) considered the original definition of Carr (1991) overly complex and proposed a simpler definition based on the presence or absence of a lateral lobe formed by the extension of the paranuchal plate onto the central plate. However, the original definition of Carr (1991) is retained here because it provides a more objective criterion for character coding by relying on the relative positions of identifiable plate junctions, rather than requiring an interpretation of the extent and formation of the lateral lobe. Notably, in basally branching arthrodires, although the posterolateral expansion of the central plate is absent, the posterior triple point is nevertheless positioned lateral to the anterior triple point. This indicates that the relative positions of the two triple points do not necessarily correspond directly to the presence or absence of a posterolateral expansion of the central plate. In those taxa that the central plate is not contacted with the preorbital plate, this character is scored as 'not applicable'. 
 
 95.  In forms with a marginal - central plate contact, position of the junction of the postorbital, marginal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 > Long (1987), Character 7, modified; Carr and Hlavin (2010), Character 94; Rücklin *et al*. (2015), Character 94; Zhu Y *et al*. (2016), Character 94; Jobbins *et al*. (2022, 2024), Character 94; Xue *et al*. (2025), Character 38.
@@ -2247,6 +2238,10 @@ separate, this character is scored as 'not applicable'.
 522. Nuchal plate contacts with postpineal plate: absent (0) present (0).
 
 523. Postpineal plate occupies a notch in the anterior end of the nuchal plate: absent (0) present (0).
+
+536. Preorbital plate bears anterior lateral depression: absent (0); present (1).
+> (New Character)
+> - In macropetalichthyids, including *Pampetalichthys*, *Guangxipetalichthys*, and *Shearsbyaspis*, an inverted V-shaped depression is present on the preorbital plate anterior to the orbit. This structure has traditionally been termed the ‘preorbital recess’. However, a structure also referred to as the preorbital recess occurs in antiarchs, where it is formed by the premedian plate and is clearly not homologous to the similarly named structure in petalichthyids. To avoid conflating these two independently evolved structures, we use the term ‘anterior lateral depression’ to describe this feature and define the character as ‘Preorbital plate bears an anterior lateral depression’.
 
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
