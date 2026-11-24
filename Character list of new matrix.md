@@ -541,10 +541,8 @@ yes, as are taxa with dorsal nostrils.
 98.  Paired pits on the internal side of the nuchal plate separated by a median septum that is continuous with the median posterior process: absent (0); present (1).
 >  Carr and Hlavin (2010), Character 97; Rücklin *et al*. (2015), Character 97; Zhu Y *et al*. (2016), Character 97; Jobbins *et al*. (2022, 2024), Character 97; Xue *et al*. (2025), Character 41.
 
-> - 
+> - Carr and Hlavin (2010) originally introduced this character into their phylogenetic matrix of eubrachythoracids to describe the condition in aspinothoracid arthrodires, including *Dinichthys*, *Gorgonichthys*, *Gymnotrachelus*, and *Heintzichthys*, in which the median septum on the visceral surface of the nuchal plate is continuous posteriorly with the median posterior process of the skull roof. By contrast, in dunkleosteids, such as *Dunkleosteus*, and coccosteomorph arthrodires, such as *Coccosteus*, a transverse nuchal ridge interrupts the continuity between the median septum and the median posterior process. This condition may be related to the position of the paired ventral pits on the nuchal plate. When the paired ventral pits are positioned anterior to the transverse nuchal ridge, the ridge separates the median septum from the median posterior process. By contrast, when the paired ventral pits are positioned posterior to the transverse nuchal ridge, the ridge does not interrupt the continuity between the median septum and the median posterior process. 
 > - In those taxa that the nuchal plate is absent such as phyllolepids, this character is scored as 'not applicable'. 
-
->  - **Character 147 in "early gnathostome phylogeny github".**  Paired pits on ventral surface of nuchal or median extrascapular plate: (0) absent; (1) present. 
 
 99.  Nuchal plate with posterodorsally placed paired pits: absent (0), present (1).
 > Carr (1991), Character 1; Lelièvre (1995), character 7, modified; Carr and Hlavin (2010), Character 1; Rücklin *et al*. (2015), Character 1; Zhu Y *et al*. (2016), Character 1; Jobbins *et al*. (2022, 2024), Character 1; Xue *et al*. (2025), Character 1.
@@ -1845,6 +1843,8 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 
 389.  Paired pits on the internal side of the nuchal plate separated by a median septum：absent (0); present (1).
 > -  Miles & Dennis (1979), Character 11; Dennis & Miles (1981), Character 10；
+
+>  - **Character 147 in "early gnathostome phylogeny github".**  Paired pits on ventral surface of nuchal or median extrascapular plate: (0) absent; (1) present. 
 
 391.  Median posterior process of nuchal plate：absent (0); present (1).
 
