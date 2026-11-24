@@ -526,7 +526,7 @@ yes, as are taxa with dorsal nostrils.
 95.  In forms with a marginal - central plate contact, position of the junction of the postorbital, marginal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 > Long (1987), Character 7, modified; Carr and Hlavin (2010), Character 94; Rücklin *et al*. (2015), Character 94; Zhu Y *et al*. (2016), Character 94; Jobbins *et al*. (2022, 2024), Character 94; Xue *et al*. (2025), Character 38.
 
-> - Long (1987) referred character:'Central plates not triolate' to distinct the condition in the pachyosteomorph arthrodires, such as *Dunkleosteus*, *Gorgonichthys*, and *Hadrosteus*, in which displays trilobate shaped. By contrast, in coccosteomorph arthrodires, the central plate is triolate shaped. Carr and Hlavin (2010) modified this character and divied this character into three characters (character 95-97 in this matrix) to defined the change of the shape of trilobated central plate. In those taxa that the nuchal plate is absent such as phyllolepids, this character is scored as 'not applicable'. Thi character is only applicated in the taxa that the marginal plate contacts the central plate 
+> - Long (1987) originally introduced the character ‘Central plates not trilobate’ to distinguish the condition in pachyosteomorph arthrodires, such as *Dunkleosteus*, *Gorgonichthys*, and *Hadrosteus*, in which the central plates are trilobate in shape. By contrast, in coccosteomorph arthrodires, the central plates are not trilobate. Carr and Hlavin (2010) subsequently modified this character and subdivided it into three separate characters (characters 95–97 in their matrix) to describe variation in the morphology of the trilobate central plates. This character is applicable only to taxa in which the marginal plate contacts the central plate. In taxa lacking a nuchal plate, such as phyllolepids, this character is scored as inapplicable.
 
 96.  In forms with a marginal – central plate contact, position of the juction of the marginal, paranuchal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 > Long 1987, Character 7, modified; Carr and Hlavin (2010), Character 95; Rücklin *et al*. (2015), Character 95; Zhu Y *et al*. (2016), Character 95; Jobbins *et al*. (2022, 2024), Character 95; Xue *et al*. (2025), Character 39.
@@ -539,7 +539,7 @@ yes, as are taxa with dorsal nostrils.
 > - See the remarks on the character 95 In those taxa that the nuchal plate is absent such as phyllolepids, this character is scored as 'not applicable'. This character is only applicated in the taxa without contact between marginal and central plates.
 
 98.  Paired pits on the internal side of the nuchal plate separated by a median septum that is continuous with the median posterior process: absent (0); present (1).
-> Miles & Dennis (1979), Character 11; Dennis & Miles (1981), Character 10； Carr and Hlavin (2010), Character 97; Rücklin *et al*. (2015), Character 97; Zhu Y *et al*. (2016), Character 97; Jobbins *et al*. (2022, 2024), Character 97; Xue *et al*. (2025), Character 41.
+>  Carr and Hlavin (2010), Character 97; Rücklin *et al*. (2015), Character 97; Zhu Y *et al*. (2016), Character 97; Jobbins *et al*. (2022, 2024), Character 97; Xue *et al*. (2025), Character 41.
 
 > - 
 > - In those taxa that the nuchal plate is absent such as phyllolepids, this character is scored as 'not applicable'. 
@@ -1844,12 +1844,13 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 388.  Path of central canal onto central plate: direct (0); with anterior projection before entering central plate (1).
 
 389.  Paired pits on the internal side of the nuchal plate separated by a median septum：absent (0); present (1).
+> -  Miles & Dennis (1979), Character 11; Dennis & Miles (1981), Character 10；
 
-390.  Median posterior process of nuchal plate：absent (0); present (1).
+391.  Median posterior process of nuchal plate：absent (0); present (1).
 
-391.  Pre-endolymphatic thickening: normal or weakly developed (0); strongly developed (1).
+392.  Pre-endolymphatic thickening: normal or weakly developed (0); strongly developed (1).
 
-392.  T-shaped thickening on the visceral surface of anterior median ventral plate: absent (0); present (1).
+393.  T-shaped thickening on the visceral surface of anterior median ventral plate: absent (0); present (1).
 >  - This character is present in *Dunkleosteus* and *Panxiosteus*.
 
 393.  Postnuchal process: small (0); large (1).
