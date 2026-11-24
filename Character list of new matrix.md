@@ -526,29 +526,22 @@ yes, as are taxa with dorsal nostrils.
 95.  In forms with a marginal - central plate contact, position of the junction of the postorbital, marginal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 > Long (1987), Character 7, modified; Carr and Hlavin (2010), Character 94; Rücklin *et al*. (2015), Character 94; Zhu Y *et al*. (2016), Character 94; Jobbins *et al*. (2022, 2024), Character 94; Xue *et al*. (2025), Character 38.
 
-> - In those taxa that the nuchal plate is absent such as phyllolepids, this character is scored as 'not applicable'.
-
-> - This character is contingent on Character 23.
-
-> - The coding of *Panjiangosteus eurycephala* is 1.
+> - Long (1987) referred character:'Central plates not triolate' to distinct the condition in the pachyosteomorph arthrodires, such as *Dunkleosteus*, *Gorgonichthys*, and *Hadrosteus*, in which displays trilobate shaped. By contrast, in coccosteomorph arthrodires, the central plate is triolate shaped. Carr and Hlavin (2010) modified this character and divied this character into three characters (character 95-97 in this matrix) to defined the change of the shape of trilobated central plate. In those taxa that the nuchal plate is absent such as phyllolepids, this character is scored as 'not applicable'. Thi character is only applicated in the taxa that the marginal plate contacts the central plate 
 
 96.  In forms with a marginal – central plate contact, position of the juction of the marginal, paranuchal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 > Long 1987, Character 7, modified; Carr and Hlavin (2010), Character 95; Rücklin *et al*. (2015), Character 95; Zhu Y *et al*. (2016), Character 95; Jobbins *et al*. (2022, 2024), Character 95; Xue *et al*. (2025), Character 39.
 
-> - In those taxa that the nuchal plate is absent such as phyllolepids, this character is scored as 'not applicable'. 
-
-> - This character is contingent on Character .
+> - See the remarks on the character 95. In those taxa that the nuchal plate is absent such as phyllolepids, this character is scored as 'not applicable'.
 
 97.  In forms without a marginal – central plate contact, position of the junction between the postorbital, paranuchal, and central plates, relative to the anterior margin of the nuchal plate: anterior (0); posterior (1).
 > Long 1987, Character 7, modified; Carr and Hlavin (2010), Character 96; Rücklin *et al*. (2015), Character 96; Zhu Y *et al*. (2016), Character 96; Jobbins *et al*. (2022, 2024), Character 96; Xue *et al*. (2025), Character 40.
 
-> - In those taxa that the nuchal plate is absent such as phyllolepids, this character is scored as 'not applicable'. 
-
-> - This character is contingent on Character .
+> - See the remarks on the character 95 In those taxa that the nuchal plate is absent such as phyllolepids, this character is scored as 'not applicable'. This character is only applicated in the taxa without contact between marginal and central plates.
 
 98.  Paired pits on the internal side of the nuchal plate separated by a median septum that is continuous with the median posterior process: absent (0); present (1).
 > Miles & Dennis (1979), Character 11; Dennis & Miles (1981), Character 10； Carr and Hlavin (2010), Character 97; Rücklin *et al*. (2015), Character 97; Zhu Y *et al*. (2016), Character 97; Jobbins *et al*. (2022, 2024), Character 97; Xue *et al*. (2025), Character 41.
 
+> - 
 > - In those taxa that the nuchal plate is absent such as phyllolepids, this character is scored as 'not applicable'. 
 
 >  - **Character 147 in "early gnathostome phylogeny github".**  Paired pits on ventral surface of nuchal or median extrascapular plate: (0) absent; (1) present. 
