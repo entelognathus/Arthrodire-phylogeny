@@ -61,7 +61,23 @@ Microbrachius dicki.
 > - **Holotype.** IVPP V4425.3, a relatively complete trunk shield.
 > - **Diagnosis.** Phymolepis species in which the posterior process of the posterior median dorsal plate reaches one third of the plate length; the median dorsal ridge of trunk shield developed as a blunt elevation in front of the tergal angle and as a sharp crest behind the tergal angle.
 > - **Remarkes.** The diagnosis follows Zhu (1996) with an addition of the shape of the median dorsal ridge.
-> - **Reference.** Zhu, 1996; Wang and Zhu, 2018.
+> - **Reference.** Chang, 1978; Zhu, 1996; Wang and Zhu, 2018.
+
+[*Yunnanolepis spp*] Liu, 1963
+> **Geological range.** Early Devonian, Lochkovian to Pragian, 419.2, 407.6
+> - **Occurrence.** Xitun Formation, Xishancun Formation, Guijiatun Formation, Xujiachong Formation, Qujing, China; Hexian Formation, He and Pingle County, Guangxi; Lianhuashan Formation, Heng County, Guangxi.
+> - **Holotype.** A complete head-shield preserved ventrally and its mould, V2960.1 and V2960.2.
+> - **Diagnosis.** Yunnanolepididae in which the opening of the CHANG'S apparatus is visible in lateral aspect.
+> - **Remarkes.** The opening of the CHANG'S apparatus (a name erected here after Prof. M.-M. CHANG) was first figured by M.-M. ZHANG (1980, Fig. 3), and neither the description nor the explanation of this strange opening was given. As described below, the CHANG'S apparatus consists of an internal cavity and an external opening which straddles the suture between the ADL and AVL plates. Since the CHANG's apparatus is completely separated from the interior of the trunk-shield, it cannot function as a mechanoreceptor system, like the sensoryline system which penetrates the dermal plates. However, this structure may function as an expanded ampullary electoreceptor and its opening is covered by the epidermis. Another explanation is that the CHANG'S apparatus was glandular and had a role in mucus secretion. The goblet cells and compound mucus glands would have been integrated in the cavity of the CHANG'S apparatus. Among the Yunnanolepididae, only Yunnanolepis and *Phymolepis* share the CHANG's apparatus. The differences between them are following: 1) *Phymolepis* retains the AL plate which hides the opening of the CHANG'S apparatus from the outside; 2) In *Yunnanolepis* the posterolateral margin of the AMD plate is as long as the anterolateral margin, whereas in Phymolepis the posterolateral margin is obviously longer the anterolateral margin; 3) the PMD plate of *Phymolepis* bears a strong posterior process.
+> - **Reference.** Liu, 1963; Zhang, 1978; Zhang, 1980; Tong-Dzuy and Janvier, 1990; Zhu, 1996; Liu, 1992; Zhu et al., 1994.
+
+[*Chuchinolepis dongmoensis*] (https://deepbone.org/public/#/explor?s_id=70&return_to=%2Fexplor%3Fs_id%3D38%26return_to%3D%252Ftop-search-list%253Fkeyword%253DPhymolepis%252520cuifengshanensis%26return_y%3D0&return_y=0) Tong-Dzuy and Janvier, 1990
+> **Geological range.** Early Devonian, Lochkovian, 419.2, 410.8
+
+> - **Occurrence.** Tranchée de route entre Dông Mo et Tu Don au km 5 à partir de Dông Mo, rovince de Lang Son, Viêt Nam.
+> - **Holotype.** Cuirasse thoracique incomplète, montrant les plaques A VL, PVL, ADL, PL, PDL et MDP.
+> - **Diagnosis.** Chuchinolepis dont la plaque MDP présente une partie antérieure longue et étroite, et dont les proportions largeur/longueur sont de l'ordre de 2/3.
+> - **Reference.** Tong-Dzuy and Janvier, 1990.
 
 
 
