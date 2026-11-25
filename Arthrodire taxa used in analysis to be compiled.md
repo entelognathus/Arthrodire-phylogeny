@@ -36,6 +36,35 @@ Microbrachius dicki.
 > - **Remarks.** *Yangfanyu* exhibits several diagnostic features of euantiarchs, including a preorbital recess; a broad anterior margin of AMD plate; a jointed pectoral appendage; and a sophisticated helmet-shaped brachial process. It also retains several plesiomorphic features widely present in yunnanolepids, such as *Phymolepis* (Wang and Zhu 2018; Zhu 1996) and Mizia (Zhu 1996), including a cranio-spinal process cavity, an oblique ridge on the lateral wall of the trunk shield, and a posterior angle on the PMD plate. Notably, *Yangfanyu* displays a mosaic of bothriolepidoid and asterolepidoid features. Within bothriolepidoids, it resembles *Microbrachius* (Hemmings 1978) in an anterior lateral ridge on the head shield, a posterior dorsal angle, and the posterior lateral ridge on the posterior median dorsal plate. *Yangfanyu* exhibits a median dorsal spine arising from the dorsal wall of the trunk shield. This character occurs in several asterolepidoid genera, exemplified by *Byssacanthus*, *Jiangxilepis*, *Kirgisolepis*, and *Ningxialepis* (Eichwald 1844; Zhang and Liu 1991; Panteleyev 1992; Jia et al. 2010). However, the median dorsal spine of *Yangfanyu* is considerably longer than those of these asterolepidoid forms.
 > - **Reference.** [Xian et al. (2026)]
 
+[*Minicrania lirouyii*] (https://deepbone.org/public/#/explor?s_id=43&return_to=%2Ftop-search-list%3Fkeyword%3DMinicrania%2520lirouyii&return_y=0) Zhu and Janvier, 1996
+> **Geological range.** Early Devonian, Lochkovian, 419.2, 410.8
+
+> - **Occurrence.** Xishancun Formation, Liaoguoshan, Qujing, Yunnan, China.
+> - **Holotype.** an internal mold of an adult skull-roof, V10505.1.
+> - **Diagnosis.** Very small-sized antiarch, with closely fused skull-roof and trunk-shield bones; dermal bones ornamented with comparatively large, closely-set tubercles; obstantic margin short; postpineal plate convex and short; very large preorbital depression bounded off by a prominent ridge; small crescentiform preorbital recess lying below the middle part of preorbital depression; anterior ventral process situated between the levels of the tergal angle and the geometric centre of the anterior median dorsal plate; posterior median dorsal plate fairly large and broad; median dorsal ridge and two medial dorsolateral ridges on both sides extending from the tergal angle to the posterior angle; posterior angle spine-shaped.
+> - **Remarks.** *Minicrania lirouyii*, the only species of the genus, is the smallest antiarch recorded so far. The entire dermal armour (skull-roof and trunk-shield) in the presumed adult is less than 20 mm in length. *Minicrania* is very suggestive of the Yunnanolepiformes by its simple pectoral fin articulation and triangular preorbital depression. However, it differs from the typical Yunnanolepidae in the following characters: 1) the skull-roof being more or less square-shaped with the breadth/length ratio approximately 1.0, 2) the presence of a preorbital recess, 3) the short obstantic margin, 4) the closely fused skull-roof and trunk-shield bones, 5) the anterior median dorsal plate roughly hexagonal in shape with a broad anterior margin, 6) the posterior median dorsal plate fairly large and broad, and 7) the crista transversalis interna posterior extending laterally to the posterior ventral process of the PMD plate. The latter character is also found in the yunnanolepiform *Zhanjilepis*.
+> - **Reference.** Zhu and Janvier, 1996.
+
+[*Parayunnanolepis xitunensis*] (https://deepbone.org/public/#/explor?s_id=50&return_to=%2Ftop-search-list%3Fkeyword%3DParayunnanolepis%2520xitunensis&return_y=0) Zhang et al. 2001
+> **Geological range.** Early Devonian, Lochkovian, 419.2, 410.8
+
+> - **Occurrence.** Xitun Formation of Cuifengshan, Qujing city, Yunnan Province, China.
+> - **Holotype.** IVPP V11679.1, an articulated head and trunk shield with the post-thoracic body covered by scales.
+> - **Diagnosis.** small-sized yunnanolepid antiarch distinguished by the following combination of characters: a large orbital fenestra at about one-third of the head length; the infraorbital sensory canal having two branches around the orbit; the semicircular preorbital depression having a roof; the presence of the supraoccipital cross-commissural pitline groove; the presence of the postpineal endocranial process; and the presence of the two craniospinal processes.
+> - **Remarks.** The revised diagnosis here is focused on the head characters. It differs from the original diagnosis by Zhang et al. (2001), which is composed of general characters in yunnanolepids. Young and Zhang (1996) described three specimens (IVPP V9059.1–3) that were referred to *Phymolepis cuifengshanensis*, from the same site as the holotype of *Parayunnanolepis xitunensis*. Recently, Wang and Zhu (2018) remarked that IVPP V9059.1–3 are distinguishable from *Phymolepis cuifengshanensis* in headshield features. According to our new examination, we re-assigned these specimens (IVPP V9059.1–3) to *Parayunnanolepis xitunensis*.
+> - **Reference.** Zhang et al., 2001; Young and Zhang, 1996; Wang and Zhu, 2021; 2022.
+
+[*Phymolepis cuifengshanensis*] (https://deepbone.org/public/#/explor?s_id=38&return_to=%2Ftop-search-list%3Fkeyword%3DPhymolepis%2520cuifengshanensis&return_y=0) Chang, 1978
+> **Geological range.** Early Devonian, Lochkovian, 419.2, 410.8
+
+> - **Occurrence.** The material was collected from two sites (Cuifengshan and Liaokuoshan) in Qujing city, eastern Yunnan, southwestern China.
+> - **Holotype.** IVPP V4425.3, a relatively complete trunk shield.
+> - **Diagnosis.** Phymolepis species in which the posterior process of the posterior median dorsal plate reaches one third of the plate length; the median dorsal ridge of trunk shield developed as a blunt elevation in front of the tergal angle and as a sharp crest behind the tergal angle.
+> - **Remarkes.** The diagnosis follows Zhu (1996) with an addition of the shape of the median dorsal ridge.
+> - **Reference.** Zhu, 1996; Wang and Zhu, 2018.
+
+
+
 ## Maxillate placoderm
 [*Bianchengichthys micros*](https://deepbone.cn/public/#/explor?s_id=82935&return_to=%2Fexplor&return_y=0) Li et al. 2021
 > **Geological range.** Late Ludfordian, Late Ludlow, Silurian, 425.6, 423.0
