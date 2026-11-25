@@ -544,15 +544,15 @@ yes, as are taxa with dorsal nostrils.
 > - Carr and Hlavin (2010) originally introduced this character into their phylogenetic matrix of eubrachythoracids to describe the condition in aspinothoracid arthrodires, including *Dinichthys*, *Gorgonichthys*, *Gymnotrachelus*, and *Heintzichthys*, in which the median septum on the visceral surface of the nuchal plate is continuous posteriorly with the median posterior process of the skull roof. By contrast, in dunkleosteids, such as *Dunkleosteus*, and coccosteomorph arthrodires, such as *Coccosteus*, a transverse nuchal ridge interrupts the continuity between the median septum and the median posterior process. This condition may be related to the position of the paired ventral pits on the nuchal plate. When the paired ventral pits are positioned anterior to the transverse nuchal ridge, the ridge separates the median septum from the median posterior process. By contrast, when the paired ventral pits are positioned posterior to the transverse nuchal ridge, the ridge does not interrupt the continuity between the median septum and the median posterior process. 
 > - In those taxa that the nuchal plate is absent such as phyllolepids, this character is scored as 'not applicable'. 
 
-99.  Nuchal plate with posterodorsally placed paired pits: absent (0), present (1).
-> Carr (1991), Character 1; Lelièvre (1995), character 7, modified; Carr and Hlavin (2010), Character 1; Rücklin *et al*. (2015), Character 1; Zhu Y *et al*. (2016), Character 1; Jobbins *et al*. (2022, 2024), Character 1; Xue *et al*. (2025), Character 1.
+99.  Nuchal plate with posterodorsally placed pits: absent (0), present (1).
+> Modified from Carr (1991), Character 1; Lelièvre (1995), character 7, modified; Carr and Hlavin (2010), Character 1; Rücklin *et al*. (2015), Character 1; Zhu Y *et al*. (2016), Character 1; Jobbins *et al*. (2022, 2024), Character 1; Xue *et al*. (2025), Character 1.
 
-> - Lelièvre (1995): Position of the levator muscle pits on the nuchal plate: posterdorsal (0); posterventral (1); ventral (2).
-> - f.lv (fossa on the nuchal plate for levator muscles of the head) of Goujet (1984).
-> - present on the paranuchal plate in *Holonema*.
+> - In brachythoracids, such as *Dunkleosteus*, *Golshanichthys*, and *Coccosteus*, a pair of pits is present on the posterior view of the skull roof, ventral to the posterior process of the nuchal plate. A similar condition is also present in some basally branching arthrodires, including *Heintzosteus* and *Lehmanosteus*. Goujet (1984) interpreted these pits as attachment sites for the levator muscles of the head. Lelièvre (1995) subsequently introduced a character termed ‘Position of the levator muscle pits on the nuchal plate’, with three states: posterodorsal (0), posteroventral (1), and ventral (2). However, the structures referred to as ‘levator muscle pits’ by Lelièvre (1995) are not homologous to the pits described here. They are in fact the infranuchal pits, which were interpreted by several earlier authors as attachment sites for the levator muscles of the head. Thus, the character of Lelièvre (1995) concerns the position of the infranuchal pits rather than that of the paired pits described here. These pits are absent in other placoderms, with the exception of *Qilinyu*, in which similar pits are also visible in the digital reconstruction and rendering published by Zhu (2019). However, only a single pit is present in *Qilinyu*, rather than a paired set.
 
 100.  Median ridge on the visceral surface of the nuchal plate, corresponding to the median depression on the occipital region of the neurocranium: absent (0); present (1).
 > Zhu Y *et al*. (2016), Character 106; Xue *et al*. (2025), Character 50.
+
+> - This character is present in some non-eubrachythoracid arthrodires, such as *Kujdanosteus*, *Buchanosteus*, and *Dicksonosteus*, in which the visceral surface of the nuchal plate is thickened to form a broad median ridge. This thickening produces a corresponding impression on the dorsal surface of the endocranium. A similar condition is also present in tianchids, including *Diandongpetalichthys* and *Tianchia*, although the thickening is shorter and restricted to the posterior half of the nuchal plate. In quasipetalichthyids, such as *Eurycaraspis* and *Pauropetalichthys*, the posterior part of the visceral surface of the nuchal plate also bears a well-developed thickening, which may be homologous with the median ridge in arthrodires and tianchids. Ji and Pan (1999) described *Brevipetalichthys*, a petalichthyid from the Posongchong Formation of Zhaotong, Yunnan, which also exhibits this structure. They interpreted the thickening as corresponding to the occipital fontanel of the endocranium. The median thickening of the nuchal plate in quasipetalichthyids may represent a derived condition of the median ridge. In other placoderms, this ridge or thickening is absent. This character is applicable only to taxa possessing a nuchal plate.
 
 101.  Median ridge on the visceral surface of skull roof: long (0); short (1).
 > - The median ridge corresponding to the median nuchal depression on the dorsal suface of neurocranium is short in the brachythoracids and long in the plesiomorphic arthrodires.
@@ -1842,7 +1842,8 @@ medianventral plate) or in C. Laidlawi (Figs 6, 15C)."
 388.  Path of central canal onto central plate: direct (0); with anterior projection before entering central plate (1).
 
 389.  Paired pits on the internal side of the nuchal plate separated by a median septum：absent (0); present (1).
-> -  Miles & Dennis (1979), Character 11; Dennis & Miles (1981), Character 10；
+> -  Miles & Dennis (1979), Character 11; Dennis & Miles (1981), Character 10
+> -  Stensiö (1963) interpreted these pits as attachment sites for the levator muscle. However, several subsequent authors (Miles and Westoll, 1968; Miles, 1971; White and Toombs, 1972; Young, 1979; Long, 2014; Engelman et al., 2025; Xue et al., 2025) did not follow this interpretation and instead suggested that the pits accommodated the dorsal processes of the endocranium.
 
 >  - **Character 147 in "early gnathostome phylogeny github".**  Paired pits on ventral surface of nuchal or median extrascapular plate: (0) absent; (1) present. 
 
@@ -2236,6 +2237,10 @@ separate, this character is scored as 'not applicable'.
 536. Preorbital plate bears anterior lateral depression: absent (0); present (1).
 > (New Character)
 > - In macropetalichthyids, including *Pampetalichthys*, *Guangxipetalichthys*, and *Shearsbyaspis*, an inverted V-shaped depression is present on the preorbital plate anterior to the orbit. This structure has traditionally been termed the ‘preorbital recess’. However, a structure also referred to as the preorbital recess occurs in antiarchs, where it is formed by the premedian plate and is clearly not homologous to the similarly named structure in petalichthyids. To avoid conflating these two independently evolved structures, we use the term ‘anterior lateral depression’ to describe this feature and define the character as ‘Preorbital plate bears an anterior lateral depression’.
+
+537. Posterodorsally placed pit of nuchal plate: single (0); paired (1).
+> (New Character)
+> -  This character is applicable only to taxa in which the nuchal plate bears posterodorsally positioned pits. In most arthrodires, including *Heintzosteus*, *Coccosteus*, and *Dunkleosteus*, the nuchal plate bears a paired set of posterodorsally positioned pits. By contrast, in *Qilinyu* and *Xiantingosteus*, only a single pit is present on the posterodorsal surface of the nuchal plate.
 
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
