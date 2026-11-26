@@ -622,7 +622,7 @@ yes, as are taxa with dorsal nostrils.
 > - This character is only appicated in taxa bearing inframarginal crista. Detail inpretation is see in character 112.
 
 114.  Endolymphatic thickening on the visceral surface of skull roof: absent (0); present (1).
-> - The endolymphatic thickening is positioned in the anterior mesial part of paranuchal plate. The endolymaphtic thickening possibly corresponding to the lateral depression on the dorsal surface of the neurocranium is present non-eubrachythoracids, such as in *Kujdanowiaspis*, *Dicksonosteus*, and *Parabuchanosteus*.
+> - In buchanosteoids, such as *Exutaspis* and *Buchanosteus*, the endolymphatic thickening is positioned on the visceral surface of the anterior medial part of paranuchal plate. The endolymaphtic thickening possibly corresponding to the lateral depression on the dorsal surface of the neurocranium.
 
 ## Neck joint
 115.  Sliding contact of the dermal neck articulation: (0) absent; (1) present
