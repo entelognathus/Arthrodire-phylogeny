@@ -592,7 +592,7 @@ yes, as are taxa with dorsal nostrils.
 108.  Presence of a supraorbital vault intimately associated with the lateral consolidated arch: absent (0); present (1).
 > Carr and Hlavin (1991), Character 98; Rücklin *et al*. (2015), Character 98; Zhu Y *et al*. (2016), Character 98; Jobbins *et al*. (2022, 2024), Character 98; Xue *et al*. (2025), Character 42.
 
-> - In eubrachythoracids, such as *Dunkleosteus*, *Coccosteus*, and *Gorgonichthys*, the visceral surface of skull 
+> - In eubrachythoracids, such as *Dunkleosteus*, *Coccosteus*, and *Gorgonichthys*, the visceral surface of skull bears the thickening supraorbtial vault and lateral consolidated arch
 
 109.  Development of the crista supraethmoidalis at the visceral surface of the skull roof: underdeveloped, absent, or present but not convergent in the midline (0); developed, horizontally across the visceral surface of the skull roof (1).
 > Zhu Y *et al*. (2016), Character 99; Xue *et al*. (2025), Character 43.
