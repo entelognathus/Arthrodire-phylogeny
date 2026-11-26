@@ -88,7 +88,7 @@ Microbrachius dicki.
 > - **Remarks.** See Stensiö, 1931.
 > - **Reference.** Stensiö, 1931; Pan et al. 1980; 1987; Lukševičs, 1991; Johanson, 1997a; 1997b; Olive, 2015.
 
-[*Asterolepis ornata*] (https://deepbone.org/public/#/explor?s_id=1514&return_to=%2Ftop-search-list%3Fkeyword%3DAsterolepis%2520ornata&return_y=0) Eichwald, 1840
+[*Asterolepis ornata*] (https://deepbone.org/public/#/explor?s_id=1514&return_to=%2Ftop-search-list%3Fkeyword%3DAsterolepis%2520ornata&return_y=0)Eichwald, 1840
 > **Geological range.** Devonian, Givetian to Frasnian, 387.7, 372.2
 
 > - **Occurrence.** Ehrmann b.Ligat, Livonia, beds Dm,l; Lode and Gauja formations; Lode clay quarry, in Cesis region, Latvia.
@@ -96,6 +96,18 @@ Microbrachius dicki.
 > - **Diagnosis.** See Eichwald, 1840.
 > - **Remarks.** See Eichwald, 1840.
 > - **Reference.** Eichwald, 1840; Gross, 1931; 1933; Lyarskaya, 1977; 1981; Upeniece and Upenieks, 1992; Lukševičs, 2001; Upeniece, 2011; Ivanov et al., 1996; Downs et al., 2019.
+
+[*Pterichthyodes milleri*] (https://deepbone.org/public/#/explor?s_id=3337&return_to=%2Ftop-search-list%3Fkeyword%3DPterichthyodes%2520milleri&return_y=0)Miller, 1841
+> **Geological range.** Middle Devonian, Eifelian, 393.3, 387.7
+
+> - **Occurrence.** Middle Old Red Sandstone (Achanarras horizon) of Nairnshire, Banffshire, Rossshire, Caithness, Orkney and Shetland. This fish-bed forms the boundary between the Passage beds and the Thurso flagstone group in Caithness, and between the Lower and Upper Stromness flags in Orkney. SCOTTISH MAINLAND: Lethen bar quarry and associated area, Nairnshire. 550 m N of Brevail Farmhouse; Clune and associated area, Nairnshire. 275 m Nne of Clune Farm near Brevail; Leanach quarry, Inverness-shire. 1·2 km W of Clava Bridge; Edderton (Black park), Ross-shire. SE bank of Edderton Burn. 4 km WSW of Edderton church, 2 km NNE of Aultnamain Inn; Tynet Burn, Banffshire. 2'4 km SSW of POl'garth, downstream from lower Mills of Tynet, left bank of stream, adjacent to fault. Gollachy burn, Banffshire. About 180 m W of Auchentae, E of Tynet Burn; Gamrie Gardenstown, Banffshire. 180 m W of Findon farmhouse, 300 m NW of Dubford crossroads. E side of Den of Finden, near the top; Achanarras quarry, Caithness. 4·8 km SSE of Ha1kirk, 400 m SSW of Achanarras farm; Niandt Limestone, Port Na Muic, Caithness. Sloping down to cave, W of Robbery Head, 536 m NE of Port Na MUle. ORKNEY W MAINLAND: Hill of Cruaday. Quarry on S side of hill; Instabillie (Quoyloo). On the road from Cruaday to Bay of Skail; Newgarth. Entrance to large quarry, situated 320 m N of crossroads near Newgarth; Lyking Quarry on the E side of the road, 595 m N of Lyking. SHETLAND: Brough of Huxter. Shore, 145 m W 38° S of Brough of Huxter; Lang rigg. 450 m N 34° E of Huxter.
+> - **Holotype.** series of syntypes was employed by Miller in his descriptions, only one of which is now available. This I select as lectotype (RSM 1859.33.5; Miller 1841, pI. 1, fig. 2; Agassiz 1844a, pI. 1, fig. 2); it consists of a dorsal shield with extended pectoral appendages and
+the remains of the tail. It is from the foreshore at Cromarty.
+> - **Diagnosis.** Antiarch of medium size, the dorsal length of the dermal armour reaching at least 133 mm. Head-shield with breadth/length index between 76 and 96 when measured across the anterior postmarginal corners of the lateral plates; and representing about 25 % of the total dorsal length of the dermal armour. Premedian plate with breadth/length index between 130 and 150; nuchal plate with length/breadth index of 48 to 57. Trunk-armour high; lateral and dorsal walls meeting at 150°-160°; two 'sides of dorsal wall meeting at 70°-80°; tergal angle situated approximately half way along the anterior median dorsal plate; postlevator thickening present, but postlevator crista absent. Anterior median dorsal plate with breadth/length index between 75 and 90 in large specimens; overlapping anterior dorsolateral plate anteriorly but overlapped by mixilateral plate posteriorly. Posterior median dorsal plate with breadth/length index of 100; posterior angle little developed; posterior marginal area small. Mixilateral plate present, never separate posterior dorsolateral and posterior lateral plates. Mixilateral plate with breadth/length index between 87 and 102, but usually below 100. Anterior ventrolateral plate with ventral lamina about twice as long as broad. Posterior ventrolateral plate with ventral lamina two to two and a half times as long as broad. Pectoral appendage with proximal segment two to three times as long as broad; distal segment of two types, tapering or expanded. Heterocercal tail, equal in length to dermal armour; carrying single dorsal fin and lacking pelvic fins; totally covered with imbricating scales, which are modified dorsally and posteriorly to the dorsal fin, to form fulcral scales. Ornament tubercular; sub cephalic and sub anal division of trunk armour with large stellate tubercles.
+> - **Reference.** Miller, 1841; Hemmings and Rostron, 1972; Hemmings, 1978; Agassiz, 1844a; 1848; 1855; Horne, 1923; Nilsson, 1941; Blieck et al., 1999.
+
+
+
 
 ## Maxillate placoderm
 [*Bianchengichthys micros*](https://deepbone.cn/public/#/explor?s_id=82935&return_to=%2Fexplor&return_y=0) Li et al. 2021
