@@ -586,12 +586,13 @@ yes, as are taxa with dorsal nostrils.
 107.  Nuchal thickening: discontinuous with the lateral thickening associated with the cranio-thoracic dermal articulation (0); continuous thickening across the posterior skull roof (1).
 > Lelièvre (1988); Carr (1991), Character 12; Lelièvre (1995), character 10, modified; Carr and Hlavin (2010), Character 12; Rücklin *et al*. (2015), Character 12; Zhu Y *et al*. (2016), Character 12; Jobbins *et al*. (2022, 2024), Character 12; Xue *et al*. (2025), Character 12.
 
-> - In those taxa that the nuchal thickening is absent such as in phyllolepids, this character is scored as 'not applicable'. 
-
-> - Lelièvre (1995): Posterior nuchal thickening: present only under the paranuchal visceral surface (it corresponds to the development of the dermal articulation)(0), developed under all the occipital region of the skull-roof(1).
+> - This character is applicable only to taxa bearing a nuchal thickening, including phlyctaeniids and brachythoracids. In phlyctaeniids, the nuchal thickening is restricted to the region surrounding the neck joint. By contrast, in brachythoracid arthrodires, such as *Exutaspis*, *Holonema*, and *Dunkleosteus*, the thickening extends across the visceral surface of the posterior margin of the skull roof, encompassing both the neck joint and the intervening region between the two sides of the joint. 
+> - A similar character was also included in the phylogenetic matrix of Lelièvre (1995), defined as follows: ‘Posterior nuchal thickening: present only under the paranuchal visceral surface (it corresponds to the development of the dermal articulation) (0); developed under all the occipital region of the skull roof (1)’.
 
 108.  Presence of a supraorbital vault intimately associated with the lateral consolidated arch: absent (0); present (1).
-> Carr and Hlavin (1991); Carr (2010), Character 98; Rücklin *et al*. (2015), Character 98; Zhu Y *et al*. (2016), Character 98; Jobbins *et al*. (2022, 2024), Character 98; Xue *et al*. (2025), Character 42.
+> Carr and Hlavin (1991), Character 98; Rücklin *et al*. (2015), Character 98; Zhu Y *et al*. (2016), Character 98; Jobbins *et al*. (2022, 2024), Character 98; Xue *et al*. (2025), Character 42.
+
+> - In eubrachythoracids, such as *Dunkleosteus*, *Coccosteus*, and *Gorgonichthys*, the visceral surface of skull 
 
 109.  Development of the crista supraethmoidalis at the visceral surface of the skull roof: underdeveloped, absent, or present but not convergent in the midline (0); developed, horizontally across the visceral surface of the skull roof (1).
 > Zhu Y *et al*. (2016), Character 99; Xue *et al*. (2025), Character 43.
