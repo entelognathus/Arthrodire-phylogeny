@@ -592,30 +592,34 @@ yes, as are taxa with dorsal nostrils.
 108.  Presence of a supraorbital vault intimately associated with the lateral consolidated arch: absent (0); present (1).
 > Carr and Hlavin (1991), Character 98; Rücklin *et al*. (2015), Character 98; Zhu Y *et al*. (2016), Character 98; Jobbins *et al*. (2022, 2024), Character 98; Xue *et al*. (2025), Character 42.
 
-> - In eubrachythoracids, such as *Dunkleosteus*, *Coccosteus*, and *Gorgonichthys*, the visceral surface of skull bears the thickening supraorbtial vault and lateral consolidated arch
+> - In brachythoracids, including *Dunkleosteus*, *Coccosteus*, and *Exutaspis*, the visceral surface of the skull roof is thickened to form various consolidated structures. The anterolateral region of the skull roof is thickened, forming the supraorbital vault and lateral consolidated arch. In eubrachythoracids, such as *Dunkleosteus*, *Coccosteus*, and *Golshanichthys*, the supraorbital vault is intimately continuous with the lateral consolidated arch. By contrast, in some basally branching brachythoracids and phlyctaeniids, the lateral consolidated arch is absent or is not connected to the supraorbital vault. In basally branching arthrodires and other placoderms, the skull roof lacks these thickened structures, this character is scored as 'inapplicable'.
 
 109.  Development of the crista supraethmoidalis at the visceral surface of the skull roof: underdeveloped, absent, or present but not convergent in the midline (0); developed, horizontally across the visceral surface of the skull roof (1).
 > Zhu Y *et al*. (2016), Character 99; Xue *et al*. (2025), Character 43.
 
+> -  In some arthrodires, such as *Dunkleosteus* and *Melanosteus*, the visceral surface of the preorbital plate, or of both the preorbital and pineal plates, bears a transversely elongated crest located anterior to the pineal foramen. Stensiö (1963) termed this structure as the ‘supraethmoidal crest’ and suggested that this crest corresponds to the boundary between the nasal capsule and the postethmo-occipital portion of the endocranium. In most arthrodires, the paired supraethmoidal crests meet along the midline of the skull roof. By contrast, in some derived eubrachythoracids, such as *Dunkleosteus*, *Harrytoombsia*, and *Gorgonichthys*, the paired supraethmoidal crests are relatively short and do not extend to the midline of the skull roof. In basally branching arthrodires, such as *Kujdanowiaspis* and *Dicksonosteus*, a similar crista is present on the visceral surface of preorbital plate. In the matrix of Zhu et al. (2016), the supraethmoidal crest in *Kujdanowiaspis* and *Dicksonosteus* was coded as well developed. Accordingly, Zhu et al. (2016) considered these crests homologous with the supraethmoidal crest in eubrachythoracids. However, the relative position of this crest differs among these taxa. In *Kujdanowiaspis* and *Dicksonosteus*, the crest is located posterior to the pineal plate, whereas in other arthrodires, such as *Melanosteus*, it is positioned anterior to, or extends across, the pineal plate. A similar posterior positioned condition is also present in some buchanosteoids, such as *Exutaspis* and *Buchanosteus*. Here, we follow the interpretation of Zhu et al. (2016) regarding the homology of these crests and introduce an additional character describing their relative position (position of the supraethmoidal crest relative to the pineal plate: posterior [0] or anterior to, or extending across, the pineal plate [1]). This character is intended to distinguish the conditions observed in eubrachythoracids and basally branching arthrodires.
+
 110.  Lateral development of the supraorbital vault compared with the breadth of the skull roof at the level immediately behind the supraorbital vault: under developed, indicated by the ratio of the breadth of both sides of the lateral expansion of the supraorbital vaults/the breadth of the skull roof at the level immediately behind the supraorbital vault less than 0.3 (0); developed, indicated by the ratio of the breadth of the lateral expansion of the supraorbital vaults/the breadth of the skull oof larger than 0.3 (1).
 > Zhu Y *et al*. (2016), Character 102; Xue *et al*. (2025), Character 46.
 
-> - This definition of the skull roof breadth is to make this character independent of Character 113 (Zhu Y et al. 2016).
-
-> - In those taxa without supraorbital vault, this character is scored as 'not applicable'.
+> - This character is only applicable to taxa possessing a supraorbital vault. The medial surface of the supraorbital vault forms the lateral margin of the endocranium, and the distance between the two supraorbital vaults may reflect the width of the orbital region of the endocranium. In basally branching arthrodires, such as *Kujdanowiaspis*, *Dicksonosteus*, and *Actinolepis*, the supraorbital vaults are narrow, and the distance between them is relatively broad. This condition is consistent with a platybasic endocranium, in which the orbital region is broad. By contrast, in eubrachythoracids, such as *Dunkleosteus* and *Tapinosteus*, the supraorbital vaults are broad, whereas the distance between them is relatively narrow. This condition is consistent with a tropibasic endocranium, which is characterized by a narrow orbital region.
 
 > - **Character 133 in "early gnathostome phylogeny github".**  Skull roof with broad supraorbital vaults: (0) absent; (1) present.
 
 111.  Position of the anterior end of the endolymphatic duct on the visceral surface of the skull roof, indicating the neurocranial aperture of the endolymphatic duct: anteriorly positioned, defined as positioned anterior to the nuchal thickening (0); posteriorly positioned, on the nuchal thickening (1).
 > Zhu Y *et al*. (2016), Character 104; Xue *et al*. (2025), Character 48.
 
+> - This character is defined by the relative position of the anterior end of the endolymphatic duct on the visceral surface of the skull roof. In pachyosteomorph arthrodires, the anterior end of the endolymphatic duct is positioned over the nuchal thickening. By contrast, in other arthrodires, such as *Coccosteus*, *Exutaspis*, and *Buchanosteus*, it is located anterior to the nuchal thickening. This character is related to the morphology of the endocranium. Stensiö (1963) described two corresponding conditions in eubrachythoracids, suggesting that an anteriorly positioned endolymphatic duct is associated with a relatively elongated occipital region of the endocranium, whereas a more posteriorly positioned duct corresponds to a relatively shortened occipital region.
+
 112.  Inframarginal crista: absent (0); present (1).
-> Xue *et al*. (2025), Character 173.
+> (New Character) Xue *et al*. (2025), Character 173.
+
+> - In most brachythoracid arthrodires, such as *Dunkleosteus*, *Exutaspis*, and *Holonema*, one or two posterolaterally extending cristae are present on the visceral surface of the marginal plate. By contrast, the inframarginal crista is absent in basally branching arthrodires. Among brachythoracids, basally branching taxa, such as *Exutaspis* and *Holonema*, possess two inframarginal cristae: an anterior crista located on the marginal plate and a posterior crista extending across both the marginal and postmarginal plates. In most eubrachythoracids, such as *Coccosteus* and *Dunkleosteus*, only one inframarginal crista is present. Xue et al. (2025) suggested that the posterior inframarginal crista in basally branching brachythoracids is homologous with the single inframarginal crista in eubrachythoracids, implying that the anterior inframarginal crista was lost in the latter group. A distinctive condition is present in incisoscutoids, such as *Xiantingosteus*, *Harrytoombsia*, and *Compagopiscis*, in which the inframarginal crista is absent. In the phylogenetic analysis presented here, the absence of the inframarginal crista is recovered as a synapomorphy of Incisoscutoidea.
 
 113.  Number of inframarginal cristae: one (1); two (1).
 > Xue *et al*. (2025), Character 174.
 
-> - Character 174 is contingent on Character 173.
+> - This character is only appicated in taxa bearing inframarginal crista. Detail inpretation is see in character 112.
 
 114.  Endolymphatic thickening on the visceral surface of skull roof: absent (0); present (1).
 > - The endolymphatic thickening is positioned in the anterior mesial part of paranuchal plate. The endolymaphtic thickening possibly corresponding to the lateral depression on the dorsal surface of the neurocranium is present non-eubrachythoracids, such as in *Kujdanowiaspis*, *Dicksonosteus*, and *Parabuchanosteus*.
@@ -2240,6 +2244,9 @@ separate, this character is scored as 'not applicable'.
 537. Posterodorsally placed pit of nuchal plate: single (0); paired (1).
 > (New Character)
 > -  This character is applicable only to taxa in which the nuchal plate bears posterodorsally positioned pits. In most arthrodires, including *Heintzosteus*, *Coccosteus*, and *Dunkleosteus*, the nuchal plate bears a paired set of posterodorsally positioned pits. By contrast, in *Qilinyu* and *Xiantingosteus*, only a single pit is present on the posterodorsal surface of the nuchal plate.
+
+538. position of the supraethmoidal crest relative to the pineal plate: posterior (0); or anterior to, or extending across, the pineal plate (1).
+> (New Character)
 
 ** Hindmost spino-occipital nerves pierce the occipital region: ventrally (0); dorsally (1).
 >  - This characters is present in Pachyosteomorph arthrodires, such as *Paralciosteus*.
