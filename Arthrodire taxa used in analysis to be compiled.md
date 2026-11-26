@@ -79,7 +79,23 @@ Microbrachius dicki.
 > - **Diagnosis.** Chuchinolepis dont la plaque MDP présente une partie antérieure longue et étroite, et dont les proportions largeur/longueur sont de l'ordre de 2/3.
 > - **Reference.** Tong-Dzuy and Janvier, 1990.
 
+[*Remigolepis spp*] 
+> **Geological range.** Upper Devonian, Famennian, 372.2, 358.9
 
+> - **Occurrence.** East Greenland; Zhongning Formation, Zhongwei, Ningxia, China; the Tula region of Russia; Montfort/Evieux Formation, Tienne-des-Marteaux quarry also called Durnal 2, Bocq valley, Spontin, Namur Province, Belgium; near Canowindra, New South Wales, Australia.
+> - **Holotype.** See Stensiö, 1931.
+> - **Diagnosis.** See Stensiö, 1931.
+> - **Remarks.** See Stensiö, 1931.
+> - **Reference.** Stensiö, 1931; Pan et al. 1980; 1987; Lukševičs, 1991; Johanson, 1997a; 1997b; Olive, 2015.
+
+[*Asterolepis ornata*] (https://deepbone.org/public/#/explor?s_id=1514&return_to=%2Ftop-search-list%3Fkeyword%3DAsterolepis%2520ornata&return_y=0) Eichwald, 1840
+> **Geological range.** Devonian, Givetian to Frasnian, 387.7, 372.2
+
+> - **Occurrence.** Ehrmann b.Ligat, Livonia, beds Dm,l; Lode and Gauja formations; Lode clay quarry, in Cesis region, Latvia.
+> - **Holotype.** See Eichwald, 1840.
+> - **Diagnosis.** See Eichwald, 1840.
+> - **Remarks.** See Eichwald, 1840.
+> - **Reference.** Eichwald, 1840; Gross, 1931; 1933; Lyarskaya, 1977; 1981; Upeniece and Upenieks, 1992; Lukševičs, 2001; Upeniece, 2011; Ivanov et al., 1996; Downs et al., 2019.
 
 ## Maxillate placoderm
 [*Bianchengichthys micros*](https://deepbone.cn/public/#/explor?s_id=82935&return_to=%2Fexplor&return_y=0) Li et al. 2021
