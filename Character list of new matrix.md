@@ -575,16 +575,12 @@ yes, as are taxa with dorsal nostrils.
 
 105.  Depression mesial to supraorbital vault: absent (0); present (1).
 > (New Character)
-> - This depression is present in many plesiomorphic arthrodires, such as *Buchansopteus*, *Dhanguura* and *Exutaspis*.
+> - In *Buchanosteus*, *Dhanguura*, and *Exutaspis*, a rounded depression is present on the visceral surface of the skull roof, medial to the supraorbital vault. A similar structure is also present in *Coccosteus* and *Holonema*. The precise function of this structure remains unclear, but it may correspond to an underlying process on the dorsal surface of the endocranium.
 
-106.  Neurocranial process or thickening: absent (0); thickening (1); distinct process (2).
-> Dennis and Miles (1979b), Character 16, in part; Carr (1991), Character 4; Carr and Hlavin (2010), Character 4; Rücklin *et al*. (2016), Character 4; Zhu Y *et al*. (2016), Character 4; Jobbins *et al*. (2022, 2024), Character 4; Xue *et al*. (2025), Character 4.
+106.  Thickening of postocular process: absent (0); present (1); distinct process (2).
+> Modified from Dennis and Miles (1979b), Character 16, in part; Carr (1991), Character 4; Carr and Hlavin (2010), Character 4; Rücklin *et al*. (2016), Character 4; Zhu Y *et al*. (2016), Character 4; Jobbins *et al*. (2022, 2024), Character 4; Xue *et al*. (2025), Character 4.
 
-> - Also named as the ventral postocular process or postocular crest.
-
-> - The postocular crest of skull roof (Young, 1979) is present in many plesiomorphic arthrodires, such as *Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2), but is absent in eubrachythoracids. In contrast, many eubrachythoracids posssess dermal postorbital processes, but lacking the postocular crest.
-
-> - The postocular crest of skull roof is positioned posterior to the supraorbital vault on the visceral surface of skull roof, e.g.*Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2).     
+> - This structure has also been referred to as a neurocranial process or thickening and is positioned posterior to the supraorbital vault on the visceral surface of the skull roof. The postocular crest is widely present among arthrodires, including *Kujdanowiaspis* and *Buchanosteus*. In some brachythoracids, such as *Buchanosteus*, *Harrytoombsia*, and *Dunkleosteus*, the postocular crest is thickened. In dunkleosteids, including *Dunkleosteus* and *Westralichthys*, this thickening develops into a distinct process. By contrast, this thickening is absent in basally branching arthrodires and other placoderms.        
 > - The postocular crest is also present on the suborbital plate (Dennis and Miles, 1979; Rucklin, 2011). Note the same term used for a structure of the suborbital plate. Dennis and Miles (1979): "Suborbital plate with internal laminae (Figs 3, 11B). This plate (P50937) is structurally the same as that described for *Harrytoombsia*, except for the postocular crista which is proportionally much narrower and less robust. However, it does broaden anteriorly to form a substantial subocular crista. Also, the overlap area on the dorsal surface (PN.oa, Fig. 11B) receives the postnasal plate and not the preorbital lamina of the preorbital plate as is the case with *Harrytoombsia*". Rucklin (2011): "The visceral surface bears fused sub- and postocular crista, which form the ventral and posterior borders of the orbital vault. The subocular crista broadens anteriorly and is 5 mm wide lateromedially (Text-fig. 6C–D)."
 
 107.  Nuchal thickening: discontinuous with the lateral thickening associated with the cranio-thoracic dermal articulation (0); continuous thickening across the posterior skull roof (1).
