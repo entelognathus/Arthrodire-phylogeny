@@ -36,7 +36,7 @@ Microbrachius dicki.
 > - **Remarks.** *Yangfanyu* exhibits several diagnostic features of euantiarchs, including a preorbital recess; a broad anterior margin of AMD plate; a jointed pectoral appendage; and a sophisticated helmet-shaped brachial process. It also retains several plesiomorphic features widely present in yunnanolepids, such as *Phymolepis* (Wang and Zhu 2018; Zhu 1996) and Mizia (Zhu 1996), including a cranio-spinal process cavity, an oblique ridge on the lateral wall of the trunk shield, and a posterior angle on the PMD plate. Notably, *Yangfanyu* displays a mosaic of bothriolepidoid and asterolepidoid features. Within bothriolepidoids, it resembles *Microbrachius* (Hemmings 1978) in an anterior lateral ridge on the head shield, a posterior dorsal angle, and the posterior lateral ridge on the posterior median dorsal plate. *Yangfanyu* exhibits a median dorsal spine arising from the dorsal wall of the trunk shield. This character occurs in several asterolepidoid genera, exemplified by *Byssacanthus*, *Jiangxilepis*, *Kirgisolepis*, and *Ningxialepis* (Eichwald 1844; Zhang and Liu 1991; Panteleyev 1992; Jia et al. 2010). However, the median dorsal spine of *Yangfanyu* is considerably longer than those of these asterolepidoid forms.
 > - **Reference.** [Xian et al. (2026)]
 
-[*Minicrania lirouyii*] (https://deepbone.org/public/#/explor?s_id=43&return_to=%2Ftop-search-list%3Fkeyword%3DMinicrania%2520lirouyii&return_y=0) Zhu and Janvier, 1996
+[*Minicrania lirouyii*](https://deepbone.org/public/#/explor?s_id=43&return_to=%2Ftop-search-list%3Fkeyword%3DMinicrania%2520lirouyii&return_y=0) Zhu and Janvier, 1996
 > **Geological range.** Early Devonian, Lochkovian, 419.2, 410.8
 
 > - **Occurrence.** Xishancun Formation, Liaoguoshan, Qujing, Yunnan, China.
@@ -45,7 +45,7 @@ Microbrachius dicki.
 > - **Remarks.** *Minicrania lirouyii*, the only species of the genus, is the smallest antiarch recorded so far. The entire dermal armour (skull-roof and trunk-shield) in the presumed adult is less than 20 mm in length. *Minicrania* is very suggestive of the Yunnanolepiformes by its simple pectoral fin articulation and triangular preorbital depression. However, it differs from the typical Yunnanolepidae in the following characters: 1) the skull-roof being more or less square-shaped with the breadth/length ratio approximately 1.0, 2) the presence of a preorbital recess, 3) the short obstantic margin, 4) the closely fused skull-roof and trunk-shield bones, 5) the anterior median dorsal plate roughly hexagonal in shape with a broad anterior margin, 6) the posterior median dorsal plate fairly large and broad, and 7) the crista transversalis interna posterior extending laterally to the posterior ventral process of the PMD plate. The latter character is also found in the yunnanolepiform *Zhanjilepis*.
 > - **Reference.** Zhu and Janvier, 1996.
 
-[*Parayunnanolepis xitunensis*] (https://deepbone.org/public/#/explor?s_id=50&return_to=%2Ftop-search-list%3Fkeyword%3DParayunnanolepis%2520xitunensis&return_y=0) Zhang et al. 2001
+[*Parayunnanolepis xitunensis*](https://deepbone.org/public/#/explor?s_id=50&return_to=%2Ftop-search-list%3Fkeyword%3DParayunnanolepis%2520xitunensis&return_y=0) Zhang et al. 2001
 > **Geological range.** Early Devonian, Lochkovian, 419.2, 410.8
 
 > - **Occurrence.** Xitun Formation of Cuifengshan, Qujing city, Yunnan Province, China.
@@ -54,7 +54,7 @@ Microbrachius dicki.
 > - **Remarks.** The revised diagnosis here is focused on the head characters. It differs from the original diagnosis by Zhang et al. (2001), which is composed of general characters in yunnanolepids. Young and Zhang (1996) described three specimens (IVPP V9059.1–3) that were referred to *Phymolepis cuifengshanensis*, from the same site as the holotype of *Parayunnanolepis xitunensis*. Recently, Wang and Zhu (2018) remarked that IVPP V9059.1–3 are distinguishable from *Phymolepis cuifengshanensis* in headshield features. According to our new examination, we re-assigned these specimens (IVPP V9059.1–3) to *Parayunnanolepis xitunensis*.
 > - **Reference.** Zhang et al., 2001; Young and Zhang, 1996; Wang and Zhu, 2021; 2022.
 
-[*Phymolepis cuifengshanensis*] (https://deepbone.org/public/#/explor?s_id=38&return_to=%2Ftop-search-list%3Fkeyword%3DPhymolepis%2520cuifengshanensis&return_y=0) Chang, 1978
+[*Phymolepis cuifengshanensis*](https://deepbone.org/public/#/explor?s_id=38&return_to=%2Ftop-search-list%3Fkeyword%3DPhymolepis%2520cuifengshanensis&return_y=0) Chang, 1978
 > **Geological range.** Early Devonian, Lochkovian, 419.2, 410.8
 
 > - **Occurrence.** The material was collected from two sites (Cuifengshan and Liaokuoshan) in Qujing city, eastern Yunnan, southwestern China.
@@ -71,7 +71,7 @@ Microbrachius dicki.
 > - **Remarkes.** The opening of the CHANG'S apparatus (a name erected here after Prof. M.-M. CHANG) was first figured by M.-M. ZHANG (1980, Fig. 3), and neither the description nor the explanation of this strange opening was given. As described below, the CHANG'S apparatus consists of an internal cavity and an external opening which straddles the suture between the ADL and AVL plates. Since the CHANG's apparatus is completely separated from the interior of the trunk-shield, it cannot function as a mechanoreceptor system, like the sensoryline system which penetrates the dermal plates. However, this structure may function as an expanded ampullary electoreceptor and its opening is covered by the epidermis. Another explanation is that the CHANG'S apparatus was glandular and had a role in mucus secretion. The goblet cells and compound mucus glands would have been integrated in the cavity of the CHANG'S apparatus. Among the Yunnanolepididae, only Yunnanolepis and *Phymolepis* share the CHANG's apparatus. The differences between them are following: 1) *Phymolepis* retains the AL plate which hides the opening of the CHANG'S apparatus from the outside; 2) In *Yunnanolepis* the posterolateral margin of the AMD plate is as long as the anterolateral margin, whereas in Phymolepis the posterolateral margin is obviously longer the anterolateral margin; 3) the PMD plate of *Phymolepis* bears a strong posterior process.
 > - **Reference.** Liu, 1963; Zhang, 1978; Zhang, 1980; Tong-Dzuy and Janvier, 1990; Zhu, 1996; Liu, 1992; Zhu et al., 1994.
 
-[*Chuchinolepis dongmoensis*] (https://deepbone.org/public/#/explor?s_id=70&return_to=%2Fexplor%3Fs_id%3D38%26return_to%3D%252Ftop-search-list%253Fkeyword%253DPhymolepis%252520cuifengshanensis%26return_y%3D0&return_y=0) Tong-Dzuy and Janvier, 1990
+[*Chuchinolepis dongmoensis*](https://deepbone.org/public/#/explor?s_id=70&return_to=%2Fexplor%3Fs_id%3D38%26return_to%3D%252Ftop-search-list%253Fkeyword%253DPhymolepis%252520cuifengshanensis%26return_y%3D0&return_y=0) Tong-Dzuy and Janvier, 1990
 > **Geological range.** Early Devonian, Lochkovian, 419.2, 410.8
 
 > - **Occurrence.** Tranchée de route entre Dông Mo et Tu Don au km 5 à partir de Dông Mo, rovince de Lang Son, Viêt Nam.
