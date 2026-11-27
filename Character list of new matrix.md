@@ -646,13 +646,13 @@ yes, as are taxa with dorsal nostrils.
 119.  Cranial fossa receiving the ventral articular lamina of the trunk: (0) absent; (1) present.
 > Zhu *et al*. (2019), Character 4; Zhu Y. *et al*. (2021), Character 357; Zhu Y. *et al*. (2022), Character 562; Cui *et al*. (2023), Character 561; Zhu Y. *et al*. (2019), Character 374; Trinajstic *et al*. (2019), Character 16.
 
-> This character describes the ginglymoid neck joint present in phlyctaeniids and brachythoracids. In these taxa, the skull roof bears a fossa that receives a lamina formed by the trunk shield. A similar condition is also present in *Qilinyu*, although its articulation is more specialised and involves a dual articulation. Antiarchs also possess a ginglymoid neck joint, but their skull roof lacks a cranial fossa. Instead, it bears a lamina that articulates with a fossa formed by the trunk shield. This condition has previously been termed a ‘reverse ginglymoid’ articulation.
+> - This character describes the condition in phlyctaeniids and brachythoracids, in which the skull roof bears a fossa that receives a lamina formed by the trunk shield. A similar condition is also present in *Qilinyu*, although its articulation is more specialised and involves a dual articulation. Antiarchs also possess a ginglymoid neck joint, but their skull roof lacks a cranial fossa. Instead, it bears a lamina that articulates with a fossa formed by the trunk shield. This condition has previously been termed a ‘reverse ginglymoid’ articulation.
 
 > - **Character 556 in "early gnathostome phylogeny github".**
 
 120.  Rotatory contact of the dermal neck articulation: (0) absent; (1) present.
 > Zhu *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 359; Zhu Y. *et al*. (2022), Character 564; Cui *et al*. (2023), Character 563; Zhu Y. *et al*. (2019), Character 376; Trinajstic *et al*. (2019), Character 16.
->  - Zhu *et al*. (2019): "It is only present in arthrodires above phlyctaenids (including brachythoracids)."
+> - Zhu et al. (2019) originally defined this character to describe the condition in phlyctaeniids and brachythoracids. In these taxa, the posterior margin of the skull roof is thickened to form an articular fossa, whereas the anterior dorsolateral plate bears an articular condyle. These structures form a rotatory articulation between the skull roof and the trunk shield. Although *Qilinyu* also possesses a cranial fossa, its dual articulation restricts the mobility of the neck joint. Accordingly, the articulation in *Qilinyu* is not considered rotatory.
 > - **Character 558 in "early gnathostome phylogeny github".**
 
 121.  Trunk ventral articular lamina develops into flange or condyle: (0) absent, continuous along the articular lamina of the anterior dorsolateral plate; (1) present, the articular lamina develops into distinctive flange or condyle.
