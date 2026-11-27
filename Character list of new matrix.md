@@ -626,17 +626,19 @@ yes, as are taxa with dorsal nostrils.
 
 ## Neck joint
 115.  Sliding contact of the dermal neck articulation: (0) absent; (1) present
-> - It is present in actinolepidoids, petalichthyids and some ptyctodonts.
+> - (New Character)
+> -  A sliding articulation between the skull roof and the trunk shield is widespread among placoderms, including acanthothoracids, actinolepidoids, phyllolepids, petalichthyids, and *Entelognathus*. A similar condition may also be present in some ptyctodonts, such as *Meeksiella*, *Kimbryanodus*, and *Campbellodus*. By contrast, in phlyctaeniids, brachythoracids, and antiarchs, the neck articulation is ginglymoid.
 
 116.  Type of sliding neck joint: horizontal or actinolepid type (0), vertical (1).
 > Young (1978); Zhu *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 360; Zhu Y. *et al*. (2022), Character 565; Brazeau *et al*. (2023), Character 179. Cui *et al*. (2023), Character 564.
 
-> - The vertical sliding joint relates to the ventral laminar ridges of dermal neck joint.
-> - Zhu *et al*. (2019): "Presence or absence of a lateral ridge or process defines the mesial boundary of the visceral contact face for the articular lamina on the paranuchal plate. The lateral ridge is present in petalichthyids and some ptyctodontids and absent in other placoderms." 
-> - **Character 559 in "early gnathostome phylogeny github".**
+> - This character is applicable only to taxa possessing a sliding neck joint. In petalichthyids, ptyctodonts, and *Panjiangosteus*, the visceral surface of the paranuchal plate bears a ventral laminar ridge. The lateral surface of this ridge forms the articular surface, resulting in a vertical contact between the skull roof and the trunk shield. By contrast, in actinolepidoids, some acanthothoracids, phyllolepids, and *Entelognathus*, the ventral laminar ridge is absent, and the ventral surface of the paranuchal plate forms the articular surface, resulting in a horizontal sliding contact between the skull roof and the trunk shield. 
 
 117.  Ventral laminar ridge (mesial articular process in Liu, 1991) flank the articular fossas mesially on the visceral surface of the skull roof: (0) absent; (1) present.
 > Modified from Zhu Y. et al. (2019), character 378.
+
+> - **Character 559 in "early gnathostome phylogeny github".**
+> - For a detailed discussion, see Character 116 (presence of a ventral laminar ridge). The presence of a ventral laminar ridge does not necessarily correspond to a vertical sliding neck joint. In some ptyctodonts, such as *Austroptyctodus* and *Materpiscis*, although the ventral laminar ridge is present, the articular surface is located on its posterior surface.
 
 118.  Ventral laminar ridge angles: nearly parallel to the midline of the head shield (0), oblique to the midline of the head shield (1). 
 > Pan et al. (in prep.) for *Yipetalichthys*.
